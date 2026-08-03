@@ -31,6 +31,8 @@ jobs:
         run: node src/main.js
 
       - name: Commit updated feed + images
+        env:
+          GH_PUSH_TOKEN: ${{ secrets.GH_PUSH_TOKEN }}
         run: |
           git config user.name "ai-news-bot"
           git config user.email "actions@users.noreply.github.com"
@@ -39,5 +41,5 @@ jobs:
             echo "no changes"
           else
             git commit -m "chore: update curated feed $(date -u +%Y-%m-%dT%H:%MZ)"
-            git push
+            git push https://x-access-token:${GH_PUSH_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
           fi
