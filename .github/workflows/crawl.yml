@@ -7,6 +7,8 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: crawl
@@ -31,8 +33,6 @@ jobs:
         run: node src/main.js
 
       - name: Commit updated feed + images
-        env:
-          GH_PUSH_TOKEN: ${{ secrets.GH_PUSH_TOKEN }}
         run: |
           git config user.name "ai-news-bot"
           git config user.email "actions@users.noreply.github.com"
@@ -41,5 +41,21 @@ jobs:
             echo "no changes"
           else
             git commit -m "chore: update curated feed $(date -u +%Y-%m-%dT%H:%MZ)"
-            git push https://x-access-token:${GH_PUSH_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
+            git push
           fi
+
+  deploy:
+    needs: crawl
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+      - uses: actions/deploy-pages@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
