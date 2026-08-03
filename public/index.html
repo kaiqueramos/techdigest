@@ -233,7 +233,7 @@ function dayLabel(ts) {
 function imgUrl(it) {
   if (!it.img) return '';
   // local image path (stored in repo) wins; legacy remote prompt as fallback
-  if (it.img.charAt(0) === '/') return it.img;
+  if (it.img.indexOf('.jpg') !== -1) return it.img;
   const seed = (it.urlHash || it.title || 'x').slice(0, 8);
   return 'https://image.pollinations.ai/prompt/' + encodeURIComponent(it.img) +
     '?width=720&height=360&nologo=true&seed=' + seed;

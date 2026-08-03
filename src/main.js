@@ -50,7 +50,7 @@ async function downloadImages(items) {
       try {
         const buf = await generateImage(it.img);
         await writeFile(dest, buf);
-        it.img = `/img/${it.urlHash}.jpg`; // store local path
+        it.img = `img/${it.urlHash}.jpg`; // relative path — works on subpath hosting
         ok++;
       } catch {
         // keep previous img (or empty) on failure; never kill the run
@@ -63,7 +63,7 @@ async function downloadImages(items) {
 
 // delete images no longer referenced by the kept window
 async function pruneImages(kept) {
-  const referenced = new Set(kept.map((n) => n.img && n.img.startsWith('/img/') ? n.img.slice(5) : null).filter(Boolean));
+  const referenced = new Set(kept.map((n) => n.img && n.img.endsWith('.jpg') ? n.img.split('/').pop() : null).filter(Boolean));
   let files;
   try {
     files = await readdir(IMG_DIR);
