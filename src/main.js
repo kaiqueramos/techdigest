@@ -94,7 +94,7 @@ export async function run() {
   // seen hashes from existing (kept within window) to dedup across runs
   const seenHashes = new Set();
   for (const n of existing) {
-    if (n.ts >= cutoff) {
+    if ((n.addedTs || n.ts) >= cutoff) {
       if (n.urlHash) seenHashes.add(n.urlHash);
       if (n.titleHash) seenHashes.add(n.titleHash);
     }
@@ -135,14 +135,15 @@ export async function run() {
       tags: r.tags,
       img: r.img || '',
       ts: r.item.ts,
+      addedTs: Math.round(now),
       urlHash: r.item.urlHash,
       titleHash: r.item.titleHash,
     }));
 
   const imgOk = await downloadImages(added);
 
-  const merged = [...added, ...existing].filter((n) => n.ts >= cutoff).slice(0, MAX_ITEMS);
-  merged.sort((a, b) => b.score - a.score);
+  const merged = [...added, ...existing].filter((n) => (n.addedTs || n.ts) >= cutoff).slice(0, MAX_ITEMS);
+  merged.sort((a, b) => (b.addedTs || b.ts) - (a.addedTs || a.ts));
   await pruneImages(merged);
 
   console.log(`added ${added.length} (${imgOk} imgs), total ${merged.length}`);

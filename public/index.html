@@ -148,7 +148,6 @@
   <div class="inner">
     <h1>Tech<span class="dot">Digest</span></h1>
     <div class="right">
-      <div class="meta" id="meta">carregando…</div>
       <button class="icon" id="searchBtn" type="button" aria-label="Buscar">🔍</button>
       <button class="lang" id="lang" type="button" aria-label="Switch language">EN</button>
     </div>
@@ -176,7 +175,6 @@
 </div>
 <script>
 const feed = document.getElementById('feed');
-const meta = document.getElementById('meta');
 const footer = document.getElementById('footer');
 const langBtn = document.getElementById('lang');
 const search = document.getElementById('search');
@@ -219,16 +217,6 @@ function esc(s) {
   });
 }
 
-function dayLabel(ts) {
-  const d = new Date(ts * 1000);
-  const now = new Date();
-  const startToday = new Date(now.getFullYear(), now.getMonth(), now.getDate()).getTime();
-  const startItem = new Date(d.getFullYear(), d.getMonth(), d.getDate()).getTime();
-  const diff = (startToday - startItem) / 86400000;
-  if (diff === 0) return 'Hoje';
-  if (diff === 1) return 'Ontem';
-  return d.toLocaleDateString('pt-BR', { day: '2-digit', month: 'short' });
-}
 
 function imgUrl(it) {
   if (!it.img) return '';
@@ -244,7 +232,7 @@ function renderCard(it, idx) {
   const tags = (it.tags || []).slice(0, 3).map(function (t) {
     return '<a class="tag" data-tag="' + esc(t) + '">' + esc(t) + '</a>';
   }).join('');
-  const when = new Date(it.ts * 1000).toLocaleTimeString(I18N[lang].other, { hour: '2-digit', minute: '2-digit' });
+  const when = new Date((it.addedTs || it.ts) * 1000).toLocaleTimeString(I18N[lang].other, { hour: '2-digit', minute: '2-digit' });
   const title = lang === 'pt' && it.titlePt ? it.titlePt : it.title;
   const reason = lang === 'en' && it.reasonEn ? it.reasonEn : it.reason;
   const img = imgUrl(it)
@@ -263,7 +251,7 @@ function openModal(it) {
   const title = lang === 'pt' && it.titlePt ? it.titlePt : it.title;
   const reason = lang === 'en' && it.reasonEn ? it.reasonEn : it.reason;
   const sources = (it.sources && it.sources.length ? it.sources : [it.source]).join(', ');
-  const when = new Date(it.ts * 1000).toLocaleString(I18N[lang].other, { day: '2-digit', month: 'short', hour: '2-digit', minute: '2-digit' });
+  const when = new Date((it.addedTs || it.ts) * 1000).toLocaleString(I18N[lang].other, { day: '2-digit', month: 'short', hour: '2-digit', minute: '2-digit' });
   modalImg.src = imgUrl(it) || '';
   modalTitle.textContent = title;
   modalTitle.href = it.url;
@@ -325,7 +313,7 @@ function groupedHtml(list, startIdx) {
   let cur = null;
   for (let k = 0; k < list.length; k++) {
     const it = list[k];
-    const g = dayLabel(it.ts);
+    const g = dayLabel(it.addedTs || it.ts);
     if (!cur || cur.label !== g) { cur = { label: g, items: [] }; groups.push(cur); }
     cur.items.push({ it: it, idx: startIdx + k });
   }
@@ -376,7 +364,6 @@ function reRenderAll() {
   render();
   observeImgs();
   updateFilterUI();
-  meta.textContent = getFiltered().length + ' ' + I18N[lang].meta;
 }
 
 function observeImgs() {
@@ -397,7 +384,6 @@ async function load() {
     const res = await fetch('news.json?t=' + Date.now());
     const data = await res.json();
     items = data;
-    meta.textContent = items.length + ' ' + I18N[lang].meta;
     feed.innerHTML = '';
     render();
     observeImgs();
