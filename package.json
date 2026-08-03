@@ -1,0 +1,14 @@
+{
+  "name": "ai-news-doom",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Curated AI news feed — fetched, ranked and deduped by MiniMax-M3, served via GitHub Pages.",
+  "scripts": {
+    "crawl": "node src/main.js",
+    "fetch": "node src/fetch.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TechDigest — o resumo tech do momento</title>
+<meta name="description" content="Notícias tech curadas em 1-3 frases. Sem enrolação, atualizado a cada 2h.">
+<style>
+  :root { color-scheme: dark; }
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body {
+    margin: 0; background: #0c0c10; color: #e8e8ee;
+    font: 16px/1.6 -apple-system, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+  ::selection { background: rgba(124,92,255,.25); }
+
+  /* header */
+  header {
+    position: sticky; top: 0; z-index: 10;
+    background: rgba(12,12,16,.82); backdrop-filter: blur(14px);
+    border-bottom: 1px solid rgba(255,255,255,.06);
+  }
+  header .inner {
+    max-width: 680px; margin: 0 auto; padding: 18px 24px;
+    display: flex; align-items: baseline; justify-content: space-between; gap: 16px;
+  }
+  header h1 {
+    margin: 0; font-size: 19px; font-weight: 700; letter-spacing: -.02em;
+  }
+  header h1 .dot { color: #7c5cff; }
+  header .meta { font-size: 12px; color: #8b8b9a; font-variant-numeric: tabular-nums; }
+  header .searchrow { max-width: 680px; margin: 0 auto; padding: 0 24px 14px; display: none; }
+  header .searchrow.open { display: block; }
+  header .searchrow input {
+    width: 100%; background: rgba(255,255,255,.05); border: 1px solid rgba(255,255,255,.1);
+    color: #e8e8ee; font: 14px/1 inherit; padding: 9px 14px; border-radius: 10px; outline: none;
+    transition: border-color .15s;
+  }
+  header .searchrow input:focus { border-color: rgba(124,92,255,.5); }
+  header .right { display: flex; align-items: center; gap: 12px; }
+  button.lang {
+    background: rgba(255,255,255,.05); border: 1px solid rgba(255,255,255,.12); color: #b8b8c8;
+    font: 600 11px/1 inherit; padding: 4px 10px; border-radius: 20px; cursor: pointer;
+    transition: background .15s, border-color .15s, color .15s;
+  }
+  button.lang:hover { background: rgba(124,92,255,.15); border-color: rgba(124,92,255,.4); color: #e8e8ee; }
+  button.icon {
+    background: rgba(255,255,255,.05); border: 1px solid rgba(255,255,255,.12); color: #b8b8c8;
+    width: 30px; height: 30px; border-radius: 50%; cursor: pointer; font-size: 13px; line-height: 1;
+    display: inline-flex; align-items: center; justify-content: center; transition: background .15s, border-color .15s;
+  }
+  button.icon:hover { background: rgba(124,92,255,.15); border-color: rgba(124,92,255,.4); color: #e8e8ee; }
+
+  main { max-width: 680px; margin: 0 auto; padding: 8px 24px 120px; }
+
+  /* day groups */
+  .group { margin-top: 34px; }
+  .group:first-child { margin-top: 20px; }
+  .group h2 {
+    font-size: 11px; font-weight: 600; letter-spacing: .14em; text-transform: uppercase;
+    color: #6f6f80; margin: 0 0 4px; padding-left: 2px;
+  }
+
+  /* cards */
+  .card {
+    background: #14141c; border: 1px solid rgba(255,255,255,.06); border-radius: 16px;
+    padding: 0; margin: 0 0 18px; overflow: hidden;
+    transition: transform .18s ease, border-color .18s ease, box-shadow .18s ease;
+  }
+  .card:hover { transform: translateY(-2px); border-color: rgba(124,92,255,.35); box-shadow: 0 10px 30px rgba(0,0,0,.35); }
+  .card .thumb {
+    width: 100%; aspect-ratio: 16/8; object-fit: cover; display: block;
+    background: linear-gradient(135deg, #1a1a26, #23233a);
+  }
+  .card .body { padding: 16px 20px 18px; }
+  .card h3 {
+    margin: 0 0 6px; font-size: 17px; font-weight: 600; line-height: 1.35; letter-spacing: -.01em;
+  }
+  .card h3 a { color: #e8e8ee; text-decoration: none; transition: color .15s; }
+  .card h3 a:hover { color: #7c5cff; }
+  .card .reason { color: #a8a8b8; font-size: 14.5px; margin: 0 0 8px; }
+  .card .meta {
+    font-size: 12px; color: #6f6f80; display: flex; align-items: center; gap: 8px; flex-wrap: wrap;
+  }
+  .card .meta .sources { color: #8b8b9a; }
+  .card .meta .sources::before { content: "· "; color: #5a5a6a; }
+  .tag { color: #6f6f80; font-size: 11px; cursor: pointer; text-decoration: none; transition: color .15s; }
+  .tag:hover { color: #7c5cff; }
+  .tag::before { content: "#"; }
+  .filter {
+    display: inline-flex; align-items: center; gap: 8px; background: rgba(124,92,255,.15);
+    border: 1px solid rgba(124,92,255,.4); color: #c9b8ff; font-size: 12px;
+    padding: 4px 10px; border-radius: 20px; margin-bottom: 14px;
+  }
+  .filter button { background: none; border: none; color: #c9b8ff; cursor: pointer; font-size: 13px; padding: 0; }
+
+  .empty { text-align: center; color: #8b8b9a; padding: 90px 0; }
+  .loader { text-align: center; color: #6f6f80; padding: 90px 0; }
+
+  /* modal */
+  .overlay {
+    position: fixed; inset: 0; z-index: 50; background: rgba(8,8,12,.72);
+    backdrop-filter: blur(6px); display: flex; align-items: center; justify-content: center;
+    padding: 24px; opacity: 0; pointer-events: none; transition: opacity .2s ease;
+  }
+  .overlay.open { opacity: 1; pointer-events: auto; }
+  .modal {
+    background: #16161f; border: 1px solid rgba(255,255,255,.1); border-radius: 18px;
+    max-width: 640px; width: 100%; max-height: 86vh; overflow: auto;
+    box-shadow: 0 30px 80px rgba(0,0,0,.6); transform: translateY(12px); transition: transform .2s ease;
+  }
+  .overlay.open .modal { transform: none; }
+  .modal .thumb { width: 100%; aspect-ratio: 16/8; object-fit: cover; display: block;
+    background: linear-gradient(135deg, #1a1a26, #23233a); }
+  .modal .body { padding: 22px 26px 26px; }
+  .modal .close { position: absolute; top: 14px; right: 14px; z-index: 2;
+    background: rgba(12,12,16,.6); border: 1px solid rgba(255,255,255,.15); color: #d8d8e2;
+    width: 34px; height: 34px; border-radius: 50%; font-size: 16px; cursor: pointer; }
+  .modal .close:hover { background: rgba(124,92,255,.3); }
+  .modal h2 { margin: 0 0 10px; font-size: 21px; line-height: 1.3; letter-spacing: -.01em; }
+  .modal h2 a { color: #e8e8ee; text-decoration: none; }
+  .modal h2 a:hover { color: #7c5cff; }
+  .modal .reason { color: #b6b6c4; font-size: 15.5px; line-height: 1.65; margin: 0 0 16px; }
+  .modal .meta { font-size: 12.5px; color: #8b8b9a; display: flex; gap: 10px; flex-wrap: wrap; align-items: center; margin-bottom: 18px; }
+  .modal .go {
+    display: inline-flex; align-items: center; gap: 8px; background: #7c5cff; color: #fff;
+    text-decoration: none; font-weight: 600; font-size: 14px; padding: 10px 18px; border-radius: 10px;
+    transition: background .15s;
+  }
+  .modal .go:hover { background: #6a4bef; }
+  .modal .go::after { content: "↗"; }
+
+  /* subtle entrance */
+  .card { animation: rise .35s ease both; }
+  @keyframes rise { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+
+  footer {
+    max-width: 680px; margin: 0 auto; padding: 0 24px 40px;
+    font-size: 12px; color: #5a5a6a; text-align: center;
+  }
+</style>
+</head>
+<body>
+<header>
+  <div class="inner">
+    <h1>Tech<span class="dot">Digest</span></h1>
+    <div class="right">
+      <div class="meta" id="meta">carregando…</div>
+      <button class="icon" id="searchBtn" type="button" aria-label="Buscar">🔍</button>
+      <button class="lang" id="lang" type="button" aria-label="Switch language">EN</button>
+    </div>
+  </div>
+  <div class="searchrow" id="searchRow">
+    <input id="search" type="search" placeholder="buscar por tag ou palavra…" autocomplete="off">
+  </div>
+</header>
+<main>
+  <div id="filter" class="filter" style="display:none"></div>
+  <div id="feed"><div class="loader">carregando…</div></div>
+</main>
+<footer id="footer">Curadoria automática · atualizado a cada 2h</footer>
+<div class="overlay" id="overlay" hidden>
+  <div class="modal" role="dialog" aria-modal="true">
+    <button class="close" id="modalClose" type="button" aria-label="Fechar">✕</button>
+    <img class="thumb" id="modalImg" alt="">
+    <div class="body">
+      <h2><a id="modalTitle" href="#" target="_blank" rel="noopener"></a></h2>
+      <p class="reason" id="modalReason"></p>
+      <div class="meta" id="modalMeta"></div>
+      <a class="go" id="modalGo" href="#" target="_blank" rel="noopener">Ver notícia original</a>
+    </div>
+  </div>
+</div>
+<script>
+const feed = document.getElementById('feed');
+const meta = document.getElementById('meta');
+const footer = document.getElementById('footer');
+const langBtn = document.getElementById('lang');
+const search = document.getElementById('search');
+const searchRow = document.getElementById('searchRow');
+const searchBtn = document.getElementById('searchBtn');
+const filterEl = document.getElementById('filter');
+let activeTag = null;
+let query = '';
+const overlay = document.getElementById('overlay');
+const modalClose = document.getElementById('modalClose');
+const modalImg = document.getElementById('modalImg');
+const modalTitle = document.getElementById('modalTitle');
+const modalReason = document.getElementById('modalReason');
+const modalMeta = document.getElementById('modalMeta');
+const modalGo = document.getElementById('modalGo');
+let items = [];
+let shown = 0;
+const PAGE = 20;
+let lang = localStorage.getItem('td-lang') || 'pt';
+
+const I18N = {
+  pt: { loading: 'carregando…', empty: 'falha ao carregar notícias', meta: 'notícias · a cada 2h', footer: 'Curadoria automática · atualizado a cada 2h', today: 'Hoje', yesterday: 'Ontem', sources: 'fontes', close: 'Fechar', go: 'Ver notícia original', search: 'buscar por tag ou palavra…', tag: 'tag', clear: 'limpar', other: 'pt-BR' },
+  en: { loading: 'loading…', empty: 'failed to load news', meta: 'stories · every 2h', footer: 'Automatic curation · updated every 2h', today: 'Today', yesterday: 'Yesterday', sources: 'sources', close: 'Close', go: 'Read original article', search: 'search by tag or keyword…', tag: 'tag', clear: 'clear', other: 'en-US' },
+};
+
+function dayLabel(ts) {
+  const d = new Date(ts * 1000);
+  const now = new Date();
+  const startToday = new Date(now.getFullYear(), now.getMonth(), now.getDate()).getTime();
+  const startItem = new Date(d.getFullYear(), d.getMonth(), d.getDate()).getTime();
+  const diff = (startToday - startItem) / 86400000;
+  if (diff === 0) return I18N[lang].today;
+  if (diff === 1) return I18N[lang].yesterday;
+  return d.toLocaleDateString(I18N[lang].other, { day: '2-digit', month: 'short' });
+}
+
+function esc(s) {
+  return String(s).replace(/[&<>"']/g, function (c) {
+    return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+  });
+}
+
+function dayLabel(ts) {
+  const d = new Date(ts * 1000);
+  const now = new Date();
+  const startToday = new Date(now.getFullYear(), now.getMonth(), now.getDate()).getTime();
+  const startItem = new Date(d.getFullYear(), d.getMonth(), d.getDate()).getTime();
+  const diff = (startToday - startItem) / 86400000;
+  if (diff === 0) return 'Hoje';
+  if (diff === 1) return 'Ontem';
+  return d.toLocaleDateString('pt-BR', { day: '2-digit', month: 'short' });
+}
+
+function imgUrl(it) {
+  if (!it.img) return '';
+  // local image path (stored in repo) wins; legacy remote prompt as fallback
+  if (it.img.charAt(0) === '/') return it.img;
+  const seed = (it.urlHash || it.title || 'x').slice(0, 8);
+  return 'https://image.pollinations.ai/prompt/' + encodeURIComponent(it.img) +
+    '?width=720&height=360&nologo=true&seed=' + seed;
+}
+
+function renderCard(it, idx) {
+  const sources = (it.sources && it.sources.length ? it.sources : [it.source]).join(', ');
+  const tags = (it.tags || []).slice(0, 3).map(function (t) {
+    return '<a class="tag" data-tag="' + esc(t) + '">' + esc(t) + '</a>';
+  }).join('');
+  const when = new Date(it.ts * 1000).toLocaleTimeString(I18N[lang].other, { hour: '2-digit', minute: '2-digit' });
+  const title = lang === 'pt' && it.titlePt ? it.titlePt : it.title;
+  const reason = lang === 'en' && it.reasonEn ? it.reasonEn : it.reason;
+  const img = imgUrl(it)
+    ? '<img class="thumb" data-src="' + esc(imgUrl(it)) + '" alt="" loading="lazy" decoding="async">'
+    : '';
+  return '<article class="card" data-idx="' + idx + '" role="button" tabindex="0" aria-label="' + esc(title) + '">' + img +
+    '<div class="body">' +
+      '<h3>' + esc(title) + '</h3>' +
+      '<p class="reason">' + esc(reason) + '</p>' +
+      '<div class="meta">' + tags + '<span class="sources">' + esc(sources) + '</span> <span>' + when + '</span></div>' +
+    '</div>' +
+  '</article>';
+}
+
+function openModal(it) {
+  const title = lang === 'pt' && it.titlePt ? it.titlePt : it.title;
+  const reason = lang === 'en' && it.reasonEn ? it.reasonEn : it.reason;
+  const sources = (it.sources && it.sources.length ? it.sources : [it.source]).join(', ');
+  const when = new Date(it.ts * 1000).toLocaleString(I18N[lang].other, { day: '2-digit', month: 'short', hour: '2-digit', minute: '2-digit' });
+  modalImg.src = imgUrl(it) || '';
+  modalTitle.textContent = title;
+  modalTitle.href = it.url;
+  const tagHtml = (it.tags || []).slice(0, 4).map(function (t) { return '<a class="tag" data-tag="' + esc(t) + '">' + esc(t) + '</a>'; }).join('');
+  modalReason.textContent = reason;
+  modalMeta.innerHTML = tagHtml + '<span class="sources">' + esc(I18N[lang].sources) + ': ' + esc(sources) + '</span> <span>' + when + '</span>';
+  modalGo.href = it.url;
+  modalGo.textContent = I18N[lang].go;
+  modalClose.setAttribute('aria-label', I18N[lang].close);
+  overlay.hidden = false;
+  requestAnimationFrame(function () { overlay.classList.add('open'); });
+  document.body.style.overflow = 'hidden';
+}
+
+function closeModal() {
+  overlay.classList.remove('open');
+  overlay.hidden = true;
+  document.body.style.overflow = '';
+}
+
+modalClose.addEventListener('click', closeModal);
+overlay.addEventListener('click', function (e) { if (e.target === overlay) closeModal(); });
+document.addEventListener('keydown', function (e) { if (e.key === 'Escape') closeModal(); });
+document.addEventListener('click', function (e) {
+  const tag = e.target.closest('a[data-tag]');
+  if (tag) {
+    e.preventDefault();
+    activeTag = tag.dataset.tag;
+    closeModal();
+    reRenderAll();
+    return;
+  }
+  const card = e.target.closest('.card');
+  if (card && !e.target.closest('a')) openModal(getFiltered()[Number(card.dataset.idx)]);
+});
+
+let searchTimer;
+searchBtn.addEventListener('click', function () {
+  const open = searchRow.classList.toggle('open');
+  if (open) search.focus();
+  else { search.value = ''; query = ''; reRenderAll(); }
+});
+search.addEventListener('input', function () {
+  clearTimeout(searchTimer);
+  searchTimer = setTimeout(function () {
+    query = search.value.trim();
+    reRenderAll();
+  }, 200);
+});
+feed.addEventListener('keydown', function (e) {
+  if (e.key === 'Enter' || e.key === ' ') {
+    const card = e.target.closest('.card');
+    if (card) { e.preventDefault(); openModal(items[Number(card.dataset.idx)]); }
+  }
+});
+
+function groupedHtml(list, startIdx) {
+  const groups = [];
+  let cur = null;
+  for (let k = 0; k < list.length; k++) {
+    const it = list[k];
+    const g = dayLabel(it.ts);
+    if (!cur || cur.label !== g) { cur = { label: g, items: [] }; groups.push(cur); }
+    cur.items.push({ it: it, idx: startIdx + k });
+  }
+  return groups.map(function (grp) {
+    return '<div class="group"><h2>' + grp.label + '</h2>' +
+      grp.items.map(function (e) { return renderCard(e.it, e.idx); }).join('') + '</div>';
+  }).join('');
+}
+
+function getFiltered() {
+  let list = items;
+  if (activeTag) list = list.filter(function (it) { return (it.tags || []).indexOf(activeTag) !== -1; });
+  if (query) {
+    const q = query.toLowerCase();
+    list = list.filter(function (it) {
+      return (it.title + ' ' + (it.reason || '') + ' ' + (it.reasonEn || '') + ' ' + (it.tags || []).join(' ')).toLowerCase().indexOf(q) !== -1;
+    });
+  }
+  return list;
+}
+
+function render() {
+  const list = getFiltered();
+  const slice = list.slice(shown, shown + PAGE);
+  if (!slice.length) return;
+  const startIdx = shown;
+  shown += slice.length;
+  feed.insertAdjacentHTML('beforeend', groupedHtml(slice, startIdx));
+}
+
+function updateFilterUI() {
+  if (activeTag) {
+    filterEl.style.display = 'inline-flex';
+    filterEl.innerHTML = I18N[lang].tag + ': <b>' + esc(activeTag) + '</b> <button type="button" id="clearFilter" aria-label="' + esc(I18N[lang].clear) + '">✕</button>';
+    document.getElementById('clearFilter').addEventListener('click', function () {
+      activeTag = null;
+      search.value = ''; query = '';
+      reRenderAll();
+    });
+  } else {
+    filterEl.style.display = 'none';
+  }
+}
+
+function reRenderAll() {
+  shown = 0;
+  feed.innerHTML = '';
+  render();
+  observeImgs();
+  updateFilterUI();
+  meta.textContent = getFiltered().length + ' ' + I18N[lang].meta;
+}
+
+function observeImgs() {
+  feed.querySelectorAll('img.thumb[data-src]').forEach(function (img) { io.observe(img); });
+}
+
+const io = new IntersectionObserver(function (entries) {
+  for (const e of entries) {
+    if (e.isIntersecting) {
+      e.target.src = e.target.dataset.src;
+      io.unobserve(e.target);
+    }
+  }
+}, { rootMargin: '300px' });
+
+async function load() {
+  try {
+    const res = await fetch('news.json?t=' + Date.now());
+    const data = await res.json();
+    items = data;
+    meta.textContent = items.length + ' ' + I18N[lang].meta;
+    feed.innerHTML = '';
+    render();
+    observeImgs();
+    updateFilterUI();
+  } catch (e) {
+    feed.innerHTML = '<div class="empty">' + I18N[lang].empty + '</div>';
+    console.error(e);
+  }
+}
+
+function applyLang() {
+  langBtn.textContent = lang === 'pt' ? 'EN' : 'PT';
+  footer.textContent = I18N[lang].footer;
+  search.placeholder = I18N[lang].search;
+  document.documentElement.lang = lang === 'pt' ? 'pt-BR' : 'en';
+  if (!items.length) return;
+  reRenderAll();
+}
+
+langBtn.addEventListener('click', function () {
+  lang = lang === 'pt' ? 'en' : 'pt';
+  localStorage.setItem('td-lang', lang);
+  applyLang();
+});
+
+applyLang();
+
+window.addEventListener('scroll', function () {
+  if (window.innerHeight + window.scrollY >= document.body.offsetHeight - 600) {
+    render();
+    observeImgs();
+  }
+}, { passive: true });
+
+load();
+</script>
+</body>
+</html>
