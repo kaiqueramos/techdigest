@@ -1,5 +1,6 @@
 // Fetch feeds, normalize, and dedup cheaply (URL hash + normalized-title hash).
 // Semantic dedup happens later in rank.js (LLM). This is the cheap pre-pass.
+import { createHash } from 'node:crypto';
 import { FEEDS, KEYWORDS, PER_FEED } from './feeds.js';
 
 const UA = 'ai-news-curator/1.0 (+https://github.com/karramos)';
@@ -15,11 +16,7 @@ const norm = (s) =>
     .filter((w) => w.length > 1 && !['the', 'and', 'for', 'with', 'from', 'that', 'this', 'are', 'was', 'has', 'new', 'how', 'what'].includes(w))
     .join(' ');
 
-const hash = (s) => {
-  let h = 0;
-  for (let i = 0; i < s.length; i++) h = (Math.imul(31, h) + s.charCodeAt(i)) | 0;
-  return (h >>> 0).toString(36);
-};
+const hash = (s) => createHash('sha256').update(s).digest('hex').slice(0, 12);
 
 // parse both RSS (<item>) and Atom (<entry>) feeds; Atom link is an element with href attr
 function parseFeed(xml) {
