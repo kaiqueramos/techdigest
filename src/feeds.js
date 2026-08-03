@@ -10,6 +10,8 @@ export const FEEDS = [
   { name: 'MIT Tech Review', type: 'rss', url: 'https://www.technologyreview.com/feed/' },
   { name: 'HuggingFace', type: 'rss', url: 'https://huggingface.co/blog/feed.xml' },
   { name: 'Google AI', type: 'rss', url: 'https://blog.google/technology/ai/rss/' },
+  { name: 'OpenAI', type: 'rss', url: 'https://openai.com/news/rss.xml' },
+  { name: 'ProductHunt', type: 'rss', url: 'https://www.producthunt.com/feed' },
 ];
 
 // per-feed cap (newest N) — bounds the LLM batch and drops huge feeds

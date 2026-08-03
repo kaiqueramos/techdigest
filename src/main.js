@@ -109,10 +109,17 @@ export async function run() {
     return { added: 0, total: existing.length };
   }
 
-  const ranked = await rankItems(fresh);
+  // titles already in the JSON — let the LLM catch same-story rewordings (cheap pre-dedup
+  // only compares hashes; this closes that gap)
+  const publishedTitles = existing
+    .filter((n) => (n.addedTs || n.ts) >= cutoff)
+    .map((n) => n.title)
+    .slice(0, 30);
+
+  const ranked = await rankItems(fresh, publishedTitles);
 
   // drop items that are duplicates of a canonical entry within this batch
-  const canonical = ranked.filter((r) => !r.dupOf);
+  const canonical = ranked.filter((r) => !r.dupOf && !r.alreadyCovered);
   const sourceOf = new Map();
   for (const r of ranked) {
     if (r.dupOf) {
@@ -122,7 +129,7 @@ export async function run() {
   }
 
   const added = canonical
-    .filter((r) => r.score >= 0.3) // low bar: keep the noise out but stay generous
+    .filter((r) => r.score >= Number(process.env.SCORE_MIN || 0.5))
     .map((r) => ({
       title: r.item.title,
       titlePt: r.titlePt || '',
