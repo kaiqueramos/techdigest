@@ -151,6 +151,14 @@
   }
   .modal .go:hover { background: #6a4bef; }
   .modal .go::after { content: "↗"; }
+  .modal-actions { display: flex; gap: 10px; flex-wrap: wrap; }
+  .modal .share {
+    display: inline-flex; align-items: center; gap: 8px;
+    background: rgba(255,255,255,.06); border: 1px solid rgba(255,255,255,.14); color: #d8d8e2;
+    font: 600 14px/1 inherit; padding: 10px 18px; border-radius: 10px; cursor: pointer;
+    transition: background .15s, border-color .15s, color .15s;
+  }
+  .modal .share:hover { background: rgba(124,92,255,.18); border-color: rgba(124,92,255,.45); color: #fff; }
 
   /* subtle entrance */
   .card { animation: rise .35s ease both; }
@@ -191,7 +199,10 @@
       <h2><a id="modalTitle" href="#" target="_blank" rel="noopener"></a></h2>
       <p class="reason" id="modalReason"></p>
       <div class="meta" id="modalMeta"></div>
-      <a class="go" id="modalGo" href="#" target="_blank" rel="noopener">Ver notícia original</a>
+      <div class="modal-actions">
+        <a class="go" id="modalGo" href="#" target="_blank" rel="noopener">Ver notícia original</a>
+        <button class="share" id="modalShare" type="button">Compartilhar</button>
+      </div>
     </div>
   </div>
 </div>
@@ -214,14 +225,16 @@ const modalTitle = document.getElementById('modalTitle');
 const modalReason = document.getElementById('modalReason');
 const modalMeta = document.getElementById('modalMeta');
 const modalGo = document.getElementById('modalGo');
+const modalShare = document.getElementById('modalShare');
+let modalHash = null;
 let items = [];
 let shown = 0;
 const PAGE = 20;
 let lang = localStorage.getItem('td-lang') || 'pt';
 
 const I18N = {
-  pt: { loading: 'carregando…', empty: 'falha ao carregar notícias', meta: 'notícias · a cada 2h', footer: 'Curadoria automática · atualizado a cada 2h', today: 'Hoje', yesterday: 'Ontem', sources: 'fontes', close: 'Fechar', go: 'Ver notícia original', search: 'buscar por tag ou palavra…', tag: 'tag', clear: 'limpar', isNew: 'novo', other: 'pt-BR' },
-  en: { loading: 'loading…', empty: 'failed to load news', meta: 'stories · every 2h', footer: 'Automatic curation · updated every 2h', today: 'Today', yesterday: 'Yesterday', sources: 'sources', close: 'Close', go: 'Read original article', search: 'search by tag or keyword…', tag: 'tag', clear: 'clear', isNew: 'new', other: 'en-US' },
+  pt: { loading: 'carregando…', empty: 'falha ao carregar notícias', meta: 'notícias · a cada 2h', footer: 'Curadoria automática · atualizado a cada 2h', today: 'Hoje', yesterday: 'Ontem', sources: 'fontes', close: 'Fechar', go: 'Ver notícia original', search: 'buscar por tag ou palavra…', tag: 'tag', clear: 'limpar', isNew: 'novo', share: 'Compartilhar', copied: 'Link copiado!', other: 'pt-BR' },
+  en: { loading: 'loading…', empty: 'failed to load news', meta: 'stories · every 2h', footer: 'Automatic curation · updated every 2h', today: 'Today', yesterday: 'Yesterday', sources: 'sources', close: 'Close', go: 'Read original article', search: 'search by tag or keyword…', tag: 'tag', clear: 'clear', isNew: 'new', share: 'Share', copied: 'Link copied!', other: 'en-US' },
 };
 
 function dayLabel(ts) {
@@ -276,7 +289,8 @@ function renderCard(it, idx) {
   '</article>';
 }
 
-function openModal(it) {
+function openModal(it, setHash) {
+  modalHash = it.urlHash || null;
   const title = lang === 'pt' && it.titlePt ? it.titlePt : it.title;
   const reason = lang === 'en' && it.reasonEn ? it.reasonEn : it.reason;
   const sources = (it.sources && it.sources.length ? it.sources : [it.source]).join(', ');
@@ -290,21 +304,63 @@ function openModal(it) {
   modalMeta.innerHTML = modalBadge + tagHtml + '<span class="sources">' + esc(I18N[lang].sources) + ': ' + esc(sources) + '</span> <span>' + when + '</span>';
   modalGo.href = it.url;
   modalGo.textContent = I18N[lang].go;
+  modalShare.textContent = I18N[lang].share;
   modalClose.setAttribute('aria-label', I18N[lang].close);
   overlay.hidden = false;
   requestAnimationFrame(function () { overlay.classList.add('open'); });
   document.body.style.overflow = 'hidden';
+  if (setHash && modalHash && location.hash !== '#' + modalHash) location.hash = modalHash;
 }
 
-function closeModal() {
+function closeModal(clearHash) {
   overlay.classList.remove('open');
   overlay.hidden = true;
   document.body.style.overflow = '';
+  modalHash = null;
+  if (clearHash !== false && location.hash) {
+    history.replaceState(null, '', location.pathname + location.search);
+  }
 }
 
 modalClose.addEventListener('click', closeModal);
 overlay.addEventListener('click', function (e) { if (e.target === overlay) closeModal(); });
 document.addEventListener('keydown', function (e) { if (e.key === 'Escape') closeModal(); });
+
+function findByHash(h) {
+  for (const it of items) if (it.urlHash === h) return it;
+  return null;
+}
+
+window.addEventListener('hashchange', function () {
+  const h = location.hash.slice(1);
+  if (!h) {
+    if (!overlay.hidden) closeModal(false);
+    return;
+  }
+  if (h === modalHash) return;
+  const it = findByHash(h);
+  if (it) openModal(it, false);
+});
+
+modalShare.addEventListener('click', async function () {
+  const url = location.origin + location.pathname + (modalHash ? '#' + modalHash : '');
+  if (navigator.share) {
+    try { await navigator.share({ title: modalTitle.textContent, url: url }); } catch (e) {}
+    return;
+  }
+  try {
+    await navigator.clipboard.writeText(url);
+  } catch (e) {
+    const ta = document.createElement('textarea');
+    ta.value = url;
+    document.body.appendChild(ta);
+    ta.select();
+    document.execCommand('copy');
+    ta.remove();
+  }
+  modalShare.textContent = I18N[lang].copied;
+  setTimeout(function () { modalShare.textContent = I18N[lang].share; }, 1600);
+});
 document.addEventListener('click', function (e) {
   const tag = e.target.closest('a[data-tag]');
   if (tag) {
@@ -315,7 +371,7 @@ document.addEventListener('click', function (e) {
     return;
   }
   const card = e.target.closest('.card');
-  if (card && !e.target.closest('a')) openModal(getFiltered()[Number(card.dataset.idx)]);
+  if (card && !e.target.closest('a')) openModal(getFiltered()[Number(card.dataset.idx)], true);
 });
 
 let searchTimer;
@@ -385,7 +441,7 @@ search.addEventListener('keydown', function (e) {
 feed.addEventListener('keydown', function (e) {
   if (e.key === 'Enter' || e.key === ' ') {
     const card = e.target.closest('.card');
-    if (card) { e.preventDefault(); openModal(items[Number(card.dataset.idx)]); }
+    if (card) { e.preventDefault(); openModal(getFiltered()[Number(card.dataset.idx)], true); }
   }
 });
 
@@ -470,6 +526,11 @@ async function load() {
     render();
     observeImgs();
     updateFilterUI();
+    const h = location.hash.slice(1);
+    if (h) {
+      const it = findByHash(h);
+      if (it) openModal(it, false);
+    }
   } catch (e) {
     feed.innerHTML = '<div class="empty">' + I18N[lang].empty + '</div>';
     console.error(e);
