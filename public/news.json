@@ -1,5 +1,378 @@
 [
   {
+    "title": "LFM2.5-2.6B: On-Device Agents",
+    "titlePt": "LFM2.5-2.6B: agentes de IA direto no dispositivo",
+    "url": "https://www.liquid.ai/models",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Liquid AI lançou o modelo LFM2.5-2.6B, pensado para rodar agentes de IA localmente em dispositivos, sem depender da nuvem. O modelo é leve o suficiente para rodar em hardware comum e foca em tarefas agentivas. Desenvolvedores interessados em privacidade, baixa latência e menor custo de inferência devem prestar atenção, já que viabiliza assistentes e fluxos autônomos no próprio aparelho do usuário.",
+    "reasonEn": "Liquid AI launched the LFM2.5-2.6B model, designed to run AI agents locally on devices without cloud dependency. The model is lightweight enough to run on common hardware and focuses on agentic tasks. Developers interested in privacy, low latency, and lower inference costs should pay attention, since it enables assistants and autonomous workflows directly on the user's device.",
+    "score": 0.7,
+    "tags": [
+      "modelo",
+      "lançamento",
+      "on-device"
+    ],
+    "img": "img/a1baf56da7ec.jpg",
+    "ts": 1785877236,
+    "addedTs": 1785877361,
+    "urlHash": "a1baf56da7ec",
+    "titleHash": "be322f835cfe"
+  },
+  {
+    "title": "Bypassing AI guardrails is so easy a script kiddie can do it",
+    "titlePt": "Driblar barreiras de IA é tão fácil que qualquer iniciante consegue",
+    "url": "https://www.theregister.com/security/2026/08/04/bypassing-ai-guardrails-is-so-easy-a-script-kiddie-can-do-it/5282973",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um estudo recente mostra que burlar os filtros de segurança de sistemas de IA ficou ridiculamente simples, com técnicas aplicáveis por qualquer pessoa com pouca experiência. Ataques básicos de prompt injection e manipulação já atravessam os principais modelos comerciais. Isso preocupa empresas que usam IA em atendimento, moderação e suporte, porque a proteção atual é praticamente simbólica.",
+    "reasonEn": "A recent study shows that bypassing AI safety filters has become ridiculously easy, with techniques anyone with minimal experience can apply. Basic prompt injection and manipulation attacks already get through major commercial models. This worries companies using AI in customer service, moderation, and support, because current protection is essentially symbolic.",
+    "score": 0.7,
+    "tags": [
+      "segurança",
+      "jailbreak",
+      "modelo"
+    ],
+    "img": "img/e35a6ef38e10.jpg",
+    "ts": 1785877174,
+    "addedTs": 1785877361,
+    "urlHash": "e35a6ef38e10",
+    "titleHash": "fed665bef224"
+  },
+  {
+    "title": "Show HN: Watchfire, an open-source control room for AI coding agents",
+    "titlePt": "Watchfire: sala de controle open source para agentes de código",
+    "url": "https://github.com/watchfire-io/watchfire",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um desenvolvedor publicou no Hacker News o Watchfire, painel open source para acompanhar e coordenar múltiplos agentes de programação. A ferramenta dá visibilidade sobre o que cada agente está fazendo, evitando que se atropelem ou gerem código conflitante. Ajuda times que já usam assistentes de codificação em paralelo e precisam de supervisão centralizada.",
+    "reasonEn": "A developer posted Watchfire on Hacker News, an open-source dashboard to monitor and coordinate multiple coding agents. The tool provides visibility into what each agent is doing, preventing them from stepping on each other or generating conflicting code. It helps teams already running coding assistants in parallel who need centralized oversight.",
+    "score": 0.6,
+    "tags": [
+      "open-source",
+      "agentes",
+      "devtools"
+    ],
+    "img": "img/d71481445c10.jpg",
+    "ts": 1785877048,
+    "addedTs": 1785877361,
+    "urlHash": "d71481445c10",
+    "titleHash": "51277ec9e8a6"
+  },
+  {
+    "title": "AAFlow: Scalable Patterns for Agentic AI Workflows",
+    "titlePt": "AAFlow: padrões escaláveis para fluxos agentivos de IA",
+    "url": "https://arxiv.org/abs/2605.02162",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "AAFlow é um novo conjunto de padrões para organizar fluxos de trabalho com agentes de IA em escala. Ajuda a estruturar tarefas complexas dividindo-as em etapas repetíveis e observáveis. Útil para times saindo da fase de protótipos e precisando de algo mais robusto em produção.",
+    "reasonEn": "AAFlow is a new set of patterns for organizing AI agent workflows at scale. It helps structure complex tasks by breaking them into repeatable and observable steps. Useful for teams moving beyond prototypes who need something more robust in production.",
+    "score": 0.6,
+    "tags": [
+      "agentes",
+      "framework",
+      "arquitetura"
+    ],
+    "img": "img/2e1a92f01017.jpg",
+    "ts": 1785875644,
+    "addedTs": 1785877361,
+    "urlHash": "2e1a92f01017",
+    "titleHash": "b64b98b91cfa"
+  },
+  {
+    "title": "AgentRails – a safety layer for AI agents that take real actions",
+    "titlePt": "AgentRails: camada de segurança para agentes que agem no mundo real",
+    "url": "https://github.com/Kratos-Analytics-LLC/AgentRails",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "AgentRails é uma camada de segurança criada para agentes de IA que executam ações reais, como clicar, pagar e enviar mensagens. Adiciona checagens de permissão, logs de auditoria e limites de risco antes de cada ação. É relevante para empresas deployando agentes com poder de mexer em sistemas externos, onde um erro pode causar prejuízo financeiro ou vazamento de dados.",
+    "reasonEn": "AgentRails is a safety layer built for AI agents that perform real actions like clicking, paying, and sending messages. It adds permission checks, audit logs, and risk limits before each action. It is relevant for companies deploying agents with power to touch external systems, where an error can cause financial loss or data leaks.",
+    "score": 0.7,
+    "tags": [
+      "segurança",
+      "agentes",
+      "devtools"
+    ],
+    "img": "img/e32d30d65408.jpg",
+    "ts": 1785875316,
+    "addedTs": 1785877361,
+    "urlHash": "e32d30d65408",
+    "titleHash": "a736c362be8d"
+  },
+  {
+    "title": "Should You Use AI for a Task? Here's a Simple Way to Decide",
+    "titlePt": "Devo usar IA nesta tarefa? Um jeito simples de decidir",
+    "url": "https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo propõe um framework simples para decidir quando vale a pena usar IA em uma tarefa. Sugere considerar o custo de erro, a disponibilidade de dados e se a tarefa é repetitiva. Conteúdo prático para profissionais sobrecarregados com promessas de IA em tudo e que querem filtrar o que realmente vale.",
+    "reasonEn": "The article proposes a simple framework for deciding when it is worth using AI for a task. It suggests considering the cost of error, data availability, and whether the task is repetitive. Practical content for professionals overwhelmed by AI promises everywhere who want to filter what really matters.",
+    "score": 0.5,
+    "tags": [
+      "produtividade",
+      "estratégia"
+    ],
+    "img": "img/386408277132.jpg",
+    "ts": 1785874849,
+    "addedTs": 1785877361,
+    "urlHash": "386408277132",
+    "titleHash": "4fb0781f32fb"
+  },
+  {
+    "title": "AI Writes the Code, but Humans Can't Review It All. Now What?",
+    "titlePt": "IA escreve o código, mas humanos não conseguem revisar tudo. E agora?",
+    "url": "https://www.sylvainkalache.com/blog/ai-writes-the-code-but-humans-cant-review-it-all",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo discute o problema crescente da revisão de código gerado por IA: o volume produzido supera a capacidade humana de auditar tudo com cuidado. Sugere práticas como revisão por amostragem, testes rigorosos e métricas de confiança no código gerado. Leitura essencial para líderes de engenharia que estão escalando o uso de IA em seus times.",
+    "reasonEn": "The article discusses the growing problem of reviewing AI-generated code: the volume produced exceeds human capacity to audit everything carefully. It suggests practices like sampling-based review, rigorous testing, and confidence metrics on generated code. Essential reading for engineering leaders scaling AI use in their teams.",
+    "score": 0.8,
+    "tags": [
+      "engenharia",
+      "qualidade",
+      "agentes"
+    ],
+    "img": "img/2828a005229a.jpg",
+    "ts": 1785874657,
+    "addedTs": 1785877361,
+    "urlHash": "2828a005229a",
+    "titleHash": "89934d83bf85"
+  },
+  {
+    "title": "Open Source Is Hobbling Itself over Generative AI",
+    "titlePt": "Open source está se sabotando por causa da IA generativa",
+    "url": "https://heronsperch.blogspot.com/2026/08/open-source-is-hobbling-itself-over.html",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto argumenta que o movimento open source está perdendo força por tensões internas em torno de IA generativa, com divergências sobre licenças, treinamento de modelos e uso de dados. Comunidades se fragmentam entre pró e contra IA. Leitura importante para entender as brigas filosóficas que podem moldar o futuro do software livre.",
+    "reasonEn": "The text argues that the open source movement is losing strength due to internal tensions around generative AI, with disagreements about licenses, model training, and data use. Communities are fragmenting between pro and anti-AI camps. Important reading to understand the philosophical battles that may shape the future of free software.",
+    "score": 0.6,
+    "tags": [
+      "open-source",
+      "regulação",
+      "polêmica"
+    ],
+    "img": "img/46ef3b2fb29e.jpg",
+    "ts": 1785874382,
+    "addedTs": 1785877361,
+    "urlHash": "46ef3b2fb29e",
+    "titleHash": "aed45b2817e8"
+  },
+  {
+    "title": "Show HN: My tool scanned 256 AI-built apps and most had exposed credentials",
+    "titlePt": "Ferramenta vasculha 256 apps feitos com IA e acha credenciais expostas",
+    "url": "https://necktochoke.com/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um desenvolvedor mostrou no Hacker News que analisou 256 aplicações criadas com auxílio de IA e descobriu que a maioria tinha credenciais sensíveis expostas, como chaves de API em repositórios públicos. O achado expõe um problema sério: geradores de código muitas vezes incluem segredos de exemplo que desenvolvedores inexperientes copiam para produção. Alerta importante para quem está deployando apps gerados por IA.",
+    "reasonEn": "A developer showed on Hacker News that he analyzed 256 AI-assisted applications and found most had sensitive credentials exposed, such as API keys in public repositories. The finding exposes a serious problem: code generators often include example secrets that inexperienced developers copy into production. An important warning for anyone deploying AI-generated apps.",
+    "score": 0.8,
+    "tags": [
+      "segurança",
+      "agentes",
+      "pesquisa"
+    ],
+    "img": "img/5c20d51fe1a5.jpg",
+    "ts": 1785874365,
+    "addedTs": 1785877361,
+    "urlHash": "5c20d51fe1a5",
+    "titleHash": "8a1fb96dac85"
+  },
+  {
+    "title": "Open-weight AI models are catching up to the frontier. The safety gap remains. ",
+    "titlePt": "Modelos open-weight se aproximam da fronteira, mas segurança fica para trás",
+    "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "Modelos de IA de pesos abertos estão alcançando o desempenho dos melhores modelos fechados, mas as práticas de segurança e avaliação não acompanham o mesmo ritmo. Enquanto empresas investem pesado em red teaming e filtros, modelos abertos frequentemente lançam sem essas camadas. Preocupa pesquisadores que defendem regulação e desenvolvedores que constroem produtos sobre esses modelos.",
+    "reasonEn": "Open-weight AI models are catching up to the performance of the best closed models, but safety and evaluation practices are not keeping the same pace. While companies invest heavily in red teaming and filters, open models often launch without these layers. This concerns researchers advocating for regulation and developers building products on top of these models.",
+    "score": 0.8,
+    "tags": [
+      "modelo",
+      "segurança",
+      "open-source"
+    ],
+    "img": "img/d5514a287675.jpg",
+    "ts": 1785873926,
+    "addedTs": 1785877361,
+    "urlHash": "d5514a287675",
+    "titleHash": "2539e243326c"
+  },
+  {
+    "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+    "titlePt": "Anthropic fecha acordo de US$ 10 bi com a startup de nuvem Volta",
+    "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A Anthropic fechou um acordo bilionário de US$ 10 bilhões com a Volta, uma startup de nuvem focada em inteligência artificial. O movimento mostra como a Anthropic está investindo pesado em infraestrutura própria para treinar e rodar seus modelos. O setor todo fica de olho porque isso pode mudar o equilíbrio de poder com Microsoft, Google e Amazon. Para usuários e empresas, o efeito prático pode ser mais capacidade computacional e novos produtos da Anthropic nos próximos meses.",
+    "reasonEn": "Anthropic has signed a massive $10 billion deal with Volta, an AI-focused cloud startup. The move signals Anthropic's push to secure dedicated infrastructure for training and running its models. It could shift the balance of power among major AI cloud providers like Microsoft, Google, and Amazon. For users and businesses, this likely means more compute capacity and faster product rollouts from Anthropic.",
+    "score": 0.88,
+    "tags": [
+      "anthropic",
+      "deal",
+      "infraestrutura"
+    ],
+    "img": "img/887d924577fd.jpg",
+    "ts": 1785872920,
+    "addedTs": 1785877361,
+    "urlHash": "887d924577fd",
+    "titleHash": "7386461d645f"
+  },
+  {
+    "title": "Nvidia doesn&#8217;t mess around: A week after open AI industry group formed, it&#8217;s already showing progress",
+    "titlePt": "Nvidia já mostra resultado uma semana após criar grupo aberto de IA",
+    "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "Poucos dias após lançar um consórcio aberto do setor de IA, a Nvidia já apresenta progresso concreto com novos parceiros e testes. A Nvidia está tentando moldar os padrões da indústria a seu favor, oferecendo chips e ferramentas de referência. A decisão importa porque define quais frameworks, modelos e práticas vão virar padrão no mercado. Desenvolvedores e empresas devem acompanhar para saber em qual stack investir.",
+    "reasonEn": "Just a week after launching an open AI industry group, Nvidia is already showing tangible progress with new partners and pilots. The company is clearly trying to shape industry standards around its hardware and software stack. This matters because it influences which frameworks and best practices become mainstream. Developers and businesses should watch closely to decide where to invest.",
+    "score": 0.72,
+    "tags": [
+      "nvidia",
+      "padrões",
+      "indústria"
+    ],
+    "img": "img/3cc1d075abd4.jpg",
+    "ts": 1785871729,
+    "addedTs": 1785877361,
+    "urlHash": "3cc1d075abd4",
+    "titleHash": "87f21be4e692"
+  },
+  {
+    "title": "Third-party cyber evaluations involving OpenAI models",
+    "titlePt": "OpenAI submete modelos a avaliações cibernéticas de terceiros",
+    "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "A OpenAI abriu seus modelos para testes independentes de segurança cibernética feitos por empresas externas. A ideia é descobrir falhas antes que hackers e descobrir até onde os modelos podem ser usados para ataques. É um movimento importante de transparência em um setor que costuma esconder problemas. Usuários corporativos ganham mais confiança, mas vulnerabilidades reais podem aparecer.",
+    "reasonEn": "OpenAI has opened its models to independent cybersecurity evaluations by third-party firms. The goal is to find flaws before attackers do and measure how the models could be misused. It is a notable transparency move in an industry that often hides issues. Enterprise users get more confidence, but real vulnerabilities could also surface.",
+    "score": 0.6,
+    "tags": [
+      "openai",
+      "segurança",
+      "avaliação"
+    ],
+    "img": "img/c99ec862b4e7.jpg",
+    "ts": 1785870000,
+    "addedTs": 1785877361,
+    "urlHash": "c99ec862b4e7",
+    "titleHash": "8fb25f065c5a"
+  },
+  {
+    "title": "How an OpenAI influencer trip backfired ",
+    "titlePt": "Como uma viagem de influenciadores da OpenAI deu errado",
+    "url": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "A OpenAI levou influenciadores para uma viagem paga que terminou em controvérsia e críticas públicas. Participantes e espectadores reclamaram de promoção disfarçada e de um tom fora de tom com o momento da empresa. É mais um capítulo da disputa da OpenAI por imagem pública diante da concorrência. Pode manchar a reputação e atrapalhar futuras campanhas de marketing da empresa.",
+    "reasonEn": "OpenAI organized a paid influencer trip that ended in backlash and public criticism. Participants and viewers complained about disguised promotion and tone-deaf messaging. It is another chapter in OpenAI's ongoing struggle to manage its public image. The episode could hurt the brand and complicate future marketing efforts.",
+    "score": 0.5,
+    "tags": [
+      "openai",
+      "marketing",
+      "reputação"
+    ],
+    "img": "img/8a853907275a.jpg",
+    "ts": 1785867371,
+    "addedTs": 1785877361,
+    "urlHash": "8a853907275a",
+    "titleHash": "c9f7ea27faa7"
+  },
+  {
+    "title": "‘Not healthy’ LLM use is more common than you think",
+    "titlePt": "Uso 'não saudável' de chatbots é mais comum do que se imagina",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "Um novo estudo mostra que uma parcela significativa de pessoas usa modelos de linguagem de forma considerada não saudável, como dependência emocional ou substituição de relações humanas. O trabalho alerta profissionais de saúde mental e desenvolvedores sobre riscos pouco discutidos. Plataformas como ChatGPT, Claude e Gemini podem precisar ajustar políticas e avisos. É um tema que afeta qualquer pessoa que use essas ferramentas no dia a dia.",
+    "reasonEn": "A new study finds that a meaningful share of people use LLMs in ways researchers classify as unhealthy, such as emotional dependency or replacing human relationships. The work is a wake-up call for mental health professionals and AI developers. Major chatbot platforms may need to update their policies and safety prompts. It is relevant to anyone who uses these tools regularly.",
+    "score": 0.62,
+    "tags": [
+      "saúde",
+      "estudo",
+      "llm"
+    ],
+    "img": "img/4bfbf86462cb.jpg",
+    "ts": 1785864826,
+    "addedTs": 1785877361,
+    "urlHash": "4bfbf86462cb",
+    "titleHash": "fe35656a12e9"
+  },
+  {
+    "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+    "titlePt": "Gestão de GPUs: GPUs ociosas são o novo avião parado em terra",
+    "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "O artigo compara GPUs ociosas em data centers com aviões parados no chão: ativos caríssimos que perdem valor sem uso. A Hugging Face mostra técnicas para identificar GPUs mal alocadas e melhorar o uso. É leitura muito útil para engenheiros de plataforma e times de MLOps. Pode gerar economia real em infraestrutura de IA.",
+    "reasonEn": "The piece compares idle GPUs in data centers to grounded aircraft: expensive assets that lose value when unused. Hugging Face shares techniques to spot poorly allocated GPUs and improve utilization. It is highly useful reading for platform engineers and MLOps teams. It can drive real savings in AI infrastructure.",
+    "score": 0.55,
+    "tags": [
+      "gpu",
+      "infraestrutura",
+      "mlops"
+    ],
+    "img": "img/859cdcef3df0.jpg",
+    "ts": 1785424149,
+    "addedTs": 1785877361,
+    "urlHash": "859cdcef3df0",
+    "titleHash": "e3fcab220175"
+  },
+  {
+    "title": "Advancing the price-performance frontier with GPT-5.6",
+    "titlePt": "OpenAI avança na fronteira de preço e desempenho com o GPT-5.6",
+    "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "A OpenAI anunciou o GPT-5.6, nova versão do seu modelo principal, com melhor relação entre custo e desempenho. A empresa afirma ganhos em raciocínio, código e tarefas longas, além de preços mais competitivos. O lançamento afeta diretamente quem usa a API e empresas que montam produtos sobre OpenAI. Concorrentes como Anthropic e Google devem reagir rapidamente.",
+    "reasonEn": "OpenAI has announced GPT-5.6, a new version of its flagship model with a better price-performance ratio. The company reports gains in reasoning, coding, and long-context tasks, with more competitive pricing. The release directly impacts API users and companies building on OpenAI. Competitors like Anthropic and Google will likely respond quickly.",
+    "score": 0.92,
+    "tags": [
+      "openai",
+      "modelo",
+      "lançamento"
+    ],
+    "img": "img/dca7adc62d79.jpg",
+    "ts": 1785405600,
+    "addedTs": 1785877361,
+    "urlHash": "dca7adc62d79",
+    "titleHash": "2dd9d48c263f"
+  },
+  {
     "title": "Mixture-of-Kittens: An MoE training megakernel for NVL72",
     "titlePt": "Mixture-of-Kittens: megakernel MoE para treinar em NVL72",
     "url": "https://twitter.com/cursor_ai/status/2084670806613737919",
