@@ -168,6 +168,39 @@
     max-width: 680px; margin: 0 auto; padding: 0 24px 40px;
     font-size: 12px; color: #5a5a6a; text-align: center;
   }
+
+  body { background: radial-gradient(1200px 600px at 70% -10%, rgba(124,92,255,.16), transparent), #0a0a0f; }
+
+  .reason.hook { border-left: 3px solid #7c5cff; padding-left: 12px; font-weight: 600; color: #dcdcec; font-size: 15px; }
+
+  /* tema claro — jornal (v5) */
+  .light body { background: #f6f3ec; color: #1a1a1a; font-family: Georgia, 'Times New Roman', serif; }
+  .light header { background: rgba(246,243,236,.92); border-bottom: 2px solid #1a1a1a; }
+  .light header .searchrow input { background: #fff; color: #1a1a1a; border-color: #1a1a1a; }
+  .light .card { background: transparent; border: none; border-top: 1px solid #1a1a1a; border-radius: 0; animation: none; }
+  .light .card:hover { transform: none; box-shadow: none; background: rgba(0,0,0,.03); }
+  .light .card .thumb, .light .modal .thumb { display: none; }
+  .light .card h3 a { background: none; -webkit-background-clip: initial; background-clip: initial; -webkit-text-fill-color: #1a1a1a; }
+  .light .card h3 a:hover { text-decoration: underline; }
+  .light .reason, .light .reason.hook { color: #454545; }
+  .light .reason.hook { border-left-color: #7c5cff; }
+  .light .card .meta, .light .tag { color: #6b6b6b; }
+  .light .group h2 { color: #1a1a1a; border-bottom: 1px solid #c9c2b4; padding-bottom: 6px; }
+  .light .badge-new { background: #1a1a1a; border-radius: 2px; box-shadow: none; animation: none; }
+  .light button.lang, .light button.icon { color: #1a1a1a; border-color: #1a1a1a; background: transparent; border-radius: 2px; box-shadow: none; }
+  .light .suggest { background: #fff; border-color: #1a1a1a; border-radius: 0; }
+  .light .suggest button { color: #1a1a1a; }
+  .light .suggest button:hover, .light .suggest button.active { background: rgba(0,0,0,.06); color: #000; }
+  .light .filter { background: #1a1a1a; border-color: #1a1a1a; color: #f6f3ec; border-radius: 2px; }
+  .light .filter button { color: #f6f3ec; }
+  .light footer, .light .loader, .light .empty { color: #8a8378; }
+  .light .modal { background: #f6f3ec; border-color: #1a1a1a; }
+  .light .modal h2 a { color: #1a1a1a; }
+  .light .modal .reason { color: #333; }
+  .light .modal .meta { color: #6b6b6b; }
+  .light .modal .close { background: #f6f3ec; color: #1a1a1a; border-color: #1a1a1a; }
+  .light .go { border-radius: 2px; }
+  .light .dot { animation: none; text-shadow: none; }
 </style>
 </head>
 <body>
@@ -175,6 +208,7 @@
   <div class="inner">
     <h1>Tech<span class="dot">Digest</span></h1>
     <div class="right">
+      <button class="icon" id="themeBtn" type="button" aria-label="Tema">☀</button>
       <button class="icon" id="searchBtn" type="button" aria-label="Buscar">🔍</button>
       <button class="lang" id="lang" type="button" aria-label="Switch language">EN</button>
     </div>
@@ -259,6 +293,11 @@ function isNew(it) {
   return !!it.addedTs && it.addedTs * 1000 > Date.now() - 4 * 3600 * 1000;
 }
 
+function firstSentence(s) {
+  const m = String(s || '').match(/[^.!?]+[.!?]/);
+  return m ? m[0].trim() : s;
+}
+
 function imgUrl(it) {
   if (!it.img) return '';
   // local image path (stored in repo) wins; legacy remote prompt as fallback
@@ -283,7 +322,7 @@ function renderCard(it, idx) {
   return '<article class="card" data-idx="' + idx + '" role="button" tabindex="0" aria-label="' + esc(title) + '">' + img +
     '<div class="body">' +
       '<h3>' + badge + esc(title) + '</h3>' +
-      '<p class="reason">' + esc(reason) + '</p>' +
+      '<p class="reason hook">' + esc(firstSentence(reason)) + '</p>' +
       '<div class="meta">' + tags + '<span class="sources">' + esc(sources) + '</span> <span>' + when + '</span></div>' +
     '</div>' +
   '</article>';
@@ -551,6 +590,19 @@ langBtn.addEventListener('click', function () {
   localStorage.setItem('td-lang', lang);
   applyLang();
 });
+
+const themeBtn = document.getElementById('themeBtn');
+let theme = localStorage.getItem('td-theme') || 'dark';
+function applyTheme() {
+  document.documentElement.classList.toggle('light', theme === 'light');
+  themeBtn.textContent = theme === 'light' ? '☾' : '☀';
+}
+themeBtn.addEventListener('click', function () {
+  theme = theme === 'light' ? 'dark' : 'light';
+  localStorage.setItem('td-theme', theme);
+  applyTheme();
+});
+applyTheme();
 
 applyLang();
 
