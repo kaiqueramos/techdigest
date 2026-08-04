@@ -1,5 +1,265 @@
 [
   {
+    "title": "AI-assisted staging draws boos at the Richard Wagner festival in Germany",
+    "titlePt": "IA no palco: Festival de Wagner recebe vaias por encenação com IA",
+    "url": "https://apnews.com/article/germany-bayreuth-wagner-festival-ai-f4300cdc0be195dabdadfa6d2ab4254c",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "No tradicional Festival de Richard Wagner, na Alemanha, uma produção que usou inteligência artificial para gerar cenários foi recebida com vaias do público. O caso reacende o debate sobre o uso de IA em artes cênicas e o risco de perda do toque humano. Profissionais do teatro e das artes precisam pensar em como integrar a tecnologia sem desagradar a audiência. O episódio mostra que a aceitação cultural da IA varia muito mesmo em contextos de elite.",
+    "reasonEn": "At Germany's prestigious Richard Wagner Festival, a stage production that used AI-generated visuals was booed by the audience. The incident reignites debate about AI in the performing arts and the risk of losing a human touch. Artists and producers need to think carefully about how to integrate AI without alienating viewers. The episode shows that cultural acceptance of AI varies widely, even in elite venues.",
+    "score": 0.5,
+    "tags": [
+      "cultura",
+      "ia-generativa",
+      "teatro"
+    ],
+    "img": "img/c69751726da5.jpg",
+    "ts": 1785816698,
+    "addedTs": 1785819327,
+    "urlHash": "c69751726da5",
+    "titleHash": "6823c68954a9"
+  },
+  {
+    "title": "Reasoning in Real World Clinical Care: Why Large Language Models Are Not Yet Safe for Autonomous Clinical Decision Support",
+    "titlePt": "LLMs ainda não são seguros para decisões clínicas autônomas",
+    "url": "https://arxiv.org/abs/2607.28677",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "O artigo avalia o uso de grandes modelos de linguagem em apoio à decisão clínica e conclui que eles ainda não são seguros para operar de forma autônoma em ambientes reais de saúde. Profissionais da área médica e pacientes são diretamente afetados, já que há pressão para adotar IA em hospitais. O estudo serve como alerta para não confiar cegamente em LLMs em decisões críticas de vida.",
+    "reasonEn": "The paper evaluates LLMs in clinical decision support and concludes they are not yet safe for autonomous use in real healthcare settings. Doctors and patients are directly affected, as hospitals face pressure to adopt AI. The study warns against blindly trusting LLMs in life-critical decisions.",
+    "score": 0.7,
+    "tags": [
+      "saúde",
+      "segurança",
+      "pesquisa"
+    ],
+    "img": "img/35ccb17012f5.jpg",
+    "ts": 1785816000,
+    "addedTs": 1785819327,
+    "urlHash": "35ccb17012f5",
+    "titleHash": "2c96686295b6"
+  },
+  {
+    "title": "Safety, or Just Capability? A Validity Audit of Agent-Safety Benchmarks",
+    "titlePt": "Segurança de agentes de IA: auditoria mostra falhas nos benchmarks",
+    "url": "https://arxiv.org/abs/2607.28685",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "O artigo faz uma auditoria de benchmarks usados para medir segurança em agentes de IA e conclui que muitos medem mais capacidade do que segurança real. O achado é importante porque benchmarks defeituosos podem dar falsa sensação de proteção. Profissionais e pesquisadores que dependem desses testes precisam repensar métricas.",
+    "reasonEn": "The paper audits benchmarks used to measure AI agent safety and finds many measure capability more than real safety. The finding matters because flawed benchmarks can give a false sense of protection. Professionals and researchers relying on these tests need to rethink metrics.",
+    "score": 0.6,
+    "tags": [
+      "segurança",
+      "benchmark",
+      "agentes"
+    ],
+    "img": "img/360c6ea52c34.jpg",
+    "ts": 1785816000,
+    "addedTs": 1785819327,
+    "urlHash": "360c6ea52c34",
+    "titleHash": "8792747cf2a7"
+  },
+  {
+    "title": "Best Friends, Not Forever: Evaluating Long-Horizon Persona Collapse and Behavioral Drift in AI Companions",
+    "titlePt": "Companheiros de IA perdem a personalidade com o tempo, diz estudo",
+    "url": "https://arxiv.org/abs/2607.28818",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "Pesquisadores avaliaram companheiros de IA em conversas longas e descobriram que eles sofrem um colapso de persona e mudanças comportamentais após várias horas de interação. Os modelos tendem a repetir clichês, perder o tom original e até contradizer instruções anteriores. O problema afeta diretamente quem usa chatbots para companhia, suporte emocional ou tutoria. Para empresas que vendem experiências conversacionais, isso é um alerta sobre qualidade a longo prazo.",
+    "reasonEn": "Researchers tested AI companion products over long conversations and found that persona collapse and behavioral drift kick in after several hours of interaction. The models start repeating tropes, losing their initial tone, and even contradicting earlier instructions. This directly affects anyone who relies on chatbots for companionship, emotional support, or tutoring. For companies shipping conversational experiences, it is a quality warning over long horizons.",
+    "score": 0.55,
+    "tags": [
+      "pesquisa",
+      "chatbots",
+      "comportamento"
+    ],
+    "img": "img/eaaa4491b4b9.jpg",
+    "ts": 1785816000,
+    "addedTs": 1785819327,
+    "urlHash": "eaaa4491b4b9",
+    "titleHash": "f72329245dae"
+  },
+  {
+    "title": "The Youth AI Privacy Act's Privacy Paradox",
+    "titlePt": "Lei americana de privacidade para jovens tem dilema embutido",
+    "url": "https://www.eff.org/deeplinks/2026/08/youth-ai-privacy-acts-privacy-paradox",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Youth AI Privacy Act tenta proteger menores de idade da coleta de dados por sistemas de IA, mas críticos apontam que ela cria um paradoxo ao exigir verificação de idade que pode coletar ainda mais informações sensíveis. O texto está em discussão no Congresso dos EUA e pode virar referência para regulamentações em outros países. Para empresas que atendem adolescentes, é hora de mapear quais fluxos de onboarding podem ser afetados. O debate mostra como leis bem-intencionadas podem exigir designs cuidadosos.",
+    "reasonEn": "The Youth AI Privacy Act aims to shield minors from AI data collection, but critics warn it creates a paradox by forcing age verification that may gather even more sensitive information. The bill is being debated in the US Congress and could influence similar rules elsewhere. Companies serving teenagers should map out which onboarding flows might be affected. The debate shows how well-intentioned laws still demand careful product design.",
+    "score": 0.55,
+    "tags": [
+      "regulação",
+      "privacidade",
+      "EUA"
+    ],
+    "img": "img/b3989dcfb48b.jpg",
+    "ts": 1785815862,
+    "addedTs": 1785819327,
+    "urlHash": "b3989dcfb48b",
+    "titleHash": "a9b944a7975d"
+  },
+  {
+    "title": "The AI Boom Is Transforming the American Economy Beyond Recognition",
+    "titlePt": "Boom da IA transforma a economia americana em ritmo acelerado",
+    "url": "https://www.wsj.com/economy/the-ai-boom-is-transforming-the-american-economy-beyond-recognition-c7825b31",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo analisa como investimentos, vagas e produtividade ligados à IA estão reestruturando setores inteiros da economia dos Estados Unidos em poucos anos. Os números mostram concentração de capital em poucas empresas e efeitos colaterais em setores tradicionais. Para quem decide carreira ou investimentos, vale entender em quais áreas a IA já está criando ou destruindo demanda. É leitura importante para gestores e desenvolvedores pensando no médio prazo.",
+    "reasonEn": "The article analyzes how AI-linked investment, hiring, and productivity are reshaping entire sectors of the US economy within just a few years. The numbers point to capital concentration in a few firms and side effects in traditional industries. Anyone making career or investment decisions should track where AI is already creating or killing demand. It is essential reading for managers and developers thinking medium term.",
+    "score": 0.7,
+    "tags": [],
+    "img": "img/5a9b0ac34eac.jpg",
+    "ts": 1785813758,
+    "addedTs": 1785819327,
+    "urlHash": "5a9b0ac34eac",
+    "titleHash": "daeb273693d7"
+  },
+  {
+    "title": "AI Agent Ecosystem Trends 2026 H1: Analysis of 15K+ Agents Submission",
+    "titlePt": "Análise mapeia tendências do ecossistema de agentes de IA em 2026",
+    "url": "https://www.deepnlp.org/blog/ai-agent-marketplace-intelligence-report-2026-h1-trends-insights-ecosystem-analysis",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O estudo examinou mais de quinze mil submissões de agentes de IA no primeiro semestre de 2026 e identificou os padrões dominantes em frameworks, casos de uso e integrações. Agentes voltados para automação de escritório e codificação lideram, enquanto categorias criativas crescem rapidamente. Para quem está construindo ou investindo em agentes, é um bom panorama do que o mercado está validando. Ajuda a calibrar prioridades de produto e stack.",
+    "reasonEn": "The study analyzed more than fifteen thousand agent submissions in the first half of 2026 and spotted dominant patterns in frameworks, use cases, and integrations. Office automation and coding agents lead the pack while creative categories grow fast. Anyone building or investing in agents gets a useful snapshot of what the market is validating. It helps calibrate product and stack priorities.",
+    "score": 0.55,
+    "tags": [
+      "agentes",
+      "mercado",
+      "relatório"
+    ],
+    "img": "img/8ce8606578ad.jpg",
+    "ts": 1785812143,
+    "addedTs": 1785819327,
+    "urlHash": "8ce8606578ad",
+    "titleHash": "984e10f4de96"
+  },
+  {
+    "title": "Eval-driven development: Lessons from evaluating GenAI at scale",
+    "titlePt": "Lições práticas sobre avaliar IA generativa em escala",
+    "url": "https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo compartilha lições aprendidas ao montar pipelines de avaliação para sistemas generativos em produção, cobrindo desde métricas automáticas até revisão humana. Os autores defendem um ciclo chamado desenvolvimento dirigido por avaliação, com testes rodando de forma contínua no deploy. Para equipes operando GenAI em escala, é referência útil para evitar regressões silenciosas. Ajuda a justificar investimento em times de qualidade.",
+    "reasonEn": "The post shares lessons from building evaluation pipelines for generative systems in production, covering automated metrics and human review. The authors advocate for an eval-driven development loop with tests running continuously in deployment. For teams operating GenAI at scale, it is a useful reference to avoid silent regressions. It also helps justify investment in quality teams.",
+    "score": 0.7,
+    "tags": [
+      "engenharia",
+      "avaliação",
+      "qualidade"
+    ],
+    "img": "img/1cf69c4430a2.jpg",
+    "ts": 1785809373,
+    "addedTs": 1785819327,
+    "urlHash": "1cf69c4430a2",
+    "titleHash": "dd002cf6ab9a"
+  },
+  {
+    "title": "Influencers draw backlash for attending OpenAI&#8217;s first luxury trip",
+    "titlePt": "Influenciadores geram crítica ao participar de viagem de luxo da OpenAI",
+    "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "Um grupo de influenciadores digitais foi convidado para a primeira viagem de luxo promovida pela OpenAI e a reação nas redes foi negativa, com acusações de promoção fora do tom. O episódio expõe o esforço da empresa em ampliar marketing direto ao consumidor em um momento sensível do mercado. Para marcas menores, mostra o risco de associar imagem a eventos excessivos. Também afeta a percepção pública sobre a OpenAI.",
+    "reasonEn": "A group of online influencers was invited to OpenAI's first luxury trip and the reaction on social media turned negative, with accusations of tone-deaf promotion. The episode exposes the company's push for direct consumer marketing in a sensitive market moment. Smaller brands can learn from the reputational risk of flashy events. It also shapes public perception of OpenAI itself.",
+    "score": 0.5,
+    "tags": [
+      "openai",
+      "marketing",
+      "polêmica"
+    ],
+    "img": "img/36b848ebfe85.jpg",
+    "ts": 1785784196,
+    "addedTs": 1785819327,
+    "urlHash": "36b848ebfe85",
+    "titleHash": "05bed5ee9073"
+  },
+  {
+    "title": "Trump’s AI protectionism has come for robotics",
+    "titlePt": "Protecionismo de Trump em IA agora mira o setor de robótica",
+    "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+    "source": "MIT Tech Review",
+    "sources": [
+      "MIT Tech Review"
+    ],
+    "reason": "A política de proteção da indústria de IA nos Estados Unidos, antes restrita a chips e modelos, está sendo ampliada para incluir robótica e hardware avançado. O governo quer favorecer fabricantes nacionais e dificultar a importação de componentes chineses. Para empresas de robôs e automação, isso pode mudar preços e nos próximos meses. Vale rastrear impacto em fornecedores e parceiros internacionais.",
+    "reasonEn": "The Trump administration's AI protectionism, previously focused on chips and models, is expanding to include robotics and advanced hardware. The government wants to favor domestic manufacturers and slow imports of Chinese components. Companies in robotics and automation may see price and supply chain shifts in the coming months. It is worth tracking impact on suppliers and international partners.",
+    "score": 0.7,
+    "tags": [
+      "política",
+      "robótica",
+      "EUA"
+    ],
+    "img": "img/17cca23a6da3.jpg",
+    "ts": 1785782610,
+    "addedTs": 1785819327,
+    "urlHash": "17cca23a6da3",
+    "titleHash": "c2f919c8b3af"
+  },
+  {
+    "title": "Europe’s AI labeling and transparency rules are now in effect",
+    "titlePt": "Regras europeias de rotulagem e transparência em IA entram em vigor",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "As novas regras da União Europeia que obrigam sistemas de IA a informar usuários sobre seu uso e rotular conteúdo gerado por IA já estão valendo. Plataformas precisam destacar deepfakes, chatbots e automações, com multas pesadas para quem descumprir. Qualquer empresa atendendo consumidores europeus precisa revisar fluxos de divulgação e termos. É provavelmente a notícia mais importante desta semana para equipes de produto e jurídico.",
+    "reasonEn": "The European Union's new rules forcing AI systems to inform users about their use and label AI-generated content are now in effect. Platforms must flag deepfakes, chatbots, and automation, with heavy fines for non-compliance. Any company serving European consumers should review disclosure flows and terms. It is likely the most important story of the week for product and legal teams.",
+    "score": 0.85,
+    "tags": [
+      "regulação",
+      "Europa",
+      "transparência"
+    ],
+    "img": "img/43ffd8cfe889.jpg",
+    "ts": 1785779208,
+    "addedTs": 1785819327,
+    "urlHash": "43ffd8cfe889",
+    "titleHash": "cda0b1269db1"
+  },
+  {
+    "title": "Congress&#8217; favorite AI tool? ChatGPT",
+    "titlePt": "ChatGPT é a ferramenta de IA preferida do Congresso americano",
+    "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "Uma reportagem mostra que membros e equipes do Congresso dos Estados Unidos estão usando principalmente o ChatGPT para tarefas de trabalho, ao contrário da diversidade de fornecedores que se esperava. A centralização em uma única plataforma preocupa especialistas em soberania digital e segurança de dados. Para quem vende ou integra IA no setor público, isso é um sinal sobre barreiras de entrada e riscos competitivos. Tendência vale monitorar.",
+    "reasonEn": "A report shows that members and staff of the United States Congress are mainly using ChatGPT for work tasks, contrary to expectations of a diverse supplier landscape. The centralization on a single platform worries specialists in digital sovereignty and data security. For anyone selling or integrating AI in the public sector it is a signal about entry barriers and competitive risks. Worth monitoring.",
+    "score": 0.6,
+    "tags": [
+      "governo",
+      "chatgpt",
+      "política"
+    ],
+    "img": "img/60b0b1a035ad.jpg",
+    "ts": 1785775255,
+    "addedTs": 1785819327,
+    "urlHash": "60b0b1a035ad",
+    "titleHash": "7a43fbc964b3"
+  },
+  {
     "title": "AI Is Breaking the SaaS Deployment Model: 10 Commandments for BYOC",
     "titlePt": "IA está quebrando o modelo SaaS: 10 mandamentos para BYOC",
     "url": "https://byocanywhere.org/",
