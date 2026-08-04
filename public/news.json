@@ -1,5 +1,375 @@
 [
   {
+    "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+    "titlePt": "Execute agentes locais em qualquer lugar com LFM2.5-2.6B",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "A Liquid AI lançou no Hugging Face o modelo LFM2.5-2.6B, focado em rodar agentes de IA diretamente em dispositivos locais. O modelo foi otimizado para ser leve e rápido, permitindo executar automações sem depender da nuvem. A novidade interessa a desenvolvedores que querem reduzir custos com inferência e manter dados sensíveis no próprio hardware. É uma opção competitiva para quem precisa de agentes em laptops, celulares ou servidores modestos.",
+    "reasonEn": "Liquid AI released the LFM2.5-2.6B model on Hugging Face, focused on running AI agents directly on local devices. The model is optimized to be lightweight and fast, enabling automation without depending on the cloud. It interests developers who want to cut inference costs and keep sensitive data on their own hardware. It is a competitive option for anyone needing agents on laptops, phones, or modest servers.",
+    "score": 0.7,
+    "tags": [
+      "modelo",
+      "edge",
+      "agentes"
+    ],
+    "img": "img/aa21db80f8b7.jpg",
+    "ts": 1785851909,
+    "addedTs": 1785852112,
+    "urlHash": "aa21db80f8b7",
+    "titleHash": "52e69a33c8e9"
+  },
+  {
+    "title": "Lossless Inference",
+    "titlePt": "Inferência sem perdas para modelos de linguagem",
+    "url": "https://runinfra.ai/news/lossless-inference",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma discussão técnica no Hacker News aborda técnicas de inferência sem perdas, que buscam preservar a qualidade exata das respostas dos modelos ao reduzir custo computacional. O conteúdo explica métodos para evitar a degradação de saída comum em otimizações agressivas. É relevante para engenheiros que operam LLMs em produção e precisam equilibrar precisão e latência.",
+    "reasonEn": "A technical Hacker News discussion covers lossless inference techniques that aim to preserve the exact quality of model outputs while reducing compute cost. The content explains methods to avoid the output degradation common in aggressive optimizations. It is relevant for engineers running LLMs in production who need to balance accuracy and latency.",
+    "score": 0.65,
+    "tags": [
+      "inferência",
+      "desempenho",
+      "llm"
+    ],
+    "img": "img/45cb487e9538.jpg",
+    "ts": 1785851864,
+    "addedTs": 1785852112,
+    "urlHash": "45cb487e9538",
+    "titleHash": "e717c70563db"
+  },
+  {
+    "title": "Show HN: Gigacode – the model writes its own multi-agent workflow, then runs it",
+    "titlePt": "Gigacode: o próprio modelo escreve e executa um fluxo multiagente",
+    "url": "https://github.com/kolega-ai/kolega-code",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um projeto Show HN apresenta o Gigacode, sistema em que o modelo de linguagem descreve e roda um fluxo de trabalho multiagente de forma autônoma. A ideia é reduzir o trabalho manual de orquestração, deixando a IA decidir como dividir tarefas. Pode interessar a times que prototipam automações complexas, mas exige cuidado com confiabilidade e custos.",
+    "reasonEn": "A Show HN project presents Gigacode, a system where the language model itself writes and runs a multi-agent workflow autonomously. The idea is to cut manual orchestration work by letting the AI decide how to split tasks. It may interest teams prototyping complex automations, but reliability and cost concerns remain.",
+    "score": 0.55,
+    "tags": [
+      "agentes",
+      "automação",
+      "show-hn"
+    ],
+    "img": "img/308f72c1aeae.jpg",
+    "ts": 1785851329,
+    "addedTs": 1785852112,
+    "urlHash": "308f72c1aeae",
+    "titleHash": "a72d53c64bca"
+  },
+  {
+    "title": "I Phish My AI Agent, and You Should Too",
+    "titlePt": "Eu aplico phishing no meu agente de IA — e você deveria fazer o mesmo",
+    "url": "https://sveder.com/blog/i-phish-my-ai-agent-and-you-should-too/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um post defende que times devem testar agentes de IA simulando ataques de phishing, exatamente como fazem com colaboradores humanos. O argumento é que agentes que clicam em links maliciosos, vazam dados ou executam comandos indevidos já são uma realidade. A prática de red teaming contra agentes se torna uma camada essencial de segurança para empresas que automatizam tarefas com LLMs.",
+    "reasonEn": "A post argues that teams should test AI agents by simulating phishing attacks, just as they do with human employees. The point is that agents which click malicious links, leak data, or run unintended commands are already a reality. Red-teaming agents becomes an essential security layer for companies automating tasks with LLMs.",
+    "score": 0.7,
+    "tags": [
+      "segurança",
+      "agentes",
+      "red-team"
+    ],
+    "img": "img/17e76c99d2d5.jpg",
+    "ts": 1785851041,
+    "addedTs": 1785852112,
+    "urlHash": "17e76c99d2d5",
+    "titleHash": "9b3f0e9242f6"
+  },
+  {
+    "title": "AI slop pollutes the CVE pipeline with fake vulns",
+    "titlePt": "IA generativa entope o pipeline de CVEs com vulnerabilidades falsas",
+    "url": "https://www.theregister.com/security/2026/08/03/ai-slop-pollutes-the-cve-pipeline-with-fake-vulns/5282462",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Hacker News destaca que a crescente onda de conteúdo gerado por IA está poluindo o sistema global de identificação de vulnerabilidades, o CVE. Pesquisadores e mantenedores precisam triar relatos falsos, o que atrasa correções reais e diminui a confiança no sistema. O problema afeta diretamente equipes de segurança que dependem dos CVEs para priorização de patches. É um sinal claro de que o ecossistema de segurança precisa de novos mecanismos de validação.",
+    "reasonEn": "Hacker News highlights that the wave of AI-generated content is polluting the global CVE vulnerability identification pipeline. Researchers and maintainers must triage false reports, which delays real fixes and erodes trust in the system. The issue directly affects security teams that rely on CVEs to prioritize patches. It is a clear sign that the security ecosystem needs new validation mechanisms.",
+    "score": 0.85,
+    "tags": [
+      "segurança",
+      "cve",
+      "spam"
+    ],
+    "img": "img/307a6ff4f647.jpg",
+    "ts": 1785851032,
+    "addedTs": 1785852112,
+    "urlHash": "307a6ff4f647",
+    "titleHash": "0679f4be894f"
+  },
+  {
+    "title": "I built an LLM debugger for fine-tuning failures",
+    "titlePt": "Criei um depurador de LLMs para falhas de fine-tuning",
+    "url": "https://github.com/gradian-ai/gradian",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um desenvolvedor apresentou no Hacker News uma ferramenta para diagnosticar problemas em modelos que passaram por ajuste fino. O depurador ajuda a identificar causas de degradação de qualidade, overfitting ou comportamento inesperado. É útil para times que rodam fine-tuning frequente e precisam entender rapidamente por que um modelo parou de funcionar bem.",
+    "reasonEn": "A developer shared on Hacker News a tool to diagnose issues in models that have gone through fine-tuning. The debugger helps identify causes of quality degradation, overfitting, or unexpected behavior. It is useful for teams running frequent fine-tuning who need to quickly understand why a model stopped working well.",
+    "score": 0.6,
+    "tags": [
+      "ferramenta",
+      "fine-tuning",
+      "depurador"
+    ],
+    "img": "img/cc14025c284e.jpg",
+    "ts": 1785850076,
+    "addedTs": 1785852112,
+    "urlHash": "cc14025c284e",
+    "titleHash": "9a0536709625"
+  },
+  {
+    "title": "Pdf-inspector: The rust-powered open-source PDF parser for AI",
+    "titlePt": "Pdf-inspector: parser de PDF em Rust, open source, feito para IA",
+    "url": "https://firecrawl.github.io/pdf-inspector/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um projeto open source em Rust chamado pdf-inspector foi divulgado para extrair e analisar conteúdo de PDFs de forma estruturada, voltado para pipelines de IA. O foco é desempenho e ausência de dependências pesadas, comum em alternativas Python. Pode acelerar fluxos de RAG, sumarização e auditoria de documentos em ambientes de produção.",
+    "reasonEn": "An open-source Rust project called pdf-inspector was released to extract and analyze PDF content in a structured way, aimed at AI pipelines. It focuses on performance and minimal heavy dependencies, which is uncommon in Python alternatives. It can speed up RAG, summarization, and document auditing workflows in production environments.",
+    "score": 0.5,
+    "tags": [
+      "rust",
+      "pdf",
+      "open-source"
+    ],
+    "img": "img/9ea5986f1b8b.jpg",
+    "ts": 1785850018,
+    "addedTs": 1785852112,
+    "urlHash": "9ea5986f1b8b",
+    "titleHash": "3e8661a29841"
+  },
+  {
+    "title": "vLLM Recipes",
+    "titlePt": "vLLM Recipes: receitas práticas para servir modelos",
+    "url": "https://recipes.vllm.ai",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Foi divulgado no Hacker News um repositório de receitas para o vLLM, engine de serving de modelos de linguagem usado em produção. O material cobre padrões de implantação, ajuste de batching e otimizações de memória. É uma leitura de alto valor para engenheiros que mantêm infraestrutura de inferência e querem reduzir custo por token.",
+    "reasonEn": "A repository of recipes for vLLM, a language model serving engine used in production, was shared on Hacker News. The material covers deployment patterns, batching tuning, and memory optimizations. It is high-value reading for engineers running inference infrastructure who want to reduce cost per token.",
+    "score": 0.6,
+    "tags": [
+      "vllm",
+      "inferência",
+      "open-source"
+    ],
+    "img": "img/a61c35222775.jpg",
+    "ts": 1785849347,
+    "addedTs": 1785852112,
+    "urlHash": "a61c35222775",
+    "titleHash": "5c07c7cbd26e"
+  },
+  {
+    "title": "Show HN: Aimeterly – Per-user cost dashboards from Claude Code's built-in OTel",
+    "titlePt": "Aimeterly: dashboard de custo por usuário para Claude Code",
+    "url": "https://aimeterly.com/en",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um projeto Show HN chamado Aimeterly transforma telemetria OpenTelemetry do Claude Code em dashboards de custo por usuário. Permite saber quem está gastando mais e em quais tarefas, sem código adicional. Times que usam Claude Code em larga escala podem usar a ferramenta para controlar orçamento e identificar usos inefficient.",
+    "reasonEn": "A Show HN project called Aimeterly turns Claude Code's OpenTelemetry telemetry into per-user cost dashboards. It lets you see who is spending more and on which tasks, without extra code. Teams using Claude Code at scale can use the tool to control budget and identify inefficient usage.",
+    "score": 0.55,
+    "tags": [
+      "custos",
+      "observabilidade",
+      "claude"
+    ],
+    "img": "img/c4efebb2e860.jpg",
+    "ts": 1785849118,
+    "addedTs": 1785852112,
+    "urlHash": "c4efebb2e860",
+    "titleHash": "b0d71ce00284"
+  },
+  {
+    "title": "Show HN: Loopers – Fail-closed reverse proxy and circuit breaker for AI agents",
+    "titlePt": "Loopers: proxy reverso fail-closed para agentes de IA",
+    "url": "https://app.tryloopers.com/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um Show HN apresentou o Loopers, um proxy reverso que atua como disjuntor para agentes de IA, bloqueando requisições quando detecta comportamento fora do esperado. O design fail-closed garante que, em caso de falha, o tráfego é interrompido por padrão. É uma camada de segurança interessante para empresas que expõem agentes a sistemas internos sensíveis.",
+    "reasonEn": "A Show HN introduced Loopers, a reverse proxy that acts as a circuit breaker for AI agents, blocking requests when it detects unexpected behavior. The fail-closed design ensures that, on failure, traffic is stopped by default. It is an interesting security layer for companies exposing agents to sensitive internal systems.",
+    "score": 0.6,
+    "tags": [
+      "segurança",
+      "proxy",
+      "agentes"
+    ],
+    "img": "img/2fa35f78217e.jpg",
+    "ts": 1785849052,
+    "addedTs": 1785852112,
+    "urlHash": "2fa35f78217e",
+    "titleHash": "4e2924e4a97e"
+  },
+  {
+    "title": "Observability Turns Vibe Coding into AI Engineering",
+    "titlePt": "Observabilidade transforma vibe coding em engenharia de IA",
+    "url": "https://www.dynatrace.com/news/blog/how-observability-transforms-vibe-coding-into-ai-engineering/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um texto no Hacker News defende que adicionar observabilidade a sessões de programação com IA é o que separa hobby de engenharia séria. A ideia é rastrear prompts, custos, falhas e resultados como se fossem qualquer serviço de produção. Para times que já adotaram Claude Code, Codex ou Cursor, isso vira um divisor de águas entre improviso e operação confiável.",
+    "reasonEn": "A Hacker News post argues that adding observability to AI coding sessions is what separates hobby tinkering from serious engineering. The idea is to track prompts, costs, failures, and outcomes as you would any production service. For teams that have adopted Claude Code, Codex, or Cursor, this becomes a dividing line between improv and reliable operation.",
+    "score": 0.6,
+    "tags": [
+      "observabilidade",
+      "vibe-coding",
+      "engenharia"
+    ],
+    "img": "img/7da1ae294ea1.jpg",
+    "ts": 1785848769,
+    "addedTs": 1785852112,
+    "urlHash": "7da1ae294ea1",
+    "titleHash": "aef07aba783d"
+  },
+  {
+    "title": "We built an AI model router that cut LLM costs by 94%",
+    "titlePt": "Construímos um roteador de IA que cortou custos com LLM em 94%",
+    "url": "https://swordhealth.com/research/reduce-enterprise-ai-costs",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um time compartilha no Hacker News a construção de um roteador de modelos que escolhe, para cada requisição, o LLM mais barato capaz de entregar a resposta com qualidade aceitável. O resultado reportado foi uma queda de 94% nos custos de inferência. O caso interessa diretamente a times que pagam contas gordas de API e buscam otimização sem abrir mão de qualidade.",
+    "reasonEn": "A team shared on Hacker News how they built a model router that picks, for each request, the cheapest LLM capable of delivering an acceptable response. The reported result was a 94% drop in inference costs. The case directly interests teams paying large API bills and seeking optimization without sacrificing quality.",
+    "score": 0.8,
+    "tags": [
+      "custos",
+      "roteador",
+      "llm"
+    ],
+    "img": "img/368f360609b1.jpg",
+    "ts": 1785848018,
+    "addedTs": 1785852112,
+    "urlHash": "368f360609b1",
+    "titleHash": "f875be0fef4a"
+  },
+  {
+    "title": "Auditability vs. Forced Determinism: Future of Agentic AI",
+    "titlePt": "Auditabilidade versus determinismo forçado: o futuro da IA agêntica",
+    "url": "https://medium.com/@MirArshadTalpur/auditability-vs-forced-determinism-future-of-agentic-ai-fb243d339338",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um artigo discute o dilema entre permitir que agentes de IA sejam auditáveis e exigir que sejam totalmente determinísticos. O autor argumenta que determinismo forçado limita a utilidade dos agentes, mas observabilidade completa é viável e suficiente. O tema é relevante para times que estão definindo padrões de governança para IA em produção.",
+    "reasonEn": "An article discusses the dilemma between allowing AI agents to be auditable and requiring them to be fully deterministic. The author argues that forced determinism limits agent usefulness, but full observability is feasible and sufficient. The topic is relevant for teams defining governance standards for AI in production.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "governança",
+      "auditabilidade"
+    ],
+    "img": "img/7437cfaae760.jpg",
+    "ts": 1785847639,
+    "addedTs": 1785852112,
+    "urlHash": "7437cfaae760",
+    "titleHash": "b19646f6efb2"
+  },
+  {
+    "title": "Circles powers telco personalization with OpenAI technology",
+    "titlePt": "Circles usa tecnologia da OpenAI para personalizar telecom",
+    "url": "https://openai.com/index/circles",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "A Circles, fornecedora de plataformas para operadoras de telefonia, anunciou integração com tecnologia da OpenAI para personalizar serviços aos assinantes em tempo real. A novidade afeta como telcos em mercados emergentes podem oferecer planos, ofertas e atendimento sob medida. Relevante para profissionais de telecom, marketing e CX digital.",
+    "reasonEn": "Circles, which provides platforms for telecom operators, announced integration with OpenAI technology to personalize services for subscribers in real time. The move affects how telcos in emerging markets can offer tailored plans, offers, and support. Relevant for telecom, marketing, and digital CX professionals.",
+    "score": 0.55,
+    "tags": [
+      "parceria",
+      "telecom"
+    ],
+    "img": "img/97e92714d577.jpg",
+    "ts": 1785715200,
+    "addedTs": 1785852112,
+    "urlHash": "97e92714d577",
+    "titleHash": "66a67f381c12"
+  },
+  {
+    "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
+    "titlePt": "Snapchat deixa de recompensar conteúdo 100% gerado por IA no Spotlight",
+    "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "O Snapchat atualizou suas regras e passou a não pagar recompensas por vídeos do Spotlight totalmente gerados por inteligência artificial. A medida tenta reduzir spam e conteúdo de baixa qualidade na plataforma. Criadores humanos e usuários da rede são os mais impactados pela mudança.",
+    "reasonEn": "Snapchat updated its rules and will no longer pay rewards for Spotlight videos that are fully AI-generated. The move aims to reduce spam and low-quality content on the platform. Human creators and network users are most impacted by the change.",
+    "score": 0.55,
+    "tags": [
+      "redes sociais",
+      "política"
+    ],
+    "img": "img/932ad6b0ae37.jpg",
+    "ts": 1785516548,
+    "addedTs": 1785852112,
+    "urlHash": "932ad6b0ae37",
+    "titleHash": "b4be92a3acfc"
+  },
+  {
+    "title": "The major labels propose rules to keep AI slop off the charts",
+    "titlePt": "Gravadoras propõem regras para tirar lixo de IA das paradas",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "As três grandes gravadoras (Universal, Sony e Warner) propuseram regras para que músicas geradas ou manipuladas por inteligência artificial não dominem as paradas de sucesso. A proposta inclui marcar faixas com IA e limitar promoção artificial. Artistas, plataformas de streaming e ouvintes de música serão afetados.",
+    "reasonEn": "The three major labels (Universal, Sony, Warner) proposed rules so AI-generated or AI-manipulated music doesn't dominate the charts. The proposal includes tagging AI tracks and limiting artificial promotion. Artists, streaming platforms, and music listeners will be affected.",
+    "score": 0.55,
+    "tags": [
+      "música",
+      "regulação"
+    ],
+    "img": "img/61b610982fb1.jpg",
+    "ts": 1785515808,
+    "addedTs": 1785852112,
+    "urlHash": "61b610982fb1",
+    "titleHash": "28c8db9a31d6"
+  },
+  {
+    "title": "Siri AI could come with a paywall for power users",
+    "titlePt": "Siri com IA pode ter paywall para usuários avançados",
+    "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A Apple deve lançar uma versão mais avançada da Siri com inteligência artificial e estuda cobrar uma assinatura separada dos usuários mais intensos. A medida segue a tendência de monetizar IA dentro de produtos já existentes. Consumidores do ecossistema Apple e desenvolvedores de apps são os afetados pela novidade.",
+    "reasonEn": "Apple is set to launch a more advanced AI-powered Siri and is considering charging a separate subscription for power users. The move follows the trend of monetizing AI inside existing products. Apple ecosystem consumers and app developers are affected.",
+    "score": 0.6,
+    "tags": [
+      "apple",
+      "monetização"
+    ],
+    "img": "img/87c9761d7571.jpg",
+    "ts": 1785514098,
+    "addedTs": 1785852112,
+    "urlHash": "87c9761d7571",
+    "titleHash": "6ba2df5410f8"
+  },
+  {
     "title": "Bending Spoons strikes $2.25B Airtable deal in first acquisition since IPO",
     "titlePt": "Bending Spoons compra Airtable por US$ 2,25 bilhões em sua primeira aquisição após IPO",
     "url": "https://sifted.eu/articles/bending-spoons-airtable-acquisition-post-ipo",
