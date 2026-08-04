@@ -1,5 +1,282 @@
 [
   {
+    "title": "A Data-Driven Explanation: Why Do AI Agents Still Fail",
+    "titlePt": "Por que agentes de IA ainda falham: uma explicação baseada em dados",
+    "url": "https://jeremytian.substack.com/p/a-data-driven-explanation-why-do",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo analisa, com dados concretos, os motivos pelos quais agentes de IA continuam cometendo erros mesmo com os avanços recentes. É leitura obrigatória para quem constrói ou usa agentes, pois mostra padrões reais de falha e ajuda a evitar armadilhas comuns.",
+    "reasonEn": "The article analyzes, with concrete data, why AI agents still fail despite recent advances. It is a must-read for anyone building or using agents, since it surfaces real failure patterns and helps avoid common pitfalls.",
+    "score": 0.8,
+    "tags": [
+      "agentes",
+      "pesquisa"
+    ],
+    "img": "img/e9ebacd6af8b.jpg",
+    "ts": 1785863385,
+    "addedTs": 1785864600,
+    "urlHash": "e9ebacd6af8b",
+    "titleHash": "870e4eadf216"
+  },
+  {
+    "title": "Former OpenAI exec Fidji Simo's company has analyzed 3,500 blood vials with AI",
+    "titlePt": "Empresa de ex-executiva da OpenAI analisa 3.500 amostras de sangue com IA",
+    "url": "https://fortune.com/2026/08/03/fidji-simo-discusses-pots-diseases-chroniclebio-ai-startup-openai/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A empresa de Fidji Simo, ex-líder da OpenAI, usou IA para analisar milhares de amostras de sangue em busca de insights médicos. Mostra um caso real de aplicação de IA em diagnósticos e pesquisa clínica, embora ainda em estágio inicial. Interessa quem acompanha IA na saúde.",
+    "reasonEn": "Fidji Simo's company, founded by a former OpenAI executive, used AI to analyze thousands of blood samples for medical insights. It shows a real-world application of AI in diagnostics and clinical research, though still at an early stage. Relevant for those tracking AI in healthcare.",
+    "score": 0.6,
+    "tags": [
+      "saúde",
+      "biotecnologia"
+    ],
+    "img": "img/806887b79f98.jpg",
+    "ts": 1785862615,
+    "addedTs": 1785864600,
+    "urlHash": "806887b79f98",
+    "titleHash": "3a14f404514d"
+  },
+  {
+    "title": "Show HN: OldHand A Claude/Codex plugin to verify the development flow end-to-end",
+    "titlePt": "OldHand: plugin para Claude e Codex verificar o fluxo de desenvolvimento",
+    "url": "https://github.com/berwinsingh/oldhand",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um plugin para Claude Code e Codex que verifica de ponta a ponta o fluxo de desenvolvimento, ajudando a encontrar erros de integração. Útil para times que dependem desses agentes e querem mais confiança no pipeline automatizado.",
+    "reasonEn": "A plugin for Claude Code and Codex that verifies the development flow end to end, helping to find integration errors. Useful for teams relying on these agents who want more confidence in automated pipelines.",
+    "score": 0.55,
+    "tags": [
+      "devtools",
+      "show hn"
+    ],
+    "img": "img/60363a7642b2.jpg",
+    "ts": 1785862137,
+    "addedTs": 1785864600,
+    "urlHash": "60363a7642b2",
+    "titleHash": "032c5b379f25"
+  },
+  {
+    "title": "AI is finding bugs faster than humans can fix them",
+    "titlePt": "IA está achando bugs mais rápido do que humanos conseguem corrigir",
+    "url": "https://www.zdnet.com/article/ai-is-finding-bugs-faster-than-humans-can-fix-them-how-enterprise-security-teams-must-adapt/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Relatos da indústria mostram que ferramentas de IA já identificam vulnerabilidades e bugs em um ritmo superior à capacidade das equipes de corrigi-los. Isso muda a dinâmica de segurança e manutenção, exigindo novas estratégias dos times de desenvolvimento.",
+    "reasonEn": "Industry reports show that AI tools are finding vulnerabilities and bugs faster than human teams can fix them. This shifts the security and maintenance dynamic, requiring new strategies from development teams.",
+    "score": 0.75,
+    "tags": [
+      "segurança",
+      "bugs"
+    ],
+    "img": "img/bd2fc9358572.jpg",
+    "ts": 1785861551,
+    "addedTs": 1785864600,
+    "urlHash": "bd2fc9358572",
+    "titleHash": "4978acb2ea2e"
+  },
+  {
+    "title": "A unified API for AI model routing",
+    "titlePt": "Uma API unificada para roteamento de modelos de IA",
+    "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo apresenta uma API única que permite alternar entre diferentes modelos de IA de forma transparente, simplificando integração e custos. Relevante para desenvolvedores que querem evitar lock-in de fornecedor e otimizar gasto com inferência.",
+    "reasonEn": "The article presents a unified API that allows switching between different AI models transparently, simplifying integration and costs. Relevant for developers wanting to avoid vendor lock-in and optimize inference spending.",
+    "score": 0.65,
+    "tags": [
+      "api",
+      "infra"
+    ],
+    "img": "img/34ad88f8f243.jpg",
+    "ts": 1785861423,
+    "addedTs": 1785864600,
+    "urlHash": "34ad88f8f243",
+    "titleHash": "b1acf09eaa60"
+  },
+  {
+    "title": "AI coding agents pass tests. Can they write idiomatic Laravel?",
+    "titlePt": "Agentes de código passam em testes, mas escreveriam Laravel idiomático?",
+    "url": "https://laravel.com/blog/idiomatic-laravel-ai-coding-agents",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma análise prática que avalia se agentes de IA de codificação realmente produzem código Laravel idiomático ou apenas soluções que passam em testes. Mostra os limites atuais desses agentes em projetos reais e ajuda times a calibrar expectativas.",
+    "reasonEn": "A hands-on analysis that evaluates whether AI coding agents actually produce idiomatic Laravel code or merely test-passing solutions. It shows the current limits of these agents on real projects and helps teams calibrate expectations.",
+    "score": 0.6,
+    "tags": [
+      "devtools",
+      "agentes"
+    ],
+    "img": "img/3ab775342d3e.jpg",
+    "ts": 1785861418,
+    "addedTs": 1785864600,
+    "urlHash": "3ab775342d3e",
+    "titleHash": "e646863fe39a"
+  },
+  {
+    "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+    "titlePt": "Mistral lança Shieldstral: modelo aberto de 3B para moderação multimodal",
+    "url": "https://mistral.ai/news/shieldstral/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Mistral publicou um modelo de pesos abertos com 3 bilhões de parâmetros focado em moderação de conteúdo multimodal, incluindo texto e imagem. É relevante para times que precisam de moderação personalizável sem depender exclusivamente de APIs fechadas. Reforça a estratégia open-weight da Mistral.",
+    "reasonEn": "Mistral released an open-weights 3-billion-parameter model focused on multimodal content moderation, including text and image. Relevant for teams needing customizable moderation without relying solely on closed APIs. It reinforces Mistral's open-weight strategy.",
+    "score": 0.8,
+    "tags": [
+      "modelo",
+      "lançamento"
+    ],
+    "img": "img/d06e668fc700.jpg",
+    "ts": 1785861365,
+    "addedTs": 1785864600,
+    "urlHash": "d06e668fc700",
+    "titleHash": "f45e425a8d40"
+  },
+  {
+    "title": "The Math Behind \"Water-Efficient AI Data Centres\" Is Laughably Wrong [video]",
+    "titlePt": "A matemática dos data centers 'eficientes em água' está ridiculamente errada",
+    "url": "https://www.youtube.com/watch?v=8bbe-Ev-Yns",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um vídeo técnico que desmonta as alegações de marketing sobre data centers de IA que se dizem eficientes em consumo de água. Mostra erros gritantes nos cálculos e é leitura obrigatória para quem avalia sustentabilidade de infraestrutura de IA. Importa para jornalistas, reguladores e operadores.",
+    "reasonEn": "A technical video debunking marketing claims about AI data centers marketed as water-efficient. It exposes glaring calculation errors and is a must-watch for anyone evaluating AI infrastructure sustainability. Relevant for journalists, regulators and operators.",
+    "score": 0.7,
+    "tags": [
+      "infraestrutura",
+      "sustentabilidade"
+    ],
+    "img": "img/87da7860b948.jpg",
+    "ts": 1785861216,
+    "addedTs": 1785864600,
+    "urlHash": "87da7860b948",
+    "titleHash": "df89eab8fd9b"
+  },
+  {
+    "title": "Show HN: I Repurposed Unit Tests to Show How Much Coding Agents \"Improvise\"",
+    "titlePt": "Reaproveitei testes unitários para mostrar quanto agentes de código 'improvisam'",
+    "url": "https://github.com/RudderCode/Rudder",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O autor adaptou testes unitários como métrica para medir o quanto os agentes de codificação inventam soluções fora do escopo. Ferramenta útil para times que querem avaliar de forma concreta o comportamento de agentes em projetos reais.",
+    "reasonEn": "The author repurposed unit tests as a metric to measure how much coding agents invent solutions outside scope. A useful tool for teams wanting to concretely evaluate agent behavior on real projects.",
+    "score": 0.5,
+    "tags": [
+      "devtools",
+      "show hn"
+    ],
+    "img": "img/1cd39cf65fab.jpg",
+    "ts": 1785861180,
+    "addedTs": 1785864600,
+    "urlHash": "1cd39cf65fab",
+    "titleHash": "e7325580c178"
+  },
+  {
+    "title": "AI useful, but warning bells grow amid illusion of overheated investment",
+    "titlePt": "IA é útil, mas crescem os alertas sobre ilusão de investimento superaquecido",
+    "url": "https://www.digitaltoday.co.kr/en/view/89064/ai-useful-but-warning-bells-grow-amid-illusion-of-overheated-investment",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Discussões no Hacker News destacam que, apesar dos resultados práticos da inteligência artificial, aumentam as preocupações sobre uma possível bolha de investimentos no setor. Analistas apontam que muita capital está sendo direcionada a promessas que ainda não se traduziram em retorno real. O tema importa para fundadores, investidores e profissionais que precisam decidir onde aplicar tempo e dinheiro. Empresas menores podem ser as mais afetadas se o ciclo de cortes chegar.",
+    "reasonEn": "Hacker News discussions highlight that despite AI's practical results, concerns are growing about a possible investment bubble in the sector. Analysts note that a lot of capital is flowing into promises that have not yet turned into real returns. The topic matters for founders, investors, and professionals who need to decide where to put time and money. Smaller companies may be the most affected if a correction cycle arrives.",
+    "score": 0.72,
+    "tags": [
+      "mercado",
+      "investimento",
+      "bolha"
+    ],
+    "img": "img/cef1bf380e2d.jpg",
+    "ts": 1785860873,
+    "addedTs": 1785864600,
+    "urlHash": "cef1bf380e2d",
+    "titleHash": "7f80fd0aeaee"
+  },
+  {
+    "title": "Spotify expands AI remix and covers project with Merlin partnership",
+    "titlePt": "Spotify amplia projeto de remixes e covers com IA em parceria com Merlin",
+    "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "O Spotify anunciou parceria com a Merlin, organização que representa gravadoras independentes, para expandir recursos de remix e versões de músicas geradas por inteligência artificial. A ideia é oferecer aos usuários novas formas de personalizar faixas dentro da plataforma. A medida afeta artistas independentes, que ganham mais um canal de distribuição, mas também levanta dúvidas sobre direitos autorais. É mais um passo da indústria musical em meio à pressão da IA generativa.",
+    "reasonEn": "Spotify announced a partnership with Merlin, the organization representing independent labels, to expand remix and cover features generated by artificial intelligence. The goal is to offer users new ways to personalize tracks on the platform. The move affects independent artists, who gain another distribution channel, but also raises copyright concerns. It is another step by the music industry amid the pressure of generative AI.",
+    "score": 0.55,
+    "tags": [
+      "música",
+      "ia-generativa",
+      "parceria"
+    ],
+    "img": "img/6c237460da0f.jpg",
+    "ts": 1785858606,
+    "addedTs": 1785864600,
+    "urlHash": "6c237460da0f",
+    "titleHash": "b8665d6e47be"
+  },
+  {
+    "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+    "titlePt": "Apple diz que mais ex-funcionários podem ter levado dados confidenciais à OpenAI",
+    "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A Apple revelou à Justiça que o número de ex-funcionários suspeitos de levar informações confidenciais para a OpenAI pode ser maior do que o inicialmente divulgado. O caso faz parte de uma disputa sobre propriedade intelectual envolvendo os modelos de IA da empresa. A notícia é relevante para qualquer profissional que lida com dados sensíveis e para entender o movimento de talentos entre gigantes de tecnologia. Pode mudar a forma como empresas protegem segredos industriais.",
+    "reasonEn": "Apple told the court that the number of former employees suspected of taking confidential information to OpenAI may be higher than initially reported. The case is part of a dispute over intellectual property involving the company's AI models. The news is relevant for any professional who handles sensitive data and for understanding the movement of talent between tech giants. It could change how companies protect trade secrets.",
+    "score": 0.88,
+    "tags": [
+      "apple",
+      "openai",
+      "propriedade-intelectual"
+    ],
+    "img": "img/239a1d5abd13.jpg",
+    "ts": 1785852181,
+    "addedTs": 1785864600,
+    "urlHash": "239a1d5abd13",
+    "titleHash": "2d6a3a765966"
+  },
+  {
+    "title": "New ways to learn and teach with ChatGPT Work and Codex",
+    "titlePt": "Novas formas de aprender e ensinar com ChatGPT Work e Codex",
+    "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "A OpenAI anunciou novidades em seus produtos ChatGPT Work e Codex voltadas para educação e treinamento corporativo. As ferramentas incluem modos de aprendizado e suporte a professores e equipes técnicas. A mudança afeta diretamente alunos, professores e empresas que usam IA para capacitação. Reforça a aposta da OpenAI no mercado corporativo e educacional.",
+    "reasonEn": "OpenAI announced new features in its ChatGPT Work and Codex products aimed at education and corporate training. The tools include learning modes and support for teachers and technical teams. The change directly affects students, teachers, and companies that use AI for training. It reinforces OpenAI's bet on the corporate and educational market.",
+    "score": 0.5,
+    "tags": [
+      "openai",
+      "educação",
+      "produto"
+    ],
+    "img": "img/129511f54188.jpg",
+    "ts": 1785801600,
+    "addedTs": 1785864600,
+    "urlHash": "129511f54188",
+    "titleHash": "44238c3a55bc"
+  },
+  {
     "title": "Deploy local agents everywhere with LFM2.5-2.6B",
     "titlePt": "Execute agentes locais em qualquer lugar com LFM2.5-2.6B",
     "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
