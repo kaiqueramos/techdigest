@@ -1,5 +1,410 @@
 [
   {
+    "title": "Mixture-of-Kittens: An MoE training megakernel for NVL72",
+    "titlePt": "Mixture-of-Kittens: megakernel MoE para treinar em NVL72",
+    "url": "https://twitter.com/cursor_ai/status/2084670806613737919",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Engenheiros publicaram um megakernel de código aberto para treinar modelos Mixture-of-Experts no cluster NVL72 da NVIDIA. O foco é otimizar o paralelismo entre GPUs usando a interconexão NVLink, reduzindo o tempo de treinamento de LLMs grandes. Importa para equipes de ML que rodam em hardware NVIDIA de ponta e buscam performance máxima.",
+    "reasonEn": "Engineers released an open-source megakernel for training Mixture-of-Experts models on NVIDIA's NVL72 cluster. It focuses on optimizing parallelism across GPUs using NVLink, cutting training time for large LLMs. It matters for ML teams running on cutting-edge NVIDIA hardware chasing maximum throughput.",
+    "score": 0.7,
+    "tags": [
+      "modelo",
+      "treinamento",
+      "nvidia"
+    ],
+    "img": "img/d7cfeaac4d13.jpg",
+    "ts": 1785870903,
+    "addedTs": 1785871153,
+    "urlHash": "d7cfeaac4d13",
+    "titleHash": "463fd2151586"
+  },
+  {
+    "title": "White House plans to keep AI framework under wraps",
+    "titlePt": "Casa Branca quer manter em segredo seu marco regulatório de IA",
+    "url": "https://www.axios.com/2026/08/04/white-house-ai-framework-under-wraps",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A administração americana pretende manter fechados os documentos que definem seu plano federal de inteligência artificial, alegando segurança nacional. O movimento preocupa empresas que precisam de clareza regulatória para investir. Desenvolvedores e fornecedores de IA nos EUA serão os mais afetados pela falta de transparência.",
+    "reasonEn": "The US administration plans to keep its federal AI framework documents classified, citing national security. The move worries companies that need regulatory clarity to plan investments. AI developers and vendors in the US will be most affected by the lack of transparency.",
+    "score": 0.85,
+    "tags": [
+      "regulação",
+      "política"
+    ],
+    "img": "img/aef1ab68d447.jpg",
+    "ts": 1785870800,
+    "addedTs": 1785871153,
+    "urlHash": "aef1ab68d447",
+    "titleHash": "0480f3bc78c4"
+  },
+  {
+    "title": "AI-generated websites converge on each other more than human designs do",
+    "titlePt": "Sites gerados por IA se parecem mais entre si do que sites humanos",
+    "url": "https://ai-design-convergence.vercel.app",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Pesquisadores analisaram milhares de sites criados com IA generativa e concluíram que eles convergem para layouts muito semelhantes, perdendo diversidade visual. O estudo sugere que os modelos absorvem os mesmos padrões dos dados de treino. Designers, devs e profissionais de UX devem refletir sobre originalidade ao usar essas ferramentas.",
+    "reasonEn": "Researchers analyzed thousands of AI-generated websites and found they converge toward very similar layouts, losing visual diversity. The study suggests models absorb the same patterns from training data. Designers, devs, and UX pros should think twice about originality when using these tools.",
+    "score": 0.55,
+    "tags": [
+      "pesquisa",
+      "design"
+    ],
+    "img": "img/76f078681628.jpg",
+    "ts": 1785870694,
+    "addedTs": 1785871153,
+    "urlHash": "76f078681628",
+    "titleHash": "7db4d244b06a"
+  },
+  {
+    "title": "Surveillance-based advertising: why ad AI economics always demand more data",
+    "titlePt": "Publicidade com IA depende de cada vez mais dados de vigilância",
+    "url": "https://www.adreva.ai/learn/ai-in-advertising",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma análise mostra que a economia da IA publicitária sempre exige mais dados pessoais para entregar resultados. A lógica de otimização por ML cria um ciclo que incentiva vigilância crescente. Profissionais de ads, privacidade e devs de MarTech devem acompanhar o debate.",
+    "reasonEn": "An analysis shows that the economics of AI-powered advertising always demand more personal data to deliver results. The ML optimization logic creates a cycle that fuels ever-growing surveillance. Ad, privacy and MarTech professionals should follow the debate.",
+    "score": 0.6,
+    "tags": [
+      "publicidade",
+      "privacidade"
+    ],
+    "img": "img/2644c9760150.jpg",
+    "ts": 1785870101,
+    "addedTs": 1785871153,
+    "urlHash": "2644c9760150",
+    "titleHash": "0c59f9449a85"
+  },
+  {
+    "title": "New unlimited use coding agent (Standard Code)",
+    "titlePt": "Novo agente de código com uso ilimitado aparece no Hacker News",
+    "url": "https://standardcode.ai/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Hacker News destaca um agente de programação que promete uso ilimitado, fugindo do modelo de cobrança por tokens. Pode mudar a forma como devs consomem ferramentas de codificação com IA. Vale acompanhar para quem gasta muito com planos atuais.",
+    "reasonEn": "Hacker News spotlights a coding agent offering unlimited usage, breaking away from the per-token pricing model. It could change how developers consume AI coding tools. Worth watching for anyone spending heavily on current plans.",
+    "score": 0.75,
+    "tags": [
+      "agente",
+      "coding"
+    ],
+    "img": "img/0e54ec66004f.jpg",
+    "ts": 1785869897,
+    "addedTs": 1785871153,
+    "urlHash": "0e54ec66004f",
+    "titleHash": "0b67c84b6c80"
+  },
+  {
+    "title": "AI demand to keep near-term inflation high, says investment strategist",
+    "titlePt": "Demanda por IA deve manter inflação alta no curto prazo, diz estrategista",
+    "url": "https://www.cnbc.com/video/2026/08/04/ai-demand-ai-data-center-inflation-pressures-ai-debt-bonds-yen.html",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um estrategista de investimentos alerta que o investimento massivo em data centers e chips de IA continua pressionando os preços no curto prazo. A tese sustenta que inflação pode demorar a cair por causa do capex de IA. Importa para investidores, CFOs e quem planeja custos de infraestrutura.",
+    "reasonEn": "An investment strategist warns that massive spending on AI data centers and chips keeps inflation elevated in the short term. The thesis argues inflation may take longer to fall because of AI capex. It matters for investors, CFOs and anyone planning infrastructure budgets.",
+    "score": 0.75,
+    "tags": [
+      "economia",
+      "infraestrutura"
+    ],
+    "img": "img/2407e57946f5.jpg",
+    "ts": 1785869419,
+    "addedTs": 1785871153,
+    "urlHash": "2407e57946f5",
+    "titleHash": "35819a3bd44d"
+  },
+  {
+    "title": "U.S. Air Force F-16 realtime autonomous intercepts",
+    "titlePt": "F-16 da Força Aérea dos EUA faz interceptação autônoma em tempo real",
+    "url": "https://news.lockheedmartin.com/2026-08-04-Skunk-Works-R-Advances-Sensor-Powered-AI-Fighter-Intercept",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Força Aérea americana demonstrou um F-16 com IA fazendo interceptações autônomas em tempo real contra alvos aéreos. Marca um avanço em sistemas de armas autônomos e levanta questões sobre comando humano. Relevante para defesa, ética em IA e formuladores de política.",
+    "reasonEn": "The US Air Force demonstrated an AI-enabled F-16 performing real-time autonomous intercepts against aerial targets. It marks progress in autonomous weapons systems and raises questions about human command. Relevant for defense, AI ethics and policy makers.",
+    "score": 0.8,
+    "tags": [
+      "defesa",
+      "autonomia"
+    ],
+    "img": "img/352b1273612b.jpg",
+    "ts": 1785868964,
+    "addedTs": 1785871153,
+    "urlHash": "352b1273612b",
+    "titleHash": "c6c4de896cde"
+  },
+  {
+    "title": "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research",
+    "titlePt": "EdotEnv (YC S26): ambientes RL para trading quantitativo com LLMs",
+    "url": "https://edotenv.com/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Y Combinator apresentou a EdotEnv, que vende ambientes de reinforcement learning para ensinar LLMs a pesquisar estratégias de trading quantitativo. O produto mira fintechs e fundos quant. Tem potencial, mas ainda é lançamento inicial.",
+    "reasonEn": "Y Combinator introduced EdotEnv, which sells reinforcement learning environments to teach LLMs to research quant trading strategies. The product targets fintechs and quant funds. Promising, but it is still an early-stage launch.",
+    "score": 0.55,
+    "tags": [
+      "yc",
+      "fintech",
+      "rl"
+    ],
+    "img": "img/5d7c2abc4031.jpg",
+    "ts": 1785868562,
+    "addedTs": 1785871153,
+    "urlHash": "5d7c2abc4031",
+    "titleHash": "c40bc827d8db"
+  },
+  {
+    "title": "LLM Arena",
+    "titlePt": "LLM Arena: arena para comparar modelos de linguagem",
+    "url": "https://arena.ai/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Mais uma plataforma de comparação cega entre LLMs entra em circulação, permitindo à comunidade votar em respostas. Pode ajudar devs a escolher modelos para seus casos de uso. Concorrência direta com o LMSYS Chatbot Arena já consolidado.",
+    "reasonEn": "Yet another blind comparison arena for LLMs has appeared, letting the community vote on answers. It can help devs choose models for their use cases. Direct competition with the well-established LMSYS Chatbot Arena.",
+    "score": 0.5,
+    "tags": [
+      "benchmark",
+      "modelo"
+    ],
+    "img": "img/d5e5461806b4.jpg",
+    "ts": 1785868459,
+    "addedTs": 1785871153,
+    "urlHash": "d5e5461806b4",
+    "titleHash": "82b605663490"
+  },
+  {
+    "title": "Bending Spoons acquires Airtable for $1.25B",
+    "titlePt": "Bending Spoons compra Airtable por US$ 1,25 bilhão",
+    "url": "https://www.businesswire.com/news/home/20260730994716/en/Bending-Spoons-has-entered-into-a-definitive-agreement-to-acquire-Airtable-for-$1.285-billion",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Bending Spoons anunciou a aquisição da Airtable por 1,25 bilhão de dólares, marcando uma das maiores transações do ano em software de produtividade. Usuários corporativos devem ficar atentos a possíveis mudanças de preço, produto e roadmap. Desenvolvedores integrados à Airtable precisam reavaliar dependências.",
+    "reasonEn": "Bending Spoons announced the acquisition of Airtable for $1.25 billion, one of the largest productivity software deals of the year. Enterprise users should watch for changes in pricing, product and roadmap. Developers integrated with Airtable need to reassess dependencies.",
+    "score": 0.85,
+    "tags": [
+      "deal",
+      "aquisição"
+    ],
+    "img": "img/9746820a8b5b.jpg",
+    "ts": 1785868420,
+    "addedTs": 1785871153,
+    "urlHash": "9746820a8b5b",
+    "titleHash": "476c32943571"
+  },
+  {
+    "title": "Creating, Copying, and Remixing in the Age of AI",
+    "titlePt": "Criar, copiar e remixar na era da IA",
+    "url": "https://molochinations.substack.com/p/creating-copying-and-remixing-in",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Hacker News discute como ferramentas generativas mudam o fluxo de criar, copiar e remixar conteúdo, levantando dilemas sobre autoria e propriedade intelectual. Toca em temas legais e culturais atuais. Importa para criadores, advogados e plataformas.",
+    "reasonEn": "Hacker News discusses how generative tools reshape the flow of creating, copying and remixing content, raising authorship and IP dilemmas. It touches on current legal and cultural debates. It matters for creators, lawyers and platforms.",
+    "score": 0.5,
+    "tags": [
+      "direitos autorais",
+      "cultura"
+    ],
+    "img": "img/f402dd84dff5.jpg",
+    "ts": 1785868338,
+    "addedTs": 1785871153,
+    "urlHash": "f402dd84dff5",
+    "titleHash": "f6a4b3c1c755"
+  },
+  {
+    "title": "AI data-centre race builds $1T lease burden for Big Tech",
+    "titlePt": "Corrida por data centers de IA cria ônus de US$ 1 trilhão em leases para Big Tech",
+    "url": "https://www.reuters.com/business/retail-consumer/ai-data-centre-race-builds-1-trillion-lease-burden-big-tech-2026-08-04/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Análise financeira estima que o aluguel de longo prazo de infraestrutura para IA soma cerca de 1 trilhão de dólares em compromissos para gigantes como Microsoft, Google, Amazon e Meta. Os contratos pressionam balanço patrimonial e fluxo de caixa. Acionistas, analistas e fornecedores de energia devem prestar atenção ao tema.",
+    "reasonEn": "Financial analysis estimates long-term AI infrastructure leases add roughly $1 trillion in commitments for giants like Microsoft, Google, Amazon and Meta. These contracts pressure balance sheets and cash flow. Shareholders, analysts and energy suppliers should watch closely.",
+    "score": 0.8,
+    "tags": [
+      "infraestrutura",
+      "finanças"
+    ],
+    "img": "img/f04dda6433ac.jpg",
+    "ts": 1785868271,
+    "addedTs": 1785871153,
+    "urlHash": "f04dda6433ac",
+    "titleHash": "737fccb29c6d"
+  },
+  {
+    "title": "Elon Musk: In 36 months, the cheapest place to put AI will be space [video]",
+    "titlePt": "Elon Musk: em 36 meses o lugar mais barato para IA será o espaço",
+    "url": "https://www.youtube.com/watch?v=BYXbuik3dgA",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Em entrevista, Elon Musk afirmou que a órbita terrestre será o local mais barato para hospedar IA em três anos, citando energia solar ilimitada e refrigeração natural. A tese é ambiciosa e ainda enfrenta enormes barreiras de lançamento e manutenção. Importa para investidores em space-tech e fornecedores de data center.",
+    "reasonEn": "In an interview, Elon Musk claimed orbit will be the cheapest place to host AI in three years, citing unlimited solar power and natural cooling. The thesis is ambitious and still faces huge launch and maintenance barriers. It matters for space-tech investors and data center providers.",
+    "score": 0.65,
+    "tags": [
+      "espaço",
+      "infraestrutura"
+    ],
+    "img": "img/bd762e299561.jpg",
+    "ts": 1785867512,
+    "addedTs": 1785871153,
+    "urlHash": "bd762e299561",
+    "titleHash": "2f5a57046576"
+  },
+  {
+    "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
+    "titlePt": "Musk passa metade da call de resultados da Tesla falando de robôs e IA",
+    "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A TechCrunch destaca que Elon Musk dedicou cerca de metade da teleconferência de resultados da Tesla a promessas sobre robôs humanoides e IA, desviando o foco de métricas operacionais. Para investidores, isso levanta dúvidas sobre governança e prioridades estratégicas. Acionistas e analistas financeiros devem ler com atenção.",
+    "reasonEn": "TechCrunch notes that Elon Musk spent roughly half of Tesla's earnings call on humanoid robot and AI promises, shifting focus from operating metrics. For investors this raises governance and strategic priority questions. Shareholders and financial analysts should read carefully.",
+    "score": 0.5,
+    "tags": [
+      "tesla",
+      "finanças"
+    ],
+    "img": "img/6b6edbaacb66.jpg",
+    "ts": 1785856806,
+    "addedTs": 1785871153,
+    "urlHash": "6b6edbaacb66",
+    "titleHash": "17f26a632251"
+  },
+  {
+    "title": "The latest AI news we announced in July 2026",
+    "titlePt": "As principais notícias de IA do Google anunciadas em julho de 2026",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+    "source": "Google AI",
+    "sources": [
+      "Google AI"
+    ],
+    "reason": "O Google publicou um resumo das novidades de inteligência artificial divulgadas em julho de 2026. A lista reúne lançamentos de modelos, ferramentas para desenvolvedores e atualizações de produtos. Para profissionais e curiosos, vale acompanhar porque concentra em um único lugar o que mudou no ecossistema da empresa no mês. Quem usa produtos do Google no dia a dia é o mais impactado.",
+    "reasonEn": "Google published a roundup of AI news announced in July 2026. The list bundles model releases, developer tools, and product updates. It matters because it gathers in one place everything the company shipped that month. Anyone using Google's products day to day is the most affected.",
+    "score": 0.5,
+    "tags": [
+      "google",
+      "lançamento",
+      "resumo"
+    ],
+    "img": "img/58ba351a2139.jpg",
+    "ts": 1785848400,
+    "addedTs": 1785871153,
+    "urlHash": "58ba351a2139",
+    "titleHash": "ff4f31d4c369"
+  },
+  {
+    "title": "Here’s the problem with putting an AI image generator in Google Earth",
+    "titlePt": "Qual é o problema de colocar um gerador de imagens por IA no Google Earth",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "O Google Earth ganhou um gerador de imagens por IA integrado, mas a ferramenta abriu espaço para deepfakes e desinformação geográfica quase imediatamente. O caso mostra como recursos generativos dentro de plataformas conhecidas podem ser abusados. Envolve riscos para usuários que confiam em mapas e imagens de satélite. É um alerta sobre governance de IA em produtos de massa.",
+    "reasonEn": "Google Earth got a built-in AI image generator, but the feature opened the door to deepfakes and geographic misinformation almost immediately. The case shows how generative features inside well-known platforms can be abused. It poses risks for users who trust maps and satellite imagery. A warning about AI governance in mass-market products.",
+    "score": 0.5,
+    "tags": [
+      "google",
+      "deepfake",
+      "regulação"
+    ],
+    "img": "img/a251e57ac907.jpg",
+    "ts": 1785528734,
+    "addedTs": 1785871153,
+    "urlHash": "a251e57ac907",
+    "titleHash": "aed6d1123c08"
+  },
+  {
+    "title": "Advancing responsible AI across Europe",
+    "titlePt": "OpenAI avança em IA responsável na Europa",
+    "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "A OpenAI publicou um posicionamento sobre como pretende avançar com práticas de IA responsável no mercado europeu, em meio ao AI Act e outras regulações. O texto fala de segurança, transparência e cooperação com governos. Importa para empresas europeias e para qualquer pessoa preocupada com o rumo regulatório. É um sinal de como big techs estão se adaptando às leis locais.",
+    "reasonEn": "OpenAI published a position on how it plans to advance responsible AI practices in Europe, amid the AI Act and other regulations. The text covers safety, transparency, and cooperation with governments. It matters for European companies and anyone concerned about the regulatory direction. A signal of how big tech is adapting to local laws.",
+    "score": 0.55,
+    "tags": [
+      "regulação",
+      "openai",
+      "europa"
+    ],
+    "img": "img/f8ec64126bda.jpg",
+    "ts": 1785510000,
+    "addedTs": 1785871153,
+    "urlHash": "f8ec64126bda",
+    "titleHash": "dee45836fda3"
+  },
+  {
+    "title": "The Download: tricking LLMs, and reviving geothermal plants",
+    "titlePt": "Boletim da MIT Tech Review: como enganar LLMs e revivendo usinas geotérmicas",
+    "url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
+    "source": "MIT Tech Review",
+    "sources": [
+      "MIT Tech Review"
+    ],
+    "reason": "O boletim semanal da MIT Technology Review reúne duas pautas: novas técnicas para enganar modelos de linguagem e o retorno de plantas geotérmicas com ajuda de tecnologia. As histórias dão contexto sobre vulnerabilidades de IA e transição energética. Serve como curadoria rápida para quem não tem tempo de ler tudo. Ajuda a ficar por dentro dos principais debates da semana.",
+    "reasonEn": "MIT Technology Review's weekly digest bundles two stories: new ways to trick language models and the revival of geothermal plants with tech help. The pieces give context on AI vulnerabilities and the energy transition. Useful quick curation for people short on time. Helps you stay on top of the week's main debates.",
+    "score": 0.5,
+    "tags": [
+      "boletim",
+      "segurança",
+      "energia"
+    ],
+    "img": "img/7cb09c16dd6d.jpg",
+    "ts": 1785413400,
+    "addedTs": 1785871153,
+    "urlHash": "7cb09c16dd6d",
+    "titleHash": "6c8c620c59ce"
+  },
+  {
+    "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+    "titlePt": "Falha fundamental deixa LLMs vulneráveis a ataques",
+    "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+    "source": "MIT Tech Review",
+    "sources": [
+      "MIT Tech Review"
+    ],
+    "reason": "Pesquisadores identificaram uma vulnerabilidade estrutural em modelos de linguagem que os torna suscetíveis a ataques adversariais. A fragilidade é compartilhada por diferentes LLMs, não apenas por um modelo específico. O problema afeta qualquer aplicação que dependa desses modelos em produção, de chatbots a ferramentas de código. É leitura obrigatória para times de segurança e para quem está integrando IA em produtos.",
+    "reasonEn": "Researchers identified a structural vulnerability in language models that makes them susceptible to adversarial attacks. The weakness is shared across different LLMs, not just one specific model. The problem affects any application relying on these models in production, from chatbots to coding tools. Required reading for security teams and for anyone integrating AI into products.",
+    "score": 0.7,
+    "tags": [
+      "segurança",
+      "llm"
+    ],
+    "img": "img/94e9e4b193c2.jpg",
+    "ts": 1785406519,
+    "addedTs": 1785871153,
+    "urlHash": "94e9e4b193c2",
+    "titleHash": "e3d876ed8335"
+  },
+  {
     "title": "A Data-Driven Explanation: Why Do AI Agents Still Fail",
     "titlePt": "Por que agentes de IA ainda falham: uma explicação baseada em dados",
     "url": "https://jeremytian.substack.com/p/a-data-driven-explanation-why-do",
