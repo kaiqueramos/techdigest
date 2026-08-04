@@ -1,5 +1,283 @@
 [
   {
+    "title": "AI Is Breaking the SaaS Deployment Model: 10 Commandments for BYOC",
+    "titlePt": "IA está quebrando o modelo SaaS: 10 mandamentos para BYOC",
+    "url": "https://byocanywhere.org/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo argumenta que a IA está forçando empresas a repensar como implantam software, migrando para o modelo BYOC (traga sua própria nuvem) por causa de dados sensíveis e custos. Oferece dez regras práticas para times de plataforma e DevOps. Importante para arquitetos e fundadores que estão decidindo onde rodar cargas de IA.",
+    "reasonEn": "The article argues AI is forcing companies to rethink how they deploy software, moving to a BYOC (bring your own cloud) model because of sensitive data and costs. It offers ten practical rules for platform and DevOps teams. Relevant for architects and founders deciding where to run AI workloads.",
+    "score": 0.65,
+    "tags": [
+      "saas",
+      "infra",
+      "byoc"
+    ],
+    "img": "img/f03d65cea758.jpg",
+    "ts": 1785807424,
+    "addedTs": 1785807789,
+    "urlHash": "f03d65cea758",
+    "titleHash": "b5e692c7ec04"
+  },
+  {
+    "title": "The Next Five Years – Economics of AI – Patrick Collison",
+    "titlePt": "Os próximos cinco anos – Economia da IA – Patrick Collison",
+    "url": "https://next-five-years.vercel.app/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Patrick Collison, cofundador da Stripe, escreve uma análise ampla sobre como a economia da IA deve evoluir nos próximos cinco anos, cobrindo custos, infraestrutura e valor criado. É um ensaio de referência para investidores, fundadores e executivos que precisam planejar estratégias. Leitura obrigatória para quem decide orçamento de tecnologia.",
+    "reasonEn": "Patrick Collison, Stripe co-founder, writes a broad analysis on how the AI economy should evolve over the next five years, covering costs, infrastructure and value created. It is a reference essay for investors, founders and executives who need to plan strategy. Must-read for anyone deciding technology budgets.",
+    "score": 0.85,
+    "tags": [
+      "economia",
+      "estratégia"
+    ],
+    "img": "img/727dcbc4381a.jpg",
+    "ts": 1785806113,
+    "addedTs": 1785807789,
+    "urlHash": "727dcbc4381a",
+    "titleHash": "6e317bdf0bca"
+  },
+  {
+    "title": "How are you operating AI infrastructure in production?",
+    "titlePt": "Como você opera infraestrutura de IA em produção?",
+    "url": "https://news.ycombinator.com/item?id=49163280",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Discussão no Hacker News em que engenheiros compartilham práticas reais para rodar modelos de IA em produção, incluindo custos, latência e observabilidade. Excelente para times de DevOps e ML que estão começando a escalar. O valor está nos comentários práticos, não no artigo em si.",
+    "reasonEn": "Hacker News discussion where engineers share real practices for running AI models in production, including costs, latency and observability. Excellent for DevOps and ML teams starting to scale. The value lies in the practical comments, not the post itself.",
+    "score": 0.6,
+    "tags": [
+      "infra",
+      "mlops"
+    ],
+    "img": "img/25b68affc9bc.jpg",
+    "ts": 1785805525,
+    "addedTs": 1785807789,
+    "urlHash": "25b68affc9bc",
+    "titleHash": "461e19c9d0da"
+  },
+  {
+    "title": "DeepSeek-V4-Flash-0731",
+    "titlePt": "DeepSeek lança modelo V4 Flash",
+    "url": "https://www.producthunt.com/products/deepseek",
+    "source": "ProductHunt",
+    "sources": [
+      "ProductHunt"
+    ],
+    "reason": "A chinesa DeepSeek anunciou o V4 Flash, nova versão otimizada para velocidade e baixo custo. Modelos abertos chineses costumam ser usados por desenvolvedores que querem rodar IA sem depender da OpenAI ou Anthropic. Vale ficar de olho nos benchmarks antes de migrar.",
+    "reasonEn": "Chinese lab DeepSeek announced V4 Flash, a new version tuned for speed and low cost. Chinese open models are often used by developers wanting to run AI without depending on OpenAI or Anthropic. Worth watching benchmarks before migrating.",
+    "score": 0.8,
+    "tags": [
+      "modelo",
+      "open-source",
+      "deepseek"
+    ],
+    "img": "img/9485e4897bb0.jpg",
+    "ts": 1785805428,
+    "addedTs": 1785807789,
+    "urlHash": "9485e4897bb0",
+    "titleHash": "31ae0a673dfb"
+  },
+  {
+    "title": "9router-Python – Python SDK for the 9Router AI gateway (35 models)",
+    "titlePt": "9router: SDK Python para 35 modelos de IA",
+    "url": "https://github.com/ChristopherDond/9router-python",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "SDK em Python que cria uma camada única para acessar 35 modelos diferentes através de um gateway. Ajuda desenvolvedores a trocar de provedor sem reescrever código e comparar custos. Útil para quem está prototipando e quer flexibilidade, mas ainda é peça pequena do ecossistema.",
+    "reasonEn": "Python SDK that creates a single layer to access 35 different models through a gateway. Helps developers switch providers without rewriting code and compare costs. Useful for prototyping with flexibility, but still a small piece of the ecosystem.",
+    "score": 0.5,
+    "tags": [
+      "sdk",
+      "python",
+      "gateway"
+    ],
+    "img": "img/c88af3517b14.jpg",
+    "ts": 1785804920,
+    "addedTs": 1785807789,
+    "urlHash": "c88af3517b14",
+    "titleHash": "38f3f2054026"
+  },
+  {
+    "title": "AI's Manifesto War",
+    "titlePt": "A guerra de manifestos da IA",
+    "url": "https://www.axios.com/2026/08/02/ai-manifesto-open-weight-models",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Análise sobre como laboratórios e empresas estão publicando manifestos concorrentes sobre segurança, futuro do trabalho e valores da IA. Importante para entender o discurso público e as jogadas de marketing por trás de cada nova fronteira de IA. Ajuda leitores a separar marketing de substância.",
+    "reasonEn": "Analysis of how labs and companies are publishing competing manifestos on AI safety, the future of work and values. Important for understanding the public discourse and marketing plays behind each new AI frontier. Helps readers separate marketing from substance.",
+    "score": 0.7,
+    "tags": [
+      "política",
+      "segurança"
+    ],
+    "img": "img/ffc310253b8f.jpg",
+    "ts": 1785803963,
+    "addedTs": 1785807789,
+    "urlHash": "ffc310253b8f",
+    "titleHash": "a723e3da62ff"
+  },
+  {
+    "title": "Show HN: \"Hedgehog\" - An Opinionated workflow for building with AI",
+    "titlePt": "Hedgehog: fluxo de trabalho opinativo para construir com IA",
+    "url": "https://github.com/skyf0xx/hedgehog",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Projeto open source que define um fluxo de trabalho estruturado e opinativo para criar produtos com IA. Pode acelerar times pequenos que ainda não definiram processo. Vale olhar para desenvolvedores solo ou startups early stage.",
+    "reasonEn": "Open source project that defines a structured and opinionated workflow to build products with AI. It can speed up small teams that have not yet defined their process. Worth a look for solo developers or early stage startups.",
+    "score": 0.5,
+    "tags": [
+      "workflow",
+      "open-source"
+    ],
+    "img": "img/0c32971c4128.jpg",
+    "ts": 1785803651,
+    "addedTs": 1785807789,
+    "urlHash": "0c32971c4128",
+    "titleHash": "c16632533ac2"
+  },
+  {
+    "title": "The Chinese AI labs are making four pretty different bets. I work at one of them",
+    "titlePt": "Os laboratórios chineses de IA estão fazendo quatro apostas bem diferentes",
+    "url": "https://reddit.com/comments/1veipya/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Texto escrito por alguém que trabalha em um laboratório chinês, descrevendo como as principais empresas do país estão seguindo estratégias distintas em modelos, aplicações e infraestrutura. Excelente visão interna sobre a próxima fase da corrida global de IA. Leitura essencial para quem toma decisões de longo prazo.",
+    "reasonEn": "Piece written by someone working at a Chinese lab describing how the country's main companies are following different strategies in models, applications and infrastructure. Excellent insider view on the next phase of the global AI race. Essential reading for long-term decision makers.",
+    "score": 0.85,
+    "tags": [
+      "china",
+      "estratégia",
+      "modelo"
+    ],
+    "img": "img/8082f23a3e41.jpg",
+    "ts": 1785803186,
+    "addedTs": 1785807789,
+    "urlHash": "8082f23a3e41",
+    "titleHash": "ec86abe73c38"
+  },
+  {
+    "title": "AI Agents Are Confirming Orders That Were Never Placed",
+    "titlePt": "Agentes de IA estão confirmando pedidos que nunca foram feitos",
+    "url": "https://industrycontents.com/ai-agent-journey-hallucinations/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Reportagem mostra casos reais em que agentes de IA em atendimento ou vendas inventaram pedidos, confirmaram transações inexistentes e geraram prejuízo para empresas e consumidores. Expõe o problema das alucinações quando agentes têm poder de ação. Leitura importante para quem implanta IA em fluxos com dinheiro real.",
+    "reasonEn": "Report shows real cases where AI agents in customer service or sales invented orders, confirmed non-existent transactions and caused losses for companies and consumers. It exposes the hallucination problem when agents have power to act. Important reading for anyone deploying AI in flows involving real money.",
+    "score": 0.85,
+    "tags": [
+      "agentes",
+      "risco"
+    ],
+    "img": "img/ebc76affc8b7.jpg",
+    "ts": 1785802319,
+    "addedTs": 1785807789,
+    "urlHash": "ebc76affc8b7",
+    "titleHash": "9898fe1f9243"
+  },
+  {
+    "title": "Ask HN: Does AI research need \"world models\" more than bigger LLMs?",
+    "titlePt": "Pesquisa em IA precisa mais de modelos de mundo do que de LLMs maiores?",
+    "url": "https://news.ycombinator.com/item?id=49162887",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Discussão no Hacker News sobre se o caminho para a próxima geração de IA passa por modelos que entendem causalidade e física, e não apenas por aumentar parâmetros. Tema relevante para pesquisadores e arquitetos, mas especulativo. Bom para entender o debate, sem urgência prática.",
+    "reasonEn": "Hacker News discussion on whether the path to the next AI generation goes through models that understand causality and physics, rather than just scaling parameters. Relevant topic for researchers and architects, but speculative. Good for understanding the debate, with no practical urgency.",
+    "score": 0.5,
+    "tags": [
+      "pesquisa",
+      "modelos"
+    ],
+    "img": "img/6884cd9c4971.jpg",
+    "ts": 1785801568,
+    "addedTs": 1785807789,
+    "urlHash": "6884cd9c4971",
+    "titleHash": "f4c555d9aea0"
+  },
+  {
+    "title": "This Week in AI Native Companies #2: The context layer gets funded",
+    "titlePt": "A camada de contexto recebe financiamento em rodada da semana",
+    "url": "https://www.insideainative.com/p/this-week-in-ai-native-companies-555",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Boletim semanal que resume os principais fatos sobre empresas nativas de IA, com destaque para rodada de financiamento na camada de contexto. Bom termômetro do ecossistema, útil para fundadores e investidores acompanharem o ritmo do mercado. Conteúdo denso, mas curto.",
+    "reasonEn": "Weekly newsletter summarizing the main facts about AI native companies, with a highlight on a funding round in the context layer. A good barometer of the ecosystem, useful for founders and investors tracking market pace. Dense but short content.",
+    "score": 0.75,
+    "tags": [
+      "investimento",
+      "startups"
+    ],
+    "img": "img/1f5d910bc41c.jpg",
+    "ts": 1785800340,
+    "addedTs": 1785807789,
+    "urlHash": "1f5d910bc41c",
+    "titleHash": "1e98fcaf444a"
+  },
+  {
+    "title": "AI website builders: 10 prompt-to-app tools compared by pricing and code export",
+    "titlePt": "Construtores de sites com IA: 10 ferramentas comparadas",
+    "url": "https://github.com/umairalisadaqat/awesome-ai-website-builders",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Comparativo prático entre 10 ferramentas que transformam prompts em aplicativos, cobrindo preço e exportação de código. Útil para quem quer escolher rapidamente entre Bolt, Lovable, v0 e similares. Conteúdo objetivo e direto, ideal para quem precisa decidir em poucas horas.",
+    "reasonEn": "Practical comparison of 10 tools that turn prompts into apps, covering pricing and code export. Useful for anyone quickly choosing between Bolt, Lovable, v0 and similar options. Objective and direct content, ideal for those needing to decide within hours.",
+    "score": 0.6,
+    "tags": [
+      "ferramentas",
+      "no-code"
+    ],
+    "img": "img/d7e2d7a5f07a.jpg",
+    "ts": 1785799921,
+    "addedTs": 1785807789,
+    "urlHash": "d7e2d7a5f07a",
+    "titleHash": "ed77310207d1"
+  },
+  {
+    "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry &#8216;Marxist&#8217;",
+    "titlePt": "Após trimestre forte, CEO da Palantir chama indústria de IA de 'marxista'",
+    "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "Alex Karp, CEO da Palantir, classificou a indústria de IA como 'marxista' após a empresa reportar resultados financeiros muito acima do esperado. O comentário vem em meio à concorrência acirrada e ao debate sobre quem captura o valor econômico da IA. A fala é polêmica e gerou reação no setor. Importa para investidores, executivos e qualquer pessoa acompanhando o debate sobre poder e lucro na indústria de IA. A Palantir tem se posicionado como beneficiária direta do gasto governamental e corporativo em IA.",
+    "reasonEn": "Palantir CEO Alex Karp labeled the AI industry 'Marxist' after the company posted far-better-than-expected quarterly results. The comment lands amid fierce competition and a growing debate about who captures AI's economic value. The remark is provocative and drew reactions across the sector. It matters to investors, executives, and anyone tracking the power and profit debate in AI. Palantir has positioned itself as a direct beneficiary of government and corporate AI spending.",
+    "score": 0.6,
+    "tags": [
+      "negócios",
+      "indústria",
+      "polêmica"
+    ],
+    "img": "img/7211733b3874.jpg",
+    "ts": 1785799190,
+    "addedTs": 1785807789,
+    "urlHash": "7211733b3874",
+    "titleHash": "69ec8ddd03c5"
+  },
+  {
     "title": "Qwen3.8-Max",
     "titlePt": "Qwen3.8-Max",
     "url": "https://www.producthunt.com/products/qwen3",
