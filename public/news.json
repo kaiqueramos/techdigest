@@ -1,5 +1,282 @@
 [
   {
+    "title": "Bending Spoons strikes $2.25B Airtable deal in first acquisition since IPO",
+    "titlePt": "Bending Spoons compra Airtable por US$ 2,25 bilhões em sua primeira aquisição após IPO",
+    "url": "https://sifted.eu/articles/bending-spoons-airtable-acquisition-post-ipo",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Bending Spoons, empresa europeia de tecnologia, anunciou a compra da Airtable por US$ 2,25 bilhões. Esta é a primeira grande aquisição da companhia desde sua abertura de capital na bolsa. O movimento mostra que a Bending Spoons segue estratégia agressiva de aquisições no mercado de software. Usuários e investidores da Airtable devem acompanhar possíveis mudanças no produto e na precificação.",
+    "reasonEn": "Bending Spoons, a European tech company, announced the purchase of Airtable for $2.25 billion. This is the company's first major acquisition since going public on the stock exchange. The move shows Bending Spoons continues an aggressive acquisition strategy in the software market. Airtable users and investors should watch for potential changes in product and pricing.",
+    "score": 0.85,
+    "tags": [
+      "aquisição",
+      "mercado"
+    ],
+    "img": "img/78ff27f7fbd5.jpg",
+    "ts": 1785844514,
+    "addedTs": 1785844633,
+    "urlHash": "78ff27f7fbd5",
+    "titleHash": "ce63682dcbe7"
+  },
+  {
+    "title": "Building compliant AI medical software",
+    "titlePt": "Desafios de construir software médico com IA em conformidade com regulação",
+    "url": "https://geekyants.com/en-us/blog/how-to-build-medical-device-software-with-ai-compliance-architecture-and-development-process",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo discute como desenvolver softwares de inteligência artificial para a área médica seguindo normas regulatórias, como as da FDA e Anvisa. Aponta que é preciso equilibrar inovação com segurança do paciente, validação clínica e privacidade de dados. O tema é especialmente relevante para desenvolvedores de saúde digital. Mostra que o caminho regulatório pode ser tão difícil quanto o técnico.",
+    "reasonEn": "The article discusses how to build AI software for healthcare following regulatory rules, such as those of the FDA and Anvisa. It points out the need to balance innovation with patient safety, clinical validation, and data privacy. The topic is especially relevant for digital health developers. It shows that the regulatory path can be as hard as the technical one.",
+    "score": 0.5,
+    "tags": [
+      "regulação",
+      "saúde"
+    ],
+    "img": "img/f9cc836c6925.jpg",
+    "ts": 1785843772,
+    "addedTs": 1785844633,
+    "urlHash": "f9cc836c6925",
+    "titleHash": "bb265e76218b"
+  },
+  {
+    "title": "Show HN: Bourdon – one shared memory file for Claude Code, Codex, Cursor",
+    "titlePt": "Bourdon cria arquivo único de memória compartilhada para Claude Code, Codex e Cursor",
+    "url": "https://bourdon.ai",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Bourdon é um projeto open source que propõe um arquivo único de memória compartilhada entre diferentes ferramentas de programação com IA, como Claude Code, Codex e Cursor. A ideia é evitar que cada assistente reinicie o contexto do zero. Isso pode melhorar bastante a produtividade de desenvolvedores que usam múltiplas ferramentas. É uma contribuição prática para o ecossistema de codificação com IA.",
+    "reasonEn": "Bourdon is an open source project that proposes a single shared memory file across different AI coding tools, like Claude Code, Codex, and Cursor. The idea is to stop each assistant from restarting context from scratch. This can greatly improve productivity for developers who use multiple tools. It is a practical contribution to the AI coding ecosystem.",
+    "score": 0.6,
+    "tags": [
+      "ferramenta",
+      "dev"
+    ],
+    "img": "img/25e065274016.jpg",
+    "ts": 1785843102,
+    "addedTs": 1785844633,
+    "urlHash": "25e065274016",
+    "titleHash": "aa4040417a64"
+  },
+  {
+    "title": "OpenAI drags Apple’s lawsuit into the court of public opinion",
+    "titlePt": "OpenAI leva briga judicial com Apple para a opinião pública",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "A OpenAI está tentando transformar a disputa judicial com a Apple em uma batalha narrativa na mídia, em vez de apenas nos tribunais. A empresa publicou declarações e materiais defendendo sua posição para a opinião pública. A estratégia é atípica e pode pressionar a Apple politicamente. É relevante para o setor de IA, pois envolve App Store, comissões e integração de modelos de linguagem em iPhones.",
+    "reasonEn": "OpenAI is trying to turn its legal dispute with Apple into a narrative battle in the media, not just in courts. The company published statements and materials defending its position to public opinion. The strategy is atypical and could politically pressure Apple. It is relevant for the AI sector, involving the App Store, commissions, and language model integration on iPhones.",
+    "score": 0.85,
+    "tags": [
+      "empresa",
+      "regulação"
+    ],
+    "img": "img/0849e1850177.jpg",
+    "ts": 1785842875,
+    "addedTs": 1785844633,
+    "urlHash": "0849e1850177",
+    "titleHash": "a934ed2f2da0"
+  },
+  {
+    "title": "US company's AI lets Ukraine's cheap kamikaze drones track targets on their own",
+    "titlePt": "IA americana permite que drones kamikaze ucranianos escolham alvos sozinhos",
+    "url": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma empresa americana desenvolveu sistema de inteligência artificial que permite a drones kamikaze baratos da Ucrânia identificar e perseguir alvos de forma autônoma. A tecnologia reduz a necessidade de operadores humanos em cada ataque e torna os drones mais eficazes em campo de batalha. O avanço tem implicações militares e éticas significativas. É um caso claro de aplicação bélica de IA com impacto geopolítico.",
+    "reasonEn": "An American company has built an AI system that lets cheap Ukrainian kamikaze drones identify and pursue targets autonomously. The technology reduces the need for human operators per attack and makes drones more effective on the battlefield. The advance has significant military and ethical implications. It is a clear case of wartime AI application with geopolitical impact.",
+    "score": 0.9,
+    "tags": [
+      "militar",
+      "ia"
+    ],
+    "img": "img/f815e2390a18.jpg",
+    "ts": 1785842677,
+    "addedTs": 1785844633,
+    "urlHash": "f815e2390a18",
+    "titleHash": "66b3a3c43dd9"
+  },
+  {
+    "title": "Claude Code Source Code Analysis",
+    "titlePt": "Análise do código-fonte do Claude Code revela detalhes internos",
+    "url": "https://kuber.studio/blog/AI/Claude-Code%27s-Entire-Source-Code-Got-Leaked-via-a-Sourcemap-in-npm,-Let%27s-Talk-About-it",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um desenvolvedor publicou análise do código-fonte do Claude Code, ferramenta de programação com IA da Anthropic. O estudo mostra trechos internos, padrões de implementação e possíveis vulnerabilidades ou peculiaridades. É útil para quem quer entender como a Anthropic construiu seu agente de codificação. Pode influenciar forks, integrações e auditorias de segurança.",
+    "reasonEn": "A developer published an analysis of Claude Code's source code, Anthropic's AI programming tool. The study shows internal snippets, implementation patterns, and possible vulnerabilities or quirks. It is useful for those who want to understand how Anthropic built its coding agent. It may influence forks, integrations, and security audits.",
+    "score": 0.5,
+    "tags": [
+      "dev",
+      "análise"
+    ],
+    "img": "img/c26afa9494c2.jpg",
+    "ts": 1785841508,
+    "addedTs": 1785844633,
+    "urlHash": "c26afa9494c2",
+    "titleHash": "b5e60c8c5629"
+  },
+  {
+    "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
+    "titlePt": "Pacote Keyv é alvo de ataque ativo à cadeia de suprimentos chamado Shai-Hulud",
+    "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O pacote Keyv e vários outros da sua rede de dependências foram comprometidos em um ataque ativo à cadeia de suprimentos de software, batizado Shai-Hulud. Criminosos injetaram código malicioso em versões publicadas, afetando milhares de projetos a jusante. Desenvolvedores devem auditar dependências imediatamente. É um incidente grave de segurança que reforça a fragilidade do ecossistema npm.",
+    "reasonEn": "The Keyv package and several others in its dependency network were compromised in an active software supply chain attack dubbed Shai-Hulud. Attackers injected malicious code into published versions, affecting thousands of downstream projects. Developers should audit dependencies immediately. It is a serious security incident that reinforces the fragility of the npm ecosystem.",
+    "score": 0.75,
+    "tags": [
+      "segurança",
+      "dev"
+    ],
+    "img": "img/1c015336aa68.jpg",
+    "ts": 1785841297,
+    "addedTs": 1785844633,
+    "urlHash": "1c015336aa68",
+    "titleHash": "de4e26dac3a8"
+  },
+  {
+    "title": "Can AI agents conduct open-ended AI research?",
+    "titlePt": "Pesquisa avalia se agentes de IA podem fazer pesquisa científica em aberto",
+    "url": "https://arxiv.org/abs/2607.27191",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo analisa se agentes de inteligência artificial são capazes de conduzir pesquisas científicas abertas de forma autônoma, sem direção humana constante. Avalia limitações atuais, como dificuldade em formular hipóteses originais e validar resultados. Conclui que ainda estamos longe de substituir pesquisadores humanos. É leitura recomendada para quem trabalha com IA aplicada e ciência.",
+    "reasonEn": "The article analyzes whether AI agents are capable of conducting open-ended scientific research autonomously, without constant human direction. It evaluates current limitations, such as difficulty formulating original hypotheses and validating results. It concludes we are still far from replacing human researchers. It is recommended reading for those working with applied AI and science.",
+    "score": 0.55,
+    "tags": [
+      "pesquisa",
+      "agentes"
+    ],
+    "img": "img/1cf9928a3d86.jpg",
+    "ts": 1785840944,
+    "addedTs": 1785844633,
+    "urlHash": "1cf9928a3d86",
+    "titleHash": "3754332a7b4e"
+  },
+  {
+    "title": "Google AI Studio's \"Delete\" button is misleading [video]",
+    "titlePt": "Botão 'Excluir' do Google AI Studio engana usuários",
+    "url": "https://www.tiktok.com/@user6510076090944/video/7670062915185085719?is_from_webapp=1&sender_device=pc&web_id=7670061487374484995",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um vídeo mostra que o botão 'Delete' no Google AI Studio não apaga os dados como parece. O clique envia informações para outros lugares em vez de realmente removê-las. Isso afeta qualquer pessoa que usa a ferramenta para experimentar com IA. A descoberta reacende o debate sobre transparência em interfaces de produtos de inteligência artificial. Vale ficar atento antes de confiar no botão.",
+    "reasonEn": "A video shows that the 'Delete' button in Google AI Studio does not actually remove user data as it suggests. Clicking the button appears to send information elsewhere instead of truly deleting it. This affects anyone using the tool to experiment with AI. The finding reignites debate about transparency in AI product interfaces. Users should be cautious before trusting the button.",
+    "score": 0.6,
+    "tags": [
+      "ux",
+      "google",
+      "privacidade"
+    ],
+    "img": "img/679907ee7aa3.jpg",
+    "ts": 1785838796,
+    "addedTs": 1785844633,
+    "urlHash": "679907ee7aa3",
+    "titleHash": "564c4e53c1d7"
+  },
+  {
+    "title": "Can Reddit fend off a new wave of AI SEO spam?",
+    "titlePt": "O Reddit consegue barrar a nova onda de spam de SEO com IA?",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "O Reddit enfrenta um aumento de conteúdo gerado por IA feito apenas para aparecer bem no Google. Bots e ferramentas automatizadas inundam fóruns com textos de baixa qualidade que imitam posts humanos. A plataforma precisa decidir se age firme na moderação ou perde relevância nas buscas. Qualquer pessoa que usa o Reddit ou depende de resultados orgânicos é afetada.",
+    "reasonEn": "Reddit is facing a surge of AI-generated content built only to rank on Google. Bots and automated tools flood forums with low-quality posts that mimic human writing. The platform must decide whether to enforce strict moderation or lose relevance in search. Anyone using Reddit or relying on organic search is affected.",
+    "score": 0.7,
+    "tags": [
+      "seo",
+      "spam",
+      "reddit"
+    ],
+    "img": "img/b088409319e1.jpg",
+    "ts": 1785809050,
+    "addedTs": 1785844633,
+    "urlHash": "b088409319e1",
+    "titleHash": "27aed0f812a0"
+  },
+  {
+    "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+    "titlePt": "YouTuber Hank Green diz que seu uso de IA 'não é saudável'",
+    "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "O criador Hank Green admitiu publicamente que está usando IA de forma excessiva no trabalho. Ele contou que ferramentas automatizadas estão mudando seus hábitos de criação e rotina. O relato reacende o debate sobre dependência de tecnologia entre creators. A fala pode influenciar como outros profissionais pensam seu consumo de IA.",
+    "reasonEn": "Creator Hank Green publicly admitted he has been overusing AI in his work. He shared that automated tools are changing his creative habits and routine. The account reignites debate about tech dependence among creators. His words may shape how other professionals think about their AI consumption.",
+    "score": 0.5,
+    "tags": [
+      "creator",
+      "ética"
+    ],
+    "img": "img/5f500551f75d.jpg",
+    "ts": 1785613545,
+    "addedTs": 1785844633,
+    "urlHash": "5f500551f75d",
+    "titleHash": "bed4d68b25be"
+  },
+  {
+    "title": "Sam Altman is still making the case for parenting via ChatGPT",
+    "titlePt": "Sam Altman continua defendendo o uso do ChatGPT na criação dos filhos",
+    "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "O CEO da OpenAI voltou a defender que pais devem usar o ChatGPT para ajudar na criação dos filhos. Ele afirma que a ferramenta pode ser um recurso útil para questões do dia a dia da família. A fala reacende críticas sobre os limites do uso de IA com crianças. Pais, educadores e reguladores estão no centro do debate.",
+    "reasonEn": "OpenAI's CEO again defended the idea that parents should use ChatGPT to help raise their children. He says the tool can be a useful resource for everyday family questions. The statement reignites criticism over the limits of AI use with kids. Parents, educators and regulators are at the center of the debate.",
+    "score": 0.6,
+    "tags": [
+      "openai",
+      "educação",
+      "família"
+    ],
+    "img": "img/0fd7d700f38c.jpg",
+    "ts": 1785604054,
+    "addedTs": 1785844633,
+    "urlHash": "0fd7d700f38c",
+    "titleHash": "938cd7cd6257"
+  },
+  {
+    "title": "Is paying artists enough to convince them to embrace AI?",
+    "titlePt": "Pagar artistas basta para convencê-los a aceitar a IA?",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "Empresas de IA começam a oferecer pagamento a artistas para usar suas obras no treinamento de modelos. A proposta divide a comunidade criativa entre quem aceita e quem rejeita o acordo. A discussão levanta dúvidas sobre consentimento e valor justo do trabalho criativo. Artistas, plataformas e consumidores são todos afetados pelo resultado dessa conversa.",
+    "reasonEn": "AI companies are starting to pay artists to use their works in training models. The proposal divides the creative community between those who accept and those who reject the deal. The discussion raises questions about consent and the fair value of creative work. Artists, platforms and consumers are all affected by the outcome.",
+    "score": 0.5,
+    "tags": [
+      "arte",
+      "direitos",
+      "treinamento"
+    ],
+    "img": "img/b70a57a46cba.jpg",
+    "ts": 1785532589,
+    "addedTs": 1785844633,
+    "urlHash": "b70a57a46cba",
+    "titleHash": "432aa79f6a84"
+  },
+  {
     "title": "We need to talk about AI in mathematics",
     "titlePt": "Precisamos falar sobre IA na matemática",
     "url": "https://www.youtube.com/watch?v=cS1SJ0oBbTI",
