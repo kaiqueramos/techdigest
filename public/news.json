@@ -1,5 +1,247 @@
 [
   {
+    "title": "Hark previews its browser use agent for completing tasks",
+    "titlePt": "Hark antecipa agente de IA que opera dentro do navegador",
+    "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A startup Hark mostrou uma prévia do seu agente de IA que usa o navegador para concluir tarefas de forma autônoma. O produto entra em um campo cada vez mais concorrido, ao lado de ofertas da OpenAI e da Anthropic. A apresentação ainda é uma demo pública, sem lançamento amplo. Para quem acompanha o setor de agentes, é mais um sinal de que a corrida está acelerando.",
+    "reasonEn": "Startup Hark previewed an AI agent that operates inside a browser to autonomously complete tasks. The product enters a crowded field alongside offerings from OpenAI and Anthropic. The presentation is still a public demo, with no broad launch yet. For those following the agent space, another signal that the race is accelerating.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "navegador",
+      "lançamento"
+    ],
+    "img": "img/3b841d2697a2.jpg",
+    "ts": 1785944787,
+    "addedTs": 1785945288,
+    "urlHash": "3b841d2697a2",
+    "titleHash": "cdbecd73853b"
+  },
+  {
+    "title": "Ledgerful – I built a local tool to catch when AI invents stuff in my code",
+    "titlePt": "Ledgerful: ferramenta local que detecta quando a IA inventa coisas no código",
+    "url": "https://www.ledgerful.dev",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O desenvolvedor apresentou no HackerNews o Ledgerful, um utilitário local para flagrar alucinações de IA dentro do código. A ferramenta promete identificar funções inventadas, bibliotecas inexistentes e APIs falsas. Resolve um problema concreto e frequente em fluxos com assistentes de código. É leitura rápida e útil para qualquer pessoa que dependa de sugestões de IA.",
+    "reasonEn": "A developer showed off Ledgerful on HackerNews, a local utility that spots AI hallucinations inside code. The tool promises to flag invented functions, made-up libraries, and fake APIs. It addresses a concrete, frequent problem in coding-assistant workflows. A quick, useful read for anyone relying on AI code suggestions.",
+    "score": 0.65,
+    "tags": [
+      "ferramenta",
+      "desenvolvedores",
+      "hallucinação"
+    ],
+    "img": "img/1f9b39f1e9df.jpg",
+    "ts": 1785944412,
+    "addedTs": 1785945288,
+    "urlHash": "1f9b39f1e9df",
+    "titleHash": "cdaea3144703"
+  },
+  {
+    "title": "AI agents can't yet do open-ended AI research",
+    "titlePt": "Análise: agentes de IA ainda não conseguem fazer pesquisa aberta em IA",
+    "url": "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo avalia o estado atual dos agentes de IA em tarefas de pesquisa em aberto dentro da própria área de inteligência artificial. O veredito é que eles ainda não conseguem fazer descobertas significativas sem supervisão humana. Ajuda a calibrar expectativas em torno do hype dos agentes autônomos. Útil para quem define estratégia ou decide investimentos na área.",
+    "reasonEn": "The piece reviews how today's AI agents handle open-ended research within AI itself. The verdict: they still fail at meaningful discoveries without human oversight. Helps calibrate expectations around autonomous-agent hype. Useful for anyone setting strategy or making investment calls in AI.",
+    "score": 0.55,
+    "tags": [
+      "agentes",
+      "pesquisa",
+      "análise"
+    ],
+    "img": "img/e1dd159cc98a.jpg",
+    "ts": 1785943913,
+    "addedTs": 1785945288,
+    "urlHash": "e1dd159cc98a",
+    "titleHash": "3a3225bfd478"
+  },
+  {
+    "title": "Meta Backs Off Sloppy Gambit to Nickel-and-Dime AI Glasses Customers",
+    "titlePt": "Meta recua e desiste de cobrar taxas extras em óculos com IA",
+    "url": "https://www.techdirt.com/2026/08/05/meta-backs-off-sloppy-gambit-to-nickel-and-dime-ai-glasses-customers/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Meta voltou atrás de uma decisão considerada confusa de cobrar valores adicionais por recursos de IA em seus óculos inteligentes. A cobrança havia irritado clientes e gerado críticas em fóruns especializados. O recuo mostra como o feedback rápido ainda força a empresa a corrigir rumos. Boa notícia para quem comprou ou pretende comprar o produto.",
+    "reasonEn": "Meta walked back a confusing move to charge extra fees for AI features on its smart glasses. The charge had annoyed customers and drawn criticism in tech forums. The reversal shows that quick feedback still forces the company to course-correct. Good news for anyone who bought or plans to buy the glasses.",
+    "score": 0.6,
+    "tags": [
+      "meta",
+      "óculos",
+      "negócios"
+    ],
+    "img": "img/50afeb0b564d.jpg",
+    "ts": 1785943374,
+    "addedTs": 1785945288,
+    "urlHash": "50afeb0b564d",
+    "titleHash": "aa21b174be57"
+  },
+  {
+    "title": "TencentDB Agent Memory: A team-level memory hub for AI agents",
+    "titlePt": "Tencent lança hub de memória compartilhada para times de agentes",
+    "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O time do TencentDB apresentou uma estrutura de memória compartilhada para times de agentes de IA, funcionando como um hub central de conhecimento. O objetivo é permitir que múltiplos agentes troquem contexto entre si em tarefas colaborativas. A novidade reflete uma tendência crescente em arquiteturas multiagente. Relevante para desenvolvedores que montam pipelines com agentes coordenados.",
+    "reasonEn": "The TencentDB team introduced a shared memory hub for teams of AI agents, serving as a central knowledge hub. The goal is letting multiple agents exchange context during collaborative tasks. It reflects a growing trend in multi-agent architectures. Relevant for developers building coordinated agent pipelines.",
+    "score": 0.5,
+    "tags": [
+      "tencent",
+      "memória",
+      "agentes"
+    ],
+    "img": "img/b599dd2f1ad4.jpg",
+    "ts": 1785943239,
+    "addedTs": 1785945288,
+    "urlHash": "b599dd2f1ad4",
+    "titleHash": "37606e61bc28"
+  },
+  {
+    "title": "We gave a village personal AI agents",
+    "titlePt": "Experimento: uma aldeia inteira recebeu agentes pessoais de IA",
+    "url": "https://blog.cosmos-institute.org/p/we-gave-a-village-personal-ai-agents",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um projeto levou agentes pessoais de IA para os moradores de uma aldeia, dando a eles acesso direto a assistentes personalizados. O relato cobre casos de uso, ganhos percebidos e problemas encontrados. É um dos poucos experimentos sociais com implantação massiva de agentes. Vale para quem estuda impacto social da IA e modelos de distribuição.",
+    "reasonEn": "A project deployed personal AI agents to an entire village, giving residents direct access to customized assistants. The write-up covers real use cases, reported gains, and issues faced. One of the few social experiments with mass agent deployment. Worth reading for anyone studying AI social impact and distribution models.",
+    "score": 0.6,
+    "tags": [
+      "experimento",
+      "social",
+      "agentes"
+    ],
+    "img": "img/f89216818621.jpg",
+    "ts": 1785942264,
+    "addedTs": 1785945288,
+    "urlHash": "f89216818621",
+    "titleHash": "1676056c2ef7"
+  },
+  {
+    "title": "Zero-Day to Zero Doubt: AI-Powered CVE Forensics in an Afternoon",
+    "titlePt": "Forense de CVE com IA em apenas um turno de trabalho",
+    "url": "https://blog.quent.in/blog/2026/07/31/zero-day-to-zero-doubt-ai-powered-cve-forensics-in-an-afternoon/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo mostra como ferramentas de IA reduzem a análise de vulnerabilidades zero-day de dias para horas. Descreve um fluxo de uso prático e o ganho de produtividade em equipes de segurança. É um exemplo real de IA entregando valor mensurável em segurança ofensiva. Vale leitura rápida para profissionais de AppSec.",
+    "reasonEn": "The article shows how AI tools compress zero-day vulnerability analysis from days into hours. It walks through a practical workflow and the productivity gains for security teams. A real-world case where AI delivers measurable value in offensive security. Worth a quick read for AppSec professionals.",
+    "score": 0.6,
+    "tags": [
+      "segurança",
+      "zero-day",
+      "ia"
+    ],
+    "img": "img/e11024ba03c0.jpg",
+    "ts": 1785941772,
+    "addedTs": 1785945288,
+    "urlHash": "e11024ba03c0",
+    "titleHash": "53b44c469b82"
+  },
+  {
+    "title": "Celeris-1: A diffusion LLM benchmarked at 2,082 output tokens/s",
+    "titlePt": "Celeris-1 atinge 2.082 tokens por segundo em LLM de difusão",
+    "url": "https://artificialanalysis.ai/models/celeris-1",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O modelo Celeris-1, um LLM baseado em arquitetura de difusão, marcou 2.082 tokens por segundo em benchmark público. É um salto expressivo em velocidade de geração e pode mudar a relação custo-benefício de aplicações com alto volume de saída. Para engenheiros que constroem produtos com LLMs, é referência a acompanhar de perto.",
+    "reasonEn": "Celeris-1, a diffusion-based LLM, hit 2,082 output tokens per second in a public benchmark. That's a meaningful jump in generation speed and could shift the cost-benefit curve for high-output LLM applications. A reference point worth tracking closely for engineers building LLM-backed products.",
+    "score": 0.7,
+    "tags": [
+      "benchmark",
+      "llm",
+      "velocidade"
+    ],
+    "img": "img/43d4803d0a10.jpg",
+    "ts": 1785941698,
+    "addedTs": 1785945288,
+    "urlHash": "43d4803d0a10",
+    "titleHash": "f81262d83cf2"
+  },
+  {
+    "title": "SpaceX revenue rockets while AI spending burns billions",
+    "titlePt": "Receita da SpaceX sobe forte enquanto gastos com IA somam bilhões",
+    "url": "https://www.theregister.com/ai-and-ml/2026/08/05/spacex-revenue-rockets-while-ai-spending-burns-billions/5283404",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O mais recente relatório financeiro da SpaceX mostrou alta expressiva na receita, mas também planos de gasto bilionário em IA. A empresa está equilibrando o caixa robusto de lançamentos com apostas pesadas em inteligência artificial. O contraste gerou debate sobre a capacidade de manter o ritmo de investimento. Importante para quem acompanha SpaceX e o setor aeroespacial.",
+    "reasonEn": "SpaceX's latest earnings report showed strong revenue growth alongside plans for billions in AI spending. The company is balancing solid launch revenue with heavy AI bets. The contrast sparked debate over its ability to sustain the investment pace. Relevant for anyone tracking SpaceX and the aerospace sector.",
+    "score": 0.65,
+    "tags": [
+      "spacex",
+      "finanças",
+      "ia"
+    ],
+    "img": "img/30bd19b85d44.jpg",
+    "ts": 1785941503,
+    "addedTs": 1785945288,
+    "urlHash": "30bd19b85d44",
+    "titleHash": "ea7a04ed5f54"
+  },
+  {
+    "title": "Anthropic is hiring an AI chip design team",
+    "titlePt": "Anthropic está montando um time de design de chips de IA",
+    "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A Anthropic, criadora do Claude, abriu vagas para montar um time interno de design de chips de inteligência artificial. A movimentação sugere que a empresa quer reduzir a dependência da Nvidia e ter mais controle sobre o hardware usado para treinar e rodar seus modelos. Isso pode acelerar a corrida por chips próprios entre grandes laboratórios de IA.",
+    "reasonEn": "Anthropic, the maker of Claude, is hiring to build an internal AI chip design team. The move signals the company wants less reliance on Nvidia and more control over the hardware running its models. It adds fuel to the race among top AI labs to design custom silicon.",
+    "score": 0.75,
+    "tags": [
+      "chips",
+      "anthropic",
+      "hardware"
+    ],
+    "img": "img/0538e16fdfd7.jpg",
+    "ts": 1785939198,
+    "addedTs": 1785945288,
+    "urlHash": "0538e16fdfd7",
+    "titleHash": "d8ffd6564e44"
+  },
+  {
+    "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
+    "titlePt": "Hackers usam 9 ferramentas populares de IA para montar botnets",
+    "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
+    "source": "Ars Technica",
+    "sources": [
+      "Ars Technica"
+    ],
+    "reason": "Pesquisadores descobriram que criminosos conseguem combinar nove serviços populares de IA para criar botnets que executam tarefas automaticamente. O ataque transforma ferramentas legítimas em infraestrutura maliciosa. É alerta importante para empresas que oferecem APIs e para usuários em geral.",
+    "reasonEn": "Researchers found that criminals can chain nine popular AI services to build botnets that run tasks automatically. The attack turns legitimate tools into malicious infrastructure. It is a serious warning for API providers and everyday users.",
+    "score": 0.7,
+    "tags": [
+      "segurança",
+      "botnet",
+      "fraude"
+    ],
+    "img": "img/e5525d910e9c.jpg",
+    "ts": 1783494051,
+    "addedTs": 1785945288,
+    "urlHash": "e5525d910e9c",
+    "titleHash": "f6a60f0c26ea"
+  },
+  {
     "title": "ngrok AI Gateway",
     "titlePt": "ngrok lança um Gateway de IA",
     "url": "https://www.producthunt.com/products/ngrok-ai-gateway",
