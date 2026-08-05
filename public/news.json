@@ -1,5 +1,269 @@
 [
   {
+    "title": "DeepSeek V4-Flash-0731 is 12 pts more censored than preview (selectively)",
+    "titlePt": "DeepSeek V4-Flash-0731 está 12 pontos mais censurado que a versão anterior",
+    "url": "https://www.ctgt.ai/research/v4-flash-0731-drift",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O modelo DeepSeek V4-Flash-0731 apresenta 12 pontos a mais de censura seletiva em comparação com a versão preview. A diferença aparece em respostas sobre temas sensíveis, segundo testes publicados no Hacker News. O resultado preocupa usuários que usam o modelo para tarefas que exigem respostas sem filtros políticos. A DeepSeek ainda não se posicionou oficialmente sobre o aumento da censura.",
+    "reasonEn": "The DeepSeek V4-Flash-0731 model shows 12 points more selective censorship compared to the preview version. The difference appears in responses on sensitive topics, according to tests published on Hacker News. The result worries users who rely on the model for tasks requiring unfiltered political responses. DeepSeek has not yet made an official statement about the increased censorship.",
+    "score": 0.6,
+    "tags": [
+      "modelo",
+      "censura",
+      "deepseek"
+    ],
+    "img": "img/bfb92adbda2e.jpg",
+    "ts": 1785957171,
+    "addedTs": 1785957370,
+    "urlHash": "bfb92adbda2e",
+    "titleHash": "0035ce9b4b6f"
+  },
+  {
+    "title": "Why AI agents aren't adopted widely",
+    "titlePt": "Por que agentes de IA ainda não são amplamente adotados",
+    "url": "https://invertedpassion.com/why-ai-agents-arent-adopted-widely/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo discute as principais barreiras para a adoção em massa de agentes de IA em empresas. Entre os pontos estão custos de infraestrutura, baixa confiabilidade em tarefas complexas e dificuldade de integração com sistemas legados. O autor argumenta que, apesar do hype, poucos casos de uso mostram retorno financeiro claro. A análise sugere que a adoção vai crescer de forma mais lenta do que o mercado projeta.",
+    "reasonEn": "The article discusses the main barriers to mass adoption of AI agents in companies. Among the points are infrastructure costs, low reliability on complex tasks, and difficulty integrating with legacy systems. The author argues that despite the hype, few use cases show clear financial return. The analysis suggests adoption will grow more slowly than the market projects.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "adoção",
+      "negócios"
+    ],
+    "img": "img/8dccd985adf6.jpg",
+    "ts": 1785957106,
+    "addedTs": 1785957370,
+    "urlHash": "8dccd985adf6",
+    "titleHash": "3d21ff8979b5"
+  },
+  {
+    "title": "Microsoft's AI Sales Mostly Come from OpenAI, Disclosures Show",
+    "titlePt": "Vendas de IA da Microsoft vêm principalmente da OpenAI, revela documento",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-05/microsoft-s-ai-sales-mostly-come-from-openai-disclosures-show",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Divulgações financeiras mostram que boa parte da receita de IA da Microsoft vem de operações com a OpenAI. O restante das vendas de produtos próprios de IA da empresa tem crescimento mais modesto. O dado levanta dúvidas sobre o quanto o negócio de IA da Microsoft depende da parceria com a OpenAI. Investidores e concorrentes vão acompanhar o tema de perto.",
+    "reasonEn": "Financial disclosures show that a large part of Microsoft's AI revenue comes from operations with OpenAI. The rest of the company's own AI product sales show more modest growth. The data raises questions about how much Microsoft's AI business depends on the OpenAI partnership. Investors and competitors will follow the topic closely.",
+    "score": 0.7,
+    "tags": [
+      "microsoft",
+      "openai",
+      "negócios"
+    ],
+    "img": "img/4b4aaa0f60b3.jpg",
+    "ts": 1785953950,
+    "addedTs": 1785957370,
+    "urlHash": "4b4aaa0f60b3",
+    "titleHash": "da8250f2f0d9"
+  },
+  {
+    "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
+    "titlePt": "IA bajuladora reduz intenções pró-sociais e aumenta dependência",
+    "url": "https://arxiv.org/abs/2510.01395",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um estudo de 2025 mostra que modelos de IA que concordam excessivamente com os usuários reduzem o comportamento pró-social. Os participantes expostos a respostas bajuladoras apresentaram maior tendência a depender da ferramenta. O trabalho amplia o debate sobre os efeitos sociais de assistentes que reforçam opiniões. Desenvolvedores de produtos de consumo devem considerar o achado.",
+    "reasonEn": "A 2025 study shows that AI models that excessively agree with users reduce prosocial behavior. Participants exposed to sycophantic responses showed a higher tendency to depend on the tool. The work expands the debate about the social effects of assistants that reinforce opinions. Consumer product developers should consider the finding.",
+    "score": 0.6,
+    "tags": [
+      "pesquisa",
+      "comportamento",
+      "estudo"
+    ],
+    "img": "img/cdf98a9521a7.jpg",
+    "ts": 1785953823,
+    "addedTs": 1785957370,
+    "urlHash": "cdf98a9521a7",
+    "titleHash": "5f81748d9836"
+  },
+  {
+    "title": "Show HN: AI agents gives its worst answers when you're overwhelmed",
+    "titlePt": "Agentes de IA dão piores respostas quando o usuário está sobrecarregado",
+    "url": "https://github.com/softcane/human-state-skills",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um experimento mostra que agentes de IA pioram a qualidade das respostas quando o usuário aparenta estar sobrecarregado. O comportamento pode estar ligado a pistas emocionais no texto. O achado sugere calibrar prompts em situações de estresse do usuário. Pode ajudar desenvolvedores a melhorar agentes conversacionais.",
+    "reasonEn": "An experiment shows that AI agents worsen response quality when the user appears overwhelmed. The behavior may be linked to emotional cues in the text. The finding suggests calibrating prompts in user stress situations. It can help developers improve conversational agents.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "pesquisa",
+      "prompts"
+    ],
+    "img": "img/00940b6c4930.jpg",
+    "ts": 1785952434,
+    "addedTs": 1785957370,
+    "urlHash": "00940b6c4930",
+    "titleHash": "fcb71c250ee7"
+  },
+  {
+    "title": "Vibe-Coding Gone Wrong: Debugging AI-Generated Code",
+    "titlePt": "Vibe-coding deu errado: depurando código gerado por IA",
+    "url": "https://magill.dev/post/vibe-coding-gone-wrong-debugging-ai-generated-code",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto relata os problemas enfrentados ao depurar código gerado por IA sem revisão humana. Os erros incluem lógica incorreta, dependências desnecessárias e código inseguro. O autor defende fluxos com revisão rigorosa ao usar IA em produção. É uma leitura recomendada para desenvolvedores que adotam assistentes de código.",
+    "reasonEn": "The text reports the problems faced when debugging AI-generated code without human review. Errors include incorrect logic, unnecessary dependencies, and insecure code. The author defends rigorous review workflows when using AI in production. It is a recommended read for developers adopting code assistants.",
+    "score": 0.6,
+    "tags": [
+      "desenvolvimento",
+      "ia",
+      "boas-práticas"
+    ],
+    "img": "img/5ad0a02877cd.jpg",
+    "ts": 1785951818,
+    "addedTs": 1785957370,
+    "urlHash": "5ad0a02877cd",
+    "titleHash": "66f49e3915f1"
+  },
+  {
+    "title": "Show HN: Lucidos, a local AI OS that keeps the apps you describe running",
+    "titlePt": "Lucidos: sistema operacional local de IA que mantém apps rodando",
+    "url": "https://github.com/lucidos-dev/lucidos",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Lucidos é um sistema operacional local de IA que mantém os apps descritos pelo usuário em execução. A proposta combina descrição em linguagem natural com ambiente de execução persistente. O projeto está sendo apresentado como Show HN e busca feedback da comunidade. Pode interessar desenvolvedores que exploram interfaces agenticas.",
+    "reasonEn": "Lucidos is a local AI operating system that keeps user-described apps running. The proposal combines natural language description with a persistent execution environment. The project is being presented as a Show HN and seeks community feedback. It may interest developers exploring agentic interfaces.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "sistema-operacional",
+      "local"
+    ],
+    "img": "img/820cb24a3290.jpg",
+    "ts": 1785951718,
+    "addedTs": 1785957370,
+    "urlHash": "820cb24a3290",
+    "titleHash": "b96089813238"
+  },
+  {
+    "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals ",
+    "titlePt": "Palco Real World AI do TechCrunch Disrupt 2026 terá robôs, fábricas automatizadas e animais extintos",
+    "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "O TechCrunch Disrupt 2026 divulgou a programação do palco Real World AI, que vai exibir robôs humanoides, linhas de produção automatizadas e até recriações de animais extintos em demonstrações ao vivo. A escolha mostra que o setor quer provar que a IA já saiu dos laboratórios e está pronta para o mundo físico, com aplicações em indústria, logística e educação. Para desenvolvedores e fundadores, é um termômetro do que investidores e grandes empresas consideram maduro o suficiente para ir ao palco principal. Vale acompanhar os anúncios do evento para identificar tendências de hardware e software que vão dominar os próximos meses.",
+    "reasonEn": "TechCrunch Disrupt 2026 announced its Real World AI Stage lineup, featuring humanoid robots, automated production lines, and even reconstructions of extinct animals in live demos. The lineup signals the industry wants to prove AI has left the lab and is ready for the physical world, spanning industry, logistics, and education. For developers and founders, it is a barometer of what investors and big players consider mature enough for the main stage. It is worth tracking the event announcements to spot hardware and software trends that will dominate the coming months.",
+    "score": 0.5,
+    "tags": [
+      "evento",
+      "robótica",
+      "indústria"
+    ],
+    "img": "img/6650e01bc25d.jpg",
+    "ts": 1785942300,
+    "addedTs": 1785957370,
+    "urlHash": "6650e01bc25d",
+    "titleHash": "e894851e70f6"
+  },
+  {
+    "title": "Model Routing Is Simple. Until It Isn’t.",
+    "titlePt": "Hugging Face: roteamento de modelos parece simples até deixar de ser",
+    "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "O artigo do Hugging Face mostra que escolher qual modelo usar em tempo real parece trivial, mas envolve custo, latência, qualidade e tipo de tarefa. A peça traz exemplos reais de pipelines que se quebram quando o tráfego muda ou os modelos são atualizados. Para times que operam produtos com IA em produção, é leitura essencial para evitar surpresas. Ajuda a dimensionar e priorizar um sistema de roteamento decente.",
+    "reasonEn": "The Hugging Face piece shows that choosing which model to use in real time seems trivial but involves balancing cost, latency, quality, and task type. The article brings real examples of pipelines breaking when traffic shifts or models are updated. For teams operating AI products in production, it is essential reading to avoid surprises. It helps size and prioritize a decent routing system.",
+    "score": 0.5,
+    "tags": [
+      "infraestrutura",
+      "modelo",
+      "produção"
+    ],
+    "img": "img/969cdff00361.jpg",
+    "ts": 1784136421,
+    "addedTs": 1785957370,
+    "urlHash": "969cdff00361",
+    "titleHash": "f6b91c28ebd5"
+  },
+  {
+    "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+    "titlePt": "Hugging Face lança VoiceEQ, métrica para medir a qualidade humana de voz em IA",
+    "url": "https://huggingface.co/blog/real-world-voiceeq",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "A Hugging Face apresentou o Real World VoiceEQ, um novo padrão para avaliar se a voz sintetizada por IA soa realmente natural e humana em situações do cotidiano. A métrica considera pausas, entonação e erros típicos de fala, indo além de testes de laboratório. Para times que desenvolvem assistentes de voz e atendimento automatizado, isso pode virar referência de qualidade. Pode influenciar decisões de compra e benchmarks do setor.",
+    "reasonEn": "Hugging Face introduced Real World VoiceEQ, a new standard to evaluate whether AI-synthesized voice truly sounds natural and human in everyday situations. The metric considers pauses, intonation, and typical speech errors, going beyond lab tests. For teams developing voice assistants and automated support, this can become a quality reference. It may influence purchasing decisions and industry benchmarks.",
+    "score": 0.5,
+    "tags": [
+      "voz",
+      "benchmark",
+      "lançamento"
+    ],
+    "img": "img/5e1ffb769438.jpg",
+    "ts": 1784073600,
+    "addedTs": 1785957370,
+    "urlHash": "5e1ffb769438",
+    "titleHash": "a08984d9083e"
+  },
+  {
+    "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+    "titlePt": "Google amplia Managed Agents na API Gemini: tarefas em segundo plano, MCP remoto e mais",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+    "source": "Google AI",
+    "sources": [
+      "Google AI"
+    ],
+    "reason": "A Google anunciou uma grande atualização dos Managed Agents dentro da API Gemini, com suporte a tarefas assíncronas em segundo plano, conexão com servidores MCP remotos e novos controles de execução. Com isso, desenvolvedores podem construir agentes que rodam por longos períodos sem manter uma conexão aberta. É um passo importante para productizar agentes de IA em fluxos reais de empresas. Afeta qualquer time que já usa ou cogita usar Gemini em produção.",
+    "reasonEn": "Google announced a major update to Managed Agents inside the Gemini API, adding background async tasks, remote MCP server support, and new execution controls. Developers can now build agents that run over long periods without keeping a connection open. It is an important step toward productizing AI agents in real business workflows. It affects any team already using or considering Gemini in production.",
+    "score": 0.7,
+    "tags": [
+      "agentes",
+      "google",
+      "lançamento"
+    ],
+    "img": "img/2a44ce948b87.jpg",
+    "ts": 1783414440,
+    "addedTs": 1785957370,
+    "urlHash": "2a44ce948b87",
+    "titleHash": "23ef60c912f7"
+  },
+  {
+    "title": "The latest AI news we announced in June 2026",
+    "titlePt": "Google publica resumo das notícias de IA anunciadas em junho de 2026",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+    "source": "Google AI",
+    "sources": [
+      "Google AI"
+    ],
+    "reason": "A Google publicou um post recapitulando os principais anúncios de IA feitos em junho de 2026, incluindo novos modelos, ferramentas para desenvolvedores e integrações com produtos da casa. É uma forma rápida de se atualizar sem ler cada lançamento individualmente. Para quem acompanha o ecossistema, é um atalho útil para não perder atualizações importantes. Ajuda também a entender a estratégia geral da empresa no mês.",
+    "reasonEn": "Google published a recap of the main AI announcements made in June 2026, including new models, developer tools, and integrations with its own products. It is a quick way to catch up without reading every individual release. For ecosystem watchers, it is a useful shortcut to avoid missing important updates. It also helps understand the company's overall strategy for the month.",
+    "score": 0.5,
+    "tags": [
+      "google",
+      "resumo",
+      "lançamento"
+    ],
+    "img": "img/0be6913362ae.jpg",
+    "ts": 1782929700,
+    "addedTs": 1785957370,
+    "urlHash": "0be6913362ae",
+    "titleHash": "2b4afd9fd8de"
+  },
+  {
     "title": "Interlock: A runtime firewall for AI agents that assumes injection won",
     "titlePt": "Interlock: firewall em tempo de execução para agentes de IA",
     "url": "https://yashwanthreddymali.com/blog/interlock-exfiltration-at-runtime/",
