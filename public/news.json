@@ -1,5 +1,421 @@
 [
   {
+    "title": "ngrok AI Gateway",
+    "titlePt": "ngrok lança um Gateway de IA",
+    "url": "https://www.producthunt.com/products/ngrok-ai-gateway",
+    "source": "ProductHunt",
+    "sources": [
+      "ProductHunt"
+    ],
+    "reason": "A ngrok apresentou seu AI Gateway no ProductHunt, um produto pensado para desenvolvedores que precisam rotear e gerenciar chamadas de modelos de IA por trás de uma camada de rede familiar. É mais uma opção entre os gateways que estão surgindo para padronizar autenticação, limites e observabilidade de tráfego de IA. Importa para quem está montando produtos com LLMs e quer evitar reinventar a infraestrutura de proxy. Para usuários finais, é transparente: pode significar apps de IA mais rápidos e confiáveis.",
+    "reasonEn": "ngrok has launched its AI Gateway on ProductHunt, a product aimed at developers who need to route and manage calls to AI models behind a familiar networking layer. It joins a growing wave of gateways that standardize authentication, rate limits, and observability for AI traffic. It matters for anyone building products with LLMs who doesn't want to reinvent proxy infrastructure. End users may notice little directly, but downstream apps could get faster and more reliable.",
+    "score": 0.5,
+    "tags": [
+      "lançamento",
+      "infra",
+      "gateway"
+    ],
+    "img": "img/85bd0919b2b5.jpg",
+    "ts": 1785937427,
+    "addedTs": 1785937508,
+    "urlHash": "85bd0919b2b5",
+    "titleHash": "392dc2f48842"
+  },
+  {
+    "title": "Pyshackle: A hard pre-execution gate for AI agent tool calls (open source)",
+    "titlePt": "Pyshackle: um portão rígido antes da execução de agentes de IA",
+    "url": "https://pypi.org/project/pyshackle/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um projeto open source no Hacker News propõe um portão de pré-execução que bloqueia chamadas de ferramentas feitas por agentes de IA antes que elas rodem. A ideia é impedir ações destrutivas ou fora de política sem depender só de prompts. Importa para qualquer equipe que está colocando agentes em produção e se preocupa com segurança e custos. É uma camada a mais no ainda imaturo ecossistema de guardrails para agentes.",
+    "reasonEn": "An open source project on Hacker News introduces a pre-execution gate that blocks AI agent tool calls before they run. The goal is to stop destructive or out-of-policy actions without relying only on prompts. It matters for any team putting agents into production and worrying about safety and cost. It's another layer in the still-maturing ecosystem of guardrails for agents.",
+    "score": 0.7,
+    "tags": [
+      "open-source",
+      "agentes",
+      "segurança"
+    ],
+    "img": "img/30392a16ff8e.jpg",
+    "ts": 1785937416,
+    "addedTs": 1785937508,
+    "urlHash": "30392a16ff8e",
+    "titleHash": "6e548461fdcd"
+  },
+  {
+    "title": "Show HN: RequestGuard – Protect AI from following your links",
+    "titlePt": "RequestGuard: protegendo a IA de seguir seus links",
+    "url": "https://go.requestguard.com/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um projeto Show HN chamado RequestGuard promete impedir que IAs sigam links em mensagens e documentos, evitando exfiltração de dados e navegação indesejada. É mais uma peça no quebra-cabeça de segurança de agentes e assistentes de IA. Importa para empresas preocupadas com vazamento de dados via ferramentas de IA. Reforça uma tendência clara: cada vez mais camadas defensivas em torno de agentes autônomos.",
+    "reasonEn": "A Show HN project called RequestGuard claims to stop AIs from following links in messages and documents, preventing data exfiltration and unwanted navigation. It is another piece in the puzzle of agent and assistant security. It matters for companies worried about data leaks via AI tools. It reinforces a clear trend: more defensive layers around autonomous agents.",
+    "score": 0.6,
+    "tags": [
+      "agentes",
+      "segurança",
+      "open-source"
+    ],
+    "img": "img/8dc02425bfb1.jpg",
+    "ts": 1785937343,
+    "addedTs": 1785937508,
+    "urlHash": "8dc02425bfb1",
+    "titleHash": "debd17e9675a"
+  },
+  {
+    "title": "DeepSeek's Liang Wenfeng: Full Remarks from an Investor Meeting",
+    "titlePt": "Liang Wenfeng, da DeepSeek, fala a investidores",
+    "url": "https://thechatr.ai/blog/deepseek-liang-wenfeng-investor-meeting",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Hacker News publicou a íntegra (ou um resumo longo) dos comentários do fundador da DeepSeek em uma reunião com investidores. Os trechos costumam revelar prioridades estratégicas, visão sobre custos e próximos passos da empresa. Importa para quem acompanha a corrida chinesa de modelos abertos e o posicionamento da DeepSeek no mercado. Investidores e competidores vão analisar cada frase em busca de sinais.",
+    "reasonEn": "Hacker News has published the full (or lengthy) remarks from DeepSeek's founder at an investor meeting. These transcripts usually reveal strategic priorities, cost views, and the company's next steps. It matters for anyone following the Chinese open-model race and DeepSeek's market positioning. Investors and competitors will parse every line for signals.",
+    "score": 0.8,
+    "tags": [
+      "deepseek",
+      "china",
+      "estratégia"
+    ],
+    "img": "img/3223b63acce4.jpg",
+    "ts": 1785937221,
+    "addedTs": 1785937508,
+    "urlHash": "3223b63acce4",
+    "titleHash": "82c07b6217ed"
+  },
+  {
+    "title": "Universities would prefer no AI",
+    "titlePt": "Universidades prefeririam não ter IA",
+    "url": "https://hollisrobbinsanecdotal.substack.com/p/universities-would-prefer-not-to",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma discussão no Hacker News mostra um movimento crescente de instituições de ensino que restringem ou proíbem o uso de IA em sala de aula e em trabalhos acadêmicos. A tensão é entre o uso legítimo como ferramenta de aprendizado e a facilidade de burlar avaliações. Importa para estudantes, professores e desenvolvedores de edtech. Também indica pressão regulatória indireta sobre fornecedores de IA.",
+    "reasonEn": "A Hacker News thread highlights a growing movement of universities restricting or banning AI use in classrooms and academic work. The tension is between legitimate learning aids and easy cheating. It matters for students, professors, and edtech developers. It also signals indirect regulatory pressure on AI vendors.",
+    "score": 0.5,
+    "tags": [
+      "educação",
+      "regulação"
+    ],
+    "img": "img/33630d7cbd9f.jpg",
+    "ts": 1785936775,
+    "addedTs": 1785937508,
+    "urlHash": "33630d7cbd9f",
+    "titleHash": "bcfddfc474dc"
+  },
+  {
+    "title": "I run a 9-model LLM council to write a financial newsletter. What breaks",
+    "titlePt": "Um conselho de 9 LLMs escreve um newsletter financeiro: o que quebra",
+    "url": "https://marketdaily.ai/blog/eng-llm-council-judge-en-202608",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um autor no Hacker News relata a experiência prática de rodar nove modelos de IA diferentes em formato de conselho para redigir um boletim financeiro. O texto descreve custos, latência, alucinações e problemas de coordenação entre modelos. Importa para quem pensa em usar multi-model ou ensembles em produção. É um contraponto útil ao hype de que 'mais modelos = melhor resultado'.",
+    "reasonEn": "A Hacker News author shares hands-on experience running nine different LLMs as a council to write a financial newsletter. The piece covers cost, latency, hallucinations, and coordination problems between models. It matters for anyone considering multi-model or ensemble setups in production. It's a useful counterweight to the hype that 'more models = better output'.",
+    "score": 0.6,
+    "tags": [
+      "llm",
+      "finanças",
+      "prática"
+    ],
+    "img": "img/22fb536aaeb3.jpg",
+    "ts": 1785936604,
+    "addedTs": 1785937508,
+    "urlHash": "22fb536aaeb3",
+    "titleHash": "d45ae6f80707"
+  },
+  {
+    "title": "Cloudflare OS – an open-source AI productivity environment",
+    "titlePt": "Cloudflare OS: ambiente open source de produtividade com IA",
+    "url": "https://github.com/cloudflare/cloudflare-os",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Cloudflare anunciou um sistema operacional open source focado em produtividade com IA, integrando agentes, arquivos e ferramentas em um único ambiente. A aposta é competir com suítes fechadas e oferecer uma alternativa controlável e auto-hospedável. Importa muito para desenvolvedores e equipes de TI preocupadas com lock-in. A Cloudflare reforça sua estratégia de virar camada de plataforma para a era dos agentes.",
+    "reasonEn": "Cloudflare has announced an open source operating system focused on AI productivity, bundling agents, files, and tools into one environment. The bet is to compete with closed suites and offer a controllable, self-hostable alternative. It matters greatly for developers and IT teams worried about lock-in. Cloudflare is doubling down on becoming a platform layer for the agent era.",
+    "score": 0.8,
+    "tags": [
+      "cloudflare",
+      "open-source",
+      "lançamento"
+    ],
+    "img": "img/386c24cf5e18.jpg",
+    "ts": 1785936232,
+    "addedTs": 1785937508,
+    "urlHash": "386c24cf5e18",
+    "titleHash": "b00c2d717c54"
+  },
+  {
+    "title": "Show HN: LearnOS – Open-source, AI-native Coursera you run locally",
+    "titlePt": "LearnOS: um Coursera nativo em IA que roda localmente",
+    "url": "https://learnos.opara-ai.com/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um Show HN apresenta o LearnOS, um sistema open source inspirado no Coursera, mas construído para rodar localmente e com tutores de IA integrados. A ideia é dar às instituições controle total sobre cursos e dados dos alunos. Importa para escolas, universidades e times de treinamento corporativo. Também é mais um sinal de que a IA está sendo empurrada para dentro da infraestrutura educacional.",
+    "reasonEn": "A Show HN entry presents LearnOS, an open source Coursera-like system designed to run locally with built-in AI tutors. The idea is to give institutions full control over courses and student data. It matters for schools, universities, and corporate training teams. It is yet another sign that AI is being pushed into the core of educational infrastructure.",
+    "score": 0.5,
+    "tags": [
+      "educação",
+      "open-source",
+      "agentes"
+    ],
+    "img": "img/3c35021aec78.jpg",
+    "ts": 1785935652,
+    "addedTs": 1785937508,
+    "urlHash": "3c35021aec78",
+    "titleHash": "703dd2ae9a32"
+  },
+  {
+    "title": "The Day the World Stopped Needing Horses: What AI Could Mean for Human Jobs",
+    "titlePt": "E quando o mundo parou de precisar de cavalos? IA e empregos",
+    "url": "https://medium.com/@souravray/the-day-the-world-stopped-needing-horses-future-of-work-in-ai-era-f19cc7d55bdc",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um ensaio no Hacker News usa a metáfora do desaparecimento dos cavalos para discutir o impacto da IA no trabalho humano. O texto traça paralelos entre revoluções tecnológicas anteriores e a atual. Importa para trabalhadores, gestores e formuladores de políticas pensando em transição. É mais uma peça opinativa do que notícia nova, mas o tema é urgente.",
+    "reasonEn": "A Hacker News essay uses the metaphor of horses disappearing to discuss AI's impact on human jobs. The text draws parallels between past technological revolutions and the current one. It matters for workers, managers, and policymakers thinking about transitions. It's more opinion than fresh news, but the topic is urgent.",
+    "score": 0.5,
+    "tags": [
+      "trabalho",
+      "opinião"
+    ],
+    "img": "img/549d194dcb19.jpg",
+    "ts": 1785935001,
+    "addedTs": 1785937508,
+    "urlHash": "549d194dcb19",
+    "titleHash": "fe04fbb4077c"
+  },
+  {
+    "title": "Show HN: An AI agent that trades inside limits you set, starting on paper",
+    "titlePt": "Agente de IA que opera dentro de limites, começando em paper trading",
+    "url": "https://quantsignals.xyz/fst",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um Show HN apresenta um agente de IA para trading que respeita limites definidos pelo usuário e começa operando em modo simulado (paper trading). O foco é evitar os erros clássicos de agentes financeiros descontrolados. Importa para traders de varejo e desenvolvedores de fintech. Reforça o cuidado crescente com agentes autônomos em áreas de risco.",
+    "reasonEn": "A Show HN entry presents an AI trading agent that respects user-defined limits and starts in paper trading mode. The focus is avoiding the classic mistakes of unconstrained financial agents. It matters for retail traders and fintech developers. It reinforces the growing caution around autonomous agents in high-risk domains.",
+    "score": 0.5,
+    "tags": [
+      "finanças",
+      "agentes",
+      "paper-trading"
+    ],
+    "img": "img/628772e92a01.jpg",
+    "ts": 1785934889,
+    "addedTs": 1785937508,
+    "urlHash": "628772e92a01",
+    "titleHash": "b7843966a61a"
+  },
+  {
+    "title": "From Individual Genius to World-Mind: How AI Ends the \"Heroic Age\" of Math",
+    "titlePt": "Da genialidade individual à mente coletiva: como a IA muda a matemática",
+    "url": "https://www.noahpinion.blog/p/the-end-of-the-age-of-heroes",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um ensaio no Hacker News argumenta que a IA está encerrando a 'idade heroica' da matemática, baseada em gênios individuais, e inaugurando uma era de 'mente-mundo' colaborativa. A tese mistura filosofia, história e exemplos recentes de problemas resolvidos com IA. Importa para matemáticos, pesquisadores e quem pensa em como a IA transforma a ciência. É leitura recomendada para entender o debate, sem ser notícia factual urgente.",
+    "reasonEn": "A Hacker News essay argues that AI is ending the 'heroic age' of mathematics, built on individual geniuses, and opening a collaborative 'world-mind' era. The thesis mixes philosophy, history, and recent examples of problems solved with AI. It matters for mathematicians, researchers, and anyone thinking about how AI is reshaping science. Recommended reading to follow the debate, though not urgent factual news.",
+    "score": 0.7,
+    "tags": [
+      "matemática",
+      "opinião",
+      "pesquisa"
+    ],
+    "img": "img/8ab6ffafbf97.jpg",
+    "ts": 1785934263,
+    "addedTs": 1785937508,
+    "urlHash": "8ab6ffafbf97",
+    "titleHash": "36473f041bd4"
+  },
+  {
+    "title": "Iowa et al asks OpenAI to keep their bots sandboxed",
+    "titlePt": "Iowa e outros estados pedem à OpenAI que mantenha bots em sandbox",
+    "url": "https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-leads-coalition-demanding-transparency-from-openai-after-ai-breach-and",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um grupo de estados americanos, incluindo Iowa, pediu formalmente à OpenAI que mantenha seus bots restritos a ambientes sandbox. O movimento é parte de um esforço mais amplo de reguladores estaduais para limitar danos de agentes autônomos. Importa para usuários, empresas e desenvolvedores que usam produtos OpenAI em fluxos críticos. É mais um capítulo da tensão entre inovação rápida e prudente.",
+    "reasonEn": "A group of US states, including Iowa, has formally asked OpenAI to keep its bots restricted to sandboxed environments. The move is part of a broader push by state regulators to limit harms from autonomous agents. It matters for users, companies, and developers using OpenAI products in critical flows. It's another chapter in the tension between rapid innovation and prudent oversight.",
+    "score": 0.7,
+    "tags": [
+      "regulação",
+      "openai",
+      "bots"
+    ],
+    "img": "img/70fffd194855.jpg",
+    "ts": 1785933770,
+    "addedTs": 1785937508,
+    "urlHash": "70fffd194855",
+    "titleHash": "45bd4d9ad9f7"
+  },
+  {
+    "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
+    "titlePt": "TIME mostra um site diferente para bots de IA, com anúncios embutidos",
+    "url": "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A revista TIME revelou que serve uma versão diferente do site para bots de IA, incluindo anúncios próprios para esse público. A decisão mostra uma tendência crescente: publishers passaram a monetizar e controlar o tráfego de crawlers e agentes. Importa para editores, criadores de conteúdo e desenvolvedores de IA que dependem de dados da web. Sinaliza que a economia do scraping está mudando rápido.",
+    "reasonEn": "TIME has revealed that it serves a different version of its site to AI bots, including ads tailored to that audience. The move reflects a growing trend: publishers are starting to monetize and control crawler and agent traffic. It matters for editors, content creators, and AI developers who depend on web data. It signals that the scraping economy is changing fast.",
+    "score": 0.6,
+    "tags": [
+      "mídia",
+      "bots",
+      "negócios"
+    ],
+    "img": "img/c2165804e1e8.jpg",
+    "ts": 1785933707,
+    "addedTs": 1785937508,
+    "urlHash": "c2165804e1e8",
+    "titleHash": "63bc1c45efb2"
+  },
+  {
+    "title": "Show HN: Labgrid-MCP – let AI agents drive real embedded hardware labs",
+    "titlePt": "Labgrid-MCP: agentes de IA dirigindo laboratórios de hardware embarcado",
+    "url": "https://github.com/onurcelep/labgrid-mcp",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um Show HN apresenta o Labgrid-MCP, uma ponte que permite que agentes de IA controlem laboratórios reais de hardware embarcado. A ideia é conectar modelos a infraestrutura física para testes automatizados de firmware e eletrônicos. Importa para engenheiros de hardware, firmware e quem trabalha com CI/CD de sistemas embarcados. É mais um passo na expansão de agentes para o mundo físico.",
+    "reasonEn": "A Show HN entry introduces Labgrid-MCP, a bridge that lets AI agents drive real embedded hardware labs. The goal is to connect models to physical infrastructure for automated firmware and electronics testing. It matters for hardware and firmware engineers and anyone running CI/CD for embedded systems. It's another step in the expansion of agents into the physical world.",
+    "score": 0.6,
+    "tags": [
+      "hardware",
+      "agentes",
+      "open-source"
+    ],
+    "img": "img/b02e17ff9527.jpg",
+    "ts": 1785933597,
+    "addedTs": 1785937508,
+    "urlHash": "b02e17ff9527",
+    "titleHash": "36cb83f5d549"
+  },
+  {
+    "title": "Wan 3.0 Best AI Video Generator",
+    "titlePt": "Wan 3.0 é apontado como o melhor gerador de vídeo por IA",
+    "url": "https://wan3pro.com",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Hacker News destacou o Wan 3.0 como um forte concorrente entre os geradores de vídeo por inteligência artificial. O modelo promete alta qualidade visual e abre novas opções para criadores e desenvolvedores. Quem trabalha com produção de conteúdo curto ganha mais uma ferramenta viável. Vale acompanhar benchmarks independentes antes de apostar na ferramenta.",
+    "reasonEn": "Hacker News spotlighted Wan 3.0 as a strong contender among AI video generators. The model promises high visual quality and gives creators and developers another viable option. Anyone working on short-form content now has another tool to evaluate. Independent benchmarks will be key before committing to it.",
+    "score": 0.55,
+    "tags": [
+      "vídeo",
+      "modelo",
+      "lançamento"
+    ],
+    "img": "img/3416f433ba7f.jpg",
+    "ts": 1785933453,
+    "addedTs": 1785937508,
+    "urlHash": "3416f433ba7f",
+    "titleHash": "1e383ba370d4"
+  },
+  {
+    "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
+    "titlePt": "MacPaw firma parceria com Liquid AI para oferecer inferência no dispositivo",
+    "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A MacPaw, dona de uma loja de apps para Mac, fechou parceria com a Liquid AI para disponibilizar inferência de modelos diretamente no dispositivo. Desenvolvedores que publicam apps na loja passam a ter acesso facilitado a IA local, sem depender da nuvem. Isso melhora privacidade, reduz latência e pode cortar custos com servidores. É uma notícia relevante para quem cria software para o ecossistema Apple.",
+    "reasonEn": "MacPaw, which runs a Mac app store, partnered with Liquid AI to bring on-device model inference to its platform. Developers publishing apps in the store gain easier access to local AI without depending on the cloud. This improves privacy, cuts latency and can reduce server costs. It matters to anyone building software for the Apple ecosystem.",
+    "score": 0.65,
+    "tags": [
+      "parceria",
+      "on-device",
+      "apple"
+    ],
+    "img": "img/e2752bd8ade9.jpg",
+    "ts": 1785932918,
+    "addedTs": 1785937508,
+    "urlHash": "e2752bd8ade9",
+    "titleHash": "4906914d5210"
+  },
+  {
+    "title": "Trump’s AI testing plan is limited and vague",
+    "titlePt": "Plano de testes de IA do governo Trump é limitado e genérico",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "O documento divulgado pelo governo dos Estados Unidos sobre como testar sistemas de inteligência artificial recebeu críticas por ser vago e com poucas regras concretas. Avaliadores e reguladores apontam falta de critérios claros e de mecanismos de fiscalização. O plano afeta diretamente empresas que vendem ou usam IA no país. Quem acompanha políticas públicas de tecnologia precisa ler para entender o cenário regulatório.",
+    "reasonEn": "The U.S. government's plan on how to test AI systems drew criticism for being vague and short on concrete rules. Evaluators and regulators flagged missing clear criteria and weak enforcement mechanisms. The plan directly affects companies selling or using AI in the country. Anyone tracking tech policy should read it to understand the regulatory picture.",
+    "score": 0.5,
+    "tags": [
+      "regulação",
+      "política",
+      "eua"
+    ],
+    "img": "img/ffc939802f84.jpg",
+    "ts": 1785925787,
+    "addedTs": 1785937508,
+    "urlHash": "ffc939802f84",
+    "titleHash": "b3884cde0ecb"
+  },
+  {
+    "title": "How AI is expanding what people do at work",
+    "titlePt": "Como a IA está ampliando o que as pessoas fazem no trabalho",
+    "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "O artigo da OpenAI reúne evidências de que a inteligência artificial está mudando a natureza das tarefas profissionais, não apenas automatizando rotinas. Os autores mostram casos de ampliação de capacidade em diversas áreas. É leitura útil para líderes e profissionais que querem entender o impacto real da IA. Ajuda a calibrar expectativas e priorizar aprendizados.",
+    "reasonEn": "This OpenAI article gathers evidence that AI is changing the nature of professional tasks, not just automating routine work. The authors show cases of capability amplification across fields. It is useful for leaders and professionals trying to understand AI's real impact. It helps calibrate expectations and prioritize learning.",
+    "score": 0.5,
+    "tags": [
+      "trabalho",
+      "openai",
+      "análise"
+    ],
+    "img": "img/db9d0913513d.jpg",
+    "ts": 1785123000,
+    "addedTs": 1785937508,
+    "urlHash": "db9d0913513d",
+    "titleHash": "add04afc1e34"
+  },
+  {
+    "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+    "titlePt": "Inferência de difusão 4 bits do Nunchaku chega ao Diffusers da Hugging Face",
+    "url": "https://huggingface.co/blog/nunchaku-diffusers",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "O time do Nunchaku conseguiu portar sua inferência 4 bits para modelos de difusão dentro da biblioteca Diffusers da Hugging Face. Isso reduz o uso de memória e acelera a geração de imagens em hardware mais modesto. Desenvolvedores que usam Stable Diffusion e similares conseguem rodar modelos maiores em GPUs comuns. É uma notícia prática para quem cria produtos com geração de imagens.",
+    "reasonEn": "The Nunchaku team ported its 4-bit inference to diffusion models inside Hugging Face's Diffusers library. This cuts memory use and speeds up image generation on more modest hardware. Developers using Stable Diffusion and similar models can run larger ones on common GPUs. It is practical news for anyone building image-generation products.",
+    "score": 0.6,
+    "tags": [
+      "otimização",
+      "imagem",
+      "huggingface"
+    ],
+    "img": "img/96f5dc656a14.jpg",
+    "ts": 1784764800,
+    "addedTs": 1785937508,
+    "urlHash": "96f5dc656a14",
+    "titleHash": "66b1112f02e4"
+  },
+  {
     "title": "Why the Legendary Erdős Problems Are Falling to AI",
     "titlePt": "Por que os lendários problemas de Erdős estão caindo diante da IA",
     "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
