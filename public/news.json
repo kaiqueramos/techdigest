@@ -1,5 +1,313 @@
 [
   {
+    "title": "Show HN: Ranking weather models by how their forecasts turned out",
+    "titlePt": "Ranking de modelos de clima pelo resultado real das previsões",
+    "url": "https://nickleenders.github.io/verisky-scoreboard/?city=newyork",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um desenvolvedor publicou um sistema que compara modelos de previsão do tempo medindo quem realmente acertou mais ao longo do tempo. A ideia é fugir do marketing dos laboratórios e mostrar desempenho prático. É relevante para quem depende de previsões precisas, como agricultura, energia e seguros. Mostra também como avaliar IA com base em resultado, e não em propaganda.",
+    "reasonEn": "A developer published a system that ranks weather models by how often they actually got the forecast right. The goal is to cut through vendor marketing and show real-world performance. It matters for anyone relying on accurate forecasts, like agriculture, energy, and insurance. It also shows how to evaluate AI based on outcomes instead of hype.",
+    "score": 0.6,
+    "tags": [
+      "modelo",
+      "avaliação",
+      "dados"
+    ],
+    "img": "img/a667cb5e4c57.jpg",
+    "ts": 1786024875,
+    "addedTs": 1786025161,
+    "urlHash": "a667cb5e4c57",
+    "titleHash": "8de736ed3147"
+  },
+  {
+    "title": "Data center doubt: Why Florida is pushing back against hyperscale development",
+    "titlePt": "Florida resiste à expansão de megacentros de dados",
+    "url": "https://therealdeal.com/miami/2026/08/06/ai-driven-data-center-boom-hits-local-opposition-in-florida/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Autoridades da Flórida estão rejeitando projetos de data centers gigantes por causa do consumo de água, energia e impacto ambiental. A resistência mostra que a expansão da infraestrutura de IA tem limite local, mesmo em estados pró-tecnologia. O tema interessa a quem planeja capacidade de nuvem, investidores e moradores afetados. Pode frear a expansão de hyperscalers como AWS, Google e Microsoft na região.",
+    "reasonEn": "Florida officials are pushing back against hyperscale data center projects over water use, energy demand, and environmental impact. The resistance shows AI infrastructure growth has local limits, even in tech-friendly states. It matters for cloud capacity planners, investors, and affected residents. It may slow hyperscaler expansion from AWS, Google, and Microsoft in the region.",
+    "score": 0.7,
+    "tags": [
+      "infraestrutura",
+      "regulação",
+      "data-center"
+    ],
+    "img": "img/2d9234101ebd.jpg",
+    "ts": 1786024442,
+    "addedTs": 1786025161,
+    "urlHash": "2d9234101ebd",
+    "titleHash": "bbd2ccac29a2"
+  },
+  {
+    "title": "AI generated over 95% of China's new microdramas in Q1 2026",
+    "titlePt": "IA gerou mais de 95% dos microdramas chineses no 1º trimestre de 2026",
+    "url": "https://www.channelnewsasia.com/east-asia/ai-microdrama-china-film-industry-actors-jobs-6229191",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Dados apontam que a grande maioria das novelas curtas verticais produzidas na China já é feita com inteligência artificial generativa. Isso mostra uma adoção de IA em escala industrial que não existe em outras indústrias criativas. O impacto vai desde demissão de roteiristas até queda de custos e avalanche de conteúdo repetitivo. Sinaliza como produção audiovisual pode mudar em outros países nos próximos anos.",
+    "reasonEn": "Data shows that over 95% of China's new short vertical dramas in Q1 2026 were generated with AI. It reveals industrial-scale AI adoption not yet seen in other creative industries. The impact ranges from laid-off screenwriters to plummeting costs and a flood of repetitive content. It signals how audiovisual production could shift in other countries within a few years.",
+    "score": 0.7,
+    "tags": [
+      "ia-generativa",
+      "mídia",
+      "china"
+    ],
+    "img": "img/bc1179020741.jpg",
+    "ts": 1786023860,
+    "addedTs": 1786025161,
+    "urlHash": "bc1179020741",
+    "titleHash": "7dd13e656e78"
+  },
+  {
+    "title": "DeepSeek-V4-Flash-0731-Latent-Reasoning. A model thinking in latent space",
+    "titlePt": "DeepSeek-V4-Flash-0731: modelo que pensa em espaço latente",
+    "url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A DeepSeek publicou uma nova variante que raciocina em espaço latente, ou seja, dentro das representações internas do modelo em vez de gerar texto visível. Isso pode tornar o raciocínio mais rápido e barato, sem poluir a saída com cadeia de pensamento exposta. É relevante para desenvolvedores que querem agentes mais eficientes e baratos. Também levanta questões sobre transparência e auditoria do raciocínio da IA.",
+    "reasonEn": "DeepSeek released a new variant that reasons in latent space, inside the model's internal representations rather than visible text. This could make reasoning faster and cheaper, without exposing a chain-of-thought in the output. It matters for developers building more efficient agents. It also raises questions about transparency and auditability of AI reasoning.",
+    "score": 0.7,
+    "tags": [
+      "modelo",
+      "deepseek",
+      "lançamento"
+    ],
+    "img": "img/09007ec9abfc.jpg",
+    "ts": 1786023542,
+    "addedTs": 1786025161,
+    "urlHash": "09007ec9abfc",
+    "titleHash": "148c6c94d6a0"
+  },
+  {
+    "title": "AI Is Now a Commodity",
+    "titlePt": "IA já é commodity, e isso muda tudo",
+    "url": "https://www.vincentschmalbach.com/ai-is-now-a-commodity/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O argumento central é que modelos de fronteira viraram produto básico: muitos modelos abertos oferecem desempenho próximo ao dos pagos por fração do custo. Isso pressiona margens de fornecedores como OpenAI e Anthropic e democratiza o acesso. Importa para empresas que estão pagando caro demais e para investidores reavaliando. Também muda a estratégia de diferenciação: dados, integração e confiança passam a valer mais que o modelo bruto.",
+    "reasonEn": "The core argument is that frontier models have become a commodity: many open models deliver near-frontier performance at a fraction of the cost. This pressures margins of providers like OpenAI and Anthropic and democratizes access. It matters for firms overpaying for AI and for investors reassessing valuations. It also shifts differentiation toward data, integration, and trust rather than raw model power.",
+    "score": 0.7,
+    "tags": [
+      "mercado",
+      "modelo-aberto",
+      "tendência"
+    ],
+    "img": "img/4353fa5a0f60.jpg",
+    "ts": 1786022553,
+    "addedTs": 1786025161,
+    "urlHash": "4353fa5a0f60",
+    "titleHash": "4509868f35c9"
+  },
+  {
+    "title": "Enjoy the Bubble While It Lasts: The Secret Behind Your AI Bill",
+    "titlePt": "Aproveite a bolha enquanto dura: o segredo por trás da sua conta de IA",
+    "url": "https://kernel.pryanic.com/posts/enjoy-the-bubble-while-it-lasts-the-secret-behind-your-ai-bill",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto explica por que empresas estão pagando valores inflados por serviços de IA, sustentados por investimento de risco e promessas de crescimento futuro. Sem retorno financeiro claro, provedores podem repassar custos via preços altos e mudanças em limites de uso. É relevante para compradores de IA corporativos e CFOs avaliando ROI. Sinaliza que o momento de renegociar contratos é agora.",
+    "reasonEn": "The piece explains why firms pay inflated prices for AI services, propped up by venture capital and growth promises. Without clear financial returns, providers may pass costs through higher prices and tighter usage limits. It matters for corporate AI buyers and CFOs evaluating ROI. It signals that now is the time to renegotiate contracts.",
+    "score": 0.7,
+    "tags": [
+      "mercado",
+      "finanças",
+      "bolha"
+    ],
+    "img": "img/40231fabe4dc.jpg",
+    "ts": 1786022339,
+    "addedTs": 1786025161,
+    "urlHash": "40231fabe4dc",
+    "titleHash": "2be930cf61c2"
+  },
+  {
+    "title": "Cloudflare AI Search: give your agents a search engine for your data",
+    "titlePt": "Cloudflare AI Search: motor de busca para seus próprios dados",
+    "url": "https://blog.cloudflare.com/ai-search-easier/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Cloudflare lançou um serviço que permite a agentes de IA fazerem buscas indexadas dentro de dados corporativos. A ferramenta resolve um problema comum: agentes que precisam consultar documentação interna, planilhas ou bases de conhecimento. Importa para equipes que constroem agentes voltados a empresas. Pode acelerar a criação de copilots internos e reduzir custo de RAG improvisado.",
+    "reasonEn": "Cloudflare launched a service that lets AI agents run indexed searches across a company's own data. It solves a common pain: agents needing to query internal docs, spreadsheets, or knowledge bases. It matters for teams building enterprise agents. It can speed up internal copilots and cut costs of improvised RAG setups.",
+    "score": 0.6,
+    "tags": [
+      "cloudflare",
+      "agentes",
+      "lançamento"
+    ],
+    "img": "img/54aa107c534a.jpg",
+    "ts": 1786021986,
+    "addedTs": 1786025161,
+    "urlHash": "54aa107c534a",
+    "titleHash": "e3763b29a3a8"
+  },
+  {
+    "title": "England and Wales: Growing gap between power and regulation of police AI",
+    "titlePt": "Inglaterra e Gales: polícia usa IA com pouca regulação",
+    "url": "https://statewatch.org/news/2026/august/england-and-wales-growing-gap-between-power-and-regulation-of-police-ai/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Relatório mostra que forças policiais na Inglaterra e no País de Gales estão adotando ferramentas de IA para vigilância, triagem e análise preditiva, mas sem supervisão legal proporcional. O texto alerta para risco de viés algorítmico e abuso de poder. Importa para defensores de direitos civis, juristas e qualquer pessoa sujeita a essas tecnologias. Reforça pressão por legislação clara antes que o uso se consolide.",
+    "reasonEn": "A report shows police forces in England and Wales are adopting AI tools for surveillance, triage, and predictive analytics with little proportional legal oversight. It warns of algorithmic bias and abuse of power. It matters for civil rights advocates, lawyers, and anyone subject to these tools. It adds pressure for clear legislation before use becomes entrenched.",
+    "score": 0.6,
+    "tags": [
+      "regulação",
+      "vigilância",
+      "reino-unido"
+    ],
+    "img": "img/34a023325280.jpg",
+    "ts": 1786021971,
+    "addedTs": 1786025161,
+    "urlHash": "34a023325280",
+    "titleHash": "7d886b53d3ec"
+  },
+  {
+    "title": "Companies need to stop kidding themselves about AI",
+    "titlePt": "Empresas precisam parar de se enganar sobre IA",
+    "url": "https://www.nytimes.com/2026/08/03/opinion/ai-hype-tech-layoffs.html",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto argumenta que muitas empresas declaram adotar IA, mas usam tecnologia de forma superficial, sem mudar processos reais nem medir resultado. A falta de estratégia clara gera projetos caros que ninguém mantém ou usa. Importa para líderes de negócio e conselhos evitando desperdiçar orçamento. Reforça a importância de casos de uso concretos em vez de seguir o hype.",
+    "reasonEn": "The piece argues many firms claim AI adoption but use the technology superficially, without changing real processes or measuring outcomes. The lack of clear strategy leads to expensive projects nobody maintains or uses. It matters for business leaders and boards trying to avoid wasted budgets. It reinforces the value of concrete use cases over chasing hype.",
+    "score": 0.7,
+    "tags": [
+      "empresas",
+      "estratégia",
+      "hype"
+    ],
+    "img": "img/44d127c3e1c2.jpg",
+    "ts": 1786021729,
+    "addedTs": 1786025161,
+    "urlHash": "44d127c3e1c2",
+    "titleHash": "cdf64d3da2f8"
+  },
+  {
+    "title": "Trump's tech ties blamed for AI inaction by MAGA Republicans and Democrats",
+    "titlePt": "Republicanos e democratas culpam laços de Trump com big tech por inação em IA",
+    "url": "https://www.reuters.com/legal/litigation/trumps-tech-ties-blamed-ai-inaction-by-maga-republicans-democrats-2026-08-06/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Críticos de ambos os partidos nos EUA dizem que a proximidade de Trump com gigantes de tecnologia estaria atrasando regulamentações importantes sobre IA. A inação legislativa favorece empresas que preferem autorregulação, mas preocupa quem defende regras mais duras. Importa para formuladores de política, investidores e profissionais que dependem de regras claras. Sinaliza impasse político em torno da regulação de IA nos EUA.",
+    "reasonEn": "Critics from both US parties argue Trump's ties to big tech are delaying key AI regulations. Legislative inaction favors firms preferring self-regulation but worries those pushing for stricter rules. It matters for policymakers, investors, and professionals who need clear rules. It signals a political stalemate over AI regulation in the US.",
+    "score": 0.6,
+    "tags": [
+      "política",
+      "regulação",
+      "eua"
+    ],
+    "img": "img/2985a34bc840.jpg",
+    "ts": 1786021466,
+    "addedTs": 1786025161,
+    "urlHash": "2985a34bc840",
+    "titleHash": "7bd3baaad996"
+  },
+  {
+    "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
+    "titlePt": "Ex-funcionários do Spotify levantam US$ 10 milhões para IA no e-commerce",
+    "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "Uma startup fundada por ex-engenheiros do Spotify captou US$ 10 milhões para oferecer a tecnologia de recomendação queersonalizou músicas e playlists a lojas online. O foco é transformar catálogos grandes em descoberta personalizada, igual ao app de música. Importa para varejistas digitais que perdem vendas por navegação confusa. Também é um sinal de como o DNA de grandes plataformas vira produto B2B.",
+    "reasonEn": "A startup founded by former Spotify engineers raised $10 million to bring the recommendation tech that personalized music and playlists to online stores. The goal is to turn large catalogs into personalized discovery like the music app. It matters for digital retailers losing sales to confusing browsing. It also signals how DNA from large platforms becomes B2B products.",
+    "score": 0.6,
+    "tags": [
+      "investimento",
+      "e-commerce",
+      "recomendação"
+    ],
+    "img": "img/d328724fdcb5.jpg",
+    "ts": 1786021200,
+    "addedTs": 1786025161,
+    "urlHash": "d328724fdcb5",
+    "titleHash": "aa6b4d55068d"
+  },
+  {
+    "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+    "titlePt": "Mirendil fecha acordo de mais de US$ 100 milhões com Google Cloud",
+    "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A startup Mirendil assinou um contrato superior a 100 milhões de dólares com o Google Cloud para escalar sua plataforma de IA autoaprimorável. O acordo dá à Mirendil capacidade computacional robusta para treinar e implantar modelos mais avançados. Isso mostra como Google Cloud está fechando grandes contratos com empresas de IA em crescimento. Para desenvolvedores, vale acompanhar quem são os novos parceiros estratégicos da gigante de nuvem.",
+    "reasonEn": "Startup Mirendil signed a deal worth over $100 million with Google Cloud to scale its self-improving AI platform. The agreement gives Mirendil robust compute capacity to train and deploy more advanced models. It shows how Google Cloud is locking in large contracts with growing AI companies. For developers, it's worth watching who the cloud giant's new strategic partners are.",
+    "score": 0.55,
+    "tags": [
+      "deal",
+      "google cloud",
+      "infra"
+    ],
+    "img": "img/7c9c73c9cdff.jpg",
+    "ts": 1786021200,
+    "addedTs": 1786025161,
+    "urlHash": "7c9c73c9cdff",
+    "titleHash": "ffbbcb3d1653"
+  },
+  {
+    "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
+    "titlePt": "Google Maps ganha recursos agentes para pedir comida e reservar hotéis",
+    "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "O Google Maps está incorporando agentes de IA capazes de fazer pedidos de comida e reservas de hotel diretamente no aplicativo. Os novos recursos permitem que o usuário conclua tarefas do mundo real sem sair do mapa. A novidade pressiona concorrentes como DoorDash, OpenTable e apps de viagem. Para usuários e desenvolvedores de apps, é mais um sinal de que interfaces de IA conversacional estão se tornando o padrão.",
+    "reasonEn": "Google Maps is adding AI agents that can order food and book hotels directly inside the app. The new features let users complete real-world tasks without leaving the map. This puts pressure on competitors like DoorDash, OpenTable, and travel apps. For users and app developers, it's another sign that conversational AI interfaces are becoming the standard.",
+    "score": 0.6,
+    "tags": [
+      "google",
+      "agentes",
+      "lançamento"
+    ],
+    "img": "img/ca2a95942f42.jpg",
+    "ts": 1786019400,
+    "addedTs": 1786025161,
+    "urlHash": "ca2a95942f42",
+    "titleHash": "9c5bfae7e65f"
+  },
+  {
+    "title": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
+    "titlePt": "OpenAI chama processo da Apple por segredos comerciais de 'podre até o núcleo'",
+    "url": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "A OpenAI reagiu duramente à ação judicial da Apple sobre suposto roubo de segredos comerciais, classificando o caso como 'podre até o núcleo'. A disputa pode travar a colaboração entre as duas empresas e afetar o ecossistema de IA em dispositivos Apple. Para desenvolvedores, o resultado do litígio pode mudar a disponibilidade de modelos da OpenAI em produtos Apple. O caso também ilustra a crescente tensão entre gigantes da tecnologia.",
+    "reasonEn": "OpenAI fired back at Apple's lawsuit over alleged trade secret theft, calling the case 'rotten to its core.' The dispute could disrupt collaboration between the two companies and affect the AI ecosystem on Apple devices. For developers, the outcome could change OpenAI model availability on Apple products. The case also illustrates rising tensions between tech giants.",
+    "score": 0.55,
+    "tags": [
+      "openai",
+      "apple",
+      "judicial"
+    ],
+    "img": "img/f1d122158348.jpg",
+    "ts": 1786008791,
+    "addedTs": 1786025161,
+    "urlHash": "f1d122158348",
+    "titleHash": "5d20e25854e5"
+  },
+  {
     "title": "Jeff Dean: The 1% Rule for Building in AI",
     "titlePt": "Jeff Dean revela a regra de 1% para construir em IA",
     "url": "https://www.ycombinator.com/library/Vy-jeff-dean-the-1-rule-for-building-in-ai",
