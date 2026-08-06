@@ -1,5 +1,201 @@
 [
   {
+    "title": "Elon Musk's attempt at an AI Wikipedia hasn't been updated in months",
+    "titlePt": "Enciclopédia de IA de Elon Musk está parada há meses",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Grokipedia, tentativa de Elon Musk de criar uma Wikipédia gerada por IA, não recebe atualizações há meses. Isso levanta dúvidas sobre a viabilidade do projeto e sobre como conteúdo gerado por IA se mantém confiável sem curadoria humana constante. Importante para quem acompanha o impacto da IA em informação pública.",
+    "reasonEn": "Grok's Wikipedia-style AI encyclopedia (Grokipedia) has gone months without updates. This raises real questions about the viability of AI-only knowledge bases and how generated content stays trustworthy without constant human curation. Relevant to anyone tracking AI's impact on public information.",
+    "score": 0.65,
+    "tags": [
+      "musk",
+      "wikipedia",
+      "conteúdo"
+    ],
+    "img": "img/dd083223721c.jpg",
+    "ts": 1785979860,
+    "addedTs": 1785980722,
+    "urlHash": "dd083223721c",
+    "titleHash": "d301e6aaeb7d"
+  },
+  {
+    "title": "Prompt Chains, Tool Calling, and MCP: How AI Agents Do Things",
+    "titlePt": "Prompt Chains, Tool Calling e MCP: como agentes de IA agem",
+    "url": "https://i.brandanthonymcdonald.com/mcp-for-beginners",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Artigo técnico que explica os três mecanismos centrais usados por agentes de IA para executar tarefas: encadeamento de prompts, chamadas de ferramentas e o protocolo MCP. Serve como panorama para desenvolvedores que estão construindo ou integrando agentes. Mais didático do que urgente.",
+    "reasonEn": "Technical explainer covering the three core mechanisms AI agents use to get things done: prompt chaining, tool calling, and the MCP protocol. Useful overview for developers building or integrating agents. More educational than urgent.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "tutorial"
+    ],
+    "img": "img/8557a1659a23.jpg",
+    "ts": 1785979050,
+    "addedTs": 1785980722,
+    "urlHash": "8557a1659a23",
+    "titleHash": "94fd738f362a"
+  },
+  {
+    "title": "Is M365 Copilot sending some prompts to Anthropic?",
+    "titlePt": "M365 Copilot estaria enviando alguns prompts para a Anthropic?",
+    "url": "https://thatrobot.ai/claude-residency-gap-m365-copilot/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Suspeita de que o assistente Copilot da Microsoft esteja roteando parte dos prompts dos usuários para modelos da Anthropic, sem aviso claro. Se confirmado, levanta questões sérias de privacidade corporativa e governança de dados em ambientes empresariais. Afeta diretamente empresas que usam o pacote Microsoft 365.",
+    "reasonEn": "Suspicion that Microsoft's Copilot is routing some user prompts to Anthropic models without clear disclosure. If true, this raises serious corporate privacy and data governance concerns. Directly affects enterprises using Microsoft 365.",
+    "score": 0.75,
+    "tags": [
+      "microsoft",
+      "privacidade",
+      "empresas"
+    ],
+    "img": "img/ddbb49372fe8.jpg",
+    "ts": 1785976751,
+    "addedTs": 1785980722,
+    "urlHash": "ddbb49372fe8",
+    "titleHash": "a922c0885465"
+  },
+  {
+    "title": "OpenAI gives first detailed debrief of the Hugging Face incident at Black Hat",
+    "titlePt": "OpenAI detalha o caso do incidente com Hugging Face na Black Hat",
+    "url": "https://www.groundlevel-ai.com/p/openai-gives-first-detailed-debrief",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A OpenAI apresentou o primeiro relato detalhado sobre o incidente envolvendo Hugging Face durante a conferência de segurança Black Hat. É um sinal de transparência da empresa e oferece aprendizados sobre falhas em integrações entre plataformas de IA. Importante para profissionais de segurança.",
+    "reasonEn": "OpenAI gave its first detailed debrief on the Hugging Face incident at the Black Hat security conference. Shows a degree of transparency and offers lessons about failures in cross-platform AI integrations. Relevant for security practitioners.",
+    "score": 0.7,
+    "tags": [
+      "openai",
+      "segurança",
+      "conferência"
+    ],
+    "img": "img/d9c7fcdc0fdf.jpg",
+    "ts": 1785976324,
+    "addedTs": 1785980722,
+    "urlHash": "d9c7fcdc0fdf",
+    "titleHash": "b8ad84507fd3"
+  },
+  {
+    "title": "Uncanny ads and partisan chatbots: AI toys with San Francisco politics",
+    "titlePt": "Anúncios estranhos e chatbots partidários: IA entra na política em SF",
+    "url": "https://missionlocal.org/2026/08/uncanny-ads-and-partisan-chatbots-ai-toys-with-san-francisco-politics/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Reportagem sobre o uso de chatbots e anúncios gerados por IA em campanhas políticas locais de São Francisco. Mostra como a IA generativa já está sendo usada em disputas reais, às vezes de forma invasiva ou polarizante. Relevante para quem se preocupa com desinformação e eleições.",
+    "reasonEn": "Coverage of AI chatbots and generated ads being used in San Francisco's local political races. Shows generative AI is already in real campaign warfare, sometimes in invasive or polarizing ways. Relevant for anyone worried about elections.",
+    "score": 0.6,
+    "tags": [
+      "política",
+      "desinformação"
+    ],
+    "img": "img/bb9c422d361e.jpg",
+    "ts": 1785974152,
+    "addedTs": 1785980722,
+    "urlHash": "bb9c422d361e",
+    "titleHash": "1eb40f2477dd"
+  },
+  {
+    "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+    "titlePt": "Rode cargas de IA em qualquer nuvem e armazene no Hugging Face com SkyPilot",
+    "url": "https://huggingface.co/blog/skypilot-hf-storage",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "O Hugging Face integrou-se ao SkyPilot para permitir rodar workloads de IA em qualquer provedor de nuvem, sem pagar pela saída de dados. Os modelos ficam no Hugging Face, mas o treinamento e inferência ocorrem na nuvem escolhida. Isso reduz custos para times que treinam modelos grandes. Boa notícia para desenvolvedores e startups preocupadas com despesas de cloud.",
+    "reasonEn": "Hugging Face integrated with SkyPilot to allow running AI workloads on any cloud provider without paying for data egress. Models stay on Hugging Face, but training and inference occur on the chosen cloud. This reduces costs for teams training large models. Good news for developers and startups concerned about cloud expenses.",
+    "score": 0.5,
+    "tags": [
+      "infraestrutura",
+      "huggingface",
+      "custos"
+    ],
+    "img": "img/8125b5dd69d0.jpg",
+    "ts": 1783382400,
+    "addedTs": 1785980722,
+    "urlHash": "8125b5dd69d0",
+    "titleHash": "56f5c90adb4b"
+  },
+  {
+    "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+    "titlePt": "Desbloqueando a próxima era de produtividade do Reino Unido: construindo uma nação de pioneiros em IA",
+    "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+    "source": "Google AI",
+    "sources": [
+      "Google AI"
+    ],
+    "reason": "O Google publicou um artigo defendendo maior adoção de IA no Reino Unido para impulsionar a produtividade econômica. O texto defende treinamento em larga escala, parcerias público-privadas e menos barreiras regulatórias. É parte da campanha global do Google para se posicionar como parceiro estratégico de governos. Tem impacto político, mas pouca novidade técnica.",
+    "reasonEn": "Google published an article advocating greater AI adoption in the UK to boost economic productivity. The text argues for large-scale training, public-private partnerships, and fewer regulatory barriers. It is part of Google's global campaign to position itself as a strategic partner for governments. It has political impact but little technical novelty.",
+    "score": 0.5,
+    "tags": [
+      "política",
+      "google",
+      "reino-unido"
+    ],
+    "img": "img/2987e3b3c79a.jpg",
+    "ts": 1782799200,
+    "addedTs": 1785980722,
+    "urlHash": "2987e3b3c79a",
+    "titleHash": "15e21a08b330"
+  },
+  {
+    "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+    "titlePt": "Anthropic lança Cowork, um agente do Claude Desktop que trabalha nos seus arquivos sem precisar de código",
+    "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+    "source": "VentureBeat AI",
+    "sources": [
+      "VentureBeat AI"
+    ],
+    "reason": "A Anthropic anunciou o Cowork, um agente integrado ao Claude Desktop que executa tarefas em arquivos do usuário sem exigir programação. O objetivo é democratizar o uso de IA para profissionais não técnicos, como analistas e gestores. A novidade amplia a disputa com ferramentas como o ChatGPT Agent e o Copilot da Microsoft. É um lançamento relevante para qualquer pessoa que acompanha IA no trabalho.",
+    "reasonEn": "Anthropic announced Cowork, an agent integrated with Claude Desktop that performs tasks in user files without requiring programming. The goal is to democratize AI use for non-technical professionals, such as analysts and managers. The novelty expands the dispute with tools like ChatGPT Agent and Microsoft Copilot. It is a relevant launch for anyone following AI at work.",
+    "score": 0.85,
+    "tags": [
+      "lançamento",
+      "anthropic",
+      "produtividade"
+    ],
+    "img": "img/157324a9612f.jpg",
+    "ts": 1768217400,
+    "addedTs": 1785980722,
+    "urlHash": "157324a9612f",
+    "titleHash": "68d569241672"
+  },
+  {
+    "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
+    "titlePt": "NousCoder-14B, da Nous Research, é um modelo de código aberto que chega no meio da onda Claude Code",
+    "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+    "source": "VentureBeat AI",
+    "sources": [
+      "VentureBeat AI"
+    ],
+    "reason": "A Nous Research lançou o NousCoder-14B, um modelo de código aberto de 14 bilhões de parâmetros focado em programação. O lançamento coincide com o crescimento do uso do Claude Code como ferramenta de desenvolvimento com IA. É uma opção aberta e gratuita para desenvolvedores que não querem depender apenas de APIs pagas. Importante para times que avaliam alternativas ao Claude Code.",
+    "reasonEn": "Nous Research launched NousCoder-14B, a 14-billion-parameter open-source model focused on programming. The release coincides with the growth in Claude Code usage as an AI development tool. It is an open and free option for developers who do not want to rely solely on paid APIs. Important for teams evaluating alternatives to Claude Code.",
+    "score": 0.7,
+    "tags": [
+      "modelo",
+      "código-aberto",
+      "lançamento"
+    ],
+    "img": "img/fe052daa70a8.jpg",
+    "ts": 1767816000,
+    "addedTs": 1785980722,
+    "urlHash": "fe052daa70a8",
+    "titleHash": "ca360750b99d"
+  },
+  {
     "title": "The silent failure taxonomy: an autonomous pipeline's 32 ways of faking success",
     "titlePt": "A taxonomia das falhas silenciosas: 32 formas de um pipeline autônomo fingir sucesso",
     "url": "https://claude.ai/code/artifact/f66e6308-e81b-40fb-9474-b2b840cb4399",
