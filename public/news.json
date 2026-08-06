@@ -1,5 +1,286 @@
 [
   {
+    "title": "The energy use of agentic AI",
+    "titlePt": "O consumo de energia da IA agêntica",
+    "url": "https://www.theclimatebrink.com/p/the-real-energy-use-of-agentic-ai",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo analisa o gasto de energia de sistemas de IA agêntica, que executam tarefas por conta própria. O consumo pode ser elevado porque esses agentes fazem várias chamadas a modelos. É leitura importante para entender custo ambiental e financeiro de automações com IA.",
+    "reasonEn": "The article analyzes the energy consumption of agentic AI systems, which perform tasks on their own. Usage can be high because these agents make multiple model calls. Important reading to understand the environmental and financial cost of AI automations.",
+    "score": 0.75,
+    "tags": [
+      "energia",
+      "agentes"
+    ],
+    "img": "img/ff16526527cd.jpg",
+    "ts": 1786057158,
+    "addedTs": 1786060249,
+    "urlHash": "ff16526527cd",
+    "titleHash": "2ccb37c1ed89"
+  },
+  {
+    "title": "OpenAI&#8217;s new AI smart speaker will reportedly sell for between $300 and $400",
+    "titlePt": "Caixa inteligente da OpenAI custará entre US$ 300 e US$ 400",
+    "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A OpenAI prepara um alto-falante inteligente com IA que, segundo rumores, será vendido entre 300 e 400 dólares. O aparelho marca a entrada da empresa no hardware de consumo. É notícia relevante para acompanhar a expansão da OpenAI além do software.",
+    "reasonEn": "OpenAI is preparing an AI smart speaker rumored to sell for $300 to $400. The device marks the company's entry into consumer hardware. Important news to track OpenAI's expansion beyond software.",
+    "score": 0.8,
+    "tags": [
+      "openai",
+      "hardware"
+    ],
+    "img": "img/73c07d42f026.jpg",
+    "ts": 1786056233,
+    "addedTs": 1786060249,
+    "urlHash": "73c07d42f026",
+    "titleHash": "e630d419313f"
+  },
+  {
+    "title": "Introducing Dogwood: runtime verification for AI agents",
+    "titlePt": "Dogwood: verificação de agentes de IA em tempo real",
+    "url": "https://aws.amazon.com/blogs/opensource/introducing-dogwood-runtime-verification-for-ai-agents/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Dogwood é uma ferramenta de verificação em tempo de execução para agentes de IA, criada para evitar behaviours indesejados. Pode ajudar empresas a usar agentes com mais segurança. É leitura útil para quem implanta IA agêntica em produção.",
+    "reasonEn": "Dogwood is a runtime verification tool for AI agents, designed to prevent unwanted behaviors. It can help companies deploy agents more safely. Useful reading for anyone running agentic AI in production.",
+    "score": 0.6,
+    "tags": [
+      "agentes",
+      "segurança"
+    ],
+    "img": "img/8f1021c6c3e0.jpg",
+    "ts": 1786055054,
+    "addedTs": 1786060249,
+    "urlHash": "8f1021c6c3e0",
+    "titleHash": "ac5790d0056f"
+  },
+  {
+    "title": "OpenAI and four rivals just agreed on one standard for AI agents",
+    "titlePt": "OpenAI e quatro rivais fecham padrão comum para agentes de IA",
+    "url": "https://thenextweb.com/news/openai-agent-plugins-open-standard-skills-mcp",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "OpenAI, Anthropic, Google e outras empresas concordaram em adotar um padrão único para agentes de IA. A medida busca facilitar a interoperabilidade entre agentes de diferentes fabricantes. É movimento importante para toda a indústria.",
+    "reasonEn": "OpenAI, Anthropic, Google, and other companies agreed on a single standard for AI agents. The move aims to make agents from different vendors interoperable. An important development for the entire industry.",
+    "score": 0.9,
+    "tags": [
+      "padrão",
+      "agentes"
+    ],
+    "img": "img/015e99c3a0b3.jpg",
+    "ts": 1786054892,
+    "addedTs": 1786060249,
+    "urlHash": "015e99c3a0b3",
+    "titleHash": "14a124297494"
+  },
+  {
+    "title": "BMS ran AI for drug discovery 3 years- what they found and why they doubled down",
+    "titlePt": "BMS rodou IA em descoberta de medicamentos por 3 anos: o que aprendeu",
+    "url": "https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A farmacêutica Bristol-Myers Squibb compartilha resultados de três anos usando IA para descoberta de medicamentos. A empresa encontrou ganhos reais em velocidade, mas também limites claros. Mostra como a IA está sendo usada na indústria farmacêutica.",
+    "reasonEn": "Pharma company Bristol-Myers Squibb shared three years of using AI for drug discovery. The company found real gains in speed, but also clear limits. It shows how AI is being used in the pharmaceutical industry.",
+    "score": 0.7,
+    "tags": [
+      "saúde",
+      "indústria"
+    ],
+    "img": "img/af4560cf6a7c.jpg",
+    "ts": 1786054519,
+    "addedTs": 1786060249,
+    "urlHash": "af4560cf6a7c",
+    "titleHash": "3d3851efb18e"
+  },
+  {
+    "title": "China built its 'Manhattan Project' to rival the West in AI chips [video]",
+    "titlePt": "China montou seu 'Projeto Manhattan' para rivalizar com o Ocidente em chips de IA",
+    "url": "https://www.youtube.com/watch?v=25ttDa0eqJQ",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Reportagem detalha o esforço coordenado da China para construir uma cadeia independente de chips de IA, com fortes investimentos estatais e metas geopolíticas. A corrida envolve fábrica, software e talento para reduzir a dependência de hardware americano. Desenvolvedores e investidores devem acompanhar porque o resultado pode mexer com oferta global, preços de GPU e sanções. É o tipo de movimento de longo prazo que afeta toda a indústria de tecnologia.",
+    "reasonEn": "The report details China's coordinated effort to build an independent AI chip supply chain, with heavy state investment and geopolitical goals. The race spans fabrication, software and talent aimed at reducing dependence on US hardware. Developers and investors should watch it because the outcome could shake up global supply, GPU pricing and sanctions. It's a long-term shift that can ripple across the entire tech industry.",
+    "score": 0.7,
+    "tags": [
+      "chips",
+      "china",
+      "geopolítica"
+    ],
+    "img": "img/c414545af552.jpg",
+    "ts": 1786053051,
+    "addedTs": 1786060249,
+    "urlHash": "c414545af552",
+    "titleHash": "3e221bdec86a"
+  },
+  {
+    "title": "AMD buys Taalas, chip startup that hardwires AI models into its silicon",
+    "titlePt": "AMD compra Taalas, startup que coloca modelos de IA direto no silício",
+    "url": "https://www.cnbc.com/2026/08/06/amd-buys-taalas-startup-that-hardwires-ai-models-into-its-silicon.html",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A AMD anunciou a aquisição da Taalas, startup conhecida por gravar modelos de IA no hardware em vez de rodar via software. O movimento reforça a estratégia da AMD de competir com Nvidia em inferência especializada. Para desenvolvedores, isso pode significar novos tipos de processadores otimizados e potencialmente mais baratos para modelos específicos. É também um sinal claro de que a corrida agora inclui hardware dedicado, não apenas GPUs genéricas.",
+    "reasonEn": "AMD announced the acquisition of Taalas, a startup known for baking AI models directly into silicon rather than running them in software. The move strengthens AMD's strategy to compete with Nvidia in specialized inference. For developers, this could mean new kinds of optimized, potentially cheaper processors for specific models. It also signals that the race now includes purpose-built hardware, not just generic GPUs.",
+    "score": 0.8,
+    "tags": [
+      "chips",
+      "aquisição",
+      "amd"
+    ],
+    "img": "img/a281009f77b7.jpg",
+    "ts": 1786050018,
+    "addedTs": 1786060249,
+    "urlHash": "a281009f77b7",
+    "titleHash": "8aa8b6fa30d7"
+  },
+  {
+    "title": "Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
+    "titlePt": "Primeiro gadget da OpenAI com Jony Ive seria uma caixa inteligente do tamanho de um disco de hóquei",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "O primeiro produto da parceria entre Jony Ive e OpenAI está sendo descrito como uma caixa de som inteligente compacta, segundo fontes próximas. O dispositivo seria focado em áudio e serviria como porta de entrada para os assistentes da OpenAI no ambiente doméstico. A chegada de um hardware próprio marca a entrada da OpenAI no mercado de consumo, competindo com Echo e HomePod. Ainda não há preço nem data oficial.",
+    "reasonEn": "The first product from the Jony Ive and OpenAI partnership is described as a compact smart speaker, according to sources close to the project. The device would be audio-focused and act as a household entry point for OpenAI's assistants. Launching its own hardware marks OpenAI's move into consumer devices, competing with Echo and HomePod. No official price or release date has been announced yet.",
+    "score": 0.7,
+    "tags": [
+      "openai",
+      "hardware",
+      "design"
+    ],
+    "img": "img/20f43dae1ff7.jpg",
+    "ts": 1786049791,
+    "addedTs": 1786060249,
+    "urlHash": "20f43dae1ff7",
+    "titleHash": "0e7934902cef"
+  },
+  {
+    "title": "Why China's A.I. Models Could Threaten the Communist Party",
+    "titlePt": "Por que os modelos de IA da China podem ameaçar o Partido Comunista",
+    "url": "https://www.nytimes.com/2026/07/30/world/asia/as-chinas-ai-gets-stronger-it-poses-new-risks-to-beijing.html",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Análise argumenta que os modelos chineses estão cada vez mais aptos a gerar conteúdo sensível politicamente, o que coloca o Partido numa encruzilhada entre inovação e censura. Autoridades já discutem limites rígidos para IAs nacionais. O tema interessa a quem trabalha com modelos globais porque pode fragmentar ainda mais o mercado. Também mostra como a geopolítica interfere diretamente no design de produtos de IA.",
+    "reasonEn": "Analysis argues that Chinese models are increasingly able to generate politically sensitive content, putting the Party in a bind between innovation and censorship. Authorities are already discussing strict limits for domestic AIs. The topic matters for anyone working with global models, because it could further fragment the market. It also shows how geopolitics directly shapes the design of AI products.",
+    "score": 0.6,
+    "tags": [
+      "china",
+      "regulação",
+      "modelos"
+    ],
+    "img": "img/e92c3884504b.jpg",
+    "ts": 1786049379,
+    "addedTs": 1786060249,
+    "urlHash": "e92c3884504b",
+    "titleHash": "79462ce62f19"
+  },
+  {
+    "title": "Anthropic will design its own hardware to power Claude",
+    "titlePt": "Anthropic vai projetar seu próprio hardware para rodar o Claude",
+    "url": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Anthropic confirmou que está desenvolvendo chips e infraestrutura próprios para alimentar seus modelos Claude, reduzindo a dependência de Nvidia e dos grandes provedores de nuvem. A decisão é estratégica e pode melhorar desempenho e custos no médio prazo. Para usuários e empresas, significa um caminho mais vertical da Anthropic, similar ao que Apple e Google fizeram no passado. Aumenta a competição em hardware especializado para IA.",
+    "reasonEn": "Anthropic confirmed it is designing its own chips and infrastructure to power Claude models, reducing dependence on Nvidia and the big cloud providers. The move is strategic and could improve performance and costs over time. For users and enterprises, it means a more vertical path for Anthropic, similar to what Apple and Google did in the past. It raises the bar for competition in AI-specific hardware.",
+    "score": 0.85,
+    "tags": [
+      "anthropic",
+      "chips",
+      "infraestrutura"
+    ],
+    "img": "img/acad3225b307.jpg",
+    "ts": 1786048771,
+    "addedTs": 1786060249,
+    "urlHash": "acad3225b307",
+    "titleHash": "a99382dc5bbe"
+  },
+  {
+    "title": "OpenAI is giving ChatGPT free users unlimited text chats",
+    "titlePt": "OpenAI libera chats de texto ilimitados para usuários gratuitos do ChatGPT",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "A OpenAI anunciou que usuários da versão gratuita do ChatGPT agora podem enviar mensagens de texto sem limite, derrubando uma das principais barreiras de uso. O movimento visa ampliar a base instalada antes da próxima onda de novos modelos e pressionar concorrentes gratuitos. Para devs e empresas, isso significa maior alcance de usuários testando produtos via ChatGPT. Também força Google, Anthropic e modelos chineses a reagirem.",
+    "reasonEn": "OpenAI announced that free ChatGPT users can now send unlimited text messages, removing one of the main usage barriers. The move aims to widen the installed base before the next wave of models and pressure free-tier competitors. For developers and businesses, it means greater reach of users testing products via ChatGPT. It also pushes Google, Anthropic and Chinese models to respond.",
+    "score": 0.8,
+    "tags": [
+      "openai",
+      "produto",
+      "gratuito"
+    ],
+    "img": "img/b04f9642d438.jpg",
+    "ts": 1786040141,
+    "addedTs": 1786060249,
+    "urlHash": "b04f9642d438",
+    "titleHash": "8ef49c548157"
+  },
+  {
+    "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+    "titlePt": "OpenAI melhora o GPT-5.6 Sol e amplia acesso ao GPT-5.6 Luna para usuários gratuitos",
+    "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "A OpenAI anunciou upgrades no modelo GPT-5.6 Sol dentro do ChatGPT, com melhor raciocínio e mais estabilidade, e ampliou o acesso ao GPT-5.6 Luna para usuários da conta gratuita. É mais um passo para democratizar modelos intermediários antes da próxima geração. Para devs, vale testar as novas versões via API e Playground. Ajuda a calibrar expectativas sobre custos e qualidade.",
+    "reasonEn": "OpenAI announced upgrades to the GPT-5.6 Sol model in ChatGPT, with better reasoning and stability, and expanded access to GPT-5.6 Luna for free-tier users. It is another step toward democratizing mid-tier models before the next generation. For developers, it's worth testing the new versions via API and Playground. It helps calibrate expectations on cost and quality.",
+    "score": 0.7,
+    "tags": [
+      "openai",
+      "modelo",
+      "produto"
+    ],
+    "img": "img/b1c9322e571f.jpg",
+    "ts": 1786010400,
+    "addedTs": 1786060249,
+    "urlHash": "b1c9322e571f",
+    "titleHash": "1efc6c521532"
+  },
+  {
+    "title": "Working with the American Psychological Association on youth mental health and AI",
+    "titlePt": "OpenAI se une à Associação Americana de Psicologia para discutir saúde mental jovem e IA",
+    "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "A OpenAI firmou parceria com a American Psychological Association para estudar o impacto da IA na saúde mental de jovens, incluindo uso de ChatGPT por adolescentes. O foco é desenvolver boas práticas, alertas e materiais educativos. É um passo importante para regulação e segurança de menores. Para devs de produtos voltados a jovens, é referência de como empresas grandes estão lidando com o tema.",
+    "reasonEn": "OpenAI partnered with the American Psychological Association to study AI's impact on youth mental health, including teens' use of ChatGPT. The focus is developing best practices, alerts and educational materials. It is an important step toward regulation and minor safety. For developers of youth-focused products, it is a reference on how large companies are handling the topic.",
+    "score": 0.5,
+    "tags": [
+      "openai",
+      "saúde",
+      "regulação"
+    ],
+    "img": "img/0c4923a8268d.jpg",
+    "ts": 1785996000,
+    "addedTs": 1786060249,
+    "urlHash": "0c4923a8268d",
+    "titleHash": "52a12f8e461e"
+  },
+  {
     "title": "Show HN: Ranking weather models by how their forecasts turned out",
     "titlePt": "Ranking de modelos de clima pelo resultado real das previsões",
     "url": "https://nickleenders.github.io/verisky-scoreboard/?city=newyork",
