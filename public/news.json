@@ -1,5 +1,157 @@
 [
   {
+    "title": "The Tokenpocalypse Is Here: Companies Are Scrambling to Stop Spending on AI",
+    "titlePt": "O Tokenpocalipse Chegou: Empresas Correm Para Cortar Gastos Com IA",
+    "url": "https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Empresas estão revendo com urgência seus orçamentos de IA porque os custos com tokens dispararam. O texto mostra um movimento crescente de organizações que tentam renegociar contratos e limitar uso. O impacto recai sobre times de produto, finanças e engenharia que dependem de modelos pagos. É um sinal claro de que o ciclo de gasto fácil com IA pode estar chegando ao fim.",
+    "reasonEn": "Companies are urgently reviewing their AI budgets because token costs have surged. The story shows a growing movement of organizations trying to renegotiate contracts and cap usage. The impact falls on product, finance and engineering teams that rely on paid models. It is a clear sign that the easy-spending AI cycle may be ending.",
+    "score": 0.85,
+    "tags": [
+      "custos",
+      "orçamento",
+      "tokens"
+    ],
+    "img": "img/3cc580e81dd7.jpg",
+    "ts": 1786120737,
+    "addedTs": 1786120961,
+    "urlHash": "3cc580e81dd7",
+    "titleHash": "f8aac508b3d8"
+  },
+  {
+    "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+    "titlePt": "Cloudflare Lança Kitesurf, Navegador Feito Para Agentes de IA",
+    "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A Cloudflare apresentou o Kitesurf, um navegador projetado especificamente para agentes de IA navegarem na web. É mais um passo da empresa em se posicionar como infraestrutura da economia de agentes. Desenvolvedores que constroem automações web devem avaliar o impacto em seus pipelines. A notícia confirma a tendência de navegadores dedicados para workloads automatizados.",
+    "reasonEn": "Cloudflare unveiled Kitesurf, a browser designed specifically for AI agents to navigate the web. It is another step by the company to position itself as the infrastructure of the agent economy. Developers building web automations should assess the impact on their pipelines. The news confirms the trend of dedicated browsers for automated workloads.",
+    "score": 0.85,
+    "tags": [
+      "cloudflare",
+      "agentes",
+      "lançamento"
+    ],
+    "img": "img/66165609f5f2.jpg",
+    "ts": 1786119369,
+    "addedTs": 1786120961,
+    "urlHash": "66165609f5f2",
+    "titleHash": "67ab04970637"
+  },
+  {
+    "title": "AI agents fake identities, target real people in new security incident",
+    "titlePt": "Agentes de IA Falsificam Identidades e Atacam Pessoas Reais",
+    "url": "https://www.cnn.com/2026/08/04/tech/ai-anthropic-openai-security-breach-intl-hnk",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um novo incidente de segurança mostra agentes de IA criando identidades falsas para enganar pessoas reais. É um caso concreto de uso malicioso de automação, com possíveis danos financeiros e reputacionais. O episódio serve de alerta para empresas que expõem canais de atendimento a bots. Times de segurança devem revisar defesas contra engenharia social automatizada.",
+    "reasonEn": "A new security incident shows AI agents creating fake identities to deceive real people. It is a concrete case of malicious automation use, with potential financial and reputational damage. The episode serves as a warning for companies exposing service channels to bots. Security teams should review defenses against automated social engineering.",
+    "score": 0.8,
+    "tags": [
+      "segurança",
+      "agentes"
+    ],
+    "img": "img/9583d59eb32b.jpg",
+    "ts": 1786118675,
+    "addedTs": 1786120961,
+    "urlHash": "9583d59eb32b",
+    "titleHash": "d388ca6076fc"
+  },
+  {
+    "title": "Qwen 3.8-Max Preview",
+    "titlePt": "Prévia Do Qwen 3.8-Max",
+    "url": "https://manish.sh/writings/models/inside-qwen-3-8-max-preview-reverse-engineering-an-ai-assistant-by-interviewing-itself",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Alibaba soltou uma prévia de um novo modelo da família Qwen, sugerindo salto de capacidade. É um movimento estratégico para brigar com modelos fechados como Claude e GPT. Desenvolvedores devem testar benchmarks quando o modelo for liberado. A tendência é que modelos abertos fiquem cada vez mais competitivos.",
+    "reasonEn": "Alibaba released a preview of a new Qwen family model, suggesting a capability jump. It is a strategic move to compete with closed models like Claude and GPT. Developers should test benchmarks when the model is fully released. The trend is that open models are becoming increasingly competitive.",
+    "score": 0.75,
+    "tags": [
+      "modelo",
+      "qwen"
+    ],
+    "img": "img/f145218c4c1f.jpg",
+    "ts": 1786116743,
+    "addedTs": 1786120961,
+    "urlHash": "f145218c4c1f",
+    "titleHash": "cddd4b7850e8"
+  },
+  {
+    "title": "Zerker AI Gateway: route, guard and charge",
+    "titlePt": "Zerker: gateway de IA para rotear, proteger e cobrar uso de modelos",
+    "url": "https://zerker.ai/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Zerker é um novo gateway pensado para empresas que usam vários modelos de IA ao mesmo tempo. Ele permite definir regras de roteamento, aplicar limites de uso e cobrar por consumo de forma centralizada. Para desenvolvedores, isso evita ter que montar essa infraestrutura do zero. É especialmente útil para times que precisam controlar custos e conformidade em aplicações com IA.",
+    "reasonEn": "Zerker is a new gateway built for companies using multiple AI models at the same time. It lets you set routing rules, apply usage limits and bill for consumption centrally. For developers, this avoids building that infrastructure from scratch. It is especially useful for teams that need to control costs and compliance in AI applications.",
+    "score": 0.65,
+    "tags": [
+      "gateway",
+      "infra",
+      "monetização"
+    ],
+    "img": "img/f88ab2e73b23.jpg",
+    "ts": 1786116146,
+    "addedTs": 1786120961,
+    "urlHash": "f88ab2e73b23",
+    "titleHash": "13235538188e"
+  },
+  {
+    "title": "How are people using AI agents to buy things?",
+    "titlePt": "Como as pessoas estão usando agentes de IA para comprar coisas?",
+    "url": "https://authoryze.ai/blog/how-are-people-using-ai-agents-to-buy-things",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Hacker News abriu uma discussão reunindo relatos reais de consumidores usando agentes de IA para fazer compras online. Os casos vão desde quem pede ao agente para escolher presentes até quem automatiza compras recorrentes. Ainda há muitos bugs e limitações, mas o volume de uso já é significativo. O post mostra que agentes de consumo estão deixando de ser promessa e virando realidade cotidiana.",
+    "reasonEn": "Hacker News opened a discussion collecting real reports from consumers using AI agents to shop online. Cases range from people asking the agent to pick gifts to those automating recurring purchases. There are still many bugs and limitations, but usage volume is already significant. The post shows that consumer agents are moving from promise to everyday reality.",
+    "score": 0.55,
+    "tags": [
+      "agentes",
+      "consumo",
+      "tendência"
+    ],
+    "img": "img/1e813db83d7c.jpg",
+    "ts": 1786115702,
+    "addedTs": 1786120961,
+    "urlHash": "1e813db83d7c",
+    "titleHash": "0279c3c38793"
+  },
+  {
+    "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
+    "titlePt": "Apps de namoro da geração Z como o Ditto trocam o swipe por matchmaking com IA",
+    "url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "Aplicativos como o Ditto estão abandonando o clássico deslizar de cards e apostando em sistemas de IA que fazem a curadoria dos pares para o usuário. A ideia é reduzir o cansaço do swipe infinito e dar matches mais relevantes com base em valores e personalidade. O público-alvo são jovens da geração Z que se frustraram com apps tradicionais. A tendência pode redesenhar o mercado de namoro online.",
+    "reasonEn": "Apps like Ditto are dropping the classic card swiping and betting on AI systems that curate matches for the user. The idea is to reduce swipe fatigue and deliver more relevant matches based on values and personality. The target audience is Gen Z users frustrated with traditional apps. The trend could reshape the online dating market.",
+    "score": 0.55,
+    "tags": [
+      "consumo",
+      "matchmaking",
+      "geração z"
+    ],
+    "img": "img/765b8ce6c5e4.jpg",
+    "ts": 1786031583,
+    "addedTs": 1786120961,
+    "urlHash": "765b8ce6c5e4",
+    "titleHash": "18ad0fadf66f"
+  },
+  {
     "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
     "titlePt": "CEO do Reddit questiona valor dos AI Overviews do Google",
     "url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
