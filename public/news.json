@@ -1,5 +1,181 @@
 [
   {
+    "title": "Facing AI 'Apocalypse,' Once-Hot Software Companies Race to Reinvent Themselves",
+    "titlePt": "Apocalipse da IA: empresas de software correm para se reinventar",
+    "url": "https://www.wsj.com/tech/ai/saas-software-as-a-service-apocalypse-ai-b9b6da99",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo mostra que empresas de software antes valorizadas estão se apressando para se reposicionar diante da ameaça que a IA representa aos seus modelos de negócio. A matéria discute aquisições, mudanças de produto e pivôs estratégicos. É leitura essencial para fundadores, investidores e profissionais de tecnologia que precisam entender como o mercado está mudando. O tom é urgente, mas baseado em fatos do setor.",
+    "reasonEn": "The piece explains that once-hot software companies are scrambling to reinvent themselves as AI threatens their core business models. It covers acquisitions, product pivots, and strategic shifts. Founders, investors, and tech workers should read it to understand the new landscape. The tone is urgent but grounded in real industry moves.",
+    "score": 0.85,
+    "tags": [
+      "negócios",
+      "ia",
+      "mercado"
+    ],
+    "img": "img/0c085ca5c733.jpg",
+    "ts": 1786106350,
+    "addedTs": 1786106496,
+    "urlHash": "0c085ca5c733",
+    "titleHash": "9724e476a347"
+  },
+  {
+    "title": "Metadata for AI Generated Outputs",
+    "titlePt": "Metadados para conteúdos gerados por IA",
+    "url": "https://shkspr.mobi/blog/2026/08/metadata-for-ai-generated-outputs/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A discussão aborda a necessidade de padronizar metadados em arquivos produzidos por modelos de IA, como imagens e textos, para identificar origem e procedência. O tema ganha relevância por causa de regulamentações recentes e pela preocupação com desinformação. Desenvolvedores de plataformas de conteúdo são os mais afetados. A conversa ainda está em estágio inicial, mas pode virar padrão.",
+    "reasonEn": "The discussion covers the need to standardize metadata on AI-generated files like images and text to identify origin and provenance. It matters because of new regulations and rising disinformation concerns. Platform developers are the most affected group. The conversation is early but could turn into a standard.",
+    "score": 0.5,
+    "tags": [
+      "regulação",
+      "metadados",
+      "ia"
+    ],
+    "img": "img/d2a77e4b2919.jpg",
+    "ts": 1786106184,
+    "addedTs": 1786106496,
+    "urlHash": "d2a77e4b2919",
+    "titleHash": "a38e20f94110"
+  },
+  {
+    "title": "Survey: AI Impact on Security",
+    "titlePt": "Pesquisa revela o impacto da IA na segurança",
+    "url": "https://ivelum.com/blog/ai-security-survey-2026/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma pesquisa mostra como equipes de segurança estão sendo afetadas pelo uso crescente de IA, tanto como ferramenta de defesa quanto vetor de ataque. Os resultados apontam novas demandas e gargalos em profissionais da área. É leitura recomendada para líderes de segurança e times de TI. Os dados ajudam a priorizar investimentos.",
+    "reasonEn": "A survey shows how security teams are being affected by the growing use of AI, both as a defense tool and as an attack vector. Findings point to new demands and skills gaps in the profession. Recommended for security leaders and IT teams. The data helps prioritize investments.",
+    "score": 0.55,
+    "tags": [
+      "segurança",
+      "pesquisa",
+      "ia"
+    ],
+    "img": "img/f9e8b11f39d4.jpg",
+    "ts": 1786105187,
+    "addedTs": 1786106496,
+    "urlHash": "f9e8b11f39d4",
+    "titleHash": "e5ceef003702"
+  },
+  {
+    "title": "Show HN: Which devtools win when LLMs plan real web apps",
+    "titlePt": "Quais ferramentas de dev vencem quando LLMs planejam apps reais",
+    "url": "https://preseason.ai",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um criador publicou um estudo comparando como diferentes ferramentas de desenvolvimento se saem quando agentes LLM planejam e constroem aplicações web completas. Os resultados mostram quais plataformas funcionam melhor com IA generativa. É útil para times que escolhem stacks pensando em automação. Os dados ainda são limitados, mas dão uma direção.",
+    "reasonEn": "A creator published a comparison of how developer tools perform when LLM agents plan and build full web apps. The results show which platforms work best with generative AI. Useful for teams choosing stacks with automation in mind. The data is limited but gives a direction.",
+    "score": 0.55,
+    "tags": [
+      "devtools",
+      "benchmark",
+      "agentes"
+    ],
+    "img": "img/5acb292c293a.jpg",
+    "ts": 1786104310,
+    "addedTs": 1786106496,
+    "urlHash": "5acb292c293a",
+    "titleHash": "1c5b837f52fa"
+  },
+  {
+    "title": "How Does AI Interpret Consent: A Look Inside Claude Code's Safety Classifier",
+    "titlePt": "Como Claude Code interpreta consentimento em seu classificador de segurança",
+    "url": "https://www.highflame.com/blog/the-44kb-of-claude-codes-rulebook-you-cant-print/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo mostra como o classificador de segurança do Claude Code avalia pedidos sensíveis relacionados a consentimento. A análise revela como o sistema decide negar ou liberar ações de alto risco. É leitura essencial para quem se preocupa com segurança em IA e desenvolvedores que integram modelos. Traz exemplos concretos de prompts e respostas.",
+    "reasonEn": "The article shows how Claude Code's safety classifier evaluates sensitive consent-related requests. The analysis reveals how the system decides to block or allow high-risk actions. Essential reading for those focused on AI safety and for developers integrating models. It includes concrete prompt and response examples.",
+    "score": 0.65,
+    "tags": [
+      "segurança",
+      "anthropic",
+      "claude"
+    ],
+    "img": "img/dfd511ed48f4.jpg",
+    "ts": 1786104034,
+    "addedTs": 1786106496,
+    "urlHash": "dfd511ed48f4",
+    "titleHash": "07a8cc7ad857"
+  },
+  {
+    "title": "AI Brain Fry Is Real, and Devs Are Fighting Back – What's Up Devs? #8",
+    "titlePt": "Esgotamento mental por IA é real e devs estão reagindo",
+    "url": "https://wud.happyto.dev/p/what-s-up-devs-8-ai-brain-fry-is-real-and-devs-are-fighting-back",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A matéria descreve um fenômeno de burnout entre desenvolvedores que passaram a usar IA em excesso, com queda de qualidade de código e fadiga cognitiva. Profissionais relatam estratégias para reduzir dependência e recuperar foco. É relevante para líderes técnicos que precisam equilibrar produtividade e bem-estar. O tema ainda é pouco discutido em público.",
+    "reasonEn": "The piece describes a burnout phenomenon among developers who ramped up AI use, with code quality drops and cognitive fatigue. Professionals share strategies to reduce dependency and recover focus. Relevant for tech leaders balancing productivity and wellbeing. The topic is still underdiscussed publicly.",
+    "score": 0.55,
+    "tags": [
+      "burnout",
+      "devs",
+      "produtividade"
+    ],
+    "img": "img/afeb4bd3b158.jpg",
+    "ts": 1786103614,
+    "addedTs": 1786106496,
+    "urlHash": "afeb4bd3b158",
+    "titleHash": "2206b7b24acb"
+  },
+  {
+    "title": "Tryall –- describe the task, and it picks the AI model for you",
+    "titlePt": "Tryall — descreva a tarefa e a IA escolhe o modelo",
+    "url": "https://www.tryall.ai",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Tryall é uma ferramenta que recebe uma descrição de tarefa e escolhe automaticamente qual modelo de IA usar, visando custo e qualidade. A proposta reduz o trabalho de comparar provedores manualmente. Pode economizar tempo de equipes pequenas. Ainda não é claro como lida com tarefas complexas.",
+    "reasonEn": "Tryall is a tool that takes a task description and automatically picks which AI model to use, balancing cost and quality. The idea reduces manual provider comparison. It can save time for small teams. How it handles complex tasks remains unclear.",
+    "score": 0.5,
+    "tags": [
+      "ferramentas",
+      "modelos",
+      "custos"
+    ],
+    "img": "img/c0c90d2c51a5.jpg",
+    "ts": 1786102498,
+    "addedTs": 1786106496,
+    "urlHash": "c0c90d2c51a5",
+    "titleHash": "8bb26e7920eb"
+  },
+  {
+    "title": "The AI Cost Rebellion Is About Unit Economics",
+    "titlePt": "A rebelião dos custos em IA é sobre economia unitária",
+    "url": "https://www.voxelperfect.com/writing/the-ai-cost-rebellion-is-really-about-unit-economics",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo argumenta que empresas estão questionando gastos com IA porque os custos por usuário ou por chamada ficaram insustentáveis. A análise explica como o modelo de precificação muda decisões de produto e arquitetura. É leitura essencial para fundadores e líderes de tecnologia. Traz dados e exemplos concretos.",
+    "reasonEn": "The article argues companies are pushing back on AI spending because per-user or per-call costs became unsustainable. The analysis explains how pricing changes product and architecture decisions. Essential reading for founders and tech leaders. It includes concrete data and examples.",
+    "score": 0.8,
+    "tags": [
+      "custos",
+      "negócios",
+      "ia"
+    ],
+    "img": "img/dc0980b8389d.jpg",
+    "ts": 1786102039,
+    "addedTs": 1786106496,
+    "urlHash": "dc0980b8389d",
+    "titleHash": "5416ab24b5a2"
+  },
+  {
     "title": "Anthropic AI Mandatory Employee Stock Trading Plans for IPO – This Will Not Go W [video]",
     "titlePt": "Anthropic cria planos obrigatórios de venda de ações para funcionários antes do IPO",
     "url": "https://www.youtube.com/watch?v=zi9LsoKISEc",
