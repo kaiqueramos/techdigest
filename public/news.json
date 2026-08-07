@@ -1,5 +1,174 @@
 [
   {
+    "title": "The AI Experts Who Couldn't Predict AI",
+    "titlePt": "Os especialistas em IA que não conseguiram prever a IA",
+    "url": "https://greyenlightenment.com/2026/07/26/the-ai-experts-who-couldnt-predict-ai/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma reflexão sobre por que tantos pesquisadores e executivos renomados erraram feio nas previsões sobre o avanço da inteligência artificial. O texto mostra casos em que figuras conhecidas subestimaram saltos como os modelos generativos e superestimaram outras promessas. A discussão importa porque ajuda o leitor a calibrar expectativas diante do hype atual. É leitura útil para quem não quer ser enganado por manchetes bombásticas.",
+    "reasonEn": "A reflection on why so many renowned researchers and executives badly missed their predictions about the advance of artificial intelligence. The piece shows cases where well-known figures underestimated leaps like generative models and overestimated other promises. The discussion matters because it helps readers calibrate expectations amid the current hype. Useful reading for those who do not want to be fooled by sensational headlines.",
+    "score": 0.55,
+    "tags": [
+      "análise",
+      "previsões"
+    ],
+    "img": "img/698d3317389f.jpg",
+    "ts": 1786134582,
+    "addedTs": 1786134653,
+    "urlHash": "698d3317389f",
+    "titleHash": "fe47c62ba4af"
+  },
+  {
+    "title": "Show HN: Alyph, a manual transmission for LLM context",
+    "titlePt": "Alyph: câmbio manual para gerenciar contexto de modelos de linguagem",
+    "url": "https://www.alyph.ai/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um desenvolvedor publicou o Alyph, ferramenta que dá controle fino sobre o que entra no contexto enviado a grandes modelos de linguagem. A metáfora de câmbio manual sugere que o usuário ajusta manualmente o que o modelo vê, em vez de depender de soluções automáticas. Pode interessar quem quer economizar tokens ou evitar confusões de contexto. O projeto ainda é experimental e de nicho.",
+    "reasonEn": "A developer released Alyph, a tool that gives fine-grained control over what enters the context sent to large language models. The manual transmission metaphor suggests the user manually adjusts what the model sees, instead of relying on automatic solutions. It may interest those wanting to save tokens or avoid context confusion. The project is still experimental and niche.",
+    "score": 0.5,
+    "tags": [
+      "ferramenta",
+      "desenvolvedor"
+    ],
+    "img": "img/1a73e43d9b66.jpg",
+    "ts": 1786132731,
+    "addedTs": 1786134653,
+    "urlHash": "1a73e43d9b66",
+    "titleHash": "0b147a348b6b"
+  },
+  {
+    "title": "Show HN: Zaivern Code – a Rust cockpit for parallel AI coding agents",
+    "titlePt": "Zaivern Code: cockpit em Rust para rodar vários agentes de IA em paralelo",
+    "url": "https://github.com/tacyan/zaivern-code",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um projeto open source chamado Zaivern Code propõe um painel escrito em Rust para coordenar múltiplos agentes de programação com inteligência artificial ao mesmo tempo. A ideia é oferecer uma central de comando para distribuir tarefas entre agentes. Pode interessar equipes que já testam fluxos com vários modelos trabalhando em paralelo. Ainda não há dados públicos de adoção.",
+    "reasonEn": "An open source project called Zaivern Code proposes a dashboard written in Rust to coordinate multiple AI coding agents at the same time. The idea is to offer a command center to distribute tasks among agents. It may interest teams already testing flows with several models working in parallel. There is no public adoption data yet.",
+    "score": 0.5,
+    "tags": [
+      "open-source",
+      "desenvolvedor"
+    ],
+    "img": "img/4eaba70bca37.jpg",
+    "ts": 1786130605,
+    "addedTs": 1786134653,
+    "urlHash": "4eaba70bca37",
+    "titleHash": "5adb30c0c6b5"
+  },
+  {
+    "title": "Gemini Robotics 2 Expands Google's AI Capabilities for Humanoid Robots",
+    "titlePt": "Google amplia capacidades de robôs humanoides com Gemini Robotics 2",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-30/google-unveils-gemini-ai-for-robots-struggling-with-dexterity",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Google anunciou o Gemini Robotics 2, nova versão do seu modelo voltada para controlar robôs humanoides. A evolução promete melhor raciocínio espacial e execução de tarefas físicas mais complexas. A notícia confirma que a corrida por IA aplicada à robótica está acelerando entre as grandes empresas de tecnologia. Afeta desenvolvedores de automação, fabricantes de hardware e pesquisadores da área.",
+    "reasonEn": "Google announced Gemini Robotics 2, a new version of its model aimed at controlling humanoid robots. The evolution promises better spatial reasoning and execution of more complex physical tasks. The news confirms that the race for AI applied to robotics is accelerating among big tech companies. It affects automation developers, hardware makers and area researchers.",
+    "score": 0.85,
+    "tags": [
+      "google",
+      "robótica",
+      "lançamento"
+    ],
+    "img": "img/89f3cc6ca145.jpg",
+    "ts": 1786130131,
+    "addedTs": 1786134653,
+    "urlHash": "89f3cc6ca145",
+    "titleHash": "b1a0a1cfd098"
+  },
+  {
+    "title": "Show HN: Coarena - A community-driven arena to benchmark models for computer-use",
+    "titlePt": "Coarena: arena colaborativa para testar modelos de uso de computador",
+    "url": "https://coarena.ai",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um projeto chamado Coarena quer criar uma arena aberta onde a comunidade avalia modelos de IA dedicados a operar computadores. A inspiração vem de plataformas como o Chatbot Arena, mas com foco em agentes que clicam, navegam e editam interfaces. Pode ajudar empresas a escolher o modelo certo para automações complexas. A iniciativa ainda depende de adesão da comunidade para virar referência.",
+    "reasonEn": "A project called Coarena wants to create an open arena where the community evaluates AI models dedicated to operating computers. The inspiration comes from platforms like Chatbot Arena, but focused on agents that click, browse and edit interfaces. It can help companies choose the right model for complex automations. The initiative still depends on community adoption to become a reference.",
+    "score": 0.5,
+    "tags": [
+      "benchmark",
+      "agentes"
+    ],
+    "img": "img/bd1f82186478.jpg",
+    "ts": 1786129242,
+    "addedTs": 1786134653,
+    "urlHash": "bd1f82186478",
+    "titleHash": "adca630a54b5"
+  },
+  {
+    "title": "Databricks drove down AI coding spend 70%",
+    "titlePt": "Databricks reduz em 70% os gastos com programação assistida por IA",
+    "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Databricks publicou um caso de uso mostrando como cortou em 70% o custo de desenvolvimento assistido por inteligência artificial. A economia veio da combinação de modelos mais baratos, cache de respostas e revisão humana mais eficiente. É mais um capítulo da onda de empresas apertando o cinto com IA sem abandonar a tecnologia. Mostra que otimização agressiva é possível mesmo em uso intenso.",
+    "reasonEn": "Databricks published a use case showing how it cut 70% of the cost of AI-assisted development. The savings came from a mix of cheaper models, response caching and more efficient human review. It is another chapter in the wave of companies tightening their belts on AI without abandoning the technology. It shows aggressive optimization is possible even with heavy use.",
+    "score": 0.7,
+    "tags": [
+      "custos",
+      "desenvolvedor"
+    ],
+    "img": "img/d30bef288e2b.jpg",
+    "ts": 1786127117,
+    "addedTs": 1786134653,
+    "urlHash": "d30bef288e2b",
+    "titleHash": "0ce848d0dcd9"
+  },
+  {
+    "title": "An AI agent with $15, 46 hours, and no way to send email",
+    "titlePt": "Agente de IA com US$ 15 e 46 horas não consegue enviar um e-mail",
+    "url": "https://write.as/ih3l0kd78lpb1",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um experimento deu a um agente de IA um orçamento limitado de dinheiro e tempo para executar tarefas reais do cotidiano. O agente conseguiu pequenas compras e navegação, mas travou ao tentar enviar um e-mail. O caso virou referência sobre os limites atuais dos agentes autônomos em fluxos longos. Mostra que ainda falta muito para uma IA cuidar de tarefas completas sem intervenção humana.",
+    "reasonEn": "An experiment gave an AI agent a limited budget of money and time to execute real everyday tasks. The agent managed small purchases and browsing but got stuck trying to send an email. The case became a reference on the current limits of autonomous agents in long flows. It shows there is still a long way to go before AI can handle complete tasks without human intervention.",
+    "score": 0.6,
+    "tags": [
+      "agentes",
+      "experimento"
+    ],
+    "img": "img/68f544c3fd24.jpg",
+    "ts": 1786126800,
+    "addedTs": 1786134653,
+    "urlHash": "68f544c3fd24",
+    "titleHash": "d1a0fc83044d"
+  },
+  {
+    "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
+    "titlePt": "Boletim traz teoria da conspiração sobre censura e primeiro vírus criado por IA",
+    "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
+    "source": "MIT Tech Review",
+    "sources": [
+      "MIT Tech Review"
+    ],
+    "reason": "O boletim semanal da MIT Technology Review traz dois destaques importantes. O primeiro é a denúncia de uma teoria conspiratória sobre censura online usada para atacar adversários políticos. O segundo é o registro do primeiro vírus criado com ajuda de inteligência artificial, um marco preocupante para a cibersegurança. Ambos os temas afetam diretamente desenvolvedores, pesquisadores e usuários comuns em todo o mundo.",
+    "reasonEn": "MIT Technology Review's weekly newsletter brings two important highlights. The first is the report of a conspiracy theory about online censorship used to attack political opponents. The second is the record of the first virus created with the help of artificial intelligence, a concerning milestone for cybersecurity. Both topics directly affect developers, researchers and regular users worldwide.",
+    "score": 0.75,
+    "tags": [
+      "segurança",
+      "cibersegurança"
+    ],
+    "img": "img/6ac697dbf33a.jpg",
+    "ts": 1786112400,
+    "addedTs": 1786134653,
+    "urlHash": "6ac697dbf33a",
+    "titleHash": "ef775aebcd26"
+  },
+  {
     "title": "EU AI Act: Second Big Blow, or a Move Toward Sanity?",
     "titlePt": "Lei de IA da UE: segundo golpe grande ou movimento de sanidade?",
     "url": "https://medium.com/@MirArshadTalpur/eu-ai-act-second-big-blow-or-a-move-toward-sanity-3dea3586dbf3",
@@ -10591,132 +10760,6 @@
     "ts": 1785716799,
     "urlHash": "1jr059r",
     "titleHash": "xsf99d",
-    "addedTs": 1785724246
-  },
-  {
-    "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
-    "titlePt": "Friend, o wearable solitário de IA, volta com nova voz e preço bem maior",
-    "url": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "O dispositivo wearable chamado Friend, que funciona como um companheiro de conversa por IA, ganhou nova versão com voz atualizada e preço mais alto. O produto continua mirando um público que busca companhia constante. A proposta levanta discussões sobre dependência emocional em tecnologia.",
-    "reasonEn": "The AI companion wearable called Friend got a new version with an updated voice and a higher price tag. The product still targets an audience looking for constant companionship. The proposal raises discussions about emotional dependency on technology.",
-    "score": 0.3,
-    "tags": [
-      "wearable",
-      "consumidor"
-    ],
-    "img": "img/i8fn2m.jpg",
-    "ts": 1785440656,
-    "urlHash": "i8fn2m",
-    "titleHash": "klcu1",
-    "addedTs": 1785724246
-  },
-  {
-    "title": "5 ways AI Mode in Search helps you enjoy the real world",
-    "titlePt": "Cinco formas como o AI Mode da Busca ajuda você a aproveitar o mundo real",
-    "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-    "source": "Google AI",
-    "sources": [
-      "Google AI"
-    ],
-    "reason": "O Google publicou um post listando cinco usos do AI Mode na Busca que incentivam o usuário a sair de casa. A proposta é integrar IA generativa com atividades do mundo físico. Tem tom promocional e pouco conteúdo técnico novo.",
-    "reasonEn": "Google published a post listing five uses of AI Mode in Search that encourage users to leave the house. The proposal is to integrate generative AI with real-world activities. It has a promotional tone with little new technical content.",
-    "score": 0.3,
-    "tags": [
-      "google",
-      "consumidor"
-    ],
-    "img": "img/162lptv.jpg",
-    "ts": 1785243600,
-    "urlHash": "162lptv",
-    "titleHash": "1sfgd8y",
-    "addedTs": 1785724246
-  },
-  {
-    "title": "Show HN: I'm 16 y/o and Built the only AI Agent for Hardware and Software Dev",
-    "titlePt": "Adolescente de 16 anos cria agente de IA para hardware e software",
-    "url": "https://github.com/spikonado/sprocket",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um jovem de 16 anos publicou um projeto de agente de inteligência artificial que promete auxiliar tanto no desenvolvimento de hardware quanto de software. É um caso inspirador, mas o produto ainda é experimental e sem validação independente. Curiosidade interessante, porém ainda sem aplicação prática comprovada.",
-    "reasonEn": "A 16-year-old published a project for an AI agent that claims to help with both hardware and software development. It is an inspiring story, but the product is still experimental and lacks independent validation. An interesting curiosity, yet without proven practical application.",
-    "score": 0.3,
-    "tags": [
-      "projeto",
-      "agentes"
-    ],
-    "img": "img/wc3ifw.jpg",
-    "ts": 1785711893,
-    "urlHash": "wc3ifw",
-    "titleHash": "8vzqz3",
-    "addedTs": 1785724246
-  },
-  {
-    "title": "Reviewing the Arch User Repository with AI",
-    "titlePt": "Revisando o Arch User Repository com inteligência artificial",
-    "url": "https://cretezy.com/2026/aur-ai-security/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um experimento usa IA para revisar e auditar pacotes no repositório de usuários do Arch Linux. A ideia é identificar más práticas, vulnerabilidades e pacotes abandonados automaticamente. Mostra um caso real de uso de IA em manutenção de software. Ainda é experimental e não substitui revisão humana.",
-    "reasonEn": "An experiment uses AI to review and audit packages in the Arch Linux user repository. The idea is to automatically flag bad practices, vulnerabilities, and abandoned packages. It shows a real use case of AI in software maintenance. It is still experimental and does not replace human review.",
-    "score": 0.3,
-    "tags": [
-      "linux",
-      "ia"
-    ],
-    "img": "img/1eyb7y9.jpg",
-    "ts": 1785710113,
-    "urlHash": "1eyb7y9",
-    "titleHash": "d4t5el",
-    "addedTs": 1785724246
-  },
-  {
-    "title": "Fender’s CEO seems to think your bandmates are just analog AI",
-    "titlePt": "CEO da Fender compara seus colegas de banda a uma IA analógica",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "O presidente da Fender afirmou em entrevista que os companheiros de banda funcionam como uma espécie de IA analógica. A fala virou polêmica entre músicos que discordam da comparação. É mais uma curiosidade cultural do que notícia de impacto. Reflete o quanto a metáfora de IA invade até o vocabulário fora da tecnologia.",
-    "reasonEn": "The head of Fender said in an interview that bandmates function as a kind of analog AI. The remark sparked controversy among musicians who disagree with the comparison. It is more of a cultural curiosity than impactful news. It reflects how much the AI metaphor invades even vocabulary outside technology.",
-    "score": 0.3,
-    "tags": [
-      "cultura",
-      "música"
-    ],
-    "img": "img/17h2x21.jpg",
-    "ts": 1785699658,
-    "urlHash": "17h2x21",
-    "titleHash": "10npul",
-    "addedTs": 1785724246
-  },
-  {
-    "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-    "titlePt": "YouTuber Hank Green diz que seu uso de IA 'não é saudável'",
-    "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "O criador de conteúdo Hank Green admitiu publicamente estar usando inteligência artificial de forma que considera prejudicial. O desabafo viralizou e abriu debate sobre vício em chatbots e assistentes. É mais relato pessoal do que notícia de impacto amplo. Pode ajudar a conscientizar sobre uso excessivo.",
-    "reasonEn": "Content creator Hank Green publicly admitted to using artificial intelligence in a way he considers harmful. The confession went viral and opened debate about chatbot and assistant addiction. It is more of a personal account than broad-impact news. It may help raise awareness about excessive use.",
-    "score": 0.3,
-    "tags": [
-      "cultura",
-      "uso"
-    ],
-    "img": "img/1huhu29.jpg",
-    "ts": 1785613545,
-    "urlHash": "1huhu29",
-    "titleHash": "zg1xep",
     "addedTs": 1785724246
   }
 ]
