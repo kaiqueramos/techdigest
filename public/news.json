@@ -1,5 +1,159 @@
 [
   {
+    "title": "Grok Imagine Image 2.0",
+    "titlePt": "Grok lança versão 2.0 do gerador de imagens",
+    "url": "https://x.ai/news/grok-imagine-image-2",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A xAI atualizou o Grok Imagine para a versão 2.0, seu gerador de imagens integrado ao X. A novidade promete mais qualidade e novos recursos criativos. Interessa a quem acompanha a corrida dos modelos generativos de imagem.",
+    "reasonEn": "xAI updated Grok Imagine to version 2.0, its image generator integrated into X. The update promises better quality and new creative features. Relevant for anyone tracking the generative image model race.",
+    "score": 0.5,
+    "tags": [
+      "imagem",
+      "grok",
+      "modelo"
+    ],
+    "img": "img/ccbfd7bc75a8.jpg",
+    "ts": 1786169805,
+    "addedTs": 1786170940,
+    "urlHash": "ccbfd7bc75a8",
+    "titleHash": "aa2392deb5c6"
+  },
+  {
+    "title": "Progress AI Observability",
+    "titlePt": "Progress lança ferramenta de observabilidade para IA",
+    "url": "https://www.producthunt.com/products/progress-ai-observability",
+    "source": "ProductHunt",
+    "sources": [
+      "ProductHunt"
+    ],
+    "reason": "A Progress apresentou uma solução de observabilidade dedicada a sistemas de IA, ajudando equipes a monitorar desempenho e falhas. É útil para empresas que já operam modelos em produção e precisam de visibilidade. Ajuda a evitar surpresas quando o modelo começa a se comportar de forma estranha.",
+    "reasonEn": "Progress introduced an observability tool dedicated to AI systems, helping teams monitor performance and failures. It's useful for companies already running models in production that need visibility. It helps avoid surprises when models start behaving oddly.",
+    "score": 0.5,
+    "tags": [
+      "observabilidade",
+      "mlops",
+      "lançamento"
+    ],
+    "img": "img/66b961de8f7b.jpg",
+    "ts": 1786169777,
+    "addedTs": 1786170940,
+    "urlHash": "66b961de8f7b",
+    "titleHash": "e4bc53ca04fa"
+  },
+  {
+    "title": "Who is liable when AI goes rogue? Lawyers see new risks",
+    "titlePt": "Quem responde quando a IA dá errado? Advogados veem riscos novos",
+    "url": "https://www.reuters.com/business/who-is-liable-when-ai-goes-rogue-lawyers-see-new-risks-2026-08-07",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Advogados discutem a responsabilidade legal quando sistemas de IA cometem erros graves, como decisões médicas ou financeiras autônomas. O tema é central para empresas que implantam IA em processos críticos. Mostra que a legislação ainda corre atrás da tecnologia.",
+    "reasonEn": "Lawyers are discussing legal liability when AI systems make serious mistakes, like autonomous medical or financial decisions. The topic is central for companies deploying AI in critical processes. It shows that legislation is still lagging behind the technology.",
+    "score": 0.7,
+    "tags": [
+      "regulação",
+      "responsabilidade",
+      "ia"
+    ],
+    "img": "img/be5700f17a1b.jpg",
+    "ts": 1786166888,
+    "addedTs": 1786170940,
+    "urlHash": "be5700f17a1b",
+    "titleHash": "69f2afc0113e"
+  },
+  {
+    "title": "Lybrary,a persistent AST-aware code memory for AI agents(MCP server pip install)",
+    "titlePt": "Lybrary: memória de código persistente para agentes de IA",
+    "url": "https://github.com/vibhu-dixit/lybrary",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Lybrary é um servidor MCP instalável via pip que dá aos agentes de IA uma memória persistente baseada na árvore sintática do código. Ajuda agentes a lembrarem da estrutura do projeto entre sessões. É uma ferramenta útil para quem trabalha com agentes de codificação.",
+    "reasonEn": "Lybrary is an MCP server installable via pip that gives AI agents persistent memory based on the code's syntax tree. It helps agents remember project structure across sessions. A useful tool for anyone working with coding agents.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "devtools",
+      "mcp"
+    ],
+    "img": "img/7932d1f9428b.jpg",
+    "ts": 1786165276,
+    "addedTs": 1786170940,
+    "urlHash": "7932d1f9428b",
+    "titleHash": "c02124116934"
+  },
+  {
+    "title": "Show HN: Agent_acid – ACID rollbacks and dry-run guardrails for AI agents",
+    "titlePt": "Agent_acid oferece rollbacks ACID para agentes de IA",
+    "url": "https://github.com/muhammadwaqasai/agent_acid",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Agent_acid é um projeto que adiciona transações ACID e dry-runs como proteção para agentes de IA, evitando alterações irreversíveis. Resolve um problema real de quem testa agentes que mexem em sistemas. Mostra amadurecimento do ecossistema de agentes.",
+    "reasonEn": "Agent_acid is a project that adds ACID transactions and dry-runs as guardrails for AI agents, preventing irreversible changes. It solves a real problem for anyone testing agents that touch production systems. Shows the agent ecosystem is maturing.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "devtools",
+      "segurança"
+    ],
+    "img": "img/8cd8eac9f9ba.jpg",
+    "ts": 1786165226,
+    "addedTs": 1786170940,
+    "urlHash": "8cd8eac9f9ba",
+    "titleHash": "75151fdc8e32"
+  },
+  {
+    "title": "Cross platform, portable and CPU accelerated AI inference with Go 1.27",
+    "titlePt": "Inferência de IA multiplataforma em Go 1.27",
+    "url": "https://blog.devgenius.io/achieving-local-ai-inference-with-go-1-27s-simd-package-e8875f567e35?sk=5162348584951937a84caba3ca9a1fc0",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um projeto permite rodar inferência de IA acelerada por CPU de forma portátil e multiplataforma usando Go 1.27. Útil para desenvolvedores Go que querem evitar depender de GPU ou serviços externos. Mostra como a inferência local está ficando mais acessível.",
+    "reasonEn": "A project enables portable, cross-platform, CPU-accelerated AI inference using Go 1.27. Useful for Go developers who want to avoid depending on GPUs or external services. It shows how local inference is becoming more accessible.",
+    "score": 0.6,
+    "tags": [
+      "go",
+      "inferência",
+      "devtools"
+    ],
+    "img": "img/2c2676fec160.jpg",
+    "ts": 1786164872,
+    "addedTs": 1786170940,
+    "urlHash": "2c2676fec160",
+    "titleHash": "958d4d2b7653"
+  },
+  {
+    "title": "Newer Models, Same Advantage",
+    "titlePt": "Hugging Face analisa novos modelos e suas vantagens",
+    "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "O post do Hugging Face avalia os modelos mais recentes lançados no ecossistema e discute o que cada um entrega de diferente. É um guia útil para escolher modelos conforme a tarefa. Ajuda desenvolvedores a evitar ficar perdido no excesso de opções.",
+    "reasonEn": "The Hugging Face post evaluates the latest models released in the ecosystem and discusses what each one delivers differently. It's a useful guide for picking models by task. Helps developers avoid getting lost in the flood of options.",
+    "score": 0.5,
+    "tags": [
+      "modelo",
+      "benchmark",
+      "huggingface"
+    ],
+    "img": "img/c5c3971a8972.jpg",
+    "ts": 1784202588,
+    "addedTs": 1786170940,
+    "urlHash": "c5c3971a8972",
+    "titleHash": "c0e574730220"
+  },
+  {
     "title": "JEDEC releases new SPHBM4 standard to slash AI memory costs – 512-bit interface",
     "titlePt": "JEDEC lança padrão SPHBM4 para cortar custos de memória em IA",
     "url": "https://www.tomshardware.com/pc-components/dram/jedec-releases-new-sphbm4-standard-to-slash-ai-memory-costs-narrow-512-bit-interface-enables-dropping-expensive-interposers-for-organic-substrates",
@@ -10623,154 +10777,6 @@
     "ts": 1785189374,
     "urlHash": "nq14n5",
     "titleHash": "27ntox",
-    "addedTs": 1785724246
-  },
-  {
-    "title": "The Download: tricking LLMs, and reviving geothermal plants",
-    "titlePt": "Truques para enganar LLMs e revival de usinas geotérmicas",
-    "url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
-    "source": "MIT Tech Review",
-    "sources": [
-      "MIT Tech Review"
-    ],
-    "reason": "Esta edição do boletim da MIT Technology Review cobre duas pautas distintas: novos métodos para enganar modelos de linguagem e a retomada de plantas geotérmicas para alimentar data centers de IA. Os dois temas juntos mostram como IA e energia estão cada vez mais interligadas. Vale ler para entender riscos de jailbreak e tendências de infraestrutura. Tempo de leitura moderado.",
-    "reasonEn": "This MIT Technology Review bulletin covers two distinct topics: new ways to trick language models and the revival of geothermal plants to power AI data centers. Together they show how AI and energy are increasingly linked. Worth reading to understand jailbreak risks and infrastructure trends. Moderate reading time.",
-    "score": 0.5,
-    "tags": [
-      "jailbreak",
-      "energia",
-      "geotérmica"
-    ],
-    "img": "img/1mfx58s.jpg",
-    "ts": 1785413400,
-    "urlHash": "1mfx58s",
-    "titleHash": "xqx645",
-    "addedTs": 1785724246
-  },
-  {
-    "title": "Trail – signed OpenTelemetry spans for AI agents",
-    "titlePt": "Trail: spans OpenTelemetry assinados para agentes de IA",
-    "url": "https://github.com/varmax2511/trail",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A ferramenta Trail adiciona assinatura criptográfica aos rastros de execução de agentes de IA usando o padrão OpenTelemetry. Isso permite auditar e responsabilizar agentes autônomos por cada ação executada. É útil para empresas que precisam de rastreabilidade em fluxos automatizados. Ainda é um projeto inicial, mas resolve uma dor real de governança.",
-    "reasonEn": "The Trail tool adds cryptographic signing to execution traces of AI agents using the OpenTelemetry standard. This lets companies audit and hold autonomous agents accountable for every action taken. It is useful for organizations needing traceability in automated workflows. Still an early project, but it solves a real governance pain point.",
-    "score": 0.5,
-    "tags": [
-      "observabilidade",
-      "agentes"
-    ],
-    "img": "img/4t8ow1.jpg",
-    "ts": 1785720658,
-    "urlHash": "4t8ow1",
-    "titleHash": "10pthf8",
-    "addedTs": 1785724246
-  },
-  {
-    "title": "Reddit reports a solid quarter but shows signs of AI&#8217;s impact",
-    "titlePt": "Reddit reporta trimestre sólido, mas mostra sinais do impacto da IA",
-    "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "O Reddit divulgou resultados financeiros acima do esperado, mas indicou que a concorrência da IA generativa começa a aparecer nos números. A empresa depende de conteúdo humano para treinar modelos, o que levanta questões sobre sustentabilidade. É um sinal importante para toda a economia de conteúdo.",
-    "reasonEn": "Reddit reported better-than-expected financial results, but indicated that generative AI competition is starting to show up in the numbers. The company depends on human-original content to train models, which raises sustainability questions. It is an important signal for the entire content economy.",
-    "score": 0.5,
-    "tags": [
-      "negócios",
-      "reddit"
-    ],
-    "img": "img/1rwmlu2.jpg",
-    "ts": 1785452938,
-    "urlHash": "1rwmlu2",
-    "titleHash": "19uoptk",
-    "addedTs": 1785724246
-  },
-  {
-    "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-    "titlePt": "Gestão de GPUs: por que GPUs ociosas são os novos aviões em terra",
-    "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "Um post no Hugging Face compara o custo de GPUs ociosas ao de aviões parados em solo: alto, evitável e muitas vezes desperdiçado. O texto sugere práticas para reduzir desperdício em clusters de treinamento. É leitura útil para engenheiros de infraestrutura e MLOps.",
-    "reasonEn": "A Hugging Face post compares the cost of idle GPUs to that of grounded aircraft: high, avoidable, and often wasted. The text suggests practices to reduce waste in training clusters. It is useful reading for infrastructure and MLOps engineers.",
-    "score": 0.5,
-    "tags": [
-      "infraestrutura",
-      "mlops"
-    ],
-    "img": "img/s9um3g.jpg",
-    "ts": 1785424149,
-    "urlHash": "s9um3g",
-    "titleHash": "gwq2rm",
-    "addedTs": 1785724246
-  },
-  {
-    "title": "The Download: a chip talent battle, and deflating AI hype",
-    "titlePt": "O resumo: a batalha por talentos em chips e o fim do hype de IA",
-    "url": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
-    "source": "MIT Tech Review",
-    "sources": [
-      "MIT Tech Review"
-    ],
-    "reason": "O MIT Technology Review traz duas pautas: a disputa entre fabricantes asiáticos por engenheiros de chips e a desaceleração do hype exagerado em torno da IA. A primeira afeta diretamente a cadeia de hardware. A segunda mostra maturidade do mercado.",
-    "reasonEn": "MIT Technology Review brings two topics: the dispute between Asian manufacturers for chip engineers and the slowdown of exaggerated AI hype. The first directly affects the hardware chain. The second shows market maturity.",
-    "score": 0.5,
-    "tags": [
-      "chips",
-      "mercado"
-    ],
-    "img": "img/2lid6v.jpg",
-    "ts": 1785327000,
-    "urlHash": "2lid6v",
-    "titleHash": "c3rh2",
-    "addedTs": 1785724246
-  },
-  {
-    "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-    "titlePt": "LFM2.5-Encoders: inferência rápida de contexto longo em CPU",
-    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "A Liquid AI lançou os codificadores LFM2.5, otimizados para rodar inferência de contexto longo em CPU comum. O foco é reduzir dependência de GPUs caras. Pode destravar aplicações locais com janelas grandes de contexto.",
-    "reasonEn": "Liquid AI released the LFM2.5 encoders, optimized to run long-context inference on regular CPUs. The focus is reducing dependence on expensive GPUs. It could unlock local applications with large context windows.",
-    "score": 0.5,
-    "tags": [
-      "modelo",
-      "otimização"
-    ],
-    "img": "img/3rf1vr.jpg",
-    "ts": 1785250905,
-    "urlHash": "3rf1vr",
-    "titleHash": "1s1o1t3",
-    "addedTs": 1785724246
-  },
-  {
-    "title": "Samsung’s chip workers are jumping ship to rival SK Hynix ",
-    "titlePt": "Engenheiros de chips da Samsung estão pulando para a rival SK Hynix",
-    "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
-    "source": "MIT Tech Review",
-    "sources": [
-      "MIT Tech Review"
-    ],
-    "reason": "O MIT Technology Review reporta um êxodo de talentos da Samsung para a concorrente SK Hynix, principalmente em áreas estratégicas de memória para IA. A movimentação pode enfraquecer a posição da Samsung em componentes para data centers. Tem impacto direto na cadeia de suprimentos de hardware para IA.",
-    "reasonEn": "MIT Technology Review reports an exodus of talent from Samsung to competitor SK Hynix, mainly in strategic memory areas for AI. The move could weaken Samsung's position in components for data centers. It has direct impact on the AI hardware supply chain.",
-    "score": 0.5,
-    "tags": [
-      "chips",
-      "coreia"
-    ],
-    "img": "img/yrps3q.jpg",
-    "ts": 1785230337,
-    "urlHash": "yrps3q",
-    "titleHash": "o6oxhc",
     "addedTs": 1785724246
   }
 ]
