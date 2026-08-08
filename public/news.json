@@ -1,5 +1,91 @@
 [
   {
+    "title": "DeepSeek V4-Flash released: 284B params, 1M-token context, free to use",
+    "titlePt": "DeepSeek lança V4-Flash: 284B de parâmetros e contexto de 1M, grátis",
+    "url": "https://ainexusdaily.vercel.app",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A DeepSeek anunciou o V4-Flash, um modelo de 284 bilhões de parâmetros com janela de contexto de 1 milhão de tokens, disponível gratuitamente. O tamanho da janela permite analisar documentos enormes ou bases inteiras de código em uma única chamada. Para desenvolvedores, isso significa uma nova opção poderosa e sem custo para experimentar. É mais um sinal de que a corrida dos modelos grandes está se acelerando fora dos EUA.",
+    "reasonEn": "DeepSeek released V4-Flash, a 284-billion parameter model with a 1M-token context window, available for free. The huge context allows analyzing massive documents or entire codebases in a single call. For developers, it means a powerful zero-cost option to experiment with. It is another signal that the large-model race is accelerating outside the US.",
+    "score": 0.85,
+    "tags": [
+      "modelo",
+      "lançamento",
+      "open-source"
+    ],
+    "img": "img/9b37af0d8c97.jpg",
+    "ts": 1786198648,
+    "addedTs": 1786198994,
+    "urlHash": "9b37af0d8c97",
+    "titleHash": "93dc2a9993d2"
+  },
+  {
+    "title": "At the altar of AI capex, Google is sacrificing the golden goose",
+    "titlePt": "Google sacrifica a 'galinha dos ovos de ouro' para bancar IA",
+    "url": "https://twitter.com/MaxAnderson/status/2080229375773941871",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto argumenta que o Google está gastando valores absurdos em infraestrutura de IA, o que pode comprometer outras áreas rentáveis da empresa. Investidores e profissionais do setor precisam entender que os gastos de capital em IA estão criando pressão sobre os lucros tradicionais. A discussão afeta diretamente o futuro de buscas, anúncios e nuvem. É uma leitura essencial para quem acompanha o mercado de tecnologia.",
+    "reasonEn": "The piece argues Google is spending absurd amounts on AI infrastructure, which may hurt other profitable parts of the company. Investors and tech workers need to grasp that AI capex is pressuring traditional earnings. The discussion directly affects the future of search, ads, and cloud. Essential reading for anyone tracking the tech market.",
+    "score": 0.7,
+    "tags": [
+      "google",
+      "mercado",
+      "capex"
+    ],
+    "img": "img/982fdb46c906.jpg",
+    "ts": 1786197824,
+    "addedTs": 1786198994,
+    "urlHash": "982fdb46c906",
+    "titleHash": "735279d65c29"
+  },
+  {
+    "title": "Gentoo bugzilla closed due AI bot scraper overload",
+    "titlePt": "Bugzilla do Gentoo é fechado por sobrecarga de bots de IA",
+    "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O sistema de bugs do Gentoo Linux precisou ser fechado porque bots de raspagem movidos por IA estavam sobrecarregando os servidores. Isso mostra como o tráfego automatizado mal comportado já impacta projetos open source. Mantenedores e administradores de sistemas enfrentam um problema crescente. É um sinal claro de que a indústria precisa de padrões para raspagem de dados.",
+    "reasonEn": "Gentoo Linux's bug tracker had to shut down because AI-powered scraping bots were overwhelming its servers. This shows how badly behaved automated traffic already impacts open source projects. Maintainers and sysadmins face a growing problem. It is a clear signal the industry needs standards for data scraping.",
+    "score": 0.65,
+    "tags": [
+      "open-source",
+      "infraestrutura"
+    ],
+    "img": "img/d8727a595c52.jpg",
+    "ts": 1786197342,
+    "addedTs": 1786198994,
+    "urlHash": "d8727a595c52",
+    "titleHash": "52213b51ed33"
+  },
+  {
+    "title": "AI's Latest Rocket Ship Is an Old School, 28-Year-Old Data Company",
+    "titlePt": "Empresa de dados antiga de 28 anos vira 'foguete' por causa da IA",
+    "url": "https://www.forbes.com/sites/iainmartin/2026/08/06/ais-latest-rocket-ship-is-an-old-school-28-year-old-data-company/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma empresa tradicional de dados, com 28 anos de mercado, viu seu valuation disparar graças à demanda por infraestrutura de IA. O caso mostra que nem só startups lucram com a revolução da IA. Investidores devem prestar atenção em fornecedores de dados que sustentam modelos. É uma boa história para entender quem realmente ganha dinheiro com IA.",
+    "reasonEn": "A traditional 28-year-old data company saw its valuation skyrocket thanks to AI infrastructure demand. The case shows that not only startups profit from the AI revolution. Investors should pay attention to data providers that feed models. A good story to understand who really makes money from AI.",
+    "score": 0.5,
+    "tags": [
+      "mercado",
+      "dados"
+    ],
+    "img": "img/56f76da2f01e.jpg",
+    "ts": 1786196389,
+    "addedTs": 1786198994,
+    "urlHash": "56f76da2f01e",
+    "titleHash": "a4879b72cda2"
+  },
+  {
     "title": "A Chinese AI model stopped OpenAI's 'unprecedented' cyber attack",
     "titlePt": "Modelo chinês de IA teria bloqueado um ciberataque 'sem precedentes' da OpenAI",
     "url": "https://www.cnbc.com/2026/07/24/chinese-ai-model-openai-cyber-attack.html",
@@ -10703,92 +10789,6 @@
     "ts": 1785528734,
     "urlHash": "bicnhn",
     "titleHash": "1jfsacz",
-    "addedTs": 1785724246
-  },
-  {
-    "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
-    "titlePt": "Entenda como a OpenAI invadiu o Hugging Face",
-    "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
-    "source": "Ars Technica",
-    "sources": [
-      "Ars Technica"
-    ],
-    "reason": "A Ars Technica publica um relato técnico sobre um incidente em que sistemas da OpenAI acessaram indevidamente recursos do Hugging Face. O caso levanta questões sérias sobre segurança entre laboratórios concorrentes. É relevante para engenheiros de plataforma e segurança.",
-    "reasonEn": "Ars Technica publishes a technical account of an incident where OpenAI systems improperly accessed Hugging Face resources. The case raises serious questions about security between competing labs. It is relevant for platform and security engineers.",
-    "score": 0.78,
-    "tags": [
-      "openai",
-      "segurança"
-    ],
-    "img": "img/12gqrol.jpg",
-    "ts": 1785274599,
-    "urlHash": "12gqrol",
-    "titleHash": "s7tsli",
-    "addedTs": 1785724246
-  },
-  {
-    "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
-    "titlePt": "Laboratórios de IA pedem pausa, mas Amazon e SpaceX aceleram",
-    "url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "Algumas das maiores empresas de IA pediram recentemente uma moratória ou cautela maior no desenvolvimento de modelos avançados. Enquanto isso, Amazon e SpaceX continuam expandindo data centers e infraestrutura para IA em ritmo acelerado. O contraste mostra a divergência de estratégia entre diferentes gigantes da tecnologia. Quem trabalha com nuvem, investimentos ou estratégia precisa acompanhar.",
-    "reasonEn": "Several top AI labs have recently called for a pause or greater caution on advanced models. Meanwhile, Amazon and SpaceX keep expanding data centers and AI infrastructure at full speed. The contrast shows diverging strategies among tech giants. Cloud, investing, and strategy professionals should follow this.",
-    "score": 0.75,
-    "tags": [
-      "regulação",
-      "infraestrutura",
-      "estratégia"
-    ],
-    "img": "img/awedal.jpg",
-    "ts": 1785506400,
-    "urlHash": "awedal",
-    "titleHash": "1oree55",
-    "addedTs": 1785724246
-  },
-  {
-    "title": "Google Earth&#8217;s AI deepfake tool only lasted one day",
-    "titlePt": "Ferramenta de deepfake do Google Earth durou só um dia",
-    "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "O Google disponibilizou brevemente um recurso no Google Earth que permitia criar vídeos deepfake realistas de locais reais. A ferramenta foi retirada no dia seguinte após críticas sobre potencial de desinformação. O caso mostra como empresas grandes estão nervosas com o uso ético de IA generativa. Interessa a profissionais de mídia, política e segurança digital.",
-    "reasonEn": "Google briefly shipped a Google Earth feature that generated realistic deepfake videos of real places. The tool was pulled the next day after backlash over disinformation risk. It shows how big companies are nervous about the ethical use of generative AI. Relevant to media, policy, and digital security professionals.",
-    "score": 0.7,
-    "tags": [
-      "deepfake",
-      "google",
-      "ética"
-    ],
-    "img": "img/uv2d9k.jpg",
-    "ts": 1785525209,
-    "urlHash": "uv2d9k",
-    "titleHash": "10yw6r1",
-    "addedTs": 1785724246
-  },
-  {
-    "title": "Sam Altman and AI’s decel debate",
-    "titlePt": "Sam Altman e o debate sobre desacelerar a IA",
-    "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "Sam Altman, presidente da OpenAI, sinalizou apoio a uma desaceleração no ritmo de desenvolvimento da inteligência artificial. A declaração surpreende vinda de um executivo cuja empresa avança rápido em novos modelos. O movimento abre debate sobre governança e limites da corrida tecnológica. Influencia diretamente o futuro da regulação e do mercado de IA.",
-    "reasonEn": "Sam Altman, head of OpenAI, signaled support for slowing down the pace of artificial intelligence development. The statement surprises coming from an executive whose company advances rapidly on new models. The move opens debate about governance and limits of the tech race. It directly influences the future of AI regulation and the market.",
-    "score": 0.7,
-    "tags": [
-      "openai",
-      "regulação"
-    ],
-    "img": "img/hd9pct.jpg",
-    "ts": 1785704062,
-    "urlHash": "hd9pct",
-    "titleHash": "1xxgyz6",
     "addedTs": 1785724246
   }
 ]
