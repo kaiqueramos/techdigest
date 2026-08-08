@@ -1,5 +1,91 @@
 [
   {
+    "title": "JEDEC releases new SPHBM4 standard to slash AI memory costs – 512-bit interface",
+    "titlePt": "JEDEC lança padrão SPHBM4 para cortar custos de memória em IA",
+    "url": "https://www.tomshardware.com/pc-components/dram/jedec-releases-new-sphbm4-standard-to-slash-ai-memory-costs-narrow-512-bit-interface-enables-dropping-expensive-interposers-for-organic-substrates",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A JEDEC publicou um novo padrão chamado SPHBM4 com interface de 512 bits voltado a memória de alta largura de banda. A ideia é reduzir custos em sistemas de IA, que consomem enormes quantidades de HBM. Fabricantes de chips e operadores de data centers devem ser os mais impactados pela possível queda de preços.",
+    "reasonEn": "JEDEC released a new standard called SPHBM4 with a 512-bit interface aimed at high-bandwidth memory. The goal is to lower costs in AI systems, which consume huge amounts of HBM. Chip makers and data center operators are likely to be most impacted by any resulting price drop.",
+    "score": 0.8,
+    "tags": [
+      "hardware",
+      "padrão",
+      "memória"
+    ],
+    "img": "img/ac46bc012b61.jpg",
+    "ts": 1786163276,
+    "addedTs": 1786164420,
+    "urlHash": "ac46bc012b61",
+    "titleHash": "60bb38b6bf39"
+  },
+  {
+    "title": "The Genesis Mission: AI and Quantum-Driven Discovery",
+    "titlePt": "Missão Genesis une IA e computação quântica para descoberta científica",
+    "url": "https://github.com/donutloop/donutloop-genesis/blob/main/README.md",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um projeto chamado Genesis Mission combina IA e computação quântica para acelerar descobertas científicas. A proposta é juntar modelagem generativa com simulações quânticas para explorar problemas antes intratáveis. Pode interessar pesquisadores e gestores de P&D, mas ainda não há resultados concretos publicados.",
+    "reasonEn": "A project called Genesis Mission combines AI and quantum computing to accelerate scientific discovery. The proposal is to pair generative modeling with quantum simulations to tackle previously intractable problems. It may interest researchers and R&D leaders, but no concrete results have been published yet.",
+    "score": 0.5,
+    "tags": [
+      "pesquisa",
+      "quântica"
+    ],
+    "img": "img/10578ba3314f.jpg",
+    "ts": 1786163237,
+    "addedTs": 1786164420,
+    "urlHash": "10578ba3314f",
+    "titleHash": "e4280e01ecfd"
+  },
+  {
+    "title": "Mythos social engineering AISI INC-2026-07-28-01",
+    "titlePt": "AISI alerta para risco de engenharia social com o modelo Mythos",
+    "url": "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um boletim do AISI alertou sobre vulnerabilidades do modelo Mythos a ataques de engenharia social. O aviso indica que o modelo pode ser manipulado a vazar informações sensíveis ou executar ações não autorizadas. Equipes de segurança e times que usam Mythos em produção devem revisar controles e prompts antes de qualquer incidente.",
+    "reasonEn": "An AISI bulletin warned about vulnerabilities in the Mythos model to social engineering attacks. The advisory says the model can be manipulated into leaking sensitive info or executing unauthorized actions. Security teams and anyone using Mythos in production should review controls and prompts before any incident.",
+    "score": 0.55,
+    "tags": [
+      "segurança",
+      "alerta"
+    ],
+    "img": "img/e0b7dbd90004.jpg",
+    "ts": 1786160516,
+    "addedTs": 1786164420,
+    "urlHash": "e0b7dbd90004",
+    "titleHash": "2d4336d4cb9e"
+  },
+  {
+    "title": "Hugging Face Models on Foundry Managed Compute",
+    "titlePt": "Modelos da Hugging Face agora rodam no Foundry Managed Compute",
+    "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "A Hugging Face anunciou uma integração para rodar seus modelos no Foundry Managed Compute. A parceria dá mais uma opção de infraestrutura para quem usa modelos hospedados no HuggingFace. Importa para times que buscam flexibilidade de deploy e querem evitar lock-in com um único provedor.",
+    "reasonEn": "Hugging Face announced an integration to run its models on Foundry Managed Compute. The partnership gives another infrastructure option for anyone using models hosted on HuggingFace. It matters to teams seeking deployment flexibility and looking to avoid lock-in with a single provider.",
+    "score": 0.5,
+    "tags": [
+      "huggingface",
+      "infra",
+      "parceria"
+    ],
+    "img": "img/1ec294ada9f4.jpg",
+    "ts": 1783437606,
+    "addedTs": 1786164420,
+    "urlHash": "1ec294ada9f4",
+    "titleHash": "2a9e951e4c40"
+  },
+  {
     "title": "The Free Money AI Bond Buildout Is Gone",
     "titlePt": "O boom de títulos de IA com dinheiro fácil acabou",
     "url": "https://www.bloomberg.com/news/newsletters/2026-08-07/the-free-money-ai-bond-buildout-is-gone",
@@ -10685,90 +10771,6 @@
     "ts": 1785230337,
     "urlHash": "yrps3q",
     "titleHash": "o6oxhc",
-    "addedTs": 1785724246
-  },
-  {
-    "title": "AI poster wins Ohio State Fair contest",
-    "titlePt": "Cartaz feito por IA vence concurso na feira de Ohio",
-    "url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um trabalho gerado por inteligência artificial venceu um concurso de arte na feira estadual de Ohio, gerando polêmica. O caso reacende o debate sobre originalidade, autoria e o futuro dos prêmios artísticos. Artistas humanos reclamam que ferramentas de IA podem imitar estilos sem esforço criativo real. Mostra como o tema já afeta até competições locais.",
-    "reasonEn": "An AI-generated work won an art contest at the Ohio State Fair, sparking controversy. The case reignites the debate about originality, authorship, and the future of artistic prizes. Human artists complain that AI tools can mimic styles without real creative effort. It shows how the topic already affects even local competitions.",
-    "score": 0.5,
-    "tags": [
-      "arte",
-      "polêmica"
-    ],
-    "img": "img/1ria6dp.jpg",
-    "ts": 1785710627,
-    "urlHash": "1ria6dp",
-    "titleHash": "3u7ewq",
-    "addedTs": 1785724246
-  },
-  {
-    "title": "Teaching an AI to know itself: Building a local LLM agent in D",
-    "titlePt": "Ensinando uma IA a se conhecer: construindo um agente LLM local em D",
-    "url": "https://blog.dlang.org/2026/06/07/teaching-an-ai-to-know-itself-building-a-local-llm-agent-in-d/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um desenvolvedor compartilha um tutorial sobre como montar um agente de modelo de linguagem local usando a linguagem de programação D. O artigo mostra como dar ao modelo capacidade de introspecção e autoavaliação. É conteúdo técnico útil para quem trabalha com agentes e LLMs. Bom para programadores interessados em rodar IA fora da nuvem.",
-    "reasonEn": "A developer shares a tutorial on building a local LLM agent using the D programming language. The article shows how to give the model introspection and self-evaluation abilities. It is useful technical content for those working with agents and LLMs. Good for programmers interested in running AI outside the cloud.",
-    "score": 0.5,
-    "tags": [
-      "llm",
-      "tutorial"
-    ],
-    "img": "img/1ybra7h.jpg",
-    "ts": 1785710191,
-    "urlHash": "1ybra7h",
-    "titleHash": "hk35oz",
-    "addedTs": 1785724246
-  },
-  {
-    "title": "Should You Use AI for a Task?",
-    "titlePt": "Você deveria usar IA para esta tarefa?",
-    "url": "https://elezea.com/2026/08/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo propõe um framework simples para decidir quando vale a pena usar inteligência artificial em uma atividade. Argumenta que muitos usos são desnecessários ou contraproducentes. A reflexão ajuda a evitar desperdício de tempo com ferramentas inadequadas. Boa leitura para líderes de equipe e profissionais individuais.",
-    "reasonEn": "The article proposes a simple framework to decide when it is worth using artificial intelligence in an activity. It argues that many uses are unnecessary or counterproductive. The reflection helps avoid wasting time with inappropriate tools. Good reading for team leaders and individual professionals.",
-    "score": 0.5,
-    "tags": [
-      "produtividade",
-      "decisão"
-    ],
-    "img": "img/svvbza.jpg",
-    "ts": 1785705364,
-    "urlHash": "svvbza",
-    "titleHash": "dx1bq",
-    "addedTs": 1785724246
-  },
-  {
-    "title": "AI Mania: From Tulips to Tokens",
-    "titlePt": "Mania da IA: das tulipas aos tokens",
-    "url": "https://seanhelvey.com/tools-and-their-tools/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Análise compara o atual ciclo de hype da inteligência artificial com bolhas históricas, como a das tulipas na Holanda. Argumenta que investidores e empresas estão agindo mais por entusiasmo do que por fundamentos sólidos. Texto crítico e recomendado para quem está exposto financeiramente ao setor. Ajuda a calibrar expectativas sobre retornos de curto prazo.",
-    "reasonEn": "Analysis compares the current AI hype cycle with historical bubbles, such as the Dutch tulip mania. It argues that investors and companies are acting more on enthusiasm than solid fundamentals. Critical and recommended reading for those financially exposed to the sector. Helps calibrate expectations on short-term returns.",
-    "score": 0.5,
-    "tags": [
-      "mercado",
-      "bolha"
-    ],
-    "img": "img/5qphoi.jpg",
-    "ts": 1785703708,
-    "urlHash": "5qphoi",
-    "titleHash": "2ridra",
     "addedTs": 1785724246
   }
 ]
