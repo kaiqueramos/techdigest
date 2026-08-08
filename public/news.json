@@ -1,5 +1,181 @@
 [
   {
+    "title": "The Free Money AI Bond Buildout Is Gone",
+    "titlePt": "O boom de títulos de IA com dinheiro fácil acabou",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-08-07/the-free-money-ai-bond-buildout-is-gone",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo discute o fim do ciclo de captação fácil de capital por empresas de IA via bonds e dívidas. Investidores estão recuando diante da queima de caixa e incerteza sobre retornos. Importante para entender o cenário macro do setor e quem depende de financiamento.",
+    "reasonEn": "The article discusses the end of the easy-money fundraising cycle for AI companies through bonds and debt. Investors are pulling back amid cash burn and uncertain returns. Important for understanding the macro landscape of the sector and who relies on financing.",
+    "score": 0.55,
+    "tags": [
+      "finanças",
+      "mercado",
+      "ia"
+    ],
+    "img": "img/3f01628ea561.jpg",
+    "ts": 1786158356,
+    "addedTs": 1786159030,
+    "urlHash": "3f01628ea561",
+    "titleHash": "499c96e8c34e"
+  },
+  {
+    "title": "Obscura: Headless browser engine. For web scraping and AI agent automation",
+    "titlePt": "Obscura: motor de browser headless para web scraping e agentes de IA",
+    "url": "https://github.com/h4ckf0r0day/obscura",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Novo projeto open source de um navegador headless otimizado para web scraping e automação de agentes de IA. Concorrente do Cloudflare Kitesurf e de ferramentas como Playwright. Relevante para quem constrói agentes autônomos.",
+    "reasonEn": "New open source headless browser project optimized for web scraping and AI agent automation. Competes with Cloudflare Kitesurf and tools like Playwright. Relevant for those building autonomous agents.",
+    "score": 0.6,
+    "tags": [
+      "open-source",
+      "agentes",
+      "devtools"
+    ],
+    "img": "img/f467fac388ed.jpg",
+    "ts": 1786156440,
+    "addedTs": 1786159030,
+    "urlHash": "f467fac388ed",
+    "titleHash": "927d5772b51e"
+  },
+  {
+    "title": "AI struggles to patch vulns without adult supervision",
+    "titlePt": "IA ainda não consegue corrigir vulnerabilidades sem supervisão humana",
+    "url": "https://www.theregister.com/ai-and-ml/2026/08/06/ai-struggles-to-patch-vulns-without-adult-supervision/5284319",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Pesquisa e discussão mostram que modelos de IA falham ao corrigir vulnerabilidades de software quando operam sozinhos, cometendo erros sutis. A supervisão humana continua essencial em segurança. Importante para times de AppSec que consideram automação com IA.",
+    "reasonEn": "Research and discussion show AI models fail to fix software vulnerabilities when operating alone, making subtle mistakes. Human oversight remains essential in security. Important for AppSec teams considering AI automation.",
+    "score": 0.7,
+    "tags": [
+      "segurança",
+      "pesquisa",
+      "devtools"
+    ],
+    "img": "img/2ecb39fda66c.jpg",
+    "ts": 1786154024,
+    "addedTs": 1786159030,
+    "urlHash": "2ecb39fda66c",
+    "titleHash": "6dfb80b19213"
+  },
+  {
+    "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+    "titlePt": "TutorMoments: quando tutores de IA devem ajudar e quando devem se conter?",
+    "url": "https://huggingface.co/blog/allenai/tutormoments",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "Estudo do Hugging Face sobre como tutores baseados em IA decidem o momento certo de intervir ou recuar. Trata de metacognição e calibragem pedagógica em modelos. Relevante para quem desenvolve produtos educacionais com IA.",
+    "reasonEn": "Hugging Face study on how AI-based tutors decide when to step in or hold back. Addresses metacognition and pedagogical calibration in models. Relevant for those building educational AI products.",
+    "score": 0.5,
+    "tags": [
+      "pesquisa",
+      "educação",
+      "modelo"
+    ],
+    "img": "img/624979042481.jpg",
+    "ts": 1786125212,
+    "addedTs": 1786159030,
+    "urlHash": "624979042481",
+    "titleHash": "0d0c625698a3"
+  },
+  {
+    "title": "Agentic Nesting: A New Methodology for Existing Enterprise Application Integration and Services",
+    "titlePt": "Agentic Nesting: nova metodologia para integração de aplicações empresariais",
+    "url": "https://arxiv.org/abs/2608.05159",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "Artigo acadêmico que propõe 'agentic nesting', uma metodologia para integrar agentes de IA em aplicações e serviços empresariais já existentes. Pode interessar arquitetos e integradores planejando rollouts corporativos. Conceito ainda em validação.",
+    "reasonEn": "Academic paper proposing 'agentic nesting', a methodology for integrating AI agents into existing enterprise applications and services. May interest architects and integrators planning corporate rollouts. Concept still under validation.",
+    "score": 0.55,
+    "tags": [
+      "pesquisa",
+      "agentes",
+      "empresa"
+    ],
+    "img": "img/fbcef75ffe34.jpg",
+    "ts": 1786075200,
+    "addedTs": 1786159030,
+    "urlHash": "fbcef75ffe34",
+    "titleHash": "a034eab00152"
+  },
+  {
+    "title": "The Ignition Index: Measuring Global Workspace Dynamics in Language Models",
+    "titlePt": "The Ignition Index: medindo a dinâmica do Espaço Global em modelos de linguagem",
+    "url": "https://arxiv.org/abs/2608.05160",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "Paper do arXiv que propõe o Ignition Index, métrica para quantificar dinâmicas internas semelhantes à teoria do Espaço Global de Trabalho em LLMs. Importante para interpretabilidade e safety. Relevante para pesquisadores e engenheiros de alinhamento.",
+    "reasonEn": "arXiv paper proposing the Ignition Index, a metric to quantify Global Workspace-like dynamics in LLMs. Important for interpretability and safety. Relevant for researchers and alignment engineers.",
+    "score": 0.5,
+    "tags": [
+      "pesquisa",
+      "interpretabilidade",
+      "modelo"
+    ],
+    "img": "img/54c87fd71c8a.jpg",
+    "ts": 1786075200,
+    "addedTs": 1786159030,
+    "urlHash": "54c87fd71c8a",
+    "titleHash": "cf882f2d4bbf"
+  },
+  {
+    "title": "Omilia raises $67M to scale its customer support platform",
+    "titlePt": "Omilia capta US$ 67 milhões para expandir plataforma de atendimento ao cliente",
+    "url": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A Omilia, empresa de IA conversacional para suporte ao cliente, levantou US$ 67 milhões em nova rodada para escalar globalmente. O aporte mostra que investidores continuam apostando em IA aplicada a atendimento. Pode indicar consolidação do setor e mais competição. Relevante para acompanhar o mercado de IA empresarial.",
+    "reasonEn": "Omilia, a conversational AI company for customer support, raised $67 million in a new round to scale globally. The funding shows investors keep betting on AI for customer service. It may signal consolidation and more competition. Worth watching for those tracking enterprise AI.",
+    "score": 0.5,
+    "tags": [
+      "investimento",
+      "atendimento",
+      "negócios"
+    ],
+    "img": "img/1a56a31fa1ea.jpg",
+    "ts": 1786017600,
+    "addedTs": 1786159030,
+    "urlHash": "1a56a31fa1ea",
+    "titleHash": "e44dc2c9d19b"
+  },
+  {
+    "title": "From asking to doing: How the world is putting ChatGPT to work",
+    "titlePt": "De perguntar a fazer: como o mundo está colocando o ChatGPT para trabalhar",
+    "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "Post oficial da OpenAI mostra casos reais de empresas e usuários usando ChatGPT em fluxos de trabalho práticos além de simples perguntas. Reforça a estratégia da empresa de promover uso agentico. Ajuda a entender tendências de adoção. Leitura útil para quem decide sobre uso de IA em times.",
+    "reasonEn": "An OpenAI post showcases real cases of companies and users putting ChatGPT to work in practical workflows beyond simple Q&A. It reinforces the company's push toward agentic usage. Useful for understanding adoption trends. Worth reading for those deciding on AI in teams.",
+    "score": 0.55,
+    "tags": [
+      "openai",
+      "chatgpt",
+      "produtividade"
+    ],
+    "img": "img/3763c3e63f84.jpg",
+    "ts": 1785974400,
+    "addedTs": 1786159030,
+    "urlHash": "3763c3e63f84",
+    "titleHash": "24d8c62c25db"
+  },
+  {
     "title": "Should AI labs be treated like the owners of dangerous animals?",
     "titlePt": "Laboratórios de IA devem ser tratados como donos de animais perigosos?",
     "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
@@ -10593,177 +10769,6 @@
     "ts": 1785703708,
     "urlHash": "5qphoi",
     "titleHash": "2ridra",
-    "addedTs": 1785724246
-  },
-  {
-    "title": "The next 50 years: humanity, AI, power – Yuval Noah Harari [video]",
-    "titlePt": "Os próximos 50 anos: humanidade, IA e poder – Yuval Noah Harari",
-    "url": "https://www.youtube.com/watch?v=_V_ed5fuexA[Video]",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O historiador Yuval Noah Harari apresenta uma palestra em vídeo sobre o impacto da inteligência artificial nas próximas décadas. Ele discute concentração de poder, perda de agência humana e reorganização social. Conteúdo conceitual, útil para entender o debate de longo prazo. Pouco prático para decisões técnicas do dia a dia.",
-    "reasonEn": "Historian Yuval Noah Harari presents a video lecture on the impact of artificial intelligence over the coming decades. He discusses power concentration, loss of human agency, and social reorganization. Conceptual content, useful for understanding the long-term debate. Little practical for day-to-day technical decisions.",
-    "score": 0.5,
-    "tags": [
-      "filosofia",
-      "futuro"
-    ],
-    "img": "img/ez5aki.jpg",
-    "ts": 1785702933,
-    "urlHash": "ez5aki",
-    "titleHash": "9qkq75",
-    "addedTs": 1785724246
-  },
-  {
-    "title": "Sam Altman is still making the case for parenting via ChatGPT",
-    "titlePt": "Sam Altman continua defendendo o uso do ChatGPT na criação dos filhos",
-    "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "Sam Altman voltou a defender publicamente o uso do ChatGPT como ferramenta de apoio à parentalidade. A declaração gerou críticas de especialistas em desenvolvimento infantil. O debate envolve até que ponto crianças devem usar IA em educação e criação. Relevante para pais, professores e desenvolvedores de produtos infantis.",
-    "reasonEn": "Sam Altman once again publicly defended using ChatGPT as a parenting support tool. The statement drew criticism from child development experts. The debate involves how far children should use AI in education and upbringing. Relevant for parents, teachers, and developers of children's products.",
-    "score": 0.5,
-    "tags": [
-      "openai",
-      "educação"
-    ],
-    "img": "img/l2wvdj.jpg",
-    "ts": 1785604054,
-    "urlHash": "l2wvdj",
-    "titleHash": "dxigji",
-    "addedTs": 1785724246
-  },
-  {
-    "title": "Zenith – AI that parses 2D blueprints into instant quote breakdowns",
-    "titlePt": "Zenith: IA que transforma plantas 2D em orçamentos instantâneos",
-    "url": "https://zenithquoting.com/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O Zenith é uma ferramenta que lê plantas baixas em 2D e gera automaticamente uma lista de materiais com preços. Pode acelerar bastante o trabalho de orçamentistas e engenheiros de obras. Ainda é um projeto da comunidade Hacker News, então exige cautela antes de usar em produção. Vale conhecer para quem lida com construção civil ou fabricação sob encomenda.",
-    "reasonEn": "Zenith is a tool that reads 2D blueprints and automatically generates a priced bill of materials. It can speed up quoting work for contractors and engineers. It is still a Hacker News community project, so use it carefully in production. Worth knowing for construction or custom fabrication.",
-    "score": 0.45,
-    "tags": [
-      "ferramenta",
-      "engenharia",
-      "lançamento"
-    ],
-    "img": "img/1xb398s.jpg",
-    "ts": 1785722077,
-    "urlHash": "1xb398s",
-    "titleHash": "vx1k51",
-    "addedTs": 1785724246
-  },
-  {
-    "title": "Show HN: OpenTalking – Privately deployable real-time AI avatar",
-    "titlePt": "OpenTalking: avatar de IA em tempo real que roda localmente",
-    "url": "https://github.com/datascale-ai/opentalking",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O OpenTalking permite rodar avatares de IA conversacionais em tempo real sem enviar dados para a nuvem. É voltado para desenvolvedores que precisam de privacidade ou baixa latência em aplicações de voz. O modelo ainda é experimental e exige hardware razoável. Pode interessar quem trabalha com atendimento automatizado ou brinquedos conectados.",
-    "reasonEn": "OpenTalking lets you run real-time conversational AI avatars locally without sending data to the cloud. It targets developers who need privacy or low latency for voice apps. The model is still experimental and needs decent hardware. Useful for automated customer service or connected devices.",
-    "score": 0.45,
-    "tags": [
-      "avatar",
-      "open-source",
-      "voz"
-    ],
-    "img": "img/1r4tonw.jpg",
-    "ts": 1785721844,
-    "urlHash": "1r4tonw",
-    "titleHash": "me7qfw",
-    "addedTs": 1785724246
-  },
-  {
-    "title": "Show HN: Gnt, a company brain AI agents check before acting",
-    "titlePt": "Gnt: agentes de IA que consultam o 'cérebro da empresa' antes de agir",
-    "url": "https://github.com/gnt-ai/gnt",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um projeto open source apresentado no Hacker News propõe agentes de IA que verificam uma base de conhecimento central da empresa antes de executar qualquer ação. A ideia é evitar que modelos tomem decisões isoladas ou perigosas. É relevante para desenvolvedores que constroem automações corporativas com IA. O projeto é recente e ainda não tem tração comprovada.",
-    "reasonEn": "An open-source project shown on Hacker News proposes AI agents that check a central company knowledge base before executing any action. The goal is to prevent models from making isolated or risky decisions. It is relevant for developers building corporate automation with AI. The project is recent and has no proven traction yet.",
-    "score": 0.45,
-    "tags": [
-      "agentes",
-      "open-source"
-    ],
-    "img": "img/qnbpv4.jpg",
-    "ts": 1785720911,
-    "urlHash": "qnbpv4",
-    "titleHash": "55mtmw",
-    "addedTs": 1785724246
-  },
-  {
-    "title": "A YC Startup That Wants to Kill Tokenmaxxing Just Raised $13.5M",
-    "titlePt": "Startup da YC quer acabar com o 'tokenmaxxing' e capta US$ 13,5 milhões",
-    "url": "https://www.businessinsider.com/weave-funding-tokenmaxxing-startup-y-combinator-ai-coding-spend-developers-2026-7",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Uma startup apoiada pela Y Combinator levantou US$ 13,5 milhões para questionar a obsessão do mercado em maximizar o uso de tokens em produtos de IA. A tese é que gerar mais texto nem sempre significa mais valor para o usuário. Investidores apostam que softwares mais enxutos podem vencer modelos cada vez maiores.",
-    "reasonEn": "A Y Combinator-backed startup raised $13.5 million to challenge the market's obsession with maximizing token usage in AI products. The thesis is that generating more text does not always mean more user value. Investors are betting that leaner software can beat ever-larger models.",
-    "score": 0.45,
-    "tags": [
-      "investimento",
-      "startup"
-    ],
-    "img": "img/1ijz0g7.jpg",
-    "ts": 1785718516,
-    "urlHash": "1ijz0g7",
-    "titleHash": "18r3lxm",
-    "addedTs": 1785724246
-  },
-  {
-    "title": "Tim Cook hints at iCloud Plus tier for AI power users",
-    "titlePt": "Tim Cook sugere novo nível do iCloud Plus para usuários avançados de IA",
-    "url": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "O CEO da Apple deu pistas de que a empresa prepara uma camada paga do iCloud voltada para usuários que rodam modelos de IA localmente. A estratégia mira o crescente mercado de inferência privada em dispositivos. Pode ser uma resposta à estratégia de IA na nuvem da Microsoft e Google.",
-    "reasonEn": "Apple's CEO hinted that the company is preparing a paid iCloud tier aimed at users running AI models locally. The strategy targets the growing private inference market on devices. It could be a response to the cloud AI strategy of Microsoft and Google.",
-    "score": 0.45,
-    "tags": [
-      "apple",
-      "nuvem"
-    ],
-    "img": "img/dutlvc.jpg",
-    "ts": 1785450719,
-    "urlHash": "dutlvc",
-    "titleHash": "avhct4",
-    "addedTs": 1785724246
-  },
-  {
-    "title": "AI Can Design Parts but It Can't Do This [video]",
-    "titlePt": "IA consegue projetar peças, mas não consegue fazer isso",
-    "url": "https://www.youtube.com/watch?v=K99LtENdQjA",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um vídeo discute os limites práticos da IA no projeto de peças industriais. Mostra o que ferramentas generativas já entregam bem e em quais etapas ainda exigem intervenção humana. É útil para desenvolvedores e engenheiros que avaliam usar IA em design mecânico. O conteúdo é introdutório e serve como visão geral do estado da arte.",
-    "reasonEn": "A video discusses the practical limits of AI in industrial parts design. It shows what generative tools already do well and where human input is still required. Useful for developers and engineers evaluating AI in mechanical design. The content is introductory and serves as an overview of the state of the art.",
-    "score": 0.4,
-    "tags": [
-      "design",
-      "ia",
-      "engenharia"
-    ],
-    "img": "img/j6qap6.jpg",
-    "ts": 1785722276,
-    "urlHash": "j6qap6",
-    "titleHash": "1l9qh5e",
     "addedTs": 1785724246
   }
 ]
