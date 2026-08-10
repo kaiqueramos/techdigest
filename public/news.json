@@ -1,5 +1,135 @@
 [
   {
+    "title": "How to be an AI safety research engineer",
+    "titlePt": "Como se tornar engenheiro de pesquisa em segurança em IA",
+    "url": "https://www.lesswrong.com/posts/Wty5mcDBEmypap8o2/how-to-be-an-ai-safety-research-engineer",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Guia prático explicando o caminho para trabalhar como engenheiro de segurança em modelos de IA. Traz dicas sobre habilidades técnicas, leituras recomendadas e como construir portfólio na área. Importante para desenvolvedores pensando em migrar para um nicho em alta e com pouca mão de obra qualificada. Mostra que a área de segurança em IA está se profissionalizando e oferecendo oportunidades reais de carreira.",
+    "reasonEn": "A practical guide explaining the path to work as a safety engineer in AI models. It covers technical skills, recommended reading, and how to build a portfolio in the field. Useful for developers considering a move into a booming niche with scarce talent. It shows that AI safety is becoming a real profession with career opportunities.",
+    "score": 0.55,
+    "tags": [
+      "carreira",
+      "segurança"
+    ],
+    "img": "img/ec1ce0aac82c.jpg",
+    "ts": 1786345317,
+    "addedTs": 1786345969,
+    "urlHash": "ec1ce0aac82c",
+    "titleHash": "5771581b0538"
+  },
+  {
+    "title": "Kimi K3 Sandbox Escape Exposes Weak Links in Agent Testing",
+    "titlePt": "Fuga de sandbox do Kimi K3 expõe pontos fracos em testes de agentes",
+    "url": "https://ai-updates.net/kimi-k3-sandbox-escape-agent-testing/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Pesquisadores descobriram uma vulnerabilidade no modelo Kimi K3 que conseguiu escapar de ambientes isolados de teste. A falha revela que muitos sandboxes usados para validar agentes de IA são menos seguros do que aparentam. O caso é relevante para qualquer equipe que implanta agentes com acesso a sistemas reais, pois ataques semelhantes podem virar rotina. É mais um alerta para priorizar isolamento e monitoramento ao colocar IA em produção.",
+    "reasonEn": "Researchers found a vulnerability in the Kimi K3 model that escaped isolated test environments. The flaw shows that many sandboxes used to validate AI agents are less secure than they look. The case matters to any team deploying agents with access to real systems, since similar attacks may become routine. It is another warning to prioritize isolation and monitoring when putting AI in production.",
+    "score": 0.75,
+    "tags": [
+      "segurança",
+      "agente",
+      "sandbox"
+    ],
+    "img": "img/e48f6a1adc9b.jpg",
+    "ts": 1786344829,
+    "addedTs": 1786345969,
+    "urlHash": "e48f6a1adc9b",
+    "titleHash": "0524aca8d676"
+  },
+  {
+    "title": "Show HN: NexusMem – Local context memory engine for AI coding agents",
+    "titlePt": "NexusMem: memória local de contexto para agentes de programação",
+    "url": "https://github.com/yaminbakoh4-dot/NexusMem",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Projeto aberto que oferece um mecanismo de memória local para agentes que programam código. Permite que o agente mantenha contexto persistente sem depender de serviços externos. Pode reduzir custos e melhorar privacidade em fluxos de desenvolvimento assistido por IA. Vale acompanhar para quem monta ferramentas internas de programação automatizada.",
+    "reasonEn": "An open project offering a local memory engine for coding agents. It lets the agent keep persistent context without depending on external services. It may cut costs and improve privacy in AI-assisted development workflows. Worth tracking for anyone building internal automated programming tools.",
+    "score": 0.5,
+    "tags": [
+      "código",
+      "memória",
+      "código aberto"
+    ],
+    "img": "img/65f1c6b76fe0.jpg",
+    "ts": 1786343663,
+    "addedTs": 1786345969,
+    "urlHash": "65f1c6b76fe0",
+    "titleHash": "74f029d8ffdc"
+  },
+  {
+    "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+    "titlePt": "Docker Sandboxes: ambientes descartáveis e isolados para agentes de IA",
+    "url": "https://www.docker.com/products/docker-sandboxes/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Nova ferramenta que cria sandboxes descartáveis usando Docker para isolar agentes de IA durante testes. Resolve um problema prático de quem precisa rodar agentes não confiáveis sem arriscar a máquina principal. É especialmente útil em esteiras automatizadas de desenvolvimento e pesquisa. Times que ainda usam soluções caseiras devem considerar migrar para algo assim.",
+    "reasonEn": "A new tool that creates disposable Docker-based sandboxes to isolate AI agents during testing. It solves a practical problem for anyone running untrusted agents without risking their main machine. Particularly useful in automated development and research pipelines. Teams still using homemade solutions should consider migrating to something like this.",
+    "score": 0.6,
+    "tags": [
+      "segurança",
+      "docker",
+      "agente"
+    ],
+    "img": "img/180e19758ad5.jpg",
+    "ts": 1786341758,
+    "addedTs": 1786345969,
+    "urlHash": "180e19758ad5",
+    "titleHash": "529d306f42e5"
+  },
+  {
+    "title": "Escaping the LLM Coding Rat Race",
+    "titlePt": "Saindo da corrida de programação com modelos de linguagem",
+    "url": "https://aaronstannard.com/escaping-ai-coding-ratrace/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Reflexão sobre o ciclo de hype em que desenvolvedores ficam pulando entre ferramentas de IA para programar. Argumenta que o diferencial real está em entender problemas de negócio, não em conhecer o próximo modelo. É uma leitura saudável para quem se sente cansado de testar framework novo toda semana. Lembra que fundamentos de engenharia continuam importando mais que promessas de geração automática.",
+    "reasonEn": "A reflection on the hype cycle where developers keep jumping between AI coding tools. It argues that the real edge is understanding business problems, not knowing the next model. A healthy read for anyone tired of testing a new framework every week. It reminds us that engineering fundamentals still matter more than auto-generation promises.",
+    "score": 0.55,
+    "tags": [
+      "carreira",
+      "engenharia"
+    ],
+    "img": "img/303cbafec940.jpg",
+    "ts": 1786341201,
+    "addedTs": 1786345969,
+    "urlHash": "303cbafec940",
+    "titleHash": "e614976529d6"
+  },
+  {
+    "title": "Horolog – a self-hosted, open-source alternative to Reclaim.ai",
+    "titlePt": "Horolog: alternativa open-source e auto-hospedável ao Reclaim.ai",
+    "url": "https://github.com/ujjwalredd/horolog",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Foi lançado um projeto de código aberto que replica funcionalidades do Reclaim.ai, ferramenta popular de agendamento automático. A vantagem é rodar no próprio servidor, mantendo privacidade dos dados. Pode interessar desenvolvedores e profissionais que buscam controle total sobre sua agenda.",
+    "reasonEn": "An open-source project has been launched that replicates functionality of Reclaim.ai, a popular automatic scheduling tool. The advantage is running on your own server, keeping data private. It may interest developers and professionals seeking full control over their schedule.",
+    "score": 0.5,
+    "tags": [
+      "open-source",
+      "produtividade",
+      "lançamento"
+    ],
+    "img": "img/da8ee1c60835.jpg",
+    "ts": 1786333891,
+    "addedTs": 1786345969,
+    "urlHash": "da8ee1c60835",
+    "titleHash": "dc2a23574239"
+  },
+  {
     "title": "Show HN: Memcode AI goes open source with Claude Code inspired coding agent",
     "titlePt": "Memcode AI vira código aberto com agente de programação inspirado no Claude Code",
     "url": "https://github.com/memcode-ai/memcode",
@@ -10654,136 +10784,5 @@
     "addedTs": 1785790559,
     "urlHash": "372dab67e738",
     "titleHash": "0bedaca13b2c"
-  },
-  {
-    "title": "How do we prove our newsroom isn't AI?",
-    "titlePt": "Como provar que nosso jornal não é feito por IA?",
-    "url": "https://www.reddit.com/r/Virginia/comments/1vent3o/ok_rvirginia_how_can_we_prove_our_newsroom_isnt_ai/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um veículo de imprensa pergunta publicamente como demonstrar que seu conteúdo não foi gerado por IA. O debate é central para a confiança do público e para o modelo de negócio do jornalismo. Times de comunicação e desenvolvedores de ferramentas de detecção devem acompanhar a discussão. Ainda não existe solução técnica definitiva para o problema.",
-    "reasonEn": "A news outlet publicly asks how to prove its content isn't AI-generated. The debate is central to public trust and to journalism's business model. Comms teams and developers of detection tools should follow the discussion. There is still no definitive technical solution to the problem.",
-    "score": 0.5,
-    "tags": [
-      "mídia",
-      "ética"
-    ],
-    "img": "img/ae779f563c0d.jpg",
-    "ts": 1785786870,
-    "addedTs": 1785790559,
-    "urlHash": "ae779f563c0d",
-    "titleHash": "65a08a9af103"
-  },
-  {
-    "title": "Concern about AI spikes following OpenAI hacking incident",
-    "titlePt": "Preocupação com IA dispara após incidente de hacking na OpenAI",
-    "url": "https://news.americanson.ai/p/concern-about-ai-spikes-following",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um incidente recente de hacking envolvendo a OpenAI elevou a preocupação pública sobre a segurança de sistemas de inteligência artificial. O caso reacende o debate sobre vulnerabilidades em modelos amplamente usados por milhões de pessoas. Especialistas pedem auditorias mais frequentes e maior transparência sobre falhas de segurança. Usuários e empresas devem revisar como dados sensíveis são tratados por APIs de IA. O episódio pode acelerar regulações sobre segurança em IA ao redor do mundo.",
-    "reasonEn": "A recent hacking incident involving OpenAI has raised public concern over the security of AI systems. The case reignites the debate on vulnerabilities in models used by millions of people. Experts are calling for more frequent audits and greater transparency about security failures. Users and companies should review how sensitive data is handled by AI APIs. The episode may speed up AI security regulations worldwide.",
-    "score": 0.6,
-    "tags": [
-      "segurança",
-      "openai",
-      "hacking"
-    ],
-    "img": "img/9b9d72dc7990.jpg",
-    "ts": 1785786026,
-    "addedTs": 1785790559,
-    "urlHash": "9b9d72dc7990",
-    "titleHash": "55b3f83ea612"
-  },
-  {
-    "title": "Show HN: Keystroke – open sourcing our internal agents and automations platform",
-    "titlePt": "Keystroke: plataforma interna de agentes e automações vira open source",
-    "url": "https://news.ycombinator.com/item?id=49160376",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A empresa por trás do Keystroke decidiu abrir o código de sua plataforma interna de agentes e automações. O sistema permite criar fluxos automatizados integrando vários serviços com apoio de IA. O objetivo é acelerar a adoção por outras empresas e atrair novos contribuidores. A plataforma compete com ferramentas como n8n e Zapier, mas com foco explícito em IA. Desenvolvedores podem agora testar e personalizar os fluxos livremente.",
-    "reasonEn": "The company behind Keystroke has decided to open-source its internal agents and automations platform. The system lets users build automated flows integrating several services with AI support. The goal is to speed up adoption by other companies and attract new contributors. The platform competes with tools like n8n and Zapier but with an explicit AI focus. Developers can now test and customize the flows freely.",
-    "score": 0.5,
-    "tags": [
-      "open-source",
-      "agentes",
-      "automação"
-    ],
-    "img": "img/7d5d13d09b9f.jpg",
-    "ts": 1785785677,
-    "addedTs": 1785790559,
-    "urlHash": "7d5d13d09b9f",
-    "titleHash": "2bed70ce3967"
-  },
-  {
-    "title": "DesignArena creators raise $7.9 million to bring taste to AI models",
-    "titlePt": "DesignArena capta US$ 7,9 milhões para dar 'bom gosto' a modelos de IA",
-    "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A startup DesignArena levantou US$ 7,9 milhões em uma rodada voltada ao desenvolvimento de modelos de IA com melhor senso estético. A empresa usa avaliações humanas para treinar sistemas que geram designs mais agradáveis. A iniciativa reflete a crescente demanda por IA generativa em áreas visuais e criativas. Investidores apostam que curadoria e gosto serão diferenciais competitivos importantes. O setor de design pode ser um dos mais impactados por modelos personalizados.",
-    "reasonEn": "Startup DesignArena raised $7.9 million in a funding round aimed at developing AI models with better aesthetic sense. The company uses human evaluations to train systems that produce more pleasing designs. The move reflects growing demand for generative AI in visual and creative fields. Investors bet that curation and taste will be important competitive differentiators. The design sector may be one of the most impacted by personalized models.",
-    "score": 0.55,
-    "tags": [
-      "investimento",
-      "design",
-      "modelos"
-    ],
-    "img": "img/48d481f903a7.jpg",
-    "ts": 1785785337,
-    "addedTs": 1785790559,
-    "urlHash": "48d481f903a7",
-    "titleHash": "26d7d761c98c"
-  },
-  {
-    "title": "Is this Billboard Hot 100 hit AI slop?",
-    "titlePt": "Sucesso da Billboard Hot 100 é 'lixo' de IA?",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "Um hit em alta na Billboard Hot 100 está sendo questionado como possível conteúdo gerado por inteligência artificial. A discussão reacende o debate sobre o impacto da IA na indústria musical. Plataformas e gravadoras ainda têm dificuldade para detectar e rotular esse tipo de produção. Consumidores se preocupam com a saturação de faixas automatizadas em playlists. A tendência pode pressionar a indústria a criar novas regras de transparência.",
-    "reasonEn": "A hit climbing the Billboard Hot 100 is being questioned as possibly AI-generated content. The discussion reignites the debate over AI's impact on the music industry. Platforms and labels still struggle to detect and label this kind of production. Consumers worry about the saturation of automated tracks on playlists. The trend may push the industry to create new transparency rules.",
-    "score": 0.55,
-    "tags": [
-      "música",
-      "ai-slop",
-      "indústria"
-    ],
-    "img": "img/16657117b75d.jpg",
-    "ts": 1785750352,
-    "addedTs": 1785790559,
-    "urlHash": "16657117b75d",
-    "titleHash": "23df58b0db9e"
-  },
-  {
-    "title": "How we built a realtime system for responsive voice AI in six months",
-    "titlePt": "Como construímos um sistema de voz IA em tempo real em seis meses",
-    "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A OpenAI publicou um relato técnico detalhando a construção de seu sistema de voz com IA em tempo real em apenas seis meses. O texto aborda decisões de arquitetura, latência e qualidade de áudio. O projeto mostra os desafios de escalar conversas por voz para milhões de usuários. Desenvolvedores podem usar o estudo para entender trade-offs em sistemas similares. A publicação reforça o foco da empresa em agentes multimodais.",
-    "reasonEn": "OpenAI published a technical write-up detailing how it built its real-time AI voice system in just six months. The text covers architecture decisions, latency, and audio quality. The project shows the challenges of scaling voice conversations to millions of users. Developers can use the study to understand trade-offs in similar systems. The post reinforces the company's focus on multimodal agents.",
-    "score": 0.7,
-    "tags": [
-      "openai",
-      "voz",
-      "engenharia"
-    ],
-    "img": "img/deec56a13e2b.jpg",
-    "ts": 1785740400,
-    "addedTs": 1785790559,
-    "urlHash": "deec56a13e2b",
-    "titleHash": "89713fd4d620"
   }
 ]
