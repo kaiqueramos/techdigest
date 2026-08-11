@@ -1,5 +1,243 @@
 [
   {
+    "title": "Show HN: Traceseal – signed, offline-verifiable receipts for AI agent runs",
+    "titlePt": "Traceseal: recibos verificáveis para agentes de IA",
+    "url": "https://traceseal.io/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um projeto open source que gera recibos assinados e verificáveis offline para execuções de agentes de IA. Pode ser útil para equipes que precisam auditar ações automatizadas. A ideia é técnica, mas resolve um problema real de rastreabilidade em pipelines com IA.",
+    "reasonEn": "An open source project that creates signed, offline-verifiable receipts for AI agent runs. It can help teams audit automated actions. The idea is technical, but solves a real traceability problem in AI pipelines.",
+    "score": 0.55,
+    "tags": [
+      "devtool",
+      "agentes",
+      "auditoria"
+    ],
+    "img": "img/3d5d66254c95.jpg",
+    "ts": 1786430753,
+    "addedTs": 1786431060,
+    "urlHash": "3d5d66254c95",
+    "titleHash": "60bc96a907fb"
+  },
+  {
+    "title": "Show HN: An \"Evidence Loop\" for steering the agents what to build",
+    "titlePt": "Um Loop de Evidências para guiar agentes de IA",
+    "url": "https://www.dipio.ai",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um projeto no HackerNews propõe um mecanismo de Loop de Evidências para direcionar o que agentes de IA devem construir. A ideia visa evitar que agentes autônomos se percam em tarefas irrelevantes. Interessa a times que trabalham com agentes em produção e precisam de mais controle.",
+    "reasonEn": "A HackerNews project proposes an Evidence Loop mechanism to steer what AI agents should build. The idea aims to prevent autonomous agents from drifting into irrelevant tasks. It matters for teams running agents in production who need more control.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "devtool"
+    ],
+    "img": "img/e849636bccf1.jpg",
+    "ts": 1786430236,
+    "addedTs": 1786431060,
+    "urlHash": "e849636bccf1",
+    "titleHash": "3ac1de9b8d78"
+  },
+  {
+    "title": "AI is approving our pull requests",
+    "titlePt": "IA aprovando pull requests: o que isso significa",
+    "url": "https://www.intercom.com/blog/ai-is-approving-our-pull-requests-heres-how-we-made-it-safe/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O HackerNews discute times onde a IA já aprova pull requests automaticamente. O tema é relevante para desenvolvedores porque mostra um futuro próximo do code review automatizado. Traz implicações de qualidade, segurança e responsabilidade sobre o código que vai para produção.",
+    "reasonEn": "HackerNews discusses teams where AI already approves pull requests automatically. The topic matters for developers because it shows a near future of automated code review. It raises concerns about quality, security, and accountability for code that ships to production.",
+    "score": 0.7,
+    "tags": [
+      "devtool",
+      "código",
+      "automação"
+    ],
+    "img": "img/1d5d015efecb.jpg",
+    "ts": 1786429827,
+    "addedTs": 1786431060,
+    "urlHash": "1d5d015efecb",
+    "titleHash": "9b7848e22aee"
+  },
+  {
+    "title": "Se-harness – portable, tool-agnostic AI coding harness generator",
+    "titlePt": "Se-harness: gerador de harness portátil para codar com IA",
+    "url": "https://github.com/manuuuel/seh",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um projeto no HackerNews apresenta o Se-harness, um gerador de harness de codificação com IA portátil e independente de ferramenta. Pode ajudar times que usam múltiplos assistentes de código a manter uma camada de orquestração comum. A proposta é prática e tecnicamente interessante.",
+    "reasonEn": "A HackerNews project introduces Se-harness, a portable, tool-agnostic AI coding harness generator. It can help teams using multiple coding assistants keep a common orchestration layer. The pitch is practical and technically interesting.",
+    "score": 0.55,
+    "tags": [
+      "devtool",
+      "código"
+    ],
+    "img": "img/a0e774db681a.jpg",
+    "ts": 1786428869,
+    "addedTs": 1786431060,
+    "urlHash": "a0e774db681a",
+    "titleHash": "1164279f837d"
+  },
+  {
+    "title": "ASD Has Handed Australian and New Zealand Boards 16 Questions on Frontier AI",
+    "titlePt": "ASD entrega 16 perguntas sobre IA de fronteira a conselhos australianos",
+    "url": "https://insiconcyber.com/blog/asd-frontier-ai-board-considerations",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A ASD, agência de segurança australiana, enviou 16 perguntas sobre IA de fronteira aos conselhos de administração da Austrália e Nova Zelândia. O objetivo é preparar executivos para riscos de modelos avançados. Mostra como a governança corporativa está sendo pressionada a tratar IA como tema estratégico.",
+    "reasonEn": "The ASD, an Australian security agency, sent 16 questions on frontier AI to corporate boards in Australia and New Zealand. The goal is to prepare executives for risks from advanced models. It shows how corporate governance is being pushed to treat AI as a strategic topic.",
+    "score": 0.5,
+    "tags": [
+      "regulação",
+      "governança"
+    ],
+    "img": "img/2b20802568c0.jpg",
+    "ts": 1786428479,
+    "addedTs": 1786431060,
+    "urlHash": "2b20802568c0",
+    "titleHash": "2326cbdbab1f"
+  },
+  {
+    "title": "The AI threat to India's IT jobs machine",
+    "titlePt": "A ameaça da IA ao motor de empregos de TI da Índia",
+    "url": "https://www.ft.com/content/dee4bd2c-fbad-4713-9b14-22d441967ce4",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma análise no HackerNews mostra como a IA ameaça o modelo de terceirização de TI da Índia, que emprega milhões de pessoas. Relatórios indicam que funções antes consideradas seguras já estão sendo automatizadas. O tema afeta não só o mercado indiano, mas toda a cadeia global de serviços de TI.",
+    "reasonEn": "An analysis on HackerNews shows how AI threatens India's IT outsourcing model, which employs millions of people. Reports suggest roles once thought safe are now being automated. The topic affects not only the Indian market but the entire global IT services chain.",
+    "score": 0.75,
+    "tags": [
+      "empregos",
+      "índia",
+      "mercado"
+    ],
+    "img": "img/b437d682f7f5.jpg",
+    "ts": 1786426948,
+    "addedTs": 1786431060,
+    "urlHash": "b437d682f7f5",
+    "titleHash": "ac28fb24b55e"
+  },
+  {
+    "title": "DeepSeek: Reverse Engineering an AI Assistant by Interviewing Itself",
+    "titlePt": "DeepSeek: engenharia reversa de um assistente de IA por autodescrição",
+    "url": "https://manish.sh/writings/models/inside-deepseek-reverse-engineering-an-ai-assistant-by-interviewing-itself",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um estudo no HackerNews apresenta uma técnica para fazer engenharia reversa do DeepSeek ao fazê-lo se entrevistar. A ideia é usar o próprio modelo para revelar seu comportamento e arquitetura. É leitura técnica avançada, útil para quem pesquisa interpretabilidade e segurança de modelos.",
+    "reasonEn": "A HackerNews study shows a technique to reverse-engineer DeepSeek by having it interview itself. The idea is to use the model itself to reveal its behavior and architecture. It is advanced technical reading, useful for those researching interpretability and model safety.",
+    "score": 0.7,
+    "tags": [
+      "deepseek",
+      "pesquisa",
+      "interpretabilidade"
+    ],
+    "img": "img/e12596e99d9c.jpg",
+    "ts": 1786426224,
+    "addedTs": 1786431060,
+    "urlHash": "e12596e99d9c",
+    "titleHash": "6a5fc889759f"
+  },
+  {
+    "title": "Anthropic pledges to embed watermarks to help discern AI slop in sop to EU",
+    "titlePt": "Anthropic promete embutir marcas d'água para identificar conteúdo de IA na UE",
+    "url": "https://www.theregister.com/ai-and-ml/2026/08/11/anthropic-pledges-to-embed-watermarks-to-help-discern-ai-slop-in-sop-to-eu/5285792",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Anthropic se comprometeu a embutir marcas d'água em seus modelos para ajudar a distinguir conteúdo gerado por IA, como gesto à União Europeia. A medida busca responder à pressão regulatória europeia. O impacto é amplo: desenvolvedores e plataformas precisarão lidar com novos sinais de identificação.",
+    "reasonEn": "Anthropic pledged to embed watermarks in its models to help flag AI-generated content, as a concession to the European Union. The move responds to European regulatory pressure. The impact is broad: developers and platforms will need to handle new identification signals.",
+    "score": 0.7,
+    "tags": [
+      "anthropic",
+      "regulação",
+      "ue"
+    ],
+    "img": "img/ffb20c46faa7.jpg",
+    "ts": 1786424838,
+    "addedTs": 1786431060,
+    "urlHash": "ffb20c46faa7",
+    "titleHash": "c3c43843af85"
+  },
+  {
+    "title": "Study: AI is better at reading than listening",
+    "titlePt": "Estudo: IA lê melhor do que escuta",
+    "url": "https://viterbischool.usc.edu/news/2026/08/can-ai-read-the-room-usc-study-finds-ai-is-better-at-reading-than-listening/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um estudo divulgado no HackerNews mostra que modelos de IA têm desempenho melhor em tarefas de leitura do que em tarefas de escuta. O resultado ajuda a explicar por que chatbots de texto costumam superar soluções baseadas em voz. Pode influenciar decisões de produto na escolha entre entrada textual e áudio.",
+    "reasonEn": "A study shared on HackerNews shows AI models perform better at reading tasks than listening tasks. The result helps explain why text chatbots often outperform voice-based ones. It may influence product decisions on choosing between text and audio input.",
+    "score": 0.5,
+    "tags": [
+      "pesquisa",
+      "voz"
+    ],
+    "img": "img/27b26b4ae481.jpg",
+    "ts": 1786424723,
+    "addedTs": 1786431060,
+    "urlHash": "27b26b4ae481",
+    "titleHash": "559f6844104b"
+  },
+  {
+    "title": "Teaching an Open Model to Do Science",
+    "titlePt": "Ensinando um modelo aberto a fazer ciência",
+    "url": "https://www.arcee.ai/blog/teaching-an-open-model-to-do-science",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O HackerNews destaca um projeto que ensina um modelo aberto a executar tarefas científicas de forma estruturada. A iniciativa busca aproximar IA generativa do método científico real, com hipóteses e validações. É relevante para pesquisadores e para o debate sobre modelos abertos vs fechados.",
+    "reasonEn": "HackerNews highlights a project that teaches an open model to perform scientific tasks in a structured way. The initiative aims to bring generative AI closer to the real scientific method, with hypotheses and validations. It matters to researchers and to the open vs closed model debate.",
+    "score": 0.65,
+    "tags": [
+      "open source",
+      "ciência",
+      "pesquisa"
+    ],
+    "img": "img/ec1acd94c892.jpg",
+    "ts": 1786420879,
+    "addedTs": 1786431060,
+    "urlHash": "ec1acd94c892",
+    "titleHash": "0166072c4d8a"
+  },
+  {
+    "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+    "titlePt": "Meta lança Muse Glimmer: modelo local, agêntico e open source",
+    "url": "https://huggingface.co/blog/muse-glimmer",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "A Meta voltou com o Muse Glimmer, um modelo multimodal projetado para rodar localmente, com foco em agentes e de código aberto. Pode rodar em hardware comum, sem depender de nuvem. A novidade reacirra a corrida por modelos leves e abertos. Vale testar para projetos com restrição de custo ou privacidade.",
+    "reasonEn": "Meta is back with Muse Glimmer, a multimodal model designed to run locally, agent-focused and open source. It can run on common hardware, without depending on the cloud. The novelty rekindles the race for lightweight and open models. Worth testing for projects with cost or privacy constraints.",
+    "score": 0.6,
+    "tags": [
+      "meta",
+      "open source",
+      "modelo"
+    ],
+    "img": "img/dfb586131bf3.jpg",
+    "ts": 1786320000,
+    "addedTs": 1786431060,
+    "urlHash": "dfb586131bf3",
+    "titleHash": "12900bac2723"
+  },
+  {
     "title": "Folding Prion Protein with AI",
     "titlePt": "Usando IA para dobrar proteínas priônicas",
     "url": "https://blog.georeactor.com/prionbio-1",
@@ -10560,240 +10798,5 @@
     "addedTs": 1785871153,
     "urlHash": "6b6edbaacb66",
     "titleHash": "17f26a632251"
-  },
-  {
-    "title": "The latest AI news we announced in July 2026",
-    "titlePt": "As principais notícias de IA do Google anunciadas em julho de 2026",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
-    "source": "Google AI",
-    "sources": [
-      "Google AI"
-    ],
-    "reason": "O Google publicou um resumo das novidades de inteligência artificial divulgadas em julho de 2026. A lista reúne lançamentos de modelos, ferramentas para desenvolvedores e atualizações de produtos. Para profissionais e curiosos, vale acompanhar porque concentra em um único lugar o que mudou no ecossistema da empresa no mês. Quem usa produtos do Google no dia a dia é o mais impactado.",
-    "reasonEn": "Google published a roundup of AI news announced in July 2026. The list bundles model releases, developer tools, and product updates. It matters because it gathers in one place everything the company shipped that month. Anyone using Google's products day to day is the most affected.",
-    "score": 0.5,
-    "tags": [
-      "google",
-      "lançamento",
-      "resumo"
-    ],
-    "img": "img/58ba351a2139.jpg",
-    "ts": 1785848400,
-    "addedTs": 1785871153,
-    "urlHash": "58ba351a2139",
-    "titleHash": "ff4f31d4c369"
-  },
-  {
-    "title": "Here’s the problem with putting an AI image generator in Google Earth",
-    "titlePt": "Qual é o problema de colocar um gerador de imagens por IA no Google Earth",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "O Google Earth ganhou um gerador de imagens por IA integrado, mas a ferramenta abriu espaço para deepfakes e desinformação geográfica quase imediatamente. O caso mostra como recursos generativos dentro de plataformas conhecidas podem ser abusados. Envolve riscos para usuários que confiam em mapas e imagens de satélite. É um alerta sobre governance de IA em produtos de massa.",
-    "reasonEn": "Google Earth got a built-in AI image generator, but the feature opened the door to deepfakes and geographic misinformation almost immediately. The case shows how generative features inside well-known platforms can be abused. It poses risks for users who trust maps and satellite imagery. A warning about AI governance in mass-market products.",
-    "score": 0.5,
-    "tags": [
-      "google",
-      "deepfake",
-      "regulação"
-    ],
-    "img": "img/a251e57ac907.jpg",
-    "ts": 1785528734,
-    "addedTs": 1785871153,
-    "urlHash": "a251e57ac907",
-    "titleHash": "aed6d1123c08"
-  },
-  {
-    "title": "Advancing responsible AI across Europe",
-    "titlePt": "OpenAI avança em IA responsável na Europa",
-    "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A OpenAI publicou um posicionamento sobre como pretende avançar com práticas de IA responsável no mercado europeu, em meio ao AI Act e outras regulações. O texto fala de segurança, transparência e cooperação com governos. Importa para empresas europeias e para qualquer pessoa preocupada com o rumo regulatório. É um sinal de como big techs estão se adaptando às leis locais.",
-    "reasonEn": "OpenAI published a position on how it plans to advance responsible AI practices in Europe, amid the AI Act and other regulations. The text covers safety, transparency, and cooperation with governments. It matters for European companies and anyone concerned about the regulatory direction. A signal of how big tech is adapting to local laws.",
-    "score": 0.55,
-    "tags": [
-      "regulação",
-      "openai",
-      "europa"
-    ],
-    "img": "img/f8ec64126bda.jpg",
-    "ts": 1785510000,
-    "addedTs": 1785871153,
-    "urlHash": "f8ec64126bda",
-    "titleHash": "dee45836fda3"
-  },
-  {
-    "title": "The Download: tricking LLMs, and reviving geothermal plants",
-    "titlePt": "Boletim da MIT Tech Review: como enganar LLMs e revivendo usinas geotérmicas",
-    "url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
-    "source": "MIT Tech Review",
-    "sources": [
-      "MIT Tech Review"
-    ],
-    "reason": "O boletim semanal da MIT Technology Review reúne duas pautas: novas técnicas para enganar modelos de linguagem e o retorno de plantas geotérmicas com ajuda de tecnologia. As histórias dão contexto sobre vulnerabilidades de IA e transição energética. Serve como curadoria rápida para quem não tem tempo de ler tudo. Ajuda a ficar por dentro dos principais debates da semana.",
-    "reasonEn": "MIT Technology Review's weekly digest bundles two stories: new ways to trick language models and the revival of geothermal plants with tech help. The pieces give context on AI vulnerabilities and the energy transition. Useful quick curation for people short on time. Helps you stay on top of the week's main debates.",
-    "score": 0.5,
-    "tags": [
-      "boletim",
-      "segurança",
-      "energia"
-    ],
-    "img": "img/7cb09c16dd6d.jpg",
-    "ts": 1785413400,
-    "addedTs": 1785871153,
-    "urlHash": "7cb09c16dd6d",
-    "titleHash": "6c8c620c59ce"
-  },
-  {
-    "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
-    "titlePt": "Falha fundamental deixa LLMs vulneráveis a ataques",
-    "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
-    "source": "MIT Tech Review",
-    "sources": [
-      "MIT Tech Review"
-    ],
-    "reason": "Pesquisadores identificaram uma vulnerabilidade estrutural em modelos de linguagem que os torna suscetíveis a ataques adversariais. A fragilidade é compartilhada por diferentes LLMs, não apenas por um modelo específico. O problema afeta qualquer aplicação que dependa desses modelos em produção, de chatbots a ferramentas de código. É leitura obrigatória para times de segurança e para quem está integrando IA em produtos.",
-    "reasonEn": "Researchers identified a structural vulnerability in language models that makes them susceptible to adversarial attacks. The weakness is shared across different LLMs, not just one specific model. The problem affects any application relying on these models in production, from chatbots to coding tools. Required reading for security teams and for anyone integrating AI into products.",
-    "score": 0.7,
-    "tags": [
-      "segurança",
-      "llm"
-    ],
-    "img": "img/94e9e4b193c2.jpg",
-    "ts": 1785406519,
-    "addedTs": 1785871153,
-    "urlHash": "94e9e4b193c2",
-    "titleHash": "e3d876ed8335"
-  },
-  {
-    "title": "A Data-Driven Explanation: Why Do AI Agents Still Fail",
-    "titlePt": "Por que agentes de IA ainda falham: uma explicação baseada em dados",
-    "url": "https://jeremytian.substack.com/p/a-data-driven-explanation-why-do",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo analisa, com dados concretos, os motivos pelos quais agentes de IA continuam cometendo erros mesmo com os avanços recentes. É leitura obrigatória para quem constrói ou usa agentes, pois mostra padrões reais de falha e ajuda a evitar armadilhas comuns.",
-    "reasonEn": "The article analyzes, with concrete data, why AI agents still fail despite recent advances. It is a must-read for anyone building or using agents, since it surfaces real failure patterns and helps avoid common pitfalls.",
-    "score": 0.8,
-    "tags": [
-      "agentes",
-      "pesquisa"
-    ],
-    "img": "img/e9ebacd6af8b.jpg",
-    "ts": 1785863385,
-    "addedTs": 1785864600,
-    "urlHash": "e9ebacd6af8b",
-    "titleHash": "870e4eadf216"
-  },
-  {
-    "title": "Former OpenAI exec Fidji Simo's company has analyzed 3,500 blood vials with AI",
-    "titlePt": "Empresa de ex-executiva da OpenAI analisa 3.500 amostras de sangue com IA",
-    "url": "https://fortune.com/2026/08/03/fidji-simo-discusses-pots-diseases-chroniclebio-ai-startup-openai/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A empresa de Fidji Simo, ex-líder da OpenAI, usou IA para analisar milhares de amostras de sangue em busca de insights médicos. Mostra um caso real de aplicação de IA em diagnósticos e pesquisa clínica, embora ainda em estágio inicial. Interessa quem acompanha IA na saúde.",
-    "reasonEn": "Fidji Simo's company, founded by a former OpenAI executive, used AI to analyze thousands of blood samples for medical insights. It shows a real-world application of AI in diagnostics and clinical research, though still at an early stage. Relevant for those tracking AI in healthcare.",
-    "score": 0.6,
-    "tags": [
-      "saúde",
-      "biotecnologia"
-    ],
-    "img": "img/806887b79f98.jpg",
-    "ts": 1785862615,
-    "addedTs": 1785864600,
-    "urlHash": "806887b79f98",
-    "titleHash": "3a14f404514d"
-  },
-  {
-    "title": "Show HN: OldHand A Claude/Codex plugin to verify the development flow end-to-end",
-    "titlePt": "OldHand: plugin para Claude e Codex verificar o fluxo de desenvolvimento",
-    "url": "https://github.com/berwinsingh/oldhand",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um plugin para Claude Code e Codex que verifica de ponta a ponta o fluxo de desenvolvimento, ajudando a encontrar erros de integração. Útil para times que dependem desses agentes e querem mais confiança no pipeline automatizado.",
-    "reasonEn": "A plugin for Claude Code and Codex that verifies the development flow end to end, helping to find integration errors. Useful for teams relying on these agents who want more confidence in automated pipelines.",
-    "score": 0.55,
-    "tags": [
-      "devtools",
-      "show hn"
-    ],
-    "img": "img/60363a7642b2.jpg",
-    "ts": 1785862137,
-    "addedTs": 1785864600,
-    "urlHash": "60363a7642b2",
-    "titleHash": "032c5b379f25"
-  },
-  {
-    "title": "AI is finding bugs faster than humans can fix them",
-    "titlePt": "IA está achando bugs mais rápido do que humanos conseguem corrigir",
-    "url": "https://www.zdnet.com/article/ai-is-finding-bugs-faster-than-humans-can-fix-them-how-enterprise-security-teams-must-adapt/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Relatos da indústria mostram que ferramentas de IA já identificam vulnerabilidades e bugs em um ritmo superior à capacidade das equipes de corrigi-los. Isso muda a dinâmica de segurança e manutenção, exigindo novas estratégias dos times de desenvolvimento.",
-    "reasonEn": "Industry reports show that AI tools are finding vulnerabilities and bugs faster than human teams can fix them. This shifts the security and maintenance dynamic, requiring new strategies from development teams.",
-    "score": 0.75,
-    "tags": [
-      "segurança",
-      "bugs"
-    ],
-    "img": "img/bd2fc9358572.jpg",
-    "ts": 1785861551,
-    "addedTs": 1785864600,
-    "urlHash": "bd2fc9358572",
-    "titleHash": "4978acb2ea2e"
-  },
-  {
-    "title": "A unified API for AI model routing",
-    "titlePt": "Uma API unificada para roteamento de modelos de IA",
-    "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo apresenta uma API única que permite alternar entre diferentes modelos de IA de forma transparente, simplificando integração e custos. Relevante para desenvolvedores que querem evitar lock-in de fornecedor e otimizar gasto com inferência.",
-    "reasonEn": "The article presents a unified API that allows switching between different AI models transparently, simplifying integration and costs. Relevant for developers wanting to avoid vendor lock-in and optimize inference spending.",
-    "score": 0.65,
-    "tags": [
-      "api",
-      "infra"
-    ],
-    "img": "img/34ad88f8f243.jpg",
-    "ts": 1785861423,
-    "addedTs": 1785864600,
-    "urlHash": "34ad88f8f243",
-    "titleHash": "b1acf09eaa60"
-  },
-  {
-    "title": "AI coding agents pass tests. Can they write idiomatic Laravel?",
-    "titlePt": "Agentes de código passam em testes, mas escreveriam Laravel idiomático?",
-    "url": "https://laravel.com/blog/idiomatic-laravel-ai-coding-agents",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Uma análise prática que avalia se agentes de IA de codificação realmente produzem código Laravel idiomático ou apenas soluções que passam em testes. Mostra os limites atuais desses agentes em projetos reais e ajuda times a calibrar expectativas.",
-    "reasonEn": "A hands-on analysis that evaluates whether AI coding agents actually produce idiomatic Laravel code or merely test-passing solutions. It shows the current limits of these agents on real projects and helps teams calibrate expectations.",
-    "score": 0.6,
-    "tags": [
-      "devtools",
-      "agentes"
-    ],
-    "img": "img/3ab775342d3e.jpg",
-    "ts": 1785861418,
-    "addedTs": 1785864600,
-    "urlHash": "3ab775342d3e",
-    "titleHash": "e646863fe39a"
   }
 ]
