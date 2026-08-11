@@ -1,5 +1,313 @@
 [
   {
+    "title": "AI and the Delusions of Increasing Productivity",
+    "titlePt": "IA e as ilusões de aumento de produtividade",
+    "url": "http://charleshughsmith.blogspot.com/2026/08/ai-and-delusions-of-increasing.html",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo questiona a narrativa de que ferramentas de IA estão tornando trabalhadores muito mais produtivos. Mostra que ganhos reais são menores do que prometem e muitas vezes vêm acompanhados de retrabalho e perda de qualidade. É leitura obrigatória para gestores que estão decidindo se valem investir pesado em IA agora. O texto é cético, baseado em casos reais.",
+    "reasonEn": "The article questions the narrative that AI tools are making workers far more productive. It shows real gains are smaller than promised and often come with rework and quality loss. It's a must-read for managers deciding whether to invest heavily in AI now. The piece is skeptical and grounded in real cases.",
+    "score": 0.7,
+    "tags": [
+      "produtividade",
+      "trabalho",
+      "análise"
+    ],
+    "img": "img/68d38b7a75bd.jpg",
+    "ts": 1786473600,
+    "addedTs": 1786474110,
+    "urlHash": "68d38b7a75bd",
+    "titleHash": "37841bc87244"
+  },
+  {
+    "title": "My home internet died for half a day. So did every agent I had",
+    "titlePt": "Minha internet caiu por meio dia e todos os meus agentes também",
+    "url": "https://bostrat.ai/blog/the-outage",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O autor conta como a queda de sua internet residencial derrubou todos os agentes de IA que ele tinha configurado, mostrando a fragilidade de depender de conexões instáveis. O relato serve de alerta para quem roda automações críticas em casa sem redundância. Mostra a importância de fallback local ou execução em nuvem com tolerância a falhas. Vale para qualquer pessoa que depende de agentes para trabalho sério.",
+    "reasonEn": "The author describes how a half-day home internet outage knocked out all his AI agents, exposing how fragile home setups can be. The story is a warning for anyone running critical automations from home without redundancy. It highlights the need for local fallbacks or resilient cloud execution. Useful for anyone who depends on agents for serious work.",
+    "score": 0.6,
+    "tags": [
+      "agente",
+      "infra",
+      "falha"
+    ],
+    "img": "img/f459d23091c6.jpg",
+    "ts": 1786472486,
+    "addedTs": 1786474110,
+    "urlHash": "f459d23091c6",
+    "titleHash": "445c0b37660a"
+  },
+  {
+    "title": "TDD inside the agent loop – theater or actual value?",
+    "titlePt": "TDD dentro do loop de agentes: teatro ou valor real?",
+    "url": "https://martinfowler.com/articles/exploring-gen-ai/tdd-in-the-agent-loop.html",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um desenvolvedor debate se aplicar TDD (desenvolvimento orientado a testes) dentro do loop de um agente de IA realmente traz qualidade ou só dá uma falsa sensação de segurança. O argumento central é que testes gerados pelo próprio agente tendem a confirmar o próprio código, criando circularidade. Pode interessar engenheiros que estão montando pipelines de validação para IA. A discussão é provocativa e ainda sem consenso.",
+    "reasonEn": "A developer debates whether running TDD inside an AI agent loop delivers real quality or just a false sense of safety. The core argument is that agent-generated tests tend to confirm their own code, creating circularity. It may interest engineers building validation pipelines for AI. The discussion is provocative and still unsettled.",
+    "score": 0.5,
+    "tags": [
+      "tdd",
+      "engenharia",
+      "debate"
+    ],
+    "img": "img/52f1f142c0c8.jpg",
+    "ts": 1786472391,
+    "addedTs": 1786474110,
+    "urlHash": "52f1f142c0c8",
+    "titleHash": "a5495653aff2"
+  },
+  {
+    "title": "Ask HN: How do you keep 54 LLM workflows on the right models?",
+    "titlePt": "Como manter 54 fluxos LLM no modelo certo?",
+    "url": "https://news.ycombinator.com/item?id=49262312",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma pergunta no Hacker News revela um problema comum: equipes com dezenas de fluxos LLM lutam para manter cada um no modelo mais adequado à medida que preços e capacidades mudam. Mostra a complexidade operacional de escalar IA em produção. Respostas sugerem camadas de roteamento e avaliação contínua. Relevante para qualquer líder técnico com múltiplos usos de LLM.",
+    "reasonEn": "An HN question exposes a common pain: teams with dozens of LLM workflows struggle to keep each one on the right model as prices and capabilities shift. It highlights the operational complexity of scaling AI in production. Replies suggest routing layers and continuous evaluation. Relevant to any tech leader running multiple LLM use cases.",
+    "score": 0.6,
+    "tags": [
+      "llm",
+      "operações",
+      "arquitetura"
+    ],
+    "img": "img/e9a11a2a1dd5.jpg",
+    "ts": 1786472236,
+    "addedTs": 1786474110,
+    "urlHash": "e9a11a2a1dd5",
+    "titleHash": "b41d8e0f588a"
+  },
+  {
+    "title": "Nvidia building 1T-parameter Nemotron 4 to rival open AI models",
+    "titlePt": "Nvidia prepara Nemotron 4 de 1 trilhão de parâmetros",
+    "url": "https://www.reuters.com/business/nvidia-is-developing-nemotron-4-open-source-models-information-reports-2026-08-11",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Nvidia está construindo um novo modelo chamado Nemotron 4, com 1 trilhão de parâmetros, mirando rivalizar com modelos abertos de ponta. O movimento pressiona concorrentes como Meta e DeepSeek no segmento open-weight. Importa para qualquer empresa que escolhe modelos por custo e licença, pois mais uma opção aberta pode baratear implantações. Detalhes de desempenho ainda não foram divulgados.",
+    "reasonEn": "Nvidia is building a new model called Nemotron 4, with 1 trillion parameters, aiming to rival top open-weight models. The move pressures competitors like Meta and DeepSeek in the open segment. It matters for any company picking models by cost and license, since another open option could lower deployment costs. Performance details have not been released yet.",
+    "score": 0.7,
+    "tags": [
+      "nvidia",
+      "modelo",
+      "open-source"
+    ],
+    "img": "img/45435fc6d52f.jpg",
+    "ts": 1786471786,
+    "addedTs": 1786474110,
+    "urlHash": "45435fc6d52f",
+    "titleHash": "09af34b78ca8"
+  },
+  {
+    "title": "AI spend observability down to individual User ID's and routes",
+    "titlePt": "Observabilidade de gastos com IA por usuário e rota",
+    "url": "https://kalaa.cc/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Ferramenta que mostra, com granularidade, quanto cada usuário e cada rota da aplicação está custando em chamadas de IA. Ajuda times a evitar surpresas na fatura e identificar abusos. Relevante para startups que já gastam milhares por mês com LLM e querem controle fino. Mostra tendência de mercado: IA virou item de orçamento que precisa de monitoramento.",
+    "reasonEn": "A tool that breaks down, at fine granularity, how much each user and each app route costs in AI calls. It helps teams avoid billing surprises and detect abuse. Relevant for startups already spending thousands per month on LLMs who want tight control. It reflects a trend: AI has become a budget line that needs monitoring.",
+    "score": 0.5,
+    "tags": [
+      "observabilidade",
+      "custos",
+      "llm"
+    ],
+    "img": "img/9a90ed7c73cb.jpg",
+    "ts": 1786470642,
+    "addedTs": 1786474110,
+    "urlHash": "9a90ed7c73cb",
+    "titleHash": "a8b152f71671"
+  },
+  {
+    "title": "Another OpenAI executive takes off",
+    "titlePt": "Mais um executivo da OpenAI deixa a empresa",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "A OpenAI perdeu mais um executivo em meio a uma sequência de saídas de alto escalão. A reportagem não cita nome, mas o padrão levanta dúvidas sobre estabilidade interna da empresa. Pode afetar a percepção de investidores e parceiros sobre a continuidade de projetos. Leitura relevante para quem acompanha o mercado de IA e avalia construir sobre APIs da OpenAI.",
+    "reasonEn": "OpenAI has lost another executive amid a string of senior departures. The report doesn't name the person, but the pattern raises questions about internal stability. It may affect how investors and partners view the continuity of projects. Relevant for anyone tracking the AI market or building on OpenAI APIs.",
+    "score": 0.6,
+    "tags": [
+      "openai",
+      "executivo",
+      "mercado"
+    ],
+    "img": "img/0cccc9a6cf1b.jpg",
+    "ts": 1786470601,
+    "addedTs": 1786474110,
+    "urlHash": "0cccc9a6cf1b",
+    "titleHash": "308c4bbf846f"
+  },
+  {
+    "title": "The Unsloth Desktop App – run and train models locally",
+    "titlePt": "Unsloth Desktop: rode e treine modelos localmente",
+    "url": "https://unsloth.ai/download/mac",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Unsloth lançou um app desktop que permite rodar e treinar modelos de IA diretamente na máquina do usuário, sem precisar de nuvem. A tendência de local-first ganha força por privacidade e custo. Pode interessar desenvolvedores e pesquisadores com hardware decente. O nível de modelos suportados ainda é limitado a tamanhos menores.",
+    "reasonEn": "Unsloth has launched a desktop app that lets users run and train AI models locally, without the cloud. The local-first trend is gaining traction for privacy and cost reasons. It may interest developers and researchers with decent hardware. Supported model sizes are still limited to smaller ones.",
+    "score": 0.5,
+    "tags": [
+      "local",
+      "modelo",
+      "treino"
+    ],
+    "img": "img/8e2f05bb649f.jpg",
+    "ts": 1786470464,
+    "addedTs": 1786474110,
+    "urlHash": "8e2f05bb649f",
+    "titleHash": "1fc3ee324e75"
+  },
+  {
+    "title": "China warns of \"security backdoor\" in Anthropic AI coding tool [July 8, 2026]",
+    "titlePt": "China alerta para backdoor em ferramenta de código da Anthropic",
+    "url": "https://www.cbsnews.com/news/china-security-backdoor-anthropic-ai-coding-tool/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Autoridades chinesas acusaram publicamente a ferramenta de programação com IA da Anthropic de conter uma backdoor de segurança, sem apresentar provas técnicas detalhadas. A acusação ocorre em meio à corrida geopolítica por soberania em IA e pode afetar empresas chinesas que usam a ferramenta. É leitura obrigatória para qualquer equipe de segurança avaliando fornecedores estrangeiros. A Anthropic ainda não respondeu publicamente.",
+    "reasonEn": "Chinese authorities publicly accused Anthropic's AI coding tool of containing a security backdoor, without sharing detailed technical proof. The accusation comes amid the geopolitical race for AI sovereignty and may affect Chinese companies using the tool. A must-read for any security team evaluating foreign vendors. Anthropic has not yet responded publicly.",
+    "score": 0.7,
+    "tags": [
+      "segurança",
+      "geopolítica",
+      "anthropic"
+    ],
+    "img": "img/629824ca0773.jpg",
+    "ts": 1786470235,
+    "addedTs": 1786474110,
+    "urlHash": "629824ca0773",
+    "titleHash": "d0175b382c99"
+  },
+  {
+    "title": "Ask HN: What are your thoughts on E2E software development using AI agents?",
+    "titlePt": "Desenvolvimento E2E com agentes de IA vale a pena?",
+    "url": "https://news.ycombinator.com/item?id=49261790",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma pergunta no Hacker News reúne relatos variados de equipes que tentam fazer desenvolvimento ponta a ponta, do requisito ao deploy, usando agentes de IA. Os comentários mostram ganhos em protótipos, mas tropeços em sistemas legados e requisitos não funcionais. Útil para líderes técnicos decidindo até onde apostar nesse fluxo. Não há consenso, mas o tema está maduro o suficiente para discussão séria.",
+    "reasonEn": "An HN question collects varied reports from teams attempting end-to-end development using AI agents. Comments show gains in prototypes but stumbles on legacy systems and non-functional requirements. Useful for tech leaders deciding how far to lean into this workflow. There's no consensus, but the topic is mature enough for serious discussion.",
+    "score": 0.5,
+    "tags": [
+      "agente",
+      "desenvolvimento",
+      "debate"
+    ],
+    "img": "img/6c50ffb961de.jpg",
+    "ts": 1786470191,
+    "addedTs": 1786474110,
+    "urlHash": "6c50ffb961de",
+    "titleHash": "99e957880dc7"
+  },
+  {
+    "title": "Brad Lightcap, OpenAI&#8217;s longtime COO, is leaving to &#8216;start something new&#8217;",
+    "titlePt": "COO de longa data da OpenAI, Brad Lightcap, deixa empresa para 'começar algo novo'",
+    "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "Brad Lightcap, COO da OpenAI por anos e peça-chave em parcerias estratégicas como a da Microsoft, anunciou sua saída. A saída ocorre em momento de transformação da empresa, com várias mudanças executivas recentes. O movimento levanta dúvidas sobre a próxima fase da liderança operacional da OpenAI. Investidores e parceiros acompanharão de perto a sucessão.",
+    "reasonEn": "Brad Lightcap, OpenAI's long-serving COO and a key figure behind deals like the Microsoft partnership, announced his departure. The exit comes amid a period of significant executive turnover at the company. It raises questions about the next phase of OpenAI's operational leadership. Investors and partners will be watching closely to see who steps into the role.",
+    "score": 0.8,
+    "tags": [
+      "openai",
+      "liderança",
+      "executivo"
+    ],
+    "img": "img/1154a9fd6d8a.jpg",
+    "ts": 1786470094,
+    "addedTs": 1786474110,
+    "urlHash": "1154a9fd6d8a",
+    "titleHash": "0654153f2bcc"
+  },
+  {
+    "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+    "titlePt": "General Catalyst lidera rodada de US$ 1,1 bilhão na River AI, startup com apenas 2 meses",
+    "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A General Catalyst liderou uma rodada massiva de US$ 1,1 bilhão na River AI, empresa fundada há apenas dois meses. O aporte mostra a forte aposta de investidores em startups jovens de IA, mesmo sem histórico de tração. O caso reforça o ciclo aquecido de capital no setor de inteligência artificial. Pode servir de termômetro sobrevaluation e apetite do mercado em 2025.",
+    "reasonEn": "General Catalyst led a massive $1.1B funding round into River AI, a company founded just two months ago. The investment shows investors' strong appetite for very young AI startups, even without a long track record. It reinforces the heated capital cycle in the artificial intelligence sector. The deal may serve as a barometer for valuation trends and market appetite in 2025.",
+    "score": 0.75,
+    "tags": [
+      "investimento",
+      "startup",
+      "modelo"
+    ],
+    "img": "img/4a3a16344e7f.jpg",
+    "ts": 1786470082,
+    "addedTs": 1786474110,
+    "urlHash": "4a3a16344e7f",
+    "titleHash": "7bdcfa3b0ed4"
+  },
+  {
+    "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+    "titlePt": "Google demonstra que seu sistema médico AMIE faz consultas por vídeo em tempo real",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+    "source": "Google AI",
+    "sources": [
+      "Google AI"
+    ],
+    "reason": "O Google apresentou um estudo pioneiro em que seu sistema de IA médica AMIE realiza consultas clínicas por vídeo em tempo real. A pesquisa mostra capacidade de diálogo, raciocínio clínico e interação visual com pacientes simulados. O avanço aproxima a IA da prática médica assistida, ainda que com supervisão humana. Especialistas em saúde e pacientes podem ser impactados nos próximos anos.",
+    "reasonEn": "Google published a first-of-its-kind study showing its AMIE medical AI system conducting real-time clinical video consultations. The research demonstrates dialogue, clinical reasoning, and visual interaction with simulated patients. The advance brings AI closer to assisted medical practice, though human oversight remains essential. Healthcare professionals and patients could feel the impact within the next few years.",
+    "score": 0.7,
+    "tags": [
+      "google",
+      "saúde",
+      "pesquisa"
+    ],
+    "img": "img/012e30e2c241.jpg",
+    "ts": 1786467600,
+    "addedTs": 1786474110,
+    "urlHash": "012e30e2c241",
+    "titleHash": "5323e7f9539c"
+  },
+  {
+    "title": "Claude will apply invisible watermarks to AI text and images",
+    "titlePt": "Claude aplicará marcas d'água invisíveis em textos e imagens gerados por IA",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "A Anthropic anunciou que o Claude passará a aplicar marcas d'água invisíveis em conteúdos gerados por IA, tanto em texto quanto em imagem. O objetivo é combater plágio, desinformação e uso indevido de conteúdo sintético. A medida pode se tornar padrão no setor e pressionar concorrentes. Usuários e desenvolvedores devem se preparar para mudanças na forma de detectar e distribuir conteúdo de IA.",
+    "reasonEn": "Anthropic announced that Claude will apply invisible watermarks to AI-generated text and images. The goal is to fight plagiarism, misinformation, and misuse of synthetic content. The move could become an industry standard and put pressure on competitors. Users and developers should prepare for changes in how AI content is detected and distributed.",
+    "score": 0.7,
+    "tags": [
+      "anthropic",
+      "marca d'água",
+      "regulação"
+    ],
+    "img": "img/c703baeb9f55.jpg",
+    "ts": 1786453795,
+    "addedTs": 1786474110,
+    "urlHash": "c703baeb9f55",
+    "titleHash": "86c373e1de43"
+  },
+  {
     "title": "Breaking AI Orchestration: Four Vulnerabilities in Langflow",
     "titlePt": "Quatro vulnerabilidades críticas descobertas no Langflow",
     "url": "https://zerolabs.rubrik.com/blog/breaking-ai-orchestration-part-1-four-vulnerabilities-langflow",
@@ -10502,307 +10810,5 @@
     "addedTs": 1785884008,
     "urlHash": "8d6659197e79",
     "titleHash": "04b347f8ba07"
-  },
-  {
-    "title": "AI stock sell-off slams hedge funds as Whale Rock loses 21.7% in July",
-    "titlePt": "Venda de ações de IA castiga fundos hedge",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-04/whale-rock-sank-22-as-ai-selloff-crippled-hedge-fund-returns",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A correção nas ações de empresas de IA em julho derrubou fundos hedge, com o Whale Rock perdendo 21,7% no mês. Isso mostra que o entusiasmo com IA começa a pesar no bolso de investidores profissionais. O tema interessa a qualquer pessoa com exposição ao mercado financeiro.",
-    "reasonEn": "The July correction in AI stocks hit hedge funds hard, with Whale Rock losing 21.7% in the month. This shows that AI enthusiasm is starting to cost professional investors. The topic matters to anyone exposed to financial markets.",
-    "score": 0.7,
-    "tags": [
-      "mercado",
-      "finanças"
-    ],
-    "img": "img/76b62d93489f.jpg",
-    "ts": 1785882096,
-    "addedTs": 1785884008,
-    "urlHash": "76b62d93489f",
-    "titleHash": "6d8de06fb246"
-  },
-  {
-    "title": "What are credit default swaps and why are they spooking AI investors?",
-    "titlePt": "O que são CDS e por que assustam investidores de IA",
-    "url": "https://www.reuters.com/business/finance/global-markets-cds-explainer-2026-07-29/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo explica os swaps de inadimplência de crédito, instrumentos financeiros ligados a dívidas, e como eles estão assustando quem investe em empresas de IA. Mostra um lado menos conhecido da bolha de IA. Relevante para quem acompanha mercados.",
-    "reasonEn": "The article explains credit default swaps, financial instruments tied to debt, and how they are spooking AI investors. It shows a lesser-known side of the AI bubble. Relevant for those following markets.",
-    "score": 0.5,
-    "tags": [
-      "finanças",
-      "mercado"
-    ],
-    "img": "img/d240cf5c9095.jpg",
-    "ts": 1785881889,
-    "addedTs": 1785884008,
-    "urlHash": "d240cf5c9095",
-    "titleHash": "db5ccdb4c7d5"
-  },
-  {
-    "title": "Big Tech Is Finally Paying for the AI Disaster It Created [video]",
-    "titlePt": "Grandes empresas de tecnologia pagam pela desastre da IA",
-    "url": "https://www.youtube.com/watch?v=XB55jZAYifQ",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O vídeo argumenta que as grandes empresas de tecnologia estão finalmente arcando com os custos dos problemas que a IA trouxe, como desinformação e impactos sociais. É um debate importante para entender os efeitos do setor. Afeta usuários, reguladores e concorrentes.",
-    "reasonEn": "The video argues that big tech companies are finally paying for the problems AI has brought, such as misinformation and social impacts. It is an important debate to understand the sector's effects. It affects users, regulators and competitors.",
-    "score": 0.7,
-    "tags": [
-      "bigtech",
-      "impacto"
-    ],
-    "img": "img/de9b4c7610c1.jpg",
-    "ts": 1785881601,
-    "addedTs": 1785884008,
-    "urlHash": "de9b4c7610c1",
-    "titleHash": "e53b6f54eb62"
-  },
-  {
-    "title": "AI fuels more than half of cybercrime in Africa as digital scams surge: INTERPOL",
-    "titlePt": "IA move mais da metade dos crimes cibernéticos na África, diz Interpol",
-    "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Relatório da Interpol mostra que golpes digitais movidos por IA já representam mais de metade dos cibercrimes na África. O dado mostra como a criminalidade digital está se profissionalizando com IA. Isso afeta qualquer pessoa conectada, especialmente em regiões com pouca proteção.",
-    "reasonEn": "An Interpol report shows that AI-driven digital scams already account for more than half of cybercrime in Africa. The data shows how digital crime is professionalizing with AI. This affects anyone online, especially in regions with little protection.",
-    "score": 0.85,
-    "tags": [
-      "segurança",
-      "crime"
-    ],
-    "img": "img/4c140296e301.jpg",
-    "ts": 1785880901,
-    "addedTs": 1785884008,
-    "urlHash": "4c140296e301",
-    "titleHash": "5f7b12bd1144"
-  },
-  {
-    "title": "Security Incident INC-2026-07-28-01 – UK AI Security Institute [pdf]",
-    "titlePt": "Instituto de Segurança em IA do Reino Unido reporta incidente",
-    "url": "https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O UK AI Security Institute publicou um relatório em PDF sobre um incidente de segurança em 28 de julho de 2026. É um sinal de transparência institucional rara em órgãos públicos sobre falhas de IA. Relevante para pesquisadores, empresas e reguladores do setor.",
-    "reasonEn": "The UK AI Security Institute published a PDF report on a security incident dated July 28, 2026. It is a rare sign of institutional transparency about AI failures. Relevant for researchers, companies and regulators in the sector.",
-    "score": 0.75,
-    "tags": [
-      "segurança",
-      "regulação"
-    ],
-    "img": "img/78362c7e6bb1.jpg",
-    "ts": 1785880378,
-    "addedTs": 1785884008,
-    "urlHash": "78362c7e6bb1",
-    "titleHash": "e20ea61bcd14"
-  },
-  {
-    "title": "Show HN: I gave my video editor an MCP server so Claude can edit videos for me",
-    "titlePt": "Desenvolvedor dá ao editor de vídeo um servidor MCP para Claude",
-    "url": "https://www.shorz.ai",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um criador publicou um projeto que conecta o editor de vídeo ao Claude via servidor MCP, permitindo edição automatizada por linguagem natural. Mostra um uso criativo e prático do protocolo MCP. Pode inspirar desenvolvedores e editores que buscam automação em vídeo.",
-    "reasonEn": "A creator published a project that connects a video editor to Claude via an MCP server, enabling automated editing through natural language. It shows a creative and practical use of the MCP protocol. It may inspire developers and editors seeking video automation.",
-    "score": 0.55,
-    "tags": [
-      "vídeo",
-      "mcp"
-    ],
-    "img": "img/3d40ead0b330.jpg",
-    "ts": 1785880342,
-    "addedTs": 1785884008,
-    "urlHash": "3d40ead0b330",
-    "titleHash": "211fcc01e48d"
-  },
-  {
-    "title": "AI music generator Suno loses copyright infringement legal case",
-    "titlePt": "Gerador de música Suno perde processo por violação de direitos autorais",
-    "url": "https://www.nme.com/news/music/ai-music-generator-suno-loses-copyright-infringement-legal-case-3960760",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O gerador de música por IA Suno foi derrotado em uma ação judicial sobre violação de direitos autorais. A decisão pode forçar a empresa a repensar como treina seus modelos e abre precedentes para outros criadores de música com IA. Artistas e gravadoras são diretamente afetados, e usuários da plataforma podem ver mudanças no catálogo disponível. É um sinal claro de que tribunais estão levando a sério reclamações sobre uso de material protegido por sistemas generativos.",
-    "reasonEn": "AI music generator Suno lost a copyright infringement lawsuit. The ruling could force the company to rethink how it trains its models and sets precedents for other AI music creators. Artists and labels are directly affected, and users may see changes in available catalogs. It signals that courts are taking claims about generative systems using protected material seriously.",
-    "score": 0.75,
-    "tags": [
-      "direitos autorais",
-      "música",
-      "ia"
-    ],
-    "img": "img/9012f74a86cc.jpg",
-    "ts": 1785879978,
-    "addedTs": 1785884008,
-    "urlHash": "9012f74a86cc",
-    "titleHash": "c71bc2740610"
-  },
-  {
-    "title": "SpaceX made more revenue as an AI company than a space company",
-    "titlePt": "SpaceX faturou mais como empresa de IA do que como empresa espacial",
-    "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "A SpaceX, conhecida por foguetes e satélites, gerou mais receita com suas atividades de inteligência artificial do que com seu negócio espacial tradicional. Isso mostra como IA virou uma linha de receita central mesmo para empresas de hardware pesado. Investidores e concorrentes devem prestar atenção, pois a fronteira entre infraestrutura espacial e infraestrutura de IA está se dissolvendo. Para o público, é mais um sinal de que IA é o motor de crescimento atual da economia tech.",
-    "reasonEn": "SpaceX, famous for rockets and satellites, made more revenue from its AI activities than from its traditional space business. This shows AI has become a central revenue line even for heavy hardware companies. Investors and competitors should take note as the line between space and AI infrastructure blurs. For the public, it is another sign that AI is the current growth engine of the tech economy.",
-    "score": 0.55,
-    "tags": [
-      "spacex",
-      "negócios",
-      "infraestrutura"
-    ],
-    "img": "img/30d8d6544d2f.jpg",
-    "ts": 1785879737,
-    "addedTs": 1785884008,
-    "urlHash": "30d8d6544d2f",
-    "titleHash": "79b20e7f5c4f"
-  },
-  {
-    "title": "China turns up the heat with open model blitz as US model makers panic",
-    "titlePt": "China acelera com enxurrada de modelos abertos e fabricantes americanos entram em pânico",
-    "url": "https://www.theregister.com/ai-and-ml/2026/08/03/china-turns-up-the-heat-with-open-model-blitz-as-us-model-makers-panic/5282526",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Fabricantes chineses estão lançando uma onda de modelos de IA de código aberto rapidamente, pressionando laboratórios americanos que dependem de modelos fechados e caros. A disputa agora é sobre custo, velocidade e alcance global, não apenas sobre qualidade. Empresas que compram modelos americanos podem repensar fornecedores. Consumidores podem ganhar acesso a modelos potentes e baratos em hardware comum.",
-    "reasonEn": "Chinese makers are releasing a rapid wave of open-source AI models, pressuring US labs that rely on closed, expensive systems. The contest is now about cost, speed, and global reach, not just quality. Companies buying US models may rethink their suppliers. Consumers could get access to powerful, cheap models running on everyday hardware.",
-    "score": 0.85,
-    "tags": [
-      "china",
-      "modelo aberto",
-      "concorrência"
-    ],
-    "img": "img/1f0b87c87253.jpg",
-    "ts": 1785879430,
-    "addedTs": 1785884008,
-    "urlHash": "1f0b87c87253",
-    "titleHash": "1e84301580b8"
-  },
-  {
-    "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
-    "titlePt": "Entenda como a OpenAI teria invadido o Hugging Face",
-    "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
-    "source": "Ars Technica",
-    "sources": [
-      "Ars Technica"
-    ],
-    "reason": "Reportagem da Ars Technica detalha como a OpenAI acessou de forma agressiva dados do Hugging Face, possivelmente para treinar ou copiar modelos concorrentes. O episódio revela como a guerra por dados e talentos em IA está ficando cada vez mais hostil. Desenvolvedores que usam Hugging Face devem ficar atentos a mudanças de políticas. É um sinal claro de que fronteira entre espionagem corporativa e competição legítima está borrada.",
-    "reasonEn": "An Ars Technica report details how OpenAI aggressively accessed Hugging Face data, possibly to train or copy rival models. The episode shows how the war over AI data and talent is turning hostile. Developers using Hugging Face should watch for policy changes. It is a clear sign that the line between corporate espionage and legitimate competition is blurring.",
-    "score": 0.7,
-    "tags": [
-      "segurança",
-      "openai",
-      "concorrência"
-    ],
-    "img": "img/4a4d812ef5a7.jpg",
-    "ts": 1785274599,
-    "addedTs": 1785884008,
-    "urlHash": "4a4d812ef5a7",
-    "titleHash": "bf9ebc27f19f"
-  },
-  {
-    "title": "LFM2.5-2.6B: On-Device Agents",
-    "titlePt": "LFM2.5-2.6B: agentes de IA direto no dispositivo",
-    "url": "https://www.liquid.ai/models",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Liquid AI lançou o modelo LFM2.5-2.6B, pensado para rodar agentes de IA localmente em dispositivos, sem depender da nuvem. O modelo é leve o suficiente para rodar em hardware comum e foca em tarefas agentivas. Desenvolvedores interessados em privacidade, baixa latência e menor custo de inferência devem prestar atenção, já que viabiliza assistentes e fluxos autônomos no próprio aparelho do usuário.",
-    "reasonEn": "Liquid AI launched the LFM2.5-2.6B model, designed to run AI agents locally on devices without cloud dependency. The model is lightweight enough to run on common hardware and focuses on agentic tasks. Developers interested in privacy, low latency, and lower inference costs should pay attention, since it enables assistants and autonomous workflows directly on the user's device.",
-    "score": 0.7,
-    "tags": [
-      "modelo",
-      "lançamento",
-      "on-device"
-    ],
-    "img": "img/a1baf56da7ec.jpg",
-    "ts": 1785877236,
-    "addedTs": 1785877361,
-    "urlHash": "a1baf56da7ec",
-    "titleHash": "be322f835cfe"
-  },
-  {
-    "title": "Bypassing AI guardrails is so easy a script kiddie can do it",
-    "titlePt": "Driblar barreiras de IA é tão fácil que qualquer iniciante consegue",
-    "url": "https://www.theregister.com/security/2026/08/04/bypassing-ai-guardrails-is-so-easy-a-script-kiddie-can-do-it/5282973",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um estudo recente mostra que burlar os filtros de segurança de sistemas de IA ficou ridiculamente simples, com técnicas aplicáveis por qualquer pessoa com pouca experiência. Ataques básicos de prompt injection e manipulação já atravessam os principais modelos comerciais. Isso preocupa empresas que usam IA em atendimento, moderação e suporte, porque a proteção atual é praticamente simbólica.",
-    "reasonEn": "A recent study shows that bypassing AI safety filters has become ridiculously easy, with techniques anyone with minimal experience can apply. Basic prompt injection and manipulation attacks already get through major commercial models. This worries companies using AI in customer service, moderation, and support, because current protection is essentially symbolic.",
-    "score": 0.7,
-    "tags": [
-      "segurança",
-      "jailbreak",
-      "modelo"
-    ],
-    "img": "img/e35a6ef38e10.jpg",
-    "ts": 1785877174,
-    "addedTs": 1785877361,
-    "urlHash": "e35a6ef38e10",
-    "titleHash": "fed665bef224"
-  },
-  {
-    "title": "Show HN: Watchfire, an open-source control room for AI coding agents",
-    "titlePt": "Watchfire: sala de controle open source para agentes de código",
-    "url": "https://github.com/watchfire-io/watchfire",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um desenvolvedor publicou no Hacker News o Watchfire, painel open source para acompanhar e coordenar múltiplos agentes de programação. A ferramenta dá visibilidade sobre o que cada agente está fazendo, evitando que se atropelem ou gerem código conflitante. Ajuda times que já usam assistentes de codificação em paralelo e precisam de supervisão centralizada.",
-    "reasonEn": "A developer posted Watchfire on Hacker News, an open-source dashboard to monitor and coordinate multiple coding agents. The tool provides visibility into what each agent is doing, preventing them from stepping on each other or generating conflicting code. It helps teams already running coding assistants in parallel who need centralized oversight.",
-    "score": 0.6,
-    "tags": [
-      "open-source",
-      "agentes",
-      "devtools"
-    ],
-    "img": "img/d71481445c10.jpg",
-    "ts": 1785877048,
-    "addedTs": 1785877361,
-    "urlHash": "d71481445c10",
-    "titleHash": "51277ec9e8a6"
-  },
-  {
-    "title": "AAFlow: Scalable Patterns for Agentic AI Workflows",
-    "titlePt": "AAFlow: padrões escaláveis para fluxos agentivos de IA",
-    "url": "https://arxiv.org/abs/2605.02162",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "AAFlow é um novo conjunto de padrões para organizar fluxos de trabalho com agentes de IA em escala. Ajuda a estruturar tarefas complexas dividindo-as em etapas repetíveis e observáveis. Útil para times saindo da fase de protótipos e precisando de algo mais robusto em produção.",
-    "reasonEn": "AAFlow is a new set of patterns for organizing AI agent workflows at scale. It helps structure complex tasks by breaking them into repeatable and observable steps. Useful for teams moving beyond prototypes who need something more robust in production.",
-    "score": 0.6,
-    "tags": [
-      "agentes",
-      "framework",
-      "arquitetura"
-    ],
-    "img": "img/2e1a92f01017.jpg",
-    "ts": 1785875644,
-    "addedTs": 1785877361,
-    "urlHash": "2e1a92f01017",
-    "titleHash": "b64b98b91cfa"
   }
 ]
