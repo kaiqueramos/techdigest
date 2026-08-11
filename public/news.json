@@ -1,5 +1,180 @@
 [
   {
+    "title": "Breaking AI Orchestration: Four Vulnerabilities in Langflow",
+    "titlePt": "Quatro vulnerabilidades críticas descobertas no Langflow",
+    "url": "https://zerolabs.rubrik.com/blog/breaking-ai-orchestration-part-1-four-vulnerabilities-langflow",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Pesquisadores divulgaram quatro falhas de segurança no Langflow, ferramenta popular para orquestrar fluxos de IA. As brechas podem permitir execução de código, roubo de dados e tomada de servidores. Equipes que usam Langflow em produção devem atualizar imediatamente. O caso mostra como ferramentas de IA estão crescendo mais rápido do que auditorias de segurança.",
+    "reasonEn": "Researchers disclosed four security flaws in Langflow, a popular tool for orchestrating AI workflows. The bugs can enable code execution, data theft, and server takeover. Teams running Langflow in production should patch immediately. The case highlights how AI tooling is outpacing security reviews.",
+    "score": 0.78,
+    "tags": [
+      "segurança",
+      "vulnerabilidade",
+      "langflow"
+    ],
+    "img": "img/0303e645111b.jpg",
+    "ts": 1786466455,
+    "addedTs": 1786466908,
+    "urlHash": "0303e645111b",
+    "titleHash": "adf27a125915"
+  },
+  {
+    "title": "A 10M-token context efficient agentic model",
+    "titlePt": "Modelo agêntico eficiente com contexto de 10 milhões de tokens",
+    "url": "https://console.pokee.ai/model",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um novo modelo afirma manter contexto de 10 milhões de tokens de forma eficiente enquanto opera de modo agêntico. Isso é cerca de 50 vezes o que a maioria dos modelos de fronteira oferece hoje. Se os benchmarks se confirmarem, muda workflows com documentos longos ou tarefas prolongadas. Vale acompanhar a validação independente.",
+    "reasonEn": "A new model claims to handle 10 million tokens of context efficiently while acting agentically. That is roughly 50x what most frontier models offer today. If benchmarks hold, it changes workflows involving long documents or extended tasks. Worth watching for independent validation.",
+    "score": 0.78,
+    "tags": [
+      "modelo",
+      "agente",
+      "long-context"
+    ],
+    "img": "img/e5fe00fd4562.jpg",
+    "ts": 1786465893,
+    "addedTs": 1786466908,
+    "urlHash": "e5fe00fd4562",
+    "titleHash": "31ff78b9ae35"
+  },
+  {
+    "title": "An unreleased Anthropic model made progress on one of math&#8217;s biggest unsolved problems",
+    "titlePt": "Modelo não lançado da Anthropic avança em um grande problema da matemática",
+    "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "Um modelo ainda não lançado da Anthropic teria avançado em um dos maiores problemas em aberto da matemática. Caso se confirme, é um marco notável para IA em raciocínio formal. Sugere que saltos de capacidade estão acontecendo nos bastidores antes do lançamento público. Matemáticos e laboratórios vão querer examinar os detalhes.",
+    "reasonEn": "An unreleased Anthropic model reportedly advanced on one of math's biggest unsolved problems. If confirmed, this is a notable milestone for AI in formal reasoning. It hints that capability jumps are happening behind closed doors before public release. Mathematicians and labs will want to scrutinize the details.",
+    "score": 0.8,
+    "tags": [
+      "antropica",
+      "matemática",
+      "modelo"
+    ],
+    "img": "img/e32278b94fa2.jpg",
+    "ts": 1786465520,
+    "addedTs": 1786466908,
+    "urlHash": "e32278b94fa2",
+    "titleHash": "11486c42ad0c"
+  },
+  {
+    "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is AI",
+    "titlePt": "Empresa que prometia pesquisa médica 100% humana usava IA",
+    "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma empresa que vendia pesquisas médicas como 100% humanas e sem IA foi flagrada usando IA para produzi-las. É um exemplo claro de marketing reverso explorando o medo do conteúdo gerado por máquina. Pesquisadores e leitores que dependem desse tipo de serviço devem verificar fontes por conta própria.",
+    "reasonEn": "A company marketing medical research as 100% human-written and AI-free was caught using AI to produce it. It is a striking case of reverse marketing that exploits fear of machine-generated content. Researchers and readers relying on such services should verify sources themselves.",
+    "score": 0.6,
+    "tags": [
+      "ironia",
+      "pesquisa",
+      "médico"
+    ],
+    "img": "img/da4471dc8e3d.jpg",
+    "ts": 1786465358,
+    "addedTs": 1786466908,
+    "urlHash": "da4471dc8e3d",
+    "titleHash": "9555617e404b"
+  },
+  {
+    "title": "Bernie Sanders calls on Silicon Valley to 'pause AI development'",
+    "titlePt": "Bernie Sanders pede ao Vale do Silício que pause o desenvolvimento de IA",
+    "url": "https://www.theguardian.com/technology/2026/aug/10/bernie-sanders-ai-development-pause-letter",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O senador Bernie Sanders pediu publicamente que o Vale do Silício pause o desenvolvimento de IA, citando risco de desemprego em massa e segurança. A fala soma pressão política ao movimento crescente por desaceleração da IA. Pode influenciar debates regulatórios no Congresso dos EUA nos próximos meses.",
+    "reasonEn": "Senator Bernie Sanders publicly called on Silicon Valley to pause AI development, citing mass displacement and safety risks. The statement adds political weight to the growing AI slowdown movement. It may shape upcoming US Congressional debates on AI regulation.",
+    "score": 0.72,
+    "tags": [
+      "regulação",
+      "política"
+    ],
+    "img": "img/7515561293ae.jpg",
+    "ts": 1786463657,
+    "addedTs": 1786466908,
+    "urlHash": "7515561293ae",
+    "titleHash": "a867cdad9c75"
+  },
+  {
+    "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+    "titlePt": "Pensando em ACE? Dá para fazer com menos tokens",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "Um novo trabalho mostra que resultados equivalentes ao framework ACE podem ser obtidos com menos tokens. Como execuções longas de agentes são caras e lentas, ganhos de eficiência caem direto no custo operacional. Para quem roda agentes em escala, isso é leitura obrigatória. Também indica um caminho de pesquisa ativo.",
+    "reasonEn": "A new paper shows that results equivalent to the ACE framework can be achieved with fewer tokens. Since long agent runs are expensive and slow, efficiency gains directly cut operational costs. Required reading for anyone running agents at scale. Also signals an active research direction.",
+    "score": 0.62,
+    "tags": [
+      "pesquisa",
+      "tokens",
+      "eficiência"
+    ],
+    "img": "img/077b61a0fed0.jpg",
+    "ts": 1786455430,
+    "addedTs": 1786466908,
+    "urlHash": "077b61a0fed0",
+    "titleHash": "33f7a4432705"
+  },
+  {
+    "title": "Testing ads in ChatGPT",
+    "titlePt": "OpenAI testa anúncios dentro do ChatGPT",
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "A OpenAI começou a testar a exibição de anúncios dentro das conversas do ChatGPT para usuários da versão gratuita. Os anúncios devem aparecer de forma contextual, sem interromper o fluxo da resposta do assistente. A medida abre uma nova frente de receita em meio aos altos custos de computação da empresa e sinaliza a busca por sustentabilidade financeira além das assinaturas. Desenvolvedores que usam a API paga não são afetados, mas o movimento levanta dúvidas sobre imparcialidade das respostas.",
+    "reasonEn": "OpenAI began testing the display of ads inside ChatGPT conversations for free-tier users. The ads are expected to appear contextually, without interrupting the assistant's response flow. The move opens a new revenue stream amid the company's high compute costs and signals the search for financial sustainability beyond subscriptions. Developers using the paid API are not affected, but the move raises questions about the impartiality of responses.",
+    "score": 0.85,
+    "tags": [
+      "openai",
+      "negócios",
+      "chatgpt"
+    ],
+    "img": "img/b19ec562c455.jpg",
+    "ts": 1786442400,
+    "addedTs": 1786466908,
+    "urlHash": "b19ec562c455",
+    "titleHash": "d75b687a60ac"
+  },
+  {
+    "title": "Mark Zuckerberg&#8217;s AI manifesto is exactly why people don&#8217;t like AI",
+    "titlePt": "O manifesto de IA de Mark Zuckerberg é exatamente o motivo pelo qual as pessoas não gostam de IA",
+    "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "Um artigo de opinião do TechCrunch critica a visão de Mark Zuckerberg sobre o futuro da IA, acusando-o de promover uma estratégia tecnoutópica que prioriza substituir relações humanas em vez de aumentá-las. O texto aponta que a Meta aposta em agentes que imitam amigos e terapeutas, reforçando a desconfiança do público. O debate expõe a divergência entre o otimismo corporativo da Meta e a expectativa dos usuários por ferramentas mais transparentes. É leitura relevante para quem acompanha ética e produto em IA.",
+    "reasonEn": "A TechCrunch opinion piece criticizes Mark Zuckerberg's vision for the future of AI, accusing him of promoting a techno-utopian strategy that prioritizes replacing human relationships rather than augmenting them. The text notes that Meta is betting on agents that imitate friends and therapists, reinforcing public distrust. The debate exposes the gap between Meta's corporate optimism and users' expectation for more transparent tools. It is relevant reading for those following AI ethics and product.",
+    "score": 0.55,
+    "tags": [
+      "meta",
+      "opinião",
+      "ética"
+    ],
+    "img": "img/572bd2730f8b.jpg",
+    "ts": 1786395182,
+    "addedTs": 1786466908,
+    "urlHash": "572bd2730f8b",
+    "titleHash": "6bee26d983ed"
+  },
+  {
     "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
     "titlePt": "Hack 'Zoomsday' exposto com menos de 20 prompts de IA",
     "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
@@ -10629,180 +10804,5 @@
     "addedTs": 1785877361,
     "urlHash": "2e1a92f01017",
     "titleHash": "b64b98b91cfa"
-  },
-  {
-    "title": "AgentRails – a safety layer for AI agents that take real actions",
-    "titlePt": "AgentRails: camada de segurança para agentes que agem no mundo real",
-    "url": "https://github.com/Kratos-Analytics-LLC/AgentRails",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "AgentRails é uma camada de segurança criada para agentes de IA que executam ações reais, como clicar, pagar e enviar mensagens. Adiciona checagens de permissão, logs de auditoria e limites de risco antes de cada ação. É relevante para empresas deployando agentes com poder de mexer em sistemas externos, onde um erro pode causar prejuízo financeiro ou vazamento de dados.",
-    "reasonEn": "AgentRails is a safety layer built for AI agents that perform real actions like clicking, paying, and sending messages. It adds permission checks, audit logs, and risk limits before each action. It is relevant for companies deploying agents with power to touch external systems, where an error can cause financial loss or data leaks.",
-    "score": 0.7,
-    "tags": [
-      "segurança",
-      "agentes",
-      "devtools"
-    ],
-    "img": "img/e32d30d65408.jpg",
-    "ts": 1785875316,
-    "addedTs": 1785877361,
-    "urlHash": "e32d30d65408",
-    "titleHash": "a736c362be8d"
-  },
-  {
-    "title": "Should You Use AI for a Task? Here's a Simple Way to Decide",
-    "titlePt": "Devo usar IA nesta tarefa? Um jeito simples de decidir",
-    "url": "https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo propõe um framework simples para decidir quando vale a pena usar IA em uma tarefa. Sugere considerar o custo de erro, a disponibilidade de dados e se a tarefa é repetitiva. Conteúdo prático para profissionais sobrecarregados com promessas de IA em tudo e que querem filtrar o que realmente vale.",
-    "reasonEn": "The article proposes a simple framework for deciding when it is worth using AI for a task. It suggests considering the cost of error, data availability, and whether the task is repetitive. Practical content for professionals overwhelmed by AI promises everywhere who want to filter what really matters.",
-    "score": 0.5,
-    "tags": [
-      "produtividade",
-      "estratégia"
-    ],
-    "img": "img/386408277132.jpg",
-    "ts": 1785874849,
-    "addedTs": 1785877361,
-    "urlHash": "386408277132",
-    "titleHash": "4fb0781f32fb"
-  },
-  {
-    "title": "AI Writes the Code, but Humans Can't Review It All. Now What?",
-    "titlePt": "IA escreve o código, mas humanos não conseguem revisar tudo. E agora?",
-    "url": "https://www.sylvainkalache.com/blog/ai-writes-the-code-but-humans-cant-review-it-all",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo discute o problema crescente da revisão de código gerado por IA: o volume produzido supera a capacidade humana de auditar tudo com cuidado. Sugere práticas como revisão por amostragem, testes rigorosos e métricas de confiança no código gerado. Leitura essencial para líderes de engenharia que estão escalando o uso de IA em seus times.",
-    "reasonEn": "The article discusses the growing problem of reviewing AI-generated code: the volume produced exceeds human capacity to audit everything carefully. It suggests practices like sampling-based review, rigorous testing, and confidence metrics on generated code. Essential reading for engineering leaders scaling AI use in their teams.",
-    "score": 0.8,
-    "tags": [
-      "engenharia",
-      "qualidade",
-      "agentes"
-    ],
-    "img": "img/2828a005229a.jpg",
-    "ts": 1785874657,
-    "addedTs": 1785877361,
-    "urlHash": "2828a005229a",
-    "titleHash": "89934d83bf85"
-  },
-  {
-    "title": "Open Source Is Hobbling Itself over Generative AI",
-    "titlePt": "Open source está se sabotando por causa da IA generativa",
-    "url": "https://heronsperch.blogspot.com/2026/08/open-source-is-hobbling-itself-over.html",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O texto argumenta que o movimento open source está perdendo força por tensões internas em torno de IA generativa, com divergências sobre licenças, treinamento de modelos e uso de dados. Comunidades se fragmentam entre pró e contra IA. Leitura importante para entender as brigas filosóficas que podem moldar o futuro do software livre.",
-    "reasonEn": "The text argues that the open source movement is losing strength due to internal tensions around generative AI, with disagreements about licenses, model training, and data use. Communities are fragmenting between pro and anti-AI camps. Important reading to understand the philosophical battles that may shape the future of free software.",
-    "score": 0.6,
-    "tags": [
-      "open-source",
-      "regulação",
-      "polêmica"
-    ],
-    "img": "img/46ef3b2fb29e.jpg",
-    "ts": 1785874382,
-    "addedTs": 1785877361,
-    "urlHash": "46ef3b2fb29e",
-    "titleHash": "aed45b2817e8"
-  },
-  {
-    "title": "Show HN: My tool scanned 256 AI-built apps and most had exposed credentials",
-    "titlePt": "Ferramenta vasculha 256 apps feitos com IA e acha credenciais expostas",
-    "url": "https://necktochoke.com/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um desenvolvedor mostrou no Hacker News que analisou 256 aplicações criadas com auxílio de IA e descobriu que a maioria tinha credenciais sensíveis expostas, como chaves de API em repositórios públicos. O achado expõe um problema sério: geradores de código muitas vezes incluem segredos de exemplo que desenvolvedores inexperientes copiam para produção. Alerta importante para quem está deployando apps gerados por IA.",
-    "reasonEn": "A developer showed on Hacker News that he analyzed 256 AI-assisted applications and found most had sensitive credentials exposed, such as API keys in public repositories. The finding exposes a serious problem: code generators often include example secrets that inexperienced developers copy into production. An important warning for anyone deploying AI-generated apps.",
-    "score": 0.8,
-    "tags": [
-      "segurança",
-      "agentes",
-      "pesquisa"
-    ],
-    "img": "img/5c20d51fe1a5.jpg",
-    "ts": 1785874365,
-    "addedTs": 1785877361,
-    "urlHash": "5c20d51fe1a5",
-    "titleHash": "8a1fb96dac85"
-  },
-  {
-    "title": "Open-weight AI models are catching up to the frontier. The safety gap remains. ",
-    "titlePt": "Modelos open-weight se aproximam da fronteira, mas segurança fica para trás",
-    "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "Modelos de IA de pesos abertos estão alcançando o desempenho dos melhores modelos fechados, mas as práticas de segurança e avaliação não acompanham o mesmo ritmo. Enquanto empresas investem pesado em red teaming e filtros, modelos abertos frequentemente lançam sem essas camadas. Preocupa pesquisadores que defendem regulação e desenvolvedores que constroem produtos sobre esses modelos.",
-    "reasonEn": "Open-weight AI models are catching up to the performance of the best closed models, but safety and evaluation practices are not keeping the same pace. While companies invest heavily in red teaming and filters, open models often launch without these layers. This concerns researchers advocating for regulation and developers building products on top of these models.",
-    "score": 0.8,
-    "tags": [
-      "modelo",
-      "segurança",
-      "open-source"
-    ],
-    "img": "img/d5514a287675.jpg",
-    "ts": 1785873926,
-    "addedTs": 1785877361,
-    "urlHash": "d5514a287675",
-    "titleHash": "2539e243326c"
-  },
-  {
-    "title": "Anthropic signs $10B deal with AI cloud startup Volta",
-    "titlePt": "Anthropic fecha acordo de US$ 10 bi com a startup de nuvem Volta",
-    "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A Anthropic fechou um acordo bilionário de US$ 10 bilhões com a Volta, uma startup de nuvem focada em inteligência artificial. O movimento mostra como a Anthropic está investindo pesado em infraestrutura própria para treinar e rodar seus modelos. O setor todo fica de olho porque isso pode mudar o equilíbrio de poder com Microsoft, Google e Amazon. Para usuários e empresas, o efeito prático pode ser mais capacidade computacional e novos produtos da Anthropic nos próximos meses.",
-    "reasonEn": "Anthropic has signed a massive $10 billion deal with Volta, an AI-focused cloud startup. The move signals Anthropic's push to secure dedicated infrastructure for training and running its models. It could shift the balance of power among major AI cloud providers like Microsoft, Google, and Amazon. For users and businesses, this likely means more compute capacity and faster product rollouts from Anthropic.",
-    "score": 0.88,
-    "tags": [
-      "anthropic",
-      "deal",
-      "infraestrutura"
-    ],
-    "img": "img/887d924577fd.jpg",
-    "ts": 1785872920,
-    "addedTs": 1785877361,
-    "urlHash": "887d924577fd",
-    "titleHash": "7386461d645f"
-  },
-  {
-    "title": "Nvidia doesn&#8217;t mess around: A week after open AI industry group formed, it&#8217;s already showing progress",
-    "titlePt": "Nvidia já mostra resultado uma semana após criar grupo aberto de IA",
-    "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "Poucos dias após lançar um consórcio aberto do setor de IA, a Nvidia já apresenta progresso concreto com novos parceiros e testes. A Nvidia está tentando moldar os padrões da indústria a seu favor, oferecendo chips e ferramentas de referência. A decisão importa porque define quais frameworks, modelos e práticas vão virar padrão no mercado. Desenvolvedores e empresas devem acompanhar para saber em qual stack investir.",
-    "reasonEn": "Just a week after launching an open AI industry group, Nvidia is already showing tangible progress with new partners and pilots. The company is clearly trying to shape industry standards around its hardware and software stack. This matters because it influences which frameworks and best practices become mainstream. Developers and businesses should watch closely to decide where to invest.",
-    "score": 0.72,
-    "tags": [
-      "nvidia",
-      "padrões",
-      "indústria"
-    ],
-    "img": "img/3cc1d075abd4.jpg",
-    "ts": 1785871729,
-    "addedTs": 1785877361,
-    "urlHash": "3cc1d075abd4",
-    "titleHash": "87f21be4e692"
   }
 ]
