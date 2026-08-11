@@ -1,5 +1,48 @@
 [
   {
+    "title": "2,500 Companies and 434,000 Pipelines Exposed – Largest AI Supply Chain Breach",
+    "titlePt": "Maior vazamento da cadeia de IA expõe 2.500 empresas e 434.000 pipelines",
+    "url": "https://www.cloudsek.com/blog/ai-supply-chain-breach-2500-companies-434000-cicd-pipelines",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Pesquisadores de segurança descobriram credenciais e segredos de mais de 2.500 empresas expostos em pipelines ligados a fornecedores de IA, totalizando 434.000 pipelines afetados. O incidente é descrito como o maior vazamento da cadeia de suprimentos de inteligência artificial já registrado. Times de segurança, DevOps e fornecedores de modelos precisam revisar imediatamente integrações com terceiros. Para qualquer empresa usando APIs de IA em produção, o alerta é urgente.",
+    "reasonEn": "Security researchers uncovered credentials and secrets from over 2,500 companies exposed in pipelines tied to AI vendors, totaling 434,000 affected pipelines. The incident is described as the largest AI supply chain breach on record. Security, DevOps teams and model vendors must urgently review third-party integrations. For any company using AI APIs in production, this is an urgent alert.",
+    "score": 0.85,
+    "tags": [
+      "segurança",
+      "vazamento"
+    ],
+    "img": "img/5192ad3ba74f.jpg",
+    "ts": 1786441722,
+    "addedTs": 1786444937,
+    "urlHash": "5192ad3ba74f",
+    "titleHash": "b73bf522e1ba"
+  },
+  {
+    "title": "French lawyers are being told to use open source AI models for confidential data",
+    "titlePt": "Advogados franceses são orientados a usar IA open source para dados confidenciais",
+    "url": "https://huggingface.co/blog/jedisct1/lawyers-and-local-ai",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Ordem dos Advogados da França passou a recomendar que escritórios usem modelos de IA de código aberto para processar informações confidenciais de clientes. A orientação busca reduzir o risco de envio de dados sensíveis para sistemas fechados hospedados fora do país. É um sinal claro de como a soberania de dados está moldando decisões profissionais na Europa. Desenvolvedores de soluções jurídicas e fornecedores de LLM devem acompanhar o desdobramento.",
+    "reasonEn": "The French Bar Association now recommends law firms use open-source AI models to process confidential client data. The guidance aims to cut the risk of sending sensitive information to closed systems hosted abroad. It is a clear signal that data sovereignty is shaping professional decisions in Europe. Developers of legal solutions and LLM vendors should follow the outcome.",
+    "score": 0.6,
+    "tags": [
+      "regulação",
+      "jurídico",
+      "open source"
+    ],
+    "img": "img/76c053a58527.jpg",
+    "ts": 1786438790,
+    "addedTs": 1786444937,
+    "urlHash": "76c053a58527",
+    "titleHash": "6bc3f085a3e4"
+  },
+  {
     "title": "AI Slop Backlash Is Starting to Change Platform Policy",
     "titlePt": "Reação ao \"lixo de IA\" começa a mudar regras das plataformas",
     "url": "https://ai-updates.net/ai-slop-backlash-changing-platform-policy/",
@@ -10758,47 +10801,5 @@
     "addedTs": 1785871153,
     "urlHash": "d5e5461806b4",
     "titleHash": "82b605663490"
-  },
-  {
-    "title": "Bending Spoons acquires Airtable for $1.25B",
-    "titlePt": "Bending Spoons compra Airtable por US$ 1,25 bilhão",
-    "url": "https://www.businesswire.com/news/home/20260730994716/en/Bending-Spoons-has-entered-into-a-definitive-agreement-to-acquire-Airtable-for-$1.285-billion",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Bending Spoons anunciou a aquisição da Airtable por 1,25 bilhão de dólares, marcando uma das maiores transações do ano em software de produtividade. Usuários corporativos devem ficar atentos a possíveis mudanças de preço, produto e roadmap. Desenvolvedores integrados à Airtable precisam reavaliar dependências.",
-    "reasonEn": "Bending Spoons announced the acquisition of Airtable for $1.25 billion, one of the largest productivity software deals of the year. Enterprise users should watch for changes in pricing, product and roadmap. Developers integrated with Airtable need to reassess dependencies.",
-    "score": 0.85,
-    "tags": [
-      "deal",
-      "aquisição"
-    ],
-    "img": "img/9746820a8b5b.jpg",
-    "ts": 1785868420,
-    "addedTs": 1785871153,
-    "urlHash": "9746820a8b5b",
-    "titleHash": "476c32943571"
-  },
-  {
-    "title": "Creating, Copying, and Remixing in the Age of AI",
-    "titlePt": "Criar, copiar e remixar na era da IA",
-    "url": "https://molochinations.substack.com/p/creating-copying-and-remixing-in",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O Hacker News discute como ferramentas generativas mudam o fluxo de criar, copiar e remixar conteúdo, levantando dilemas sobre autoria e propriedade intelectual. Toca em temas legais e culturais atuais. Importa para criadores, advogados e plataformas.",
-    "reasonEn": "Hacker News discusses how generative tools reshape the flow of creating, copying and remixing content, raising authorship and IP dilemmas. It touches on current legal and cultural debates. It matters for creators, lawyers and platforms.",
-    "score": 0.5,
-    "tags": [
-      "direitos autorais",
-      "cultura"
-    ],
-    "img": "img/f402dd84dff5.jpg",
-    "ts": 1785868338,
-    "addedTs": 1785871153,
-    "urlHash": "f402dd84dff5",
-    "titleHash": "f6a4b3c1c755"
   }
 ]
