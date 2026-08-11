@@ -1,5 +1,93 @@
 [
   {
+    "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+    "titlePt": "OpenAI conclui oferta de US$ 7 bilhões para funcionários",
+    "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A OpenAI teria finalizado uma oferta de compra de ações para funcionários no valor de US$ 7 bilhões. Esse tipo de operação permite que colaboradores vendam parte de suas participações, funcionando como um respiro financeiro em meio à crescente disputa por talentos de IA. O movimento reforça a pressão da empresa para reter profissionais e mostra volumes enormes de capital circulando mesmo sem a empresa estar na bolsa. Para o mercado, é mais um indicador do valuation bilionário que a OpenAI sustenta.",
+    "reasonEn": "OpenAI reportedly completed a $7 billion employee tender offer. This type of deal lets employees sell part of their stakes, acting as a financial breather amid the fierce talent war in AI. The move reinforces the company's pressure to retain staff and shows enormous capital flowing even without being publicly listed. For the market, it's another indicator of the billion-dollar valuation OpenAI sustains.",
+    "score": 0.85,
+    "tags": [
+      "openai",
+      "negócio",
+      "valuation"
+    ],
+    "img": "img/bb2a7232b884.jpg",
+    "ts": 1786406598,
+    "addedTs": 1786410106,
+    "urlHash": "bb2a7232b884",
+    "titleHash": "df0d34745013"
+  },
+  {
+    "title": "Unifying Workers AI and AI Gateway into a Single AI Control Plane",
+    "titlePt": "Cloudflare unifica Workers AI e AI Gateway em um único plano",
+    "url": "https://blog.cloudflare.com/workers-ai-gateway-unification/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Cloudflare anunciou a fusão de seus serviços Workers AI e AI Gateway em uma plataforma única de controle de IA. A ideia é simplificar o gerenciamento de modelos executados na borda da rede. Para desenvolvedores, isso significa menos peças soltas para configurar e mais visibilidade sobre custos e desempenho. A mudança reflete a aposta da empresa em se tornar uma camada central de infraestrutura para aplicações com IA.",
+    "reasonEn": "Cloudflare announced the unification of its Workers AI and AI Gateway services into a single AI control plane. The goal is to simplify management of models running at the network edge. For developers, this means fewer loose pieces to configure and better visibility into cost and performance. The shift reflects the company's bet on becoming a core infrastructure layer for AI applications.",
+    "score": 0.6,
+    "tags": [
+      "cloudflare",
+      "infraestrutura",
+      "developer"
+    ],
+    "img": "img/009218646f3e.jpg",
+    "ts": 1786406506,
+    "addedTs": 1786410106,
+    "urlHash": "009218646f3e",
+    "titleHash": "81b8ee204df5"
+  },
+  {
+    "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+    "titlePt": "OpenAI lança modelo de cibersegurança em meio a ataques com IA",
+    "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A OpenAI anunciou um modelo dedicado à cibersegurança em um momento em que ataques conduzidos com IA se multiplicam. A empresa busca oferecer ferramentas que ajudem equipes de segurança a detectar e responder a ameaças mais sofisticadas. A novidade chega num cenário em que hackers já usam IA para automatizar invasões, tornando a defesa mais difícil. Para empresas e profissionais de segurança, é um novo recurso na corrida armamentista digital.",
+    "reasonEn": "OpenAI announced a model dedicated to cybersecurity at a time when AI-driven attacks are multiplying. The company aims to offer tools that help security teams detect and respond to more sophisticated threats. The launch comes as hackers already use AI to automate intrusions, making defense harder. For companies and security professionals, it's a new resource in the digital arms race.",
+    "score": 0.85,
+    "tags": [
+      "openai",
+      "segurança",
+      "ciberataque"
+    ],
+    "img": "img/0212f9770dda.jpg",
+    "ts": 1786406175,
+    "addedTs": 1786410106,
+    "urlHash": "0212f9770dda",
+    "titleHash": "1d15ed04cb2a"
+  },
+  {
+    "title": "Text AI watermarks will always be trivial to remove",
+    "titlePt": "Marcadores d'água em textos de IA serão sempre triviais de remover",
+    "url": "https://www.seangoedecke.com/text-ai-watermarks/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo argumenta que qualquer esquema de marca d'água em texto gerado por IA será facilmente burlável. Segundo a análise, basta pequenas paráfrases ou traduções para apagar o sinal identificador. Isso enfraquece propostas regulatórias que dependem de detecção automática de conteúdo sintético. Para desenvolvedores e policymakers, é um alerta realista sobre os limites da detecção textual.",
+    "reasonEn": "The article argues that any watermarking scheme on AI-generated text will be trivially bypassed. According to the analysis, small paraphrases or translations are enough to erase the identifying signal. This weakens regulatory proposals that rely on automatic synthetic content detection. For developers and policymakers, it's a realistic warning about the limits of textual detection.",
+    "score": 0.5,
+    "tags": [
+      "segurança",
+      "regulação",
+      "watermark"
+    ],
+    "img": "img/31cf910aff0f.jpg",
+    "ts": 1786403520,
+    "addedTs": 1786410106,
+    "urlHash": "31cf910aff0f",
+    "titleHash": "35e7cf45cd20"
+  },
+  {
     "title": "Nvidia AI Factory Compute Is Becoming an Investable Asset Class",
     "titlePt": "Compute de fábricas de IA da Nvidia vira classe de ativo para investidores",
     "url": "https://twitter.com/JensenHuang/status/2086934705207959965",
@@ -10706,93 +10794,5 @@
     "addedTs": 1785852112,
     "urlHash": "17e76c99d2d5",
     "titleHash": "9b3f0e9242f6"
-  },
-  {
-    "title": "AI slop pollutes the CVE pipeline with fake vulns",
-    "titlePt": "IA generativa entope o pipeline de CVEs com vulnerabilidades falsas",
-    "url": "https://www.theregister.com/security/2026/08/03/ai-slop-pollutes-the-cve-pipeline-with-fake-vulns/5282462",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O Hacker News destaca que a crescente onda de conteúdo gerado por IA está poluindo o sistema global de identificação de vulnerabilidades, o CVE. Pesquisadores e mantenedores precisam triar relatos falsos, o que atrasa correções reais e diminui a confiança no sistema. O problema afeta diretamente equipes de segurança que dependem dos CVEs para priorização de patches. É um sinal claro de que o ecossistema de segurança precisa de novos mecanismos de validação.",
-    "reasonEn": "Hacker News highlights that the wave of AI-generated content is polluting the global CVE vulnerability identification pipeline. Researchers and maintainers must triage false reports, which delays real fixes and erodes trust in the system. The issue directly affects security teams that rely on CVEs to prioritize patches. It is a clear sign that the security ecosystem needs new validation mechanisms.",
-    "score": 0.85,
-    "tags": [
-      "segurança",
-      "cve",
-      "spam"
-    ],
-    "img": "img/307a6ff4f647.jpg",
-    "ts": 1785851032,
-    "addedTs": 1785852112,
-    "urlHash": "307a6ff4f647",
-    "titleHash": "0679f4be894f"
-  },
-  {
-    "title": "I built an LLM debugger for fine-tuning failures",
-    "titlePt": "Criei um depurador de LLMs para falhas de fine-tuning",
-    "url": "https://github.com/gradian-ai/gradian",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um desenvolvedor apresentou no Hacker News uma ferramenta para diagnosticar problemas em modelos que passaram por ajuste fino. O depurador ajuda a identificar causas de degradação de qualidade, overfitting ou comportamento inesperado. É útil para times que rodam fine-tuning frequente e precisam entender rapidamente por que um modelo parou de funcionar bem.",
-    "reasonEn": "A developer shared on Hacker News a tool to diagnose issues in models that have gone through fine-tuning. The debugger helps identify causes of quality degradation, overfitting, or unexpected behavior. It is useful for teams running frequent fine-tuning who need to quickly understand why a model stopped working well.",
-    "score": 0.6,
-    "tags": [
-      "ferramenta",
-      "fine-tuning",
-      "depurador"
-    ],
-    "img": "img/cc14025c284e.jpg",
-    "ts": 1785850076,
-    "addedTs": 1785852112,
-    "urlHash": "cc14025c284e",
-    "titleHash": "9a0536709625"
-  },
-  {
-    "title": "Pdf-inspector: The rust-powered open-source PDF parser for AI",
-    "titlePt": "Pdf-inspector: parser de PDF em Rust, open source, feito para IA",
-    "url": "https://firecrawl.github.io/pdf-inspector/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um projeto open source em Rust chamado pdf-inspector foi divulgado para extrair e analisar conteúdo de PDFs de forma estruturada, voltado para pipelines de IA. O foco é desempenho e ausência de dependências pesadas, comum em alternativas Python. Pode acelerar fluxos de RAG, sumarização e auditoria de documentos em ambientes de produção.",
-    "reasonEn": "An open-source Rust project called pdf-inspector was released to extract and analyze PDF content in a structured way, aimed at AI pipelines. It focuses on performance and minimal heavy dependencies, which is uncommon in Python alternatives. It can speed up RAG, summarization, and document auditing workflows in production environments.",
-    "score": 0.5,
-    "tags": [
-      "rust",
-      "pdf",
-      "open-source"
-    ],
-    "img": "img/9ea5986f1b8b.jpg",
-    "ts": 1785850018,
-    "addedTs": 1785852112,
-    "urlHash": "9ea5986f1b8b",
-    "titleHash": "3e8661a29841"
-  },
-  {
-    "title": "vLLM Recipes",
-    "titlePt": "vLLM Recipes: receitas práticas para servir modelos",
-    "url": "https://recipes.vllm.ai",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Foi divulgado no Hacker News um repositório de receitas para o vLLM, engine de serving de modelos de linguagem usado em produção. O material cobre padrões de implantação, ajuste de batching e otimizações de memória. É uma leitura de alto valor para engenheiros que mantêm infraestrutura de inferência e querem reduzir custo por token.",
-    "reasonEn": "A repository of recipes for vLLM, a language model serving engine used in production, was shared on Hacker News. The material covers deployment patterns, batching tuning, and memory optimizations. It is high-value reading for engineers running inference infrastructure who want to reduce cost per token.",
-    "score": 0.6,
-    "tags": [
-      "vllm",
-      "inferência",
-      "open-source"
-    ],
-    "img": "img/a61c35222775.jpg",
-    "ts": 1785849347,
-    "addedTs": 1785852112,
-    "urlHash": "a61c35222775",
-    "titleHash": "5c07c7cbd26e"
   }
 ]
