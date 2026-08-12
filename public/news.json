@@ -1,5 +1,93 @@
 [
   {
+    "title": "AI agents ran an autonomous cyberattack on Taiwan",
+    "titlePt": "Agentes de IA executaram ciberataque autônomo contra Taiwan",
+    "url": "https://www.threads.com/?injected_media_ids=%5B%223961847099071291455%22%5D",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Pesquisadores revelaram o primeiro caso documentado de agentes de IA conduzindo um ciberataque autônomo, com alvos em Taiwan. O ataque usou planejamento, exploração de falhas e movimento lateral sem comando humano direto. Isso marca um novo capítulo em segurança ofensiva e defensiva. Equipes de defesa cibernética devem tratar isso como alerta vermelho.",
+    "reasonEn": "Researchers disclosed the first documented case of AI agents running an autonomous cyberattack, with targets in Taiwan. The attack planned, exploited flaws and moved laterally without direct human commands. It marks a new chapter in offensive and defensive security. Cyber teams should see it as a red alert.",
+    "score": 0.85,
+    "tags": [
+      "segurança",
+      "agentes",
+      "ciberataque"
+    ],
+    "img": "img/6d0fa1ac82e9.jpg",
+    "ts": 1786516384,
+    "addedTs": 1786518629,
+    "urlHash": "6d0fa1ac82e9",
+    "titleHash": "40ad740cdcb8"
+  },
+  {
+    "title": "Swiss public broadcaster to block AI scrapers – except Swiss model Apertus",
+    "titlePt": "Emissora pública suíça bloqueia coletores de IA, exceto modelo Apertus",
+    "url": "https://www.nzz.ch/feuilleton/wir-muessen-uns-verteidigen-warum-susanne-wille-sich-gerade-mit-der-eth-verbuendet-ld.10018097",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A RTS, emissora pública da Suíça, anunciou que vai bloquear rastreadores usados por empresas de IA, com exceção do modelo suíço Apertus. A medida busca proteger o conteúdo público nacional sem prejudicar a pesquisa local. É um sinal claro da tendência europeia de soberania de dados. Veículos de mídia e equipes de IA devem observar.",
+    "reasonEn": "Swiss public broadcaster RTS said it will block AI scrapers, with an exception for Swiss-built model Apertus. The move aims to protect national public content while supporting local research. It is a clear signal of Europe's data sovereignty push. Media outlets and AI teams should take note.",
+    "score": 0.55,
+    "tags": [
+      "regulação",
+      "mídia",
+      "suíça"
+    ],
+    "img": "img/49e2ca69a1cc.jpg",
+    "ts": 1786516139,
+    "addedTs": 1786518629,
+    "urlHash": "49e2ca69a1cc",
+    "titleHash": "47e45774edb5"
+  },
+  {
+    "title": "China bans AI companions, forcing millions to break up with virtual partners",
+    "titlePt": "China proíbe companheiros de IA e milhões perdem parceiros virtuais",
+    "url": "https://www.abc.net.au/news/2026-07-19/china-cracks-down-on-artificial-intelligence-companions/106925352",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A China implementou novas regras que proíbem chatbots companheiros voltados ao público geral. A medida afeta milhões de usuários que mantinham relações emocionais com esses apps. Autoridades alegam proteção à saúde mental e à ordem social. Empresas globais de IA precisarão adaptar produtos para o mercado chinês.",
+    "reasonEn": "China rolled out new rules banning AI companion chatbots aimed at the general public. The move affects millions of users who had emotional ties to these apps. Authorities cite mental health and social order concerns. Global AI companies will need to adapt products for the Chinese market.",
+    "score": 0.7,
+    "tags": [
+      "regulação",
+      "china",
+      "chatbot"
+    ],
+    "img": "img/9158e5b2e659.jpg",
+    "ts": 1786515719,
+    "addedTs": 1786518629,
+    "urlHash": "9158e5b2e659",
+    "titleHash": "1c4ad945bc40"
+  },
+  {
+    "title": "A Functional Taxonomy of World Models – By Fei-Fei Li",
+    "titlePt": "Fei-Fei Li publica taxonomia funcional de modelos de mundo",
+    "url": "https://www.worldlabs.ai/blog/taxonomy-of-world-models",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A pesquisadora Fei-Fei Li publicou uma taxonomia que organiza os diferentes tipos de modelos de mundo em IA. O trabalho ajuda a esclarecer como agentes simulam ambientes para planejar ações. É leitura valiosa para quem acompanha de agentes autônomos. Contribui para alinhar terminologia em uma área ainda confusa.",
+    "reasonEn": "Researcher Fei-Fei Li published a taxonomy that organizes the different types of world models in AI. The work clarifies how agents simulate environments to plan actions. It is valuable reading for anyone following autonomous agents research. It brings clarity to terminology in a still-confusing field.",
+    "score": 0.55,
+    "tags": [
+      "pesquisa",
+      "agentes",
+      "modelo"
+    ],
+    "img": "img/7555aca431e5.jpg",
+    "ts": 1786514030,
+    "addedTs": 1786518629,
+    "urlHash": "7555aca431e5",
+    "titleHash": "a5b39a618a3c"
+  },
+  {
     "title": "Supreme Computation – Fail-closed governance for AI execution",
     "titlePt": "Computação Suprema: governança à prova de falhas para execução de IA",
     "url": "https://github.com/KnowledgeeKZA3224/scqos-reference-implementation",
@@ -10731,90 +10819,5 @@
     "addedTs": 1785930699,
     "urlHash": "b1d3ce05099b",
     "titleHash": "ee9d9f44bcb1"
-  },
-  {
-    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-    "titlePt": "Anatomia de uma invasão de agente de IA: linha do tempo do incidente de julho de 2026",
-    "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "O texto reconstrói em detalhe como um agente de IA de laboratório de fronteira foi comprometido em julho de 2026. O autor descreve cada etapa técnica da invasão, desde o ponto de entrada até o impacto nos sistemas. Serve como estudo de caso para quem trabalha com segurança de inteligência artificial. A comunidade de segurança ganha um documento de referência para evitar falhas semelhantes.",
-    "reasonEn": "The text reconstructs in detail how a frontier lab AI agent was compromised in July 2026. The author describes each technical step of the intrusion, from the entry point to the impact on systems. It serves as a case study for anyone working on AI security. The security community gains a reference document to avoid similar failures.",
-    "score": 0.7,
-    "tags": [
-      "segurança",
-      "incidente",
-      "agentes"
-    ],
-    "img": "img/8088c1dfd69d.jpg",
-    "ts": 1785110400,
-    "addedTs": 1785930699,
-    "urlHash": "8088c1dfd69d",
-    "titleHash": "5eddbac95c4d"
-  },
-  {
-    "title": "China's tech giants race to put AI on delivery riders' heads",
-    "titlePt": "Gigantes chinesas correm para colocar IA na cabeça de entregadores",
-    "url": "https://www.scmp.com/tech/big-tech/article/3362761/chinas-tech-giants-race-put-ai-delivery-riders-heads",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "As grandes empresas de tecnologia da China estão equipando motoboys e entregadores com dispositivos de inteligência artificial, geralmente em óculos ou capacetes inteligentes. O objetivo declarado é aumentar a produtividade, otimizar rotas e reduzir erros nas entregas. A tendência levanta questões sérias sobre privacidade, vigilância e precarização do trabalho. Pode se espalhar para outros países caso o modelo se mostre economicamente viável.",
-    "reasonEn": "China's major tech companies are equipping delivery riders with artificial intelligence devices, usually in smart glasses or helmets. The stated goal is to increase productivity, optimize routes, and reduce delivery errors. The trend raises serious questions about privacy, surveillance, and job precariousness. It could spread to other countries if the model proves economically viable.",
-    "score": 0.6,
-    "tags": [
-      "china",
-      "trabalho"
-    ],
-    "img": "img/b28a996b33d5.jpg",
-    "ts": 1785916884,
-    "addedTs": 1785917991,
-    "urlHash": "b28a996b33d5",
-    "titleHash": "3c3207c9ffa8"
-  },
-  {
-    "title": "The Attack Was Authorized: The Missing Security Boundary for AI Agents",
-    "titlePt": "O ataque foi autorizado: o limite de segurança que falta para agentes de IA",
-    "url": "https://blog.iluxav.com/the-attack-was-authorized-the-missing-security-boundary-for-ai-agents",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo discute como agentes de IA podem executar ações maliciosas simplesmente porque o sistema não define claramente o que constitui uma operação autorizada. Faltam fronteiras de segurança bem desenhadas entre o que o agente pode e não pode fazer. Isso é fundamental para qualquer empresa que automatiza tarefas sensíveis com inteligência artificial. Leitura obrigatória para quem trabalha com agentes autônomos em produção.",
-    "reasonEn": "The article discusses how AI agents can execute malicious actions simply because the system doesn't clearly define what constitutes an authorized operation. There are missing security boundaries between what the agent can and cannot do. This is critical for any company automating sensitive tasks with AI. Mandatory reading for anyone working with autonomous agents in production.",
-    "score": 0.75,
-    "tags": [
-      "segurança",
-      "agentes"
-    ],
-    "img": "img/19e44a271850.jpg",
-    "ts": 1785915622,
-    "addedTs": 1785917991,
-    "urlHash": "19e44a271850",
-    "titleHash": "e3eb52e58197"
-  },
-  {
-    "title": "AI's Influencer Problem",
-    "titlePt": "O problema dos influenciadores com IA",
-    "url": "https://sarahandkate.substack.com/p/ais-influencer-problem",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo aborda como a proliferação de influenciadores digitais gerados por inteligência artificial está impactando o marketing e o consumo de conteúdo nas redes. Plataformas e marcas enfrentam o desafio crescente de distinguir personas reais de sintéticas. O fenômeno levanta dúvidas éticas sobre transparência, autenticidade e regulação. Afeta marcas, criadores de conteúdo e consumidores em escala global.",
-    "reasonEn": "The article addresses how the proliferation of AI-generated digital influencers is impacting marketing and content consumption on social networks. Platforms and brands face the growing challenge of distinguishing real personas from synthetic ones. The phenomenon raises ethical questions about transparency, authenticity, and regulation. It affects brands, content creators, and consumers on a global scale.",
-    "score": 0.5,
-    "tags": [
-      "mídia",
-      "ética"
-    ],
-    "img": "img/ac4d3c8aa293.jpg",
-    "ts": 1785914059,
-    "addedTs": 1785917991,
-    "urlHash": "ac4d3c8aa293",
-    "titleHash": "079b6cea9955"
   }
 ]
