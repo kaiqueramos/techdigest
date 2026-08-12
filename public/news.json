@@ -1,5 +1,202 @@
 [
   {
+    "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+    "titlePt": "Gestão de GPUs: por que GPUs ociosas são o novo problema de aviões parados",
+    "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo compara GPUs subutilizadas a aviões parados em terra: ambos representam capital caro sem gerar valor. Para times de engenharia e infraestrutura, ociosidade significa desperdício real em nuvem ou data center. Mostra que otimizar alocação de GPU virou prioridade, não detalhe. Vale para qualquer equipe rodando treinamento ou inferência em escala.",
+    "reasonEn": "The article compares idle GPUs to grounded aircraft — both are expensive assets that produce nothing. For engineering and infrastructure teams, GPU idle time is a real cost drain in cloud or on-prem setups. It argues that optimizing GPU allocation has become a priority, not a side concern. Useful reading for anyone running training or inference at scale.",
+    "score": 0.65,
+    "tags": [
+      "infra",
+      "gpu",
+      "custos"
+    ],
+    "img": "img/859cdcef3df0.jpg",
+    "ts": 1786496698,
+    "addedTs": 1786496944,
+    "urlHash": "859cdcef3df0",
+    "titleHash": "e3fcab220175"
+  },
+  {
+    "title": "Xirp – Spotify's macOS app for running AI coding agents",
+    "titlePt": "Xirp: app da Spotify para macOS roda agentes de código com IA",
+    "url": "https://xirp.spotify.com/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Spotify lançou o Xirp, um aplicativo para macOS dedicado a executar agentes de programação com IA. Surpreende que uma empresa de streaming esteja entrando no espaço de ferramentas para desenvolvedores. O movimento pode indicar aposta da Spotify em produtividade interna ou expansão para novos públicos. Developers macOS devem ficar de olho.",
+    "reasonEn": "Spotify launched Xirp, a macOS app dedicated to running AI coding agents. It's surprising to see a streaming company stepping into developer tooling territory. The move could signal Spotify betting on internal productivity or expanding to a new audience. macOS developers should keep an eye on it.",
+    "score": 0.5,
+    "tags": [
+      "spotify",
+      "ferramentas",
+      "dev"
+    ],
+    "img": "img/4e07d4316c72.jpg",
+    "ts": 1786496169,
+    "addedTs": 1786496944,
+    "urlHash": "4e07d4316c72",
+    "titleHash": "215e3dc369f6"
+  },
+  {
+    "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
+    "titlePt": "Saber nega troca de roteiristas por ChatGPT no Rideshare Stimulator",
+    "url": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "A desenvolvedora Saber publicou comunicado negando que tenha substituído roteiristas humanos pelo ChatGPT em seu jogo Rideshare Stimulator. Ação veio após rumores na comunidade. O caso reacende o debate sobre uso de IA em trabalhos criativos na indústria de jogos. Afeta diretamente autores e estúdios que dependem de escrita narrativa.",
+    "reasonEn": "Developer Saber issued a statement denying it replaced human writers with ChatGPT in its game Rideshare Stimulator. The denial came after community rumors. The case reignites the debate over AI use in creative work in the games industry. It directly affects writers and studios that rely on narrative writing.",
+    "score": 0.55,
+    "tags": [
+      "jogos",
+      "ética",
+      "trabalho"
+    ],
+    "img": "img/2d93b9c8f35a.jpg",
+    "ts": 1786495227,
+    "addedTs": 1786496944,
+    "urlHash": "2d93b9c8f35a",
+    "titleHash": "ff8416198c7d"
+  },
+  {
+    "title": "Self-contained agents that self-organize",
+    "titlePt": "Agentes autocontidos que se auto-organizam",
+    "url": "https://antigma.ai/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Pesquisa mostra que agentes de IA podem funcionar de forma independente e se coordenar sem controle central. A ideia lembra enxames ou sistemas distribuídos. Pode mudar a forma como arquitetamos sistemas multiagente. Importante para quem estuda ou constrói agentes em produção.",
+    "reasonEn": "Research shows AI agents can operate independently and coordinate without central control. The idea resembles swarms or distributed systems. It could change how we architect multi-agent systems. Important for anyone studying or building agents in production.",
+    "score": 0.55,
+    "tags": [
+      "agentes",
+      "pesquisa"
+    ],
+    "img": "img/f161490b025b.jpg",
+    "ts": 1786493479,
+    "addedTs": 1786496944,
+    "urlHash": "f161490b025b",
+    "titleHash": "f19f282676b4"
+  },
+  {
+    "title": "Open AI models hacked into HuggingFace",
+    "titlePt": "Modelos abertos de IA hackeados no Hugging Face",
+    "url": "https://www.instagram.com/p/DbGS8_0FmKx/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Relatos indicam que modelos de IA de código aberto foram adulterados no Hugging Face, possivelmente incluindo backdoors ou pesos modificados. O episódio alerta para a cadeia de confiança em repositórios públicos de modelos. Desenvolvedores que baixam pesos precisam verificar integridade. É mais um caso de segurança na cadeia de suprimentos de IA.",
+    "reasonEn": "Reports indicate open-weight AI models were tampered with on Hugging Face, possibly including backdoors or altered weights. The episode warns about trust in public model repositories. Developers downloading weights should verify integrity. It's another supply chain security incident in AI.",
+    "score": 0.65,
+    "tags": [
+      "segurança",
+      "huggingface",
+      "modelo"
+    ],
+    "img": "img/c37d63d20a90.jpg",
+    "ts": 1786492447,
+    "addedTs": 1786496944,
+    "urlHash": "c37d63d20a90",
+    "titleHash": "b9fe49bc6513"
+  },
+  {
+    "title": "LLM Model-Swapping Trick Can Expose AI Reasoning Traces",
+    "titlePt": "Truque de trocar modelo em LLM pode expor raciocínio interno",
+    "url": "https://ai-updates.net/model-swapping-exposes-ai-reasoning-traces/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Pesquisadores descobriram que alternar modelos em tempo de execução pode revelar rastros de raciocínio que deveriam ficar ocultos. A técnica levanta preocupações de segurança e privacidade em sistemas multi-modelo. Desenvolvedores que usam roteamento de modelos devem revisar implantações. É um alerta relevante para quem confia em separação rígida entre modelos.",
+    "reasonEn": "Researchers found that swapping models at runtime can reveal reasoning traces that should stay hidden. The technique raises security and privacy concerns in multi-model systems. Developers using model routing should review deployments. It's a relevant warning for anyone relying on strict separation between models.",
+    "score": 0.7,
+    "tags": [
+      "segurança",
+      "llm",
+      "pesquisa"
+    ],
+    "img": "img/6c45f9ca94e6.jpg",
+    "ts": 1786489073,
+    "addedTs": 1786496944,
+    "urlHash": "6c45f9ca94e6",
+    "titleHash": "2c8663c75c4f"
+  },
+  {
+    "title": "TSMC Sales Jump 45% YoY on Strong AI Chip Demand but Investors Shrug",
+    "titlePt": "Vendas da TSMC saltam 45% com demanda de chips de IA, mas mercado reage frio",
+    "url": "https://www.investors.com/news/technology/tsm-stock-tsmc-july-sales-sox-index/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A TSMC reportou alta de 45% nas vendas anuais impulsionada por chips para IA, mas investidores não se animaram com os números. O resultado confirma a força da demanda por hardware de IA, mas sugere preocupação com valuations. Importante para entender o ciclo de investimento em semicondutores. Empresas de IA dependem diretamente da capacidade da TSMC.",
+    "reasonEn": "TSMC reported 45% year-over-year sales growth driven by AI chips, but investors shrugged at the numbers. The result confirms strong demand for AI hardware, but hints at valuation worries. Important to understand the semiconductor investment cycle. AI companies depend directly on TSMC capacity.",
+    "score": 0.7,
+    "tags": [
+      "chips",
+      "mercado",
+      "tsmc"
+    ],
+    "img": "img/4cc53340a04a.jpg",
+    "ts": 1786488710,
+    "addedTs": 1786496944,
+    "urlHash": "4cc53340a04a",
+    "titleHash": "8b91f86eca00"
+  },
+  {
+    "title": "Anthropic Posts 'How Claude Marks AI-Generated Content' Without Explaining How",
+    "titlePt": "Anthropic explica como Claude marca conteúdo de IA, mas sem dizer como",
+    "url": "https://daringfireball.net/linked/2026/08/11/anthropic-claude-watermarks",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Anthropic publicou um post sobre como Claude identifica textos gerados por IA, mas não revelou os detalhes técnicos da marca d'água. A falta de transparência levanta dúvidas sobre verificação independente. Desenvolvedores e pesquisadores querem saber se a marca é confiável. É mais um capítulo da discussão sobre autenticidade de conteúdo.",
+    "reasonEn": "Anthropic published a post on how Claude flags AI-generated text, but didn't reveal the technical details of the watermark. The lack of transparency raises doubts about independent verification. Developers and researchers want to know if the marker is reliable. It's another chapter in the conversation about content authenticity.",
+    "score": 0.7,
+    "tags": [
+      "anthropic",
+      "transparência",
+      "conteúdo"
+    ],
+    "img": "img/1c85da99ec96.jpg",
+    "ts": 1786487445,
+    "addedTs": 1786496944,
+    "urlHash": "1c85da99ec96",
+    "titleHash": "ea85ff6fe7f6"
+  },
+  {
+    "title": "Anthropic says it will watermark text generated by its AI models",
+    "titlePt": "Anthropic anuncia marca d'água invisível para textos gerados por IA",
+    "url": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A Anthropic disse que vai adicionar marcas d'água invisíveis a textos gerados por seus modelos de IA. A tecnologia permite identificar conteúdo produzido por IA mesmo após edições ou paráfrases. A medida visa combater desinformação e plágio acadêmico. Plataformas e educadores podem usar a marca para verificar autenticidade. A Anthropic ainda não detalhou prazos nem quais modelos serão afetados primeiro.",
+    "reasonEn": "Anthropic said it will add invisible watermarks to text generated by its AI models. The technology can identify AI-produced content even after edits or paraphrases. The move aims to fight misinformation and academic plagiarism. Platforms and educators can use the watermark to verify authenticity. Anthropic has not yet detailed timelines or which models will be affected first.",
+    "score": 0.85,
+    "tags": [
+      "antropica",
+      "marca-dagua",
+      "regulação"
+    ],
+    "img": "img/41ddd199683a.jpg",
+    "ts": 1786450427,
+    "addedTs": 1786496944,
+    "urlHash": "41ddd199683a",
+    "titleHash": "8068f19be889"
+  },
+  {
     "title": "Hacktoberfest 2026: Building with AI; not PRs",
     "titlePt": "Hacktoberfest 2026 foca em construir com IA em vez de pull requests",
     "url": "https://hacktoberfest.com/",
@@ -10614,203 +10811,5 @@
     "addedTs": 1785905837,
     "urlHash": "7f82860a617e",
     "titleHash": "69202aad0300"
-  },
-  {
-    "title": "America's Bet on AI – The winner takes it all. What if we lose?",
-    "titlePt": "A Aposta da América em IA: O Que Acontece se Perdermos?",
-    "url": "https://foreignpolicy.com/2026/08/04/united-states-artificial-intelligence-race-china-openai-anthropic-donald-trump-elon-musk/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo discute a estratégia dos Estados Unidos de concentrar investimentos em inteligência artificial, apostando que o vencedor levará tudo. A análise levanta riscos geopolíticos e econômicos caso essa estratégia falhe. O texto questiona se a aposta vale as possíveis consequências. É importante para entender o cenário global de IA.",
-    "reasonEn": "The article discusses the United States' strategy of concentrating investments in artificial intelligence, betting that the winner takes it all. The analysis raises geopolitical and economic risks should this strategy fail. The text questions whether the bet is worth the possible consequences. It's important for understanding the global AI landscape.",
-    "score": 0.6,
-    "tags": [
-      "geopolítica",
-      "estratégia",
-      "investimento"
-    ],
-    "img": "img/7f45c6ba7777.jpg",
-    "ts": 1785900265,
-    "addedTs": 1785905837,
-    "urlHash": "7f45c6ba7777",
-    "titleHash": "0c10b3ded5a2"
-  },
-  {
-    "title": "Google AI Studio exposed. Drive Trash is fake",
-    "titlePt": "Google AI Studio exposto: 'Lixeira do Drive' é falsa",
-    "url": "https://scored.co/c/News/p/1ATC9NarFD/google-drive-trash-is-just-a-vis/c",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um post no Hacker News revelou uma falha no Google AI Studio em que a função 'Lixeira do Drive' parece apagar arquivos, mas na verdade não remove os dados. Desenvolvedores que usam a plataforma podem ter informações sensíveis expostas sem perceber. O problema afeta quem confia na exclusão via Google Drive integrado ao serviço. Ainda não há comunicado oficial da Google explicando correção ou notificação aos usuários.",
-    "reasonEn": "A HackerNews post revealed a flaw in Google AI Studio where the 'Drive Trash' feature appears to delete files but does not actually remove the data. Developers using the platform may have sensitive information exposed without realizing it. The issue affects anyone relying on the integrated Google Drive deletion path. Google has not yet issued an official statement explaining a fix or notifying affected users.",
-    "score": 0.75,
-    "tags": [
-      "segurança",
-      "google",
-      "privacidade"
-    ],
-    "img": "img/9a71cb9dcb97.jpg",
-    "ts": 1785899181,
-    "addedTs": 1785905837,
-    "urlHash": "9a71cb9dcb97",
-    "titleHash": "e6aff2bf4eea"
-  },
-  {
-    "title": "SpaceX hit by surging AI costs as insiders prepare to sell their shares",
-    "titlePt": "SpaceX é atingida por custos crescentes de IA enquanto insiders preparam venda de ações",
-    "url": "https://www.nbcnews.com/business/business-news/spacex-earnings-surging-ai-costs-rcna590682",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A SpaceX enfrenta custos crescentes ligados a investimentos em inteligência artificial, segundo reportagem do Hacker News. Executivos e acionistas internos estariam se preparando para vender papéis, sinalizando pressão financeira. A empresa, cada vez mais dependente de IA, vê suas margens serem comprimidas pelo alto custo de infraestrutura. O movimento pode antecipar uma rodada de captação ou reestruturação interna nos próximos meses.",
-    "reasonEn": "SpaceX is facing rising costs linked to its artificial intelligence investments, according to a HackerNews report. Executives and inside shareholders are reportedly preparing to sell shares, signaling financial pressure. The company, increasingly dependent on AI, is seeing margins squeezed by high infrastructure costs. The move could foreshadow a fundraising round or internal restructuring in the coming months.",
-    "score": 0.7,
-    "tags": [
-      "spacex",
-      "finanças",
-      "ia"
-    ],
-    "img": "img/af5a55575275.jpg",
-    "ts": 1785895959,
-    "addedTs": 1785905837,
-    "urlHash": "af5a55575275",
-    "titleHash": "b53038043163"
-  },
-  {
-    "title": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
-    "titlePt": "A Casa Branca mantém em segredo seu framework de cibersegurança em IA",
-    "url": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Casa Branca está mantendo em sigilo um framework de cibersegurança para inteligência artificial, segundo reportagem do Hacker News. O documento, que orientaria a proteção de sistemas críticos, não foi divulgado publicamente, gerando críticas de especialistas. A falta de transparência impede que empresas e desenvolvedores se preparem para novos padrões obrigatórios. A decisão levanta dúvidas sobre quem tem acesso ao conteúdo e como ele será aplicado.",
-    "reasonEn": "The White House is keeping an AI cybersecurity framework secret, according to a HackerNews report. The document, which would guide the protection of critical systems, has not been released publicly, drawing criticism from experts. The lack of transparency prevents companies and developers from preparing for new mandatory standards. The decision raises questions about who has access to the content and how it will be enforced.",
-    "score": 0.8,
-    "tags": [
-      "regulação",
-      "cibersegurança",
-      "casa-branca"
-    ],
-    "img": "img/837d0aace790.jpg",
-    "ts": 1785895222,
-    "addedTs": 1785905837,
-    "urlHash": "837d0aace790",
-    "titleHash": "6942229ef978"
-  },
-  {
-    "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-    "titlePt": "Como o GPT-5.6 une inteligência de fronteira com eficiência de fronteira",
-    "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A OpenAI publicou um artigo sobre o GPT-5.6, focando no equilíbrio entre capacidade avançada e custo computacional. O texto destaca melhorias de eficiência que reduzem consumo de tokens sem perder qualidade. Para desenvolvedores, isso significa APIs mais baratas e respostas mais rápidas. Os detalhes técnicos completos ainda estão sendo validados pela comunidade.",
-    "reasonEn": "OpenAI published an article about GPT-5.6, focusing on the balance between advanced capability and computational cost. The text highlights efficiency improvements that reduce token consumption without losing quality. For developers, this means cheaper APIs and faster responses. The full technical details are still being validated by the community.",
-    "score": 0.55,
-    "tags": [
-      "gpt",
-      "modelo",
-      "openai"
-    ],
-    "img": "img/eb71f165025c.jpg",
-    "ts": 1785283200,
-    "addedTs": 1785905837,
-    "urlHash": "eb71f165025c",
-    "titleHash": "559ecdda0149"
-  },
-  {
-    "title": "5 ways AI Mode in Search helps you enjoy the real world",
-    "titlePt": "5 formas como o Modo IA na Busca ajuda você a curtir o mundo real",
-    "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-    "source": "Google AI",
-    "sources": [
-      "Google AI"
-    ],
-    "reason": "O Google publicou uma lista de cinco usos do Modo IA em sua Busca, voltado para tarefas do cotidiano. Os exemplos incluem planejar viagens, traduzir menus e tirar dúvidas rápidas sobre locais. O recurso amplia a oferta da busca generativa para cenários offline e práticos. Usuários comuns se beneficiam mais do que desenvolvedores neste lançamento.",
-    "reasonEn": "Google published a list of five uses for AI Mode in Search, aimed at everyday tasks. Examples include planning trips, translating menus, and quickly answering questions about places. The feature expands the generative search offering to offline and practical scenarios. Everyday users benefit more than developers from this launch.",
-    "score": 0.5,
-    "tags": [
-      "google",
-      "busca",
-      "produto"
-    ],
-    "img": "img/dc323d8334b7.jpg",
-    "ts": 1785243600,
-    "addedTs": 1785905837,
-    "urlHash": "dc323d8334b7",
-    "titleHash": "a7db83a2df3e"
-  },
-  {
-    "title": "Launching Health in ChatGPT ",
-    "titlePt": "Lançamento da funcionalidade Saúde no ChatGPT",
-    "url": "https://openai.com/index/health-in-chatgpt",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A OpenAI lançou oficialmente a funcionalidade Saúde no ChatGPT, voltada para respostas sobre bem-estar e medicina. O recurso promete fontes confiáveis e maior cuidado com informações sensíveis. Profissionais de saúde devem monitorar como pacientes e o público geral vão usar a ferramenta. A entrada em mais um setor regulado traz desafios próprios de precisão e responsabilidade.",
-    "reasonEn": "OpenAI officially launched the Health feature in ChatGPT, aimed at wellness and medical responses. The feature promises reliable sources and greater care with sensitive information. Healthcare professionals should monitor how patients and the general public will use the tool. Entering yet another regulated sector brings its own challenges around accuracy and liability.",
-    "score": 0.7,
-    "tags": [
-      "chatgpt",
-      "saúde",
-      "lançamento"
-    ],
-    "img": "img/bf70d809f954.jpg",
-    "ts": 1784764800,
-    "addedTs": 1785905837,
-    "urlHash": "bf70d809f954",
-    "titleHash": "31f8c10085f9"
-  },
-  {
-    "title": "Building AI infrastructure with the Effingham County community",
-    "titlePt": "Construindo infraestrutura de IA com a comunidade do condado de Effingham",
-    "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A OpenAI anunciou parceria com a comunidade do condado de Effingham para construir infraestrutura de IA na região. O projeto envolve data centers e treinamento local de mão de obra. Moradores e empresas locais devem sentir impacto econômico direto. É mais um passo da empresa em ancorar sua expansão física em comunidades específicas dos EUA.",
-    "reasonEn": "OpenAI announced a partnership with the Effingham County community to build AI infrastructure in the region. The project involves data centers and local workforce training. Local residents and businesses should feel direct economic impact. It is another step in anchoring the company's physical expansion in specific US communities.",
-    "score": 0.5,
-    "tags": [
-      "infraestrutura",
-      "openai",
-      "comunidade"
-    ],
-    "img": "img/082c4173c70b.jpg",
-    "ts": 1784725200,
-    "addedTs": 1785905837,
-    "urlHash": "082c4173c70b",
-    "titleHash": "e1574fcf2e93"
-  },
-  {
-    "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
-    "titlePt": "IPOs de energia disparam enquanto investidores buscam surfar no boom da IA",
-    "url": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
-    "source": "Ars Technica",
-    "sources": [
-      "Ars Technica"
-    ],
-    "reason": "A Ars Technica reporta que ofertas iniciais de ações de empresas de energia estão em alta, impulsionadas pelo apetite de investidores que querem exposição ao boom da IA. Empresas de energia elétrica e data centers são as mais procuradas. O movimento indica rotação setorial em Wall Street. Investidores e profissionais de finanças devem acompanhar o efeito sobre valuation de utilities.",
-    "reasonEn": "Ars Technica reports that initial public offerings of energy companies are surging, driven by investor appetite for exposure to the AI boom. Power and data center companies are the most sought after. The move indicates sector rotation on Wall Street. Investors and finance professionals should track the effect on utilities valuations.",
-    "score": 0.6,
-    "tags": [
-      "energia",
-      "ipo",
-      "finanças"
-    ],
-    "img": "img/09cf494e1505.jpg",
-    "ts": 1784216901,
-    "addedTs": 1785905837,
-    "urlHash": "09cf494e1505",
-    "titleHash": "18881a43c015"
   }
 ]
