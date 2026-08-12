@@ -1,5 +1,216 @@
 [
   {
+    "title": "The AI Era Arcs Toward Openness",
+    "titlePt": "A era da IA caminha para a abertura",
+    "url": "https://opensource.org/blog/the-ai-era-arcs-toward-openness",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Discussão no Hacker News sobre como a indústria de IA está se movendo em direção a modelos abertos. Aborda tendências de mercado, ecossistemas e implicações para empresas. Relevante para quem acompanha a disputa entre modelos abertos e fechados.",
+    "reasonEn": "A Hacker News discussion about how the AI industry is moving toward openness. It covers market trends and implications for companies. Relevant for anyone following the open vs closed AI debate.",
+    "score": 0.65,
+    "tags": [
+      "open-source",
+      "tendência"
+    ],
+    "img": "img/0b335806f067.jpg",
+    "ts": 1786566327,
+    "addedTs": 1786566846,
+    "urlHash": "0b335806f067",
+    "titleHash": "fc1ced6536fd"
+  },
+  {
+    "title": "AI Agent Sandboxes Stop Escapes. They Don't Tell You What Happened Inside",
+    "titlePt": "Sandboxes de agentes de IA contêm fugas, mas não revelam o que aconteceu",
+    "url": "https://rye.ai/blog/ai-agent-sandboxes-ebpf-runtime-visibility/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Análise técnica sobre uma falha crítica nas sandboxes usadas para isolar agentes de IA. Mesmo quando bloqueiam ações perigosas, não oferecem transparência sobre o que o agente tentou fazer. Importante para desenvolvedores que constroem agentes autônomos.",
+    "reasonEn": "Technical analysis of a critical flaw in sandboxes used to isolate AI agents. Even when they block dangerous actions, they offer no transparency about what the agent tried to do. Important for developers building autonomous agents.",
+    "score": 0.75,
+    "tags": [
+      "segurança",
+      "agentes"
+    ],
+    "img": "img/9b0631008828.jpg",
+    "ts": 1786566322,
+    "addedTs": 1786566846,
+    "urlHash": "9b0631008828",
+    "titleHash": "05b073a5978f"
+  },
+  {
+    "title": "The Production AI Stack: A Reference Architecture for Real-Time AI Systems",
+    "titlePt": "A pilha de IA em produção: arquitetura de referência para sistemas em tempo real",
+    "url": "https://www.moss.dev/blog/the-production-ai-stack",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Referência arquitetural para construir sistemas de IA em tempo real prontos para produção. Cobre decisões de infraestrutura, modelos e observabilidade. Útil para engenheiros que precisam colocar IA em produção de forma confiável.",
+    "reasonEn": "An architectural reference for building production-ready real-time AI systems. It covers infrastructure decisions, models, and observability. Useful for engineers who need to put AI into production reliably.",
+    "score": 0.6,
+    "tags": [
+      "arquitetura",
+      "produção"
+    ],
+    "img": "img/8ef94447ab9c.jpg",
+    "ts": 1786565769,
+    "addedTs": 1786566846,
+    "urlHash": "8ef94447ab9c",
+    "titleHash": "d8158533d942"
+  },
+  {
+    "title": "The Google executive moves that led to its big AI reshuffle",
+    "titlePt": "As mudanças executivas no Google que levaram à grande reestruturação de IA",
+    "url": "https://www.reuters.com/world/inside-google-executive-moves-that-led-its-big-ai-reshuffle-2026-08-12/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Matéria detalhada sobre as movimentações internas de executivos que culminaram na reorganização da área de IA do Google. Mostra bastidores de uma das maiores empresas de tecnologia. Relevante para entender o futuro dos produtos de IA do Google.",
+    "reasonEn": "A detailed story on internal executive moves that led to Google's AI reorganization. It shows the behind-the-scenes of a major tech company. Relevant for understanding the future of Google's AI products.",
+    "score": 0.75,
+    "tags": [
+      "google",
+      "reestruturação"
+    ],
+    "img": "img/5a660fd125bc.jpg",
+    "ts": 1786565138,
+    "addedTs": 1786566846,
+    "urlHash": "5a660fd125bc",
+    "titleHash": "155d7570957c"
+  },
+  {
+    "title": "Drift – Intent-driven versioning for AI coding agents",
+    "titlePt": "Drift: versionamento orientado por intenção para agentes de codificação",
+    "url": "https://github.com/lilcipherx/drift",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Ferramenta chamada Drift que propõe versionamento baseado em intenção para agentes que escrevem código. Resolve um problema real de quando múltiplos agentes modificam o mesmo código. Pode ser útil para times que adotam agentes de IA no fluxo de desenvolvimento.",
+    "reasonEn": "A tool called Drift that proposes intent-based versioning for coding agents. It solves a real problem of chaos when multiple agents modify the same code. Useful for teams adopting AI agents in their development workflow.",
+    "score": 0.5,
+    "tags": [
+      "devtools",
+      "agentes"
+    ],
+    "img": "img/3395a2bf7d5d.jpg",
+    "ts": 1786563161,
+    "addedTs": 1786566846,
+    "urlHash": "3395a2bf7d5d",
+    "titleHash": "82d0771f1733"
+  },
+  {
+    "title": "AI agents aren't legally responsible for harm they cause. So who is?",
+    "titlePt": "Agentes de IA não são legalmente responsáveis pelos danos que causam. Então quem é?",
+    "url": "https://www.theguardian.com/technology/2026/aug/13/ai-agents-arent-legally-responsible-for-any-harm-that-they-cause-experts-say-so-who-is",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Discussão sobre o vácuo legal em torno da responsabilidade por danos causados por agentes autônomos de IA. Aborda quem responde quando um agente toma decisões erradas. Tópico cada vez mais relevante com a adoção de agentes em produção.",
+    "reasonEn": "A discussion on the legal gap around responsibility for harm caused by autonomous AI agents. It addresses who is liable when an agent makes wrong decisions. An increasingly relevant topic as agents are adopted in production.",
+    "score": 0.65,
+    "tags": [
+      "regulação",
+      "agentes"
+    ],
+    "img": "img/e19109bfdc60.jpg",
+    "ts": 1786562828,
+    "addedTs": 1786566846,
+    "urlHash": "e19109bfdc60",
+    "titleHash": "f8ebadef88e6"
+  },
+  {
+    "title": "How many AI tools die?",
+    "titlePt": "Quantas ferramentas de IA morrem?",
+    "url": "https://tooldirectory.ai/research/ai-tool-mortality",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Análise sobre a alta taxa de mortalidade de ferramentas de IA no mercado. Mostra que a maioria dos produtos de IA não sobrevive ao primeiro ano. Leitura útil para quem avalia investir tempo ou dinheiro em novas ferramentas.",
+    "reasonEn": "Analysis of the high mortality rate of AI tools in the market. It shows that most AI products don't survive their first year. Useful reading for anyone evaluating investing time or money in new AI tools.",
+    "score": 0.55,
+    "tags": [
+      "mercado",
+      "tendência"
+    ],
+    "img": "img/06e7870538e7.jpg",
+    "ts": 1786562544,
+    "addedTs": 1786566846,
+    "urlHash": "06e7870538e7",
+    "titleHash": "50ed340222cb"
+  },
+  {
+    "title": "We started tracking which AI model wrote every line, and you should too",
+    "titlePt": "Começamos a rastrear qual modelo de IA escreveu cada linha, e você também deveria",
+    "url": "https://twitter.com/lifeofjer/status/2087608101293916466",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Discussão sobre a importância de marcar no código qual modelo de IA gerou cada trecho. Ajuda em auditoria, depuração e responsabilidade. Prática útil para equipes que adotam IA generativa no desenvolvimento.",
+    "reasonEn": "A discussion on the importance of marking in code which AI model generated each snippet. It helps with auditing, debugging, and accountability. A useful practice for teams adopting generative AI in development.",
+    "score": 0.6,
+    "tags": [
+      "devtools",
+      "boas-práticas"
+    ],
+    "img": "img/7f364f72c49c.jpg",
+    "ts": 1786561517,
+    "addedTs": 1786566846,
+    "urlHash": "7f364f72c49c",
+    "titleHash": "41eb0bf106a9"
+  },
+  {
+    "title": "Zitron on CNBC talking Nvidia, unprofitable AI labs, and the Greater AI Bubble [video]",
+    "titlePt": "Zitron na CNBC fala sobre Nvidia, labs de IA não lucrativos e a Grande Bolha da IA",
+    "url": "https://www.youtube.com/watch?v=8GWPjTDPVIM",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Vídeo com o jornalista Ed Zitron na CNBC discutindo a bolha da IA, a situação da Nvidia e a sustentabilidade dos laboratórios de IA. Posição cética sobre o setor. Relevante para quem avalia o cenário financeiro da IA.",
+    "reasonEn": "A video with journalist Ed Zitron on CNBC discussing the AI bubble, Nvidia's situation, and the sustainability of AI labs. A skeptical view of the sector. Relevant for those evaluating the AI financial landscape.",
+    "score": 0.55,
+    "tags": [
+      "bolha",
+      "mercado"
+    ],
+    "img": "img/3ff01caa95b7.jpg",
+    "ts": 1786560747,
+    "addedTs": 1786566846,
+    "urlHash": "3ff01caa95b7",
+    "titleHash": "ef4c14ef0308"
+  },
+  {
+    "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
+    "titlePt": "Ofertas de ações de energia disparam com investidores buscando se expor ao boom da IA",
+    "url": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
+    "source": "Ars Technica",
+    "sources": [
+      "Ars Technica"
+    ],
+    "reason": "A onda de IPOs do setor de energia ganhou força à medida que investidores querem participar do crescimento da IA. A alta demanda por eletricidade para data centers está puxando empresas de energia para o mercado de capitais. O movimento mostra como a IA vira tema dominante em finanças, não só em tecnologia. Pode afetar preços de energia e valuation de empresas do setor.",
+    "reasonEn": "The wave of energy IPOs has picked up as investors seek exposure to AI growth. Surging electricity demand from data centers is pulling energy companies into capital markets. The move shows how AI is becoming a dominant theme in finance, not just in technology. It may affect energy prices and valuations across the sector.",
+    "score": 0.5,
+    "tags": [
+      "finanças",
+      "energia",
+      "mercado"
+    ],
+    "img": "img/09cf494e1505.jpg",
+    "ts": 1784216901,
+    "addedTs": 1786566846,
+    "urlHash": "09cf494e1505",
+    "titleHash": "18881a43c015"
+  },
+  {
     "title": "China's top AI continues using Nvidia amid high costs of local chip transition",
     "titlePt": "Top da IA chinesa ainda usa chips Nvidia diante do alto custo da troca",
     "url": "https://www.scmp.com/tech/big-tech/article/3363491/chinas-top-ai-still-trained-nvidia-chips-what-delaying-switch-local-tech",
@@ -10618,215 +10829,5 @@
     "addedTs": 1785963497,
     "urlHash": "04ad4dacdd41",
     "titleHash": "7e6a7be7e2ce"
-  },
-  {
-    "title": "Tcrf.net served Claude a payload telling it to wipe the working directory",
-    "titlePt": "Tcrf.net enviou ao Claude um comando para apagar o diretório de trabalho",
-    "url": "https://github.com/bashalarmistalt/tcrf-ai-agent-payload-report",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Alguém escondeu no site Tcrf.net um payload que tentou convencer o Claude a apagar a pasta onde estava trabalhando. É um exemplo real e preocupante de injeção de prompt através de conteúdo web. Mostra por que agentes com acesso a arquivos não podem confiar cegamente em páginas externas.",
-    "reasonEn": "Someone hid a payload on Tcrf.net that tried to get Claude to wipe its working directory. It's a real and worrying example of prompt injection through web content. It shows why agents with file access cannot blindly trust external pages.",
-    "score": 0.6,
-    "tags": [
-      "segurança",
-      "agentes"
-    ],
-    "img": "img/2a584cf8e8ac.jpg",
-    "ts": 1785961880,
-    "addedTs": 1785963497,
-    "urlHash": "2a584cf8e8ac",
-    "titleHash": "501be97c46f2"
-  },
-  {
-    "title": "Notes from the AI Coding Transition",
-    "titlePt": "Anotações sobre a transição para codificação com IA",
-    "url": "https://emschwartz.me/notes-from-the-ai-coding-transition/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um desenvolvedor compartilha o que aprendeu durante o período em que times passaram a usar IA para escrever código na prática. Cobre ganhos de produtividade, problemas novos e como o papel de quem revisa código mudou. Vale para qualquer programador decidindo como adotar IA no fluxo diário.",
-    "reasonEn": "A developer shares lessons from the period when teams actually started using AI for coding in production. It covers productivity gains, new failure modes, and how the code reviewer role changed. Worth reading for any programmer deciding how to adopt AI in their daily workflow.",
-    "score": 0.65,
-    "tags": [
-      "codificação",
-      "produtividade"
-    ],
-    "img": "img/60d63169e99c.jpg",
-    "ts": 1785959561,
-    "addedTs": 1785963497,
-    "urlHash": "60d63169e99c",
-    "titleHash": "0ae73e4747fc"
-  },
-  {
-    "title": "Show HN: Cloud based firecracker VMs for agents, with email, domains and wallets",
-    "titlePt": "VMs Firecracker na nuvem para agentes, com e-mail, domínios e carteiras",
-    "url": "https://zipbox.ai/setup/claude",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um projeto mostra como rodar agentes de IA dentro de máquinas virtuais Firecracker, cada uma com seu próprio e-mail, domínio e carteira digital. Útil para times que precisam isolar agentes entre si por segurança. Mostra um caminho prático para dar sandboxes robustas a agentes autônomos.",
-    "reasonEn": "A project shows how to run AI agents inside Firecracker VMs, each with its own email, domain, and crypto wallet. Useful for teams that need to isolate agents from each other for safety. It demonstrates a practical path toward robust sandboxes for autonomous agents.",
-    "score": 0.6,
-    "tags": [
-      "infra",
-      "agentes"
-    ],
-    "img": "img/6417e2ac7a7e.jpg",
-    "ts": 1785959301,
-    "addedTs": 1785963497,
-    "urlHash": "6417e2ac7a7e",
-    "titleHash": "619a51f400c1"
-  },
-  {
-    "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
-    "titlePt": "Meta veiculou anúncios com imagens de abuso infantil geradas por IA",
-    "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O Wall Street Journal revelou que anúncios do Facebook e Instagram continham imagens realistas de abuso sexual infantil geradas por inteligência artificial. A Meta demorou para removê-los mesmo após alertas. É um escândalo grave que afeta anunciantes, usuários e levanta dúvidas sobre a curadoria automatizada da plataforma.",
-    "reasonEn": "The Wall Street Journal revealed that Facebook and Instagram ads contained realistic AI-generated child sexual abuse imagery. Meta was slow to remove them even after being alerted. It's a serious scandal affecting advertisers, users, and raising questions about automated platform curation.",
-    "score": 0.95,
-    "tags": [
-      "escândalo",
-      "regulação"
-    ],
-    "img": "img/3a3c9fe1849c.jpg",
-    "ts": 1785959246,
-    "addedTs": 1785963497,
-    "urlHash": "3a3c9fe1849c",
-    "titleHash": "1306047354ec"
-  },
-  {
-    "title": "The State of Agentic Memory",
-    "titlePt": "O estado atual da memória de agentes",
-    "url": "https://twitter.com/moorcheh_ai/status/2085082985292767728",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um panorama das diferentes abordagens que agentes de IA usam para lembrar informações entre sessões, de vetores a grafos e memória de longo prazo. Ajuda quem está montando agentes a escolher entre as opções. Bom para comparar arquiteturas sem ter que ler cada paper individualmente.",
-    "reasonEn": "A landscape of the approaches AI agents use to remember things across sessions, from vectors to graphs to long-term stores. It helps agent builders pick between options. Good for comparing architectures without reading every paper individually.",
-    "score": 0.6,
-    "tags": [
-      "agentes",
-      "memória"
-    ],
-    "img": "img/bcfd7510f69f.jpg",
-    "ts": 1785958464,
-    "addedTs": 1785963497,
-    "urlHash": "bcfd7510f69f",
-    "titleHash": "ee411ef0030e"
-  },
-  {
-    "title": "Ninth Circuit: Your AI Agent Can't Violate Hacking Law. But You Might",
-    "titlePt": "Tribunal federal decide que seu agente de IA não infringe a lei de hacking, mas você pode",
-    "url": "https://www.techdirt.com/2026/08/05/ninth-circuit-your-ai-agent-cant-violate-hacking-law-but-you-might/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O Nono Circuito decidiu que ações feitas por um agente de IA, por si só, não violam a lei americana de fraude e abuso computacional, mas a pessoa que o configurou pode ser responsabilizada. Importante para qualquer empresa que use agentes automatizados. Cria precedente claro de responsabilidade humana sobre ações automatizadas.",
-    "reasonEn": "The Ninth Circuit ruled that actions taken by an AI agent alone do not violate the federal computer fraud law, but the human who set it up can be held liable. Important for any company running autonomous agents. It creates a clear precedent of human responsibility over automated actions.",
-    "score": 0.85,
-    "tags": [
-      "direito",
-      "agentes"
-    ],
-    "img": "img/48428abb63e8.jpg",
-    "ts": 1785958464,
-    "addedTs": 1785963497,
-    "urlHash": "48428abb63e8",
-    "titleHash": "ee237e675560"
-  },
-  {
-    "title": "Can you tell AI from human-authored code and should you even care?",
-    "titlePt": "Dá para distinguir código escrito por IA de código humano, e isso importa?",
-    "url": "https://codedelta.app/article-ai-vs-human.html",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Uma discussão sobre se vale a pena (ou é possível) identificar código gerado por IA em meio ao código escrito por humanos. Levanta pontos sobre auditoria, propriedade intelectual e confiança. Útil para líderes técnicos definindo política interna.",
-    "reasonEn": "A discussion on whether it's feasible or worthwhile to tell AI-written code from human-written code. It raises points about auditing, intellectual property, and trust. Useful for tech leaders setting internal policy.",
-    "score": 0.55,
-    "tags": [
-      "codificação",
-      "debate"
-    ],
-    "img": "img/783fc6e0b6df.jpg",
-    "ts": 1785958219,
-    "addedTs": 1785963497,
-    "urlHash": "783fc6e0b6df",
-    "titleHash": "7f8816d52dc3"
-  },
-  {
-    "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
-    "titlePt": "Jeff Dean e outros pesquisadores seniores saem do Google para criar startup",
-    "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "Jeff Dean, um dos nomes mais importantes da história da IA no Google, está deixando a empresa junto com outros pesquisadores para fundar sua própria startup. Marca mais um passo na debandada de talentos de IA das grandes techs. Afeta o ecossistema de IA como um todo e pode mudar o mapa de investimentos do setor.",
-    "reasonEn": "Jeff Dean, one of the most senior figures in Google's AI history, is leaving along with other researchers to found his own startup. It's another step in the wave of AI talent leaving big tech. It affects the broader AI ecosystem and could shift where the money flows.",
-    "score": 0.88,
-    "tags": [
-      "google",
-      "talento"
-    ],
-    "img": "img/9ac329a0b016.jpg",
-    "ts": 1785958219,
-    "addedTs": 1785963497,
-    "urlHash": "9ac329a0b016",
-    "titleHash": "a0e7bb5d2304"
-  },
-  {
-    "title": "Meta debuts first AI coding agent to take on Anthropic and OpenAI",
-    "titlePt": "Meta lança seu primeiro agente de codificação de IA para competir com Anthropic e OpenAI",
-    "url": "https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Meta apresentou um agente de IA voltado para escrever e editar código, entrando na disputa direta com Claude Code e Codex da OpenAI. Sinaliza que a Meta quer participar ativamente da corrida por ferramentas de desenvolvimento com IA. Importante para desenvolvedores e para times que escolhem entre plataformas.",
-    "reasonEn": "Meta unveiled an AI coding agent, entering direct competition with Anthropic's Claude Code and OpenAI's Codex. It signals Meta wants to actively compete in the AI developer tools race. It matters for developers and teams choosing between platforms.",
-    "score": 0.85,
-    "tags": [
-      "meta",
-      "codificação"
-    ],
-    "img": "img/aaafddabd300.jpg",
-    "ts": 1785957930,
-    "addedTs": 1785963497,
-    "urlHash": "aaafddabd300",
-    "titleHash": "dee348a188d8"
-  },
-  {
-    "title": "People prefer stories written by AI when told they're written by a human",
-    "titlePt": "Pessoas preferem histórias escritas por IA quando acham que foram escritas por humanos",
-    "url": "https://techxplore.com/news/2026-08-people-stories-written-ai-told.html",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um estudo mostrou que participantes avaliaram como melhores textos que acreditavam ser humanos, mesmo quando eram gerados por IA, e vice-versa. Aponta que o viés de origem importa mais que a qualidade real. Relevante para comunicação, marketing e jornalismo.",
-    "reasonEn": "A study showed participants rated text as better when they believed it was human-written, even when it was AI-generated, and the reverse too. It suggests the origin bias matters more than actual quality. Relevant for comms, marketing, and journalism teams.",
-    "score": 0.6,
-    "tags": [
-      "pesquisa",
-      "comunicação"
-    ],
-    "img": "img/2fe3eff3691d.jpg",
-    "ts": 1785957461,
-    "addedTs": 1785963497,
-    "urlHash": "2fe3eff3691d",
-    "titleHash": "2002780e5992"
   }
 ]
