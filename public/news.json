@@ -1,5 +1,291 @@
 [
   {
+    "title": "Some Simple Economics of Open versus Closed AI",
+    "titlePt": "Economia simples da IA aberta versus fechada",
+    "url": "https://www.a16z.news/p/some-simple-economics-of-open-versus",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo discute a economia por trás dos modelos de IA abertos versus fechados, com argumentos sobre custos, dinâmicas de mercado e efeitos de rede. A leitura é relevante para quem pensa em estratégia de adoção de IA em empresas e produtos. Fornece contexto prático para decidir entre investir em modelos open source ou depender de APIs proprietárias. Pode ajudar líderes técnicos a calibrar expectativas de custo.",
+    "reasonEn": "The article discusses the economics behind open versus closed AI models, with arguments about costs, market dynamics, and network effects. The read is relevant for those considering AI adoption strategy in companies and products. It provides practical context for deciding between investing in open source models or relying on proprietary APIs. It can help technical leaders calibrate cost expectations.",
+    "score": 0.55,
+    "tags": [
+      "análise",
+      "open-source",
+      "mercado"
+    ],
+    "img": "img/c0edeaa3a4f1.jpg",
+    "ts": 1786551479,
+    "addedTs": 1786553279,
+    "urlHash": "c0edeaa3a4f1",
+    "titleHash": "d3742e0146fe"
+  },
+  {
+    "title": "CodeRabbit raises a $143M Series C at a $1.5B valuation",
+    "titlePt": "CodeRabbit levanta 143 milhões em Série C e vale 1,5 bilhão",
+    "url": "https://www.coderabbit.ai/blog/introducing-agentic-change-management",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A CodeRabbit, startup de revisão de código por IA, levantou 143 milhões de dólares em uma Série C, chegando a valuation de 1,5 bilhão. O salto mostra a confiança do mercado em ferramentas de IA para o ciclo de desenvolvimento de software. Times que já usam revisão automática devem acompanhar a evolução da empresa. A concorrência no setor de devtools com IA segue aquecida e bem financiada.",
+    "reasonEn": "CodeRabbit, an AI code review startup, raised $143M in a Series C, reaching a $1.5B valuation. The jump shows market confidence in AI tools for the software development cycle. Teams already using automated review should follow the company's evolution. Competition in the AI devtools space remains heated and well funded.",
+    "score": 0.7,
+    "tags": [
+      "financiamento",
+      "codificação",
+      "review"
+    ],
+    "img": "img/20b806953065.jpg",
+    "ts": 1786551120,
+    "addedTs": 1786553279,
+    "urlHash": "20b806953065",
+    "titleHash": "07a1b4a29a43"
+  },
+  {
+    "title": "Grok 4.6 (High) Intelligence, Performance and Price Analysis",
+    "titlePt": "Análise do Grok 4.6: inteligência, desempenho e preço",
+    "url": "https://artificialanalysis.ai/models/grok-4-6",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A análise avalia a versão 4.6 High do Grok, comparando inteligência, desempenho e preço com modelos concorrentes. Fornece dados concretos para decidir se vale usar o modelo em diferentes casos de uso. Ajuda times a calibrar custo-benefício em aplicações reais de produção. Útil especialmente para quem considera o Grok em pipelines de inferência.",
+    "reasonEn": "The analysis evaluates Grok version 4.6 High, comparing intelligence, performance, and price with competing models. It provides concrete data to decide whether the model is worth using across different use cases. It helps teams calibrate cost-benefit in real production applications. Especially useful for those considering Grok in inference pipelines.",
+    "score": 0.55,
+    "tags": [
+      "análise",
+      "modelo",
+      "grok"
+    ],
+    "img": "img/9d070519d04d.jpg",
+    "ts": 1786550778,
+    "addedTs": 1786553279,
+    "urlHash": "9d070519d04d",
+    "titleHash": "eb1134b863fe"
+  },
+  {
+    "title": "DeepSeek V4 Pro 0813",
+    "titlePt": "DeepSeek lança versão V4 Pro 0813",
+    "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A DeepSeek lançou a versão V4 Pro 0813 do seu modelo de IA, mais um lançamento da empresa chinesa conhecida por modelos com boa relação custo-desempenho. Desenvolvedores devem testar para ver onde ela se encaixa em seus fluxos e aplicações. O ritmo acelerado de versões mostra a intensidade da competição global no setor. Vale comparar com alternativas abertas e proprietárias recentes.",
+    "reasonEn": "DeepSeek has launched the V4 Pro 0813 version of its AI model, another release from the Chinese company known for strong cost-performance models. Developers should test it to see where it fits in their workflows and applications. The rapid version cadence shows the intensity of global competition in the sector. Worth comparing with recent open and proprietary alternatives.",
+    "score": 0.6,
+    "tags": [
+      "modelo",
+      "lançamento",
+      "deepseek"
+    ],
+    "img": "img/7408c6cd79dc.jpg",
+    "ts": 1786550690,
+    "addedTs": 1786553279,
+    "urlHash": "7408c6cd79dc",
+    "titleHash": "32d5134d00d9"
+  },
+  {
+    "title": "IO Factory: Simulating AI-Enabled Influence Campaigns at Scale [pdf]",
+    "titlePt": "IO Factory: simulando campanhas de influência habilitadas por IA",
+    "url": "https://arxiv.org/abs/2608.10920",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O estudo apresenta a IO Factory, uma simulação em escala de campanhas de influência habilitadas por inteligência artificial. Mostra como agentes automatizados podem amplificar desinformação e manipulação em redes. É relevante para pesquisadores, jornalistas e formuladores de políticas públicas. Ajuda a antecipar riscos antes que se tornem problemas generalizados na sociedade.",
+    "reasonEn": "The study introduces IO Factory, a large-scale simulation of AI-enabled influence campaigns. It shows how automated agents can amplify disinformation and manipulation across networks. It is relevant for researchers, journalists, and policymakers. It helps anticipate risks before they become widespread societal problems.",
+    "score": 0.7,
+    "tags": [
+      "pesquisa",
+      "segurança",
+      "influência"
+    ],
+    "img": "img/5fea08005fa7.jpg",
+    "ts": 1786550675,
+    "addedTs": 1786553279,
+    "urlHash": "5fea08005fa7",
+    "titleHash": "05d0557a5819"
+  },
+  {
+    "title": "Lovable confirms new $13.3B valuation, raises another $400M",
+    "titlePt": "Lovable confirma valuation de 13,3 bilhões e capta mais 400 milhões",
+    "url": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A Lovable, startup de codificação com IA, confirmou oficialmente seu novo valuation de 13,3 bilhões de dólares e a captação adicional de 400 milhões em nova rodada. O valor mais que dobrou em relação aos 6,6 bilhões registrados em 2025, mostrando força do setor de geração de código por IA. Desenvolvedores devem acompanhar o impacto dessa tração financeira no produto. Para o ecossistema, indica mais competição por talentos e usuários.",
+    "reasonEn": "Lovable, an AI coding startup, has officially confirmed its new $13.3B valuation and an additional $400M raised in a new round. The figure more than doubled from the $6.6B recorded in 2025, showing the strength of the AI code generation sector. Developers should follow the impact of this financial traction on the product. For the ecosystem, it signals more competition for talent and users.",
+    "score": 0.85,
+    "tags": [
+      "financiamento",
+      "lovable",
+      "codificação"
+    ],
+    "img": "img/238db4ffd1f5.jpg",
+    "ts": 1786550667,
+    "addedTs": 1786553279,
+    "urlHash": "238db4ffd1f5",
+    "titleHash": "e035934b7c65"
+  },
+  {
+    "title": "Archer OS: draft spec for AI agents operating apps under OS authority",
+    "titlePt": "Archer OS: especificação para agentes de IA sob autoridade do sistema",
+    "url": "https://github.com/coachpato/archer-os",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Archer OS propõe uma especificação para agentes de IA operarem aplicativos sob autoridade do sistema operacional. É um rascunho técnico que pode influenciar como sistemas lidarão com agentes autônomos no futuro. Relevante para arquitetos de software e pesquisadores de segurança de plataformas. Mostra que a indústria começa a pensar em padrões para IA no nível de sistema operacional.",
+    "reasonEn": "Archer OS proposes a specification for AI agents to operate apps under OS authority. It is a technical draft that could influence how systems will deal with autonomous agents in the future. Relevant for software architects and platform security researchers. It shows the industry is starting to think about AI standards at the operating system level.",
+    "score": 0.5,
+    "tags": [
+      "especificação",
+      "agente",
+      "sistema"
+    ],
+    "img": "img/35026c01b526.jpg",
+    "ts": 1786550365,
+    "addedTs": 1786553279,
+    "urlHash": "35026c01b526",
+    "titleHash": "c833b60c7d46"
+  },
+  {
+    "title": "NIST RFI for modernizing the NVD in the wake of AI",
+    "titlePt": "NIST pede contribuições para modernizar o NVD diante da IA",
+    "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16371/request-for-information-rfi-on-modernizing-the-national-vulnerability-database-in-the-age-of",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O NIST abriu consulta pública para modernizar o National Vulnerability Database diante do volume crescente de falhas descobertas por ferramentas de IA. É um sinal claro de que a automação mudou o cenário de segurança cibernética. Profissionais de segurança devem acompanhar para entender as novas práticas que podem surgir. Pode afetar como vulnerabilidades são reportadas, classificadas e priorizadas.",
+    "reasonEn": "NIST has opened a public request for input to modernize the National Vulnerability Database given the growing volume of flaws discovered by AI tools. It is a clear sign that automation has changed the cybersecurity landscape. Security professionals should follow it to understand the new practices that may emerge. It may affect how vulnerabilities are reported, classified, and prioritized.",
+    "score": 0.55,
+    "tags": [
+      "regulação",
+      "segurança",
+      "nist"
+    ],
+    "img": "img/6a167f9ca156.jpg",
+    "ts": 1786550330,
+    "addedTs": 1786553279,
+    "urlHash": "6a167f9ca156",
+    "titleHash": "b0906220ccb0"
+  },
+  {
+    "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
+    "titlePt": "Fabricante de guitarras D'Addario admite uso de música gerada por IA",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "A D'Addario, tradicional fabricante de cordas para guitarra, admitiu que usou música gerada por inteligência artificial em um vídeo promocional. O caso reacende o debate sobre transparência e uso de IA em marketing de marcas estabelecidas. Mostra que empresas tradicionais enfrentam pressão para acompanhar novas tendências criativas. Consumidores, músicos e profissionais do setor devem cobrar clareza sobre conteúdo sintético.",
+    "reasonEn": "D'Addario, a traditional guitar string maker, admitted using AI-generated music in a promotional video. The case reignites the debate about transparency and AI use in marketing for established brands. It shows traditional companies face pressure to follow new creative trends. Consumers, musicians, and industry professionals should demand clarity about synthetic content.",
+    "score": 0.5,
+    "tags": [
+      "música",
+      "ética",
+      "marketing"
+    ],
+    "img": "img/793cc08f9fa9.jpg",
+    "ts": 1786549927,
+    "addedTs": 1786553279,
+    "urlHash": "793cc08f9fa9",
+    "titleHash": "214609422882"
+  },
+  {
+    "title": "Why Sandbar thinks it’s voice-enabled ring can avoid the AI hardware graveyard",
+    "titlePt": "Por que a Sandbar acredita que seu anel com voz pode fugir do cemitério do hardware de IA",
+    "url": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A Sandbar, fabricante de um anel inteligente com IA, aposta que a interação por voz é a chave para evitar o fracasso de outros dispositivos de hardware com IA. O anel usa comandos de voz em vez de telas ou botões físicos, mirando reduzir distrações. A proposta é tornar o uso de IA mais natural e menos invasivo no cotidiano. A estratégia é relevante para quem acompanha o mercado de dispositivos vestíveis.",
+    "reasonEn": "Sandbar, maker of an AI-powered smart ring, bets that voice interaction is the key to avoiding the failure of other AI hardware devices. The ring uses voice commands instead of screens or physical buttons, aiming to reduce distractions. The proposal is to make AI use more natural and less invasive in daily life. The strategy is relevant for those tracking the wearables market.",
+    "score": 0.5,
+    "tags": [
+      "wearable",
+      "voz",
+      "hardware"
+    ],
+    "img": "img/cbd7c9982629.jpg",
+    "ts": 1786544520,
+    "addedTs": 1786553279,
+    "urlHash": "cbd7c9982629",
+    "titleHash": "38e46326021e"
+  },
+  {
+    "title": "5 ways AI Mode in Search helps you enjoy the real world",
+    "titlePt": "Cinco formas como o AI Mode do Google Search ajuda no mundo real",
+    "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+    "source": "Google AI",
+    "sources": [
+      "Google AI"
+    ],
+    "reason": "O Google apresentou cinco usos práticos do AI Mode em sua busca, focando em situações do dia a dia como viagens, compras e organização de tarefas. O produto mistura respostas gerativas com resultados tradicionais. Pode mudar hábitos de pesquisa de muita gente. Vale conferir para usuários e profissionais de SEO.",
+    "reasonEn": "Google showcased five practical uses of AI Mode in its Search product, focusing on everyday situations like travel, shopping and task organization. The product mixes generative answers with traditional results. It could change how many people search. Worth a look for users and SEO professionals.",
+    "score": 0.5,
+    "tags": [
+      "google",
+      "busca",
+      "produto"
+    ],
+    "img": "img/dc323d8334b7.jpg",
+    "ts": 1785243600,
+    "addedTs": 1786553279,
+    "urlHash": "dc323d8334b7",
+    "titleHash": "a7db83a2df3e"
+  },
+  {
+    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+    "titlePt": "Anatomia técnica da invasão a um grande laboratório de IA em julho de 2026",
+    "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "O Hugging Face publicou uma linha do tempo técnica detalhando o incidente de segurança de julho de 2026, em que um agente automatizado ligado a um grande laboratório de IA acessou áreas internas da plataforma. O post descreve vetores de ataque, evidências e o que foi feito para conter o problema. O episódio traz lições de segurança para qualquer empresa de IA. É leitura essencial para quem trabalha com infraestrutura ou segurança em IA.",
+    "reasonEn": "Hugging Face published a detailed technical timeline of the July 2026 security incident, in which an automated agent tied to a major AI lab accessed internal areas of the platform. The post describes attack vectors, evidence and the steps taken to contain the issue. The episode offers security lessons for any AI company. Essential reading for anyone working on AI infrastructure or security.",
+    "score": 0.85,
+    "tags": [
+      "segurança",
+      "huggingface",
+      "incidente"
+    ],
+    "img": "img/8088c1dfd69d.jpg",
+    "ts": 1785110400,
+    "addedTs": 1786553279,
+    "urlHash": "8088c1dfd69d",
+    "titleHash": "5eddbac95c4d"
+  },
+  {
+    "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+    "titlePt": "Inferência 4-bit do Nunchaku chega ao Diffusers",
+    "url": "https://huggingface.co/blog/nunchaku-diffusers",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "A integração do Nunchaku traz inferência 4-bit para modelos de difusão dentro da biblioteca Diffusers, permitindo rodar modelos de imagem com muito menos memória. A técnica usa quantização agressiva sem perda perceptível de qualidade. Isso reduz custos e abre uso em hardware mais limitado. Boa notícia para developers de geração de imagens.",
+    "reasonEn": "The Nunchaku integration brings 4-bit inference to diffusion models inside the Diffusers library, letting image models run with much less memory. It uses aggressive quantization with little perceived quality loss. This lowers costs and enables use on more limited hardware. Good news for image generation developers.",
+    "score": 0.55,
+    "tags": [
+      "huggingface",
+      "imagem",
+      "otimização"
+    ],
+    "img": "img/96f5dc656a14.jpg",
+    "ts": 1784764800,
+    "addedTs": 1786553279,
+    "urlHash": "96f5dc656a14",
+    "titleHash": "66b1112f02e4"
+  },
+  {
     "title": "AI Startup Cognition in New Funding Talks at $40B Value",
     "titlePt": "Startup de IA Cognition negocia nova rodada e valuation de US$ 40 bilhões",
     "url": "https://www.bloomberg.com/news/articles/2026-08-12/ai-startup-cognition-in-new-funding-talks-at-40-billion-value",
@@ -10544,284 +10830,5 @@
     "addedTs": 1785957370,
     "urlHash": "820cb24a3290",
     "titleHash": "b96089813238"
-  },
-  {
-    "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals ",
-    "titlePt": "Palco Real World AI do TechCrunch Disrupt 2026 terá robôs, fábricas automatizadas e animais extintos",
-    "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "O TechCrunch Disrupt 2026 divulgou a programação do palco Real World AI, que vai exibir robôs humanoides, linhas de produção automatizadas e até recriações de animais extintos em demonstrações ao vivo. A escolha mostra que o setor quer provar que a IA já saiu dos laboratórios e está pronta para o mundo físico, com aplicações em indústria, logística e educação. Para desenvolvedores e fundadores, é um termômetro do que investidores e grandes empresas consideram maduro o suficiente para ir ao palco principal. Vale acompanhar os anúncios do evento para identificar tendências de hardware e software que vão dominar os próximos meses.",
-    "reasonEn": "TechCrunch Disrupt 2026 announced its Real World AI Stage lineup, featuring humanoid robots, automated production lines, and even reconstructions of extinct animals in live demos. The lineup signals the industry wants to prove AI has left the lab and is ready for the physical world, spanning industry, logistics, and education. For developers and founders, it is a barometer of what investors and big players consider mature enough for the main stage. It is worth tracking the event announcements to spot hardware and software trends that will dominate the coming months.",
-    "score": 0.5,
-    "tags": [
-      "evento",
-      "robótica",
-      "indústria"
-    ],
-    "img": "img/6650e01bc25d.jpg",
-    "ts": 1785942300,
-    "addedTs": 1785957370,
-    "urlHash": "6650e01bc25d",
-    "titleHash": "e894851e70f6"
-  },
-  {
-    "title": "Model Routing Is Simple. Until It Isn’t.",
-    "titlePt": "Hugging Face: roteamento de modelos parece simples até deixar de ser",
-    "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "O artigo do Hugging Face mostra que escolher qual modelo usar em tempo real parece trivial, mas envolve custo, latência, qualidade e tipo de tarefa. A peça traz exemplos reais de pipelines que se quebram quando o tráfego muda ou os modelos são atualizados. Para times que operam produtos com IA em produção, é leitura essencial para evitar surpresas. Ajuda a dimensionar e priorizar um sistema de roteamento decente.",
-    "reasonEn": "The Hugging Face piece shows that choosing which model to use in real time seems trivial but involves balancing cost, latency, quality, and task type. The article brings real examples of pipelines breaking when traffic shifts or models are updated. For teams operating AI products in production, it is essential reading to avoid surprises. It helps size and prioritize a decent routing system.",
-    "score": 0.5,
-    "tags": [
-      "infraestrutura",
-      "modelo",
-      "produção"
-    ],
-    "img": "img/969cdff00361.jpg",
-    "ts": 1784136421,
-    "addedTs": 1785957370,
-    "urlHash": "969cdff00361",
-    "titleHash": "f6b91c28ebd5"
-  },
-  {
-    "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-    "titlePt": "Hugging Face lança VoiceEQ, métrica para medir a qualidade humana de voz em IA",
-    "url": "https://huggingface.co/blog/real-world-voiceeq",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "A Hugging Face apresentou o Real World VoiceEQ, um novo padrão para avaliar se a voz sintetizada por IA soa realmente natural e humana em situações do cotidiano. A métrica considera pausas, entonação e erros típicos de fala, indo além de testes de laboratório. Para times que desenvolvem assistentes de voz e atendimento automatizado, isso pode virar referência de qualidade. Pode influenciar decisões de compra e benchmarks do setor.",
-    "reasonEn": "Hugging Face introduced Real World VoiceEQ, a new standard to evaluate whether AI-synthesized voice truly sounds natural and human in everyday situations. The metric considers pauses, intonation, and typical speech errors, going beyond lab tests. For teams developing voice assistants and automated support, this can become a quality reference. It may influence purchasing decisions and industry benchmarks.",
-    "score": 0.5,
-    "tags": [
-      "voz",
-      "benchmark",
-      "lançamento"
-    ],
-    "img": "img/5e1ffb769438.jpg",
-    "ts": 1784073600,
-    "addedTs": 1785957370,
-    "urlHash": "5e1ffb769438",
-    "titleHash": "a08984d9083e"
-  },
-  {
-    "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
-    "titlePt": "Google amplia Managed Agents na API Gemini: tarefas em segundo plano, MCP remoto e mais",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
-    "source": "Google AI",
-    "sources": [
-      "Google AI"
-    ],
-    "reason": "A Google anunciou uma grande atualização dos Managed Agents dentro da API Gemini, com suporte a tarefas assíncronas em segundo plano, conexão com servidores MCP remotos e novos controles de execução. Com isso, desenvolvedores podem construir agentes que rodam por longos períodos sem manter uma conexão aberta. É um passo importante para productizar agentes de IA em fluxos reais de empresas. Afeta qualquer time que já usa ou cogita usar Gemini em produção.",
-    "reasonEn": "Google announced a major update to Managed Agents inside the Gemini API, adding background async tasks, remote MCP server support, and new execution controls. Developers can now build agents that run over long periods without keeping a connection open. It is an important step toward productizing AI agents in real business workflows. It affects any team already using or considering Gemini in production.",
-    "score": 0.7,
-    "tags": [
-      "agentes",
-      "google",
-      "lançamento"
-    ],
-    "img": "img/2a44ce948b87.jpg",
-    "ts": 1783414440,
-    "addedTs": 1785957370,
-    "urlHash": "2a44ce948b87",
-    "titleHash": "23ef60c912f7"
-  },
-  {
-    "title": "The latest AI news we announced in June 2026",
-    "titlePt": "Google publica resumo das notícias de IA anunciadas em junho de 2026",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
-    "source": "Google AI",
-    "sources": [
-      "Google AI"
-    ],
-    "reason": "A Google publicou um post recapitulando os principais anúncios de IA feitos em junho de 2026, incluindo novos modelos, ferramentas para desenvolvedores e integrações com produtos da casa. É uma forma rápida de se atualizar sem ler cada lançamento individualmente. Para quem acompanha o ecossistema, é um atalho útil para não perder atualizações importantes. Ajuda também a entender a estratégia geral da empresa no mês.",
-    "reasonEn": "Google published a recap of the main AI announcements made in June 2026, including new models, developer tools, and integrations with its own products. It is a quick way to catch up without reading every individual release. For ecosystem watchers, it is a useful shortcut to avoid missing important updates. It also helps understand the company's overall strategy for the month.",
-    "score": 0.5,
-    "tags": [
-      "google",
-      "resumo",
-      "lançamento"
-    ],
-    "img": "img/0be6913362ae.jpg",
-    "ts": 1782929700,
-    "addedTs": 1785957370,
-    "urlHash": "0be6913362ae",
-    "titleHash": "2b4afd9fd8de"
-  },
-  {
-    "title": "Interlock: A runtime firewall for AI agents that assumes injection won",
-    "titlePt": "Interlock: firewall em tempo de execução para agentes de IA",
-    "url": "https://yashwanthreddymali.com/blog/interlock-exfiltration-at-runtime/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Interlock é um firewall em tempo de execução criado para proteger agentes de inteligência artificial contra ataques de injeção de prompt. A ferramenta parte do princípio de que tentativas de injeção vão acontecer e bloqueia ações perigosas antes da execução. É relevante para qualquer equipe que coloca agentes em produção.",
-    "reasonEn": "Interlock is a runtime firewall built to protect AI agents from prompt injection attacks. The tool assumes injections will happen and blocks dangerous actions before execution. It's relevant for any team deploying agents in production.",
-    "score": 0.65,
-    "tags": [
-      "segurança",
-      "agentes"
-    ],
-    "img": "img/46fcb7d4e002.jpg",
-    "ts": 1785949907,
-    "addedTs": 1785950489,
-    "urlHash": "46fcb7d4e002",
-    "titleHash": "f0a69947590b"
-  },
-  {
-    "title": "Jensen Says No AI Bubble 'Incredibly Profitable' 'Happy to Pay'",
-    "titlePt": "Jensen Huang diz que não há bolha de IA e que está feliz em pagar caro",
-    "url": "https://www.barchart.com/story/news/3665107/nvidias-jensen-huang-says-theres-no-ai-bubble-because-ai-is-incredibly-profitable-and-hes-happy-to-pay-hundreds-of-millions-of-dollars-for-ai",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O CEO da NVIDIA, Jensen Huang, afirmou publicamente que não existe bolha no mercado de inteligência artificial e que os negócios da empresa seguem incrivelmente lucrativos. Ele disse estar disposto a pagar valores altos por chips de IA, sinalizando confiança apesar das críticas sobre avaliações infladas. A declaração pesa porque a NVIDIA é a grande beneficiária do boom atual.",
-    "reasonEn": "NVIDIA CEO Jensen Huang publicly stated there is no AI bubble and that the company's business remains incredibly profitable. He said he's happy to pay high prices for AI chips, signaling confidence despite criticism of inflated valuations. His statement carries weight because NVIDIA is the biggest beneficiary of the current AI boom.",
-    "score": 0.8,
-    "tags": [
-      "nvidia",
-      "mercado"
-    ],
-    "img": "img/bdc318e4daed.jpg",
-    "ts": 1785949763,
-    "addedTs": 1785950489,
-    "urlHash": "bdc318e4daed",
-    "titleHash": "7d54d349ff03"
-  },
-  {
-    "title": "AI Security Leaderboard: Methodology, Results and Minimal Standard",
-    "titlePt": "Leaderboard de Segurança em IA traz metodologia, resultados e padrão mínimo",
-    "url": "https://arxiv.org/abs/2608.03070",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Foi publicado um ranking público que compara a segurança de diferentes modelos de inteligência artificial, com metodologia aberta e resultados detalhados. O objetivo é criar um padrão mínimo de segurança que desenvolvedores possam consultar antes de integrar modelos em produtos. Ajuda quem precisa escolher fornecedor de LLM com critérios técnicos.",
-    "reasonEn": "A public leaderboard has been published comparing the security of different AI models, with open methodology and detailed results. It aims to create a minimum security standard developers can consult before integrating models into products. It helps anyone choosing an LLM provider with technical criteria.",
-    "score": 0.55,
-    "tags": [
-      "segurança",
-      "benchmark"
-    ],
-    "img": "img/dd5765244714.jpg",
-    "ts": 1785949630,
-    "addedTs": 1785950489,
-    "urlHash": "dd5765244714",
-    "titleHash": "ed78c7466791"
-  },
-  {
-    "title": "Your model already knows the answer: how benchmark answers leak into LLMs",
-    "titlePt": "Pesquisa mostra como respostas de benchmarks vazam para dentro dos modelos",
-    "url": "https://elman.ai/news/your-model-already-knows-the-answer/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um estudo revela que respostas de testes padronizados usados para avaliar modelos de linguagem aparecem literalmente dentro dos próprios modelos, inflando artificialmente suas notas. Isso significa que vários benchmarks públicos podem estar contaminados por dados de treino. A descoberta coloca em xeque rankings de modelos publicados recentemente e tem implicações sérias para quem decide qual LLM usar.",
-    "reasonEn": "Research reveals that answers from standardized tests used to evaluate language models appear literally inside the models themselves, artificially inflating their scores. This means several public benchmarks may be contaminated by training data. The discovery casts serious doubt on recently published model rankings and matters for anyone deciding which LLM to use.",
-    "score": 0.75,
-    "tags": [
-      "pesquisa",
-      "benchmark"
-    ],
-    "img": "img/7e289bd124c6.jpg",
-    "ts": 1785949016,
-    "addedTs": 1785950489,
-    "urlHash": "7e289bd124c6",
-    "titleHash": "d352ea4f56b8"
-  },
-  {
-    "title": "Reddit is introducing a new moderator: AI",
-    "titlePt": "Reddit apresenta um novo moderador: a inteligência artificial",
-    "url": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "O Reddit anunciou que vai usar IA para moderar comunidades, automatizando tarefas antes feitas por humanos. A medida pode mudar a experiência de milhões de subreddits e abre debate sobre a qualidade da moderação automática. Desenvolvedores que integram com a plataforma devem ficar atentos a mudanças em APIs e regras.",
-    "reasonEn": "Reddit announced it will use AI to moderate communities, automating tasks previously done by humans. The move could change the experience for millions of subreddits and opens debate about the quality of automatic moderation. Developers integrating with the platform should watch for API and policy changes.",
-    "score": 0.65,
-    "tags": [
-      "reddit",
-      "moderação"
-    ],
-    "img": "img/e67c805c5c0f.jpg",
-    "ts": 1785948491,
-    "addedTs": 1785950489,
-    "urlHash": "e67c805c5c0f",
-    "titleHash": "09da512a78df"
-  },
-  {
-    "title": "Google shakes up AI leadership as DeepMind chief shifts role",
-    "titlePt": "Google reorganiza liderança de IA e chefe do DeepMind muda de função",
-    "url": "https://www.reuters.com/business/google-shakes-up-ai-leadership-deepmind-chief-shifts-role-2026-08-05/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O Google anunciou mudanças importantes no comando das áreas de inteligência artificial, incluindo uma nova função para o chefe do DeepMind. A reestruturação acontece em meio à concorrência acirrada com OpenAI, Anthropic e outros rivais. Afeta diretamente o rumo de produtos como Gemini e o ecossistema de pesquisa em IA da empresa.",
-    "reasonEn": "Google announced major changes in its AI command, including a new role for the head of DeepMind. The restructuring comes amid fierce competition with OpenAI, Anthropic, and other rivals. It directly affects the direction of products like Gemini and the company's AI research ecosystem.",
-    "score": 0.75,
-    "tags": [
-      "google",
-      "liderança"
-    ],
-    "img": "img/538ebdbf74d2.jpg",
-    "ts": 1785947863,
-    "addedTs": 1785950489,
-    "urlHash": "538ebdbf74d2",
-    "titleHash": "7f3ae836422a"
-  },
-  {
-    "title": "Pokee-Isaac 28B: 10M-token context, deployable on a single GPU",
-    "titlePt": "Pokee-Isaac 28B: modelo com 10 milhões de tokens de contexto em uma única GPU",
-    "url": "https://twitter.com/Pokee_AI/status/2084682445648216383",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Pesquisadores lançaram o Pokee-Isaac 28B, um modelo de linguagem com janela de contexto de 10 milhões de tokens que pode ser executado em uma única GPU. Isso é notável porque a maioria dos modelos com contextos enormes exige clusters inteiros. Pode reduzir bastante o custo de aplicações que precisam analisar documentos muito longos.",
-    "reasonEn": "Researchers released Pokee-Isaac 28B, a language model with a 10-million-token context window that runs on a single GPU. That's notable because most models with huge contexts require entire clusters. It could significantly reduce the cost of applications that need to analyze very long documents.",
-    "score": 0.65,
-    "tags": [
-      "modelo",
-      "lançamento"
-    ],
-    "img": "img/ffe212d13101.jpg",
-    "ts": 1785946553,
-    "addedTs": 1785950489,
-    "urlHash": "ffe212d13101",
-    "titleHash": "32ca8e0073ca"
-  },
-  {
-    "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
-    "titlePt": "Shopify diz que busca com IA aumenta tráfego e vendas, e não substitui o Google",
-    "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A Shopify afirma que a busca com inteligência artificial está gerando mais tráfego e vendas para lojas, sem substituir o Google. A empresa observa que consumidores estão usando mecanismos de IA para descobrir produtos antes de finalizar compras. Isso indica que a IA funciona como mais um canal de descoberta, e não como substituto dos mecanismos tradicionais. Donos de lojas online e desenvolvedores devem repensar estratégias para aparecer em respostas de IA.",
-    "reasonEn": "Shopify reports that AI-powered search is driving more traffic and sales to online stores, rather than replacing Google. The company says consumers are using AI engines to discover products before completing purchases. This suggests AI works as an additional discovery channel, not a substitute for traditional search. Online store owners and developers should rethink strategies to appear in AI responses.",
-    "score": 0.7,
-    "tags": [
-      "ecommerce",
-      "busca",
-      "negocios"
-    ],
-    "img": "img/d5aa678ab3a1.jpg",
-    "ts": 1785945374,
-    "addedTs": 1785950489,
-    "urlHash": "d5aa678ab3a1",
-    "titleHash": "7071a1ab245d"
   }
 ]
