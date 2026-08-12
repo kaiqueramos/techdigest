@@ -1,5 +1,137 @@
 [
   {
+    "title": "The case for disaggregated LLM serving",
+    "titlePt": "O caso do serving de LLMs de forma disagregada",
+    "url": "https://blog.doubleword.ai/when-to-disaggregate",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo defende separar armazenamento, contexto e geração em infraestruturas de inferência, em vez de empacotar tudo. Tema técnico, mas relevante para engenheiros que operam LLMs em escala. Ajuda a entender para onde o serving de modelos está caminhando.",
+    "reasonEn": "The piece argues for separating storage, context, and generation in inference infrastructure rather than bundling everything. A technical topic, but relevant for engineers running LLMs at scale. Helpful to see where model serving is headed.",
+    "score": 0.5,
+    "tags": [
+      "infraestrutura",
+      "llm",
+      "inferência"
+    ],
+    "img": "img/21a24a4668f0.jpg",
+    "ts": 1786524411,
+    "addedTs": 1786531962,
+    "urlHash": "21a24a4668f0",
+    "titleHash": "201a8f835d3c"
+  },
+  {
+    "title": "Do We Need a New Programming Language for the AI Era?",
+    "titlePt": "Precisamos de uma nova linguagem de programação para a era da IA?",
+    "url": "https://mfallah.com/blog/do-we-need-a-new-programming-language-for-the-ai-era/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto levanta se os paradigmas atuais de programação dão conta do desenvolvimento orientado a LLMs e agentes. É uma pergunta provocadora que interessa a qualquer dev antenado. A discussão está só começando, vale acompanhar.",
+    "reasonEn": "The post asks whether current programming paradigms can handle LLM- and agent-driven development. A provocative question that matters to any developer paying attention. The debate is just starting and worth following.",
+    "score": 0.55,
+    "tags": [
+      "linguagem",
+      "dev",
+      "agentes"
+    ],
+    "img": "img/8a9fe2884d5c.jpg",
+    "ts": 1786523875,
+    "addedTs": 1786531962,
+    "urlHash": "8a9fe2884d5c",
+    "titleHash": "3a2d0b41a8eb"
+  },
+  {
+    "title": "What building an AI-native finance function taught me",
+    "titlePt": "O que aprendi construindo uma função financeira nativa em IA",
+    "url": "https://openai.com/index/building-an-ai-native-finance-function",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "Um profissional de finanças da OpenAI descreve lições práticas de integrar IA em processos como fechamento contábil, análise de variações e auditoria. Ele compartilha onde a IA funcionou bem, onde falhou e o que mudou nos fluxos da equipe. O conteúdo é útil para líderes de finanças e operações que pensam em usar IA em áreas administrativas. É um estudo de caso real, sem promessas exageradas.",
+    "reasonEn": "An OpenAI finance professional shares practical lessons from integrating AI into processes like month-end close, variance analysis and auditing. He describes what worked, what failed and how workflows shifted. The post is useful for finance and operations leaders considering AI for back-office work. It is a grounded, real-world case study.",
+    "score": 0.5,
+    "tags": [
+      "finanças",
+      "empresa",
+      "estudo-de-caso"
+    ],
+    "img": "img/5367cc95a8fd.jpg",
+    "ts": 1786381200,
+    "addedTs": 1786531962,
+    "urlHash": "5367cc95a8fd",
+    "titleHash": "83af722c48cc"
+  },
+  {
+    "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+    "titlePt": "Gemini API ganha agentes gerenciados com versão 3.6 Flash e hooks",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+    "source": "Google AI",
+    "sources": [
+      "Google AI"
+    ],
+    "reason": "O Google anunciou atualizações para a API do Gemini, incluindo agentes gerenciados com a versão 3.6 Flash e novos mecanismos de hook para integração com sistemas externos. As mudanças facilitam a construção de aplicações que usam IA sem montar toda a infraestrutura de agentes. É relevante para desenvolvedores que constroem produtos baseados em IA. O movimento deixa o Google mais competitivo frente à Assistants API da OpenAI.",
+    "reasonEn": "Google rolled out updates to the Gemini API including managed agents on the 3.6 Flash model and new hook mechanisms for external systems. The changes make it easier to build agent-based applications without managing all the underlying infrastructure. This matters to developers shipping AI products. It intensifies competition with OpenAI's Assistants API.",
+    "score": 0.7,
+    "tags": [
+      "gemini",
+      "google",
+      "agentes"
+    ],
+    "img": "img/55560096859e.jpg",
+    "ts": 1785254400,
+    "addedTs": 1786531962,
+    "urlHash": "55560096859e",
+    "titleHash": "2015e3833d12"
+  },
+  {
+    "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+    "titlePt": "Microsoft apresenta ferramentas de segurança com IA que superam concorrentes",
+    "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+    "source": "Ars Technica",
+    "sources": [
+      "Ars Technica"
+    ],
+    "reason": "A Microsoft anunciou novas ferramentas de segurança baseadas em IA que, segundo a empresa, superam plataformas rivais em testes internos. Os produtos prometem detectar ataques, analisar comportamentos suspeitos e automatizar respostas a incidentes. A novidade é voltada a equipes de segurança corporativa e pode mudar a dinâmica do mercado de cibersegurança. O lançamento reforça a aposta da Microsoft em IA para defesa digital.",
+    "reasonEn": "Microsoft announced new AI-based security tools that the company says outperform rivals in internal tests. The products aim to detect attacks, analyze suspicious behavior and automate incident response. They target corporate security teams and may shift the cybersecurity market. The launch reinforces Microsoft's AI push for digital defense.",
+    "score": 0.75,
+    "tags": [
+      "segurança",
+      "microsoft",
+      "lançamento"
+    ],
+    "img": "img/e22923011e3e.jpg",
+    "ts": 1785189374,
+    "addedTs": 1786531962,
+    "urlHash": "e22923011e3e",
+    "titleHash": "3870f3c2a7ea"
+  },
+  {
+    "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+    "titlePt": "NVIDIA Cosmos-H-Dreams leva simulação generativa em tempo real à robótica cirúrgica",
+    "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "A NVIDIA apresentou o Cosmos-H-Dreams, um sistema que usa simulação generativa em tempo real para treinar robôs cirúrgicos. A tecnologia permite criar cenários variados sem depender de procedimentos reais, acelerando o desenvolvimento de novos equipamentos. É um avanço relevante para fabricantes de robótica médica e hospitais. A novidade mostra que a NVIDIA quer expandir atuação além dos chips.",
+    "reasonEn": "NVIDIA introduced Cosmos-H-Dreams, a system that uses real-time generative simulation to train surgical robots. The technology creates varied scenarios without relying on real procedures, speeding up equipment development. It is a notable step for medical robotics makers and hospitals. It also shows NVIDIA expanding its reach beyond chips.",
+    "score": 0.55,
+    "tags": [
+      "nvidia",
+      "robótica",
+      "saúde"
+    ],
+    "img": "img/96537f9acc12.jpg",
+    "ts": 1785144740,
+    "addedTs": 1786531962,
+    "urlHash": "96537f9acc12",
+    "titleHash": "d575cb98f60d"
+  },
+  {
     "title": "More than 1B people are using the Gemini app every month",
     "titlePt": "Mais de 1 bilhão de pessoas usam o app do Gemini todo mês",
     "url": "https://blog.google/innovation-and-ai/products/gemini-app/one-billion-monthly-users/",
@@ -10691,137 +10823,5 @@
     "addedTs": 1785937508,
     "urlHash": "c2165804e1e8",
     "titleHash": "63bc1c45efb2"
-  },
-  {
-    "title": "Show HN: Labgrid-MCP – let AI agents drive real embedded hardware labs",
-    "titlePt": "Labgrid-MCP: agentes de IA dirigindo laboratórios de hardware embarcado",
-    "url": "https://github.com/onurcelep/labgrid-mcp",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um Show HN apresenta o Labgrid-MCP, uma ponte que permite que agentes de IA controlem laboratórios reais de hardware embarcado. A ideia é conectar modelos a infraestrutura física para testes automatizados de firmware e eletrônicos. Importa para engenheiros de hardware, firmware e quem trabalha com CI/CD de sistemas embarcados. É mais um passo na expansão de agentes para o mundo físico.",
-    "reasonEn": "A Show HN entry introduces Labgrid-MCP, a bridge that lets AI agents drive real embedded hardware labs. The goal is to connect models to physical infrastructure for automated firmware and electronics testing. It matters for hardware and firmware engineers and anyone running CI/CD for embedded systems. It's another step in the expansion of agents into the physical world.",
-    "score": 0.6,
-    "tags": [
-      "hardware",
-      "agentes",
-      "open-source"
-    ],
-    "img": "img/b02e17ff9527.jpg",
-    "ts": 1785933597,
-    "addedTs": 1785937508,
-    "urlHash": "b02e17ff9527",
-    "titleHash": "36cb83f5d549"
-  },
-  {
-    "title": "Wan 3.0 Best AI Video Generator",
-    "titlePt": "Wan 3.0 é apontado como o melhor gerador de vídeo por IA",
-    "url": "https://wan3pro.com",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O Hacker News destacou o Wan 3.0 como um forte concorrente entre os geradores de vídeo por inteligência artificial. O modelo promete alta qualidade visual e abre novas opções para criadores e desenvolvedores. Quem trabalha com produção de conteúdo curto ganha mais uma ferramenta viável. Vale acompanhar benchmarks independentes antes de apostar na ferramenta.",
-    "reasonEn": "Hacker News spotlighted Wan 3.0 as a strong contender among AI video generators. The model promises high visual quality and gives creators and developers another viable option. Anyone working on short-form content now has another tool to evaluate. Independent benchmarks will be key before committing to it.",
-    "score": 0.55,
-    "tags": [
-      "vídeo",
-      "modelo",
-      "lançamento"
-    ],
-    "img": "img/3416f433ba7f.jpg",
-    "ts": 1785933453,
-    "addedTs": 1785937508,
-    "urlHash": "3416f433ba7f",
-    "titleHash": "1e383ba370d4"
-  },
-  {
-    "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
-    "titlePt": "MacPaw firma parceria com Liquid AI para oferecer inferência no dispositivo",
-    "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A MacPaw, dona de uma loja de apps para Mac, fechou parceria com a Liquid AI para disponibilizar inferência de modelos diretamente no dispositivo. Desenvolvedores que publicam apps na loja passam a ter acesso facilitado a IA local, sem depender da nuvem. Isso melhora privacidade, reduz latência e pode cortar custos com servidores. É uma notícia relevante para quem cria software para o ecossistema Apple.",
-    "reasonEn": "MacPaw, which runs a Mac app store, partnered with Liquid AI to bring on-device model inference to its platform. Developers publishing apps in the store gain easier access to local AI without depending on the cloud. This improves privacy, cuts latency and can reduce server costs. It matters to anyone building software for the Apple ecosystem.",
-    "score": 0.65,
-    "tags": [
-      "parceria",
-      "on-device",
-      "apple"
-    ],
-    "img": "img/e2752bd8ade9.jpg",
-    "ts": 1785932918,
-    "addedTs": 1785937508,
-    "urlHash": "e2752bd8ade9",
-    "titleHash": "4906914d5210"
-  },
-  {
-    "title": "Trump’s AI testing plan is limited and vague",
-    "titlePt": "Plano de testes de IA do governo Trump é limitado e genérico",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "O documento divulgado pelo governo dos Estados Unidos sobre como testar sistemas de inteligência artificial recebeu críticas por ser vago e com poucas regras concretas. Avaliadores e reguladores apontam falta de critérios claros e de mecanismos de fiscalização. O plano afeta diretamente empresas que vendem ou usam IA no país. Quem acompanha políticas públicas de tecnologia precisa ler para entender o cenário regulatório.",
-    "reasonEn": "The U.S. government's plan on how to test AI systems drew criticism for being vague and short on concrete rules. Evaluators and regulators flagged missing clear criteria and weak enforcement mechanisms. The plan directly affects companies selling or using AI in the country. Anyone tracking tech policy should read it to understand the regulatory picture.",
-    "score": 0.5,
-    "tags": [
-      "regulação",
-      "política",
-      "eua"
-    ],
-    "img": "img/ffc939802f84.jpg",
-    "ts": 1785925787,
-    "addedTs": 1785937508,
-    "urlHash": "ffc939802f84",
-    "titleHash": "b3884cde0ecb"
-  },
-  {
-    "title": "How AI is expanding what people do at work",
-    "titlePt": "Como a IA está ampliando o que as pessoas fazem no trabalho",
-    "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "O artigo da OpenAI reúne evidências de que a inteligência artificial está mudando a natureza das tarefas profissionais, não apenas automatizando rotinas. Os autores mostram casos de ampliação de capacidade em diversas áreas. É leitura útil para líderes e profissionais que querem entender o impacto real da IA. Ajuda a calibrar expectativas e priorizar aprendizados.",
-    "reasonEn": "This OpenAI article gathers evidence that AI is changing the nature of professional tasks, not just automating routine work. The authors show cases of capability amplification across fields. It is useful for leaders and professionals trying to understand AI's real impact. It helps calibrate expectations and prioritize learning.",
-    "score": 0.5,
-    "tags": [
-      "trabalho",
-      "openai",
-      "análise"
-    ],
-    "img": "img/db9d0913513d.jpg",
-    "ts": 1785123000,
-    "addedTs": 1785937508,
-    "urlHash": "db9d0913513d",
-    "titleHash": "add04afc1e34"
-  },
-  {
-    "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-    "titlePt": "Inferência de difusão 4 bits do Nunchaku chega ao Diffusers da Hugging Face",
-    "url": "https://huggingface.co/blog/nunchaku-diffusers",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "O time do Nunchaku conseguiu portar sua inferência 4 bits para modelos de difusão dentro da biblioteca Diffusers da Hugging Face. Isso reduz o uso de memória e acelera a geração de imagens em hardware mais modesto. Desenvolvedores que usam Stable Diffusion e similares conseguem rodar modelos maiores em GPUs comuns. É uma notícia prática para quem cria produtos com geração de imagens.",
-    "reasonEn": "The Nunchaku team ported its 4-bit inference to diffusion models inside Hugging Face's Diffusers library. This cuts memory use and speeds up image generation on more modest hardware. Developers using Stable Diffusion and similar models can run larger ones on common GPUs. It is practical news for anyone building image-generation products.",
-    "score": 0.6,
-    "tags": [
-      "otimização",
-      "imagem",
-      "huggingface"
-    ],
-    "img": "img/96f5dc656a14.jpg",
-    "ts": 1784764800,
-    "addedTs": 1785937508,
-    "urlHash": "96f5dc656a14",
-    "titleHash": "66b1112f02e4"
   }
 ]
