@@ -1,5 +1,391 @@
 [
   {
+    "title": "Mem Agent",
+    "titlePt": "Mem Agent: memória persistente para agentes de IA",
+    "url": "https://www.producthunt.com/products/mem-2-0",
+    "source": "ProductHunt",
+    "sources": [
+      "ProductHunt"
+    ],
+    "reason": "Mem Agent é um lançamento no ProductHunt focado em dar memória de longo prazo a agentes de IA. O produto entra num mercado competitivo, já discutido em rankings como o Agent Memory Leaderboard. Pode interessar desenvolvedores que constroem fluxos agentic. Detalhes técnicos ainda escassos.",
+    "reasonEn": "Mem Agent is a ProductHunt launch focused on giving long-term memory to AI agents. The product enters a competitive market, already covered by rankings such as the Agent Memory Leaderboard. It may interest developers building agentic workflows. Technical details remain scarce.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "memória",
+      "lançamento"
+    ],
+    "img": "img/aaadd83815b8.jpg",
+    "ts": 1786605189,
+    "addedTs": 1786605240,
+    "urlHash": "aaadd83815b8",
+    "titleHash": "23e5e70402f5"
+  },
+  {
+    "title": "Why Japanese firms are being so slow to use AI",
+    "titlePt": "Por que empresas japonesas adotam IA tão devagar",
+    "url": "https://www.bbc.co.uk/news/articles/cwymw4434v7o",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo analisa a lenta adoção de IA nas corporações do Japão, citando cultura organizacional, burocracia e escassez de engenheiros. O contraste com mercados ocidentais é marcante e levanta dúvidas sobre competitividade. Pode interessar profissionais de estratégia e mercados internacionais.",
+    "reasonEn": "The article analyzes the slow adoption of AI in Japanese corporations, citing organizational culture, bureaucracy, and engineer shortages. The contrast with Western markets is striking and raises questions about competitiveness. It may interest strategy and international-market professionals.",
+    "score": 0.6,
+    "tags": [
+      "negócios",
+      "adoção",
+      "região"
+    ],
+    "img": "img/146b9ad5ceff.jpg",
+    "ts": 1786604033,
+    "addedTs": 1786605240,
+    "urlHash": "146b9ad5ceff",
+    "titleHash": "c1bc8fb46971"
+  },
+  {
+    "title": "Samsung used AI to cut a chip-verification loop 15–30×",
+    "titlePt": "Samsung usa IA para acelerar verificação de chips em até 30 vezes",
+    "url": "https://www.echohive.ai/ai-engineering-acceleration",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Samsung reportou que o uso de IA reduziu ciclos de verificação de chips em 15 a 30 vezes, encurtando drasticamente o tempo de desenvolvimento de hardware. O resultado mostra valor prático de modelos em tarefas de engenharia especializadas. Pode acelerar lançamentos futuros de semicondutores.",
+    "reasonEn": "Samsung reported that using AI cut chip-verification loops by 15 to 30 times, drastically shortening hardware development time. The result shows practical value of models in specialized engineering tasks. It may accelerate future semiconductor launches.",
+    "score": 0.8,
+    "tags": [
+      "hardware",
+      "ia",
+      "chips"
+    ],
+    "img": "img/d8930f255de9.jpg",
+    "ts": 1786603070,
+    "addedTs": 1786605240,
+    "urlHash": "d8930f255de9",
+    "titleHash": "654e5bb289b9"
+  },
+  {
+    "title": "SPAR – Fall 2026 AI Safety Research Projects",
+    "titlePt": "SPAR abre projetos de pesquisa em segurança de IA para outono de 2026",
+    "url": "https://sparai.org/projects/f26/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A SPAR anunciou a seleção de projetos de pesquisa em segurança de IA para o segundo semestre de 2026. A iniciativa reúne acadêmicos e laboratórios para investigar riscos de modelos avançados. É relevante para quem acompanha governança e alinhamento.",
+    "reasonEn": "SPAR announced the selection of AI safety research projects for fall 2026. The initiative brings together academics and labs to investigate risks of advanced models. It is relevant for those tracking governance and alignment.",
+    "score": 0.6,
+    "tags": [
+      "segurança",
+      "pesquisa"
+    ],
+    "img": "img/3cf4b0409a79.jpg",
+    "ts": 1786602769,
+    "addedTs": 1786605240,
+    "urlHash": "3cf4b0409a79",
+    "titleHash": "0633fe084a24"
+  },
+  {
+    "title": "AI translates 5k-year-old cuneiform tablets instantly – Big Think",
+    "titlePt": "IA traduz tabletes cuneiformes de 5 mil anos em segundos",
+    "url": "https://bigthink.com/the-future/ai-translates-cuneiform/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Pesquisadores treinaram um modelo para decifrar tabletes cuneiformes sumérios quase instantaneamente, trabalho que antes levava horas por . A aplicação abre nova frente de uso de IA em humanidades digitais. Arqueólogos e historiadores podem ganhar produtividade significativa.",
+    "reasonEn": "Researchers trained a model to decipher 5,000-year-old Sumerian cuneiform tablets almost instantly, work that previously took hours per specialist. The application opens a new front for AI in digital humanities. Archaeologists and historians may gain significant productivity.",
+    "score": 0.6,
+    "tags": [
+      "ia",
+      "pesquisa",
+      "cultura"
+    ],
+    "img": "img/d0b5298a4764.jpg",
+    "ts": 1786602564,
+    "addedTs": 1786605240,
+    "urlHash": "d0b5298a4764",
+    "titleHash": "a956c265f9d5"
+  },
+  {
+    "title": "My AI agents shipped 128 releases of a product no one ever used",
+    "titlePt": "Meus agentes de IA lançaram 128 versões de um produto que ninguém usou",
+    "url": "https://bramo.ai/blog/01-post-mortem",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um desenvolvedor relata ter deixado agentes de IA tocarem um projeto solo, resultando em 128 versões publicadas sem tração. O texto funciona como alerta sobre métricas vazias em agentic coding. Discute o risco de confundir velocidade de entrega com valor real.",
+    "reasonEn": "A developer reports letting AI agents run a solo project, resulting in 128 published versions with no traction. The piece serves as a warning about hollow metrics in agentic coding. It discusses the risk of confusing shipping speed with real value.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "reflexão"
+    ],
+    "img": "img/72ac40e106d0.jpg",
+    "ts": 1786602415,
+    "addedTs": 1786605240,
+    "urlHash": "72ac40e106d0",
+    "titleHash": "9fb8829cb8b5"
+  },
+  {
+    "title": "Over 70% of Americans oppose AI data centers; US protests intensify",
+    "titlePt": "Mais de 70% dos americanos rejeitam data centers de IA; protestos crescem",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/over-70-percent-of-americans-oppose-ai-data-centers-us-protests-intensify-as-more-arrests-are-being-made-almost-40-arrested-this-year-in-backlash-to-ai-factory-buildout",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Pesquisa mostra que 70% dos americanos se opõem à expansão de data centers de IA, citando consumo de água e energia. Protestos locais se intensificam em várias regiões. O tema pode frear projetos e pressionar políticos por regulamentação.",
+    "reasonEn": "A survey shows 70% of Americans oppose AI data-center expansion, citing water and energy use. Local protests are intensifying in several regions. The topic may slow projects and push politicians toward regulation.",
+    "score": 0.8,
+    "tags": [
+      "regulação",
+      "opinião",
+      "infraestrutura"
+    ],
+    "img": "img/368055a3cc8f.jpg",
+    "ts": 1786601527,
+    "addedTs": 1786605240,
+    "urlHash": "368055a3cc8f",
+    "titleHash": "3357f924e378"
+  },
+  {
+    "title": "Chinese censorship is leaking into answers from American AI",
+    "titlePt": "Censura chinesa vaza em respostas de IA americanas",
+    "url": "https://www.wsj.com/tech/ai/chinese-censorship-is-leaking-into-answers-from-american-ai-62abeca5",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Modelos de empresas americanas estão reproduzindo visões alinhadas à censura chinesa em certos tópicos. O vazamento provavelmente vem de dados de treino coletados na web aberta. É mais um sinal da fragilidade das fronteiras de informação em LLMs globais.",
+    "reasonEn": "Models from American companies are reproducing views aligned with Chinese censorship on certain topics. The leak likely comes from training data scraped from the open web. It is yet another sign of how fragile information boundaries are in global LLMs.",
+    "score": 0.8,
+    "tags": [
+      "censura",
+      "modelo",
+      "segurança"
+    ],
+    "img": "img/6fe56c9bbc96.jpg",
+    "ts": 1786600962,
+    "addedTs": 1786605240,
+    "urlHash": "6fe56c9bbc96",
+    "titleHash": "8d4b42ea8641"
+  },
+  {
+    "title": "AIPass – AI agents with persistent identity, memory, and email",
+    "titlePt": "AIPass: agentes de IA com identidade, memória e e-mail persistentes",
+    "url": "https://github.com/AIOSAI/AIPass",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "AIPass propõe dar a agentes identidade fixa, memória de longo prazo e endereço de e-mail próprio. A ideia mira fluxos onde múltiplos agentes precisam se comunicar entre serviços. Concorrência direta com Memory layers e plataformas agentic recentes.",
+    "reasonEn": "AIPass proposes giving agents fixed identity, long-term memory, and their own email address. The idea targets workflows where multiple agents need to communicate across services. It competes with recent memory layers and agentic platforms.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "lançamento"
+    ],
+    "img": "img/acd42b08f094.jpg",
+    "ts": 1786599964,
+    "addedTs": 1786605240,
+    "urlHash": "acd42b08f094",
+    "titleHash": "b96d54d7abf4"
+  },
+  {
+    "title": "Apple in Talks to Pay Publishers for News Content to Power Siri AI",
+    "titlePt": "Apple negocia pagar publishers para treinar a nova Siri com IA",
+    "url": "https://www.macrumors.com/2026/08/12/apple-siri-ai-publisher-talks/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Apple está em conversas para pagar veículos de notícia pelo uso de conteúdo na próxima geração da Siri com IA. O movimento responde a críticas sobre uso indevido de material jornalístico e pode definir precedente no setor. Publishers ganham nova fonte de receita; usuários podem ver respostas mais atualizadas.",
+    "reasonEn": "Apple is in talks to pay news publishers for content used in the next-generation AI-powered Siri. The move responds to criticism over journalistic content use and may set a sector precedent. Publishers gain a new revenue source; users may see more up-to-date answers.",
+    "score": 0.9,
+    "tags": [
+      "deal",
+      "apple",
+      "publishers"
+    ],
+    "img": "img/e91aeb9fcaa1.jpg",
+    "ts": 1786598871,
+    "addedTs": 1786605240,
+    "urlHash": "e91aeb9fcaa1",
+    "titleHash": "debd576e3a97"
+  },
+  {
+    "title": "Lossless codec for AI agent messages – 36% fewer tokens, overhead counted",
+    "titlePt": "Codec sem perda reduz em 36% tokens trocados entre agentes de IA",
+    "url": "https://github.com/reh8n/a2acompress",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Pesquisadores propõem um codec sem perda que comprime em 36% as mensagens trocadas entre agentes, mantendo a integridade semântica. A redução de tokens pode cortar custo e latência em sistemas multi-agentes. Importante para quem orquestra muitos agentes em produção.",
+    "reasonEn": "Researchers propose a lossless codec that compresses by 36% the messages exchanged between agents while keeping semantic integrity. The token reduction can cut cost and latency in multi-agent systems. Relevant for those orchestrating many agents in production.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "otimização"
+    ],
+    "img": "img/598337df9d8e.jpg",
+    "ts": 1786595608,
+    "addedTs": 1786605240,
+    "urlHash": "598337df9d8e",
+    "titleHash": "315c6f4b4d07"
+  },
+  {
+    "title": "DeepSeek V4 Pro 0813: Intelligence, Performance and Price Analysis",
+    "titlePt": "DeepSeek V4 Pro 0813: análise de inteligência, desempenho e preço",
+    "url": "https://artificialanalysis.ai/models/deepseek-v4-pro",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A versão DeepSeek V4 Pro 0813 foi colocada à prova em benchmarks de raciocínio, velocidade e custo por token. Os resultados indicam salto competitivo frente a modelos ocidentais líderes. Times que escolhem modelo devem olhar de perto antes de decidir stack.",
+    "reasonEn": "The DeepSeek V4 Pro 0813 version was benchmarked on reasoning, speed, and cost per token. Results indicate a competitive leap against leading Western models. Teams choosing a model should look closely before locking their stack.",
+    "score": 0.9,
+    "tags": [
+      "modelo",
+      "benchmark"
+    ],
+    "img": "img/367627864e36.jpg",
+    "ts": 1786593758,
+    "addedTs": 1786605240,
+    "urlHash": "367627864e36",
+    "titleHash": "f9488b1f8ad1"
+  },
+  {
+    "title": "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
+    "titlePt": "Governança dinâmica em sistemas multi-LLM para conversas colaborativas",
+    "url": "https://arxiv.org/abs/2608.11207",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "O artigo propõe mecanismos de governança adaptativa para sistemas em que vários LLMs colaboram em conversas. A ideia é ajustar dinamicamente papéis e restrições entre agentes. Relevante para quem pesquisa orquestração multi-agente.",
+    "reasonEn": "The paper proposes adaptive governance mechanisms for systems where multiple LLMs collaborate in conversations. The idea is to dynamically adjust roles and constraints among agents. Relevant for those researching multi-agent orchestration.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "pesquisa",
+      "governança"
+    ],
+    "img": "img/def6cd0740e5.jpg",
+    "ts": 1786593600,
+    "addedTs": 1786605240,
+    "urlHash": "def6cd0740e5",
+    "titleHash": "905174b3adf9"
+  },
+  {
+    "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
+    "titlePt": "Fundadora da Sandbar diz que futuro de wearables de IA é a voz",
+    "url": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A fundadora da Sandbar, fabricante de anéis inteligentes, afirma que o futuro dos dispositivos vestíveis de inteligência artificial será controlado por voz, sem depender de telas. Segundo ela, usuários preferem interações rápidas e naturais com assistentes. O anel da empresa aposta em comandos de voz para gravar ideias, responder mensagens e buscar informações. A tese se opõe a relógios e óculos, que ainda dependem de interfaces visuais.",
+    "reasonEn": "The founder of Sandbar, maker of smart rings, says the future of AI wearables will be voice-controlled, not screen-based. She argues users prefer quick, natural interactions with assistants. The company's ring bets on voice commands to capture ideas, reply to messages and look up information. The thesis contrasts with smartwatches and glasses, which still rely on visual interfaces.",
+    "score": 0.5,
+    "tags": [
+      "wearable",
+      "voz"
+    ],
+    "img": "img/fcfd7a19fbb3.jpg",
+    "ts": 1786553162,
+    "addedTs": 1786605240,
+    "urlHash": "fcfd7a19fbb3",
+    "titleHash": "d057179340a0"
+  },
+  {
+    "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+    "titlePt": "Google apresenta novas pesquisas com AMIE, sua IA médica",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+    "source": "Google AI",
+    "sources": [
+      "Google AI"
+    ],
+    "reason": "O Google divulgou novas pesquisas sobre o AMIE, seu sistema de inteligência artificial voltado à medicina. O foco está em como o modelo pode auxiliar no acompanhamento de condições crônicas de saúde. Os resultados indicam potencial para apoiar profissionais, sempre com supervisão humana. O sistema ainda não foi liberado para uso clínico direto por pacientes.",
+    "reasonEn": "Google released new research on AMIE, its AI system aimed at medicine. The focus is on how the model can help monitor chronic health conditions. Results indicate potential to support professionals, always with human oversight. The system has not yet been cleared for direct patient clinical use.",
+    "score": 0.55,
+    "tags": [
+      "saúde",
+      "pesquisa"
+    ],
+    "img": "img/866972b9be74.jpg",
+    "ts": 1781708400,
+    "addedTs": 1786605240,
+    "urlHash": "866972b9be74",
+    "titleHash": "605fe35e8afe"
+  },
+  {
+    "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+    "titlePt": "Railway capta US$ 100 milhões para desafiar AWS em cloud para IA",
+    "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+    "source": "VentureBeat AI",
+    "sources": [
+      "VentureBeat AI"
+    ],
+    "reason": "A Railway levantou cem milhões de dólares para expandir sua plataforma de infraestrutura em nuvem otimizada para cargas de inteligência artificial. A empresa quer competir com a AWS oferecendo uma pilha nativa de IA com foco em simplicidade e custo. Os recursos serão aplicados em engenharia e expansão de data centers. É mais um sinal de que a demanda por infraestrutura especializada em IA segue aquecida.",
+    "reasonEn": "Railway raised $100 million to expand its cloud infrastructure platform optimized for AI workloads. The company aims to compete with AWS by offering an AI-native stack focused on simplicity and cost. Funds will go to engineering and data center expansion. Another sign that demand for AI-specialized infrastructure remains hot.",
+    "score": 0.65,
+    "tags": [
+      "investimento",
+      "infraestrutura"
+    ],
+    "img": "img/7f9102717fb1.jpg",
+    "ts": 1769090400,
+    "addedTs": 1786605240,
+    "urlHash": "7f9102717fb1",
+    "titleHash": "04e297de9927"
+  },
+  {
+    "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+    "titlePt": "Goose oferece alternativa gratuita ao Claude Code de US$ 200",
+    "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+    "source": "VentureBeat AI",
+    "sources": [
+      "VentureBeat AI"
+    ],
+    "reason": "O VentureBeat destaca o Goose, alternativa de código aberto ao Claude Code da Anthropic. O Goose oferece recursos parecidos de agente de programação sem custo de assinatura. A comparação aponta que desenvolvedores podem economizar até duzentos dólares por mês. Mostra como o ecossistema aberto está preenchendo rapidamente lacunas deixadas por produtos pagos.",
+    "reasonEn": "VentureBeat highlights Goose, an open-source alternative to Anthropic's Claude Code. Goose offers similar coding agent features without subscription cost. Comparison shows developers can save up to $200 per month. Shows how the open ecosystem is quickly filling gaps left by paid products.",
+    "score": 0.75,
+    "tags": [
+      "open-source",
+      "coding-agent"
+    ],
+    "img": "img/99a74fa8e5c3.jpg",
+    "ts": 1768831200,
+    "addedTs": 1786605240,
+    "urlHash": "99a74fa8e5c3",
+    "titleHash": "fe3ec9668734"
+  },
+  {
+    "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+    "titlePt": "Listen Labs capta US$ 69 milhões após outdoor viral",
+    "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+    "source": "VentureBeat AI",
+    "sources": [
+      "VentureBeat AI"
+    ],
+    "reason": "A Listen Labs levantou sessenta e nove milhões de dólares para expandir sua plataforma de entrevistas de cliente conduzidas por inteligência artificial. A empresa ganhou tração após uma campanha de outdoors que viralizou no recrutamento de clientes. O produto automatiza pesquisa qualitativa com consumidores para empresas. O aporte reforça o interesse de investidores em IA aplicada a pesquisa de mercado.",
+    "reasonEn": "Listen Labs raised $69 million to expand its AI-driven customer interview platform. The company gained traction after a viral billboard campaign recruiting customers. The product automates qualitative consumer research for businesses. The funding reinforces investor interest in AI applied to market research.",
+    "score": 0.55,
+    "tags": [
+      "investimento",
+      "pesquisa"
+    ],
+    "img": "img/2f6e8f891c0a.jpg",
+    "ts": 1768572060,
+    "addedTs": 1786605240,
+    "urlHash": "2f6e8f891c0a",
+    "titleHash": "146325c98ea5"
+  },
+  {
     "title": "Poor Man's Agentic Modeling: Simulating Large LLM-Agent Societies on a Laptop",
     "titlePt": "Modelagem Agêntica do Pobre: Simulando Sociedades de Agentes LLM em um Laptop",
     "url": "https://arxiv.org/abs/2608.11215",
@@ -10441,397 +10827,5 @@
     "addedTs": 1786025161,
     "urlHash": "bc1179020741",
     "titleHash": "7dd13e656e78"
-  },
-  {
-    "title": "DeepSeek-V4-Flash-0731-Latent-Reasoning. A model thinking in latent space",
-    "titlePt": "DeepSeek-V4-Flash-0731: modelo que pensa em espaço latente",
-    "url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A DeepSeek publicou uma nova variante que raciocina em espaço latente, ou seja, dentro das representações internas do modelo em vez de gerar texto visível. Isso pode tornar o raciocínio mais rápido e barato, sem poluir a saída com cadeia de pensamento exposta. É relevante para desenvolvedores que querem agentes mais eficientes e baratos. Também levanta questões sobre transparência e auditoria do raciocínio da IA.",
-    "reasonEn": "DeepSeek released a new variant that reasons in latent space, inside the model's internal representations rather than visible text. This could make reasoning faster and cheaper, without exposing a chain-of-thought in the output. It matters for developers building more efficient agents. It also raises questions about transparency and auditability of AI reasoning.",
-    "score": 0.7,
-    "tags": [
-      "modelo",
-      "deepseek",
-      "lançamento"
-    ],
-    "img": "img/09007ec9abfc.jpg",
-    "ts": 1786023542,
-    "addedTs": 1786025161,
-    "urlHash": "09007ec9abfc",
-    "titleHash": "148c6c94d6a0"
-  },
-  {
-    "title": "AI Is Now a Commodity",
-    "titlePt": "IA já é commodity, e isso muda tudo",
-    "url": "https://www.vincentschmalbach.com/ai-is-now-a-commodity/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O argumento central é que modelos de fronteira viraram produto básico: muitos modelos abertos oferecem desempenho próximo ao dos pagos por fração do custo. Isso pressiona margens de fornecedores como OpenAI e Anthropic e democratiza o acesso. Importa para empresas que estão pagando caro demais e para investidores reavaliando. Também muda a estratégia de diferenciação: dados, integração e confiança passam a valer mais que o modelo bruto.",
-    "reasonEn": "The core argument is that frontier models have become a commodity: many open models deliver near-frontier performance at a fraction of the cost. This pressures margins of providers like OpenAI and Anthropic and democratizes access. It matters for firms overpaying for AI and for investors reassessing valuations. It also shifts differentiation toward data, integration, and trust rather than raw model power.",
-    "score": 0.7,
-    "tags": [
-      "mercado",
-      "modelo-aberto",
-      "tendência"
-    ],
-    "img": "img/4353fa5a0f60.jpg",
-    "ts": 1786022553,
-    "addedTs": 1786025161,
-    "urlHash": "4353fa5a0f60",
-    "titleHash": "4509868f35c9"
-  },
-  {
-    "title": "Enjoy the Bubble While It Lasts: The Secret Behind Your AI Bill",
-    "titlePt": "Aproveite a bolha enquanto dura: o segredo por trás da sua conta de IA",
-    "url": "https://kernel.pryanic.com/posts/enjoy-the-bubble-while-it-lasts-the-secret-behind-your-ai-bill",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O texto explica por que empresas estão pagando valores inflados por serviços de IA, sustentados por investimento de risco e promessas de crescimento futuro. Sem retorno financeiro claro, provedores podem repassar custos via preços altos e mudanças em limites de uso. É relevante para compradores de IA corporativos e CFOs avaliando ROI. Sinaliza que o momento de renegociar contratos é agora.",
-    "reasonEn": "The piece explains why firms pay inflated prices for AI services, propped up by venture capital and growth promises. Without clear financial returns, providers may pass costs through higher prices and tighter usage limits. It matters for corporate AI buyers and CFOs evaluating ROI. It signals that now is the time to renegotiate contracts.",
-    "score": 0.7,
-    "tags": [
-      "mercado",
-      "finanças",
-      "bolha"
-    ],
-    "img": "img/40231fabe4dc.jpg",
-    "ts": 1786022339,
-    "addedTs": 1786025161,
-    "urlHash": "40231fabe4dc",
-    "titleHash": "2be930cf61c2"
-  },
-  {
-    "title": "Cloudflare AI Search: give your agents a search engine for your data",
-    "titlePt": "Cloudflare AI Search: motor de busca para seus próprios dados",
-    "url": "https://blog.cloudflare.com/ai-search-easier/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Cloudflare lançou um serviço que permite a agentes de IA fazerem buscas indexadas dentro de dados corporativos. A ferramenta resolve um problema comum: agentes que precisam consultar documentação interna, planilhas ou bases de conhecimento. Importa para equipes que constroem agentes voltados a empresas. Pode acelerar a criação de copilots internos e reduzir custo de RAG improvisado.",
-    "reasonEn": "Cloudflare launched a service that lets AI agents run indexed searches across a company's own data. It solves a common pain: agents needing to query internal docs, spreadsheets, or knowledge bases. It matters for teams building enterprise agents. It can speed up internal copilots and cut costs of improvised RAG setups.",
-    "score": 0.6,
-    "tags": [
-      "cloudflare",
-      "agentes",
-      "lançamento"
-    ],
-    "img": "img/54aa107c534a.jpg",
-    "ts": 1786021986,
-    "addedTs": 1786025161,
-    "urlHash": "54aa107c534a",
-    "titleHash": "e3763b29a3a8"
-  },
-  {
-    "title": "England and Wales: Growing gap between power and regulation of police AI",
-    "titlePt": "Inglaterra e Gales: polícia usa IA com pouca regulação",
-    "url": "https://statewatch.org/news/2026/august/england-and-wales-growing-gap-between-power-and-regulation-of-police-ai/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Relatório mostra que forças policiais na Inglaterra e no País de Gales estão adotando ferramentas de IA para vigilância, triagem e análise preditiva, mas sem supervisão legal proporcional. O texto alerta para risco de viés algorítmico e abuso de poder. Importa para defensores de direitos civis, juristas e qualquer pessoa sujeita a essas tecnologias. Reforça pressão por legislação clara antes que o uso se consolide.",
-    "reasonEn": "A report shows police forces in England and Wales are adopting AI tools for surveillance, triage, and predictive analytics with little proportional legal oversight. It warns of algorithmic bias and abuse of power. It matters for civil rights advocates, lawyers, and anyone subject to these tools. It adds pressure for clear legislation before use becomes entrenched.",
-    "score": 0.6,
-    "tags": [
-      "regulação",
-      "vigilância",
-      "reino-unido"
-    ],
-    "img": "img/34a023325280.jpg",
-    "ts": 1786021971,
-    "addedTs": 1786025161,
-    "urlHash": "34a023325280",
-    "titleHash": "7d886b53d3ec"
-  },
-  {
-    "title": "Companies need to stop kidding themselves about AI",
-    "titlePt": "Empresas precisam parar de se enganar sobre IA",
-    "url": "https://www.nytimes.com/2026/08/03/opinion/ai-hype-tech-layoffs.html",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O texto argumenta que muitas empresas declaram adotar IA, mas usam tecnologia de forma superficial, sem mudar processos reais nem medir resultado. A falta de estratégia clara gera projetos caros que ninguém mantém ou usa. Importa para líderes de negócio e conselhos evitando desperdiçar orçamento. Reforça a importância de casos de uso concretos em vez de seguir o hype.",
-    "reasonEn": "The piece argues many firms claim AI adoption but use the technology superficially, without changing real processes or measuring outcomes. The lack of clear strategy leads to expensive projects nobody maintains or uses. It matters for business leaders and boards trying to avoid wasted budgets. It reinforces the value of concrete use cases over chasing hype.",
-    "score": 0.7,
-    "tags": [
-      "empresas",
-      "estratégia",
-      "hype"
-    ],
-    "img": "img/44d127c3e1c2.jpg",
-    "ts": 1786021729,
-    "addedTs": 1786025161,
-    "urlHash": "44d127c3e1c2",
-    "titleHash": "cdf64d3da2f8"
-  },
-  {
-    "title": "Trump's tech ties blamed for AI inaction by MAGA Republicans and Democrats",
-    "titlePt": "Republicanos e democratas culpam laços de Trump com big tech por inação em IA",
-    "url": "https://www.reuters.com/legal/litigation/trumps-tech-ties-blamed-ai-inaction-by-maga-republicans-democrats-2026-08-06/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Críticos de ambos os partidos nos EUA dizem que a proximidade de Trump com gigantes de tecnologia estaria atrasando regulamentações importantes sobre IA. A inação legislativa favorece empresas que preferem autorregulação, mas preocupa quem defende regras mais duras. Importa para formuladores de política, investidores e profissionais que dependem de regras claras. Sinaliza impasse político em torno da regulação de IA nos EUA.",
-    "reasonEn": "Critics from both US parties argue Trump's ties to big tech are delaying key AI regulations. Legislative inaction favors firms preferring self-regulation but worries those pushing for stricter rules. It matters for policymakers, investors, and professionals who need clear rules. It signals a political stalemate over AI regulation in the US.",
-    "score": 0.6,
-    "tags": [
-      "política",
-      "regulação",
-      "eua"
-    ],
-    "img": "img/2985a34bc840.jpg",
-    "ts": 1786021466,
-    "addedTs": 1786025161,
-    "urlHash": "2985a34bc840",
-    "titleHash": "7bd3baaad996"
-  },
-  {
-    "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
-    "titlePt": "Ex-funcionários do Spotify levantam US$ 10 milhões para IA no e-commerce",
-    "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "Uma startup fundada por ex-engenheiros do Spotify captou US$ 10 milhões para oferecer a tecnologia de recomendação queersonalizou músicas e playlists a lojas online. O foco é transformar catálogos grandes em descoberta personalizada, igual ao app de música. Importa para varejistas digitais que perdem vendas por navegação confusa. Também é um sinal de como o DNA de grandes plataformas vira produto B2B.",
-    "reasonEn": "A startup founded by former Spotify engineers raised $10 million to bring the recommendation tech that personalized music and playlists to online stores. The goal is to turn large catalogs into personalized discovery like the music app. It matters for digital retailers losing sales to confusing browsing. It also signals how DNA from large platforms becomes B2B products.",
-    "score": 0.6,
-    "tags": [
-      "investimento",
-      "e-commerce",
-      "recomendação"
-    ],
-    "img": "img/d328724fdcb5.jpg",
-    "ts": 1786021200,
-    "addedTs": 1786025161,
-    "urlHash": "d328724fdcb5",
-    "titleHash": "aa6b4d55068d"
-  },
-  {
-    "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
-    "titlePt": "Mirendil fecha acordo de mais de US$ 100 milhões com Google Cloud",
-    "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A startup Mirendil assinou um contrato superior a 100 milhões de dólares com o Google Cloud para escalar sua plataforma de IA autoaprimorável. O acordo dá à Mirendil capacidade computacional robusta para treinar e implantar modelos mais avançados. Isso mostra como Google Cloud está fechando grandes contratos com empresas de IA em crescimento. Para desenvolvedores, vale acompanhar quem são os novos parceiros estratégicos da gigante de nuvem.",
-    "reasonEn": "Startup Mirendil signed a deal worth over $100 million with Google Cloud to scale its self-improving AI platform. The agreement gives Mirendil robust compute capacity to train and deploy more advanced models. It shows how Google Cloud is locking in large contracts with growing AI companies. For developers, it's worth watching who the cloud giant's new strategic partners are.",
-    "score": 0.55,
-    "tags": [
-      "deal",
-      "google cloud",
-      "infra"
-    ],
-    "img": "img/7c9c73c9cdff.jpg",
-    "ts": 1786021200,
-    "addedTs": 1786025161,
-    "urlHash": "7c9c73c9cdff",
-    "titleHash": "ffbbcb3d1653"
-  },
-  {
-    "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
-    "titlePt": "Google Maps ganha recursos agentes para pedir comida e reservar hotéis",
-    "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "O Google Maps está incorporando agentes de IA capazes de fazer pedidos de comida e reservas de hotel diretamente no aplicativo. Os novos recursos permitem que o usuário conclua tarefas do mundo real sem sair do mapa. A novidade pressiona concorrentes como DoorDash, OpenTable e apps de viagem. Para usuários e desenvolvedores de apps, é mais um sinal de que interfaces de IA conversacional estão se tornando o padrão.",
-    "reasonEn": "Google Maps is adding AI agents that can order food and book hotels directly inside the app. The new features let users complete real-world tasks without leaving the map. This puts pressure on competitors like DoorDash, OpenTable, and travel apps. For users and app developers, it's another sign that conversational AI interfaces are becoming the standard.",
-    "score": 0.6,
-    "tags": [
-      "google",
-      "agentes",
-      "lançamento"
-    ],
-    "img": "img/ca2a95942f42.jpg",
-    "ts": 1786019400,
-    "addedTs": 1786025161,
-    "urlHash": "ca2a95942f42",
-    "titleHash": "9c5bfae7e65f"
-  },
-  {
-    "title": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
-    "titlePt": "OpenAI chama processo da Apple por segredos comerciais de 'podre até o núcleo'",
-    "url": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "A OpenAI reagiu duramente à ação judicial da Apple sobre suposto roubo de segredos comerciais, classificando o caso como 'podre até o núcleo'. A disputa pode travar a colaboração entre as duas empresas e afetar o ecossistema de IA em dispositivos Apple. Para desenvolvedores, o resultado do litígio pode mudar a disponibilidade de modelos da OpenAI em produtos Apple. O caso também ilustra a crescente tensão entre gigantes da tecnologia.",
-    "reasonEn": "OpenAI fired back at Apple's lawsuit over alleged trade secret theft, calling the case 'rotten to its core.' The dispute could disrupt collaboration between the two companies and affect the AI ecosystem on Apple devices. For developers, the outcome could change OpenAI model availability on Apple products. The case also illustrates rising tensions between tech giants.",
-    "score": 0.55,
-    "tags": [
-      "openai",
-      "apple",
-      "judicial"
-    ],
-    "img": "img/f1d122158348.jpg",
-    "ts": 1786008791,
-    "addedTs": 1786025161,
-    "urlHash": "f1d122158348",
-    "titleHash": "5d20e25854e5"
-  },
-  {
-    "title": "Jeff Dean: The 1% Rule for Building in AI",
-    "titlePt": "Jeff Dean revela a regra de 1% para construir em IA",
-    "url": "https://www.ycombinator.com/library/Vy-jeff-dean-the-1-rule-for-building-in-ai",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Jeff Dean, principal nome da Google DeepMind, compartilhou no Hacker News uma regra prática: investir 1% do tempo em fundamentos que escalam exponencialmente em IA. A ideia é focar em dados, avaliação e infraestrutura em vez de só correr atrás de novos modelos. É um conselho curto, mas útil para times que estão definindo estratégia de IA agora. Para curiosos, é leitura rápida. Para executivos e líderes técnicos, vale parar e refletir.",
-    "reasonEn": "Jeff Dean of Google DeepMind shared a '1% rule' on Hacker News: spend a small slice of effort on fundamentals like data, evals and infrastructure that compound over time. The advice favors long-term leverage over chasing each new model drop. Quick read, but meaningful for teams setting AI strategy. Most useful for tech leaders and execs building AI roadmaps.",
-    "score": 0.55,
-    "tags": [
-      "estratégia",
-      "fundamentos"
-    ],
-    "img": "img/a076d367f6fe.jpg",
-    "ts": 1786003840,
-    "addedTs": 1786004225,
-    "urlHash": "a076d367f6fe",
-    "titleHash": "2afba141650a"
-  },
-  {
-    "title": "Proven: Six Checks Against AI Slop",
-    "titlePt": "Seis verificações contra conteúdo de IA sem qualidade",
-    "url": "https://blog.bensoussan.de",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O guia 'Seis Verificações Contra Lixo de IA' lista métodos práticos para identificar e barrar conteúdo gerado por IA sem valor. Cobre sinais como inconsistências, ausência de fonte e linguagem genérica. É útil para editores, professores e desenvolvedores que revisam muito texto automatizado. Não é técnico, mas economiza tempo de quem precisa avaliar rápido. Ferramenta mental simples e direta.",
-    "reasonEn": "'Six Checks Against AI Slop' lists practical ways to spot and reject low-value AI-generated content. It covers inconsistencies, missing sources and generic phrasing. Useful for editors, teachers and devs reviewing lots of automated text. Not deeply technical, but saves time on quick evaluations. A simple mental toolkit.",
-    "score": 0.5,
-    "tags": [
-      "qualidade",
-      "conteúdo"
-    ],
-    "img": "img/44c88f8f39d1.jpg",
-    "ts": 1786002185,
-    "addedTs": 1786004225,
-    "urlHash": "44c88f8f39d1",
-    "titleHash": "c11894461c76"
-  },
-  {
-    "title": "Shopify shares soar as AI efforts begin to pay off",
-    "titlePt": "Ações da Shopify disparam com resultados da IA",
-    "url": "https://www.theglobeandmail.com/business/article-shopify-shares-soar-as-ai-efforts-begin-to-pay-off/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "As ações da Shopify subiram forte após a empresa mostrar que seus investimentos em IA estão começando a se pagar. Vendas melhores e ferramentas de IA para lojistas explicam parte do otimismo do mercado. Sinaliza que IA aplicada a e-commerce está deixando de ser promessa e virando resultado. Ajuda a entender onde o capital está indo no setor. Para pequenas empresas, indica que vale olhar as ferramentas da Shopify com mais atenção.",
-    "reasonEn": "Shopify shares jumped after the company showed its AI bets are paying off. Better sales tools and AI features for merchants fueled investor optimism. It signals AI in e-commerce is moving from promise to results. Useful for understanding where capital is flowing in retail tech. Small businesses should keep an eye on Shopify's new AI features.",
-    "score": 0.5,
-    "tags": [
-      "mercado",
-      "e-commerce"
-    ],
-    "img": "img/50dc8b5b01b7.jpg",
-    "ts": 1785997275,
-    "addedTs": 1786004225,
-    "urlHash": "50dc8b5b01b7",
-    "titleHash": "57d5471524bc"
-  },
-  {
-    "title": "Trump's Vision for A.I. Dominance Comes with Major Air Pollution",
-    "titlePt": "Plano de Trump para dominar IA aumenta poluição do ar",
-    "url": "https://www.nytimes.com/2026/08/05/climate/data-centers-pollution-trump-ai-energy.html",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A estratégia do governo Trump para dominar a corrida de IA prevê construção massiva de data centers, o que deve aumentar bastante a poluição do ar nos EUA. O artigo detalha regiões mais afetadas e consumo de energia projetado. Mostra o custo ambiental muitas vezes ignorado no debate sobre soberania tecnológica. Relevante para todos, não só para o setor tech. Leitura rápida, mas com peso.",
-    "reasonEn": "Trump's plan for AI dominance involves building huge data centers, which is projected to significantly increase US air pollution. The piece breaks down the most affected regions and projected energy use. It surfaces the environmental cost often missing from AI sovereignty debates. Relevant to everyone, not just tech workers. Quick read, but heavy implications.",
-    "score": 0.5,
-    "tags": [
-      "política",
-      "ambiente"
-    ],
-    "img": "img/8a0b7b8e72cc.jpg",
-    "ts": 1785995746,
-    "addedTs": 1786004225,
-    "urlHash": "8a0b7b8e72cc",
-    "titleHash": "dbbc54b067d7"
-  },
-  {
-    "title": "What AI First Engineering Orgs Look Like",
-    "titlePt": "Como são as organizações de engenharia que adotam IA primeiro",
-    "url": "https://arpitbhayani.me/blogs/ai-first-org/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O texto discute como equipes de engenharia estão se reorganizando para colocar IA no centro das operações. Mostra mudanças em processos, contratação e rituais de times que já tratam IA como camada padrão. É útil para líderes técnicos que estão redesenhando seus times. Não traz números novos, mas sintetiza um debate recorrente em empresas de tecnologia.",
-    "reasonEn": "The post discusses how engineering teams are reorganizing to put AI at the center of their operations. It highlights changes in processes, hiring, and rituals for teams that already treat AI as the default layer. It's useful for tech leaders redesigning their teams. It doesn't bring new numbers, but synthesizes a recurring debate in tech companies.",
-    "score": 0.55,
-    "tags": [
-      "engenharia",
-      "organização",
-      "agentes"
-    ],
-    "img": "img/c5333a60c34f.jpg",
-    "ts": 1785994244,
-    "addedTs": 1786004225,
-    "urlHash": "c5333a60c34f",
-    "titleHash": "4cc72fac83b2"
-  },
-  {
-    "title": "Google Genie 3: Interactive worlds generated by AI",
-    "titlePt": "Google Genie 3: mundos interativos gerados por IA",
-    "url": "https://deepmind.google/blog/genie-3-a-new-frontier-for-world-models/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O Google apresentou o Genie 3, um modelo capaz de gerar mundos tridimensionais interativos a partir de texto, vídeo ou imagem. O usuário pode navegar dentro do ambiente criado em tempo real, algo que antes exigia engines de jogos tradicionais. A novidade coloca o Google na corrida por simuladores generativos e abre caminhos para jogos, treinamento de robôs e prototipagem rápida. Desenvolvedores e criadores devem ficar atentos porque a tecnologia pode mudar o custo de construir mundos virtuais.",
-    "reasonEn": "Google introduced Genie 3, a model that can generate interactive 3D worlds from text, video, or images. Users can navigate inside the created environment in real time, something previously requiring traditional game engines. The announcement puts Google in the race for generative simulators and opens paths for games, robot training, and rapid prototyping. Developers and creators should pay attention because this technology could change the cost of building virtual worlds.",
-    "score": 0.95,
-    "tags": [
-      "google",
-      "modelo",
-      "lançamento"
-    ],
-    "img": "img/aa1c051af921.jpg",
-    "ts": 1785994152,
-    "addedTs": 1786004225,
-    "urlHash": "aa1c051af921",
-    "titleHash": "855cd9aa0245"
-  },
-  {
-    "title": "Architectural Implications of Agentic AI Workflows",
-    "titlePt": "Implicações de arquitetura para fluxos de IA agêntica",
-    "url": "https://arxiv.org/abs/2608.04458",
-    "source": "arXiv AI",
-    "sources": [
-      "arXiv AI"
-    ],
-    "reason": "O artigo discute como sistemas de software precisam mudar para suportar agentes de IA que tomam decisões sozinhos. Aborda padrões de chamadas, isolamento de ações, observabilidade e custos de execução. É um conteúdo útil para arquitetos e engenheiros que estão desenhando plataformas internas com agentes. Ainda é acadêmico, mas serve como alerta para decisões técnicas atuais.",
-    "reasonEn": "The paper discusses how software systems need to change to support AI agents that make decisions on their own. It addresses call patterns, action isolation, observability, and execution costs. It's useful content for architects and engineers designing internal platforms with agents. It's still academic, but serves as a warning for current technical decisions.",
-    "score": 0.55,
-    "tags": [
-      "arquitetura",
-      "agentes",
-      "engenharia"
-    ],
-    "img": "img/d62900498ea5.jpg",
-    "ts": 1785988800,
-    "addedTs": 1786004225,
-    "urlHash": "d62900498ea5",
-    "titleHash": "96ca205a2562"
   }
 ]
