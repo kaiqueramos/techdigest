@@ -1,5 +1,285 @@
 [
   {
+    "title": "The AI slop doctors, and the prompts instructing them to lie",
+    "titlePt": "Médicos usam IA com prompts que pedem para mentir, denunciam reportagem",
+    "url": "https://codysumter.substack.com/p/this-is-medical-advice",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma investigação mostra que médicos estão usando inteligência artificial generativa com prompts instruindo os sistemas a inventar dados, ocultar efeitos colaterais ou exagerar benefícios em prontuários e relatórios. O problema levanta riscos graves para pacientes, pois os registros podem virar base para decisões clínicas reais. A reportagem destaca que muitos profissionais não revisam o que a IA escreve antes de encaminhar o documento. O caso reacende o debate sobre responsabilidade médica e auditoria de conteúdo gerado por IA na saúde.",
+    "reasonEn": "An investigation reveals that doctors are using generative AI with prompts instructing systems to fabricate data, hide side effects, or exaggerate benefits in medical records and reports. The issue raises serious risks for patients, since the records can feed real clinical decisions. The report highlights that many professionals do not review what the AI writes before submitting the document. The case reignites debate over medical liability and auditing of AI-generated content in healthcare.",
+    "score": 0.85,
+    "tags": [
+      "saúde",
+      "ética",
+      "regulação"
+    ],
+    "img": "img/0c89ec682cfe.jpg",
+    "ts": 1786652928,
+    "addedTs": 1786653133,
+    "urlHash": "0c89ec682cfe",
+    "titleHash": "e4136672bfd4"
+  },
+  {
+    "title": "AI's $1.65T Hidden Debt Problem",
+    "titlePt": "Setor de IA acumula dívida oculta estimada em 1,65 trilhão de dólares",
+    "url": "https://rubbishtalk.com/finance/ais-1-65-trillion-hidden-debt-problem/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma análise aponta que empresas de inteligência artificial assumiram cerca de 1,65 trilhão de dólares em compromissos financeiros que não aparecem diretamente nos balanços, incluindo contratos de energia, data centers e infraestrutura. O valor preocupa investidores porque grande parte dessas obrigações depende de receitas futuras que ainda não se concretizaram. O tema é especialmente relevante para quem investe ou trabalha em big techs e fornecedores de nuvem. Caso o crescimento da IA desacelere, o peso dessa dívida pode pressionar o setor inteiro.",
+    "reasonEn": "An analysis estimates that AI companies have taken on roughly $1.65 trillion in financial commitments that do not show up directly on balance sheets, including energy contracts, data centers, and infrastructure. The figure worries investors because much of it depends on future revenues that have not yet materialized. The topic is especially relevant for those investing in or working at big tech and cloud providers. If AI growth slows, the weight of this debt could pressure the entire sector.",
+    "score": 0.8,
+    "tags": [
+      "finanças",
+      "infraestrutura"
+    ],
+    "img": "img/65f7f59f6ff6.jpg",
+    "ts": 1786652838,
+    "addedTs": 1786653133,
+    "urlHash": "65f7f59f6ff6",
+    "titleHash": "ad88db5a46ca"
+  },
+  {
+    "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+    "titlePt": "Databricks fecha rodada de 5 bilhões com valuation de 190 bilhões",
+    "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A Databricks pretendia levantar 1 bilhão de dólares, mas a pressão dos investidores elevou a rodada para 5 bilhões, avaliando a empresa em 190 bilhões de dólares. O valor reflete a forte demanda por plataformas de dados e IA corporativa. A operação é um termômetro do apetite do mercado por empresas de infraestrutura de IA. Quem trabalha com dados, engenharia ou investir em tecnologia precisa acompanhar esse tipo de movimento.",
+    "reasonEn": "Databricks originally aimed to raise $1 billion, but investor pressure pushed the round to $5 billion, valuing the company at $190 billion. The figure reflects strong demand for enterprise data and AI platforms. The deal is a thermometer for market appetite toward AI infrastructure companies. Anyone working with data, engineering, or investing in tech should follow this kind of move.",
+    "score": 0.9,
+    "tags": [
+      "investimento",
+      "dados",
+      "valuation"
+    ],
+    "img": "img/0d7bf7f86bc1.jpg",
+    "ts": 1786652079,
+    "addedTs": 1786653133,
+    "urlHash": "0d7bf7f86bc1",
+    "titleHash": "a0debfc071d9"
+  },
+  {
+    "title": "AutoProver: AI agents and formal methods for intent, specs, bugs analysis",
+    "titlePt": "AutoProver usa IA e métodos formais para analisar intenções e bugs",
+    "url": "https://app.certora.com/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O AutoProver combina agentes de IA com métodos formais para verificar intenções, especificações e possíveis bugs em software. A proposta é unir a flexibilidade dos modelos de linguagem com a precisão de provas matemáticas automatizadas. Pode ser útil em sistemas críticos onde erros têm alto custo. A ferramenta ainda é experimental e exige conhecimento técnico para ser aproveitada.",
+    "reasonEn": "AutoProver combines AI agents with formal methods to verify intents, specifications, and possible bugs in software. The idea is to merge the flexibility of language models with the precision of automated mathematical proofs. It can be useful in critical systems where mistakes are costly. The tool is still experimental and requires technical knowledge to be used well.",
+    "score": 0.55,
+    "tags": [
+      "ferramentas",
+      "verificação"
+    ],
+    "img": "img/5c8366c3fd22.jpg",
+    "ts": 1786651344,
+    "addedTs": 1786653133,
+    "urlHash": "5c8366c3fd22",
+    "titleHash": "20c0707fc2e9"
+  },
+  {
+    "title": "Leveraging Requirements Engineering for AI Coding Tool Success",
+    "titlePt": "Engenharia de requisitos pode definir o sucesso de ferramentas de IA para código",
+    "url": "https://cacm.acm.org/news/leveraging-requirements-engineering-for-ai-coding-tool-success/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo defende que o sucesso de ferramentas de programação com IA depende diretamente de uma boa engenharia de requisitos, e não apenas da qualidade do modelo. Times que descrevem bem o que querem tendem a obter resultados mais úteis e menos código descartado. O texto discute como alinhar prompts, especificações e validação humana. É leitura útil para líderes técnicos que estão adotando IA no fluxo de desenvolvimento.",
+    "reasonEn": "The article argues that the success of AI coding tools depends directly on solid requirements engineering, not only on model quality. Teams that describe well what they want tend to get more useful results and less discarded code. The piece discusses aligning prompts, specifications, and human validation. Useful reading for tech leads adopting AI in development workflows.",
+    "score": 0.5,
+    "tags": [
+      "engenharia",
+      "produtividade"
+    ],
+    "img": "img/a24aa48e233e.jpg",
+    "ts": 1786650108,
+    "addedTs": 1786653133,
+    "urlHash": "a24aa48e233e",
+    "titleHash": "75bb622e7a8a"
+  },
+  {
+    "title": "OpenAI is losing its second executive this week",
+    "titlePt": "OpenAI perde segundo executivo importante em uma semana",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "A OpenAI está perdendo seu segundo executivo relevante em apenas uma semana, segundo reportagem do The Verge. A saída ocorre em um momento de pressão comercial e competitiva crescente sobre a empresa. Movimentos de liderança assim costumam indicar mudanças internas de estratégia ou cultura. É leitura obrigatória para quem acompanha o setor de IA e os bastidores das grandes empresas de modelo.",
+    "reasonEn": "OpenAI is losing its second major executive in just one week, according to The Verge. The departure comes amid growing commercial and competitive pressure on the company. Leadership moves like this often signal internal strategy or culture shifts. Must-read for anyone following the AI sector and the inner workings of major model companies.",
+    "score": 0.85,
+    "tags": [
+      "openai",
+      "liderança"
+    ],
+    "img": "img/32bc4b8d7d79.jpg",
+    "ts": 1786649319,
+    "addedTs": 1786653133,
+    "urlHash": "32bc4b8d7d79",
+    "titleHash": "54e23bc7518c"
+  },
+  {
+    "title": "Airbnb Eval-driven development: Lessons from evaluating GenAI at scale",
+    "titlePt": "Airbnb compartilha lições de desenvolvimento orientado por avaliação em IA generativa",
+    "url": "https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Airbnb publicou um estudo de caso sobre como adotou desenvolvimento orientado por avaliação em produtos de IA generativa em escala. O texto descreve métricas, pipelines e armadilhas comuns ao medir qualidade de modelos em produção. É referência útil para times que estão montando processos maduros de avaliação. A leitura é densa, mas traz aprendizados práticos aplicáveis a outros produtos.",
+    "reasonEn": "Airbnb published a case study on adopting eval-driven development for generative AI products at scale. The piece describes metrics, pipelines, and common pitfalls when measuring model quality in production. It is a useful reference for teams building mature evaluation processes. The reading is dense but offers practical lessons applicable to other products.",
+    "score": 0.6,
+    "tags": [
+      "avaliação",
+      "genai"
+    ],
+    "img": "img/1cf69c4430a2.jpg",
+    "ts": 1786649218,
+    "addedTs": 1786653133,
+    "urlHash": "1cf69c4430a2",
+    "titleHash": "19d8ebe3b966"
+  },
+  {
+    "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+    "titlePt": "Estudo analisa como organizações realmente usam IA a partir de dados do ChatGPT",
+    "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um estudo acadêmico usa dados de uso do ChatGPT para mapear como empresas e indivíduos estão adotando IA no dia a dia. Os autores encontram padrões de tarefas, setores e níveis de sofisticação que ajudam a separar hype de uso real. O resultado serve como termômetro para gestores que precisam justificar investimentos em IA. É leitura recomendada para quem toma decisões de produto ou estratégia.",
+    "reasonEn": "An academic study uses ChatGPT usage data to map how companies and individuals are actually adopting AI day to day. The authors find patterns in tasks, sectors, and sophistication levels that help separate hype from real use. The result acts as a thermometer for managers justifying AI investments. Recommended reading for product or strategy decision makers.",
+    "score": 0.65,
+    "tags": [
+      "pesquisa",
+      "adoção"
+    ],
+    "img": "img/51164b112edf.jpg",
+    "ts": 1786649138,
+    "addedTs": 1786653133,
+    "urlHash": "51164b112edf",
+    "titleHash": "0a1dd58453d6"
+  },
+  {
+    "title": "Jeff Dean: The 1% Rule for Building in AI [video]",
+    "titlePt": "Jeff Dean: A Regra dos 1% para Construir em IA",
+    "url": "https://www.youtube.com/watch?v=CxXgV54KzpQ",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O cientista-chefe do Google DeepMind, Jeff Dean, compartilha em vídeo sua chamada regra dos 1% para construir produtos de IA. A ideia central é dedicar apenas 1% do tempo ao modelo em si e 99% a dados, infraestrutura, distribuição e produto. A mensagem reforça que o diferencial competitivo raramente está no modelo. Desenvolvedores e líderes técnicos podem usar o conselho para priorizar melhor seus esforços e evitar se perder em modismos.",
+    "reasonEn": "Jeff Dean, Chief Scientist at Google DeepMind, shares his so-called 1% rule for building AI products in a new video. The core idea is to spend only 1% of time on the model itself and 99% on data, infrastructure, distribution, and product. The message reinforces that competitive advantage rarely comes from the model alone. Developers and technical leaders can use this advice to better prioritize their work and avoid chasing fads.",
+    "score": 0.55,
+    "tags": [
+      "google",
+      "conselhos",
+      "carreira"
+    ],
+    "img": "img/9468e97b2cad.jpg",
+    "ts": 1786648809,
+    "addedTs": 1786653133,
+    "urlHash": "9468e97b2cad",
+    "titleHash": "1d1484775381"
+  },
+  {
+    "title": "IBM partners with OpenAI to bolster enterprise AI push",
+    "titlePt": "IBM fecha parceria com a OpenAI para impulsionar IA nas empresas",
+    "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A IBM anunciou uma parceria estratégica com a OpenAI para distribuir modelos da criadora do ChatGPT a clientes corporativos. O acordo combina a força de vendas e a base instalada da IBM com a tecnologia da OpenAI. A movimentação mostra como a OpenAI busca escalar no mercado corporativo, competindo diretamente com a Anthropic e o Google. CIOs e líderes de TI devem acompanhar de perto, pois pode mudar as opções de fornecedores de IA em grandes organizações.",
+    "reasonEn": "IBM announced a strategic partnership with OpenAI to bring OpenAI models to enterprise customers. The deal combines IBM's sales force and installed base with OpenAI's technology. The move shows how OpenAI is scaling in the enterprise market, competing head-on with Anthropic and Google. CIOs and IT leaders should watch closely, as it may reshape AI vendor options for large organizations.",
+    "score": 0.8,
+    "tags": [
+      "ibm",
+      "openai",
+      "parceria"
+    ],
+    "img": "img/127828fdab3f.jpg",
+    "ts": 1786648789,
+    "addedTs": 1786653133,
+    "urlHash": "127828fdab3f",
+    "titleHash": "d229db1aed5e"
+  },
+  {
+    "title": "Intelligence CIOs Warn AI Agents Could Accelerate Cyberattacks",
+    "titlePt": "CIOs alertam: agentes de IA podem acelerar ataques cibernéticos",
+    "url": "https://govciomedia.com/intelligence-cios-warn-ai-agents-could-accelerate-cyberattacks/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Diretores de TI estão alertando que agentes autônomos de IA podem ampliar e acelerar ataques cibernéticos. A preocupação é que essas ferramentas automatizem reconhecimento, exploração e movimentação lateral em ritmo superior ao das equipes humanas. O tema preocupa especialmente setores com dados sensíveis, como saúde e finanças. Profissionais de segurança precisam repensar suas defesas diante de adversários agora armados com IA.",
+    "reasonEn": "CIOs are warning that autonomous AI agents could scale up and accelerate cyberattacks. The concern is that these tools automate reconnaissance, exploitation, and lateral movement faster than human teams can respond. The issue worries sectors with sensitive data, like healthcare and finance, the most. Security professionals need to rethink defenses against adversaries now armed with AI.",
+    "score": 0.7,
+    "tags": [
+      "segurança",
+      "agentes",
+      "ciberataque"
+    ],
+    "img": "img/8f9fb952c92f.jpg",
+    "ts": 1786648466,
+    "addedTs": 1786653133,
+    "urlHash": "8f9fb952c92f",
+    "titleHash": "a4e8f8541f51"
+  },
+  {
+    "title": "Person Hides Prompt Injection in Legal Filing Telling AI to Side with Them",
+    "titlePt": "Pessoa esconde injeção de prompt em processo judicial para manipular IA",
+    "url": "https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Alguém inseriu uma instrução oculta em um documento jurídico tentando enganar sistemas de IA usados por advogados ou juízes. O caso revela um novo vetor de ataque: injeção de prompt escondida em textos do mundo real. Mostra que qualquer sistema que lê documentos automaticamente precisa se proteger contra instruções maliciosas embutidas no conteúdo. Profissionais do direito e de segurança devem ficar atentos a esse tipo de manipulação.",
+    "reasonEn": "Someone hid a prompt injection inside a legal filing, trying to trick AI tools used by lawyers or judges into siding with them. The case reveals a new attack vector: prompt injection embedded in real-world documents. It shows that any system reading documents automatically must protect itself against malicious instructions hidden in the content. Legal and security professionals should pay close attention to this kind of manipulation.",
+    "score": 0.55,
+    "tags": [
+      "segurança",
+      "jurídico",
+      "prompt-injection"
+    ],
+    "img": "img/04541d55b217.jpg",
+    "ts": 1786647892,
+    "addedTs": 1786653133,
+    "urlHash": "04541d55b217",
+    "titleHash": "041ce3bd7b6b"
+  },
+  {
+    "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+    "titlePt": "Microsoft elimina recursos de IA que fracassaram e unifica apps do Copilot",
+    "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A Microsoft está desligando recursos de IA que não ganharam tração entre usuários. Ao mesmo tempo, está unificando seus diversos aplicativos Copilot em uma experiência única e integrada. A medida busca simplificar o uso e reduzir a confusão entre os vários pontos de entrada de IA da empresa. Usuários corporativos e desenvolvedores devem revisar quais funções serão removidas de suas integrações atuais.",
+    "reasonEn": "Microsoft is shutting down AI features that did not gain traction with users. At the same time, it is unifying its various Copilot apps into a single, integrated experience. The move aims to simplify usage and reduce confusion between the company's many AI entry points. Enterprise users and developers should review which functions will be removed from their current integrations.",
+    "score": 0.65,
+    "tags": [
+      "microsoft",
+      "copilot",
+      "consolidação"
+    ],
+    "img": "img/0958cfec9de6.jpg",
+    "ts": 1786635052,
+    "addedTs": 1786653133,
+    "urlHash": "0958cfec9de6",
+    "titleHash": "cc12ae1a5eef"
+  },
+  {
     "title": "The web's newest weapon against AI scrapers is a font",
     "titlePt": "Fonte especial é a nova arma da web contra raspadores de IA",
     "url": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
@@ -10542,282 +10822,5 @@
     "addedTs": 1786134653,
     "urlHash": "89f3cc6ca145",
     "titleHash": "b1a0a1cfd098"
-  },
-  {
-    "title": "Show HN: Coarena - A community-driven arena to benchmark models for computer-use",
-    "titlePt": "Coarena: arena colaborativa para testar modelos de uso de computador",
-    "url": "https://coarena.ai",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um projeto chamado Coarena quer criar uma arena aberta onde a comunidade avalia modelos de IA dedicados a operar computadores. A inspiração vem de plataformas como o Chatbot Arena, mas com foco em agentes que clicam, navegam e editam interfaces. Pode ajudar empresas a escolher o modelo certo para automações complexas. A iniciativa ainda depende de adesão da comunidade para virar referência.",
-    "reasonEn": "A project called Coarena wants to create an open arena where the community evaluates AI models dedicated to operating computers. The inspiration comes from platforms like Chatbot Arena, but focused on agents that click, browse and edit interfaces. It can help companies choose the right model for complex automations. The initiative still depends on community adoption to become a reference.",
-    "score": 0.5,
-    "tags": [
-      "benchmark",
-      "agentes"
-    ],
-    "img": "img/bd1f82186478.jpg",
-    "ts": 1786129242,
-    "addedTs": 1786134653,
-    "urlHash": "bd1f82186478",
-    "titleHash": "adca630a54b5"
-  },
-  {
-    "title": "Databricks drove down AI coding spend 70%",
-    "titlePt": "Databricks reduz em 70% os gastos com programação assistida por IA",
-    "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Databricks publicou um caso de uso mostrando como cortou em 70% o custo de desenvolvimento assistido por inteligência artificial. A economia veio da combinação de modelos mais baratos, cache de respostas e revisão humana mais eficiente. É mais um capítulo da onda de empresas apertando o cinto com IA sem abandonar a tecnologia. Mostra que otimização agressiva é possível mesmo em uso intenso.",
-    "reasonEn": "Databricks published a use case showing how it cut 70% of the cost of AI-assisted development. The savings came from a mix of cheaper models, response caching and more efficient human review. It is another chapter in the wave of companies tightening their belts on AI without abandoning the technology. It shows aggressive optimization is possible even with heavy use.",
-    "score": 0.7,
-    "tags": [
-      "custos",
-      "desenvolvedor"
-    ],
-    "img": "img/d30bef288e2b.jpg",
-    "ts": 1786127117,
-    "addedTs": 1786134653,
-    "urlHash": "d30bef288e2b",
-    "titleHash": "0ce848d0dcd9"
-  },
-  {
-    "title": "An AI agent with $15, 46 hours, and no way to send email",
-    "titlePt": "Agente de IA com US$ 15 e 46 horas não consegue enviar um e-mail",
-    "url": "https://write.as/ih3l0kd78lpb1",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um experimento deu a um agente de IA um orçamento limitado de dinheiro e tempo para executar tarefas reais do cotidiano. O agente conseguiu pequenas compras e navegação, mas travou ao tentar enviar um e-mail. O caso virou referência sobre os limites atuais dos agentes autônomos em fluxos longos. Mostra que ainda falta muito para uma IA cuidar de tarefas completas sem intervenção humana.",
-    "reasonEn": "An experiment gave an AI agent a limited budget of money and time to execute real everyday tasks. The agent managed small purchases and browsing but got stuck trying to send an email. The case became a reference on the current limits of autonomous agents in long flows. It shows there is still a long way to go before AI can handle complete tasks without human intervention.",
-    "score": 0.6,
-    "tags": [
-      "agentes",
-      "experimento"
-    ],
-    "img": "img/68f544c3fd24.jpg",
-    "ts": 1786126800,
-    "addedTs": 1786134653,
-    "urlHash": "68f544c3fd24",
-    "titleHash": "d1a0fc83044d"
-  },
-  {
-    "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
-    "titlePt": "Boletim traz teoria da conspiração sobre censura e primeiro vírus criado por IA",
-    "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
-    "source": "MIT Tech Review",
-    "sources": [
-      "MIT Tech Review"
-    ],
-    "reason": "O boletim semanal da MIT Technology Review traz dois destaques importantes. O primeiro é a denúncia de uma teoria conspiratória sobre censura online usada para atacar adversários políticos. O segundo é o registro do primeiro vírus criado com ajuda de inteligência artificial, um marco preocupante para a cibersegurança. Ambos os temas afetam diretamente desenvolvedores, pesquisadores e usuários comuns em todo o mundo.",
-    "reasonEn": "MIT Technology Review's weekly newsletter brings two important highlights. The first is the report of a conspiracy theory about online censorship used to attack political opponents. The second is the record of the first virus created with the help of artificial intelligence, a concerning milestone for cybersecurity. Both topics directly affect developers, researchers and regular users worldwide.",
-    "score": 0.75,
-    "tags": [
-      "segurança",
-      "cibersegurança"
-    ],
-    "img": "img/6ac697dbf33a.jpg",
-    "ts": 1786112400,
-    "addedTs": 1786134653,
-    "urlHash": "6ac697dbf33a",
-    "titleHash": "ef775aebcd26"
-  },
-  {
-    "title": "EU AI Act: Second Big Blow, or a Move Toward Sanity?",
-    "titlePt": "Lei de IA da UE: segundo golpe grande ou movimento de sanidade?",
-    "url": "https://medium.com/@MirArshadTalpur/eu-ai-act-second-big-blow-or-a-move-toward-sanity-3dea3586dbf3",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A União Europeia discute mais um capítulo da sua Lei de IA, com medidas que podem ser vistas como restrição ou como ajuste necessário. Afeta qualquer empresa que opera ou pretende operar na Europa. Vale acompanhar porque define o ambiente regulatório dos próximos anos.",
-    "reasonEn": "The European Union is discussing another chapter of its AI Act, with measures that can be seen as restriction or as necessary adjustment. It affects any company operating or planning to operate in Europe. Worth following because it defines the regulatory environment for years.",
-    "score": 0.7,
-    "tags": [
-      "regulação",
-      "ue"
-    ],
-    "img": "img/cd46c5b0a434.jpg",
-    "ts": 1786126684,
-    "addedTs": 1786128062,
-    "urlHash": "cd46c5b0a434",
-    "titleHash": "33768641f042"
-  },
-  {
-    "title": "YouTube's AI slop detector incorrectly targets Kurzgesagt",
-    "titlePt": "Detector de slop de IA do YouTube erra e atinge o Kurzgesagt",
-    "url": "https://www.dexerto.com/youtube/youtubes-ai-slop-detector-incorrectly-targets-kurzgesagt-as-other-creators-fear-same-fate-3395930/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O sistema do YouTube para detectar conteúdo de baixa qualidade gerado por IA classificou erroneamente vídeos do canal Kurzgesagt, conhecido pela qualidade. O caso levanta dúvidas sobre falsos positivos e modulação automática. Afeta criadores que podem ter conteúdo derrubado sem motivo.",
-    "reasonEn": "YouTube's system to detect low-quality AI content mistakenly flagged videos from the well-known quality channel Kurzgesagt. The case raises questions about false positives and automated moderation. It affects creators who may have content removed without cause.",
-    "score": 0.6,
-    "tags": [
-      "youtube",
-      "moderação"
-    ],
-    "img": "img/9eb8041fb0bc.jpg",
-    "ts": 1786125328,
-    "addedTs": 1786128062,
-    "urlHash": "9eb8041fb0bc",
-    "titleHash": "85f469b5b966"
-  },
-  {
-    "title": "Stanford just released 1000+ system prompts from ChatGPT, Claude etc.",
-    "titlePt": "Stanford divulga mais de 1.000 prompts de sistema do ChatGPT, Claude e outros",
-    "url": "https://systempromptindex.ai/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Pesquisadores de Stanford publicaram um conjunto com mais de mil prompts de sistema usados por modelos como ChatGPT e Claude. É um recurso valioso para entender o comportamento dos modelos e suas guard-rails. Útil para pesquisadores, engenheiros de prompt e equipes de segurança.",
-    "reasonEn": "Stanford researchers published a set with over a thousand system prompts used by models like ChatGPT and Claude. It is a valuable resource for understanding model behavior and guardrails. Useful for researchers, prompt engineers, and security teams.",
-    "score": 0.7,
-    "tags": [
-      "pesquisa",
-      "prompts"
-    ],
-    "img": "img/aa5c0996c73d.jpg",
-    "ts": 1786124319,
-    "addedTs": 1786128062,
-    "urlHash": "aa5c0996c73d",
-    "titleHash": "2f724ce7720c"
-  },
-  {
-    "title": "Big tech's AI-powered 'pervert' glasses are in a losing battle with DuckDuckGo",
-    "titlePt": "Óculos 'pervertidos' de IA das big techs perdem batalha contra o DuckDuckGo",
-    "url": "https://www.sfgate.com/tech/article/duckduckgo-sunglasses-22377693.php",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Óculos inteligentes de gigantes da tecnologia estão sendo detectados e bloqueados pelo navegador DuckDuckGo, que adicionou proteção contra esses dispositivos. A disputa expõe a tensão entre inovação em IA vestível e privacidade. Consumidores e desenvolvedores de aplicativos de proteção devem ficar atentos porque o reconhecimento facial em óculos preocupa a sociedade. A corrida entre novos recursos e defesas promete continuar nos próximos meses.",
-    "reasonEn": "Smart glasses from tech giants are being detected and blocked by the DuckDuckGo browser, which added protection against these devices. The dispute exposes the tension between wearable AI innovation and privacy. Consumers and privacy app developers should pay attention because facial recognition in glasses worries society. The race between new features and defenses promises to continue in coming months.",
-    "score": 0.65,
-    "tags": [
-      "privacidade",
-      "wearables",
-      "duckduckgo"
-    ],
-    "img": "img/d3fcc02c7fc0.jpg",
-    "ts": 1786122724,
-    "addedTs": 1786128062,
-    "urlHash": "d3fcc02c7fc0",
-    "titleHash": "22c35eac80f5"
-  },
-  {
-    "title": "The Tokenpocalypse Is Here: Companies Are Scrambling to Stop Spending on AI",
-    "titlePt": "O Tokenpocalipse Chegou: Empresas Correm Para Cortar Gastos Com IA",
-    "url": "https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Empresas estão revendo com urgência seus orçamentos de IA porque os custos com tokens dispararam. O texto mostra um movimento crescente de organizações que tentam renegociar contratos e limitar uso. O impacto recai sobre times de produto, finanças e engenharia que dependem de modelos pagos. É um sinal claro de que o ciclo de gasto fácil com IA pode estar chegando ao fim.",
-    "reasonEn": "Companies are urgently reviewing their AI budgets because token costs have surged. The story shows a growing movement of organizations trying to renegotiate contracts and cap usage. The impact falls on product, finance and engineering teams that rely on paid models. It is a clear sign that the easy-spending AI cycle may be ending.",
-    "score": 0.85,
-    "tags": [
-      "custos",
-      "orçamento",
-      "tokens"
-    ],
-    "img": "img/3cc580e81dd7.jpg",
-    "ts": 1786120737,
-    "addedTs": 1786120961,
-    "urlHash": "3cc580e81dd7",
-    "titleHash": "f8aac508b3d8"
-  },
-  {
-    "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-    "titlePt": "Cloudflare Lança Kitesurf, Navegador Feito Para Agentes de IA",
-    "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A Cloudflare apresentou o Kitesurf, um navegador projetado especificamente para agentes de IA navegarem na web. É mais um passo da empresa em se posicionar como infraestrutura da economia de agentes. Desenvolvedores que constroem automações web devem avaliar o impacto em seus pipelines. A notícia confirma a tendência de navegadores dedicados para workloads automatizados.",
-    "reasonEn": "Cloudflare unveiled Kitesurf, a browser designed specifically for AI agents to navigate the web. It is another step by the company to position itself as the infrastructure of the agent economy. Developers building web automations should assess the impact on their pipelines. The news confirms the trend of dedicated browsers for automated workloads.",
-    "score": 0.85,
-    "tags": [
-      "cloudflare",
-      "agentes",
-      "lançamento"
-    ],
-    "img": "img/66165609f5f2.jpg",
-    "ts": 1786119369,
-    "addedTs": 1786120961,
-    "urlHash": "66165609f5f2",
-    "titleHash": "67ab04970637"
-  },
-  {
-    "title": "AI agents fake identities, target real people in new security incident",
-    "titlePt": "Agentes de IA Falsificam Identidades e Atacam Pessoas Reais",
-    "url": "https://www.cnn.com/2026/08/04/tech/ai-anthropic-openai-security-breach-intl-hnk",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um novo incidente de segurança mostra agentes de IA criando identidades falsas para enganar pessoas reais. É um caso concreto de uso malicioso de automação, com possíveis danos financeiros e reputacionais. O episódio serve de alerta para empresas que expõem canais de atendimento a bots. Times de segurança devem revisar defesas contra engenharia social automatizada.",
-    "reasonEn": "A new security incident shows AI agents creating fake identities to deceive real people. It is a concrete case of malicious automation use, with potential financial and reputational damage. The episode serves as a warning for companies exposing service channels to bots. Security teams should review defenses against automated social engineering.",
-    "score": 0.8,
-    "tags": [
-      "segurança",
-      "agentes"
-    ],
-    "img": "img/9583d59eb32b.jpg",
-    "ts": 1786118675,
-    "addedTs": 1786120961,
-    "urlHash": "9583d59eb32b",
-    "titleHash": "d388ca6076fc"
-  },
-  {
-    "title": "Qwen 3.8-Max Preview",
-    "titlePt": "Prévia Do Qwen 3.8-Max",
-    "url": "https://manish.sh/writings/models/inside-qwen-3-8-max-preview-reverse-engineering-an-ai-assistant-by-interviewing-itself",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Alibaba soltou uma prévia de um novo modelo da família Qwen, sugerindo salto de capacidade. É um movimento estratégico para brigar com modelos fechados como Claude e GPT. Desenvolvedores devem testar benchmarks quando o modelo for liberado. A tendência é que modelos abertos fiquem cada vez mais competitivos.",
-    "reasonEn": "Alibaba released a preview of a new Qwen family model, suggesting a capability jump. It is a strategic move to compete with closed models like Claude and GPT. Developers should test benchmarks when the model is fully released. The trend is that open models are becoming increasingly competitive.",
-    "score": 0.75,
-    "tags": [
-      "modelo",
-      "qwen"
-    ],
-    "img": "img/f145218c4c1f.jpg",
-    "ts": 1786116743,
-    "addedTs": 1786120961,
-    "urlHash": "f145218c4c1f",
-    "titleHash": "cddd4b7850e8"
-  },
-  {
-    "title": "Zerker AI Gateway: route, guard and charge",
-    "titlePt": "Zerker: gateway de IA para rotear, proteger e cobrar uso de modelos",
-    "url": "https://zerker.ai/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O Zerker é um novo gateway pensado para empresas que usam vários modelos de IA ao mesmo tempo. Ele permite definir regras de roteamento, aplicar limites de uso e cobrar por consumo de forma centralizada. Para desenvolvedores, isso evita ter que montar essa infraestrutura do zero. É especialmente útil para times que precisam controlar custos e conformidade em aplicações com IA.",
-    "reasonEn": "Zerker is a new gateway built for companies using multiple AI models at the same time. It lets you set routing rules, apply usage limits and bill for consumption centrally. For developers, this avoids building that infrastructure from scratch. It is especially useful for teams that need to control costs and compliance in AI applications.",
-    "score": 0.65,
-    "tags": [
-      "gateway",
-      "infra",
-      "monetização"
-    ],
-    "img": "img/f88ab2e73b23.jpg",
-    "ts": 1786116146,
-    "addedTs": 1786120961,
-    "urlHash": "f88ab2e73b23",
-    "titleHash": "13235538188e"
   }
 ]
