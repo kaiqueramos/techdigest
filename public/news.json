@@ -1,5 +1,199 @@
 [
   {
+    "title": "AI Agents Enable Adaptive Computer Worms",
+    "titlePt": "Agentes de IA criam vermes de computador adaptativos",
+    "url": "https://arxiv.org/abs/2606.03811",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Pesquisadores mostraram que agentes baseados em LLMs conseguem criar e operar vermes de computador autônomos, capazes de se adaptar e escapar de defesas tradicionais. O estudo reduz a barreira técnica para ataques sofisticados, porque a IA escreve e modifica o malware sozinha. Profissionais de segurança, equipes de DevSecOps e qualquer organização exposta à internet precisam acompanhar. É mais um sinal de que cibersegurança precisa evoluir para acompanhar a IA.",
+    "reasonEn": "Researchers demonstrated that LLM-based agents can build and operate autonomous computer worms that adapt and evade traditional defenses. The study lowers the technical bar for sophisticated attacks because the AI writes and mutates the malware on its own. Security teams, DevSecOps, and any internet-exposed organization need to pay attention. Another sign that cybersecurity must evolve to keep up with AI.",
+    "score": 0.85,
+    "tags": [
+      "segurança",
+      "agentes",
+      "pesquisa"
+    ],
+    "img": "img/ca7c5fedb235.jpg",
+    "ts": 1786611164,
+    "addedTs": 1786611835,
+    "urlHash": "ca7c5fedb235",
+    "titleHash": "bb8095c721f8"
+  },
+  {
+    "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
+    "titlePt": "Bullet (YC S26) chega como agente de código mais rápido",
+    "url": "https://www.codewithbullet.com",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma nova startup apoiada pela Y Combinator lança o Bullet, um agente de IA focado em acelerar a escrita e edição de código. Entra num mercado competitivo que já tem Claude Code, Goose, Cursor e outros. O destaque é a proposta de ser mais rápido, mas ainda é cedo para saber a qualidade real. Vale acompanhar para desenvolvedores cansados do custo alto de ferramentas similares.",
+    "reasonEn": "A new Y Combinator-backed startup launches Bullet, an AI coding agent focused on speed. It enters a crowded market that already includes Claude Code, Goose, Cursor, and others. The pitch is faster execution, but it is still early to judge real-world quality. Worth watching for developers tired of high-priced alternatives.",
+    "score": 0.7,
+    "tags": [
+      "agentes",
+      "lançamento",
+      "yc"
+    ],
+    "img": "img/1f85fc748c83.jpg",
+    "ts": 1786608870,
+    "addedTs": 1786611835,
+    "urlHash": "1f85fc748c83",
+    "titleHash": "c19165f2ca3b"
+  },
+  {
+    "title": "Gemini API removes postpay billing",
+    "titlePt": "API do Gemini remove cobrança pós-paga",
+    "url": "https://news.ycombinator.com/item?id=49283011",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Google retirou a opção de pagamento pós-pago da API do Gemini, exigindo que desenvolvedores paguem antecipadamente pelos créditos. Isso muda a forma como times planejam orçamento, especialmente em produção, onde o consumo varia mês a mês. Pequenos times e startups podem ser os mais afetados, porque perdem a flexibilidade de faturamento mensal. Vale revisar gastos com Gemini antes da próxima cobrança.",
+    "reasonEn": "Google removed postpaid billing from the Gemini API, requiring developers to prepay for credits. This changes how teams plan budgets, especially in production where usage varies month to month. Small teams and startups are most affected because they lose monthly invoicing flexibility. Worth reviewing your Gemini spend before the next billing cycle.",
+    "score": 0.75,
+    "tags": [
+      "google",
+      "api",
+      "preço"
+    ],
+    "img": "img/17a70180dc37.jpg",
+    "ts": 1786608358,
+    "addedTs": 1786611835,
+    "urlHash": "17a70180dc37",
+    "titleHash": "615dc6652b4a"
+  },
+  {
+    "title": "Recast uses hyper-resolution AI weather model",
+    "titlePt": "Recast usa modelo de IA de clima em alta resolução",
+    "url": "https://www.recastsystems.com/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Recast está aplicando um modelo de IA de resolução hiper-alta para previsão do tempo, permitindo previsões mais detalhadas em regiões menores. Pode melhorar alertas de eventos extremos para governos, empresas e usuários finais. Ainda é cedo para saber se supera modelos tradicionais em produção. Relevante para quem trabalha com dados climáticos, seguros ou logística.",
+    "reasonEn": "Recast is applying a hyper-resolution AI weather model for forecasting, enabling more detailed predictions in smaller regions. Could improve extreme-event alerts for governments, businesses, and end users. Still early to tell if it beats traditional models in production. Relevant for climate data, insurance, and logistics teams.",
+    "score": 0.55,
+    "tags": [
+      "clima",
+      "modelo",
+      "aplicação"
+    ],
+    "img": "img/a6f112894f83.jpg",
+    "ts": 1786606493,
+    "addedTs": 1786611835,
+    "urlHash": "a6f112894f83",
+    "titleHash": "d8b25c0e08d8"
+  },
+  {
+    "title": "Putting Sign Language AI into Users Hands",
+    "titlePt": "IA de língua de sinais chega às mãos dos usuários",
+    "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um novo sistema coloca IA de tradução para língua de sinais diretamente em dispositivos dos usuários, sem depender de conexão constante. Pode melhorar acessibilidade para pessoas surdas em videochamadas, apps e atendimento. A tecnologia ainda precisa mostrar qualidade em situações reais, especialmente com vocabulário regional. Importante para times que pensam em inclusão digital.",
+    "reasonEn": "A new system puts sign language AI directly in users' hands without needing a constant connection. Could improve accessibility for deaf users in video calls, apps, and customer service. The technology still has to prove quality in real situations, especially with regional vocabulary. Important for teams thinking about digital inclusion.",
+    "score": 0.5,
+    "tags": [
+      "acessibilidade",
+      "aplicação"
+    ],
+    "img": "img/1357a9ae7911.jpg",
+    "ts": 1786605338,
+    "addedTs": 1786611835,
+    "urlHash": "1357a9ae7911",
+    "titleHash": "a445a061816e"
+  },
+  {
+    "title": "Identity from the Outside: A Conceptual Framework and Research Program for AI Personality Clones",
+    "titlePt": "Framework propõe clones de personalidade para IA",
+    "url": "https://arxiv.org/abs/2608.11225",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "Artigo conceitual define um framework para criar clones de personalidade de IA a partir de sinais externos, como textos e interações. Levanta questões sobre identidade digital, consentimento e uso pós-morte de pessoas reais. É uma discussão importante, mas ainda no campo teórico. Vale acompanhar quem se preocupa com ética e regulamentação de IA.",
+    "reasonEn": "A conceptual paper defines a framework for building AI personality clones from external signals like texts and interactions. Raises questions about digital identity, consent, and post-mortem use of real people. An important discussion but still theoretical. Worth following for those concerned with AI ethics and regulation.",
+    "score": 0.5,
+    "tags": [
+      "ética",
+      "pesquisa",
+      "identidade"
+    ],
+    "img": "img/79f4586be78d.jpg",
+    "ts": 1786593600,
+    "addedTs": 1786611835,
+    "urlHash": "79f4586be78d",
+    "titleHash": "15adaa3fe72c"
+  },
+  {
+    "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+    "titlePt": "Salesforce lança novo agente de IA no Slack para brigar com Microsoft e Google",
+    "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+    "source": "VentureBeat AI",
+    "sources": [
+      "VentureBeat AI"
+    ],
+    "reason": "A Salesforce apresentou um novo agente de IA dentro do Slack, chamado Slackbot, que responde comandos e automatiza tarefas de trabalho. O lançamento ocorre em meio à disputa acirrada com Microsoft Copilot e Google Workspace no mercado corporativo. O foco é produtividade no chat, com integração a dados da empresa. É relevante para times que já usam Slack e avalia ferramentas de IA no trabalho.",
+    "reasonEn": "Salesforce rolled out a new AI agent inside Slack, called Slackbot, that takes commands and automates workplace tasks. The launch comes amid fierce competition with Microsoft Copilot and Google Workspace in the enterprise market. It targets chat-based productivity with integrations to company data. It matters to teams already using Slack and evaluating AI tools at work.",
+    "score": 0.7,
+    "tags": [
+      "lançamento",
+      "empresa"
+    ],
+    "img": "img/0d32aa6b6a8f.jpg",
+    "ts": 1768309200,
+    "addedTs": 1786611835,
+    "urlHash": "0d32aa6b6a8f",
+    "titleHash": "ec8a5cd62e43"
+  },
+  {
+    "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+    "titlePt": "Anthropic lança Cowork, agente do Claude Desktop que age nos seus arquivos",
+    "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+    "source": "VentureBeat AI",
+    "sources": [
+      "VentureBeat AI"
+    ],
+    "reason": "A Anthropic anunciou o Cowork, um agente integrado ao Claude Desktop que lê, edita e organiza arquivos locais sem exigir programação do usuário. O foco é automatizar tarefas reais de escritório, como resumir documentos, preencher planilhas e organizar pastas. É um passo importante para tirar a IA do chat e colocá-la dentro do trabalho cotidiano. Profissionais de conhecimento e pequenas equipes devem sentir o impacto logo.",
+    "reasonEn": "Anthropic announced Cowork, an agent inside Claude Desktop that reads, edits and organizes local files without requiring code. It targets real office tasks like summarizing documents, filling spreadsheets and sorting folders. This is a meaningful step in moving AI out of chat and into everyday work. Knowledge workers and small teams should feel the impact soon.",
+    "score": 0.85,
+    "tags": [
+      "lançamento",
+      "agente"
+    ],
+    "img": "img/157324a9612f.jpg",
+    "ts": 1768217400,
+    "addedTs": 1786611835,
+    "urlHash": "157324a9612f",
+    "titleHash": "68d569241672"
+  },
+  {
+    "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
+    "titlePt": "Nous Research lança NousCoder-14B, modelo de código aberto para programação",
+    "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+    "source": "VentureBeat AI",
+    "sources": [
+      "VentureBeat AI"
+    ],
+    "reason": "A Nous Research abriu o código do NousCoder-14B, um modelo de 14 bilhões de parâmetros voltado a tarefas de programação, em um momento de forte concorrência com ferramentas pagas como Claude Code. O lançamento mira desenvolvedores que querem uma alternativa aberta e ajustável. É relevante para times que precisam de IA local ou com custo menor. A qualidade em benchmarks ainda precisa ser confirmada na prática.",
+    "reasonEn": "Nous Research open-sourced NousCoder-14B, a 14B parameter coding model released amid heavy competition with paid tools like Claude Code. The launch targets developers wanting an open and tweakable alternative. It matters to teams needing local or lower-cost AI. Real-world benchmark quality still needs to be confirmed.",
+    "score": 0.7,
+    "tags": [
+      "código",
+      "open source"
+    ],
+    "img": "img/fe052daa70a8.jpg",
+    "ts": 1767816000,
+    "addedTs": 1786611835,
+    "urlHash": "fe052daa70a8",
+    "titleHash": "ca360750b99d"
+  },
+  {
     "title": "Mem Agent",
     "titlePt": "Mem Agent: memória persistente para agentes de IA",
     "url": "https://www.producthunt.com/products/mem-2-0",
@@ -10629,203 +10823,5 @@
     "addedTs": 1786060249,
     "urlHash": "a281009f77b7",
     "titleHash": "8aa8b6fa30d7"
-  },
-  {
-    "title": "Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
-    "titlePt": "Primeiro gadget da OpenAI com Jony Ive seria uma caixa inteligente do tamanho de um disco de hóquei",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "O primeiro produto da parceria entre Jony Ive e OpenAI está sendo descrito como uma caixa de som inteligente compacta, segundo fontes próximas. O dispositivo seria focado em áudio e serviria como porta de entrada para os assistentes da OpenAI no ambiente doméstico. A chegada de um hardware próprio marca a entrada da OpenAI no mercado de consumo, competindo com Echo e HomePod. Ainda não há preço nem data oficial.",
-    "reasonEn": "The first product from the Jony Ive and OpenAI partnership is described as a compact smart speaker, according to sources close to the project. The device would be audio-focused and act as a household entry point for OpenAI's assistants. Launching its own hardware marks OpenAI's move into consumer devices, competing with Echo and HomePod. No official price or release date has been announced yet.",
-    "score": 0.7,
-    "tags": [
-      "openai",
-      "hardware",
-      "design"
-    ],
-    "img": "img/20f43dae1ff7.jpg",
-    "ts": 1786049791,
-    "addedTs": 1786060249,
-    "urlHash": "20f43dae1ff7",
-    "titleHash": "0e7934902cef"
-  },
-  {
-    "title": "Why China's A.I. Models Could Threaten the Communist Party",
-    "titlePt": "Por que os modelos de IA da China podem ameaçar o Partido Comunista",
-    "url": "https://www.nytimes.com/2026/07/30/world/asia/as-chinas-ai-gets-stronger-it-poses-new-risks-to-beijing.html",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Análise argumenta que os modelos chineses estão cada vez mais aptos a gerar conteúdo sensível politicamente, o que coloca o Partido numa encruzilhada entre inovação e censura. Autoridades já discutem limites rígidos para IAs nacionais. O tema interessa a quem trabalha com modelos globais porque pode fragmentar ainda mais o mercado. Também mostra como a geopolítica interfere diretamente no design de produtos de IA.",
-    "reasonEn": "Analysis argues that Chinese models are increasingly able to generate politically sensitive content, putting the Party in a bind between innovation and censorship. Authorities are already discussing strict limits for domestic AIs. The topic matters for anyone working with global models, because it could further fragment the market. It also shows how geopolitics directly shapes the design of AI products.",
-    "score": 0.6,
-    "tags": [
-      "china",
-      "regulação",
-      "modelos"
-    ],
-    "img": "img/e92c3884504b.jpg",
-    "ts": 1786049379,
-    "addedTs": 1786060249,
-    "urlHash": "e92c3884504b",
-    "titleHash": "79462ce62f19"
-  },
-  {
-    "title": "Anthropic will design its own hardware to power Claude",
-    "titlePt": "Anthropic vai projetar seu próprio hardware para rodar o Claude",
-    "url": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Anthropic confirmou que está desenvolvendo chips e infraestrutura próprios para alimentar seus modelos Claude, reduzindo a dependência de Nvidia e dos grandes provedores de nuvem. A decisão é estratégica e pode melhorar desempenho e custos no médio prazo. Para usuários e empresas, significa um caminho mais vertical da Anthropic, similar ao que Apple e Google fizeram no passado. Aumenta a competição em hardware especializado para IA.",
-    "reasonEn": "Anthropic confirmed it is designing its own chips and infrastructure to power Claude models, reducing dependence on Nvidia and the big cloud providers. The move is strategic and could improve performance and costs over time. For users and enterprises, it means a more vertical path for Anthropic, similar to what Apple and Google did in the past. It raises the bar for competition in AI-specific hardware.",
-    "score": 0.85,
-    "tags": [
-      "anthropic",
-      "chips",
-      "infraestrutura"
-    ],
-    "img": "img/acad3225b307.jpg",
-    "ts": 1786048771,
-    "addedTs": 1786060249,
-    "urlHash": "acad3225b307",
-    "titleHash": "a99382dc5bbe"
-  },
-  {
-    "title": "OpenAI is giving ChatGPT free users unlimited text chats",
-    "titlePt": "OpenAI libera chats de texto ilimitados para usuários gratuitos do ChatGPT",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "A OpenAI anunciou que usuários da versão gratuita do ChatGPT agora podem enviar mensagens de texto sem limite, derrubando uma das principais barreiras de uso. O movimento visa ampliar a base instalada antes da próxima onda de novos modelos e pressionar concorrentes gratuitos. Para devs e empresas, isso significa maior alcance de usuários testando produtos via ChatGPT. Também força Google, Anthropic e modelos chineses a reagirem.",
-    "reasonEn": "OpenAI announced that free ChatGPT users can now send unlimited text messages, removing one of the main usage barriers. The move aims to widen the installed base before the next wave of models and pressure free-tier competitors. For developers and businesses, it means greater reach of users testing products via ChatGPT. It also pushes Google, Anthropic and Chinese models to respond.",
-    "score": 0.8,
-    "tags": [
-      "openai",
-      "produto",
-      "gratuito"
-    ],
-    "img": "img/b04f9642d438.jpg",
-    "ts": 1786040141,
-    "addedTs": 1786060249,
-    "urlHash": "b04f9642d438",
-    "titleHash": "8ef49c548157"
-  },
-  {
-    "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-    "titlePt": "OpenAI melhora o GPT-5.6 Sol e amplia acesso ao GPT-5.6 Luna para usuários gratuitos",
-    "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A OpenAI anunciou upgrades no modelo GPT-5.6 Sol dentro do ChatGPT, com melhor raciocínio e mais estabilidade, e ampliou o acesso ao GPT-5.6 Luna para usuários da conta gratuita. É mais um passo para democratizar modelos intermediários antes da próxima geração. Para devs, vale testar as novas versões via API e Playground. Ajuda a calibrar expectativas sobre custos e qualidade.",
-    "reasonEn": "OpenAI announced upgrades to the GPT-5.6 Sol model in ChatGPT, with better reasoning and stability, and expanded access to GPT-5.6 Luna for free-tier users. It is another step toward democratizing mid-tier models before the next generation. For developers, it's worth testing the new versions via API and Playground. It helps calibrate expectations on cost and quality.",
-    "score": 0.7,
-    "tags": [
-      "openai",
-      "modelo",
-      "produto"
-    ],
-    "img": "img/b1c9322e571f.jpg",
-    "ts": 1786010400,
-    "addedTs": 1786060249,
-    "urlHash": "b1c9322e571f",
-    "titleHash": "1efc6c521532"
-  },
-  {
-    "title": "Working with the American Psychological Association on youth mental health and AI",
-    "titlePt": "OpenAI se une à Associação Americana de Psicologia para discutir saúde mental jovem e IA",
-    "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A OpenAI firmou parceria com a American Psychological Association para estudar o impacto da IA na saúde mental de jovens, incluindo uso de ChatGPT por adolescentes. O foco é desenvolver boas práticas, alertas e materiais educativos. É um passo importante para regulação e segurança de menores. Para devs de produtos voltados a jovens, é referência de como empresas grandes estão lidando com o tema.",
-    "reasonEn": "OpenAI partnered with the American Psychological Association to study AI's impact on youth mental health, including teens' use of ChatGPT. The focus is developing best practices, alerts and educational materials. It is an important step toward regulation and minor safety. For developers of youth-focused products, it is a reference on how large companies are handling the topic.",
-    "score": 0.5,
-    "tags": [
-      "openai",
-      "saúde",
-      "regulação"
-    ],
-    "img": "img/0c4923a8268d.jpg",
-    "ts": 1785996000,
-    "addedTs": 1786060249,
-    "urlHash": "0c4923a8268d",
-    "titleHash": "52a12f8e461e"
-  },
-  {
-    "title": "Show HN: Ranking weather models by how their forecasts turned out",
-    "titlePt": "Ranking de modelos de clima pelo resultado real das previsões",
-    "url": "https://nickleenders.github.io/verisky-scoreboard/?city=newyork",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um desenvolvedor publicou um sistema que compara modelos de previsão do tempo medindo quem realmente acertou mais ao longo do tempo. A ideia é fugir do marketing dos laboratórios e mostrar desempenho prático. É relevante para quem depende de previsões precisas, como agricultura, energia e seguros. Mostra também como avaliar IA com base em resultado, e não em propaganda.",
-    "reasonEn": "A developer published a system that ranks weather models by how often they actually got the forecast right. The goal is to cut through vendor marketing and show real-world performance. It matters for anyone relying on accurate forecasts, like agriculture, energy, and insurance. It also shows how to evaluate AI based on outcomes instead of hype.",
-    "score": 0.6,
-    "tags": [
-      "modelo",
-      "avaliação",
-      "dados"
-    ],
-    "img": "img/a667cb5e4c57.jpg",
-    "ts": 1786024875,
-    "addedTs": 1786025161,
-    "urlHash": "a667cb5e4c57",
-    "titleHash": "8de736ed3147"
-  },
-  {
-    "title": "Data center doubt: Why Florida is pushing back against hyperscale development",
-    "titlePt": "Florida resiste à expansão de megacentros de dados",
-    "url": "https://therealdeal.com/miami/2026/08/06/ai-driven-data-center-boom-hits-local-opposition-in-florida/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Autoridades da Flórida estão rejeitando projetos de data centers gigantes por causa do consumo de água, energia e impacto ambiental. A resistência mostra que a expansão da infraestrutura de IA tem limite local, mesmo em estados pró-tecnologia. O tema interessa a quem planeja capacidade de nuvem, investidores e moradores afetados. Pode frear a expansão de hyperscalers como AWS, Google e Microsoft na região.",
-    "reasonEn": "Florida officials are pushing back against hyperscale data center projects over water use, energy demand, and environmental impact. The resistance shows AI infrastructure growth has local limits, even in tech-friendly states. It matters for cloud capacity planners, investors, and affected residents. It may slow hyperscaler expansion from AWS, Google, and Microsoft in the region.",
-    "score": 0.7,
-    "tags": [
-      "infraestrutura",
-      "regulação",
-      "data-center"
-    ],
-    "img": "img/2d9234101ebd.jpg",
-    "ts": 1786024442,
-    "addedTs": 1786025161,
-    "urlHash": "2d9234101ebd",
-    "titleHash": "bbd2ccac29a2"
-  },
-  {
-    "title": "AI generated over 95% of China's new microdramas in Q1 2026",
-    "titlePt": "IA gerou mais de 95% dos microdramas chineses no 1º trimestre de 2026",
-    "url": "https://www.channelnewsasia.com/east-asia/ai-microdrama-china-film-industry-actors-jobs-6229191",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Dados apontam que a grande maioria das novelas curtas verticais produzidas na China já é feita com inteligência artificial generativa. Isso mostra uma adoção de IA em escala industrial que não existe em outras indústrias criativas. O impacto vai desde demissão de roteiristas até queda de custos e avalanche de conteúdo repetitivo. Sinaliza como produção audiovisual pode mudar em outros países nos próximos anos.",
-    "reasonEn": "Data shows that over 95% of China's new short vertical dramas in Q1 2026 were generated with AI. It reveals industrial-scale AI adoption not yet seen in other creative industries. The impact ranges from laid-off screenwriters to plummeting costs and a flood of repetitive content. It signals how audiovisual production could shift in other countries within a few years.",
-    "score": 0.7,
-    "tags": [
-      "ia-generativa",
-      "mídia",
-      "china"
-    ],
-    "img": "img/bc1179020741.jpg",
-    "ts": 1786023860,
-    "addedTs": 1786025161,
-    "urlHash": "bc1179020741",
-    "titleHash": "7dd13e656e78"
   }
 ]
