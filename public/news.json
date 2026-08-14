@@ -1,5 +1,199 @@
 [
   {
+    "title": "Gemini 3.7 Flash",
+    "titlePt": "Google lança Gemini 3.7 Flash, nova versão de seu modelo rápido",
+    "url": "https://www.producthunt.com/products/gemini-3-7-flash",
+    "source": "ProductHunt",
+    "sources": [
+      "ProductHunt"
+    ],
+    "reason": "O Google lançou o Gemini 3.7 Flash, atualização do seu modelo leve da família Gemini. A linha Flash é voltada para tarefas que exigem baixa latência e custo reduzido, mantendo boa capacidade de raciocínio. O lançamento segue a estratégia de versões incrementais da empresa e renova o portfólio disponível na API. Para desenvolvedores que já usam Gemini, vale testar a nova versão em busca de ganhos de velocidade e qualidade.",
+    "reasonEn": "Google launched Gemini 3.7 Flash, an update to its lightweight Gemini model. The Flash line targets low-latency and lower-cost tasks while keeping solid reasoning power. The release follows Google's incremental version strategy and refreshes the lineup available through the API. Developers already using Gemini should benchmark the new version for speed and quality gains.",
+    "score": 0.7,
+    "tags": [
+      "modelo",
+      "lançamento",
+      "google"
+    ],
+    "img": "img/335007ec731b.jpg",
+    "ts": 1786732561,
+    "addedTs": 1786732905,
+    "urlHash": "335007ec731b",
+    "titleHash": "6382782b97b0"
+  },
+  {
+    "title": "We urgently need a coherent national AI cybersecurity policy",
+    "titlePt": "Especialistas pedem uma política nacional coerente de cibersegurança em IA",
+    "url": "https://joshuasaxe181906.substack.com/p/we-urgently-need-a-coherent-national",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo defende que os Estados Unidos precisam de uma política nacional clara de cibersegurança para sistemas de IA. O argumento é que ataques envolvendo IA crescem e a fragmentação de normas atrapalha a defesa. O texto lista riscos em infraestruturas críticas e na cadeia de software. A proposta é reunir governo, academia e setor privado para criar padrões comuns.",
+    "reasonEn": "The article argues that the United States needs a clear national cybersecurity policy for AI systems. The reasoning is that AI-related attacks are growing and fragmented rules hamper defense. The post lists risks in critical infrastructure and the software supply chain. The proposal is to bring government, academia, and the private sector together around common standards.",
+    "score": 0.6,
+    "tags": [
+      "regulação",
+      "segurança",
+      "política"
+    ],
+    "img": "img/5c9284ce9aa4.jpg",
+    "ts": 1786731300,
+    "addedTs": 1786732905,
+    "urlHash": "5c9284ce9aa4",
+    "titleHash": "9f3669b6ae96"
+  },
+  {
+    "title": "When facts change, should AI memory change?",
+    "titlePt": "Quando os fatos mudam, a memória da IA deveria mudar também?",
+    "url": "https://github.com/Anchorstate-Lab/GMR",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A discussão aborda um problema central de agentes de IA: como lidar com memória quando a realidade muda. Sistemas que mantêm fatos antigos podem responder de forma errada ou até perigosa. O texto explora estratégias para invalidar, atualizar e versionar memórias. É leitura recomendada para quem desenvolve agentes com memória de longo prazo.",
+    "reasonEn": "The discussion tackles a core problem for AI agents: how to handle memory when reality changes. Systems that retain stale facts can answer incorrectly or even dangerously. The post explores strategies to invalidate, update, and version memories. It is recommended reading for anyone building agents with long-term memory.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "memória"
+    ],
+    "img": "img/8a27d7c6c15a.jpg",
+    "ts": 1786729586,
+    "addedTs": 1786732905,
+    "urlHash": "8a27d7c6c15a",
+    "titleHash": "f3da3d95024d"
+  },
+  {
+    "title": "Trust Boundary Collapse: Two Campaigns That Bypassed Artifact Inspection",
+    "titlePt": "Colapso de fronteira de confiança: duas campanhas que driblaram inspeção de artefatos",
+    "url": "https://lateos.ai/articles/trust-boundary-collapse-teampcp-clickfix",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Pesquisadores detalham duas campanhas maliciosas que conseguiram passar pela inspeção de artefatos de software. Os ataques exploraram confiança excessiva em pipelines automatizados e em ferramentas apoiadas por IA. O texto mostra como builds aparentemente legítimos foram comprometidos. É um alerta importante para equipes de segurança e de DevOps.",
+    "reasonEn": "Researchers detail two malicious campaigns that bypassed software artifact inspection. The attacks exploited over-trust in automated pipelines and AI-assisted tools. The post shows how seemingly legitimate builds were compromised. It is a notable warning for security and DevOps teams.",
+    "score": 0.5,
+    "tags": [
+      "segurança",
+      "supply-chain"
+    ],
+    "img": "img/53ab622127c5.jpg",
+    "ts": 1786729369,
+    "addedTs": 1786732905,
+    "urlHash": "53ab622127c5",
+    "titleHash": "f53379135f47"
+  },
+  {
+    "title": "AI Thinks the Internet Is Reddit. We Have 8,616 Answers Proving It",
+    "titlePt": "IA acha que a internet é só Reddit, e 8.616 respostas provam isso",
+    "url": "https://growtika.com/blog/reddit-ai-visibility-research",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um estudo analisou milhares de respostas de modelos de IA e identificou um forte viés para o estilo e os temas do Reddit. Isso afeta a qualidade e a diversidade das saídas, principalmente em perguntas fora da bolha da plataforma. O texto serve de alerta para usuários e desenvolvedores sobre os limites do treinamento. Reforça a importância de auditar modelos antes de usá-los em produção.",
+    "reasonEn": "A study analyzed thousands of AI model responses and found a strong bias toward Reddit's style and topics. That hurts output quality and diversity, especially for questions outside the platform's bubble. The post warns users and developers about the limits of pretraining. It reinforces the need to audit models before deploying them in production.",
+    "score": 0.5,
+    "tags": [
+      "dados",
+      "treinamento",
+      "crítica"
+    ],
+    "img": "img/2b2958cd2c8a.jpg",
+    "ts": 1786729316,
+    "addedTs": 1786732905,
+    "urlHash": "2b2958cd2c8a",
+    "titleHash": "566584d0fca9"
+  },
+  {
+    "title": "1,1 mld USD dla River AI: Co oznacza rewolucja spersonalizowanego AI?",
+    "titlePt": "River AI capta US$ 1,1 bilhão para impulsionar IA personalizada",
+    "url": "https://neurise.io/blog-auto-1-1-mld-usd-dla-river-ai-rewolucja-spersonalizowanego-ai.html",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A empresa River AI anunciou uma rodada de US$ 1,1 bilhão para acelerar seu foco em IA personalizada para empresas e usuários. O aporte reflete o interesse crescente do mercado em modelos adaptados a contextos específicos, e não apenas em uso genérico. A notícia é relevante para acompanhar o cenário de investimentos em IA e identificar novos entrantes de peso. Também indica que a personalização virou um campo competitivo importante.",
+    "reasonEn": "River AI announced a $1.1 billion round to boost its focus on personalized AI for companies and end users. The funding reflects growing market interest in models tailored to specific contexts rather than generic use cases. The story is relevant for tracking the AI investment landscape and spotting heavyweight newcomers. It also signals that personalization has become a serious competitive area.",
+    "score": 0.6,
+    "tags": [
+      "investimento",
+      "personalização"
+    ],
+    "img": "img/2890897db7cc.jpg",
+    "ts": 1786729269,
+    "addedTs": 1786732905,
+    "urlHash": "2890897db7cc",
+    "titleHash": "916f1725bf26"
+  },
+  {
+    "title": "LLM Web Search Benchmarks: More Searches Beat a Better Search Engine",
+    "titlePt": "Benchmark de busca na web: mais buscas vencem um motor melhor",
+    "url": "https://openrouter.ai/blog/announcements/web-search-benchmark/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um novo benchmark compara diferentes estratégias de busca na web feitas por LLMs. O resultado mostra que rodar mais buscas, mesmo com motor imperfeito, supera usar um motor melhor com menos consultas. A descoberta tem impacto direto em como agentes de IA são desenhados. Para desenvolvedores, vale repensar o número de buscas por pergunta.",
+    "reasonEn": "A new benchmark compares different web search strategies used by LLMs. The result shows that running more searches, even with an imperfect engine, beats using a better engine with fewer queries. The finding directly impacts how AI agents are designed. Developers should rethink the number of searches per question.",
+    "score": 0.5,
+    "tags": [
+      "busca",
+      "benchmarks",
+      "LLM"
+    ],
+    "img": "img/5cef28541bd1.jpg",
+    "ts": 1786729155,
+    "addedTs": 1786732905,
+    "urlHash": "5cef28541bd1",
+    "titleHash": "2695722029a0"
+  },
+  {
+    "title": "Nvidia's $500B Plan Envelops Wall Sreett in Its AI Frenzy",
+    "titlePt": "Plano de US$ 500 bilhões da Nvidia agita Wall Street",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-14/nvidia-s-500-billion-plan-envelops-wall-street-in-its-ai-frenzy",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Nvidia anunciou um plano de investimentos de cerca de US$ 500 bilhões ligado à inteligência artificial. O pacote envolve fábricas, pesquisa e parcerias com gigantes de tecnologia. O mercado financeiro reagiu de forma positiva, refletindo a confiança no papel central da empresa na economia da IA. A notícia mostra como a Nvidia se tornou peça-chave para o futuro do setor.",
+    "reasonEn": "Nvidia announced an investment plan of roughly $500 billion tied to artificial intelligence. The package covers factories, research, and partnerships with tech giants. Financial markets reacted positively, reflecting confidence in the company's central role in the AI economy. The story highlights how Nvidia has become a key piece for the sector's future.",
+    "score": 0.7,
+    "tags": [
+      "nvidia",
+      "investimento",
+      "mercados"
+    ],
+    "img": "img/57085d69e2b8.jpg",
+    "ts": 1786728515,
+    "addedTs": 1786732905,
+    "urlHash": "57085d69e2b8",
+    "titleHash": "574f748e259f"
+  },
+  {
+    "title": "Fortunes from AI revive effective altruism after Sam Bankman-Fried turmoil",
+    "titlePt": "Fortunas da IA ressuscitam o altruísmo eficaz após o caso Bankman-Fried",
+    "url": "https://www.ft.com/content/938b4b82-06d2-4b92-a807-38d935d7d5c5",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O movimento do altruísmo eficaz está recebendo novas doações vindas de bilionários da área de IA. Após o escândalo de Sam Bankman-Fried, o movimento perdeu força e credibilidade. Agora, novos filantropos reaquecem a ideia de doar para causas de alto impacto. A tendência mostra como o dinheiro da IA está remodelando agendas globais.",
+    "reasonEn": "The effective altruism movement is receiving new donations from AI billionaires. After the Sam Bankman-Fried scandal, the movement lost strength and credibility. Now, new philanthropists are warming up the idea of giving to high-impact causes. The trend shows how AI money is reshaping global agendas.",
+    "score": 0.5,
+    "tags": [
+      "altruísmo",
+      "filantropia"
+    ],
+    "img": "img/3a65d9bd8bc8.jpg",
+    "ts": 1786727226,
+    "addedTs": 1786732905,
+    "urlHash": "3a65d9bd8bc8",
+    "titleHash": "9372fc8ef0cd"
+  },
+  {
     "title": "Show HN: I built a tool that delegates bounded spending to an AI agent",
     "titlePt": "Ferramenta dá a agentes de IA um limite de gastos controlado",
     "url": "https://github.com/meyerdav24/molt",
@@ -10628,199 +10822,5 @@
     "addedTs": 1786345969,
     "urlHash": "e48f6a1adc9b",
     "titleHash": "0524aca8d676"
-  },
-  {
-    "title": "Show HN: NexusMem – Local context memory engine for AI coding agents",
-    "titlePt": "NexusMem: memória local de contexto para agentes de programação",
-    "url": "https://github.com/yaminbakoh4-dot/NexusMem",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Projeto aberto que oferece um mecanismo de memória local para agentes que programam código. Permite que o agente mantenha contexto persistente sem depender de serviços externos. Pode reduzir custos e melhorar privacidade em fluxos de desenvolvimento assistido por IA. Vale acompanhar para quem monta ferramentas internas de programação automatizada.",
-    "reasonEn": "An open project offering a local memory engine for coding agents. It lets the agent keep persistent context without depending on external services. It may cut costs and improve privacy in AI-assisted development workflows. Worth tracking for anyone building internal automated programming tools.",
-    "score": 0.5,
-    "tags": [
-      "código",
-      "memória",
-      "código aberto"
-    ],
-    "img": "img/65f1c6b76fe0.jpg",
-    "ts": 1786343663,
-    "addedTs": 1786345969,
-    "urlHash": "65f1c6b76fe0",
-    "titleHash": "74f029d8ffdc"
-  },
-  {
-    "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-    "titlePt": "Docker Sandboxes: ambientes descartáveis e isolados para agentes de IA",
-    "url": "https://www.docker.com/products/docker-sandboxes/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Nova ferramenta que cria sandboxes descartáveis usando Docker para isolar agentes de IA durante testes. Resolve um problema prático de quem precisa rodar agentes não confiáveis sem arriscar a máquina principal. É especialmente útil em esteiras automatizadas de desenvolvimento e pesquisa. Times que ainda usam soluções caseiras devem considerar migrar para algo assim.",
-    "reasonEn": "A new tool that creates disposable Docker-based sandboxes to isolate AI agents during testing. It solves a practical problem for anyone running untrusted agents without risking their main machine. Particularly useful in automated development and research pipelines. Teams still using homemade solutions should consider migrating to something like this.",
-    "score": 0.6,
-    "tags": [
-      "segurança",
-      "docker",
-      "agente"
-    ],
-    "img": "img/180e19758ad5.jpg",
-    "ts": 1786341758,
-    "addedTs": 1786345969,
-    "urlHash": "180e19758ad5",
-    "titleHash": "529d306f42e5"
-  },
-  {
-    "title": "Escaping the LLM Coding Rat Race",
-    "titlePt": "Saindo da corrida de programação com modelos de linguagem",
-    "url": "https://aaronstannard.com/escaping-ai-coding-ratrace/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Reflexão sobre o ciclo de hype em que desenvolvedores ficam pulando entre ferramentas de IA para programar. Argumenta que o diferencial real está em entender problemas de negócio, não em conhecer o próximo modelo. É uma leitura saudável para quem se sente cansado de testar framework novo toda semana. Lembra que fundamentos de engenharia continuam importando mais que promessas de geração automática.",
-    "reasonEn": "A reflection on the hype cycle where developers keep jumping between AI coding tools. It argues that the real edge is understanding business problems, not knowing the next model. A healthy read for anyone tired of testing a new framework every week. It reminds us that engineering fundamentals still matter more than auto-generation promises.",
-    "score": 0.55,
-    "tags": [
-      "carreira",
-      "engenharia"
-    ],
-    "img": "img/303cbafec940.jpg",
-    "ts": 1786341201,
-    "addedTs": 1786345969,
-    "urlHash": "303cbafec940",
-    "titleHash": "e614976529d6"
-  },
-  {
-    "title": "Horolog – a self-hosted, open-source alternative to Reclaim.ai",
-    "titlePt": "Horolog: alternativa open-source e auto-hospedável ao Reclaim.ai",
-    "url": "https://github.com/ujjwalredd/horolog",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Foi lançado um projeto de código aberto que replica funcionalidades do Reclaim.ai, ferramenta popular de agendamento automático. A vantagem é rodar no próprio servidor, mantendo privacidade dos dados. Pode interessar desenvolvedores e profissionais que buscam controle total sobre sua agenda.",
-    "reasonEn": "An open-source project has been launched that replicates functionality of Reclaim.ai, a popular automatic scheduling tool. The advantage is running on your own server, keeping data private. It may interest developers and professionals seeking full control over their schedule.",
-    "score": 0.5,
-    "tags": [
-      "open-source",
-      "produtividade",
-      "lançamento"
-    ],
-    "img": "img/da8ee1c60835.jpg",
-    "ts": 1786333891,
-    "addedTs": 1786345969,
-    "urlHash": "da8ee1c60835",
-    "titleHash": "dc2a23574239"
-  },
-  {
-    "title": "Show HN: Memcode AI goes open source with Claude Code inspired coding agent",
-    "titlePt": "Memcode AI vira código aberto com agente de programação inspirado no Claude Code",
-    "url": "https://github.com/memcode-ai/memcode",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A ferramenta Memcode AI abriu seu código e agora qualquer pessoa pode usar e modificar um agente de programação inspirado no Claude Code. É uma boa notícia para desenvolvedores que buscam alternativas abertas. Ainda assim, o impacto real depende da qualidade e manutenção do projeto.",
-    "reasonEn": "Memcode AI has open-sourced its code, letting anyone use and modify a coding agent inspired by Claude Code. Good news for developers looking for open alternatives. The real impact depends on project quality and maintenance.",
-    "score": 0.5,
-    "tags": [
-      "código-aberto",
-      "desenvolvimento"
-    ],
-    "img": "img/20dee8a5e6e7.jpg",
-    "ts": 1786338365,
-    "addedTs": 1786339046,
-    "urlHash": "20dee8a5e6e7",
-    "titleHash": "3922272a97dc"
-  },
-  {
-    "title": "AI Coding Clients Are Reading Each Other's Personal Instructions",
-    "titlePt": "Clientes de IA para programação estão lendo as instruções pessoais uns dos outros",
-    "url": "https://runtimewire.com/article/ai-coding-clients-are-reading-each-other-s-personal-instructions",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Foi descoberto que diferentes ferramentas de IA para programação estão acessando e lendo as instruções pessoais configuradas em outros clientes. Isso é um problema sério de privacidade e segurança para desenvolvedores que usam várias ferramentas. Quem trabalha com código proprietário precisa revisar o que está expondo.",
-    "reasonEn": "It was discovered that different AI coding tools are accessing and reading each other's personal instructions. This is a serious privacy and security issue for developers using multiple tools. Anyone working with proprietary code should review what they're exposing.",
-    "score": 0.8,
-    "tags": [
-      "segurança",
-      "privacidade",
-      "desenvolvimento"
-    ],
-    "img": "img/d731da3f3da4.jpg",
-    "ts": 1786337323,
-    "addedTs": 1786339046,
-    "urlHash": "d731da3f3da4",
-    "titleHash": "a54052963791"
-  },
-  {
-    "title": "Take-home assessments to be banned in school AI overhaul",
-    "titlePt": "Provas de casa serão proibidas em reforma escolar sobre IA",
-    "url": "https://www.smh.com.au/national/nsw/take-home-assessments-to-be-banned-in-radical-hsc-overhaul-20260806-p60m44.html",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Escolas estão eliminando as avaliações levadas para casa porque a inteligência artificial tornou impossível garantir que o aluno fez sozinho. A medida faz parte de uma reforma maior para adaptar a educação à era da IA. Professores e estudantes precisarão se adaptar a provas feitas em sala, com supervisão direta.",
-    "reasonEn": "Schools are eliminating take-home assessments because AI made it impossible to verify if students did the work themselves. The move is part of a larger reform to adapt education to the AI era. Teachers and students will need to adjust to in-class, supervised testing.",
-    "score": 0.6,
-    "tags": [
-      "educação",
-      "regulação"
-    ],
-    "img": "img/26bbfe12b923.jpg",
-    "ts": 1786336988,
-    "addedTs": 1786339046,
-    "urlHash": "26bbfe12b923",
-    "titleHash": "e372074416d2"
-  },
-  {
-    "title": "The Philippines' big offshoring industry is growing despite AI",
-    "titlePt": "Indústria de terceirização das Filipinas cresce apesar da IA",
-    "url": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Contrariando previsões, o grande setor de offshoring das Filipinas continua contratando e crescendo mesmo com a expansão da inteligência artificial. Isso mostra que tarefas humanas ainda têm valor em muitos processos. O dado é útil para entender o impacto real da IA no mercado de trabalho global.",
-    "reasonEn": "Contrary to predictions, the Philippines' massive offshoring industry keeps hiring and growing even as AI expands. It shows human work still has value in many processes. The data helps understand AI's real impact on the global job market.",
-    "score": 0.5,
-    "tags": [
-      "mercado",
-      "trabalho"
-    ],
-    "img": "img/7cec985125d9.jpg",
-    "ts": 1786336524,
-    "addedTs": 1786339046,
-    "urlHash": "7cec985125d9",
-    "titleHash": "89c1988dc2cd"
-  },
-  {
-    "title": "New AI models still reproduce racial and gender stereotypes in medicine",
-    "titlePt": "Novos modelos de IA continuam reproduzindo estereótipos raciais e de gênero na medicina",
-    "url": "https://news.flinders.edu.au/blog/2026/08/09/new-ai-models-still-reproduce-racial-and-gender-stereotypes-in-medicine/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Pesquisa recente mostra que modelos de inteligência artificial aplicados à medicina ainda carregam vieses raciais e de gênero, podendo prejudicar diagnósticos e tratamentos. Isso é preocupante porque ferramentas médicas baseadas em IA já são usadas em hospitais. Pacientes de grupos minoritários podem ser os mais afetados por erros sistemáticos.",
-    "reasonEn": "Recent research shows AI models used in medicine still carry racial and gender biases, potentially harming diagnoses and treatments. This is worrying because AI-based medical tools are already used in hospitals. Minority group patients may be most affected by systematic errors.",
-    "score": 0.8,
-    "tags": [
-      "pesquisa",
-      "saúde",
-      "viés"
-    ],
-    "img": "img/9ad4e7761738.jpg",
-    "ts": 1786335126,
-    "addedTs": 1786339046,
-    "urlHash": "9ad4e7761738",
-    "titleHash": "c6057173bd65"
   }
 ]
