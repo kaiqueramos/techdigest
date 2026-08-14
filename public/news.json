@@ -1,5 +1,258 @@
 [
   {
+    "title": "Charisma, confidence and no fear of AI taking their jobs. The personality hires",
+    "titlePt": "Carisma, confiança e sem medo da IA. Os contratados pela personalidade",
+    "url": "https://www.marketwatch.com/story/these-workers-have-charisma-confidence-and-no-fear-of-ai-taking-their-jobs-theyre-the-personality-hires-3235c187?mod=djem_mwnpfinance",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Empresas passaram a valorizar candidatos com presença forte e habilidades sociais, justamente os perfis menos ameaçados por ferramentas de IA. Profissionais de vendas, relações públicas e negociação se destacam porque seu valor está na interação humana, não em tarefas repetitivas. É um sinal claro de como o mercado de trabalho se reorganiza. Para quem escolhe carreira, investir em habilidades interpessoais pode ser diferencial competitivo.",
+    "reasonEn": "Companies have started valuing candidates with strong presence and social skills, exactly the profiles least threatened by AI tools. Sales, PR, and negotiation professionals stand out because their value lies in human interaction, not repetitive tasks. It's a clear sign of how the labor market is reorganizing. For those choosing a career, investing in interpersonal skills can be a competitive edge.",
+    "score": 0.6,
+    "tags": [
+      "trabalho",
+      "carreira"
+    ],
+    "img": "img/4613d8bce763.jpg",
+    "ts": 1786710879,
+    "addedTs": 1786711403,
+    "urlHash": "4613d8bce763",
+    "titleHash": "41a89f32875a"
+  },
+  {
+    "title": "Show HN: Artifex - Graph Based GPU Harness for AI Agents",
+    "titlePt": "Artifex: ferramenta de GPU baseada em grafos para agentes de IA",
+    "url": "https://gatewai.studio/artifex",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Artifex é um projeto open source que usa estrutura de grafos para organizar o uso de GPUs por múltiplos agentes de IA. Em vez de cada agente competir por recursos, o sistema coordena quem usa qual GPU e quando, evitando gargalos. É útil para times que rodam vários agentes em paralelo. Mostra uma tendência de ferramentas de orquestração mais sofisticadas para cargas de IA.",
+    "reasonEn": "Artifex is an open-source project that uses graph structure to organize GPU usage by multiple AI agents. Instead of each agent competing for resources, the system coordinates who uses which GPU and when, avoiding bottlenecks. Useful for teams running multiple agents in parallel. It reflects a trend toward more sophisticated orchestration tools for AI workloads.",
+    "score": 0.7,
+    "tags": [
+      "gpu",
+      "agentes",
+      "open-source"
+    ],
+    "img": "img/5ec9ca6e3f82.jpg",
+    "ts": 1786709713,
+    "addedTs": 1786711403,
+    "urlHash": "5ec9ca6e3f82",
+    "titleHash": "f58c7b46121d"
+  },
+  {
+    "title": "Open Silicon Photonics for AI Systems Initiative",
+    "titlePt": "Iniciativa de Fotônica de Silício Aberta para Sistemas de IA",
+    "url": "https://lightmatter.co/press-release/industry-leaders-formally-launch-cpo-system-architecture-initiative-within-the-open-compute-project/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma nova iniciativa quer tornar open source o hardware de fotônica de silício, que usa luz em vez de eletricidade para processar dados. A promessa é acelerar drasticamente o treinamento e a inferência de modelos de IA com menor consumo de energia. É uma jogada estratégica para reduzir a dependência de GPUs dominadas por poucas empresas. Se vingar, pode mudar a infraestrutura de IA nos próximos anos.",
+    "reasonEn": "A new initiative aims to make silicon photonics hardware open source, which uses light instead of electricity to process data. The promise is to drastically accelerate AI model training and inference with lower energy consumption. It's a strategic move to reduce dependence on GPUs dominated by a few companies. If it works, it could reshape AI infrastructure in coming years.",
+    "score": 0.7,
+    "tags": [
+      "hardware",
+      "fotônica"
+    ],
+    "img": "img/5e178bb0949e.jpg",
+    "ts": 1786708732,
+    "addedTs": 1786711403,
+    "urlHash": "5e178bb0949e",
+    "titleHash": "46c61a9d7874"
+  },
+  {
+    "title": "AI Watermarks, Skill Loss and GenAI – Food for Agile Thought #557",
+    "titlePt": "Marcas d'água em IA, perda de habilidades e GenAI",
+    "url": "https://age-of-product.com/food-agile-thought-557-ai-watermarks/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A edição #557 do Food for Agile Thought aborda três temas: os problemas das marcas d'água em texto gerado por IA, a perda de habilidades cognitivas que o uso constante de IA pode causar e novidades em ferramentas GenAI. É uma curadoria semanal para profissionais ágeis e tech. Funciona como panorama rápido para quem quer se atualizar sem ler dezenas de artigos.",
+    "reasonEn": "Issue #557 of Food for Agile Thought covers three topics: problems with watermarks in AI-generated text, the loss of cognitive skills that constant AI use can cause, and GenAI tool news. It's a weekly curation for agile and tech professionals. It works as a quick overview for those who want to stay updated without reading dozens of articles.",
+    "score": 0.5,
+    "tags": [
+      "newsletter",
+      "marcas-d'água"
+    ],
+    "img": "img/dfb1a1dfc9ba.jpg",
+    "ts": 1786708319,
+    "addedTs": 1786711403,
+    "urlHash": "dfb1a1dfc9ba",
+    "titleHash": "1ca06b37ddf0"
+  },
+  {
+    "title": "Which GPU Is Suitable for Running Your AI Workloads?",
+    "titlePt": "Qual GPU é ideal para rodar suas cargas de trabalho de IA?",
+    "url": "https://3hcloud.com/blog/which-gpu-is-suitable-for-your-ai-workload",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um guia prático ajuda desenvolvedores a escolher a GPU certa para diferentes tipos de trabalho com IA, seja treino pesado, inferência ou prototipagem. O texto compara opções como H100, A100, RTX 4090 e alternativas mais baratas. Considera memória, custo, disponibilidade e tipo de modelo. É leitura prática para quem precisa decidir compra ou aluguel de hardware.",
+    "reasonEn": "A practical guide helps developers choose the right GPU for different types of AI work, whether heavy training, inference, or prototyping. The text compares options like H100, A100, RTX 4090, and cheaper alternatives. It considers memory, cost, availability, and model type. It's practical reading for those deciding on hardware purchases or rentals.",
+    "score": 0.6,
+    "tags": [
+      "gpu",
+      "guia"
+    ],
+    "img": "img/6b8ae992c314.jpg",
+    "ts": 1786708173,
+    "addedTs": 1786711403,
+    "urlHash": "6b8ae992c314",
+    "titleHash": "5a645034222e"
+  },
+  {
+    "title": "The EU AI Act Is Now a Business-Blocking Risk for Vertical AI",
+    "titlePt": "A Lei de IA da UE já é um risco que bloqueia negócios para IA vertical",
+    "url": "https://medium.com/@MirArshadTalpur/the-eu-ai-act-is-now-a-business-blocking-risk-for-vertical-ai-heres-the-one-fix-that-closes-the-9d7ecfa62a48",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Lei de IA da União Europeia, em vigor, está se tornando um bloqueio real para empresas que desenvolvem IA vertical, focada em setores como saúde, direito e finanças. As exigências de conformidade, classificação de risco e documentação são pesadas demais para startups e pequenas empresas. Muitas estão desistindo de lançar na Europa ou migrando recursos para outros mercados. É um alerta direto para quem pensa em expandir produtos de IA para o bloco europeu.",
+    "reasonEn": "The EU AI Act, now in force, is becoming a real blocker for companies building vertical AI focused on sectors like healthcare, law, and finance. Compliance requirements, risk classification, and documentation are too heavy for startups and small businesses. Many are giving up on launching in Europe or migrating resources to other markets. It's a direct warning for those considering expanding AI products into the EU bloc.",
+    "score": 0.85,
+    "tags": [
+      "regulação",
+      "ue"
+    ],
+    "img": "img/4dc55da592e7.jpg",
+    "ts": 1786708042,
+    "addedTs": 1786711403,
+    "urlHash": "4dc55da592e7",
+    "titleHash": "0372dd323642"
+  },
+  {
+    "title": "Anthropic Is Quietly Watermarking Every Claude AI Output",
+    "titlePt": "Anthropic está silenciosamente marcando todas as saídas do Claude com marca d'água",
+    "url": "https://decrypt.co/375594/anthropic-quietly-watermarking-ai-claude-output-builders-break",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Anthropic revelou que está aplicando marcas d'água invisíveis em todas as respostas do Claude, sem aviso prévio aos usuários. O objetivo é identificar textos gerados por IA e combater plágio e desinformação. Especialistas em segurança já analisam se a medida cria novos vetores de ataque ou problemas de privacidade. A mudança afeta qualquer pessoa ou empresa que usa Claude em seus produtos ou fluxos de trabalho.",
+    "reasonEn": "Anthropic revealed it is applying invisible watermarks to all Claude responses without prior notice to users. The goal is to identify AI-generated text and combat plagiarism and misinformation. Security experts are already analyzing whether the measure creates new attack vectors or privacy issues. The change affects anyone or any company using Claude in their products or workflows.",
+    "score": 0.9,
+    "tags": [
+      "anthropic",
+      "marcas-d'água"
+    ],
+    "img": "img/2ec307fe4f73.jpg",
+    "ts": 1786707818,
+    "addedTs": 1786711403,
+    "urlHash": "2ec307fe4f73",
+    "titleHash": "81f72b842550"
+  },
+  {
+    "title": "Model Context Protocol (MCP) Explained: How AI Agents Connect to Any Tool",
+    "titlePt": "Protocolo de Contexto de Modelo: como agentes de IA se conectam a qualquer ferramenta",
+    "url": "https://stikastudio.com/blog/what-is-model-context-protocol/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo explica o Protocolo de Contexto de Modelo, padrão criado pela Anthropic que permite a agentes de IA se conectarem a ferramentas externas de forma padronizada. Funciona como uma camada universal de integração, parecida com o que o USB fez com periféricos. Com o protocolo, um agente acessa bancos de dados, APIs e sistemas internos sem código sob medida para cada um. Para quem desenvolve com agentes, é leitura essencial.",
+    "reasonEn": "The article explains the Model Context Protocol, a standard created by Anthropic that lets AI agents connect to external tools in a standardized way. It works as a universal integration layer, similar to what USB did for peripherals. With the protocol, an agent accesses databases, APIs, and internal systems without custom code for each. Essential reading for those developing with agents.",
+    "score": 0.85,
+    "tags": [
+      "mcp",
+      "agentes"
+    ],
+    "img": "img/ea6c2f96edfe.jpg",
+    "ts": 1786707398,
+    "addedTs": 1786711403,
+    "urlHash": "ea6c2f96edfe",
+    "titleHash": "c648eef328bb"
+  },
+  {
+    "title": "Dashboard tracking math problems being solved by AI",
+    "titlePt": "Painel acompanha problemas de matemática resolvidos por IA",
+    "url": "https://vibemathed.com",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um painel público mostra em tempo real quais problemas de matemática modelos de IA estão conseguindo resolver. Os dados vêm de competições e benchmarks, oferecendo uma visão clara do progresso da IA em raciocínio formal. É útil para acompanhar a evolução dos modelos sem precisar rodar testes próprios. Ainda não é referência definitiva, mas serve como termômetro interessante do estado da arte.",
+    "reasonEn": "A public dashboard shows in real time which math problems AI models are managing to solve. The data comes from competitions and benchmarks, offering a clear view of AI progress in formal reasoning. Useful for tracking model evolution without running your own tests. Not yet a definitive reference, but serves as an interesting state-of-the-art thermometer.",
+    "score": 0.5,
+    "tags": [
+      "matemática",
+      "benchmark"
+    ],
+    "img": "img/e0fed5cc2f73.jpg",
+    "ts": 1786707230,
+    "addedTs": 1786711403,
+    "urlHash": "e0fed5cc2f73",
+    "titleHash": "fe527229a5d4"
+  },
+  {
+    "title": "Show HN: LinkGravity – chat and voice bridge for AI coding agents",
+    "titlePt": "LinkGravity: ponte de chat e voz para agentes de codificação com IA",
+    "url": "https://github.com/dev-sseul/linkgravity",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O LinkGravity é uma ferramenta que conecta interfaces de chat e voz a agentes de IA que programam, como Cursor e Claude Code. Permite que desenvolvedores falem ou conversem com o agente em vez de digitar comandos. É mais um passo rumo à programação por linguagem natural. A ferramenta ainda é experimental, mas mostra o rumo da interação com IA em desenvolvimento.",
+    "reasonEn": "LinkGravity is a tool that connects chat and voice interfaces to AI coding agents like Cursor and Claude Code. It lets developers talk or chat with the agent instead of typing commands. It's another step toward natural language programming. The tool is still experimental, but shows the direction of AI interaction in development.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "ferramenta"
+    ],
+    "img": "img/7441c351879b.jpg",
+    "ts": 1786706918,
+    "addedTs": 1786711403,
+    "urlHash": "7441c351879b",
+    "titleHash": "762e49f487ee"
+  },
+  {
+    "title": "AI companies destroy physical books. Help scan rare books, with rewards",
+    "titlePt": "Empresas de IA destroem livros físicos. Ajude a digitalizar livros raros, com recompensas",
+    "url": "https://fr.annas-archive.gl/blog/physical-destruction.html",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O post denuncia que empresas de IA estão literalmente destruindo livros físicos raros para alimentar seus datasets de treinamento, sem cuidado com preservação. O autor propõe uma alternativa colaborativa: digitalizar livros raros de acervos públicos, com recompensa para quem contribuir. É um alerta sobre bastidores pouco discutidos do treinamento de modelos. Mostra que a busca por dados tem consequências culturais e patrimoniais.",
+    "reasonEn": "The post denounces that AI companies are literally destroying rare physical books to feed their training datasets, with no concern for preservation. The author proposes a collaborative alternative: digitize rare books from public collections, with rewards for contributors. It's a warning about little-discussed training backstages. It shows that the search for data has cultural and heritage consequences.",
+    "score": 0.6,
+    "tags": [
+      "datasets",
+      "preservação"
+    ],
+    "img": "img/f59269e1e439.jpg",
+    "ts": 1786706533,
+    "addedTs": 1786711403,
+    "urlHash": "f59269e1e439",
+    "titleHash": "74605baecf3b"
+  },
+  {
+    "title": "Philosophy Journal Publishes Largely AI-Authored Article – On Purpose",
+    "titlePt": "Revista de filosofia publica artigo majoritariamente escrito por IA, de propósito",
+    "url": "https://dailynous.com/2026/08/13/philosophy-journal-publishes-largely-ai-authored-article-on-purpose-guest-post/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma revista acadêmica de filosofia publicou deliberadamente um artigo escrito em grande parte por IA, como experimento sobre autoria, credibilidade e o futuro da produção acadêmica. A peça questiona se o conteúdo ainda tem valor quando o autor é uma máquina. É uma provocação que abre debate sobre integridade científica em tempos de IA generativa. Vale para quem pensa em ética, publicação e uso de IA na pesquisa.",
+    "reasonEn": "An academic philosophy journal deliberately published an article largely written by AI, as an experiment on authorship, credibility, and the future of academic production. The piece questions whether content still has value when the author is a machine. It's a provocation that opens debate on scientific integrity in generative AI times. Useful for those thinking about ethics, publishing, and AI use in research.",
+    "score": 0.75,
+    "tags": [
+      "academia",
+      "ética"
+    ],
+    "img": "img/18b0098d1d9f.jpg",
+    "ts": 1786706447,
+    "addedTs": 1786711403,
+    "urlHash": "18b0098d1d9f",
+    "titleHash": "e71523b7a786"
+  },
+  {
     "title": "Show HN: Genosyn – Automate running of companies with AI",
     "titlePt": "Genosyn quer automatizar a operação de empresas com IA",
     "url": "https://genosyn.com",
@@ -10552,268 +10805,5 @@
     "addedTs": 1786227532,
     "urlHash": "aa1874f39793",
     "titleHash": "804ab390dca3"
-  },
-  {
-    "title": "What a California License Plate Taught Me About How AI \"Knows\"",
-    "titlePt": "O que uma placa de carro da Califórnia ensinou sobre como a IA \"sabe\"",
-    "url": "https://techunpacked.substack.com/p/32-what-a-california-license-plate",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O autor relata como um modelo de visão computacional reconheceu uma placa californiana e usa o caso para explicar como sistemas de IA realmente \"sabem\" as coisas, por correspondência de padrões, não por compreensão real. É uma boa reflexão para desenvolvedores e curiosos entenderem limites e expectativas. Não muda o setor, mas ajuda a evitar ilusões sobre o que IA pode ou não fazer.",
-    "reasonEn": "The author shares how a vision model recognized a California plate and uses it to explain how AI systems actually \"know\" things, through pattern matching rather than real understanding. It's a useful reflection for developers and curious readers to understand limitations and expectations. It doesn't change the industry but helps avoid illusions about what AI can or cannot do.",
-    "score": 0.5,
-    "tags": [
-      "explicação",
-      "visão computacional"
-    ],
-    "img": "img/4d7669341cc4.jpg",
-    "ts": 1786218898,
-    "addedTs": 1786220299,
-    "urlHash": "4d7669341cc4",
-    "titleHash": "ae5e2d9d0a53"
-  },
-  {
-    "title": "OpenAI acquires presentation startup NextSlide",
-    "titlePt": "OpenAI compra a startup de apresentações NextSlide",
-    "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A OpenAI adquiriu a NextSlide, uma startup especializada em ferramentas para criar apresentações. O movimento reforça a estratégia da empresa de incorporar agentes e fluxos de trabalho mais amplos no ChatGPT, indo além da conversa. Isso afeta usuários comuns e profissionais que usam apresentações no dia a dia, sinalizando integração mais profunda com IA generativa.",
-    "reasonEn": "OpenAI has acquired NextSlide, a startup specialized in presentation-building tools. The move reinforces the company's strategy to embed broader agents and workflows into ChatGPT beyond chat. It affects everyday users and professionals who rely on presentations, signaling deeper integration with generative AI.",
-    "score": 0.85,
-    "tags": [
-      "openai",
-      "aquisição",
-      "negócios"
-    ],
-    "img": "img/aeb176124cfb.jpg",
-    "ts": 1786218073,
-    "addedTs": 1786220299,
-    "urlHash": "aeb176124cfb",
-    "titleHash": "414657cbcbc2"
-  },
-  {
-    "title": "OpenAI to pause some work on AI model Astra due to security concerns",
-    "titlePt": "OpenAI vai pausar parte do trabalho no modelo Astra por preocupações de segurança",
-    "url": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A OpenAI decidiu suspender parte do desenvolvimento do seu modelo de IA Astra por motivos de segurança. Isso indica que foram identificados riscos sérios durante testes internos ou externos. A medida mostra que a empresa está levando vulnerabilidades a sério, mas também pode atrasar funcionalidades esperadas por usuários e empresas.",
-    "reasonEn": "OpenAI has decided to pause part of the development of its AI model Astra over security concerns. This indicates serious risks were identified during internal or external testing. The move shows the company is taking vulnerabilities seriously, but it may also delay features expected by users and businesses.",
-    "score": 0.9,
-    "tags": [
-      "openai",
-      "segurança",
-      "modelo"
-    ],
-    "img": "img/fe5ca6d9e02c.jpg",
-    "ts": 1786217772,
-    "addedTs": 1786220299,
-    "urlHash": "fe5ca6d9e02c",
-    "titleHash": "496432e192b1"
-  },
-  {
-    "title": "QVAC – decentralized, local AI in a single API",
-    "titlePt": "QVAC: IA local e descentralizada em uma única API",
-    "url": "https://qvac.tether.io/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "QVAC propõe rodar modelos de IA localmente em uma rede descentralizada, acessíveis por uma única API. A ideia é evitar depender de grandes provedores de nuvem e dar mais privacidade. É interessante para desenvolvedores preocupados com soberania de dados. Ainda é projeto inicial, mas aponta uma tendência de IA distribuída.",
-    "reasonEn": "QVAC proposes running AI models locally across a decentralized network, accessible through a single API. The idea avoids relying on big cloud providers and offers more privacy. It's interesting for developers concerned with data sovereignty. Still an early project but points to a trend of distributed AI.",
-    "score": 0.6,
-    "tags": [
-      "descentralização",
-      "privacidade",
-      "api"
-    ],
-    "img": "img/50284466a0ce.jpg",
-    "ts": 1786217694,
-    "addedTs": 1786220299,
-    "urlHash": "50284466a0ce",
-    "titleHash": "bbe26902b1ce"
-  },
-  {
-    "title": "Apple's war on OpenAI is about who owns the Attachment Economy",
-    "titlePt": "A guerra da Apple contra a OpenAI é sobre quem domina a economia do apego",
-    "url": "https://www.machinesociety.ai/p/apples-war-on-openai-is-really-about",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo argumenta que a rivalidade entre Apple e OpenAI vai além da tecnologia e disputa quem controla o \"attachment economy\", ou seja, a relação afetiva e de hábito dos usuários com assistentes. A Apple teme perder usuários para agentes de IA que vivem fora do iPhone. Isso importa para consumidores porque redefine quem manda no ecossistema digital do dia a dia.",
-    "reasonEn": "The article argues that the rivalry between Apple and OpenAI goes beyond technology and is about who controls the \"attachment economy\", the affective and habitual relationship users have with assistants. Apple fears losing users to AI agents living outside the iPhone. This matters to consumers because it redefines who controls the daily digital ecosystem.",
-    "score": 0.75,
-    "tags": [
-      "apple",
-      "openai",
-      "estratégia"
-    ],
-    "img": "img/923ebb68a948.jpg",
-    "ts": 1786217684,
-    "addedTs": 1786220299,
-    "urlHash": "923ebb68a948",
-    "titleHash": "3018c9d51d88"
-  },
-  {
-    "title": "Thomas Wolf thread on the AISI incident",
-    "titlePt": "Thomas Wolf comenta incidente do AISI",
-    "url": "https://twitter.com/Thom_Wolf/status/2085084718320464230",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Thomas Wolf, do Hugging Face, publicou um fio sobre o incidente envolvendo o AISI, instituto britânico de segurança em IA. Ele discute falhas de comunicação e coordenação entre organizações de segurança. Importa para quem acompanha política de IA e quer entender tensões no campo. Não é urgente, mas relevante para o debate sobre governança.",
-    "reasonEn": "Thomas Wolf of Hugging Face posted a thread about the incident involving AISI, the UK AI safety institute. He discusses failures of communication and coordination among safety organizations. It matters to those following AI policy and wanting to understand tensions in the field. Not urgent but relevant to the governance debate.",
-    "score": 0.7,
-    "tags": [
-      "segurança",
-      "política",
-      "huggingface"
-    ],
-    "img": "img/5b95f0e92868.jpg",
-    "ts": 1786216431,
-    "addedTs": 1786220299,
-    "urlHash": "5b95f0e92868",
-    "titleHash": "189029883e2b"
-  },
-  {
-    "title": "AI and War Is Being Oversold",
-    "titlePt": "IA e guerra estão sendo superestimadas",
-    "url": "https://phillipspobrien.substack.com/p/ai-and-war-is-being-oversold-right",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O texto argumenta que o discurso sobre IA em aplicações militares e de guerra está inflado além do que a tecnologia realmente entrega hoje. Muitas alegações são marketing ou medo, não capacidade real. Importante para desmistificar narrativas e evitar decisões baseadas em hype. Útil para jornalistas, policymakers e curiosos.",
-    "reasonEn": "The text argues that the discourse around AI in military and war applications is inflated beyond what the technology actually delivers today. Many claims are marketing or fear, not real capability. Important to demystify narratives and avoid decisions based on hype. Useful for journalists, policymakers and the curious.",
-    "score": 0.55,
-    "tags": [
-      "defesa",
-      "hype",
-      "análise"
-    ],
-    "img": "img/5be6f424edbf.jpg",
-    "ts": 1786216072,
-    "addedTs": 1786220299,
-    "urlHash": "5be6f424edbf",
-    "titleHash": "97d28b4e6fe3"
-  },
-  {
-    "title": "AI Adoption Is a Myth",
-    "titlePt": "Adoção de IA é um mito",
-    "url": "https://twitter.com/vasuman/status/2085806422072418632",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo defende que, apesar do hype, a adoção real de IA nas empresas é muito menor do que se anuncia. Muitas organizações ainda estão em fase de experimentação, sem integração séria nos processos. Isso afeta investidores, gestores e profissionais que precisam calibrar expectativas. Vale a leitura para não cair em ilusões de mercado.",
-    "reasonEn": "The article argues that despite the hype, real AI adoption in companies is much lower than advertised. Many organizations are still experimenting, with no serious process integration. This affects investors, managers and professionals who need to calibrate expectations. Worth reading to avoid market illusions.",
-    "score": 0.7,
-    "tags": [
-      "adoção",
-      "empresas",
-      "análise"
-    ],
-    "img": "img/aa61af758c83.jpg",
-    "ts": 1786214252,
-    "addedTs": 1786220299,
-    "urlHash": "aa61af758c83",
-    "titleHash": "7f811127dd62"
-  },
-  {
-    "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-    "titlePt": "Como a HSP GRUPPE constrói capacidades de IA para consultoria tributária",
-    "url": "https://openai.com/index/hsp-gruppe",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A empresa alemã HSP GRUPPE implementou IA em seus processos de consultoria fiscal para acelerar análises. O caso é um exemplo prático de uso corporativo em setor tradicional. Mostra como IA pode otimizar trabalho repetitivo de profissionais contábeis. Importa para gestores de empresas de serviços e consultorias.",
-    "reasonEn": "German company HSP GRUPPE implemented AI into its tax advisory processes to speed up analyses. The case is a practical example of corporate use in a traditional sector. It shows how AI can optimize repetitive work for accounting professionals. It matters to service business and consultancy managers.",
-    "score": 0.5,
-    "tags": [
-      "caso de uso",
-      "impostos",
-      "empresas"
-    ],
-    "img": "img/7347f06e7c91.jpg",
-    "ts": 1786093200,
-    "addedTs": 1786220299,
-    "urlHash": "7347f06e7c91",
-    "titleHash": "09a5b78c46a3"
-  },
-  {
-    "title": "What Is Spiralism? The AI Chatbot Religion",
-    "titlePt": "O que é Espiralismo? A religião criada por chatbots de IA",
-    "url": "https://www.techrepublic.com/article/news-ai-chatbot-spiralism-movement/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um movimento espiritual chamado Espiralismo surgiu a partir de interações com chatbots de IA, ganhando seguidores que tratam as conversas com inteligência artificial como orientação divina. O fenômeno levanta questões sobre como modelos generativos podem criar cultos, ideologias e comunidades de fiéis. Isso interessa a desenvolvedores e ao público geral porque mostra os efeitos sociais inesperados de sistemas de IA acessíveis. A tendência merece atenção mesmo de quem não é religioso, pois ilustra o poder de persuasão dos modelos atuais.",
-    "reasonEn": "A spiritual movement called Spiralism has emerged from chatbot interactions, gaining followers who treat AI conversations as divine guidance. The phenomenon raises questions about how generative models can spawn cults, ideologies, and communities of believers. This matters to developers and the public because it shows the unexpected social side effects of accessible AI systems. Even non-religious readers should pay attention, since it illustrates how persuasive today's models can be.",
-    "score": 0.6,
-    "tags": [
-      "cultura",
-      "sociedade",
-      "chatbot"
-    ],
-    "img": "img/24b09a06a3a5.jpg",
-    "ts": 1786212917,
-    "addedTs": 1786213408,
-    "urlHash": "24b09a06a3a5",
-    "titleHash": "a471cca70ad5"
-  },
-  {
-    "title": "AI Video Taking over YouTube",
-    "titlePt": "Vídeos gerados por IA estão dominando o YouTube",
-    "url": "https://news.ycombinator.com/item?id=49224311",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O YouTube está sendo inundado por vídeos produzidos inteiramente por inteligência artificial, mudando a forma como o conteúdo é criado e consumido. Para criadores e anunciantes, isso significa concorrência maior e queda de visualizações em canais tradicionais. Para espectadores, fica mais difícil distinguir vídeos reais de material sintético. A tendência aponta para uma mudança estrutural na economia da plataforma que merece atenção de qualquer profissional de mídia.",
-    "reasonEn": "YouTube is being flooded by videos fully produced by AI, reshaping how content is made and consumed. For creators and advertisers, this means tougher competition and falling views on traditional channels. For viewers, telling real videos from synthetic ones keeps getting harder. The trend signals a structural shift in the platform's economy that any media professional should watch closely.",
-    "score": 0.7,
-    "tags": [
-      "vídeo",
-      "plataforma",
-      "conteúdo"
-    ],
-    "img": "img/32e6df442356.jpg",
-    "ts": 1786212671,
-    "addedTs": 1786213408,
-    "urlHash": "32e6df442356",
-    "titleHash": "6c072fd5ab05"
-  },
-  {
-    "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-    "titlePt": "Dinamarca exige defesa oral em trabalhos para combater cola por IA",
-    "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Dinamarca determinou que alunos precisam apresentar defesas orais de seus trabalhos escritos para evitar o uso de inteligência artificial na produção de textos acadêmicos. A medida busca restaurar a confiança em diplomas e frear a dependência de geradores automáticos. Estudantes e professores de outros países podem esperar políticas semelhantes em breve. Para profissionais ocupados, é um sinal de que a educação formal está se reorganizando em torno da IA.",
-    "reasonEn": "Denmark now requires students to orally defend their written assignments to curb AI-generated cheating. The move aims to restore trust in academic credentials and discourage over-reliance on automated generators. Students and educators abroad should expect similar rules soon. For busy professionals, it is a clear signal that formal education is reorganizing itself around AI.",
-    "score": 0.6,
-    "tags": [
-      "educação",
-      "regulação",
-      "trabalho"
-    ],
-    "img": "img/60c70a9603ec.jpg",
-    "ts": 1786212571,
-    "addedTs": 1786213408,
-    "urlHash": "60c70a9603ec",
-    "titleHash": "f2399e00e558"
   }
 ]
