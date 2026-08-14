@@ -1,5 +1,137 @@
 [
   {
+    "title": "Taiwan targeted in AI-driven hacking campaign",
+    "titlePt": "Taiwan é alvo de campanha de hackers movida por IA",
+    "url": "https://www.taipeitimes.com/News/front/archives/2026/08/14/2003862463",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Taiwan foi alvo de uma nova campanha de hackers que usa inteligência artificial para automatizar ataques. O caso chamou atenção porque mostra como a IA está sendo usada para escalar operações maliciosas. O incidente afeta empresas e órgãos governamentais da ilha e levanta alertas sobre segurança digital na Ásia. Especialistas em cibersegurança recomendam reforçar defesas automatizadas para acompanhar o ritmo dos ataques.",
+    "reasonEn": "Taiwan was targeted by a new hacking campaign that uses artificial intelligence to automate attacks. The case drew attention because it shows how AI is being used to scale malicious operations. The incident affects businesses and government agencies on the island and raises alarms about digital security in Asia. Cybersecurity experts recommend strengthening automated defenses to keep up with the pace of attacks.",
+    "score": 0.7,
+    "tags": [
+      "segurança",
+      "hackers",
+      "ia"
+    ],
+    "img": "img/4370cfeba708.jpg",
+    "ts": 1786745391,
+    "addedTs": 1786745629,
+    "urlHash": "4370cfeba708",
+    "titleHash": "d3cbcadf137c"
+  },
+  {
+    "title": "Man attempts to prompt-inject court, fails",
+    "titlePt": "Homem tenta usar prompt injection em tribunal e fracassa",
+    "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um homem tentou usar técnicas de prompt injection para enganar a inteligência artificial de um tribunal e influenciar uma decisão. O ataque falhou porque o sistema identificou a manipulação. O caso é raro e mostra que adversários já tentam explorar LLMs em sistemas judiciais. Serve de alerta para tribunais e órgãos públicos que adotam IA em seus processos.",
+    "reasonEn": "A man tried to use prompt injection techniques to fool a court's AI and influence a ruling. The attack failed because the system detected the manipulation. The case is rare and shows adversaries are already trying to exploit LLMs in judicial systems. It serves as a warning for courts and public agencies adopting AI in their processes.",
+    "score": 0.6,
+    "tags": [
+      "segurança",
+      "justiça",
+      "prompt injection"
+    ],
+    "img": "img/2dbd025943ac.jpg",
+    "ts": 1786744316,
+    "addedTs": 1786745629,
+    "urlHash": "2dbd025943ac",
+    "titleHash": "01128ed71ed9"
+  },
+  {
+    "title": "AI runs here. Not out there",
+    "titlePt": "IA roda aqui, não lá fora: o futuro da inferência local",
+    "url": "https://osaurus.ai",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A campanha pelo processamento local de IA ganha força, defendendo que modelos rodem nos próprios dispositivos dos usuários em vez de na nuvem. A motivação é privacidade, latência e menor custo operacional. Grandes empresas já lançam modelos otimizados para rodar em laptops e celulares. A tendência afeta como empresas compram hardware e desenham produtos.",
+    "reasonEn": "The push for local AI processing is gaining momentum, arguing models should run on user devices instead of in the cloud. The motivation is privacy, latency, and lower operating costs. Major companies are already releasing models optimized to run on laptops and phones. The trend affects how businesses buy hardware and design products.",
+    "score": 0.6,
+    "tags": [
+      "edge ai",
+      "privacidade",
+      "local"
+    ],
+    "img": "img/6b4d8945620d.jpg",
+    "ts": 1786743148,
+    "addedTs": 1786745629,
+    "urlHash": "6b4d8945620d",
+    "titleHash": "7e5230c9ba6f"
+  },
+  {
+    "title": "Qwen 3.8 27B vs. Nemotron 3.5 vs. Muse Glimmer on an RTX 5090",
+    "titlePt": "Qwen 3.8 27B contra Nemotron 3.5 e Muse Glimmer na RTX 5090",
+    "url": "https://kgptalkie.com/tutorials/generative-ai/qwen-3-8-27b-vs-nemotron-3-5-vs-muse-glimmer",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O teste compara três modelos recentes - Qwen 3.8 27B, Nemotron 3.5 e Muse Glimmer - em uma GPU topo de linha, a RTX 5090. Mostra velocidade, qualidade e uso de memória de cada modelo em tarefas reais. Ajuda quem está escolhendo qual LLM rodar localmente em hardware de alto desempenho. O benchmark é útil para decisões de compra e implantação.",
+    "reasonEn": "The benchmark compares three recent models - Qwen 3.8 27B, Nemotron 3.5, and Muse Glimmer - on a top-tier GPU, the RTX 5090. It shows speed, quality, and memory use of each model on real tasks. Helps anyone choosing which LLM to run locally on high-end hardware. The benchmark is useful for purchase and deployment decisions.",
+    "score": 0.6,
+    "tags": [
+      "benchmark",
+      "modelo local",
+      "gpu"
+    ],
+    "img": "img/2ce2fc756935.jpg",
+    "ts": 1786742722,
+    "addedTs": 1786745629,
+    "urlHash": "2ce2fc756935",
+    "titleHash": "52478e85699a"
+  },
+  {
+    "title": "DeepSeek V4 Pro goes GA: 1.6T MoE flagship exits preview",
+    "titlePt": "DeepSeek V4 Pro chega oficialmente com 1,6 trilhão de parâmetros MoE",
+    "url": "https://ainexusdaily.vercel.app",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A DeepSeek lançou a versão final do V4 Pro, um modelo MoE de 1,6 trilhão de parâmetros que sai da fase de preview. A empresa chinesa vinha ganhando terreno com modelos abertos de alto desempenho e baixo custo. O lançamento afeta diretamente a concorrência com OpenAI, Anthropic e Google. Desenvolvedores devem esperar APIs mais baratas e novos benchmarks abertos.",
+    "reasonEn": "DeepSeek released the final version of V4 Pro, a 1.6 trillion parameter MoE model exiting preview. The Chinese company had been gaining ground with high-performance, low-cost open models. The launch directly affects competition with OpenAI, Anthropic, and Google. Developers should expect cheaper APIs and new open benchmarks.",
+    "score": 0.9,
+    "tags": [
+      "deepseek",
+      "modelo",
+      "lançamento"
+    ],
+    "img": "img/9b37af0d8c97.jpg",
+    "ts": 1786740970,
+    "addedTs": 1786745629,
+    "urlHash": "9b37af0d8c97",
+    "titleHash": "6b76d8367f18"
+  },
+  {
+    "title": "AI-Assisted Management Drives Latest SUSE Linux Release (2025)",
+    "titlePt": "Nova versão do SUSE Linux usa IA para automatizar a gestão",
+    "url": "https://www.suse.com/news/suse-linux-enterprise-server-16-ai-ready-long-term-support/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A SUSE anunciou uma versão do seu Linux empresarial que usa IA para automatizar tarefas de administração de sistemas. A proposta é simplificar operações como atualização, monitoramento e correção de falhas. É parte da tendência de adicionar IA em camadas de infraestrutura. Pode reduzir carga de equipes de TI em ambientes corporativos.",
+    "reasonEn": "SUSE announced a version of its enterprise Linux that uses AI to automate system administration tasks. The goal is to simplify operations like patching, monitoring, and fixing failures. It is part of the trend of adding AI at the infrastructure layer. It could reduce the load on IT teams in corporate environments.",
+    "score": 0.5,
+    "tags": [
+      "suse",
+      "linux",
+      "automação"
+    ],
+    "img": "img/9667f7fec2ef.jpg",
+    "ts": 1786738865,
+    "addedTs": 1786745629,
+    "urlHash": "9667f7fec2ef",
+    "titleHash": "5f523d0c0e3d"
+  },
+  {
     "title": "Show HN: Mocktail – Free, open-source mock API server with a built-in dashboard",
     "titlePt": "Mocktail: servidor gratuito de APIs simuladas com painel",
     "url": "https://getmocktail.com/",
@@ -10693,135 +10825,5 @@
     "addedTs": 1786365985,
     "urlHash": "5a2ee8da20d1",
     "titleHash": "894ce8067577"
-  },
-  {
-    "title": "The OpenAI and Hugging Face breach story told from the perspective of the AI",
-    "titlePt": "O ataque à OpenAI e Hugging Face contado pela perspectiva da IA",
-    "url": "https://www.youtube.com/watch?v=RE4IDWjfOZc",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo reconta o recente ataque às plataformas OpenAI e Hugging Face de um ângulo original: a visão da própria inteligência artificial envolvida no incidente. A narrativa explora como sistemas autônomos podem ser manipulados e usados como vetores de ataque. O caso levanta questões sérias sobre a segurança de agentes cada vez mais independentes. É uma leitura que mistura relato técnico com reflexão sobre os novos riscos da IA avançada.",
-    "reasonEn": "The article retells the recent attack on OpenAI and Hugging Face platforms from an original angle: the perspective of the artificial intelligence itself involved in the incident. The narrative explores how autonomous systems can be manipulated and used as attack vectors. The case raises serious questions about the security of increasingly independent agents. It's a read that mixes technical reporting with reflection on advanced AI's new risks.",
-    "score": 0.65,
-    "tags": [
-      "segurança",
-      "openai",
-      "huggingface"
-    ],
-    "img": "img/4f27f62d34cf.jpg",
-    "ts": 1786359143,
-    "addedTs": 1786365985,
-    "urlHash": "4f27f62d34cf",
-    "titleHash": "719b9a7059b2"
-  },
-  {
-    "title": "Senior detective under investigation over use of AI",
-    "titlePt": "Detetive sênior é investigado por uso de IA em caso criminal",
-    "url": "https://www.bbc.com/news/articles/c7vgq5mgz2mo",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um detetive sênior está sendo investigado após usar ferramentas de inteligência artificial em uma investigação criminal. O caso levanta dúvidas sobre a confiabilidade e a aceitabilidade de provas geradas ou analisadas por IA no sistema judicial. Autoridades buscam entender se houve erros ou manipulação de evidências durante o processo. O episódio pode estabelecer precedentes importantes sobre o uso da tecnologia em procedimentos legais.",
-    "reasonEn": "A senior detective is under investigation after using artificial intelligence tools in a criminal investigation. The case raises doubts about the reliability and admissibility of evidence generated or analyzed by AI in the judicial system. Authorities seek to understand whether there were errors or evidence manipulation during the process. The episode may set important precedents about technology use in legal proceedings.",
-    "score": 0.6,
-    "tags": [
-      "justiça",
-      "investigação",
-      "polícia"
-    ],
-    "img": "img/ce83f9530a07.jpg",
-    "ts": 1786358119,
-    "addedTs": 1786365985,
-    "urlHash": "ce83f9530a07",
-    "titleHash": "0c5bfbd06f54"
-  },
-  {
-    "title": "Linus Torvalds says AI has made Linux kernel updates the new normal",
-    "titlePt": "Linus Torvalds diz que IA tornou atualizações do kernel Linux rotina",
-    "url": "https://www.theregister.com/os-platforms/2026/08/10/linus-torvalds-says-ai-has-made-huge-linux-kernel-updates-the-new-normal/5285268",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O criador do Linux, Linus Torvalds, afirmou que a inteligência artificial tornou as atualizações do kernel muito mais frequentes do que no passado. Segundo ele, a IA facilita a revisão e o envio de patches, acelerando o ritmo de desenvolvimento do projeto. A declaração marca mais um endosso importante de uma figura central do software aberto ao uso da tecnologia. É notícia relevante para desenvolvedores de sistemas e para quem acompanha o movimento open source.",
-    "reasonEn": "Linux creator Linus Torvalds said artificial intelligence has made kernel updates much more frequent than in the past. According to him, AI facilitates review and submission of patches, accelerating the project's development pace. The statement marks another important endorsement of the technology by a central open-source figure. It's relevant news for systems developers and those following the open-source movement.",
-    "score": 0.8,
-    "tags": [
-      "linux",
-      "kernel",
-      "open-source"
-    ],
-    "img": "img/b4f4165aadc9.jpg",
-    "ts": 1786357450,
-    "addedTs": 1786365985,
-    "urlHash": "b4f4165aadc9",
-    "titleHash": "20ec8198cdb7"
-  },
-  {
-    "title": "Muse Glimmer: Meta's open model built for always-on local agents. 30B parameters",
-    "titlePt": "Meta lança Muse Glimmer: modelo aberto de 30B para agentes locais",
-    "url": "https://developer.meta.com/ai/models/muse-glimmer/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Meta disponibilizou o Muse Glimmer, um modelo aberto de 30 bilhões de parâmetros voltado para rodar localmente em agentes sempre ativos. O foco é eficiência para inferência contínua em máquinas comuns, sem depender de nuvem. Desenvolvedores que constroem agentes e assistentes locais ganham uma nova opção aberta e poderosa. Pode reduzir custos e aumentar privacidade ao tirar a dependência de APIs pagas.",
-    "reasonEn": "Meta released Muse Glimmer, an open 30-billion-parameter model designed to run locally on always-on agents. The focus is efficiency for continuous inference on regular machines, without cloud dependency. Developers building local agents and assistants get a new open and powerful option. It could reduce costs and boost privacy by removing the need for paid APIs.",
-    "score": 0.85,
-    "tags": [
-      "modelo",
-      "lançamento",
-      "open-source"
-    ],
-    "img": "img/dd55b95417bb.jpg",
-    "ts": 1786357144,
-    "addedTs": 1786365985,
-    "urlHash": "dd55b95417bb",
-    "titleHash": "b4bf717ec71f"
-  },
-  {
-    "title": "These startups are chasing the next big thing in LLMs",
-    "titlePt": "Startups correm atrás do próximo grande salto em LLMs",
-    "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
-    "source": "MIT Tech Review",
-    "sources": [
-      "MIT Tech Review"
-    ],
-    "reason": "O MIT Tech Review mapeia startups que apostam em novas arquiteturas e abordagens para superar os atuais limites dos grandes modelos de linguagem. O texto ajuda a entender para onde o setor está se movendo além dos transformers tradicionais. Desenvolvedores podem usar para identificar novas ferramentas, parceiros ou ameaças competitivas. Útil para quem decide estratégia técnica ou investimentos.",
-    "reasonEn": "MIT Tech Review maps startups betting on new architectures and approaches to break past current LLM limits. The piece helps readers see where the industry is heading beyond traditional transformers. Developers can use it to spot new tools, partners, or competitive threats. Useful for anyone shaping technical strategy or investment choices.",
-    "score": 0.5,
-    "tags": [
-      "startups",
-      "indústria"
-    ],
-    "img": "img/837b81d5ae07.jpg",
-    "ts": 1786352400,
-    "addedTs": 1786365985,
-    "urlHash": "837b81d5ae07",
-    "titleHash": "bc639a4aa5b6"
-  },
-  {
-    "title": "The AI Barons Are Ready to Give Away Their Fortunes",
-    "titlePt": "Os barões da IA estão prontos para doar suas fortunas",
-    "url": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Bilhões por trás das maiores empresas de IA estão se preparando para distribuir parte de suas fortunas, imitando modelos filantrópicos como o Giving Pledge. O movimento indica que uma nova geração de gigantes da tecnologia pretende direcionar riqueza para causas sociais e científicas. A tendência pode remodelar o financiamento de pesquisa e projetos públicos nos próximos anos. Para desenvolvedores e empresas, isso significa possíveis novas fontes de financiamento e parcerias filantrópicas.",
-    "reasonEn": "Billionaires behind the biggest AI companies are preparing to give away parts of their fortunes, following philanthropic models like the Giving Pledge. The move signals a new generation of tech giants plans to direct wealth toward social and scientific causes. This trend could reshape funding for research and public projects in coming years. For developers and businesses, it may mean new funding sources and philanthropic partnerships.",
-    "score": 0.5,
-    "tags": [
-      "filantropia",
-      "bigtech"
-    ],
-    "img": "img/c2590b7754e0.jpg",
-    "ts": 1786351251,
-    "addedTs": 1786359541,
-    "urlHash": "c2590b7754e0",
-    "titleHash": "6ef61af1908c"
   }
 ]
