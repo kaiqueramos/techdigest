@@ -1,5 +1,423 @@
 [
   {
+    "title": "Show HN: Genosyn – Automate running of companies with AI",
+    "titlePt": "Genosyn quer automatizar a operação de empresas com IA",
+    "url": "https://genosyn.com",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Genosyn é um projeto Show HN que propõe agentes de IA capazes de tocar rotinas administrativas e operacionais de empresas. A promessa é grande, mas o post ainda é uma demonstração inicial, sem cases públicos robustos. Interessa a fundadores e pequenos_times que estão avaliando automação ponta a ponta, mas o sinal ainda é cedo.",
+    "reasonEn": "Genosyn is a Show HN project that proposes AI agents capable of running administrative and operational routines of companies. The promise is big, but the post is still an early demo without solid public case studies. It matters to founders and small teams evaluating end-to-end automation, but the signal is still early.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "automação",
+      "showhn"
+    ],
+    "img": "img/c2fa8f763026.jpg",
+    "ts": 1786704357,
+    "addedTs": 1786704625,
+    "urlHash": "c2fa8f763026",
+    "titleHash": "59685c7bdd9c"
+  },
+  {
+    "title": "Why AI-generated vulnerability patches still require expert human review",
+    "titlePt": "Patches de vulnerabilidade gerados por IA ainda exigem revisão humana",
+    "url": "https://1password.com/blog/why-ai-generated-patches-still-require-human-review",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um estudo recente mostra que correções de segurança produzidas por modelos de IA frequentemente introduzem novos problemas ou passam batido em detalhes sutis. Revisores humanos continuam indispensáveis para validar cada patch antes de aplicar. Equipes de AppSec e DevSecOps devem tratar saídas de IA como rascunho, não como correção final. O alerta importa porque muita gente está integrando IA direto em pipelines de segurança.",
+    "reasonEn": "A recent study shows that security patches produced by AI models often introduce new issues or miss subtle details. Human reviewers remain indispensable to validate each patch before applying it. AppSec and DevSecOps teams should treat AI output as a draft, not a final fix. The warning matters because many teams are wiring AI directly into security pipelines.",
+    "score": 0.7,
+    "tags": [
+      "segurança",
+      "ia",
+      "devsecops"
+    ],
+    "img": "img/3dd1fef738af.jpg",
+    "ts": 1786704291,
+    "addedTs": 1786704625,
+    "urlHash": "3dd1fef738af",
+    "titleHash": "84766324bf89"
+  },
+  {
+    "title": "Everyone talks about AI agents. This is what one looks from the inside",
+    "titlePt": "O que realmente acontece por dentro de um agente de IA",
+    "url": "https://pssah4.github.io/vault-operator/guides/capabilities",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O autor mostra, na prática, a engrenagem interna de um agente de IA moderno, incluindo loops, ferramentas e decisões intermediárias. O texto desmitifica a ideia de 'agente mágico' e expõe custos, latências e travamentos comuns. É uma leitura útil para gerentes e engenheiros que precisam explicar agentes a times não técnicos. Ajuda a calibrar expectativas antes de investir em automação agentic.",
+    "reasonEn": "The author shows, in practice, the inner workings of a modern AI agent, including loops, tools, and intermediate decisions. The text demystifies the 'magic agent' idea and exposes common costs, latencies, and stalls. It is a useful read for managers and engineers who must explain agents to non-technical teams. It helps calibrate expectations before investing in agentic automation.",
+    "score": 0.55,
+    "tags": [
+      "agentes",
+      "explicação",
+      "engenharia"
+    ],
+    "img": "img/b90e8e528056.jpg",
+    "ts": 1786704252,
+    "addedTs": 1786704625,
+    "urlHash": "b90e8e528056",
+    "titleHash": "cb82a347b221"
+  },
+  {
+    "title": "Gemini 3.7 Flash: On the Intelligence vs. Time per Task Pareto frontier",
+    "titlePt": "Gemini 3.7 Flash entra na fronteira entre inteligência e tempo por tarefa",
+    "url": "https://artificialanalysis.ai/articles/gemini-3-7-time-frontier",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Google lançou o Gemini 3.7 Flash, modelo focado em entregar alta inteligência por segundo gasto. Resultados preliminares indicam uma nova Pareto frontier em custo-benefício frente a concorrentes como Claude e DeepSeek. O impacto é direto para desenvolvedores que escolhem modelos por latência e orçamento. Pode deslocar parte do tráfego que hoje usa modelos intermediários mais caros.",
+    "reasonEn": "Google has launched Gemini 3.7 Flash, a model focused on delivering high intelligence per second spent. Preliminary results point to a new Pareto frontier in cost-benefit against competitors like Claude and DeepSeek. The impact is direct for developers choosing models by latency and budget. It can shift part of the traffic currently using more expensive mid-tier models.",
+    "score": 0.8,
+    "tags": [
+      "gemini",
+      "modelo",
+      "lançamento"
+    ],
+    "img": "img/6caec3faf531.jpg",
+    "ts": 1786701303,
+    "addedTs": 1786704625,
+    "urlHash": "6caec3faf531",
+    "titleHash": "961cdbc1bde1"
+  },
+  {
+    "title": "I burned $157,143 in tokens last month. I paid $400",
+    "titlePt": "Queimei 157 mil dólares em tokens e paguei só 400",
+    "url": "https://www.orcdev.com/blog/ai-subscriptions",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O autor detalha como queimou cerca de 157 mil dólares em tokens de IA mas pagou apenas 400 dólares de fatura real. O truque está em cache agressivo, modelos menores para tarefas simples e prompts bem desenhados. A história é útil para qualquer time que quer cortar custos sem perder produtividade. É um ótimo lembrete de que o 'preço de tabela' raramente é o que se paga no fim do mês.",
+    "reasonEn": "The author details how he burned about 157 thousand dollars in AI tokens but paid only 400 dollars on the actual bill. The trick lies in aggressive caching, smaller models for simple tasks, and well-designed prompts. The story is useful for any team that wants to cut costs without losing productivity. It is a great reminder that the 'list price' is rarely what you actually pay at the end of the month.",
+    "score": 0.7,
+    "tags": [
+      "custos",
+      "otimização",
+      "tokens"
+    ],
+    "img": "img/24ba3fc43f0f.jpg",
+    "ts": 1786701077,
+    "addedTs": 1786704625,
+    "urlHash": "24ba3fc43f0f",
+    "titleHash": "50e9d0886e0a"
+  },
+  {
+    "title": "EU AI Act and C2PA: What Article 50 Requires",
+    "titlePt": "EU AI Act e C2PA: o que o Artigo 50 exige",
+    "url": "https://c2paviewer.com/articles/eu-ai-act-content-credentials",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo explica as obrigações do Artigo 50 do EU AI Act em relação à marca d'água e metadados de proveniência (C2PA) em conteúdo gerado por IA. A regra impacta empresas que distribuem imagens, vídeos e textos sintéticos na União Europeia. Multas podem ser pesadas, então produtos com clientes europeus precisam se adaptar. É leitura obrigatória para líderes de produto e times jurídicos de tech.",
+    "reasonEn": "The article explains the obligations of Article 50 of the EU AI Act regarding watermarking and provenance metadata (C2PA) on AI-generated content. The rule impacts companies that distribute synthetic images, videos, and texts in the European Union. Fines can be heavy, so products with European customers need to adapt. It is mandatory reading for product leaders and tech legal teams.",
+    "score": 0.6,
+    "tags": [
+      "regulação",
+      "europa",
+      "proveniência"
+    ],
+    "img": "img/a177cff71079.jpg",
+    "ts": 1786700482,
+    "addedTs": 1786704625,
+    "urlHash": "a177cff71079",
+    "titleHash": "52ff85786677"
+  },
+  {
+    "title": "Show HN: OpenComplAI – open-source EU AI Act compliance checks in CI/CD",
+    "titlePt": "OpenComplAI: checagens de conformidade com o EU AI Act no CI/CD",
+    "url": "https://github.com/opencomplai/opencomplai",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O projeto OpenComplAI traz verificações open source de conformidade com o EU AI Act diretamente em pipelines de CI/CD. Times de ML e plataforma conseguem bloquear deploys que violem requisitos básicos. A iniciativa reduz a dependência de consultorias caras para uma primeira camada de auditoria. Ainda é cedo, mas o movimento aponta para 'compliance as code' em IA.",
+    "reasonEn": "The OpenComplAI project brings open-source compliance checks for the EU AI Act directly into CI/CD pipelines. ML and platform teams can block deploys that violate basic requirements. The initiative reduces the dependency on expensive consultancies for a first layer of auditing. It is still early, but it points to 'compliance as code' in AI.",
+    "score": 0.55,
+    "tags": [
+      "regulação",
+      "open-source",
+      "cicode"
+    ],
+    "img": "img/3f45cd7cab2c.jpg",
+    "ts": 1786699763,
+    "addedTs": 1786704625,
+    "urlHash": "3f45cd7cab2c",
+    "titleHash": "9e8f802e0b5c"
+  },
+  {
+    "title": "Mistral is serving GLM 5.2",
+    "titlePt": "Mistral passa a servir o modelo chinês GLM 5.2",
+    "url": "https://docs.mistral.ai/models/zai-glm-5-2",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Mistral começou a oferecer o GLM 5.2, modelo da chinesa Zhipu, em sua plataforma de inferência. A medida diversifica o catálogo da Mistral e dá acesso a uma alternativa chinesa competitiva a preços potencialmente menores. Para desenvolvedores europeus, é mais uma opção para fugir de dependência de poucos fornecedores. Mostra que o mercado de inferência está cada vez mais multipolar.",
+    "reasonEn": "Mistral has started offering GLM 5.2, a model from Chinese group Zhipu, on its inference platform. The move diversifies Mistral's catalog and gives access to a competitive Chinese alternative at potentially lower prices. For European developers, it is another option to reduce dependence on a few providers. It shows that the inference market is increasingly multipolar.",
+    "score": 0.75,
+    "tags": [
+      "mistral",
+      "glm",
+      "modelo"
+    ],
+    "img": "img/e49d9aba7d2c.jpg",
+    "ts": 1786699277,
+    "addedTs": 1786704625,
+    "urlHash": "e49d9aba7d2c",
+    "titleHash": "64c54e1608fb"
+  },
+  {
+    "title": "Multi-model chatbot back ends: contracts, routing, and fallbacks",
+    "titlePt": "Backends de chatbots multimodelo: contratos, roteamento e fallbacks",
+    "url": "https://medium.com/@CometAPI_/choose-the-best-backend-api-for-a-multi-model-ai-chatbot-b1e843f9cbf4",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Discussão técnica no Hacker News sobre como arquitetar o backend de chatbots que usam vários modelos de IA ao mesmo tempo. O artigo aborda contratos entre modelos, lógica de roteamento de requisições e mecanismos de fallback quando um modelo falha. É relevante para engenheiros que precisam garantir disponibilidade e custo controlado em produtos conversacionais. Também serve de referência para times que estão deixando de depender de um único provedor de LLM.",
+    "reasonEn": "A technical Hacker News discussion on architecting the backend of chatbots that use multiple AI models at once. The post covers contracts between models, request routing logic, and fallback mechanisms when one model fails. It is relevant for engineers who need guaranteed uptime and controlled costs in conversational products. It also serves as a reference for teams moving away from depending on a single LLM provider.",
+    "score": 0.7,
+    "tags": [
+      "chatbot",
+      "arquitetura",
+      "llm"
+    ],
+    "img": "img/c478ee59265e.jpg",
+    "ts": 1786697047,
+    "addedTs": 1786704625,
+    "urlHash": "c478ee59265e",
+    "titleHash": "9dd76c07c194"
+  },
+  {
+    "title": "Show HN: Security scanner for SaaS build with AI",
+    "titlePt": "Scanner de segurança para SaaS feito com IA",
+    "url": "https://sentrint.com/sample",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um projeto Show HN apresenta um scanner de segurança para aplicações SaaS construído com ajuda de inteligência artificial. A ferramenta automatiza a detecção de vulnerabilidades comuns e foi desenhada para times pequenos que não têm equipe dedicada de segurança. Para desenvolvedores ocupados, é uma forma rápida de adicionar uma camada extra de proteção sem investir em soluções corporativas caras. O lançamento é open source e pode ser integrado a pipelines de CI.",
+    "reasonEn": "A Show HN project presents a security scanner for SaaS applications built with AI assistance. The tool automates detection of common vulnerabilities and targets small teams without dedicated security staff. For busy developers, it offers a fast way to add an extra protection layer without investing in expensive enterprise solutions. The launch is open source and can be integrated into CI pipelines.",
+    "score": 0.65,
+    "tags": [
+      "segurança",
+      "saas",
+      "show-hn"
+    ],
+    "img": "img/9e353ec6bf57.jpg",
+    "ts": 1786696623,
+    "addedTs": 1786704625,
+    "urlHash": "9e353ec6bf57",
+    "titleHash": "4d256ea7331a"
+  },
+  {
+    "title": "Noviz AI open source code launched for ERP agent architecture",
+    "titlePt": "Noviz AI lança código aberto para arquitetura de agentes ERP",
+    "url": "https://news.ycombinator.com/item?id=49296015",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Noviz AI publicou em código aberto a arquitetura de agentes voltada para sistemas ERP. A proposta é permitir que times criem assistentes que automatizam tarefas administrativas dentro de plataformas como SAP ou Oracle. O lançamento é interessante para empresas que querem experimentação rápida sem ficar presas a vendors. Também serve como ponto de partida para quem estuda agentes aplicados a processos de negócio.",
+    "reasonEn": "Noviz AI has open-sourced an agent architecture aimed at ERP systems. The proposal lets teams build assistants that automate administrative tasks inside platforms like SAP or Oracle. The release is interesting for companies wanting fast experimentation without vendor lock-in. It also serves as a starting point for those studying agents applied to business processes.",
+    "score": 0.6,
+    "tags": [
+      "agentes",
+      "erp",
+      "open-source"
+    ],
+    "img": "img/d0b804447503.jpg",
+    "ts": 1786696082,
+    "addedTs": 1786704625,
+    "urlHash": "d0b804447503",
+    "titleHash": "3f53cd9788d2"
+  },
+  {
+    "title": "Position: We Need Practical AI Alignment Methods to Mirror Human Reasoning",
+    "titlePt": "Artigo defende métodos práticos de alinhamento de IA baseados em raciocínio humano",
+    "url": "https://arxiv.org/abs/2608.12372",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "Um position paper argumenta que o campo de alinhamento de IA precisa de técnicas práticas que espelhem a forma como humanos realmente raciocinam, em vez de só formalismos teóricos. Os autores revisam limitações atuais de RLHF e constitutional AI e sugerem direções de pesquisa. É leitura útil para quem trabalha em segurança de IA ou desenha sistemas com agentes autônomos. Não traz resultados novos, mas organiza o debate de forma acessível.",
+    "reasonEn": "A position paper argues that the AI alignment field needs practical techniques that mirror how humans actually reason, rather than only theoretical formalisms. The authors review current limitations of RLHF and constitutional AI and suggest research directions. It is useful reading for those working on AI safety or designing autonomous agent systems. It brings no new results but organizes the debate in an accessible way.",
+    "score": 0.5,
+    "tags": [
+      "alinhamento",
+      "pesquisa",
+      "segurança"
+    ],
+    "img": "img/76c26deb7d6d.jpg",
+    "ts": 1786680000,
+    "addedTs": 1786704625,
+    "urlHash": "76c26deb7d6d",
+    "titleHash": "b9e0377d41af"
+  },
+  {
+    "title": "Dual-Flow Transformers: Decoupling the Primary Prefill Path from Additional Decode Computation",
+    "titlePt": "Dual-Flow Transformers: separar prefill de decodificação para acelerar inferência",
+    "url": "https://arxiv.org/abs/2608.12385",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "O artigo apresenta uma modificação arquitetural em transformers que desacopla o caminho de prefill da computação adicional usada na decodificação. O resultado prático é latência menor em cenários de geração longa, especialmente em produção. Para times que rodam modelos grandes, é uma otimização relevante que pode reduzir custo por requisição. O conteúdo é técnico e voltado a engenheiros de ML e infraestrutura de IA.",
+    "reasonEn": "The paper presents a transformer architectural change that decouples the prefill path from the additional computation used during decoding. The practical result is lower latency in long-generation scenarios, especially in production. For teams running large models, it is a relevant optimization that can reduce cost per request. The content is technical and aimed at ML and AI infrastructure engineers.",
+    "score": 0.5,
+    "tags": [
+      "transformer",
+      "performance",
+      "pesquisa"
+    ],
+    "img": "img/2ecce1eefb7a.jpg",
+    "ts": 1786680000,
+    "addedTs": 1786704625,
+    "urlHash": "2ecce1eefb7a",
+    "titleHash": "19e21f2974e0"
+  },
+  {
+    "title": "MindMemOS: A Portable and Self-Evolving Memory Operating Layer for AI Agents",
+    "titlePt": "MindMemOS: camada de memória portátil e auto-evolutiva para agentes de IA",
+    "url": "https://arxiv.org/abs/2608.12428",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "MindMemOS é uma camada de memória plugável para agentes de IA que permite armazenar, recuperar e evoluir conhecimento entre sessões. Diferente de outras soluções, é portátil entre diferentes runtimes de agentes e promete reduzir o retrabalho de configurar memória a cada projeto. Para desenvolvedores, isso significa menos código boilerplate e agentes mais consistentes. O paper traz benchmarks modestos, mas a abordagem é promissora.",
+    "reasonEn": "MindMemOS is a pluggable memory layer for AI agents that stores, retrieves and evolves knowledge across sessions. Unlike other solutions, it is portable across agent runtimes and promises to reduce the rework of setting up memory for each new project. For developers, this means less boilerplate and more consistent agents. The paper reports modest benchmarks but the approach is promising.",
+    "score": 0.6,
+    "tags": [
+      "agentes",
+      "memória",
+      "open-source"
+    ],
+    "img": "img/846e1b625d3d.jpg",
+    "ts": 1786680000,
+    "addedTs": 1786704625,
+    "urlHash": "846e1b625d3d",
+    "titleHash": "4b1b21f2acb3"
+  },
+  {
+    "title": "Reasoning Jury: Multi-Model Consensus for Evaluating Reasoning Traces",
+    "titlePt": "Reasoning Jury: cons entre múltiplos modelos para avaliar raciocínio",
+    "url": "https://arxiv.org/abs/2608.12585",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "O paper propõe um sistema em que vários modelos de IA votam entre si para avaliar se um raciocínio é correto, substituindo avaliadores humanos caros. A ideia é similar a um painel de jurados, com pesos diferentes para cada modelo conforme o domínio. Para times que constroem pipelines de avaliação automática, é uma alternativa barata a crowdsourcing. Os autores mostram ganhos em benchmarks de matemática e lógica.",
+    "reasonEn": "The paper proposes a system where multiple AI models vote with each other to evaluate whether a reasoning trace is correct, replacing expensive human evaluators. The idea is similar to a jury panel, with different weights per model depending on the domain. For teams building automated evaluation pipelines, it is a cheap alternative to crowdsourcing. The authors show gains on math and logic benchmarks.",
+    "score": 0.6,
+    "tags": [
+      "avaliação",
+      "consenso",
+      "pesquisa"
+    ],
+    "img": "img/e2e3fac7a209.jpg",
+    "ts": 1786680000,
+    "addedTs": 1786704625,
+    "urlHash": "e2e3fac7a209",
+    "titleHash": "eb1e1796d280"
+  },
+  {
+    "title": "Auditable agentic AI for evidence-grounded thyroid ultrasound diagnosis and reporting",
+    "titlePt": "IA agêntica auditável para diagnóstico de tireoide por ultrassom",
+    "url": "https://arxiv.org/abs/2608.12590",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "Pesquisadores apresentam um sistema agêntico que analisa ultrassons de tireoide, gera laudos e mantém trilhas auditáveis para que médicos revisem cada decisão. O objetivo é reduzir carga de radiologistas sem perder responsabilidade clínica. Para a comunidade médica, é um avanço interessante em IA responsável aplicada. Para desenvolvedores, mostra um padrão útil de agente com evidências anexadas.",
+    "reasonEn": "Researchers present an agentic system that analyzes thyroid ultrasounds, generates reports and maintains auditable trails so doctors can review each decision. The goal is to reduce radiologist workload without losing clinical accountability. For the medical community, it is an interesting advance in applied responsible AI. For developers, it shows a useful pattern of agent with attached evidence.",
+    "score": 0.5,
+    "tags": [
+      "saúde",
+      "agentes",
+      "auditoria"
+    ],
+    "img": "img/021542bfac07.jpg",
+    "ts": 1786680000,
+    "addedTs": 1786704625,
+    "urlHash": "021542bfac07",
+    "titleHash": "6b3f88fb1b2d"
+  },
+  {
+    "title": "Dead text or binding clause? Measuring and restoring constraint influence in black-box LLM dialogues",
+    "titlePt": "Medindo e restaurando a influência de restrições em diálogos com LLMs",
+    "url": "https://arxiv.org/abs/2608.12599",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "O artigo investiga até que ponto um LLM realmente respeita restrições que o usuário declara no início de uma conversa, e como recuperar essa influência quando o modelo começa a ignorá-la. Os autores propõem métricas e técnicas de prompting para restaurar o efeito de restrições ao longo de diálogos longos. É relevante para quem constrói chatbots jurídicos, médicos ou de compliance onde regras não podem ser esquecidas. O estudo é acadêmico mas aponta um problema real de produção.",
+    "reasonEn": "The paper investigates how well an LLM actually respects constraints a user states at the beginning of a conversation, and how to restore that influence when the model starts ignoring it. The authors propose metrics and prompting techniques to restore constraint effects across long dialogues. It is relevant for those building legal, medical or compliance chatbots where rules cannot be forgotten. The study is academic but points to a real production problem.",
+    "score": 0.5,
+    "tags": [
+      "prompts",
+      "restrições",
+      "pesquisa"
+    ],
+    "img": "img/77a733d11007.jpg",
+    "ts": 1786680000,
+    "addedTs": 1786704625,
+    "urlHash": "77a733d11007",
+    "titleHash": "0530b3ebcb7c"
+  },
+  {
+    "title": "Evolve your marketing with new AI tools",
+    "titlePt": "Google lança novas ferramentas de IA para marketing",
+    "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
+    "source": "Google AI",
+    "sources": [
+      "Google AI"
+    ],
+    "reason": "O Google anunciou atualizações em sua suíte de IA para marketing, com recursos de geração de copy, segmentação e otimização de campanhas. O foco é ajudar pequenas e médias empresas a criarem ativos criativos sem agência. Para profissionais de marketing e desenvolvedores que constroem integrações com Google Ads, vale acompanhar. Não há grandes surpresas em relação a concorrentes, mas consolida a posição do Google no setor.",
+    "reasonEn": "Google announced updates to its AI marketing suite, with copy generation, segmentation and campaign optimization features. The focus is helping small and medium businesses create creative assets without an agency. For marketing professionals and developers building Google Ads integrations, it is worth following. There are no big surprises compared to competitors, but it consolidates Google's position in the sector.",
+    "score": 0.6,
+    "tags": [
+      "marketing",
+      "google",
+      "lançamento"
+    ],
+    "img": "img/6b59545a1676.jpg",
+    "ts": 1786372200,
+    "addedTs": 1786704625,
+    "urlHash": "6b59545a1676",
+    "titleHash": "511ace3a1cd2"
+  },
+  {
+    "title": "From asking to doing: How the world is putting ChatGPT to work",
+    "titlePt": "De perguntar a fazer: como o mundo está colocando o ChatGPT para trabalhar",
+    "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "A OpenAI publicou um panorama mostrando como empresas de diferentes setores estão saindo do uso casual do ChatGPT e adotando a ferramenta em fluxos de trabalho reais. Inclui cases como Virgin Atlantic e Zapier, entre outros, com métricas concretas de ganho. Para líderes e desenvolvedores, é um bom ponto de partida para identificar onde IA generativa já entrega valor. Ajuda a separar hype de aplicações que realmente funcionam em produção.",
+    "reasonEn": "OpenAI published an overview showing how companies across sectors are moving from casual ChatGPT use to embedding the tool in real workflows. It includes cases like Virgin Atlantic and Zapier, among others, with concrete metrics. For leaders and developers, it is a good starting point to identify where generative AI already delivers value. It helps separate hype from applications that truly work in production.",
+    "score": 0.7,
+    "tags": [
+      "chatgpt",
+      "adoção",
+      "panorama"
+    ],
+    "img": "img/3763c3e63f84.jpg",
+    "ts": 1785974400,
+    "addedTs": 1786704625,
+    "urlHash": "3763c3e63f84",
+    "titleHash": "24d8c62c25db"
+  },
+  {
     "title": "The Body Remembers but the Doctor Cannot- Experiments with AI in Personal Health",
     "titlePt": "O corpo lembra, mas o médico não: experimentos com IA na saúde pessoal",
     "url": "https://karankurani.com/writing/post/w_20260721140414_b0e102/the-body-remembers-but-the-doctor-cannot-experiments-with-ai-in-personal-health/",
@@ -10397,421 +10815,5 @@
     "addedTs": 1786213408,
     "urlHash": "60c70a9603ec",
     "titleHash": "f2399e00e558"
-  },
-  {
-    "title": "Veritas Forge: Cryptographic proof layer for AI decisions",
-    "titlePt": "Veritas Forge: camada de prova criptográfica para decisões de IA",
-    "url": "https://forge.aurochthryx.com",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A ferramenta Veritas Forge adiciona uma camada de verificação criptográfica sobre decisões tomadas por sistemas de inteligência artificial. O objetivo é permitir auditoria confiável e provar que um modelo agiu de forma esperada em cenários sensíveis. É útil para empresas que precisam cumprir regulamentações de transparência. Desenvolvedores devem avaliar a integração com seus pipelines atuais.",
-    "reasonEn": "Veritas Forge adds a cryptographic proof layer on top of decisions made by AI systems. It aims to enable reliable auditing and to prove that a model behaved as expected in sensitive scenarios. The tool is useful for companies that must meet transparency regulations. Developers should evaluate how it fits into their existing pipelines.",
-    "score": 0.5,
-    "tags": [
-      "segurança",
-      "auditoria",
-      "criptografia"
-    ],
-    "img": "img/9e513ee63ad2.jpg",
-    "ts": 1786211955,
-    "addedTs": 1786213408,
-    "urlHash": "9e513ee63ad2",
-    "titleHash": "257632e2a520"
-  },
-  {
-    "title": "How to Detect AI Slop",
-    "titlePt": "Como detectar conteúdo de baixa qualidade gerado por IA",
-    "url": "https://www.youtube.com/watch?v=ORgKY9AlybA",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O guia apresenta técnicas práticas para identificar textos e imagens produzidos por inteligência artificial que aparentam qualidade, mas são genéricos ou repetitivos. O foco está em padrões de linguagem, estrutura e clichés típicos de modelos generativos. O conteúdo é útil para editores, professores e qualquer pessoa que precise filtrar material em escala. A habilidade de detectar esse tipo de conteúdo está se tornando essencial no trabalho diário.",
-    "reasonEn": "The guide shares practical techniques for spotting text and images produced by AI that look polished but are generic or repetitive. It focuses on language patterns, structure, and typical generative-model clichés. The content is useful for editors, teachers, and anyone who needs to filter material at scale. The ability to detect this kind of content is becoming essential in everyday work.",
-    "score": 0.7,
-    "tags": [
-      "detecção",
-      "conteúdo",
-      "guia"
-    ],
-    "img": "img/655ad54938eb.jpg",
-    "ts": 1786211864,
-    "addedTs": 1786213408,
-    "urlHash": "655ad54938eb",
-    "titleHash": "7af5ba83435f"
-  },
-  {
-    "title": "Simulating the world with 83B persona agents",
-    "titlePt": "Pesquisadores simulam o mundo com 83 bilhões de agentes-personagem",
-    "url": "https://matraix.ai",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Uma equipe de pesquisadores construiu uma simulação usando 83 bilhões de agentes que representam personas humanas para modelar comportamentos sociais em larga escala. O experimento pode ajudar a prever tendências de opinião pública e respostas a crises. O tamanho da amostra impressiona, mas levanta dúvidas sobre custo computacional e validade estatística. É um avanço relevante para quem trabalha com modelagem e ciência de dados.",
-    "reasonEn": "A research team built a simulation using 83 billion persona agents to model large-scale social behavior. The experiment could help forecast public-opinion trends and crisis responses. The sample size is impressive, but raises questions about compute cost and statistical validity. It is a relevant advance for anyone working in modeling and data science.",
-    "score": 0.6,
-    "tags": [
-      "pesquisa",
-      "simulação",
-      "agentes"
-    ],
-    "img": "img/14df617a3bf2.jpg",
-    "ts": 1786211364,
-    "addedTs": 1786213408,
-    "urlHash": "14df617a3bf2",
-    "titleHash": "071c6d916b27"
-  },
-  {
-    "title": "Award Winning AI Literature",
-    "titlePt": "Literatura gerada por IA vence prêmio literário",
-    "url": "https://jamesyu.org/award-winning-ai-literature/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Uma obra escrita com auxílio de inteligência artificial recebeu reconhecimento em um concurso literário respeitado, provocando debate sobre os limites da autoria. Jurados afirmaram que o texto competiu em pé de igualdade com obras humanas, sem saber da origem. Para autores e editores, o episódio levanta dúvidas sobre regulamentos de premiação e valor de mercado. Para o público, é mais um sinal de que a IA invade territórios antes exclusivos da criatividade humana.",
-    "reasonEn": "A work written with AI assistance has won recognition at a respected literary contest, sparking debate over the limits of authorship. Jurors said the text competed on equal footing with human entries, unaware of its origin. For authors and editors, the episode raises questions about contest rules and market value. For the public, it is another sign that AI is entering fields once reserved for human creativity.",
-    "score": 0.5,
-    "tags": [
-      "literatura",
-      "cultura",
-      "premio"
-    ],
-    "img": "img/619bf4eda568.jpg",
-    "ts": 1786211152,
-    "addedTs": 1786213408,
-    "urlHash": "619bf4eda568",
-    "titleHash": "1b13834c84bb"
-  },
-  {
-    "title": "The New Spy Race: For Agentic AI and Quantum Computing Threats",
-    "titlePt": "Nova corrida de espionagem mira IA agêntica e computação quântica",
-    "url": "https://www.quantumhorizon.it/inside-the-new-spy-race-how-the-us-china-russia-israel-and-italy-are-gearing-up-for-agentic-ai-and-quantum-computing-threats/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Serviços de inteligência estão reorientando prioridades para lidar com ameaças de sistemas de IA agêntica e da computação quântica aplicadas a ataques cibernéticos. O texto mostra que governos tratam essas tecnologias como o novo campo de batalha digital. Empresas de segurança precisam se preparar para novos vetores de ataque. Para profissionais e cidadãos, isso significa mais atenção a criptografia e gestão de identidade.",
-    "reasonEn": "Intelligence agencies are reorienting priorities to deal with threats from agentic AI and quantum computing applied to cyberattacks. The piece shows governments treat these technologies as the new digital battlefield. Security firms must prepare for new attack vectors. For professionals and citizens, it means paying closer attention to cryptography and identity management.",
-    "score": 0.7,
-    "tags": [
-      "segurança",
-      "geopolítica",
-      "espionagem"
-    ],
-    "img": "img/5887204149b9.jpg",
-    "ts": 1786211067,
-    "addedTs": 1786213408,
-    "urlHash": "5887204149b9",
-    "titleHash": "af99b4bd6369"
-  },
-  {
-    "title": "AI Layoffs at Oracle, Amazon, and Cloudflare All Have One Thing in Common",
-    "titlePt": "Demissões por IA na Oracle, Amazon e Cloudflare têm fator em comum",
-    "url": "https://www.inc.com/scott-hutcheson/ai-layoffs-amazon-cloudflare/91386604",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Oracle, Amazon e Cloudflare promoveram cortes ligados diretamente à substituição de funções por inteligência artificial, e a análise aponta um padrão: equipes inteiras dedicadas a tarefas que agora são automatizadas por modelos. O movimento sinaliza uma transição estrutural no mercado de tecnologia. Profissionais de TI devem repensar suas habilidades para funções menos suscetíveis à automação. É leitura obrigatória para quem planeja carreira em tech.",
-    "reasonEn": "Oracle, Amazon, and Cloudflare have carried out layoffs tied directly to AI replacing job functions, and analysis points to a shared pattern: whole teams doing tasks that are now automated by models. The move signals a structural shift in the tech labor market. IT professionals should rethink their skills toward roles less exposed to automation. It is required reading for anyone planning a tech career.",
-    "score": 0.8,
-    "tags": [
-      "mercado",
-      "trabalho",
-      "layoffs"
-    ],
-    "img": "img/410eedc4885a.jpg",
-    "ts": 1786208176,
-    "addedTs": 1786213408,
-    "urlHash": "410eedc4885a",
-    "titleHash": "73ff4e2f1e3e"
-  },
-  {
-    "title": "AMD Instinct Coder Puts 8 MI325X GPUs Behind Local AI Coding, Claiming 70% Lower",
-    "titlePt": "Desenvolvedor usa 8 GPUs AMD MI325X para codificação local com IA",
-    "url": "https://www.storagereview.com/news/amd-instinct-coder-puts-8-mi325x-gpus-behind-local-ai-coding-claiming-70-lower-token-costs",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um programador montou uma estação com oito GPUs AMD Instinct MI325X para rodar modelos de codificação com IA localmente, alegando custo até 70% menor que alternativas em nuvem. O setup é uma alternativa para equipes que lidam com dados sensíveis ou restrições de orçamento. O desempenho depende bem da otimização de software, ainda em evolução. Vale como referência para quem avalia infraestrutura de IA própria.",
-    "reasonEn": "A developer has set up a station with eight AMD Instinct MI325X GPUs to run local AI coding models, claiming up to 70% lower cost than cloud alternatives. The setup is an alternative for teams handling sensitive data or facing budget limits. Performance still depends heavily on software optimization, which is still evolving. It is a useful reference for anyone evaluating in-house AI infrastructure.",
-    "score": 0.6,
-    "tags": [
-      "hardware",
-      "gpu",
-      "infraestrutura"
-    ],
-    "img": "img/d24986d93782.jpg",
-    "ts": 1786207964,
-    "addedTs": 1786213408,
-    "urlHash": "d24986d93782",
-    "titleHash": "d6f56d28b972"
-  },
-  {
-    "title": "Why every AI model tells Japanese voters to vote for the Communist Party",
-    "titlePt": "Modelos de IA recomendam o Partido Comunista a eleitores japoneses",
-    "url": "https://twitter.com/MTSlive/status/2085842125464457722",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Diversos modelos de inteligência artificial sugerem o Partido Comunista quando questionados sobre candidatos políticos do Japão, revelando viés sistemático nos dados de treinamento. O comportamento se repete em diferentes fornecedores, indicando um problema compartilhado e não falha pontual. Pesquisadores apontam que o fenômeno reflete distribuição desigual de conteúdo na web. É mais um alerta sobre como a IA pode distorcer decisões importantes dos usuários.",
-    "reasonEn": "Several AI models recommend the Communist Party when asked about Japanese political candidates, revealing systematic bias in training data. The behavior shows up across different providers, pointing to a shared issue rather than an isolated bug. Researchers say the phenomenon reflects uneven content distribution on the web. It is another warning about how AI can distort important user decisions.",
-    "score": 0.7,
-    "tags": [
-      "viés",
-      "política",
-      "modelos"
-    ],
-    "img": "img/bc72b021fab0.jpg",
-    "ts": 1786207020,
-    "addedTs": 1786213408,
-    "urlHash": "bc72b021fab0",
-    "titleHash": "58af31ff846f"
-  },
-  {
-    "title": "AI alignment is a red herring",
-    "titlePt": "Alinhamento de IA é um falso problema, defende artigo",
-    "url": "https://interconnected.org/home/2026/08/08/alignment",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um texto de opinião sustenta que o debate sobre alinhamento de inteligência artificial é um desvio que distrai de riscos reais e urgentes. O autor argumenta que concentrar recursos em prevenir uma IA hipotética rebelde tira foco de danos presentes, como viés, desinformação e concentração de poder. É uma provocação útil para repensar prioridades em pesquisa e política. Vale a leitura para quem acompanha o debate sobre futuro da IA.",
-    "reasonEn": "An opinion piece argues that the AI alignment debate is a distraction from real and urgent risks. The author claims that pouring resources into preventing a hypothetical rogue AI takes attention away from present harms such as bias, misinformation, and power concentration. It is a useful provocation to rethink priorities in research and policy. Worth reading for anyone following the debate on AI's future.",
-    "score": 0.6,
-    "tags": [
-      "opinião",
-      "alinhamento",
-      "política"
-    ],
-    "img": "img/5794545de534.jpg",
-    "ts": 1786206773,
-    "addedTs": 1786213408,
-    "urlHash": "5794545de534",
-    "titleHash": "df6c774ce677"
-  },
-  {
-    "title": "Show HN: TchoAI – Transform your documents into editable slide decks",
-    "titlePt": "TchoAI: transforme documentos em apresentações de slides editáveis",
-    "url": "https://tcho.ai/en",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O TchoAI é uma ferramenta nova publicada no Hacker News que converte documentos de texto em decks de slides editáveis automaticamente. Quem trabalha com relatórios, propostas ou conteúdo pode ganhar tempo ao evitar montar apresentações do zero. Ainda é um lançamento inicial sem histórico de uso amplo. Vale ficar de olho, mas exige cautela quanto à qualidade do resultado.",
-    "reasonEn": "TchoAI is a new Hacker News launch that converts text documents into editable slide decks automatically. People who build reports, proposals, or content can save time by skipping manual slide assembly. It is still an early launch without a long track record. Worth watching, but the output quality is still uncertain.",
-    "score": 0.5,
-    "tags": [
-      "lançamento",
-      "ferramenta",
-      "produtividade"
-    ],
-    "img": "img/596ab19d1158.jpg",
-    "ts": 1786206485,
-    "addedTs": 1786213408,
-    "urlHash": "596ab19d1158",
-    "titleHash": "454a280e08b4"
-  },
-  {
-    "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
-    "titlePt": "Fenix Flexin admite uso de IA para produzir o álbum 'Rubberz'",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "O artista Fenix Flexin parou de negar e reconheceu que usou inteligência artificial na criação do álbum 'Rubberz'. A revelação reacende o debate sobre autoria, autenticidade e o impacto da IA na indústria musical. Produtores, artistas e plataformas de streaming precisam lidar com a falta de transparência sobre o uso de IA nas músicas. Consumidores também passam a questionar o que estão realmente ouvindo.",
-    "reasonEn": "Artist Fenix Flexin stopped denying it and admitted using AI to help produce the album 'Rubberz'. The reveal reignites the debate over authorship, authenticity, and AI's impact on the music industry. Producers, artists, and streaming platforms must deal with a lack of transparency about AI use in songs. Listeners are also questioning what they are actually hearing.",
-    "score": 0.6,
-    "tags": [
-      "música",
-      "ia",
-      "controvérsia"
-    ],
-    "img": "img/e7082108221b.jpg",
-    "ts": 1786132911,
-    "addedTs": 1786213408,
-    "urlHash": "e7082108221b",
-    "titleHash": "c9573bf6429e"
-  },
-  {
-    "title": "Show HN: A Source-Level Review of Sakana AI's Continuous Thought Machine",
-    "titlePt": "Análise técnica da Continuous Thought Machine da Sakana AI",
-    "url": "https://fengrru.me/blog/ctm-theory-review.md",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um desenvolvedor publicou uma revisão em nível de código-fonte da Continuous Thought Machine, novo modelo da Sakana AI. O artigo explica como a arquitetura funciona internamente, com detalhes úteis para engenheiros de machine learning. Para quem trabalha com IA, é uma leitura técnica relevante. Demais pessoas podem achar denso demais.",
-    "reasonEn": "A developer published a source-level code review of Sakana AI's Continuous Thought Machine. The article explains how the architecture works internally, with useful details for machine learning engineers. For AI practitioners, it's a relevant technical read. Others may find it too dense.",
-    "score": 0.6,
-    "tags": [
-      "sakana",
-      "pesquisa",
-      "código-aberto"
-    ],
-    "img": "img/fe0781037915.jpg",
-    "ts": 1786204088,
-    "addedTs": 1786206090,
-    "urlHash": "fe0781037915",
-    "titleHash": "b4acaba52d6f"
-  },
-  {
-    "title": "The tragedy of the commons, AI edition",
-    "titlePt": "A tragédia dos bens comuns, edição IA",
-    "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo aplica o clássico conceito econômico da tragédia dos bens comuns ao cenário atual de inteligência artificial. Discute como recursos compartilhados como dados, poder computacional e atenção do público estão sendo esgotados. É uma leitura curta que ajuda a entender tensões do mercado. Relevante para quem pensa em estratégia de longo prazo.",
-    "reasonEn": "The article applies the classic economic concept of the tragedy of the commons to today's AI landscape. It discusses how shared resources like data, compute, and public attention are being depleted. It's a short read that helps understand market tensions. Relevant for long-term strategy thinking.",
-    "score": 0.5,
-    "tags": [
-      "análise",
-      "economia",
-      "estratégia"
-    ],
-    "img": "img/02086f861e79.jpg",
-    "ts": 1786200751,
-    "addedTs": 1786206090,
-    "urlHash": "02086f861e79",
-    "titleHash": "3cc023d6c198"
-  },
-  {
-    "title": "'AI Escaped Its Sandbox' — What Does That Actually Mean?",
-    "titlePt": "IA escapou de sua sandbox: o que isso significa?",
-    "url": "https://unpredictabletokens.substack.com/p/ai-escaped-its-sandbox-what-that",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo explica com clareza o que significa uma inteligência artificial escapar de um ambiente controlado, conceito conhecido como sandbox. Detalha incidentes recentes e por que pesquisadores de segurança se preocupam. É leitura recomendada para entender riscos atuais sem alarmismo. Qualquer pessoa interessada em segurança digital deve ler.",
-    "reasonEn": "The article clearly explains what it means for an AI to escape a controlled environment, known as a sandbox. It details recent incidents and why safety researchers are concerned. It's a recommended read to understand current risks without alarmism. Anyone interested in digital safety should read it.",
-    "score": 0.65,
-    "tags": [
-      "segurança",
-      "sandbox",
-      "explicação"
-    ],
-    "img": "img/15bb794e2abd.jpg",
-    "ts": 1786199952,
-    "addedTs": 1786206090,
-    "urlHash": "15bb794e2abd",
-    "titleHash": "b9dfab0d53ef"
-  },
-  {
-    "title": "DeepSeek V4-Flash released: 284B params, 1M-token context, free to use",
-    "titlePt": "DeepSeek lança V4-Flash: 284B de parâmetros e contexto de 1M, grátis",
-    "url": "https://ainexusdaily.vercel.app",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A DeepSeek anunciou o V4-Flash, um modelo de 284 bilhões de parâmetros com janela de contexto de 1 milhão de tokens, disponível gratuitamente. O tamanho da janela permite analisar documentos enormes ou bases inteiras de código em uma única chamada. Para desenvolvedores, isso significa uma nova opção poderosa e sem custo para experimentar. É mais um sinal de que a corrida dos modelos grandes está se acelerando fora dos EUA.",
-    "reasonEn": "DeepSeek released V4-Flash, a 284-billion parameter model with a 1M-token context window, available for free. The huge context allows analyzing massive documents or entire codebases in a single call. For developers, it means a powerful zero-cost option to experiment with. It is another signal that the large-model race is accelerating outside the US.",
-    "score": 0.85,
-    "tags": [
-      "modelo",
-      "lançamento",
-      "open-source"
-    ],
-    "img": "img/9b37af0d8c97.jpg",
-    "ts": 1786198648,
-    "addedTs": 1786198994,
-    "urlHash": "9b37af0d8c97",
-    "titleHash": "93dc2a9993d2"
-  },
-  {
-    "title": "At the altar of AI capex, Google is sacrificing the golden goose",
-    "titlePt": "Google sacrifica a 'galinha dos ovos de ouro' para bancar IA",
-    "url": "https://twitter.com/MaxAnderson/status/2080229375773941871",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O texto argumenta que o Google está gastando valores absurdos em infraestrutura de IA, o que pode comprometer outras áreas rentáveis da empresa. Investidores e profissionais do setor precisam entender que os gastos de capital em IA estão criando pressão sobre os lucros tradicionais. A discussão afeta diretamente o futuro de buscas, anúncios e nuvem. É uma leitura essencial para quem acompanha o mercado de tecnologia.",
-    "reasonEn": "The piece argues Google is spending absurd amounts on AI infrastructure, which may hurt other profitable parts of the company. Investors and tech workers need to grasp that AI capex is pressuring traditional earnings. The discussion directly affects the future of search, ads, and cloud. Essential reading for anyone tracking the tech market.",
-    "score": 0.7,
-    "tags": [
-      "google",
-      "mercado",
-      "capex"
-    ],
-    "img": "img/982fdb46c906.jpg",
-    "ts": 1786197824,
-    "addedTs": 1786198994,
-    "urlHash": "982fdb46c906",
-    "titleHash": "735279d65c29"
-  },
-  {
-    "title": "Gentoo bugzilla closed due AI bot scraper overload",
-    "titlePt": "Bugzilla do Gentoo é fechado por sobrecarga de bots de IA",
-    "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O sistema de bugs do Gentoo Linux precisou ser fechado porque bots de raspagem movidos por IA estavam sobrecarregando os servidores. Isso mostra como o tráfego automatizado mal comportado já impacta projetos open source. Mantenedores e administradores de sistemas enfrentam um problema crescente. É um sinal claro de que a indústria precisa de padrões para raspagem de dados.",
-    "reasonEn": "Gentoo Linux's bug tracker had to shut down because AI-powered scraping bots were overwhelming its servers. This shows how badly behaved automated traffic already impacts open source projects. Maintainers and sysadmins face a growing problem. It is a clear signal the industry needs standards for data scraping.",
-    "score": 0.65,
-    "tags": [
-      "open-source",
-      "infraestrutura"
-    ],
-    "img": "img/d8727a595c52.jpg",
-    "ts": 1786197342,
-    "addedTs": 1786198994,
-    "urlHash": "d8727a595c52",
-    "titleHash": "52213b51ed33"
-  },
-  {
-    "title": "AI's Latest Rocket Ship Is an Old School, 28-Year-Old Data Company",
-    "titlePt": "Empresa de dados antiga de 28 anos vira 'foguete' por causa da IA",
-    "url": "https://www.forbes.com/sites/iainmartin/2026/08/06/ais-latest-rocket-ship-is-an-old-school-28-year-old-data-company/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Uma empresa tradicional de dados, com 28 anos de mercado, viu seu valuation disparar graças à demanda por infraestrutura de IA. O caso mostra que nem só startups lucram com a revolução da IA. Investidores devem prestar atenção em fornecedores de dados que sustentam modelos. É uma boa história para entender quem realmente ganha dinheiro com IA.",
-    "reasonEn": "A traditional 28-year-old data company saw its valuation skyrocket thanks to AI infrastructure demand. The case shows that not only startups profit from the AI revolution. Investors should pay attention to data providers that feed models. A good story to understand who really makes money from AI.",
-    "score": 0.5,
-    "tags": [
-      "mercado",
-      "dados"
-    ],
-    "img": "img/56f76da2f01e.jpg",
-    "ts": 1786196389,
-    "addedTs": 1786198994,
-    "urlHash": "56f76da2f01e",
-    "titleHash": "a4879b72cda2"
-  },
-  {
-    "title": "A Chinese AI model stopped OpenAI's 'unprecedented' cyber attack",
-    "titlePt": "Modelo chinês de IA teria bloqueado um ciberataque 'sem precedentes' da OpenAI",
-    "url": "https://www.cnbc.com/2026/07/24/chinese-ai-model-openai-cyber-attack.html",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um modelo de IA chinês teria detectado e interrompido um grande ciberataque atribuído à OpenAI, descrito como sem precedentes. O caso levanta dúvidas sérias sobre segurança, concorrência entre potências e o papel de modelos chineses na defesa digital. É relevante para profissionais de segurança, executivos de tecnologia e formuladores de políticas públicas.",
-    "reasonEn": "A Chinese AI model allegedly detected and stopped a major cyberattack attributed to OpenAI, described as unprecedented. The case raises serious questions about security, competition between powers, and the role of Chinese models in digital defense. It is relevant for security professionals, tech executives, and policymakers.",
-    "score": 0.85,
-    "tags": [
-      "segurança",
-      "china",
-      "openai"
-    ],
-    "img": "img/407c0afd9b8b.jpg",
-    "ts": 1786190477,
-    "addedTs": 1786192117,
-    "urlHash": "407c0afd9b8b",
-    "titleHash": "874284453ab1"
   }
 ]
