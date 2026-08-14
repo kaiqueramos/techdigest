@@ -1,5 +1,179 @@
 [
   {
+    "title": "About Z AI \"Benchmaxxing\"",
+    "titlePt": "Z AI é acusada de otimizar para benchmarks",
+    "url": "https://twitter.com/natolambert/status/2088272938361606397",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma discussão no Hacker News detalha como a Z AI (Zhipu) supostamente ajusta seus modelos para inflar resultados em testes públicos. A prática, chamada de 'benchmaxxing', levanta dúvidas sobre a confiabilidade dos números divulgados por laboratórios chineses. Desenvolvedores e investidores que dependem desses rankings devem interpretar os números com cautela.",
+    "reasonEn": "A Hacker News discussion details how Z AI (Zhipu) allegedly tunes its models to inflate public benchmark results. The practice, called 'benchmaxxing', raises doubts about the reliability of numbers published by Chinese labs. Developers and investors relying on these rankings should treat them with caution.",
+    "score": 0.7,
+    "tags": [
+      "benchmarks",
+      "regulação",
+      "china"
+    ],
+    "img": "img/71f25eec85e8.jpg",
+    "ts": 1786718339,
+    "addedTs": 1786718670,
+    "urlHash": "71f25eec85e8",
+    "titleHash": "6af87ea76d64"
+  },
+  {
+    "title": "DeepSeek Harness",
+    "titlePt": "DeepSeek Harness facilita uso dos modelos DeepSeek",
+    "url": "https://www.producthunt.com/products/deepseek",
+    "source": "ProductHunt",
+    "sources": [
+      "ProductHunt"
+    ],
+    "reason": "Foi lançado um harness para integrar modelos DeepSeek em pipelines de desenvolvimento com menos fricção. A ferramenta promete simplificar chamadas, monitoramento e custos. Desenvolvedores que usam os modelos chineses podem ganhar produtividade.",
+    "reasonEn": "A harness was launched to integrate DeepSeek models into development pipelines with less friction. The tool promises to simplify calls, monitoring and costs. Developers using Chinese models may gain productivity.",
+    "score": 0.5,
+    "tags": [
+      "ferramenta",
+      "deepseek"
+    ],
+    "img": "img/9485e4897bb0.jpg",
+    "ts": 1786717999,
+    "addedTs": 1786718670,
+    "urlHash": "9485e4897bb0",
+    "titleHash": "a7db0d66f380"
+  },
+  {
+    "title": "Fast, on Device Agentic AI with Muse Glimmer on ExecuTorch",
+    "titlePt": "IA agêntica rápida no dispositivo com Muse Glimmer no ExecuTorch",
+    "url": "https://pytorch.org/blog/fast-ondevice-agentic-ai-with-executorch/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O anúncio mostra como rodar agentes de IA localmente em dispositivos usando o runtime ExecuTorch com o modelo Muse Glimmer. A novidade reduz latência e dependência de nuvem, beneficiando apps sensíveis à privacidade. Desenvolvedores mobile ganham mais uma opção de inferência on-device.",
+    "reasonEn": "The announcement shows how to run AI agents locally on devices using the ExecuTorch runtime with the Muse Glimmer model. The novelty reduces latency and cloud dependency, benefiting privacy-sensitive apps. Mobile developers gain another on-device inference option.",
+    "score": 0.6,
+    "tags": [
+      "on-device",
+      "agentes"
+    ],
+    "img": "img/2a31cfa30481.jpg",
+    "ts": 1786717627,
+    "addedTs": 1786718670,
+    "urlHash": "2a31cfa30481",
+    "titleHash": "102ebf87e754"
+  },
+  {
+    "title": "Canva slashes valuation by $10B as AI reality bites",
+    "titlePt": "Canva corta US$ 10 bi em valuation com realidade da IA",
+    "url": "https://www.msn.com/en-au/money/news/sobering-markdown-canva-slashes-valuation-by-10b-as-ai-reality-bites/ar-AA2a5i6F",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Canva, gigante de design, reduziu sua avaliação em US$ 10 bilhões em uma nova rodada, refletindo pressão competitiva de ferramentas de IA generativa. O movimento sinaliza que mesmo empresas consolidadas sentem o impacto da IA em seus modelos de negócio. Investidores e fundadores devem repensar valuation de empresas de software tradicionais.",
+    "reasonEn": "Canva, the design giant, cut its valuation by $10 billion in a new round, reflecting competitive pressure from generative AI tools. The move signals that even established companies feel AI's impact on their business models. Investors and founders should rethink valuations of traditional software companies.",
+    "score": 0.9,
+    "tags": [
+      "valuation",
+      "negócios",
+      "ia-generativa"
+    ],
+    "img": "img/3af6690e8227.jpg",
+    "ts": 1786717574,
+    "addedTs": 1786718670,
+    "urlHash": "3af6690e8227",
+    "titleHash": "15f84a8f6831"
+  },
+  {
+    "title": "Show HN: We mapped AI patterns before watermark removal became a mainstream",
+    "titlePt": "Mapeando padrões de IA antes da remoção de marcas d'água virar moda",
+    "url": "https://founderstoday.org/claude-watermark-remover",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O projeto identifica assinaturas estatísticas em textos gerados por IA que antecedem a popularização da remoção de marcas d'água. Serve como base para pesquisadores que querem entender e detectar conteúdo sintético. Ajuda a comunidade a se preparar para novos vetores de desinformação.",
+    "reasonEn": "The project identifies statistical signatures in AI-generated texts that predate the popularization of watermark removal. It serves as a base for researchers wanting to understand and detect synthetic content. It helps the community prepare for new disinformation vectors.",
+    "score": 0.55,
+    "tags": [
+      "watermark",
+      "detecção",
+      "pesquisa"
+    ],
+    "img": "img/854591359bad.jpg",
+    "ts": 1786717143,
+    "addedTs": 1786718670,
+    "urlHash": "854591359bad",
+    "titleHash": "638b5e7e1deb"
+  },
+  {
+    "title": "Devs to Anthropic, OpenAI, Cursor: Make security and privacy the default",
+    "titlePt": "Desenvolvedores pedem segurança e privacidade como padrão em IA",
+    "url": "https://www.theregister.com/ai-and-ml/2026/08/08/devs-to-anthropic-openai-cursor-and-friends-make-security-and-privacy-the-default/5285107",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma carta aberta direcionada a Anthropic, OpenAI e Cursor pede que segurança e privacidade sejam habilitadas por padrão, em vez de opt-in. O movimento reflete frustração crescente da comunidade técnica com vazamentos e exposição de código. Pode influenciar roadmap de grandes fornecedores.",
+    "reasonEn": "An open letter to Anthropic, OpenAI and Cursor asks that security and privacy be enabled by default instead of opt-in. The movement reflects growing frustration from the technical community with leaks and code exposure. It may influence major vendors' roadmaps.",
+    "score": 0.7,
+    "tags": [
+      "segurança",
+      "privacidade",
+      "carta-aberta"
+    ],
+    "img": "img/85574048ff1a.jpg",
+    "ts": 1786715399,
+    "addedTs": 1786718670,
+    "urlHash": "85574048ff1a",
+    "titleHash": "7c02ef5a7d9e"
+  },
+  {
+    "title": "Show HN: GridProof – spacing/grid QA for AI-generated UIs, in the agent loop",
+    "titlePt": "GridProof: ferramenta de QA de espaçamento para UIs geradas por IA",
+    "url": "https://github.com/gridproof/gridproof",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "GridProof é uma nova ferramenta que verifica automaticamente o alinhamento e o espaçamento de interfaces geradas por agentes de IA. Ela roda dentro do loop do agente, permitindo corrigir problemas visuais antes da entrega. É útil para desenvolvedores que usam IA para prototipar UIs e querem evitar layouts quebrados. Reduz o trabalho manual de revisão visual em projetos rápidos.",
+    "reasonEn": "GridProof is a new tool that automatically checks alignment and spacing of AI-generated interfaces. It runs inside the agent loop, fixing visual issues before delivery. Useful for developers using AI to prototype UIs who want to avoid broken layouts. It reduces manual visual review work on fast projects.",
+    "score": 0.55,
+    "tags": [
+      "ferramenta",
+      "ui",
+      "qa"
+    ],
+    "img": "img/5dfbfe65b4ca.jpg",
+    "ts": 1786715312,
+    "addedTs": 1786718670,
+    "urlHash": "5dfbfe65b4ca",
+    "titleHash": "df452749d7a5"
+  },
+  {
+    "title": "Apple trained its own AI model for China with help from Alibaba",
+    "titlePt": "Apple treinou modelo próprio de IA para a China com ajuda da Alibaba",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "A Apple desenvolveu um modelo de inteligência artificial sob medida para o mercado chinês, com apoio técnico da Alibaba. A parceria foi necessária para cumprir exigências regulatórias locais e adaptar o sistema ao ecossistema do país. O movimento mostra como a Apple está cedendo a chinesas para manter acesso ao gigantesco mercado chinês. Desenvolvedores e usuários chineses serão os mais impactados pela novidade.",
+    "reasonEn": "Apple developed a custom AI model for the Chinese market with technical support from Alibaba. The partnership was needed to meet local regulatory demands and adapt the system to the country's ecosystem. The move shows how Apple is yielding to Chinese players to keep access to the huge Chinese market. Chinese developers and users will be the most impacted by the news.",
+    "score": 0.95,
+    "tags": [
+      "apple",
+      "china",
+      "regulação"
+    ],
+    "img": "img/9d7bfbd4e75c.jpg",
+    "ts": 1786699810,
+    "addedTs": 1786718670,
+    "urlHash": "9d7bfbd4e75c",
+    "titleHash": "15dbcc0db71a"
+  },
+  {
     "title": "Charisma, confidence and no fear of AI taking their jobs. The personality hires",
     "titlePt": "Carisma, confiança e sem medo da IA. Os contratados pela personalidade",
     "url": "https://www.marketwatch.com/story/these-workers-have-charisma-confidence-and-no-fear-of-ai-taking-their-jobs-theyre-the-personality-hires-3235c187?mod=djem_mwnpfinance",
@@ -10637,173 +10811,5 @@
     "addedTs": 1786323755,
     "urlHash": "5ddd2738c431",
     "titleHash": "dfd8ed4f019a"
-  },
-  {
-    "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
-    "titlePt": "Educadores e líderes do setor se reúnem no Google para moldar o futuro da IA nas escolas",
-    "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
-    "source": "Google AI",
-    "sources": [
-      "Google AI"
-    ],
-    "reason": "Líderes educacionais de Nova York e representantes da indústria de tecnologia se reuniram nos escritórios do Google para discutir o uso de inteligência artificial em salas de aula. O encontro abordou desde ferramentas de apoio a professores até preocupações com privacidade de alunos. O objetivo é criar diretrizes antes da adoção em massa nas escolas públicas. Importante para quem trabalha em educação ou política pública de tecnologia.",
-    "reasonEn": "Educational leaders from New York and representatives of the technology industry met at Google's offices to discuss the use of artificial intelligence in classrooms. The meeting covered everything from teacher support tools to student privacy concerns. The goal is to create guidelines before mass adoption in public schools. Important for those working in education or technology public policy.",
-    "score": 0.5,
-    "tags": [
-      "educação",
-      "política"
-    ],
-    "img": "img/94c768ce3675.jpg",
-    "ts": 1782921600,
-    "addedTs": 1786323755,
-    "urlHash": "94c768ce3675",
-    "titleHash": "bf2768c74b26"
-  },
-  {
-    "title": "AI Music Debate Is Missing Half the Money",
-    "titlePt": "O debate sobre IA na música ignora metade do dinheiro",
-    "url": "https://justwordz.medium.com/the-ai-music-debate-is-missing-half-the-money-ffb714924aaa",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo argumenta que a discussão pública sobre IA na música foca em criatividade e direitos, mas ignora quem está realmente lucrando. Traz números sobre fluxos de receita e poder de mercado que mudam a forma de enxergar o setor. Importante para artistas, gravadoras e investidores entenderem o lado financeiro.",
-    "reasonEn": "The piece argues that the public debate around AI in music focuses on creativity and rights, but ignores who is actually profiting. It surfaces revenue flows and market power that reshape how we see the industry. Useful for artists, labels, and investors trying to grasp the financial side.",
-    "score": 0.55,
-    "tags": [
-      "música",
-      "negócios"
-    ],
-    "img": "img/be3db7232c85.jpg",
-    "ts": 1786224663,
-    "addedTs": 1786227532,
-    "urlHash": "be3db7232c85",
-    "titleHash": "846955d55c1d"
-  },
-  {
-    "title": "Shadow AI is a hidden risk to your business",
-    "titlePt": "IA sombra é um risco oculto para empresas",
-    "url": "https://proton.me/business/blog/shadow-ai",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O texto alerta sobre o uso de ferramentas de IA por funcionários sem aprovação do time de TI ou segurança. Esses vazamentos de dados e Shadow AI podem gerar multas, vazamentos e problemas regulatórios. Gestores e equipes de segurança precisam de políticas claras antes que o problema exploda.",
-    "reasonEn": "The article warns about employees using AI tools without IT or security approval. These data leaks and Shadow AI can trigger fines, breaches, and regulatory headaches. Managers and security teams need clear policies before the problem explodes.",
-    "score": 0.65,
-    "tags": [
-      "segurança",
-      "negócios"
-    ],
-    "img": "img/cf1adb85293d.jpg",
-    "ts": 1786224043,
-    "addedTs": 1786227532,
-    "urlHash": "cf1adb85293d",
-    "titleHash": "ebe49eac1da6"
-  },
-  {
-    "title": "How to write production-quality code with AI",
-    "titlePt": "Como escrever código de produção com IA",
-    "url": "https://curtispoe.org/paad/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O guia mostra práticas para usar IA na escrita de código que vai para produção, indo além de protótipos. Cobre testes, revisão humana, padrões de arquitetura e armadilhas comuns. Direto ao ponto para desenvolvedores que precisam entregar com qualidade sem abrir mão de velocidade.",
-    "reasonEn": "The guide shows practices for using AI to write code that ships to production, beyond mere prototypes. It covers testing, human review, architecture standards, and common pitfalls. Straightforward reading for developers who need quality without losing speed.",
-    "score": 0.75,
-    "tags": [
-      "desenvolvimento",
-      "boas-práticas"
-    ],
-    "img": "img/75f5c8a0c551.jpg",
-    "ts": 1786222242,
-    "addedTs": 1786227532,
-    "urlHash": "75f5c8a0c551",
-    "titleHash": "2dbd1c242b0c"
-  },
-  {
-    "title": "YouTube Mistakenly Penalizes Kurzgesagt for AI-Generated Slop",
-    "titlePt": "YouTube pune Kurzgesagt por engano, acusando conteúdo de IA",
-    "url": "https://kotaku.com/youtube-mistakenly-penalizes-popular-science-channel-kurzgesagt-for-ai-generated-slop-2000722702",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O YouTube sinalizou e removeu vídeos do canal Kurzgesagt, acusando-os de serem gerados por IA, mesmo sendo produzidos manualmente pela equipe. O caso mostra como os detectores automáticos erram e punem criadores legítimos. Afeta a confiança de canais educacionais e levanta dúvidas sobre a apelação.",
-    "reasonEn": "YouTube flagged and removed videos from the Kurzgesagt channel, accusing them of being AI-generated even though they were produced manually by the team. The case shows how automatic detectors wrongly punish legitimate creators. It affects trust for educational channels and raises questions about appeal processes.",
-    "score": 0.7,
-    "tags": [
-      "plataforma",
-      "moderação"
-    ],
-    "img": "img/17af8bd841bf.jpg",
-    "ts": 1786222077,
-    "addedTs": 1786227532,
-    "urlHash": "17af8bd841bf",
-    "titleHash": "d01780153d89"
-  },
-  {
-    "title": "Instagram's AI Rewards Human Attention",
-    "titlePt": "IA do Instagram vai recompensar atenção humana",
-    "url": "https://ai-updates.net/instagram-ai-human-attention-content/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O Instagram estaria ajustando o algoritmo para favorecer conteúdo feito por humanos em vez de material gerado por IA. A mudança tenta devolver engajamento orgânico a criadores reais e reduzir a saturação de spam automatizado. Influenciadores e equipes de marca precisam revisar suas estratégias de conteúdo.",
-    "reasonEn": "Instagram is reportedly tweaking its algorithm to favor human-made content over AI-generated material. The change aims to restore organic engagement for real creators and reduce automated spam saturation. Influencers and brand teams need to rethink their content strategies.",
-    "score": 0.55,
-    "tags": [
-      "redes-sociais",
-      "algoritmo"
-    ],
-    "img": "img/c31089609db9.jpg",
-    "ts": 1786222069,
-    "addedTs": 1786227532,
-    "urlHash": "c31089609db9",
-    "titleHash": "8016ce439422"
-  },
-  {
-    "title": "Korea's AI-driven chip boom reorders country's society from careers to culture",
-    "titlePt": "Boom de chips por IA na Coreia reorganiza a sociedade",
-    "url": "https://www.bloomberg.com/news/features/2026-08-06/ai-sk-hynix-samsung-rewire-south-korea-s-careers-dating-and-culture",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A corrida por semicondutores para IA na Coreia do Sul está mudando carreiras, cultura e prioridades do país. Investimentos bilionários em fábricas e talentos estão atraindo jovens para engenharia e deslocando outros setores. Mostra como uma tecnologia pode reordenar a estrutura social de uma nação inteira.",
-    "reasonEn": "South Korea's chip race for AI is reshaping careers, culture, and national priorities. Billion-dollar investments in fabs and talent are pulling young people toward engineering and disrupting other sectors. It illustrates how one technology can reorder an entire society.",
-    "score": 0.6,
-    "tags": [
-      "chips",
-      "coreia"
-    ],
-    "img": "img/56b91fa4cea9.jpg",
-    "ts": 1786220928,
-    "addedTs": 1786227532,
-    "urlHash": "56b91fa4cea9",
-    "titleHash": "3ced9139d75f"
-  },
-  {
-    "title": "Show HN: HolyCode Cloud – persistent Linux workstations for AI",
-    "titlePt": "HolyCode Cloud oferece workstations Linux persistentes para IA",
-    "url": "https://holycode.cloud",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O serviço entrega ambientes Linux permanentes na nuvem, pensados para cargas de trabalho de IA com agentes e treinamentos longos. Resolve o problema de sessões descartáveis em outros provedores. Pode interessar times de IA que precisam rodar tarefas longas sem perder estado.",
-    "reasonEn": "The service delivers persistent Linux environments in the cloud, designed for AI workloads with long-running agents and training jobs. It solves the disposable-session problem found in other providers. Useful for AI teams that need long-running tasks without losing state.",
-    "score": 0.5,
-    "tags": [
-      "cloud",
-      "infra"
-    ],
-    "img": "img/aa1874f39793.jpg",
-    "ts": 1786217391,
-    "addedTs": 1786227532,
-    "urlHash": "aa1874f39793",
-    "titleHash": "804ab390dca3"
   }
 ]
