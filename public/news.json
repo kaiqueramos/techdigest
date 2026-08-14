@@ -1,5 +1,201 @@
 [
   {
+    "title": "Apple trains its own AI model for China market with Alibaba's support",
+    "titlePt": "Apple treina modelo de IA próprio para a China com apoio da Alibaba",
+    "url": "https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Apple está desenvolvendo um modelo de IA próprio voltado ao mercado chinês, com suporte técnico da Alibaba. A parceria é necessária porque a China exige que modelos de IA passem por aprovação governamental e usem dados locais. A colaboração envolveu meses de negociação para adequar o sistema às regras chinesas. Usuários de iPhone na China devem ver mudanças nas funções de IA em breve. O movimento mostra como a Apple se adapta às barreiras regulatórias para manter presença em um mercado bilionário.",
+    "reasonEn": "Apple is developing its own AI model targeted at the Chinese market, with technical support from Alibaba. The partnership is necessary because China requires AI models to pass government approval and use local data. The collaboration involved months of negotiation to comply with Chinese rules. iPhone users in China should see changes in AI features soon. The move shows how Apple adapts to regulatory barriers to maintain its presence in a billion-user market.",
+    "score": 0.85,
+    "tags": [
+      "apple",
+      "china",
+      "modelo"
+    ],
+    "img": "img/9d26e2120848.jpg",
+    "ts": 1786682871,
+    "addedTs": 1786685316,
+    "urlHash": "9d26e2120848",
+    "titleHash": "aa52fd17b89e"
+  },
+  {
+    "title": "Elon Musk is suing California over an AI law. Here's why transparency matters",
+    "titlePt": "Elon Musk processa a Califórnia por causa de lei de IA",
+    "url": "https://www.sfchronicle.com/opinion/openforum/article/ai-data-law-california-22382698.php",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Elon Musk entrou com uma ação judicial contra o estado da Califórnia contestando uma nova lei de IA. A legislação exige maior transparência sobre como os sistemas de inteligência artificial são treinados e usados. Musk argumenta que a lei impõe obrigações excessivas e pode prejudicar a inovação. O caso pode definir precedentes importantes sobre regulação de IA nos Estados Unidos. Desenvolvedores e empresas do setor acompanham o desfecho com atenção.",
+    "reasonEn": "Elon Musk filed a lawsuit against California challenging a new AI law. The legislation requires greater transparency about how artificial intelligence systems are trained and used. Musk argues the law imposes excessive obligations and could harm innovation. The case could set important precedents for AI regulation in the United States. Developers and companies in the sector are watching the outcome closely.",
+    "score": 0.9,
+    "tags": [
+      "regulação",
+      "musk",
+      "transparência"
+    ],
+    "img": "img/0de630f12923.jpg",
+    "ts": 1786680711,
+    "addedTs": 1786685316,
+    "urlHash": "0de630f12923",
+    "titleHash": "0a200ac7502c"
+  },
+  {
+    "title": "Don't Want Your LLM to Recommend Nuclear Strike? Try Asking It in Japanese",
+    "titlePt": "Não quer que seu LLM recomende um ataque nuclear? Tente perguntar em japonês",
+    "url": "https://arxiv.org/abs/2608.12373",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "Um estudo descobriu que a probabilidade de um LLM recusar pedidos perigosos varia bastante dependendo do idioma usado. Em certos idiomas, respostas prejudiciais passam mais facilmente pelos filtros de segurança. O achado tem implicações sérias para produtos globais de IA. Desenvolvedores e equipes de segurança devem se preocupar.",
+    "reasonEn": "A study found that the likelihood of an LLM refusing dangerous requests varies significantly depending on the language used. In certain languages, harmful answers slip through safety filters more easily. The finding has serious implications for global AI products. Developers and safety teams should be concerned.",
+    "score": 0.55,
+    "tags": [
+      "segurança",
+      "multilíngue"
+    ],
+    "img": "img/c83c860b0834.jpg",
+    "ts": 1786680000,
+    "addedTs": 1786685316,
+    "urlHash": "c83c860b0834",
+    "titleHash": "f816eedfa570"
+  },
+  {
+    "title": "Research Assistant: AstraZeneca's Agentic System for R&D",
+    "titlePt": "AstraZeneca cria sistema agêntico com IA para pesquisa e desenvolvimento",
+    "url": "https://arxiv.org/abs/2608.12395",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "A AstraZeneca revelou um sistema agêntico de IA para acelerar suas atividades de pesquisa e desenvolvimento. O agente automatiza tarefas repetitivas e busca novas hipóteses. É um exemplo concreto de uso corporativo sério de IA. Mostra tendência de grandes farmacêuticas adotando agentes.",
+    "reasonEn": "AstraZeneca unveiled an agentic AI system to speed up its research and development activities. The agent automates repetitive tasks and searches for new hypotheses. It is a concrete example of serious corporate AI use. It shows a trend of large pharma companies adopting agents.",
+    "score": 0.55,
+    "tags": [
+      "saúde",
+      "agentes",
+      "empresa"
+    ],
+    "img": "img/1decab6b5156.jpg",
+    "ts": 1786680000,
+    "addedTs": 1786685316,
+    "urlHash": "1decab6b5156",
+    "titleHash": "e901cd5b76bb"
+  },
+  {
+    "title": "Large Language Models Can Follow Instructions, But Not Many at Once: Phase Transitions in Compositional Constraint Satisfaction",
+    "titlePt": "LLMs seguem instruções, mas não muitas de uma vez",
+    "url": "https://arxiv.org/abs/2608.12426",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "Um novo estudo mostra que LLMs conseguem seguir instruções isoladas, mas entram em colapso quando recebem muitas restrições compostas ao mesmo tempo. O comportamento lembra transições de fase da física. Tem implicações para quem constrói prompts longos ou sistemas multi-instrução. Mostra limites reais dos modelos atuais.",
+    "reasonEn": "A new study shows that LLMs can follow isolated instructions but collapse when given many compositional constraints at once. The behavior resembles phase transitions in physics. It has implications for those building long prompts or multi-instruction systems. It reveals real limits of current models.",
+    "score": 0.5,
+    "tags": [
+      "pesquisa",
+      "limitações"
+    ],
+    "img": "img/f72ebdfe7d5a.jpg",
+    "ts": 1786680000,
+    "addedTs": 1786685316,
+    "urlHash": "f72ebdfe7d5a",
+    "titleHash": "05cae7d9c1ae"
+  },
+  {
+    "title": "Executable SOAR playbook dataset – AI agents pay per record via HTTP 402",
+    "titlePt": "Playbooks SOAR executáveis pagos por agentes de IA via HTTP 402",
+    "url": "https://lateos.ai/soar/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O projeto publica um conjunto de playbooks de segurança SOAR em formato executável, com cobrança por registro via protocolo HTTP 402. Isso permite que agentes de IA consumam automações de segurança pagando micropagamentos automaticamente. É um experimento interessante na interseção entre agentes autônomos e economia de APIs. Interessa a profissionais de segurança e desenvolvedores de infraestrutura agentic.",
+    "reasonEn": "The project publishes a set of executable SOAR security playbooks, charged per record via HTTP 402. This lets AI agents consume security automations and pay micropayments automatically. It's an interesting experiment at the intersection of autonomous agents and API economies. Relevant for security professionals and agentic infrastructure developers.",
+    "score": 0.5,
+    "tags": [
+      "segurança",
+      "agentes",
+      "monetização"
+    ],
+    "img": "img/0e3775c79de2.jpg",
+    "ts": 1786679966,
+    "addedTs": 1786685316,
+    "urlHash": "0e3775c79de2",
+    "titleHash": "18b3dc50ca27"
+  },
+  {
+    "title": "Error by AI scribe during medical appointment leaves patient devastated",
+    "titlePt": "Erro de escriba de IA causa transtorno grave em paciente",
+    "url": "https://www.abc.net.au/news/2026-08-14/ai-medical-scribe-error-leaves-patient-devastated/107031672",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um paciente teve seu tratamento prejudicado por um erro de transcrição cometido por um escriba de IA durante uma consulta médica. O caso reacende o debate sobre confiar demais em ferramentas automatizadas em contextos clínicos de alto risco. Mostra que, mesmo com revisão humana, falhas simples podem passar e causar danos reais. Serve de alerta para hospitais e pacientes sobre os limites da IA em saúde.",
+    "reasonEn": "A patient had their treatment harmed by a transcription error made by an AI scribe during a medical appointment. The case reignites debate about over-relying on automated tools in high-stakes clinical settings. It shows even with human review, simple mistakes can slip through and cause real harm. A warning to hospitals and patients about AI's limits in healthcare.",
+    "score": 0.65,
+    "tags": [
+      "saúde",
+      "falha",
+      "regulação"
+    ],
+    "img": "img/b77412011e6e.jpg",
+    "ts": 1786677850,
+    "addedTs": 1786685316,
+    "urlHash": "b77412011e6e",
+    "titleHash": "5f5f1520c377"
+  },
+  {
+    "title": "OpenAI hires new CRO as executive shake-up continues",
+    "titlePt": "OpenAI contrata novo CRO em meio a reestruturação executiva",
+    "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A OpenAI anunciou a chegada de um novo Chief Revenue Officer, em mais um movimento da reestruturação da liderança da empresa. A troca faz parte de um esforço para reorganizar áreas comerciais diante do crescimento acelerado de produtos como ChatGPT Work e APIs. Reflete a pressão por receita conforme os custos de infraestrutura disparam. Interessa a investidores, parceiros e concorrentes do setor.",
+    "reasonEn": "OpenAI announced a new Chief Revenue Officer in another move of its executive reshuffle. The change is part of efforts to reorganize commercial areas amid fast growth of products like ChatGPT Work and APIs. It reflects revenue pressure as infrastructure costs soar. Relevant for investors, partners and industry competitors.",
+    "score": 0.65,
+    "tags": [
+      "openai",
+      "negócios",
+      "liderança"
+    ],
+    "img": "img/7f30c266438b.jpg",
+    "ts": 1786640833,
+    "addedTs": 1786685316,
+    "urlHash": "7f30c266438b",
+    "titleHash": "dfd2ebcb440d"
+  },
+  {
+    "title": "Newer Models, Same Advantage",
+    "titlePt": "Modelos novos não apagam vantagem dos anteriores em código",
+    "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "Análise da Hugging Face mostra que modelos de IA mais recentes, mesmo maiores e mais caros, não necessariamente vencem versões anteriores em benchmarks de programação. O resultado sugere que o ganho incremental em capacidade de codificação está estagnando. Importante para empresas decidindo onde investir em licenças de modelo. Pode mudar a estratégia de atualização de ferramentas internas.",
+    "reasonEn": "A Hugging Face analysis shows newer AI models, even bigger and pricier, don't necessarily beat older versions on coding benchmarks. The result suggests incremental coding gains are stalling. Important for companies deciding where to invest model licenses. It could shift internal tool upgrade strategies.",
+    "score": 0.5,
+    "tags": [
+      "benchmark",
+      "modelo",
+      "código"
+    ],
+    "img": "img/c5c3971a8972.jpg",
+    "ts": 1784202588,
+    "addedTs": 1786685316,
+    "urlHash": "c5c3971a8972",
+    "titleHash": "c0e574730220"
+  },
+  {
     "title": "How AI engines cite brands?",
     "titlePt": "Como motores de IA citam marcas?",
     "url": "https://www.leapd.ai/blog/ai-visibility/how-chatgpt-google-ai-overviews-and-perplexity-source-information-in-2026",
@@ -10623,200 +10819,5 @@
     "addedTs": 1786184542,
     "urlHash": "848ccc9eb418",
     "titleHash": "cdcdce0482fd"
-  },
-  {
-    "title": "OpenAI says it slowed Astra model development over security concerns",
-    "titlePt": "OpenAI diz que atrasou desenvolvimento do modelo Astra por segurança",
-    "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A OpenAI revelou que reduziu deliberadamente o ritmo de desenvolvimento do modelo Astra por preocupações com segurança. É um sinal importante de como grandes empresas de IA estão equilibrando inovação e riscos antes do lançamento. A decisão afeta o calendário de produtos e alimenta o debate sobre do setor. Leitura obrigatória para acompanhar o cenário de IA.",
-    "reasonEn": "OpenAI revealed it deliberately slowed down development of the Astra model due to security concerns. It's an important signal of how major AI companies are balancing innovation and risk before launch. The decision affects product timelines and fuels the debate over sector regulation. Required reading to follow the AI landscape.",
-    "score": 0.85,
-    "tags": [
-      "openai",
-      "segurança",
-      "modelo"
-    ],
-    "img": "img/f5e65390d809.jpg",
-    "ts": 1786142904,
-    "addedTs": 1786184542,
-    "urlHash": "f5e65390d809",
-    "titleHash": "04ecb6961122"
-  },
-  {
-    "title": "Watching Roku’s AI channel is like eating from a trough",
-    "titlePt": "Assistir ao canal de IA da Roku é como comer de um cocho",
-    "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "Análise crítica do novo canal 24 horas da Roku que transmite conteúdo gerado por inteligência artificial sem curadoria. O autor compara a experiência a algo e repetitivo, quase industrial. É um alerta concreto sobre a de conteúdo automatizado de baixa qualidade nas plataformas de streaming. Leitura rápida e reveladora sobre o estado do streaming.",
-    "reasonEn": "A critical review of Roku's new 24-hour channel streaming uncured AI-generated content. The author compares the experience to something low-grade and repetitive, almost industrial. It's a concrete warning about the flood of low-quality automated content on streaming platforms. A quick and revealing read on the state of streaming.",
-    "score": 0.55,
-    "tags": [
-      "streaming",
-      "conteúdo-ia",
-      "crítica"
-    ],
-    "img": "img/d78aeab37b7f.jpg",
-    "ts": 1786129186,
-    "addedTs": 1786184542,
-    "urlHash": "d78aeab37b7f",
-    "titleHash": "5daec092988c"
-  },
-  {
-    "title": "Grindr CEO Says AI Is Doing the Work of 200 Engineers",
-    "titlePt": "CEO do Grindr diz que IA faz o trabalho de 200 engenheiros",
-    "url": "https://ai-updates.net/grindr-ceo-says-ai-is-doing-the-work-of-200-engineers/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O CEO do Grindr afirmou que a inteligência artificial já substitui o trabalho de cerca de 200 engenheiros dentro da empresa. A declaração reacende o debate sobre automação e demissões no setor de tecnologia. É um exemplo concreto de como líderes estão usando IA para enxugar equipes. Para desenvolvedores, é mais um sinal de que habilidades em IA estão cada vez mais valorizadas e que funções tradicionais podem mudar.",
-    "reasonEn": "Grindr's CEO said AI already replaces the work of about 200 engineers within the company. The statement reignites the debate about automation and layoffs in the tech sector. It's a concrete example of how leaders are using AI to slim down teams. For developers, it's another sign that AI skills are increasingly valued and that traditional roles may shift.",
-    "score": 0.55,
-    "tags": [
-      "ia",
-      "trabalho"
-    ],
-    "img": "img/2031adcdc99c.jpg",
-    "ts": 1786175916,
-    "addedTs": 1786177744,
-    "urlHash": "2031adcdc99c",
-    "titleHash": "bfa897407fde"
-  },
-  {
-    "title": "AIUsageBar – Track Claude, Codex, Cursor and Gemini Usage from the Mac Menu Bar",
-    "titlePt": "AIUsageBar: acompanhe o uso de Claude, Codex, Cursor e Gemini no Mac",
-    "url": "https://www.aiusagebar.com",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O AIUsageBar é uma ferramenta que mostra em tempo real, na barra de menus do Mac, quanto você está consumindo de Claude, Codex, Cursor e Gemini. É útil para desenvolvedores que precisam controlar custos e limites de uso dessas IAs. Centraliza informações que normalmente exigiriam abrir vários painéis separados. Para quem usa várias IAs no dia a dia, pode economizar tempo e evitar surpresas na fatura.",
-    "reasonEn": "AIUsageBar is a tool that shows in real time, on the Mac menu bar, how much you're consuming from Claude, Codex, Cursor, and Gemini. It's useful for developers who need to control costs and usage limits of these AIs. It centralizes info that would normally require opening several separate dashboards. For those who use multiple AIs daily, it can save time and avoid billing surprises.",
-    "score": 0.7,
-    "tags": [
-      "ferramenta",
-      "produtividade"
-    ],
-    "img": "img/5c2f2fdac6bf.jpg",
-    "ts": 1786172881,
-    "addedTs": 1786177744,
-    "urlHash": "5c2f2fdac6bf",
-    "titleHash": "524d7f685d88"
-  },
-  {
-    "title": "Meta CTO says employees should use AI productivity gains to do more work",
-    "titlePt": "CTO da Meta diz que ganho de produtividade com IA deve virar mais trabalho",
-    "url": "https://www.businessinsider.com/meta-cto-andrew-bosworth-ai-gains-work-2026-8",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O CTO da Meta afirmou que funcionários devem usar o tempo economizado com IA para entregar mais, não para descansar. A fala reflete uma tendência crescente nas grandes empresas de tecnologia de cobrar mais resultado com menos gente. Para desenvolvedores, é um sinal claro de que produtividade com IA virou métrica de avaliação. O debate sobre burnout e expectativas também esquentou nas redes.",
-    "reasonEn": "Meta's CTO said employees should use the time saved by AI to deliver more, not rest. The comment reflects a growing trend in big tech of demanding more output with fewer people. For developers, it's a clear sign that AI productivity has become an evaluation metric. The debate around burnout and expectations also heated up online.",
-    "score": 0.55,
-    "tags": [
-      "trabalho",
-      "ia"
-    ],
-    "img": "img/b1bddd84651a.jpg",
-    "ts": 1786171755,
-    "addedTs": 1786177744,
-    "urlHash": "b1bddd84651a",
-    "titleHash": "b4212695e815"
-  },
-  {
-    "title": "Grok Imagine Image 2.0",
-    "titlePt": "Grok lança versão 2.0 do gerador de imagens",
-    "url": "https://x.ai/news/grok-imagine-image-2",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A xAI atualizou o Grok Imagine para a versão 2.0, seu gerador de imagens integrado ao X. A novidade promete mais qualidade e novos recursos criativos. Interessa a quem acompanha a corrida dos modelos generativos de imagem.",
-    "reasonEn": "xAI updated Grok Imagine to version 2.0, its image generator integrated into X. The update promises better quality and new creative features. Relevant for anyone tracking the generative image model race.",
-    "score": 0.5,
-    "tags": [
-      "imagem",
-      "grok",
-      "modelo"
-    ],
-    "img": "img/ccbfd7bc75a8.jpg",
-    "ts": 1786169805,
-    "addedTs": 1786170940,
-    "urlHash": "ccbfd7bc75a8",
-    "titleHash": "aa2392deb5c6"
-  },
-  {
-    "title": "Progress AI Observability",
-    "titlePt": "Progress lança ferramenta de observabilidade para IA",
-    "url": "https://www.producthunt.com/products/progress-ai-observability",
-    "source": "ProductHunt",
-    "sources": [
-      "ProductHunt"
-    ],
-    "reason": "A Progress apresentou uma solução de observabilidade dedicada a sistemas de IA, ajudando equipes a monitorar desempenho e falhas. É útil para empresas que já operam modelos em produção e precisam de visibilidade. Ajuda a evitar surpresas quando o modelo começa a se comportar de forma estranha.",
-    "reasonEn": "Progress introduced an observability tool dedicated to AI systems, helping teams monitor performance and failures. It's useful for companies already running models in production that need visibility. It helps avoid surprises when models start behaving oddly.",
-    "score": 0.5,
-    "tags": [
-      "observabilidade",
-      "mlops",
-      "lançamento"
-    ],
-    "img": "img/66b961de8f7b.jpg",
-    "ts": 1786169777,
-    "addedTs": 1786170940,
-    "urlHash": "66b961de8f7b",
-    "titleHash": "e4bc53ca04fa"
-  },
-  {
-    "title": "Who is liable when AI goes rogue? Lawyers see new risks",
-    "titlePt": "Quem responde quando a IA dá errado? Advogados veem riscos novos",
-    "url": "https://www.reuters.com/business/who-is-liable-when-ai-goes-rogue-lawyers-see-new-risks-2026-08-07",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Advogados discutem a responsabilidade legal quando sistemas de IA cometem erros graves, como decisões médicas ou financeiras autônomas. O tema é central para empresas que implantam IA em processos críticos. Mostra que a legislação ainda corre atrás da tecnologia.",
-    "reasonEn": "Lawyers are discussing legal liability when AI systems make serious mistakes, like autonomous medical or financial decisions. The topic is central for companies deploying AI in critical processes. It shows that legislation is still lagging behind the technology.",
-    "score": 0.7,
-    "tags": [
-      "regulação",
-      "responsabilidade",
-      "ia"
-    ],
-    "img": "img/be5700f17a1b.jpg",
-    "ts": 1786166888,
-    "addedTs": 1786170940,
-    "urlHash": "be5700f17a1b",
-    "titleHash": "69f2afc0113e"
-  },
-  {
-    "title": "Lybrary,a persistent AST-aware code memory for AI agents(MCP server pip install)",
-    "titlePt": "Lybrary: memória de código persistente para agentes de IA",
-    "url": "https://github.com/vibhu-dixit/lybrary",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Lybrary é um servidor MCP instalável via pip que dá aos agentes de IA uma memória persistente baseada na árvore sintática do código. Ajuda agentes a lembrarem da estrutura do projeto entre sessões. É uma ferramenta útil para quem trabalha com agentes de codificação.",
-    "reasonEn": "Lybrary is an MCP server installable via pip that gives AI agents persistent memory based on the code's syntax tree. It helps agents remember project structure across sessions. A useful tool for anyone working with coding agents.",
-    "score": 0.5,
-    "tags": [
-      "agentes",
-      "devtools",
-      "mcp"
-    ],
-    "img": "img/7932d1f9428b.jpg",
-    "ts": 1786165276,
-    "addedTs": 1786170940,
-    "urlHash": "7932d1f9428b",
-    "titleHash": "c02124116934"
   }
 ]
