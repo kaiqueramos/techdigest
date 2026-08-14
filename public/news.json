@@ -1,5 +1,335 @@
 [
   {
+    "title": "Show HN: I built a tool that delegates bounded spending to an AI agent",
+    "titlePt": "Ferramenta dá a agentes de IA um limite de gastos controlado",
+    "url": "https://github.com/meyerdav24/molt",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um desenvolvedor publicou no Hacker News uma ferramenta que permite delegar gastos com limites definidos para um agente de IA. A ideia é evitar que o agente gaste mais do que o permitido em tarefas automatizadas, como compras ou contratação de serviços. Isso resolve um problema real para empresas que usam IA em operações financeiras. A novidade é útil para times que precisam de automação sem abrir mão de controle orçamentário.",
+    "reasonEn": "A developer shared on Hacker News a tool that lets you delegate spending to an AI agent with strict caps. The idea is to stop the agent from overspending on automated tasks like purchases or service hiring. It solves a real problem for companies using AI for financial operations. The release is useful for teams that want automation without losing budget control.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "finanças",
+      "automação"
+    ],
+    "img": "img/fdcb7f8f62ac.jpg",
+    "ts": 1786725592,
+    "addedTs": 1786725667,
+    "urlHash": "fdcb7f8f62ac",
+    "titleHash": "b0e95cdc61da"
+  },
+  {
+    "title": "Show HN: Agentic Ship – open-source Lovable alternative that runs on your agent",
+    "titlePt": "Agentic Ship: alternativa open-source ao Lovable roda no seu próprio agente",
+    "url": "https://github.com/moasq/agentic-ship",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um novo projeto open-source chamado Agentic Ship foi lançado como concorrente do Lovable, plataforma popular de criação de apps com IA. Diferente dos rivais, ele roda dentro do próprio agente do usuário, em vez de ser um serviço na nuvem. Isso dá mais controle e privacidade para desenvolvedores. A ferramenta pode interessar quem quer construir apps com IA sem depender de serviços externos.",
+    "reasonEn": "A new open-source project called Agentic Ship launched as a competitor to Lovable, a popular AI app-building platform. Unlike rivals, it runs inside the user's own agent rather than as a cloud service. This gives developers more control and privacy. The tool may appeal to those who want to build AI apps without depending on external services.",
+    "score": 0.5,
+    "tags": [
+      "open-source",
+      "agentes",
+      "desenvolvimento"
+    ],
+    "img": "img/863ec1695ba8.jpg",
+    "ts": 1786725580,
+    "addedTs": 1786725667,
+    "urlHash": "863ec1695ba8",
+    "titleHash": "a3553b035825"
+  },
+  {
+    "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
+    "titlePt": "Google agora permite remover marcas d'água visíveis de imagens do Gemini",
+    "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "O Google passou a permitir que usuários removam as marcas d'água visíveis das imagens criadas por sua IA Gemini. Antes, essas marcas identificavam o conteúdo como gerado por máquina, ajudando no combate à desinformação. A mudança preocupa especialistas em autenticidade digital e direitos autorais. Usuários comuns e empresas que usam imagens de IA devem repensar como identificam esse tipo de conteúdo.",
+    "reasonEn": "Google now lets users remove visible watermarks from images created by its Gemini AI. Previously these marks identified the content as machine-generated, helping fight misinformation. The change worries experts about digital authenticity and copyright. Everyday users and companies using AI images should rethink how they flag this kind of content.",
+    "score": 0.75,
+    "tags": [
+      "google",
+      "marca-d'água",
+      "regulação"
+    ],
+    "img": "img/e5026bc3d2dc.jpg",
+    "ts": 1786725572,
+    "addedTs": 1786725667,
+    "urlHash": "e5026bc3d2dc",
+    "titleHash": "64720e863792"
+  },
+  {
+    "title": "My Dad Is in Prison. Here's Why I Built an AI Chatbot for His Electronic Tablet",
+    "titlePt": "Meu pai está preso: por isso criei um chatbot de IA para o tablet dele",
+    "url": "https://www.themarshallproject.org/2026/08/14/prison-ai-chatbot-nova-cj-jones",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um desenvolvedor compartilhou no Hacker News a história pessoal por trás de um chatbot de IA criado para funcionar no tablet de presidiários. O objetivo é manter vínculos familiares e oferecer apoio emocional a quem está cumprindo pena. O projeto levanta questões éticas sobre privacidade e uso de IA em ambientes carcerários. A história chamou atenção pela combinação de tecnologia e impacto humano.",
+    "reasonEn": "A developer shared on Hacker News the personal story behind an AI chatbot built to run on a prisoner's tablet. The goal is to maintain family bonds and offer emotional support to those serving time. The project raises ethical questions about privacy and AI use in prison settings. The story drew attention for mixing technology with human impact.",
+    "score": 0.5,
+    "tags": [
+      "história",
+      "ética",
+      "chatbot"
+    ],
+    "img": "img/e6d3f73ca0e9.jpg",
+    "ts": 1786725112,
+    "addedTs": 1786725667,
+    "urlHash": "e6d3f73ca0e9",
+    "titleHash": "9109ac6392d4"
+  },
+  {
+    "title": "Software Factory with AI",
+    "titlePt": "Fábrica de software com IA: como times estão estruturando a produção automatizada",
+    "url": "https://twitter.com/i/status/2088296448563503269",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um post no Hacker News discute o conceito de fábrica de software impulsionada por IA, onde agentes automatizam grande parte da produção de código. O autor defende que times precisam repensar fluxos, papéis e revisão quando máquinas escrevem boa parte do código. O debate é relevante para líderes técnicos que avaliam adotar IA em escala. A discussão também toca em temas de qualidade, segurança e propriedade intelectual.",
+    "reasonEn": "A Hacker News post discusses the idea of an AI software factory, where agents automate most of the code production. The author argues teams need to rethink workflows, roles and review when machines write most of the code. The debate matters to tech leaders evaluating AI at scale. The discussion also touches on quality, security and intellectual property.",
+    "score": 0.55,
+    "tags": [
+      "desenvolvimento",
+      "agentes",
+      "gestão"
+    ],
+    "img": "img/bdf56f7cd548.jpg",
+    "ts": 1786724261,
+    "addedTs": 1786725667,
+    "urlHash": "bdf56f7cd548",
+    "titleHash": "4b69576a8d6e"
+  },
+  {
+    "title": "NIST Seeks Blueprint for AI-Era Overhaul of National Vulnerability Database",
+    "titlePt": "NIST quer modernizar banco nacional de vulnerabilidades para a era da IA",
+    "url": "https://securityboulevard.com/2026/08/nist-seeks-blueprint-for-ai-era-overhaul-of-national-vulnerability-database/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O NIST, agência de padrões dos EUA, abriu consulta para redesenhar o National Vulnerability Database pensando na era da IA. A ideia é adaptar a forma como vulnerabilidades são catalogadas para incluir falhas específicas de modelos e sistemas inteligentes. A mudança é importante porque muitas brechas atuais não se encaixam nas categorias tradicionais. Desenvolvedores, pesquisadores e equipes de segurança devem acompanhar a discussão.",
+    "reasonEn": "NIST, the US standards agency, opened a consultation to redesign the National Vulnerability Database for the AI era. The idea is to adapt how vulnerabilities are catalogued to include flaws specific to models and intelligent systems. The change matters because many current issues don't fit traditional categories. Developers, researchers and security teams should follow the discussion.",
+    "score": 0.7,
+    "tags": [
+      "segurança",
+      "regulação",
+      "nist"
+    ],
+    "img": "img/cf976eedf2af.jpg",
+    "ts": 1786723655,
+    "addedTs": 1786725667,
+    "urlHash": "cf976eedf2af",
+    "titleHash": "10ab071e571c"
+  },
+  {
+    "title": "Does Mark Zuckerberg really believe AI is &#8216;for everyone&#8217;?",
+    "titlePt": "Mark Zuckerberg realmente acredita que a IA é 'para todos'?",
+    "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "O TechCrunch questiona se o discurso do CEO da Meta sobre IA 'para todos' é sincero ou estratégico. Zuckerberg vem espalhando a ideia de que a empresa quer democratizar o acesso à inteligência artificial. Críticos apontam que o movimento também é uma forma de enfraquecer concorrentes e capturar mercado. A discussão importa porque define como bilhões de pessoas vão interagir com IA nos próximos anos.",
+    "reasonEn": "TechCrunch questions whether Meta CEO Mark Zuckerberg's talk about AI being 'for everyone' is genuine or strategic. Zuckerberg has been spreading the idea that the company wants to democratize access to artificial intelligence. Critics point out the move is also a way to weaken competitors and capture market share. The discussion matters because it shapes how billions of people will interact with AI in the coming years.",
+    "score": 0.55,
+    "tags": [
+      "meta",
+      "negócios",
+      "estratégia"
+    ],
+    "img": "img/744ebd52ee08.jpg",
+    "ts": 1786722208,
+    "addedTs": 1786725667,
+    "urlHash": "744ebd52ee08",
+    "titleHash": "d60e8b0cb60f"
+  },
+  {
+    "title": "Google Is Making Private AI Practical with Homomorphic Encryption",
+    "titlePt": "Google torna a IA privada uma realidade com criptografia homomórfica",
+    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Google publicou um trabalho sobre criptografia homomórfica aplicada a modelos de IA, permitindo processar dados sem descriptografá-los. A técnica promete manter a privacidade do usuário enquanto a IA ainda funciona sobre os dados. É um avanço importante para setores regulados, como saúde e finanças. A novidade aproxima a IA privada da prática em produção.",
+    "reasonEn": "Google published work on homomorphic encryption applied to AI models, allowing data to be processed without decrypting it. The technique promises to keep user privacy while AI still operates on the data. It is a major step forward for regulated sectors like healthcare and finance. The release brings private AI closer to production use.",
+    "score": 0.7,
+    "tags": [
+      "privacidade",
+      "google",
+      "criptografia"
+    ],
+    "img": "img/0356ba6ae093.jpg",
+    "ts": 1786722190,
+    "addedTs": 1786725667,
+    "urlHash": "0356ba6ae093",
+    "titleHash": "5ecdcda53310"
+  },
+  {
+    "title": "Show HN: Remarc – contextual feedback for coding agents via MCP",
+    "titlePt": "Remarc: feedback contextual para agentes de código via MCP",
+    "url": "https://github.com/metedata/Remarc",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um desenvolvedor lançou o Remarc, ferramenta open-source que dá feedback contextual para agentes de programação usando o protocolo MCP. A ideia é permitir que revisores humanos ou automáticos guiem o agente sem precisar reescrever o código todo. A novidade se encaixa na onda de ferramentas para ajustar melhor o trabalho de agentes. Pode interessar times que já usam MCP em seus fluxos.",
+    "reasonEn": "A developer launched Remarc, an open-source tool that delivers contextual feedback to coding agents using the MCP protocol. The goal is to let human or automated reviewers guide the agent without rewriting everything. The release fits the wave of tools to better steer agent work. It may appeal to teams already using MCP in their flows.",
+    "score": 0.5,
+    "tags": [
+      "mcp",
+      "agentes",
+      "open-source"
+    ],
+    "img": "img/23862908c4e1.jpg",
+    "ts": 1786721723,
+    "addedTs": 1786725667,
+    "urlHash": "23862908c4e1",
+    "titleHash": "d71589ba542c"
+  },
+  {
+    "title": "European publishers are getting hit harder by AI bot scraping, report finds",
+    "titlePt": "Editores europeus sofrem mais com raspagem de bots de IA, diz relatório",
+    "url": "https://digiday.com/media/european-publishers-are-getting-hit-harder-by-ai-bot-scraping-report-finds/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um novo relatório mostra que publishers europeus estão perdendo tráfego e receita porque bots de IA raspam seus sites de forma agressiva, ignorando diretivas de exclusão. O problema cresce à medida que modelos de linguagem precisam de dados frescos para treinar. Isso afeta diretamente veículos de notícias, blogs independentes e qualquer site que dependa de audiência. Para desenvolvedores, é um alerta sobre infraestrutura anti-scraping e custo de banda.",
+    "reasonEn": "A new report shows European publishers are losing traffic and revenue because AI bots scrape their sites aggressively, ignoring exclusion directives. The problem is growing as language models need fresh data to train. This directly hits news outlets, independent blogs, and any site that depends on audience. For developers, it's a warning about anti-scraping infrastructure and bandwidth costs.",
+    "score": 0.72,
+    "tags": [
+      "publishers",
+      "scraping",
+      "regulação"
+    ],
+    "img": "img/c716805d1b48.jpg",
+    "ts": 1786720665,
+    "addedTs": 1786725667,
+    "urlHash": "c716805d1b48",
+    "titleHash": "8b44674e94b4"
+  },
+  {
+    "title": "NTU to stop using 'fundamentally unreliable' AI detector from 2027",
+    "titlePt": "Universidade de Nottingham vai abandonar detector de IA 'fundamentalmente não confiável'",
+    "url": "https://www.channelnewsasia.com/singapore/ntu-ai-detector-stop-using-2027-probability-scores-misconduct-6320136",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A NTU decidiu parar de usar detectores de texto gerado por IA a partir de 2027, depois de auditoria interna concluir que a ferramenta é falha e injusta. Falsos positivos punem alunos inocentes, especialmente falantes não nativos de inglês. A decisão pode pressionar outras universidades a repensar políticas de originalidade. Para desenvolvedores de edtech, é um sinal de que o mercado de detectores está em xeque.",
+    "reasonEn": "NTU decided to stop using AI-generated text detectors from 2027 after an internal audit concluded the tool is flawed and unfair. False positives punish innocent students, especially non-native English speakers. The decision may pressure other universities to rethink originality policies. For edtech developers, it's a sign that the detector market is in check.",
+    "score": 0.58,
+    "tags": [
+      "educação",
+      "detectores",
+      "ética"
+    ],
+    "img": "img/5528687122c6.jpg",
+    "ts": 1786720579,
+    "addedTs": 1786725667,
+    "urlHash": "5528687122c6",
+    "titleHash": "ff57a7f107c8"
+  },
+  {
+    "title": "Kog is going deeper to squeeze more inference out of GPUs",
+    "titlePt": "Kog quer espremer mais inferência de cada GPU",
+    "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A startup Kog está lançando uma camada de software que promete aumentar o uso de GPUs em inferência de modelos de IA, reduzindo o custo por token gerado. A abordagem combina melhor agendamento de batches e reutilização de memória. Para empresas que rodam modelos em produção, isso significa contas menores de cloud. Ainda é cedo para saber os números reais de ganho.",
+    "reasonEn": "Startup Kog is launching a software layer that promises to boost GPU utilization in AI model inference, reducing cost per token generated. The approach combines better batch scheduling and memory reuse. For companies running models in production, this means smaller cloud bills. It's still early to know the real gain numbers.",
+    "score": 0.62,
+    "tags": [
+      "gpu",
+      "inferência",
+      "otimização"
+    ],
+    "img": "img/bc3411669855.jpg",
+    "ts": 1786719011,
+    "addedTs": 1786725667,
+    "urlHash": "bc3411669855",
+    "titleHash": "ec32e759b890"
+  },
+  {
+    "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+    "titlePt": "OpenAI e Anthropic entram em guerra de preços enquanto rivais chineses avançam",
+    "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+    "source": "Ars Technica",
+    "sources": [
+      "Ars Technica"
+    ],
+    "reason": "OpenAI e Anthropic estão cortando preços de API para defender market share, pressionados por modelos chineses mais baratos e quase tão capazes. A disputa derruba o custo de usar IA de ponta, mas aperta margens dos laboratórios ocidentais. Clientes corporativos se beneficiam agora, mas o mercado pode consolidar em poucos vencedores. Para desenvolvedores, é hora de revisar contratos e comparar preço por desempenho.",
+    "reasonEn": "OpenAI and Anthropic are cutting API prices to defend market share, pressured by cheaper and nearly as capable Chinese models. The dispute drops the cost of frontier AI but squeezes Western labs' margins. Enterprise customers benefit now, but the market may consolidate into few winners. For developers, it's time to review contracts and compare price per performance.",
+    "score": 0.85,
+    "tags": [
+      "preços",
+      "competição",
+      "api"
+    ],
+    "img": "img/0778f93b3ef2.jpg",
+    "ts": 1786717634,
+    "addedTs": 1786725667,
+    "urlHash": "0778f93b3ef2",
+    "titleHash": "69efe2998c89"
+  },
+  {
+    "title": "Meta&#8217;s &#8216;open&#8217; AI, and a $250M deal gone very wrong ",
+    "titlePt": "O 'open' da Meta e um acordo de US$ 250 milhões que deu muito errado",
+    "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A reportagem mostra que os modelos ditos abertos da Meta entregam menos controle real do que prometem, enquanto um acordo de US$ 250 milhões envolvendo IA terminou em litígio. O caso reacende o debate sobre o que 'open source' significa em IA. Afeta empresas que escolheram Meta Llama por questão de independência. Para desenvolvedores, vale revisar termos de licença antes de adotar.",
+    "reasonEn": "The report explains that Meta's so-called open models deliver less real control than promised, while a $250M deal involving AI ended in litigation. The case reignites the debate about what 'open source' means in AI. It affects companies that chose Meta Llama for independence reasons. For developers, it's worth reviewing license terms before adopting.",
+    "score": 0.74,
+    "tags": [
+      "meta",
+      "open-source",
+      "legal"
+    ],
+    "img": "img/45f40813ef00.jpg",
+    "ts": 1786716000,
+    "addedTs": 1786725667,
+    "urlHash": "45f40813ef00",
+    "titleHash": "376073cd56a7"
+  },
+  {
+    "title": "State of Open Models: Summer 2026 Observations",
+    "titlePt": "Estado dos modelos abertos: observações do verão de 2026",
+    "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "A Hugging Face publicou um panorama dos modelos abertos no meio de 2026, cobrindo qualidade, adoção e licenciamento. É referência útil para quem precisa escolher entre rodar modelos próprios ou usar APIs. Mostra quais famílias estão realmente em produção. Vale a leitura para arquitetos de solução.",
+    "reasonEn": "Hugging Face published an overview of open models in mid-2026, covering quality, adoption, and licensing. It's a useful reference for those who need to choose between running their own models or using APIs. It shows which families are really in production. Worth reading for solution architects.",
+    "score": 0.7,
+    "tags": [
+      "open-source",
+      "modelos",
+      "panorama"
+    ],
+    "img": "img/bc290ba394fd.jpg",
+    "ts": 1786665600,
+    "addedTs": 1786725667,
+    "urlHash": "bc290ba394fd",
+    "titleHash": "243f0ba61cd4"
+  },
+  {
     "title": "About Z AI \"Benchmaxxing\"",
     "titlePt": "Z AI é acusada de otimizar para benchmarks",
     "url": "https://twitter.com/natolambert/status/2088272938361606397",
@@ -10492,324 +10822,5 @@
     "addedTs": 1786339046,
     "urlHash": "9ad4e7761738",
     "titleHash": "c6057173bd65"
-  },
-  {
-    "title": "Grok Imagine 2.0",
-    "titlePt": "Grok Imagine 2.0: nova versão do gerador de imagens da xAI",
-    "url": "https://www.producthunt.com/products/grok",
-    "source": "ProductHunt",
-    "sources": [
-      "ProductHunt"
-    ],
-    "reason": "A xAI lançou a versão 2.0 do Grok Imagine, seu gerador de imagens integrado ao ecossistema Grok/X. Atualizações em geração visual são sempre relevantes para desenvolvedores que usam ou integram ferramentas criativas. Os detalhes sobre melhorias específicas não estão claros apenas pelo título. Vale acompanhar se você trabalha com conteúdo visual ou usa a plataforma X.",
-    "reasonEn": "xAI launched version 2.0 of Grok Imagine, its image generator integrated into the Grok/X ecosystem. Updates in visual generation are always relevant for developers who use or integrate creative tools. Details on specific improvements are unclear from the title alone. Worth following if you work with visual content or use the X platform.",
-    "score": 0.5,
-    "tags": [
-      "xai",
-      "imagem",
-      "lançamento"
-    ],
-    "img": "img/051f34b9aae9.jpg",
-    "ts": 1786330182,
-    "addedTs": 1786333467,
-    "urlHash": "051f34b9aae9",
-    "titleHash": "80970a5505d6"
-  },
-  {
-    "title": "Show HN: Gotcha- First on-device AI copilot for Android",
-    "titlePt": "Gotcha: primeiro copiloto de IA no dispositivo para Android",
-    "url": "https://samosa-ai.com/gotcha/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um projeto mostra um copiloto de IA que roda totalmente no dispositivo Android, sem enviar dados para a nuvem. Isso é relevante porque protege a privacidade e reduz latência para usuários. Para desenvolvedores mobile, é um exemplo interessante de modelos locais funcionando em hardware comum. Pode indicar uma tendência de IA embarcada.",
-    "reasonEn": "A project shows an AI copilot that runs entirely on the Android device, without sending data to the cloud. This matters because it protects privacy and reduces latency for users. For mobile developers, it is an interesting example of local models working on common hardware. It may point to a trend of embedded AI.",
-    "score": 0.55,
-    "tags": [
-      "android",
-      "on-device",
-      "privacidade"
-    ],
-    "img": "img/05349bbe8443.jpg",
-    "ts": 1786329240,
-    "addedTs": 1786333467,
-    "urlHash": "05349bbe8443",
-    "titleHash": "63d5eb3f755a"
-  },
-  {
-    "title": "Show HN: Ask your coding agent to subtitle, translate, and clip video (FFmpeg)",
-    "titlePt": "Agente de codificação para legendar, traduzir e cortar vídeos",
-    "url": "https://github.com/perso-ai/perso-dubbing-plugin",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um desenvolvedor apresentou um agente que recebe comandos em linguagem natural para fazer legendagem, tradução e corte de vídeos usando FFmpeg. É uma demonstração prática de como agentes de código podem automatizar tarefas multimídia complexas. Para desenvolvedores que trabalham com vídeo, é uma ferramenta útil para experimentar. Mostra o poder do FFmpeg combinado com LLMs.",
-    "reasonEn": "A developer presented an agent that takes natural language commands to subtitle, translate, and clip videos using FFmpeg. It is a practical demonstration of how coding agents can automate complex multimedia tasks. For developers working with video, it is a useful tool to experiment with. It shows the power of FFmpeg combined with LLMs.",
-    "score": 0.5,
-    "tags": [
-      "vídeo",
-      "ffmpeg",
-      "agentes"
-    ],
-    "img": "img/a444e5820b96.jpg",
-    "ts": 1786327376,
-    "addedTs": 1786333467,
-    "urlHash": "a444e5820b96",
-    "titleHash": "a710aaeded2b"
-  },
-  {
-    "title": "The Airtable acquisition and what hypergrowth teaches you",
-    "titlePt": "A aquisição da Airtable e lições sobre hiper crescimento",
-    "url": "https://stories.thef1rstpancake.com/airtable-acquisition-and-what-hypergrowth-teaches-you/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Uma discussão no Hacker News analisa a aquisição da Airtable e o que o caso ensina sobre empresas de hiper crescimento no setor de tech. Para desenvolvedores, especialmente fundadores e líderes de produto, há lições úteis sobre escala, valuation e decisões estratégicas. Não é uma notícia exclusiva, mas uma análise de bastidor relevante. Vale ler para quem pensa em startups.",
-    "reasonEn": "A Hacker News discussion analyzes the Airtable acquisition and what the case teaches about hypergrowth companies in tech. For developers, especially founders and product leaders, there are useful lessons about scale, valuation, and strategic decisions. It is not exclusive news, but a relevant behind-the-scenes analysis. Worth reading for those thinking about startups.",
-    "score": 0.55,
-    "tags": [
-      "aquisição",
-      "startups",
-      "negócios"
-    ],
-    "img": "img/dde75b955e18.jpg",
-    "ts": 1786316556,
-    "addedTs": 1786333467,
-    "urlHash": "dde75b955e18",
-    "titleHash": "df3dda685003"
-  },
-  {
-    "title": "A startup is able to detect fires within minutes using satellites and AI",
-    "titlePt": "Startup detecta incêndios em minutos usando satélites e IA",
-    "url": "https://netbajura.blogspot.com/2026/08/ororatech-startup-that-detects.html",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Uma startup desenvolveu um sistema que usa imagens de satélite combinadas com inteligência artificial para identificar focos de incêndio em poucos minutos. A tecnologia promete resposta muito mais rápida do que métodos tradicionais de monitoramento. Pode ajudar órgãos ambientais, bombeiros e equipes de defesa civil a agir antes que o fogo se espalhe. Relevante para quem trabalha com sensoriamento remoto, clima ou gestão de desastres.",
-    "reasonEn": "A startup has developed a system that uses satellite images combined with AI to identify fire outbreaks within minutes. The technology promises much faster response than traditional monitoring methods. It can help environmental agencies, firefighters, and civil defense teams act before the fire spreads. Relevant for those working with remote sensing, climate, or disaster management.",
-    "score": 0.6,
-    "tags": [
-      "clima",
-      "satélite"
-    ],
-    "img": "img/beb78160d144.jpg",
-    "ts": 1786314956,
-    "addedTs": 1786323755,
-    "urlHash": "beb78160d144",
-    "titleHash": "b3f6786472e9"
-  },
-  {
-    "title": "Quoted $1M for AI code review. Built it for free",
-    "titlePt": "Cobraram US$ 1 milhão por revisão de código com IA. Ele fez de graça",
-    "url": "https://sagivo.com/blog/i-was-quoted-1m-to-get-ai-diff-review-tool",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um desenvolvedor recebeu uma proposta de quase um milhão de dólares para implementar revisão de código com inteligência artificial em sua empresa. Em vez de aceitar, ele construiu uma solução própria sem custo usando modelos públicos. O caso virou exemplo de como ferramentas abertas podem substituir serviços caros. Serve de inspiração para times que avaliam gastar fortunas em IA.",
-    "reasonEn": "A developer received a quote of nearly one million dollars to implement AI code review at his company. Instead of accepting, he built his own solution at no cost using public models. The case became an example of how open tools can replace expensive services. It serves as inspiration for teams evaluating spending fortunes on AI.",
-    "score": 0.5,
-    "tags": [
-      "código",
-      "custos"
-    ],
-    "img": "img/181c769f1148.jpg",
-    "ts": 1786313242,
-    "addedTs": 1786323755,
-    "urlHash": "181c769f1148",
-    "titleHash": "b86804fbc31e"
-  },
-  {
-    "title": "I got 30% better AI coding results",
-    "titlePt": "Consegui 30% melhores resultados codando com IA",
-    "url": "https://github.com/akasula09/CodeSlimmer",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um engenheiro compartilhou no Hacker News um conjunto de técnicas que melhoraram em 30% a qualidade do código gerado por inteligência artificial. As dicas envolvem ajustes de prompt, divisão de tarefas e uso de modelos específicos para revisão. O autor mostra que pequenas mudanças de fluxo podem ter impacto grande na produtividade. Útil para qualquer desenvolvedor que usa assistentes de código no dia a dia.",
-    "reasonEn": "An engineer shared on Hacker News a set of techniques that improved AI-generated code quality by 30 percent. The tips involve prompt tweaks, task splitting, and using specific models for review. The author shows that small workflow changes can have a big impact on productivity. Useful for any developer using code assistants daily.",
-    "score": 0.6,
-    "tags": [
-      "coding",
-      "dicas"
-    ],
-    "img": "img/55479c75afa6.jpg",
-    "ts": 1786312907,
-    "addedTs": 1786323755,
-    "urlHash": "55479c75afa6",
-    "titleHash": "279ce4116b31"
-  },
-  {
-    "title": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
-    "titlePt": "Assistente de IA invade site de academia no primeiro ciberataque autônomo da Austrália",
-    "url": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um assistente de inteligência artificial foi usado para invadir o site de uma rede de academias na Austrália sem intervenção humana direta. É considerado o primeiro caso registrado no país de um ataque cibernético totalmente autônomo. O episódio levanta alerta sobre agentes de IA sendo explorados por atacantes. Empresas que expõem sistemas automatizados na web precisam revisar suas defesas imediatamente.",
-    "reasonEn": "An AI assistant was used to hack the website of an Australian gym chain without direct human intervention. It is considered the first fully autonomous cyberattack recorded in the country. The episode raises alerts about AI agents being exploited by attackers. Companies exposing automated systems on the web must review their defenses immediately.",
-    "score": 0.8,
-    "tags": [
-      "segurança",
-      "ataque"
-    ],
-    "img": "img/6da57fbeeae3.jpg",
-    "ts": 1786312343,
-    "addedTs": 1786323755,
-    "urlHash": "6da57fbeeae3",
-    "titleHash": "03507143c82e"
-  },
-  {
-    "title": "Lawyers using \"AI\" could face sanctions including costs for fake citations",
-    "titlePt": "Advogados que usam IA podem ser punidos por citações falsas",
-    "url": "https://www.irishtimes.com/crime-law/2026/08/05/lawyers-could-face-sanctions-including-costs-if-ai-leads-to-fake-citations-in-court-cases/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Tribunais começaram a alertar que advogados podem receber sanções, incluindo multas, quando usam inteligência artificial para gerar citações jurídicas inexistentes. O problema é recorrente porque modelos de linguagem inventam precedentes e fontes com confiança. A medida busca responsabilizar profissionais pelo conteúdo entregue. Afeta diretamente escritórios de advocacia e qualquer profissional que use IA em textos oficiais.",
-    "reasonEn": "Courts have begun warning that lawyers may face sanctions, including fines, when they use AI to generate non-existent legal citations. The problem is recurring because language models invent precedents and sources with confidence. The measure aims to hold professionals accountable for the content delivered. It directly affects law firms and any professional using AI in official texts.",
-    "score": 0.7,
-    "tags": [
-      "jurídico",
-      "regulação"
-    ],
-    "img": "img/73e335633a09.jpg",
-    "ts": 1786311376,
-    "addedTs": 1786323755,
-    "urlHash": "73e335633a09",
-    "titleHash": "6c50cb5d61e3"
-  },
-  {
-    "title": "Show HN: Pacific Slate: a self-hosted, model-agnostic multi-agent AI assistant",
-    "titlePt": "Mostram no HN: Pacific Slate, assistente multiagente de IA auto-hospedado",
-    "url": "https://pacslate.com/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um desenvolvedor apresentou o Pacific Slate, um assistente de inteligência artificial que roda localmente e aceita vários modelos diferentes ao mesmo tempo. A proposta é dar mais controle e privacidade aos usuários, sem depender de um provedor único. Por ser auto-hospedado, exige conhecimento técnico para configurar e manter. Boa opção para empresas com requisitos rígidos de dados.",
-    "reasonEn": "A developer presented Pacific Slate, an AI assistant that runs locally and accepts multiple different models at the same time. The proposal is to give users more control and privacy, without depending on a single provider. Being self-hosted, it requires technical knowledge to set up and maintain. A good option for companies with strict data requirements.",
-    "score": 0.5,
-    "tags": [
-      "open-source",
-      "agentes"
-    ],
-    "img": "img/678e8b514993.jpg",
-    "ts": 1786309442,
-    "addedTs": 1786323755,
-    "urlHash": "678e8b514993",
-    "titleHash": "d066f18ae67d"
-  },
-  {
-    "title": "Show HN: Wardline, a Go proxy that auto-blocks compromised AI agents",
-    "titlePt": "Mostram no HN: Wardline, proxy em Go que bloqueia agentes de IA comprometidos",
-    "url": "https://github.com/kabirnarang39/wardline",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um desenvolvedor publicou o Wardline, um proxy escrito em Go que detecta e bloqueia automaticamente agentes de inteligência artificial comprometidos em redes corporativas. A ferramenta intercepta chamadas suspeitas e impede que dados saiam sem autorização. Foi criada em resposta ao aumento de incidentes com agentes rodando em ambientes de produção. Relevante para times de segurança que precisam proteger infraestruturas com IA.",
-    "reasonEn": "A developer released Wardline, a proxy written in Go that automatically detects and blocks compromised AI agents on corporate networks. The tool intercepts suspicious calls and prevents data from leaking without authorization. It was created in response to the rise of incidents with agents running in production environments. Relevant for security teams that need to protect AI infrastructure.",
-    "score": 0.6,
-    "tags": [
-      "segurança",
-      "devops"
-    ],
-    "img": "img/6e2c9a438bb4.jpg",
-    "ts": 1786309430,
-    "addedTs": 1786323755,
-    "urlHash": "6e2c9a438bb4",
-    "titleHash": "458ed8afa9fb"
-  },
-  {
-    "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-    "titlePt": "Hedge fund em crise investe US$ 400 milhões em startup de chips Source Foundry",
-    "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "O fundo hedge Situational Awareness, sob pressão por maus resultados, anunciou aporte de 400 milhões de dólares na Source Foundry, uma startup de semicondutores. O movimento mostra que mesmo fundos em crise continuam apostando em infraestrutura de inteligência artificial, que demanda muitos chips especializados. O investimento sinaliza confiança no longo prazo do setor. Importante para acompanhar a cadeia de suprimentos de hardware de IA.",
-    "reasonEn": "The hedge fund Situational Awareness, under pressure from poor results, announced a 400 million dollar investment in Source Foundry, a semiconductor startup. The move shows that even funds in crisis continue betting on AI infrastructure, which demands many specialized chips. The investment signals long-term confidence in the sector. Important for tracking the AI hardware supply chain.",
-    "score": 0.7,
-    "tags": [
-      "investimento",
-      "chips"
-    ],
-    "img": "img/ffba219f0a05.jpg",
-    "ts": 1786307717,
-    "addedTs": 1786323755,
-    "urlHash": "ffba219f0a05",
-    "titleHash": "49f1a28617d8"
-  },
-  {
-    "title": "Anthropic is turning Claude Code’s auto mode on by default",
-    "titlePt": "Anthropic ativa modo automático do Claude Code por padrão",
-    "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A Anthropic anunciou que vai ligar por padrão o modo automático do Claude Code, seu assistente para programação. A mudança significa que novos usuários não precisarão mais ativar a função manualmente. O modo automático permite que o agente execute tarefas de coding sem confirmação a cada passo. Desenvolvedores devem revisar suas configurações de segurança antes da próxima atualização.",
-    "reasonEn": "Anthropic announced it will turn on by default the auto mode of Claude Code, its programming assistant. The change means new users will no longer need to enable the function manually. Auto mode allows the agent to execute coding tasks without confirmation at each step. Developers should review their safety settings before the next update.",
-    "score": 0.8,
-    "tags": [
-      "anthropic",
-      "coding"
-    ],
-    "img": "img/79a8b9128fba.jpg",
-    "ts": 1786303232,
-    "addedTs": 1786323755,
-    "urlHash": "79a8b9128fba",
-    "titleHash": "d00d714fe3bd"
-  },
-  {
-    "title": "The AI safety test is becoming a safety risk",
-    "titlePt": "O teste de segurança de IA está virando risco de segurança",
-    "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "Um artigo do TechCrunch argumenta que os próprios testes usados para avaliar segurança em inteligência artificial estão se tornando vetores de risco. Como muitas avaliações publicam perguntas e respostas, atacantes conseguem treinar modelos para passar nelas sem serem realmente seguros. O problema cria uma falsa sensação de proteção para empresas e governos. O texto propõe repensar como auditorias de IA são conduzidas.",
-    "reasonEn": "A TechCrunch article argues that the very tests used to evaluate AI safety are becoming vectors of risk. Because many evaluations publish questions and answers, attackers can train models to pass them without actually being safe. The problem creates a false sense of protection for companies and governments. The text proposes rethinking how AI audits are conducted.",
-    "score": 0.7,
-    "tags": [
-      "segurança",
-      "avaliação"
-    ],
-    "img": "img/256796e8828b.jpg",
-    "ts": 1786285800,
-    "addedTs": 1786323755,
-    "urlHash": "256796e8828b",
-    "titleHash": "d78e1937e1b4"
-  },
-  {
-    "title": "AI detectors are creating a new era of distrust",
-    "titlePt": "Detectores de IA estão criando uma nova era de desconfiança",
-    "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "O Verge publicou uma análise sobre como ferramentas que tentam identificar textos gerados por inteligência artificial estão minando a confiança em ambientes acadêmicos e profissionais. Os detectores erram com frequência, acusando humanos de serem robôs e liberando textos claramente artificiais. O resultado é que ninguém sabe mais em quem confiar. Professores, alunos, editores e recrutadores são os mais afetados.",
-    "reasonEn": "The Verge published an analysis of how tools that try to identify AI-generated texts are undermining trust in academic and professional environments. Detectors frequently make mistakes, accusing humans of being bots and freeing clearly artificial texts. The result is that no one knows who to trust anymore. Teachers, students, editors, and recruiters are the most affected.",
-    "score": 0.6,
-    "tags": [
-      "educação",
-      "detecção"
-    ],
-    "img": "img/5ddd2738c431.jpg",
-    "ts": 1786130597,
-    "addedTs": 1786323755,
-    "urlHash": "5ddd2738c431",
-    "titleHash": "dfd8ed4f019a"
   }
 ]
