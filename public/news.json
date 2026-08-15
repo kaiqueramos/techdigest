@@ -1,5 +1,93 @@
 [
   {
+    "title": "Why AI agents need verified identity",
+    "titlePt": "Por que agentes de IA precisam de identidade verificada",
+    "url": "https://chrisbergeron.com/2026/08/11/why_ai_agents_need_verified_identity/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo discute a crescente necessidade de agentes de IA terem identidades verificadas para operar com segurança na internet. À medida que bots autônomos começam a comprar, contratar e negociar em nome de pessoas, fica difícil distinguir agentes legítimos de maliciosos. A proposta envolve criptografia e certificados de identidade para garantir confiança em interações automatizadas.",
+    "reasonEn": "The article discusses the growing need for AI agents to have verified identities to operate safely online. As autonomous bots start buying, hiring, and negotiating on behalf of people, it's hard to tell legitimate agents from malicious ones. The proposal involves cryptography and identity certificates to ensure trust in automated interactions.",
+    "score": 0.6,
+    "tags": [
+      "agentes",
+      "segurança",
+      "identidade"
+    ],
+    "img": "img/0d884bae3d38.jpg",
+    "ts": 1786830288,
+    "addedTs": 1786831905,
+    "urlHash": "0d884bae3d38",
+    "titleHash": "768e34a6a8ff"
+  },
+  {
+    "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+    "titlePt": "Mulher afirma que padrasto usou Grok para transformar foto de infância em imagem explícita",
+    "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "Uma mulher acusou publicamente seu padrasto de usar o Grok, IA da xAI, para transformar uma foto de infância dela em conteúdo sexual explícito. O caso reacende o alerta sobre a facilidade com que ferramentas de IA podem ser usadas para abuso e produção de material ilegal envolvendo menores. A história evidencia a necessidade urgente de barreiras técnicas e regulatórias mais rígidas em modelos generativos.",
+    "reasonEn": "A woman publicly accused her stepfather of using xAI's Grok to turn a childhood photo of her into explicit sexual imagery. The case reignites alarms about how easily AI tools can be weaponized for abuse and illegal content involving minors. It highlights the urgent need for stricter technical and regulatory guardrails in generative models.",
+    "score": 0.85,
+    "tags": [
+      "grok",
+      "segurança",
+      "regulação"
+    ],
+    "img": "img/47c8acd498f0.jpg",
+    "ts": 1786829359,
+    "addedTs": 1786831905,
+    "urlHash": "47c8acd498f0",
+    "titleHash": "01d770b0aa5b"
+  },
+  {
+    "title": "The AI Slop Backlash Is Having an Impact",
+    "titlePt": "A reação contra o 'lixo' de IA está surtindo efeito",
+    "url": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A onda de rejeição ao conteúdo de baixa qualidade gerado por IA, apelidada de 'AI slop', começa a gerar resultados concretos em plataformas e empresas. Criadores, usuários e anunciantes estão ficando mais seletivos e. A tendência aponta para uma exigência maior de autenticidade e curadoria humana na internet.",
+    "reasonEn": "The backlash against low-quality AI-generated content, dubbed 'AI slop', is starting to produce real effects on platforms and companies. Creators, users, and advertisers are getting more selective and openly criticizing poor generative output. The trend points to a growing demand for authenticity and human curation on the internet.",
+    "score": 0.6,
+    "tags": [
+      "conteúdo",
+      "qualidade",
+      "tendências"
+    ],
+    "img": "img/1f5a9af4ef30.jpg",
+    "ts": 1786829251,
+    "addedTs": 1786831905,
+    "urlHash": "1f5a9af4ef30",
+    "titleHash": "336cd1896307"
+  },
+  {
+    "title": "The unlikely opera star: How AI helped a nonspeaking performer find his voice",
+    "titlePt": "A improvável estrela de ópera: como IA ajudou um performer sem fala a 'cantar'",
+    "url": "https://www.scientificamerican.com/podcast/episode/a-nonspeaking-person-is-the-star-of-this-opera-ai-made-that-possible/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um performer que não fala encontrou na IA uma forma de se expressar em ópera, traduzindo pequenos gestos em notas geradas por computador em tempo real. A tecnologia combina sensores de movimento com síntese vocal para criar performances emocionantes. A história mostra um lado positivo e emocionante da IA aplicada à arte e à acessibilidade.",
+    "reasonEn": "A performer who cannot speak used AI to express himself in opera, translating small gestures into computer-generated notes in real time. The technology combines motion sensors with vocal synthesis to create moving performances. The story shows a positive, emotional side of AI applied to art and accessibility.",
+    "score": 0.5,
+    "tags": [
+      "acessibilidade",
+      "arte",
+      "aplicações"
+    ],
+    "img": "img/cd36b7d00429.jpg",
+    "ts": 1786827965,
+    "addedTs": 1786831905,
+    "urlHash": "cd36b7d00429",
+    "titleHash": "e148635ad4a7"
+  },
+  {
     "title": "Meta will train its AI on Newsmax, a far-right media outlet",
     "titlePt": "Meta vai treinar sua IA com conteúdo da Newsmax, veículo de extrema direita",
     "url": "https://popular.info/p/meta-will-train-its-ai-on-far-right",
@@ -10749,92 +10837,5 @@
     "addedTs": 1786400845,
     "urlHash": "c46afca0f01a",
     "titleHash": "b7a360426eaf"
-  },
-  {
-    "title": "The Great AI Illusion: Why Your Demo Works, but Your Enterprise Agent Fails",
-    "titlePt": "A grande ilusão da IA: por que sua demo funciona, mas o agente corporativo falha",
-    "url": "https://allcloud.io/blog/the-great-ai-illusion-why-your-demo-works-but-your-enterprise-agent-fails/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo explica por que tantas demos de agentes de IA impressionam, mas falham quando implantadas em ambientes corporativos reais. A diferença está em dados sujos, sistemas legados, permissões e orquestração de processos. É leitura essencial para qualquer equipe que avalie comprar ou construir agentes para empresas. Ajuda a evitar promessas irreais e a entender o que realmente importa em produção. Vale para líderes técnicos e tomadores de decisão.",
-    "reasonEn": "The article explains why so many AI agent demos impress but fail when deployed in real enterprise environments. The gap lies in dirty data, legacy systems, permissions, and process orchestration. It is essential reading for any team evaluating whether to buy or build agents for enterprises. It helps avoid unrealistic promises and understand what truly matters in production. It is worth it for technical leaders and decision makers.",
-    "score": 0.7,
-    "tags": [
-      "agentes",
-      "empresa",
-      "análise"
-    ],
-    "img": "img/34af4f44d5a1.jpg",
-    "ts": 1786395729,
-    "addedTs": 1786400845,
-    "urlHash": "34af4f44d5a1",
-    "titleHash": "bd9e6aad5950"
-  },
-  {
-    "title": "New way of QA testing AI-written code",
-    "titlePt": "Nova abordagem para QA de código gerado por IA",
-    "url": "https://abloh.dev",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Foi apresentada uma nova metodologia para testar e validar código escrito por inteligência artificial. A ideia é combinar checagens estáticas, execução em sandbox e revisão humana focada para reduzir bugs sutis. É altamente relevante para desenvolvedores que já usam Copilot, Cursor ou similares no dia a dia. Pode melhorar a confiança em merges automatizados e acelerar revisões. Mostra que o ecossistema está amadurecendo para tratar código de IA como código de verdade.",
-    "reasonEn": "A new methodology was presented to test and validate code written by AI. The idea combines static checks, sandbox execution, and focused human review to reduce subtle bugs. It is highly relevant for developers already using Copilot, Cursor, or similar tools daily. It can improve confidence in automated merges and speed up reviews. It shows the ecosystem is maturing to treat AI code as real code.",
-    "score": 0.7,
-    "tags": [
-      "qa",
-      "código",
-      "ferramenta"
-    ],
-    "img": "img/8794b53a3772.jpg",
-    "ts": 1786395557,
-    "addedTs": 1786400845,
-    "urlHash": "8794b53a3772",
-    "titleHash": "52a4cb3dfbb9"
-  },
-  {
-    "title": "Premium seats are coming to ChatGPT Business",
-    "titlePt": "ChatGPT Business ganha plano premium",
-    "url": "https://openai.com/index/premium-seats-chatgpt-business",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A OpenAI está lançando uma camada premium para o ChatGPT Business com assentos especiais e recursos avançados. Isso afeta equipes e empresas que usam ChatGPT para trabalho. Sinaliza que a OpenAI quer cobrar mais de empresas por recursos superiores.",
-    "reasonEn": "OpenAI is launching a premium tier for ChatGPT Business with special seats and advanced features. This affects teams and companies using ChatGPT for work. It signals OpenAI wants to charge enterprises more for top-tier features.",
-    "score": 0.5,
-    "tags": [
-      "openai",
-      "negócios",
-      "preço"
-    ],
-    "img": "img/2a5c0cad5d8b.jpg",
-    "ts": 1786320000,
-    "addedTs": 1786400845,
-    "urlHash": "2a5c0cad5d8b",
-    "titleHash": "251a1f237bdb"
-  },
-  {
-    "title": "The death of AI workflow builders",
-    "titlePt": "A morte dos construtores de fluxos com IA",
-    "url": "https://www.adriankrebs.ch/blog/death-of-ai-workflow-builders/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo discute como ferramentas de construção de fluxos de trabalho com IA estão perdendo espaço no mercado. Aponta que agentes mais autônomos e modelos maiores tornam essas plataformas intermediárias menos úteis. É uma análise relevante para quem aposta nesse segmento. Desenvolvedores e fundadores de startups devem prestar atenção.",
-    "reasonEn": "The article discusses how AI workflow builder tools are losing ground in the market. It argues that more autonomous agents and larger models make these intermediary platforms less useful. It is a relevant analysis for those betting on this segment. Developers and startup founders should pay attention.",
-    "score": 0.5,
-    "tags": [
-      "agentes",
-      "mercado"
-    ],
-    "img": "img/ffdd4b487c54.jpg",
-    "ts": 1786392783,
-    "addedTs": 1786393954,
-    "urlHash": "ffdd4b487c54",
-    "titleHash": "0a2f0678c27e"
   }
 ]
