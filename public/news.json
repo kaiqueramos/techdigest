@@ -1,5 +1,68 @@
 [
   {
+    "title": "Artificial Ignorance: The Political Falsehoods of Leading AIs",
+    "titlePt": "Estudo mostra que IAs líderes espalham falsehoods políticos",
+    "url": "https://www.justfacts.com/news_artificial_ignorance_political_falsehoods_leading_ais",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma análise chamada Artificial Ignorance testou grandes modelos de IA e concluiu que eles reproduzem desinformação política de forma convincente. Os autores pedem auditorias obrigatórias antes de liberar chatbots em contextos sensíveis. Para desenvolvedores, é um sinal de alerta sobre os riscos de produtos LLM em eleições e debates públicos. Empresas que vendem chatbots corporativos também são impactadas.",
+    "reasonEn": "An analysis called Artificial Ignorance tested major AI models and concluded they reproduce political disinformation convincingly. The authors call for mandatory audits before releasing chatbots in sensitive contexts. For developers it flags risks of LLM products in election and public debate settings. Vendors selling enterprise chatbots are also affected.",
+    "score": 0.7,
+    "tags": [
+      "segurança",
+      "regulação"
+    ],
+    "img": "img/a647e6942ec3.jpg",
+    "ts": 1786778035,
+    "addedTs": 1786781806,
+    "urlHash": "a647e6942ec3",
+    "titleHash": "6ea61318acf0"
+  },
+  {
+    "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+    "titlePt": "OpenAI envia carta ao governador do Texas sobre infraestrutura de IA",
+    "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "A OpenAI publicou uma carta aberta ao governador Greg Abbott defendendo políticas de infraestrutura para IA no Texas. A empresa pede expansão de energia, data centers e incentivos fiscais para se manter competitiva. O movimento mostra como a OpenAI busca alinhamento com governos estaduais nos Estados Unidos. Desenvolvedores e empresas de cloud podem sentir efeitos regulatórios em breve.",
+    "reasonEn": "OpenAI published an open letter to Governor Greg Abbott backing AI infrastructure policies in Texas. The company asks for expanded energy, data centers and tax incentives to stay competitive. The move shows how OpenAI courts US state governments. Developers and cloud firms may feel regulatory effects soon.",
+    "score": 0.65,
+    "tags": [
+      "regulação",
+      "infraestrutura"
+    ],
+    "img": "img/3d196224ab27.jpg",
+    "ts": 1786370400,
+    "addedTs": 1786781806,
+    "urlHash": "3d196224ab27",
+    "titleHash": "510a8bf527e9"
+  },
+  {
+    "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+    "titlePt": "Model ML diz rodar tarefas financeiras com novo modelo GPT-5.6 Sol",
+    "url": "https://openai.com/index/model-ml",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "A empresa Model ML afirma ter acelerado rotinas financeiras usando um modelo chamado GPT-5.6 Sol, apresentado como focado em raciocínio numérico. O case study destaca redução de tempo em análises e relatórios para clientes corporativos. A novidade interessa a equipes de fintech e consultorias. Os números e a identidade do modelo merecem checagem independente.",
+    "reasonEn": "Model ML says it sped up financial workflows using a model called GPT-5.6 Sol, billed as focused on numeric reasoning. The case study highlights time saved on analyses and reports for corporate clients. Relevant to fintech teams and consultancies. The numbers and the model's identity deserve independent checks.",
+    "score": 0.5,
+    "tags": [
+      "finanças",
+      "case study"
+    ],
+    "img": "img/95f74aeac90a.jpg",
+    "ts": 1786363200,
+    "addedTs": 1786781806,
+    "urlHash": "95f74aeac90a",
+    "titleHash": "e9e75b0d3e67"
+  },
+  {
     "title": "Google Opens the Gates of AI Slop Hell",
     "titlePt": "Google abre as portas do inferno da enxurrada de conteúdo de IA",
     "url": "https://gizmodo.com/google-opens-the-gates-of-ai-slop-hell-2000798888",
@@ -10757,71 +10820,5 @@
     "addedTs": 1786380218,
     "urlHash": "dbbe4caca766",
     "titleHash": "c657db666381"
-  },
-  {
-    "title": "China releases powerful DNA-screening AI tool free to help fight rare diseases",
-    "titlePt": "China lança ferramenta de IA para triagem de DNA contra doenças raras",
-    "url": "https://www.scmp.com/news/china/science/article/3363246/china-releases-powerful-dna-screening-ai-tool-free-help-fight-rare-diseases",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A China disponibilizou gratuitamente uma poderosa ferramenta de inteligência artificial voltada à triagem de DNA para combate a doenças raras. O software pode acelerar diagnósticos genéticos em hospitais e laboratórios de todo o mundo. É um movimento estratégico de soft power científico do país asiático. A iniciativa pode democratizar o acesso a análises genéticas avançadas em países em desenvolvimento.",
-    "reasonEn": "China has made freely available a powerful artificial intelligence tool aimed at DNA screening to fight rare diseases. The software can accelerate genetic diagnostics in hospitals and laboratories worldwide. It is a strategic soft power move from the Asian country. The initiative could democratize access to advanced genetic analyses in developing countries.",
-    "score": 0.7,
-    "tags": [
-      "china",
-      "saúde",
-      "genética"
-    ],
-    "img": "img/f0cb6ade0f5c.jpg",
-    "ts": 1786372238,
-    "addedTs": 1786373459,
-    "urlHash": "f0cb6ade0f5c",
-    "titleHash": "14ed64751d21"
-  },
-  {
-    "title": "Achieving Local AI Inference with Go 1.27's SIMD Package",
-    "titlePt": "Go 1.27 alcança inferência local de IA com pacote SIMD",
-    "url": "https://blog.devgenius.io/achieving-local-ai-inference-with-go-1-27s-simd-package-e8875f567e35",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A versão 1.27 da linguagem Go trará um pacote SIMD que viabiliza inferência de inteligência artificial local com bom desempenho. Desenvolvedores Go poderão rodar modelos diretamente em dispositivos sem depender de serviços na nuvem. É uma evolução técnica relevante para a comunidade da linguagem. Pode abrir novas possibilidades para aplicações embarcadas com IA.",
-    "reasonEn": "Go version 1.27 will bring a SIMD package that enables performant local artificial intelligence inference. Go developers will be able to run models directly on devices without depending on cloud services. It is a relevant technical evolution for the language community. It could open new possibilities for embedded AI applications.",
-    "score": 0.5,
-    "tags": [
-      "go",
-      "inferência",
-      "desenvolvedores"
-    ],
-    "img": "img/dd93c6655524.jpg",
-    "ts": 1786371743,
-    "addedTs": 1786373459,
-    "urlHash": "dd93c6655524",
-    "titleHash": "782d80efa11f"
-  },
-  {
-    "title": "Why can't Chinese AI companies raise more money?",
-    "titlePt": "Por que empresas chinesas de IA não conseguem levantar mais dinheiro?",
-    "url": "https://www.the-substrate.net/p/why-cant-chinese-ai-companies-raise",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Análise publicada no Hacker News sobre as dificuldades das startups chinesas de inteligência artificial em captar novos investimentos. O setor enfrenta pressões geopolíticas, saturação de mercado e desconfiança de investidores internacionais. Mesmo empresas líderes locais estão sofrendo com a escassez de capital. A análise é importante para entender a dinâmica global do setor.",
-    "reasonEn": "Analysis published on Hacker News about the difficulties of Chinese AI startups in raising new investments. The sector faces geopolitical pressures, market saturation, and distrust from international investors. Even local leading companies are suffering from capital scarcity. The analysis is important to understand the global dynamics of the sector.",
-    "score": 0.55,
-    "tags": [
-      "china",
-      "investimentos",
-      "análise"
-    ],
-    "img": "img/f60b08939c1e.jpg",
-    "ts": 1786371651,
-    "addedTs": 1786373459,
-    "urlHash": "f60b08939c1e",
-    "titleHash": "7020845e643b"
   }
 ]
