@@ -1,5 +1,313 @@
 [
   {
+    "title": "Cloudflare's AI Psychosis",
+    "titlePt": "A psicose de IA da Cloudflare",
+    "url": "https://opensauce.it/cloudflare-ai-psychosis/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Cloudflare publicou um texto chamado AI Psychosis sobre os efeitos negativos do conteúdo gerado por IA na web. O material discute como o aumento de material sintético está degradando a qualidade da informação online. Para desenvolvedores e usuários, isso significa mais atenção à verificação de fontes e novos desafios de moderação. A empresa sugere que a indústria precisa de melhores ferramentas para filtrar conteúdo automatizado.",
+    "reasonEn": "Cloudflare published a piece called AI Psychosis about the negative effects of AI-generated content on the web. The material discusses how the surge of synthetic material is degrading the quality of online information. For developers and users, this means more attention to source verification and new moderation challenges. The company suggests the industry needs better tools to filter automated content.",
+    "score": 0.6,
+    "tags": [
+      "cloudflare",
+      "conteúdo",
+      "moderação"
+    ],
+    "img": "img/e56d0517ce26.jpg",
+    "ts": 1786802920,
+    "addedTs": 1786803206,
+    "urlHash": "e56d0517ce26",
+    "titleHash": "656c2df12059"
+  },
+  {
+    "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
+    "titlePt": "Yadda 3.0.0: BDD na era dos agentes de IA",
+    "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Yadda, framework de Behavior-Driven Development, lançou a versão 3.0.0 adaptada para a era dos agentes de IA. A nova versão facilita a escrita de cenários de teste que agentes automatizados possam executar e validar. Desenvolvedores que usam BDD podem atualizar suas pipelines para incluir validações conduzidas por IA. A mudança reflete a tendência de integrar IA nos processos tradicionais de qualidade de software.",
+    "reasonEn": "Yadda, a Behavior-Driven Development framework, released version 3.0.0 adapted for the era of AI agents. The new version makes it easier to write test scenarios that automated agents can execute and validate. Developers using BDD can update their pipelines to include AI-driven validations. The change reflects the trend of integrating AI into traditional software quality processes.",
+    "score": 0.5,
+    "tags": [
+      "testes",
+      "framework",
+      "lançamento"
+    ],
+    "img": "img/307b639b5b71.jpg",
+    "ts": 1786801426,
+    "addedTs": 1786803206,
+    "urlHash": "307b639b5b71",
+    "titleHash": "a8ed4ffdac05"
+  },
+  {
+    "title": "Adversarial Creation and Detection of AI-Generated Social Bot Content",
+    "titlePt": "Criação e detecção adversarial de bots sociais com IA",
+    "url": "https://arxiv.org/abs/2606.07219",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Pesquisadores publicaram um estudo sobre como criar e detectar conteúdo de bots sociais gerado por IA de forma adversarial. O trabalho apresenta técnicas para gerar posts convincentes e métodos para identificá-los. Plataformas de redes sociais e moderadores se beneficiam dessas descobertas para combater desinformação automatizada. O estudo contribui para o debate sobre integridade digital em tempos de conteúdo sintético.",
+    "reasonEn": "Researchers published a study on adversarially creating and detecting AI-generated social bot content. The work presents techniques to generate convincing posts and methods to identify them. Social media platforms and moderators benefit from these findings to combat automated disinformation. The study contributes to the debate on digital integrity in times of synthetic content.",
+    "score": 0.5,
+    "tags": [
+      "pesquisa",
+      "bots",
+      "moderação"
+    ],
+    "img": "img/4c61b66a537a.jpg",
+    "ts": 1786801247,
+    "addedTs": 1786803206,
+    "urlHash": "4c61b66a537a",
+    "titleHash": "410e7cb5f21d"
+  },
+  {
+    "title": "VictoriaMetrics: AI Policy",
+    "titlePt": "VictoriaMetrics publica sua política oficial de IA",
+    "url": "https://docs.victoriametrics.com/victoriametrics/contributing/index.html",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A VictoriaMetrics, conhecida empresa de monitoramento, publicou sua política oficial sobre uso de inteligência artificial. O documento define como a empresa lida com IA em produtos, suporte e comunicação interna. Usuários da plataforma e equipes de TI precisam conhecer essas regras para entender limites e garantias. A movimentação mostra maturidade do setor ao formalizar o tratamento de IA em empresas de infraestrutura.",
+    "reasonEn": "VictoriaMetrics, a well-known monitoring company, published its official policy on the use of artificial intelligence. The document defines how the company handles AI in products, support, and internal communication. Platform users and IT teams need to know these rules to understand limits and guarantees. The move shows sector maturity in formalizing AI treatment at infrastructure companies.",
+    "score": 0.5,
+    "tags": [
+      "política",
+      "infraestrutura",
+      "monitoramento"
+    ],
+    "img": "img/be83fae20290.jpg",
+    "ts": 1786800971,
+    "addedTs": 1786803206,
+    "urlHash": "be83fae20290",
+    "titleHash": "76c31e4c7c5c"
+  },
+  {
+    "title": "GLM-5.3 – The Official Desktop Auditor for Z.AI's Cyber-Engine",
+    "titlePt": "GLM-5.3 – auditor oficial de desktop do Cyber-Engine da Z.AI",
+    "url": "https://github.com/ZAI-GLM-5-3/glm-5.3",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Z.AI lançou o GLM-5.3, descrito como auditor oficial de desktop para seu Cyber-Engine. A ferramenta promete ajudar desenvolvedores a auditar e otimizar sistemas que usam os modelos da Z.AI. O lançamento é voltado para equipes que precisam de visibilidade sobre o comportamento de agentes de IA em produção. Profissionais de segurança e MLOps podem se interessar pela novidade.",
+    "reasonEn": "Z.AI launched GLM-5.3, described as the official desktop auditor for its Cyber-Engine. The tool promises to help developers audit and optimize systems using Z.AI models. The launch targets teams needing visibility into the behavior of AI agents in production. Security and MLOps professionals may be interested in the news.",
+    "score": 0.5,
+    "tags": [
+      "auditoria",
+      "mlops",
+      "lançamento"
+    ],
+    "img": "img/b9056099727e.jpg",
+    "ts": 1786800786,
+    "addedTs": 1786803206,
+    "urlHash": "b9056099727e",
+    "titleHash": "a91b6a6c1fdd"
+  },
+  {
+    "title": "AI Software Development – What Does the Data Say?",
+    "titlePt": "Desenvolvimento de software com IA – o que os dados dizem?",
+    "url": "https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um novo relatório reúne dados sobre o uso real de IA no desenvolvimento de software. O estudo mostra métricas de produtividade, tipos de tarefas em que IA ajuda e gargalos onde a ferramenta ainda falha. Engenheiros e líderes de engenharia podem usar os números para decidir sobre adotar ou expandir IA em seus times. O material é útil para quem precisa justificar investimentos em IA com evidências concretas.",
+    "reasonEn": "A new report gathers data on the real use of AI in software development. The study shows productivity metrics, task types where AI helps, and bottlenecks where the tool still fails. Engineers and engineering leaders can use the numbers to decide on adopting or expanding AI in their teams. The material is useful for anyone needing to justify AI investments with concrete evidence.",
+    "score": 0.7,
+    "tags": [
+      "dados",
+      "engenharia",
+      "produtividade"
+    ],
+    "img": "img/6f85e40e70bd.jpg",
+    "ts": 1786800568,
+    "addedTs": 1786803206,
+    "urlHash": "6f85e40e70bd",
+    "titleHash": "14aabf1b41c8"
+  },
+  {
+    "title": "DeepSeek V4 Flash at 278 tok/s, full precision, no quantization",
+    "titlePt": "DeepSeek V4 Flash: 278 tok/s em precisão total, sem quantização",
+    "url": "https://runinfra.ai/inference-api/deepseek-v4-flash",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A DeepSeek anunciou o V4 Flash, novo modelo que atinge 278 tokens por segundo em precisão total, sem quantização. O desempenho coloca o modelo entre os mais rápidos do mercado open-source. Desenvolvedores que precisam de respostas rápidas sem comprometer qualidade devem testar a novidade. A versão promete tornar aplicações em tempo real mais acessíveis fora dos grandes provedores de API.",
+    "reasonEn": "DeepSeek announced V4 Flash, a new model that hits 278 tokens per second at full precision with no quantization. The performance places the model among the fastest in the open-source market. Developers needing fast responses without compromising quality should test the new release. The version promises to make real-time applications more accessible outside the big API providers.",
+    "score": 0.8,
+    "tags": [
+      "modelo",
+      "deepseek",
+      "open-source"
+    ],
+    "img": "img/053fce0b7fc0.jpg",
+    "ts": 1786800404,
+    "addedTs": 1786803206,
+    "urlHash": "053fce0b7fc0",
+    "titleHash": "f85c41538061"
+  },
+  {
+    "title": "S.A.T.U.R.D.A.Y: serf-hosted speech to text AI assistant",
+    "titlePt": "S.A.T.U.R.D.A.Y: assistente de fala-para-texto auto-hospedado",
+    "url": "https://github.com/GRVYDEV/S.A.T.U.R.D.A.Y",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O projeto S.A.T.U.R.D.A.Y oferece um assistente de IA que converte fala em texto e roda hospedado pelo próprio usuário. A proposta é dar controle total sobre os dados sem depender de serviços de nuvem externos. Profissionais com informações sensíveis e desenvolvedores preocupados com privacidade podem se beneficiar. O sistema serve como alternativa local a APIs comerciais como Whisper.",
+    "reasonEn": "The S.A.T.U.R.D.A.Y project offers an AI assistant that converts speech to text and runs self-hosted by the user. The proposal is to give full control over data without depending on external cloud services. Professionals handling sensitive information and privacy-conscious developers can benefit. The system serves as a local alternative to commercial APIs like Whisper.",
+    "score": 0.5,
+    "tags": [
+      "privacidade",
+      "áudio",
+      "auto-hospedagem"
+    ],
+    "img": "img/cf7d015bd929.jpg",
+    "ts": 1786800313,
+    "addedTs": 1786803206,
+    "urlHash": "cf7d015bd929",
+    "titleHash": "9f9589ae067e"
+  },
+  {
+    "title": "Show HN: I built a spatial node canvas to fix LLM context drift",
+    "titlePt": "Canvas espacial de nós para corrigir o desvio de contexto em LLMs",
+    "url": "https://treequence.ai",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um desenvolvedor criou um canvas espacial de nós para combater o desvio de contexto em grandes modelos de linguagem. A ferramenta permite organizar informações de forma visual para alimentar agentes com contexto relevante. O objetivo é reduzir erros causados por LLMs perdendo o fio em sessões longas. Usuários de chatbots e construtores de agentes podem achar a abordagem útil para manter coerência.",
+    "reasonEn": "A developer created a spatial node canvas to combat context drift in large language models. The tool allows organizing information visually to feed agents with relevant context. The goal is to reduce errors caused by LLMs losing track in long sessions. Chatbot users and agent builders may find the approach useful for maintaining coherence.",
+    "score": 0.5,
+    "tags": [
+      "llm",
+      "contexto",
+      "show hn"
+    ],
+    "img": "img/331bfc6c933f.jpg",
+    "ts": 1786800283,
+    "addedTs": 1786803206,
+    "urlHash": "331bfc6c933f",
+    "titleHash": "b1b2f302c972"
+  },
+  {
+    "title": "1Password's new benchmark teaches AI agents how not to get scammed",
+    "titlePt": "1Password cria benchmark para ensinar agentes de IA a não caírem em golpes",
+    "url": "https://1password.github.io/SCAM/#",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O 1Password criou um novo benchmark para ensinar agentes de IA a evitar golpes digitais. A iniciativa mede a capacidade dos modelos de identificar tentativas de phishing e fraudes automatizadas. Empresas que usam IA para automatizar tarefas precisam se preocupar com segurança contra manipulação. O benchmark é mais um sinal de que a segurança de agentes virou prioridade do mercado.",
+    "reasonEn": "1Password created a new benchmark to teach AI agents how to avoid digital scams. The initiative measures models' ability to identify phishing attempts and automated fraud. Companies using AI to automate tasks need to worry about security against manipulation. The benchmark is another sign that agent security has become a market priority.",
+    "score": 0.7,
+    "tags": [
+      "segurança",
+      "benchmark",
+      "agentes"
+    ],
+    "img": "img/739fb892a6fe.jpg",
+    "ts": 1786800046,
+    "addedTs": 1786803206,
+    "urlHash": "739fb892a6fe",
+    "titleHash": "7f6b5827b85d"
+  },
+  {
+    "title": "AI assistance is not authorship",
+    "titlePt": "Assistência de IA não é autoria",
+    "url": "https://twitter.com/Seltaa_/status/2088353576259314024",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um artigo de opinião argumenta que o uso de IA como ferramenta não transforma o usuário em coautor da máquina. O texto defende que assistência automatizada deve ser tratada de forma diferente de autoria humana. Escritores, editores e profissionais criativos precisam entender essa distinção para fins legais e de atribuição. O debate importa para políticas editoriais e direitos autorais.",
+    "reasonEn": "An opinion article argues that using AI as a tool does not turn the user into a co-author with the machine. The text defends that automated assistance should be treated differently from human authorship. Writers, editors, and creative professionals need to understand this distinction for legal and attribution purposes. The debate matters for publishing policies and copyright.",
+    "score": 0.6,
+    "tags": [
+      "direitos autorais",
+      "autoria",
+      "opinião"
+    ],
+    "img": "img/bc8d67fcd7f6.jpg",
+    "ts": 1786799859,
+    "addedTs": 1786803206,
+    "urlHash": "bc8d67fcd7f6",
+    "titleHash": "7e005fe6ce2d"
+  },
+  {
+    "title": "NASA processor is performing 500x faster than rad-hardened chips currently used",
+    "titlePt": "Processador da NASA é 500x mais rápido que chips espaciais atuais",
+    "url": "https://spacedaily.com/t-nasa-hpsc-processor-500-times-faster-spaceflight-ai/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um novo processador criado pela NASA está performando 500 vezes mais rápido que os chips reforçados contra radiação usados atualmente no espaço. O avanço pode revolucionar sistemas embarcados em missões espaciais e satélites. Engenheiros aeroespaciais e pesquisadores de hardware acompanham o feito com grande interesse. A descoberta também pode ter implicações em computação de alto desempenho em ambientes extremos.",
+    "reasonEn": "A new processor created by NASA is performing 500 times faster than the radiation-hardened chips currently used in space. The breakthrough could revolutionize embedded systems in space missions and satellites. Aerospace engineers and hardware researchers are following the achievement with great interest. The discovery may also have implications for high-performance computing in extreme environments.",
+    "score": 0.5,
+    "tags": [
+      "hardware",
+      "nasa",
+      "computação"
+    ],
+    "img": "img/03cd100e712e.jpg",
+    "ts": 1786799748,
+    "addedTs": 1786803206,
+    "urlHash": "03cd100e712e",
+    "titleHash": "9a51e8e2523e"
+  },
+  {
+    "title": "Meta Patents AI Glasses to Use Facial Recognition to Identify People",
+    "titlePt": "Meta patenteia óculos de IA com reconhecimento facial",
+    "url": "https://www.404media.co/meta-patents-ai-glasses-to-use-facial-recognition-to-identify-people-make-highlight-reels-of-your-dinner-party/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Meta registrou uma patente de óculos com IA que usam reconhecimento facial para identificar pessoas ao redor. O sistema levanta preocupações sérias de privacidade e vigilância em massa. Reguladores, defensores de direitos digitais e usuários de tecnologia devem ficar atentos ao desenvolvimento. A patente mostra que a Meta continua apostando em hardware de consumo com IA embarcada.",
+    "reasonEn": "Meta registered a patent for AI glasses using facial recognition to identify people nearby. The system raises serious privacy and mass surveillance concerns. Regulators, digital rights advocates, and tech users should pay attention to the development. The patent shows Meta continues betting on consumer hardware with embedded AI.",
+    "score": 0.8,
+    "tags": [
+      "privacidade",
+      "meta",
+      "hardware"
+    ],
+    "img": "img/bbd626287736.jpg",
+    "ts": 1786798199,
+    "addedTs": 1786803206,
+    "urlHash": "bbd626287736",
+    "titleHash": "d53d44f11fb5"
+  },
+  {
+    "title": "The Apache Lesson for AI",
+    "titlePt": "A lição do Apache para a IA",
+    "url": "https://asimovaddendum.substack.com/p/why-open-source-matters-for-ai",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um artigo compara a história do projeto Apache com o cenário atual de desenvolvimento de IA. O texto extrai lições sobre governança, licenciamento e construção de ecossistemas abertos. Desenvolvedores e líderes de projeto encontram paralelos úteis para seus próprios projetos de IA. A leitura é recomendada para quem pensa em criar ou financiar plataformas de código aberto em IA.",
+    "reasonEn": "An article compares the history of the Apache project with the current AI development landscape. The text extracts lessons about governance, licensing, and building open ecosystems. Developers and project leaders find useful parallels for their own AI projects. The reading is recommended for anyone thinking about creating or funding open-source AI platforms.",
+    "score": 0.5,
+    "tags": [
+      "open-source",
+      "governança",
+      "história"
+    ],
+    "img": "img/3b9f7a471e8d.jpg",
+    "ts": 1786798050,
+    "addedTs": 1786803206,
+    "urlHash": "3b9f7a471e8d",
+    "titleHash": "9aca45975d5c"
+  },
+  {
     "title": "Anthropic sees AI risks rising, no plan to release stronger \"Model 2\"",
     "titlePt": "Anthropic vê riscos de IA crescerem e descarta lançar 'Model 2' mais potente",
     "url": "https://www.axios.com/2026/08/14/anthropic-model-2-ai-risk",
@@ -10525,301 +10833,5 @@
     "addedTs": 1786387403,
     "urlHash": "83bf2c08695b",
     "titleHash": "b12f9714d18d"
-  },
-  {
-    "title": "Cloudflare Tools Secure Autonomous AI Payments",
-    "titlePt": "Cloudflare lança ferramentas para pagamentos autônomos por IA",
-    "url": "https://aimagazine.com/news/how-cloudflare-tools-secure-autonomous-ai-payments",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Cloudflare anunciou novas ferramentas que permitem a agentes de IA realizar pagamentos de forma autônoma e verificável, com foco em segurança contra fraudes e abuso. A solução chega num momento em que agentes já estão começando a comprar APIs, créditos e produtos digitais sem intervenção humana. Reduz o atrito de integrar carteiras e provedores externos. Importante para quem constrói agentes comerciais e plataformas que vendem a eles.",
-    "reasonEn": "Cloudflare has announced new tools that allow AI agents to make payments autonomously and verifiably, with a focus on fraud and abuse prevention. The solution arrives at a time when agents are starting to buy APIs, credits, and digital products without human intervention. It reduces the friction of integrating wallets and external providers. Important for those building commercial agents and platforms selling to them.",
-    "score": 0.65,
-    "tags": [
-      "pagamento",
-      "agente"
-    ],
-    "img": "img/9fdbaaac485f.jpg",
-    "ts": 1786383294,
-    "addedTs": 1786387403,
-    "urlHash": "9fdbaaac485f",
-    "titleHash": "1912820a059c"
-  },
-  {
-    "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
-    "titlePt": "Needle2: LLM de 14MB para celulares e dispositivos",
-    "url": "https://cactuscompute.com/needle",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Foi apresentado o Needle2, um modelo de linguagem agentivo de apenas 14MB projetado para rodar localmente em celulares, wearables, robôs e dispositivos de casa inteligente. O tamanho compacto abre caminho para agentes sempre ativos que não dependem de nuvem, com menor latência e mais privacidade. É um salto para a chamada IA 'on-device' e pode mudar a forma como apps móveis são construídos. Interessa a desenvolvedores mobile e embarcados, além de fabricantes de hardware.",
-    "reasonEn": "Needle2 has been presented, a 14MB agentic language model designed to run locally on phones, wearables, robots, and smart home devices. The compact size paves the way for always-on agents that don't depend on the cloud, with lower latency and more privacy. It's a leap for so-called 'on-device' AI and may change how mobile apps are built. Of interest to mobile and embedded developers, plus hardware manufacturers.",
-    "score": 0.7,
-    "tags": [
-      "modelo",
-      "edge-ai"
-    ],
-    "img": "img/d7dddac5c9c6.jpg",
-    "ts": 1786382527,
-    "addedTs": 1786387403,
-    "urlHash": "d7dddac5c9c6",
-    "titleHash": "cf12f83594bd"
-  },
-  {
-    "title": "OpenRouter: Model Routing Powered by Wisdom of the Market",
-    "titlePt": "OpenRouter: roteamento de modelos com sabedoria do mercado",
-    "url": "https://openrouter.ai/blog/announcements/introducing-the-new-auto-router/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A plataforma OpenRouter opera como um roteador que escolhe qual modelo de IA atender cada requisição com base em preço, latência e qualidade, usando uma espécie de curva de demanda coletiva. O objetivo é evitar que desenvolvedores tenham que negociar contratos separados com cada provedor. Já é usada por milhares de aplicações para reduzir custos e melhorar resiliência. Vale para qualquer equipe que precise alternar entre modelos sem reescrever código.",
-    "reasonEn": "The OpenRouter platform operates as a router that chooses which AI model serves each request based on price, latency, and quality, using a kind of collective demand curve. The goal is to prevent developers from negotiating separate contracts with each provider. It's already used by thousands of applications to reduce costs and improve resilience. Worth it for any team needing to switch between models without rewriting code.",
-    "score": 0.65,
-    "tags": [
-      "infraestrutura",
-      "modelo"
-    ],
-    "img": "img/087b7b4f4b34.jpg",
-    "ts": 1786382332,
-    "addedTs": 1786387403,
-    "urlHash": "087b7b4f4b34",
-    "titleHash": "fcfee290fb4e"
-  },
-  {
-    "title": "ByteDance: Are Chinese AI Models Catching Up to the US?",
-    "titlePt": "ByteDance: os modelos chineses de IA estão alcançando os EUA?",
-    "url": "https://aimagazine.com/news/bytedance-are-chinese-ai-models-catching-up-to-the-us",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Discussões técnicas e benchmarks mostram que os modelos lançados pela ByteDance e outras chinesas estão diminuindo rapidamente a distância para os modelos americanos de ponta, em alguns critérios até superando. O tema levanta dúvidas sobre a efetividade das restrições de exportação de chips e o futuro da corrida por IA generativa. Tem impacto direto em estratégia de empresas, investimentos e políticas públicas. Importante para todo mundo que acompanha geopolítica de tecnologia.",
-    "reasonEn": "Technical discussions and benchmarks show that models released by ByteDance and other Chinese companies are rapidly narrowing the gap to top American models, in some criteria even surpassing. The topic raises questions about the effectiveness of chip export restrictions and the future of the generative AI race. It has direct impact on company strategy, investments, and public policy. Important for everyone following tech geopolitics.",
-    "score": 0.6,
-    "tags": [
-      "modelo",
-      "china"
-    ],
-    "img": "img/c04249faaf98.jpg",
-    "ts": 1786382325,
-    "addedTs": 1786387403,
-    "urlHash": "c04249faaf98",
-    "titleHash": "1ab355f2f967"
-  },
-  {
-    "title": "AI Coding Tools Pricing Comparison 2026: All 11 Tools Side by Side",
-    "titlePt": "Comparação de preços de ferramentas de codificação com IA em 2026",
-    "url": "https://devtoolsreview.com/pricing/ai-coding-tools-pricing-comparison/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Foi publicada uma tabela comparando preços, limites e recursos das 11 principais ferramentas de coding com IA disponíveis, organizada para ajudar equipes a decidir qual assinar em 2026. A análise inclui custo por usuário, uso ilimitado, planos empresariais e diferentes modelos por trás. É uma referência útil para CTOs, engenheiros e PMs avaliando ferramentas. Vale salvar para revisões periódicas de orçamento de software.",
-    "reasonEn": "A table has been published comparing prices, limits, and features of the 11 main AI coding tools available, organized to help teams decide which to subscribe to in 2026. The analysis includes cost per user, unlimited usage, enterprise plans, and different underlying models. It's a useful reference for CTOs, engineers, and PMs evaluating tools. Worth saving for periodic software budget reviews.",
-    "score": 0.55,
-    "tags": [
-      "codificação",
-      "preço"
-    ],
-    "img": "img/8121262c3f3c.jpg",
-    "ts": 1786382262,
-    "addedTs": 1786387403,
-    "urlHash": "8121262c3f3c",
-    "titleHash": "b6a170dc0e96"
-  },
-  {
-    "title": "What happens to Bose when headphones become AI?",
-    "titlePt": "O que acontece com a Bose quando fones de ouvido viram IA?",
-    "url": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "A reportagem analisa como a ascensão de fones com inteligência artificial embutida pode mudar o mercado dominado por marcas tradicionais como a Bose. Novos concorrentes apostam em assistentes sempre ligados, sensores e integração com smartphones. A Bose precisa decidir entre seguir o caminho do hardware puro ou entrar na corrida dos dispositivos inteligentes. Importa para consumidores, investidores e toda a indústria de áudio.",
-    "reasonEn": "The report analyzes how the rise of AI-powered headphones could reshape a market long dominated by traditional brands like Bose. New competitors are betting on always-on assistants, sensors, and deep smartphone integration. Bose must decide whether to stay focused on pure audio hardware or join the smart-device race. It matters to consumers, investors, and the broader audio industry.",
-    "score": 0.5,
-    "tags": [
-      "hardware",
-      "áudio",
-      "bose"
-    ],
-    "img": "img/4aee09f24a27.jpg",
-    "ts": 1786379253,
-    "addedTs": 1786387403,
-    "urlHash": "4aee09f24a27",
-    "titleHash": "e711cf0547ca"
-  },
-  {
-    "title": "Putting frontier cyber models in more trusted hands",
-    "titlePt": "OpenAI quer colocar modelos avançados de cibersegurança em mãos mais confiáveis",
-    "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A OpenAI publicou um texto explicando como pretende distribuir modelos de fronteira voltados à cibersegurança de forma responsável, buscando evitar usos maliciosos. A empresa defende acesso controlado e parcerias com pesquisadores e governos. A medida tenta equilibrar o potencial defensivo desses modelos com o risco de abuso. É relevante para profissionais de segurança, policymakers e qualquer organização exposta a ataques digitais.",
-    "reasonEn": "OpenAI published a post explaining how it plans to responsibly distribute frontier cybersecurity models, aiming to prevent malicious use. The company advocates controlled access and partnerships with researchers and governments. The move tries to balance the defensive potential of these models with the risk of abuse. It matters to security professionals, policymakers, and any organization exposed to digital attacks.",
-    "score": 0.65,
-    "tags": [
-      "openai",
-      "segurança",
-      "cibersegurança"
-    ],
-    "img": "img/29b0e61ec6cd.jpg",
-    "ts": 1786356000,
-    "addedTs": 1786387403,
-    "urlHash": "29b0e61ec6cd",
-    "titleHash": "86b0ad186c24"
-  },
-  {
-    "title": "Just how big is the hidden leverage of AI hyperscalers?",
-    "titlePt": "Qual é o tamanho da alavancagem oculta dos hiperscalers de IA?",
-    "url": "https://www.ft.com/content/a0a07cce-6d19-4b1e-a73b-9855a06ba7b3",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Discussão no Hacker News levanta que empresas como Microsoft, Google e Amazon acumulam alavancagem financeira oculta graças ao boom de IA, já que receitas de nuvem e investimento em data centers se misturam. O tema importa porque investidores e reguladores começam a questionar se o crescimento é sustentável ou uma bolha. Pode antecipar mudanças em valuation de big techs e pressões antitruste.",
-    "reasonEn": "A Hacker News discussion argues that companies like Microsoft, Google, and Amazon are building hidden financial leverage from the AI boom, as cloud revenues and data center investment blur together. It matters because investors and regulators are starting to ask whether the growth is sustainable or a bubble. Could foreshadow big tech valuation shifts and antitrust pressure.",
-    "score": 0.6,
-    "tags": [
-      "negócios",
-      "infraestrutura"
-    ],
-    "img": "img/5a9d66b524ef.jpg",
-    "ts": 1786379964,
-    "addedTs": 1786380218,
-    "urlHash": "5a9d66b524ef",
-    "titleHash": "f9c946c74146"
-  },
-  {
-    "title": "Show HN: Is your AI hallucinating? The big labs won't tell you but we will",
-    "titlePt": "Show HN: sua IA alucina? Laboratórios não dizem, nós mostramos",
-    "url": "https://www.telluvian.ai/blog/is-your-ai-hallucinating",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Projeto aberto que promete medir e expor a taxa real de alucinações de modelos comerciais, algo que as big labs evitam divulgar. Pode ser útil para quem precisa auditar respostas antes de usar em produção. O time ainda é pequeno e a metodologia precisa de validação independente.",
-    "reasonEn": "An open project that promises to measure and expose the real hallucination rate of commercial models, something big labs avoid disclosing. Useful for anyone auditing responses before production use. The team is small and methodology still needs independent validation.",
-    "score": 0.5,
-    "tags": [
-      "avaliação",
-      "segurança"
-    ],
-    "img": "img/4f716e9da025.jpg",
-    "ts": 1786379809,
-    "addedTs": 1786380218,
-    "urlHash": "4f716e9da025",
-    "titleHash": "db7027d061ff"
-  },
-  {
-    "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
-    "titlePt": "Stoa Markets: marketplace de GPUs e servidores de IA nasce na YC",
-    "url": "https://www.stoaexchange.com",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Startup do batch S26 da Y Combinator lançou um marketplace para comprar e vender capacidade de GPUs e servidores de IA entre empresas. O modelo lembra o que empresas como a Vast fizeram para data centers tradicionais e pode baratear o acesso a hardware escasso. Importa para times de IA que queimam orçamento com aluguel de cluster e querem mais opções.",
-    "reasonEn": "A Y Combinator S26 startup launched a marketplace to buy and sell GPU capacity and AI servers between companies. The model resembles what companies like Vast did for traditional data centers and could lower the cost of scarce hardware access. Matters for AI teams burning budget on cluster rentals who want more options.",
-    "score": 0.75,
-    "tags": [
-      "infraestrutura",
-      "startup"
-    ],
-    "img": "img/2af89bb54fec.jpg",
-    "ts": 1786379727,
-    "addedTs": 1786380218,
-    "urlHash": "2af89bb54fec",
-    "titleHash": "f4a5747ee29c"
-  },
-  {
-    "title": "The Day the AI Act Grew Teeth: GPAI Enforcement Goes Live",
-    "titlePt": "O Ato de IA da UE mostra os dentes: fiscalização de modelos de uso geral entra em vigor",
-    "url": "https://simonroses.com/2026/08/the-day-the-ai-act-grew-teeth-gpai-enforcement-goes-live/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A UE começou a aplicar as regras do AI Act voltadas a modelos de IA de uso geral, com novas obrigações de transparência, avaliação de risco e prestação de contas. Fabricantes fora da Europa também serão afetados se oferecerem seus modelos no bloco. É a primeira execução concreta de uma lei de IA e serve de termômetro para regulações futuras no mundo todo.",
-    "reasonEn": "The EU began enforcing AI Act rules targeting general-purpose AI models, with new transparency, risk assessment, and accountability obligations. Manufacturers outside Europe will also be affected if they offer their models in the bloc. It is the first major concrete execution of an AI law and serves as a thermometer for future regulations worldwide.",
-    "score": 0.85,
-    "tags": [
-      "regulação",
-      "ue"
-    ],
-    "img": "img/7a722b24592f.jpg",
-    "ts": 1786379691,
-    "addedTs": 1786380218,
-    "urlHash": "7a722b24592f",
-    "titleHash": "f8ac2edea997"
-  },
-  {
-    "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-    "titlePt": "NVIDIA Magpie TTS: vozes multilíngues open weights para agentes de baixa latência",
-    "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "A NVIDIA publicou um modelo de texto para fala open weights chamado Magpie TTS, voltado a agentes de voz multilíngues com baixa latência e controle total de implantação. É alternativa a serviços pagos como ElevenLabs e funciona bem em hardware comum. Ajuda times que precisam de voz natural sem enviar dados para a nuvem.",
-    "reasonEn": "NVIDIA released an open-weights text-to-speech model called Magpie TTS, aimed at low-latency multilingual voice agents with full deployment control. It is an alternative to paid services like ElevenLabs and runs well on common hardware. Helps teams needing natural voice without sending data to the cloud.",
-    "score": 0.7,
-    "tags": [
-      "modelo",
-      "voz"
-    ],
-    "img": "img/5890b1cfd4cc.jpg",
-    "ts": 1786379136,
-    "addedTs": 1786380218,
-    "urlHash": "5890b1cfd4cc",
-    "titleHash": "eb7bc34091a0"
-  },
-  {
-    "title": "Five ways to evaluate AI agent orchestration platforms",
-    "titlePt": "Cinco formas de avaliar plataformas de orquestração de agentes de IA",
-    "url": "https://www.infoworld.com/article/4204665/five-ways-to-evaluate-ai-agent-orchestration-platforms.html",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Artigo prático listando critérios para comparar plataformas que coordenam múltiplos agentes de IA, como latência, custo por tarefa, ferramentas suportadas e governança. Leitura recomendada para líderes técnicos decidindo qual stack adotar. A lista não é exaustiva nem benchmark independente, então serve mais como ponto de partida.",
-    "reasonEn": "Practical article listing criteria for comparing platforms that coordinate multiple AI agents, such as latency, cost per task, supported tools, and governance. Recommended reading for technical leaders choosing which stack to adopt. The list is neither exhaustive nor an independent benchmark, so it works best as a starting point.",
-    "score": 0.5,
-    "tags": [
-      "agentes",
-      "avaliação"
-    ],
-    "img": "img/bb785264baa6.jpg",
-    "ts": 1786379105,
-    "addedTs": 1786380218,
-    "urlHash": "bb785264baa6",
-    "titleHash": "1ac123e2145e"
-  },
-  {
-    "title": "More than half of AI-generated patches are broken",
-    "titlePt": "Mais da metade dos patches gerados por IA estão quebrados, diz estudo",
-    "url": "https://cyberscoop.com/ai-code-patching-security-risks/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Pesquisa mostrou que a maioria das correções de código geradas automaticamente por IA falha em testes ou introduz novos bugs, apesar de parecerem corretas à primeira vista. O resultado reforça o debate sobre confiança em coding assistants em sistemas críticos. Afeta times que começaram a delegar correções inteiras a modelos e precisam recalibrar expectativas.",
-    "reasonEn": "Research showed that most AI-generated code patches either fail tests or introduce new bugs, despite looking correct at first glance. The result reinforces the debate over trust in coding assistants for critical systems. Affects teams that have started delegating entire fixes to models and need to recalibrate expectations.",
-    "score": 0.78,
-    "tags": [
-      "pesquisa",
-      "engenharia"
-    ],
-    "img": "img/54f61ca034a8.jpg",
-    "ts": 1786378996,
-    "addedTs": 1786380218,
-    "urlHash": "54f61ca034a8",
-    "titleHash": "6eec3a4f9f80"
   }
 ]
