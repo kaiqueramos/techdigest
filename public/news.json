@@ -1,5 +1,93 @@
 [
   {
+    "title": "A Framework for Solving the AI Data Center Energy Crisis",
+    "titlePt": "Um framework para resolver a crise de energia dos data centers de IA",
+    "url": "https://github.com/kikazamek999-eng/beyond-brute-force-scaling",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo apresenta uma estrutura de trabalho para lidar com o gasto cada vez maior de eletricidade dos data centers que rodam modelos de inteligência artificial. O texto discute como otimizar uso de energia sem sacrificar desempenho de treinamento e inferência. O tema afeta diretamente o bolso de empresas de nuvem e a conta de luz de regiões inteiras. Para desenvolvedores, entender esse debate ajuda a justificar escolhas de arquitetura mais eficientes e sustentáveis.",
+    "reasonEn": "The article presents a framework to handle the ever-growing electricity consumption of data centers running AI models. The text discusses how to optimize energy use without sacrificing training and inference performance. The topic directly affects cloud companies' costs and the electricity bills of entire regions. For developers, understanding this debate helps justify more efficient and sustainable architecture choices.",
+    "score": 0.75,
+    "tags": [
+      "infraestrutura",
+      "energia",
+      "sustentabilidade"
+    ],
+    "img": "img/9b3e0da5304c.jpg",
+    "ts": 1786749072,
+    "addedTs": 1786754557,
+    "urlHash": "9b3e0da5304c",
+    "titleHash": "abcf7d63472a"
+  },
+  {
+    "title": "Musk assembled a full-stack AI coding play while everyone watched benchmarks",
+    "titlePt": "Musk monta operação completa de codificação com IA enquanto todos olham para benchmarks",
+    "url": "https://pub.towardsai.net/grok-4-6-x-cursor-elon-musk-just-bought-his-way-into-the-ai-coding-war-15a1292d4121",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A análise mostra que Elon Musk montou de forma silenciosa uma pilha completa de ferramentas de codificação assistida por inteligência artificial dentro do ecossistema da xAI. Enquanto a comunidade discute números de benchmarks, ele estaria integrando modelos, ambientes de desenvolvimento e infraestrutura para entregar produto final. Isso importa porque redefine a briga entre quem oferece só modelo e quem oferece cadeia completa. Desenvolvedores devem ficar atentos porque a estratégia afeta ferramentas e preços.",
+    "reasonEn": "The analysis shows Elon Musk quietly built a complete stack of AI-assisted coding tools inside the xAI ecosystem. While the community discusses benchmark numbers, he is integrating models, development environments, and infrastructure to deliver finished products. This matters because it redefines the fight between players offering only models and those offering the full chain. Developers should pay attention because the strategy affects tools and prices.",
+    "score": 0.55,
+    "tags": [
+      "musk",
+      "codificação",
+      "xai"
+    ],
+    "img": "img/5e3183efcb46.jpg",
+    "ts": 1786747474,
+    "addedTs": 1786754557,
+    "urlHash": "5e3183efcb46",
+    "titleHash": "72af48570370"
+  },
+  {
+    "title": "US to tell partners they must pick sides in AI race with China",
+    "titlePt": "EUA vão cobrar que parceiros escolham lado na corrida de IA contra a China",
+    "url": "https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O governo americano planeja pressionar aliados a tomarem partido claro na disputa por inteligência artificial contra a China. A medida pode forçar países a escolher entre comprar tecnologia americana ou chinesa, com restrições de um lado ou de outro. O movimento tem impacto direto em empresas de telecom, nuvem e semicondutores mundo afora. Para desenvolvedores, o efeito prático pode ser acesso desigual a modelos e chips dependendo da região onde operam.",
+    "reasonEn": "The US government plans to pressure allies to take a clear side in the AI race against China. The measure could force countries to choose between buying American or Chinese technology, with restrictions on either side. The move directly impacts telecom, cloud, and semiconductor companies worldwide. For developers, the practical effect may be unequal access to models and chips depending on the region where they operate.",
+    "score": 0.9,
+    "tags": [
+      "geopolítica",
+      "regulação",
+      "china"
+    ],
+    "img": "img/5f1a44bbcceb.jpg",
+    "ts": 1786745931,
+    "addedTs": 1786754557,
+    "urlHash": "5f1a44bbcceb",
+    "titleHash": "5a5ac397e060"
+  },
+  {
+    "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+    "titlePt": "Nova York reúne educadores e empresas para discutir IA nas escolas",
+    "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+    "source": "Google AI",
+    "sources": [
+      "Google AI"
+    ],
+    "reason": "Líderes de educação e da indústria se reuniram nos escritórios do Google em Nova York para discutir como a IA deve ser usada em salas de aula da cidade. O encontro aponta para possíveis diretrizes, formação de professores e integração de ferramentas em currículos. O tema é relevante para pais, alunos e professores, pois pode moldar o aprendizado nas próximas gerações. Ainda não há decisões vinculantes, mas o movimento mostra prioridade política.",
+    "reasonEn": "Education and industry leaders met at Google's New York offices to discuss how AI should be used in city classrooms. The gathering points to possible guidelines, teacher training, and integration of tools into curricula. The topic matters to parents, students, and teachers, as it may shape learning for coming generations. No binding decisions came out yet, but the move signals political priority.",
+    "score": 0.5,
+    "tags": [
+      "educação",
+      "regulação",
+      "google"
+    ],
+    "img": "img/94c768ce3675.jpg",
+    "ts": 1782921600,
+    "addedTs": 1786754557,
+    "urlHash": "94c768ce3675",
+    "titleHash": "bf2768c74b26"
+  },
+  {
     "title": "Taiwan targeted in AI-driven hacking campaign",
     "titlePt": "Taiwan é alvo de campanha de hackers movida por IA",
     "url": "https://www.taipeitimes.com/News/front/archives/2026/08/14/2003862463",
@@ -10737,93 +10825,5 @@
     "addedTs": 1786365985,
     "urlHash": "70e89b2bfaf8",
     "titleHash": "fbb93ec4a090"
-  },
-  {
-    "title": "Beijing is forcing a mass breakup with AI lovers",
-    "titlePt": "Pequim força fim do romance com companheiros de IA",
-    "url": "https://restofworld.org/2026/china-ai-boyfriend-ban-bytedance-doubao/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O governo chinês está pressionando plataformas a limitarem relacionamentos românticos com companheiros de inteligência artificial, especialmente entre jovens. A medida faz parte de uma campanha mais ampla para regular o impacto social da tecnologia. Empresas precisarão implementar restrições e controles de idade em seus serviços. A decisão pode influenciar debates globais sobre os limites éticos da IA emocional.",
-    "reasonEn": "The Chinese government is pressuring platforms to limit romantic relationships with AI companions, especially among young people. The measure is part of a broader campaign to regulate the social impact of the technology. Companies will need to implement restrictions and age controls on their services. The decision may influence global debates about the ethical limits of emotional AI.",
-    "score": 0.7,
-    "tags": [
-      "regulação",
-      "china",
-      "companheiros-ia"
-    ],
-    "img": "img/35a010abb62e.jpg",
-    "ts": 1786362393,
-    "addedTs": 1786365985,
-    "urlHash": "35a010abb62e",
-    "titleHash": "b50a28f68965"
-  },
-  {
-    "title": "AI model captures how humans read, paving the way to personalised text",
-    "titlePt": "Modelo de IA imita a leitura humana e abre caminho para textos personalizados",
-    "url": "https://www.aalto.fi/en/news/ai-model-captures-how-humans-read-paving-the-way-to-personalised-text-and-better-augmented-reality",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Pesquisadores desenvolveram um modelo de inteligência artificial que reproduz como pessoas leem e processam textos. A tecnologia permite ajustar automaticamente a dificuldade e o estilo do conteúdo conforme o perfil do leitor. As aplicações vão de educação personalizada a comunicação mais eficiente em produtos digitais. O avanço aproxima a IA de uma interação mais natural e centrada no usuário.",
-    "reasonEn": "Researchers developed an artificial intelligence model that reproduces how people read and process texts. The technology allows automatically adjusting content difficulty and style based on the reader's profile. Applications range from personalized education to more efficient communication in digital products. The advance brings AI closer to more natural, user-centered interaction.",
-    "score": 0.65,
-    "tags": [
-      "pesquisa",
-      "leitura",
-      "personalização"
-    ],
-    "img": "img/12f40a0a8580.jpg",
-    "ts": 1786362358,
-    "addedTs": 1786365985,
-    "urlHash": "12f40a0a8580",
-    "titleHash": "a401ffee172b"
-  },
-  {
-    "title": "Meta's new open-weight model targets local agentic AI",
-    "titlePt": "Novo modelo aberto da Meta mira agentes de IA que rodam localmente",
-    "url": "https://twitter.com/finkd/status/2086754845218726027",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Meta lançou um novo modelo de peso aberto focado em permitir a execução de agentes de inteligência artificial diretamente em dispositivos locais, sem depender da nuvem. O movimento fortalece a tendência de IA privada e de baixo custo, competindo com soluções fechadas de grandes rivais. Desenvolvedores podem rodar sistemas autônomos com mais controle e menor latência. A estratégia marca um novo capítulo na corrida pela IA aberta e deve influenciar decisões de arquitetura em muitas empresas.",
-    "reasonEn": "Meta launched a new open-weight model focused on enabling AI agents to run directly on local devices without relying on the cloud. The move strengthens the trend toward private, low-cost AI, competing with closed solutions from major rivals. Developers can run autonomous systems with more control and lower latency. The strategy marks a new chapter in the open AI race and should influence architecture decisions at many companies.",
-    "score": 0.9,
-    "tags": [
-      "meta",
-      "modelo-aberto",
-      "agentes"
-    ],
-    "img": "img/97fe86f759da.jpg",
-    "ts": 1786359303,
-    "addedTs": 1786365985,
-    "urlHash": "97fe86f759da",
-    "titleHash": "2b731dfd80bd"
-  },
-  {
-    "title": "China doesn't need to beat US AI [video]",
-    "titlePt": "China não precisa vencer os EUA em IA, diz análise em vídeo",
-    "url": "https://www.youtube.com/watch?v=sXA77wLF678",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um vídeo argumenta que a China tem estratégia própria em inteligência artificial focada em aplicações práticas e industriais, em vez de competir diretamente com os Estados Unidos em modelos de fronteira. A abordagem chinesa prioriza integração em manufatura, vigilância e serviços públicos. O conteúdo oferece perspectiva alternativa sobre a corrida global de IA. Vale para quem acompanha geopolítica tecnológica, embora o formato em vídeo demande tempo para ser consumido.",
-    "reasonEn": "A video argues that China has its own AI strategy focused on practical and industrial applications, rather than directly competing with the United States on frontier models. The Chinese approach prioritizes integration into manufacturing, surveillance, and public services. The content offers an alternative perspective on the global AI race. Worth it for those following tech geopolitics, though the video format demands time to consume.",
-    "score": 0.5,
-    "tags": [
-      "china",
-      "geopolítica",
-      "análise"
-    ],
-    "img": "img/5a2ee8da20d1.jpg",
-    "ts": 1786359276,
-    "addedTs": 1786365985,
-    "urlHash": "5a2ee8da20d1",
-    "titleHash": "894ce8067577"
   }
 ]
