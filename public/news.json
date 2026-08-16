@@ -1,5 +1,68 @@
 [
   {
+    "title": "Pax Silica vs. Waico: Competing AI and Tech Blocs",
+    "titlePt": "Pax Silica vs. Waico: blocos rivais de IA e tecnologia",
+    "url": "https://earthly.city/datasets/geoevent/naddr1qvzqqqyj3vpzpfe82g8nhe34mayaj656t2zctv0d5nsv6kjnss558wkrf4kapd30qq257vm6wddx5un4x94kkvtsf5mxkjtcd9jxg58ju7p?ms=dataset%3Aa727520f3be635df49d96a9a5a8585b1eda4e0cd5a53842943bac34d6dd0b62f%3AO3zsZjru1kk1pM6kIxidd",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A discussão trata da formação de dois blocos geopolíticos de tecnologia e inteligência artificial, cada um reunindo países com regulação e padrões próprios. O tema é relevante para empresas que lidam com dados internacionais e precisam entender onde cada bloco opera. O impacto recai sobre cadeias de suprimento, conformidade e parcerias estratégicas.",
+    "reasonEn": "The discussion covers the formation of two rival geopolitical blocs around technology and AI, each with its own regulation and standards. This matters for companies handling international data who must understand where each bloc operates. The impact hits supply chains, compliance, and strategic partnerships.",
+    "score": 0.65,
+    "tags": [
+      "geopolítica",
+      "regulação"
+    ],
+    "img": "img/a25572762b4d.jpg",
+    "ts": 1786866773,
+    "addedTs": 1786868274,
+    "urlHash": "a25572762b4d",
+    "titleHash": "13f9ac54ab0c"
+  },
+  {
+    "title": "Invisible to the Machine: auditing AI recommendation against a complete census",
+    "titlePt": "Invisível para a máquina: auditoria de recomendações de IA",
+    "url": "https://arxiv.org/abs/2608.07069",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O trabalho propõe auditar sistemas de recomendação de IA comparando-os com um censo completo de itens, revelando vieses ocultos. A pesquisa é útil para plataformas que recomendam conteúdo, produtos ou notícias e querem garantir diversidade. Afeta desenvolvedores, times de produto e reguladores.",
+    "reasonEn": "The work proposes auditing AI recommendation systems by comparing them against a complete item census, exposing hidden biases. The research is useful for platforms recommending content, products or news that want to ensure diversity. It affects developers, product teams, and regulators.",
+    "score": 0.5,
+    "tags": [
+      "auditoria",
+      "vieses"
+    ],
+    "img": "img/bda98f276b2a.jpg",
+    "ts": 1786866577,
+    "addedTs": 1786868274,
+    "urlHash": "bda98f276b2a",
+    "titleHash": "3b01447870f7"
+  },
+  {
+    "title": "A leaked Composio key returned live Gmail, GitHub and CircleCI tokens",
+    "titlePt": "Chave da Composio vazada expôs tokens de Gmail, GitHub e CircleCI",
+    "url": "https://www.cyera.com/research/the-hidden-attack-surface-of-agentic-ai-securing-ai-agent-integration-platforms",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma chave de API da Composio vazada permitiu acesso a tokens ativos de Gmail, GitHub e CircleCI, expondo dados sensíveis de usuários. O incidente reforça a importância de rotação de chaves e auditoria de permissões em ferramentas de integração. Desenvolvedores que usam a plataforma devem verificar suas credenciais imediatamente.",
+    "reasonEn": "A leaked Composio API key granted access to live Gmail, GitHub, and CircleCI tokens, exposing sensitive user data. The incident reinforces the importance of key rotation and permission auditing in integration tools. Developers using the platform should verify their credentials immediately.",
+    "score": 0.7,
+    "tags": [
+      "segurança",
+      "vazamento"
+    ],
+    "img": "img/e729f7edf1c1.jpg",
+    "ts": 1786862311,
+    "addedTs": 1786868274,
+    "urlHash": "e729f7edf1c1",
+    "titleHash": "748497575781"
+  },
+  {
     "title": "Beijing is forcing a mass breakup with AI lovers",
     "titlePt": "Pequim está forçando o fim do namoro com IAs",
     "url": "https://restofworld.org/2026/china-ai-boyfriend-ban-bytedance-doubao/",
@@ -10774,71 +10837,5 @@
     "addedTs": 1786424314,
     "urlHash": "73dc82396afc",
     "titleHash": "01e2fe6e6dbc"
-  },
-  {
-    "title": "Show HN: Airship – Figma-Like Visual Editor for Claude Code, Codex and OpenCode",
-    "titlePt": "Airship: editor visual estilo Figma para Claude Code, Codex e OpenCode",
-    "url": "https://github.com/0xnyn/airship",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O Airship é um editor visual no estilo Figma voltado para fluxos de agentes de código como Claude Code, Codex e OpenCode. A ferramenta permite montar lógicas de IA arrastando blocos na tela, sem escrever código manualmente. Pode acelerar a prototipagem de automações e integrações complexas. É útil para desenvolvedores que querem testar agentes rapidamente. Ainda é um projeto inicial, mas a proposta é promissora.",
-    "reasonEn": "Airship is a Figma-style visual editor aimed at code agent flows like Claude Code, Codex, and OpenCode. The tool lets you build AI logic by dragging blocks on the screen without writing code manually. It can speed up prototyping of complex automations and integrations. It is useful for developers who want to test agents quickly. It is still an early project, but the proposal is promising.",
-    "score": 0.55,
-    "tags": [
-      "show-hn",
-      "ferramenta",
-      "agentes"
-    ],
-    "img": "img/3f939f1e537f.jpg",
-    "ts": 1786410554,
-    "addedTs": 1786424314,
-    "urlHash": "3f939f1e537f",
-    "titleHash": "e7ba206333e7"
-  },
-  {
-    "title": "Ford’s new AI assistant can check your fuel levels and tire pressure",
-    "titlePt": "Novo assistente de IA da Ford checa combustível e pressão dos pneus",
-    "url": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "A Ford anunciou um novo assistente de IA capaz de checar nível de combustível, pressão dos pneus e outras informações do veículo pelo celular ou painel. O recurso deve chegar primeiro em modelos novos nos Estados Unidos. A novidade mostra como montadoras estão incorporando IA generativa diretamente nos carros. Para consumidores e desenvolvedores de automotive, é uma notícia relevante e concreta.",
-    "reasonEn": "Ford announced a new AI assistant capable of checking fuel level, tire pressure, and other vehicle information through the phone or dashboard. The feature should arrive first in new models in the United States. The news shows how automakers are incorporating generative AI directly into cars. For consumers and automotive developers, it is relevant and concrete news.",
-    "score": 0.65,
-    "tags": [
-      "ford",
-      "automotivo",
-      "lançamento"
-    ],
-    "img": "img/7bb0c3b80dd8.jpg",
-    "ts": 1786132392,
-    "addedTs": 1786424314,
-    "urlHash": "7bb0c3b80dd8",
-    "titleHash": "ee9ad11bc6ed"
-  },
-  {
-    "title": "Deploy local agents everywhere with LFM2.5-2.6B",
-    "titlePt": "Implante agentes locais em qualquer lugar com o modelo LFM2.5-2.6B",
-    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "A Liquid AI publicou o modelo LFM2.5-2.6B, voltado para rodar agentes localmente em dispositivos com recursos limitados. O foco é baixo consumo de memória e inferência rápida sem depender da nuvem. É uma alternativa prática aos modelos grandes hospedados em data center. Pode interessar a desenvolvedores que constroem apps offline, embarcados ou em edge. Vale testar em projetos reais.",
-    "reasonEn": "Liquid AI released the LFM2.5-2.6B model, aimed at running agents locally on resource-constrained devices. The focus is low memory consumption and fast inference without depending on the cloud. It is a practical alternative to large models hosted in data centers. It may interest developers building offline, embedded, or edge apps. Worth testing on real projects.",
-    "score": 0.5,
-    "tags": [
-      "modelo",
-      "edge",
-      "open-source"
-    ],
-    "img": "img/aa21db80f8b7.jpg",
-    "ts": 1785851909,
-    "addedTs": 1786424314,
-    "urlHash": "aa21db80f8b7",
-    "titleHash": "52e69a33c8e9"
   }
 ]
