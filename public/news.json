@@ -1,5 +1,93 @@
 [
   {
+    "title": "Has the hallucination problem in AI been solved?",
+    "titlePt": "As alucinações de IA foram realmente resolvidas?",
+    "url": "https://news.ycombinator.com/item?id=49316330",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um debate importante no Hacker News questiona se o problema das alucinações em modelos de IA já tem solução. A discussão reúne exemplos concretos e dúvidas de pesquisadores e desenvolvedores. O tema importa para qualquer pessoa que use ChatGPT, Claude ou Gemini em trabalho sério, já que respostas inventadas continuam sendo um risco real. Vale ler para entender o estado atual do problema.",
+    "reasonEn": "An important Hacker News debate questions whether the AI hallucination problem is truly solved. The thread gathers concrete examples and doubts from researchers and developers. The topic matters to anyone using ChatGPT, Claude, or Gemini for serious work, as invented answers remain a real risk. Worth reading to understand the current state of the problem.",
+    "score": 0.85,
+    "tags": [
+      "alucinação",
+      "modelo",
+      "debate"
+    ],
+    "img": "img/d1af4ac22087.jpg",
+    "ts": 1786847032,
+    "addedTs": 1786848752,
+    "urlHash": "d1af4ac22087",
+    "titleHash": "3689a6fdd0ad"
+  },
+  {
+    "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+    "titlePt": "IA ajuda a portar simulação meteorológica gigante para GPU",
+    "url": "https://arxiv.org/abs/2608.13122",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Pesquisadores usaram IA para portar 250 mil linhas de um código legado de simulação do tempo para rodar em GPU. O caso mostra como IA pode acelerar migrações grandes que normalmente levariam meses. Interessa a engenheiros de software e cientistas que lidam com código antigo e computação de alto desempenho.",
+    "reasonEn": "Researchers used AI to port 250 thousand lines of legacy weather simulation code to run on GPU. The case shows how AI can accelerate large migrations that would normally take months. It matters to software engineers and scientists dealing with legacy code and high-performance computing.",
+    "score": 0.5,
+    "tags": [
+      "gpu",
+      "código-legado",
+      "ciência"
+    ],
+    "img": "img/623bfefcef89.jpg",
+    "ts": 1786833711,
+    "addedTs": 1786848752,
+    "urlHash": "623bfefcef89",
+    "titleHash": "0283e44e60ae"
+  },
+  {
+    "title": "Ask HN: I created a web browser using Claude, everybody hates it",
+    "titlePt": "Criei um navegador com Claude e todo mundo odeia",
+    "url": "https://news.ycombinator.com/item?id=49314731",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um desenvolvedor pediu conselho no Hacker News depois de construir um navegador com ajuda do Claude e receber críticas duras da comunidade. O episódio virou alerta sobre expectativas geradas por IA e a realidade de produtos finais. É leitura rápida e instrutiva sobre hype versus entrega em projetos com IA.",
+    "reasonEn": "A developer asked for advice on Hacker News after building a browser with Claude's help and receiving harsh criticism from the community. The episode became a cautionary tale about AI-driven expectations versus the reality of final products. It is quick and instructive reading on hype versus delivery in AI projects.",
+    "score": 0.55,
+    "tags": [
+      "claude",
+      "hype",
+      "desenvolvimento"
+    ],
+    "img": "img/a62fb57a7bf6.jpg",
+    "ts": 1786831513,
+    "addedTs": 1786848752,
+    "urlHash": "a62fb57a7bf6",
+    "titleHash": "b40ead94f974"
+  },
+  {
+    "title": "TemporalStore: A disruptive open-source engine managing your LLM memory",
+    "titlePt": "TemporalStore: motor open-source para memória de LLM",
+    "url": "https://temporalstore.ai/blog-context-management.html",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "TemporalStore é um novo motor open-source voltado a gerenciar a memória de longo prazo de modelos de linguagem. A ideia é dar a agentes de IA uma memória persistente e consultável. Importa para desenvolvedores que constroem agentes e precisam lidar com contexto estendido sem reinventar a roda.",
+    "reasonEn": "TemporalStore is a new open-source engine aimed at managing long-term memory for language models. The idea is to give AI agents persistent, queryable memory. It matters to developers building agents who need to handle extended context without reinventing the wheel.",
+    "score": 0.55,
+    "tags": [
+      "open-source",
+      "agentes",
+      "memória"
+    ],
+    "img": "img/879c3dd9e59b.jpg",
+    "ts": 1786827101,
+    "addedTs": 1786848752,
+    "urlHash": "879c3dd9e59b",
+    "titleHash": "698e0198c646"
+  },
+  {
     "title": "The AI Bubble Is on Its Last Legs",
     "titlePt": "A bolha da IA está em seus últimos suspiros",
     "url": "https://www.youtube.com/watch?v=szK9LIGvW1o",
@@ -10750,93 +10838,5 @@
     "addedTs": 1786418815,
     "urlHash": "738247be1a80",
     "titleHash": "d157bc84ff3b"
-  },
-  {
-    "title": "Four takeaways from Mark Zuckerberg&#8217;s massive AI manifesto",
-    "titlePt": "Quatro destaques do manifesto massivo de IA de Mark Zuckerberg",
-    "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "A The Verge resumiu os quatro principais pontos do longo manifesto de IA divulgado por Mark Zuckerberg. O texto detalha a visão da Meta para inteligência artificial pessoal e agentes autônomos, com apostas em modelos próprios e integração com seus produtos. A publicação também destaca o tom ambicioso e as promessas de produtos voltados para o cotidiano dos usuários.",
-    "reasonEn": "The Verge summarized the four main takeaways from Mark Zuckerberg's long AI manifesto. The text details Meta's vision for personal AI and autonomous agents, with bets on proprietary models and integration with its products. The publication also highlights the ambitious tone and the promises of products aimed at users' daily lives.",
-    "score": 0.72,
-    "tags": [
-      "meta",
-      "visão",
-      "agentes"
-    ],
-    "img": "img/031f329eef99.jpg",
-    "ts": 1786399806,
-    "addedTs": 1786418815,
-    "urlHash": "031f329eef99",
-    "titleHash": "ec51129329d4"
-  },
-  {
-    "title": "OpenAI reportedly completed a $7 billion employee tender offer",
-    "titlePt": "OpenAI conclui oferta de US$ 7 bilhões para funcionários",
-    "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A OpenAI teria finalizado uma oferta de compra de ações para funcionários no valor de US$ 7 bilhões. Esse tipo de operação permite que colaboradores vendam parte de suas participações, funcionando como um respiro financeiro em meio à crescente disputa por talentos de IA. O movimento reforça a pressão da empresa para reter profissionais e mostra volumes enormes de capital circulando mesmo sem a empresa estar na bolsa. Para o mercado, é mais um indicador do valuation bilionário que a OpenAI sustenta.",
-    "reasonEn": "OpenAI reportedly completed a $7 billion employee tender offer. This type of deal lets employees sell part of their stakes, acting as a financial breather amid the fierce talent war in AI. The move reinforces the company's pressure to retain staff and shows enormous capital flowing even without being publicly listed. For the market, it's another indicator of the billion-dollar valuation OpenAI sustains.",
-    "score": 0.85,
-    "tags": [
-      "openai",
-      "negócio",
-      "valuation"
-    ],
-    "img": "img/bb2a7232b884.jpg",
-    "ts": 1786406598,
-    "addedTs": 1786410106,
-    "urlHash": "bb2a7232b884",
-    "titleHash": "df0d34745013"
-  },
-  {
-    "title": "Unifying Workers AI and AI Gateway into a Single AI Control Plane",
-    "titlePt": "Cloudflare unifica Workers AI e AI Gateway em um único plano",
-    "url": "https://blog.cloudflare.com/workers-ai-gateway-unification/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Cloudflare anunciou a fusão de seus serviços Workers AI e AI Gateway em uma plataforma única de controle de IA. A ideia é simplificar o gerenciamento de modelos executados na borda da rede. Para desenvolvedores, isso significa menos peças soltas para configurar e mais visibilidade sobre custos e desempenho. A mudança reflete a aposta da empresa em se tornar uma camada central de infraestrutura para aplicações com IA.",
-    "reasonEn": "Cloudflare announced the unification of its Workers AI and AI Gateway services into a single AI control plane. The goal is to simplify management of models running at the network edge. For developers, this means fewer loose pieces to configure and better visibility into cost and performance. The shift reflects the company's bet on becoming a core infrastructure layer for AI applications.",
-    "score": 0.6,
-    "tags": [
-      "cloudflare",
-      "infraestrutura",
-      "developer"
-    ],
-    "img": "img/009218646f3e.jpg",
-    "ts": 1786406506,
-    "addedTs": 1786410106,
-    "urlHash": "009218646f3e",
-    "titleHash": "81b8ee204df5"
-  },
-  {
-    "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
-    "titlePt": "OpenAI lança modelo de cibersegurança em meio a ataques com IA",
-    "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A OpenAI anunciou um modelo dedicado à cibersegurança em um momento em que ataques conduzidos com IA se multiplicam. A empresa busca oferecer ferramentas que ajudem equipes de segurança a detectar e responder a ameaças mais sofisticadas. A novidade chega num cenário em que hackers já usam IA para automatizar invasões, tornando a defesa mais difícil. Para empresas e profissionais de segurança, é um novo recurso na corrida armamentista digital.",
-    "reasonEn": "OpenAI announced a model dedicated to cybersecurity at a time when AI-driven attacks are multiplying. The company aims to offer tools that help security teams detect and respond to more sophisticated threats. The launch comes as hackers already use AI to automate intrusions, making defense harder. For companies and security professionals, it's a new resource in the digital arms race.",
-    "score": 0.85,
-    "tags": [
-      "openai",
-      "segurança",
-      "ciberataque"
-    ],
-    "img": "img/0212f9770dda.jpg",
-    "ts": 1786406175,
-    "addedTs": 1786410106,
-    "urlHash": "0212f9770dda",
-    "titleHash": "1d15ed04cb2a"
   }
 ]
