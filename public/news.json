@@ -1,5 +1,27 @@
 [
   {
+    "title": "ProofRun – a local verification receipt for AI coding agents",
+    "titlePt": "ProofRun: recibo local de verificação para agentes de código com IA",
+    "url": "https://github.com/yebiguo/ProofRun",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O ProofRun é uma nova ferramenta que gera um comprovante local de verificação para o trabalho feito por agentes de programação com IA. A ideia é permitir auditar e confiar mais nos resultados produzidos por IAs que escrevem código automaticamente. É relevante para times que já usam Codex, Claude Code ou Cursor e precisam de rastreabilidade. Pode ajudar a reduzir bugs e evitar surpresas em produção.",
+    "reasonEn": "ProofRun is a new tool that generates a local verification receipt for work done by AI coding agents. The idea is to make it easier to audit and trust the output of AIs that automatically write code. It matters for teams already using Codex, Claude Code or Cursor who need traceability. It could help reduce bugs and avoid surprises in production.",
+    "score": 0.5,
+    "tags": [
+      "devtools",
+      "ia",
+      "verificação"
+    ],
+    "img": "img/e9354947ee51.jpg",
+    "ts": 1786850535,
+    "addedTs": 1786854408,
+    "urlHash": "e9354947ee51",
+    "titleHash": "ee2c538c3b0b"
+  },
+  {
     "title": "Has the hallucination problem in AI been solved?",
     "titlePt": "As alucinações de IA foram realmente resolvidas?",
     "url": "https://news.ycombinator.com/item?id=49316330",
@@ -10817,26 +10839,5 @@
     "addedTs": 1786418815,
     "urlHash": "ac65d866b34b",
     "titleHash": "613a0b00c5ff"
-  },
-  {
-    "title": "Training AI to Govern for Us",
-    "titlePt": "Treinando IA para governar por nós",
-    "url": "https://freesystems.substack.com/p/training-ai-to-govern-for-us",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Uma discussão no Hacker News aborda o uso de inteligência artificial em funções de governança, como formulação de políticas públicas e regulação. O tema envolve trade-offs entre eficiência algorítmica, transparência e responsabilidade democrática. É um debate que afeta diretamente como sociedades podem usar a IA para tomar decisões coletivas.",
-    "reasonEn": "A discussion on Hacker News addresses the use of AI in governance functions, such as policy formulation and regulation. The topic involves trade-offs between algorithmic efficiency, transparency, and democratic accountability. It is a debate that directly affects how societies can use AI to make collective decisions.",
-    "score": 0.55,
-    "tags": [
-      "governança",
-      "política"
-    ],
-    "img": "img/738247be1a80.jpg",
-    "ts": 1786407419,
-    "addedTs": 1786418815,
-    "urlHash": "738247be1a80",
-    "titleHash": "d157bc84ff3b"
   }
 ]
