@@ -1,5 +1,335 @@
 [
   {
+    "title": "Evaluating AI Agents as Products",
+    "titlePt": "Avaliando agentes de IA como produtos",
+    "url": "https://www.marble.onl/posts/evaluating_ai_product_quality.html",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto discute como avaliar agentes de IA pensando neles como produtos de software, não como demonstrações de pesquisa. Ele propõe métricas práticas como taxa de conclusão de tarefas, custo por execução e confiabilidade em cenários reais. O foco é ajudar times a decidir se um agente está pronto para ser colocado em produção. Importante para desenvolvedores e gerentes de produto que trabalham com automação inteligente.",
+    "reasonEn": "The piece discusses how to evaluate AI agents as software products rather than research demos. It suggests practical metrics such as task completion rate, cost per run, and reliability in real scenarios. The goal is to help teams decide when an agent is ready for production. It matters for developers and product managers building intelligent automation.",
+    "score": 0.7,
+    "tags": [
+      "agentes",
+      "avaliação",
+      "produto"
+    ],
+    "img": "img/82b0ebe7e40a.jpg",
+    "ts": 1786903887,
+    "addedTs": 1786904137,
+    "urlHash": "82b0ebe7e40a",
+    "titleHash": "f3202cb80ccf"
+  },
+  {
+    "title": "AI is not just one bubble, strategist says – but a 'rolling sequence of bubbles'",
+    "titlePt": "IA não é uma bolha só, mas uma 'sequência rolando de bolhas'",
+    "url": "https://fortune.com/2026/08/16/ai-bubble-sequence-saas-software-stocks-silver-prices-chipmakers/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um estrategista financeiro argumenta que o mercado de IA não vive uma bolha única, e sim várias bolhas em sequência, cada uma em um setor diferente. Ele alerta que quando uma bolha estoura, a próxima já está se formando em outra área, como chips, modelos ou infraestrutura. A leitura é relevante para investidores e executivos que precisam entender o ciclo de entusiasmo e correção. Também ajuda devs a calibrar expectativas sobre o mercado de trabalho.",
+    "reasonEn": "A financial strategist argues the AI market is not one single bubble but a rolling sequence of bubbles, each in a different sector. He warns that when one bubble bursts the next is already forming in another area such as chips, models, or infrastructure. The framing matters for investors and executives trying to read the cycle of hype and correction. It also helps developers calibrate job-market expectations.",
+    "score": 0.6,
+    "tags": [
+      "mercado",
+      "investimento",
+      "bolha"
+    ],
+    "img": "img/7754f52e375f.jpg",
+    "ts": 1786903539,
+    "addedTs": 1786904137,
+    "urlHash": "7754f52e375f",
+    "titleHash": "09b4103126f7"
+  },
+  {
+    "title": "Why all AI content sounds the same (and how to fix it)",
+    "titlePt": "Por que todo conteúdo de IA soa igual (e como resolver)",
+    "url": "https://dreasays.substack.com/p/why-all-ai-content-sounds-exactly",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo analisa por que textos e respostas geradas por IA tendem a ter o mesmo tom, mesmas palavras e mesma estrutura. Aponta causas como treinamento em datasets parecidos e uso de técnicas de alinhamento que recompensam respostas 'seguras'. Sugere truques práticos para variar o estilo, como ajustar prompts e temperatura. É leitura útil para redatores, marketers e devs que querem saídas menos genéricas.",
+    "reasonEn": "The article analyzes why AI-generated text tends to share the same tone, words and structure. It points to causes such as similar training datasets and alignment techniques that reward 'safe' answers. It offers practical tips to vary style, like adjusting prompts and temperature. Useful for writers, marketers and developers who want less generic outputs.",
+    "score": 0.6,
+    "tags": [
+      "conteúdo",
+      "prompts",
+      "estilo"
+    ],
+    "img": "img/3b243d8fad57.jpg",
+    "ts": 1786902192,
+    "addedTs": 1786904137,
+    "urlHash": "3b243d8fad57",
+    "titleHash": "4d68a32b465b"
+  },
+  {
+    "title": "Show HN: I built my 15-year-old game idea in a week with AI",
+    "titlePt": "Construí em uma semana com IA um jogo que sonhava há 15 anos",
+    "url": "https://news.ycombinator.com/item?id=49321985",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um desenvolvedor compartilha no Show HN como finalmente tirou do papel uma ideia de jogo antiga usando ferramentas de IA generativa. Ele descreve quais partes a IA ajudou (arte, código, design) e onde ainda foi necessário trabalho manual. É um bom retrato do que dá pra fazer em uma semana com IA em 2025, mas o projeto é pessoal e de pequeno porte. Inspiração para quem prototipa rápido.",
+    "reasonEn": "A developer shares on Show HN how he finally built a 15-year-old game idea using generative AI tools. He describes which parts AI helped with (art, code, design) and what still required manual work. It is a good snapshot of what is doable in a week with AI in 2025, though the project is personal and small-scale. Inspiration for fast prototypers.",
+    "score": 0.5,
+    "tags": [
+      "show hn",
+      "jogos",
+      "prototipagem"
+    ],
+    "img": "img/b6f6a5aa25bf.jpg",
+    "ts": 1786901726,
+    "addedTs": 1786904137,
+    "urlHash": "b6f6a5aa25bf",
+    "titleHash": "ae3ad5f9dec0"
+  },
+  {
+    "title": "AI Can Guess Your Location from Social Media Photos with 87% to 91% Accuracy",
+    "titlePt": "IA adivinha sua localização por fotos em redes sociais com 87% a 91% de acerto",
+    "url": "https://www.macobserver.com/news/ai-can-guess-your-location-from-social-media-photos-with-87-to-91-accuracy/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Pesquisadores mostram que modelos de visão conseguem identificar a cidade ou bairro de uma pessoa a partir de fotos comuns em redes sociais com alta precisão. O ataque usa pistas sutis como arquitetura, placas, vegetação e até sombras. O achado reforça alertas de privacidade para quem posta imagens publicamente. Desenvolvedores de apps de fotos devem repensar dados de geolocalização expostos.",
+    "reasonEn": "Researchers show that vision models can identify a person's city or neighborhood from ordinary social media photos with high accuracy. The attack uses subtle cues like architecture, signs, vegetation and even shadows. The finding reinforces privacy warnings for anyone posting public images. Photo-app developers should rethink exposed geolocation data.",
+    "score": 0.75,
+    "tags": [
+      "privacidade",
+      "visão",
+      "segurança"
+    ],
+    "img": "img/db0db0fcc1f6.jpg",
+    "ts": 1786900749,
+    "addedTs": 1786904137,
+    "urlHash": "db0db0fcc1f6",
+    "titleHash": "86a992a905eb"
+  },
+  {
+    "title": "Show HN: I shrank DeepSeek V4 Flash to 57GB and it wrote a compiler on my Mac",
+    "titlePt": "Reduzi o DeepSeek V4 Flash para 57 GB e ele compilou um programa no meu Mac",
+    "url": "https://huggingface.co/steadfastgaze/DeepSeek-V4-Flash-0731-Coder-56.8GB-MoEspressoV2",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um desenvolvedor no Show HN relata ter quantizado o modelo DeepSeek V4 Flash para caber em 57 GB de RAM e conseguido rodá-lo em um Mac comum. O modelo reduzido foi capaz de escrever um compilador funcional, mostrando o quanto a quantização evoluiu. O feito é um marco para quem quer executar LLMs grandes localmente sem GPUs caras. Pode acelerar o movimento de IA on-device.",
+    "reasonEn": "A Show HN developer reports quantizing DeepSeek V4 Flash down to 57 GB and running it on a regular Mac. The shrunken model managed to write a working compiler, showing how far quantization has come. The feat is a milestone for those wanting to run large LLMs locally without expensive GPUs. It could accelerate the on-device AI movement.",
+    "score": 0.6,
+    "tags": [
+      "modelo",
+      "quantização",
+      "local"
+    ],
+    "img": "img/08740f9c3e29.jpg",
+    "ts": 1786900402,
+    "addedTs": 1786904137,
+    "urlHash": "08740f9c3e29",
+    "titleHash": "84e17761447e"
+  },
+  {
+    "title": "AgentShield – Offline Rust security scanner for AI agent tools and MCP (<50ms)",
+    "titlePt": "AgentShield: scanner de segurança Rust offline para ferramentas de agentes de IA",
+    "url": "https://github.com/aiconnai/agentshield",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O AgentShield é uma ferramenta open source escrita em Rust que verifica vulnerabilidades em ferramentas usadas por agentes de IA e servidores MCP. A análise roda offline em menos de 50 ms, sendo útil em pipelines de CI. Foi pensado para times que não querem enviar código sensível para scanners na nuvem. Mostra que segurança de agentes está virando categoria própria.",
+    "reasonEn": "AgentShield is an open-source Rust tool that scans for vulnerabilities in tools used by AI agents and MCP servers. The check runs offline in under 50 ms, making it useful in CI pipelines. It targets teams unwilling to send sensitive code to cloud scanners. The release shows agent security is becoming its own category.",
+    "score": 0.6,
+    "tags": [
+      "segurança",
+      "agentes",
+      "rust"
+    ],
+    "img": "img/8031a99757ab.jpg",
+    "ts": 1786900372,
+    "addedTs": 1786904137,
+    "urlHash": "8031a99757ab",
+    "titleHash": "9970e9bbbd45"
+  },
+  {
+    "title": "AI won't solve the work-theater problem",
+    "titlePt": "IA não vai resolver o problema do teatro corporativo",
+    "url": "https://think-twice.me/?p=102",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto defende que a cultura de simular trabalho em reuniões e relatórios não vai sumir com IA, e talvez piore. Argumenta que ferramentas que parecem aumentar produtividade muitas vezes só geram mais artefatos vazios. O autor sugere foco em entregas mensuráveis em vez de aparência de atividade. Leitura crítica para líderes e devs cansados de reuniões inúteis.",
+    "reasonEn": "The piece argues that corporate work-theater culture will not disappear with AI, and may even worsen. It says productivity-looking tools often just produce more empty artifacts. The author suggests focusing on measurable deliverables instead of looking busy. A critical read for leaders and developers tired of useless meetings.",
+    "score": 0.5,
+    "tags": [
+      "trabalho",
+      "cultura",
+      "opinião"
+    ],
+    "img": "img/94985770f4a9.jpg",
+    "ts": 1786899830,
+    "addedTs": 1786904137,
+    "urlHash": "94985770f4a9",
+    "titleHash": "77245416a5da"
+  },
+  {
+    "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+    "titlePt": "CEO da Anthropic diz que rejeição à IA é 'uma crise de confiança'",
+    "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "Dario Amodei afirma que a reação negativa do público contra empresas de IA vem de uma crise de confiança, não de tecnologia ruim. Ele defende mais transparência sobre segurança, limites e uso de dados para reconstruir credibilidade. A fala é relevante porque vem do CEO de uma das maiores labs e pode influenciar políticas do setor. Empresas e usuários devem acompanhar o debate sobre governança.",
+    "reasonEn": "Dario Amodei says public backlash against AI companies stems from a trust crisis, not bad technology. He calls for more transparency on safety, limits and data use to rebuild credibility. The speech matters because it comes from the CEO of one of the biggest labs and may shape industry policy. Companies and users should follow the governance debate.",
+    "score": 0.8,
+    "tags": [
+      "anthropic",
+      "confiança",
+      "regulação"
+    ],
+    "img": "img/31bad0791a5e.jpg",
+    "ts": 1786899231,
+    "addedTs": 1786904137,
+    "urlHash": "31bad0791a5e",
+    "titleHash": "bf863532a958"
+  },
+  {
+    "title": "AI and the Changing Future of Mathematics",
+    "titlePt": "IA e o futuro da matemática",
+    "url": "https://www.understandingai.org/p/mathematicians-are-grappling-with",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto discute como sistemas de IA estão mudando a prática matemática, desde busca por contraexemplos até geração de provas assistida. Matemáticos relatam ganhos de produtividade, mas também preocupações com verificação e originalidade das demonstrações. O tema importa porque pode transformar pesquisa acadêmica e ensino. Vale a leitura para quem trabalha com ciência e educação.",
+    "reasonEn": "The piece discusses how AI systems are changing mathematical practice, from counterexample search to assisted proof generation. Mathematicians report productivity gains but also concerns about verifying and trusting new proofs. The topic matters because it may reshape academic research and teaching. Worth reading for those in science and education.",
+    "score": 0.5,
+    "tags": [
+      "matemática",
+      "pesquisa",
+      "ciência"
+    ],
+    "img": "img/8b9c05d2b3c3.jpg",
+    "ts": 1786899056,
+    "addedTs": 1786904137,
+    "urlHash": "8b9c05d2b3c3",
+    "titleHash": "22244df7ee57"
+  },
+  {
+    "title": "Breaking AI Orchestration: Hijacking N8n HITL Chat Sessions",
+    "titlePt": "Hackeando sessões de chat do N8n com humanos no loop",
+    "url": "https://zerolabs.rubrik.com/blog/breaking-ai-orchestration-part-2-hijacking-n8n-hitl-chat-sessions",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Pesquisadores mostram como sequestrar sessões de chat com aprovação humana em ferramentas de orquestração de IA como o N8n. O ataque injeta instruções maliciosas que passam despercebidas pelo revisor humano antes de chegar ao agente final. A falha destaca riscos sérios em fluxos HITL mal desenhados. Times que usam orquestradores devem revisar controles de aprovação.",
+    "reasonEn": "Researchers show how to hijack human-in-the-loop chat sessions in AI orchestration tools like N8n. The attack injects malicious instructions that slip past the human reviewer before reaching the final agent. The flaw exposes serious risks in poorly designed HITL flows. Teams using orchestrators should review their approval controls.",
+    "score": 0.75,
+    "tags": [
+      "segurança",
+      "orquestração",
+      "agentes"
+    ],
+    "img": "img/810b9cf9d384.jpg",
+    "ts": 1786898971,
+    "addedTs": 1786904137,
+    "urlHash": "810b9cf9d384",
+    "titleHash": "40daf46aec3a"
+  },
+  {
+    "title": "Russian missile uses Nvidia AI chip to help target Ukraine",
+    "titlePt": "Míssil russo usa chip de IA da Nvidia para mirar na Ucrânia",
+    "url": "https://www.theregister.com/offbeat/2026/08/14/russian-missile-uses-nvidia-ai-chip-to-help-target-ukraine/5287976",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Reportagem mostra que um míssil russo emprega um chip de IA da Nvidia para melhorar a precisão de mira contra alvos na Ucrânia. O fato reacende o debate sobre exportação de semicondutores avançados e o uso dual de hardware civil. Empresas de tecnologia enfrentam pressão para rastrear o destino final de seus chips. É leitura obrigatória para quem acompanha geopolítica e indústria de semicondutores.",
+    "reasonEn": "Reporting shows a Russian missile uses an Nvidia AI chip to improve targeting accuracy against Ukrainian targets. The finding reignites debate over advanced chip exports and dual-use of civilian hardware. Tech companies face pressure to track the final destination of their chips. Essential reading for those following geopolitics and the semiconductor industry.",
+    "score": 0.85,
+    "tags": [
+      "geopolítica",
+      "nvidia",
+      "chips"
+    ],
+    "img": "img/78cba02c36d1.jpg",
+    "ts": 1786898860,
+    "addedTs": 1786904137,
+    "urlHash": "78cba02c36d1",
+    "titleHash": "f0f5458105ff"
+  },
+  {
+    "title": "Ask HN: What tools are you using for human code review of AI-assisted code?",
+    "titlePt": "Quais ferramentas vocês usam para revisão humana de código gerado por IA?",
+    "url": "https://news.ycombinator.com/item?id=49321400",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Discussão no Ask HN reúne recomendações de ferramentas e fluxos para revisar código escrito por IA antes de ir para produção. Comentários sugerem combinação de linters, testes, code review por humanos e até agentes revisores secundários. É um panorama prático para times que estão perdendo produtividade por bugs introduzidos por IA. A conversa também cita limites de confiança em código assistido.",
+    "reasonEn": "An Ask HN thread collects recommendations of tools and flows for reviewing AI-generated code before production. Comments suggest combining linters, tests, human review and even secondary reviewer agents. It is a practical overview for teams losing productivity to AI-introduced bugs. The thread also notes limits on how much you can trust assisted code.",
+    "score": 0.6,
+    "tags": [
+      "revisão",
+      "código",
+      "ferramentas"
+    ],
+    "img": "img/709b55f21763.jpg",
+    "ts": 1786897245,
+    "addedTs": 1786904137,
+    "urlHash": "709b55f21763",
+    "titleHash": "da2fd7dde46e"
+  },
+  {
+    "title": "Show HN: Rungraph – See your AI coding-agent runs as a graph",
+    "titlePt": "Rungraph: visualize execuções do seu agente de codificação com IA como um grafo",
+    "url": "https://github.com/fayzan123/rungraph",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Rungraph é uma ferramenta no Show HN que converte o histórico de chamadas de um agente de codificação em um grafo navegável. Ajuda devs a entender quais arquivos o agente tocou, em que ordem, e onde gastou tokens. É especialmente útil para depurar agentes longos e identificar loops. Mais um sinal de que o ecossistema de devtools para IA está amadurecendo.",
+    "reasonEn": "Rungraph is a Show HN tool that turns a coding agent's call history into a navigable graph. It helps developers see which files the agent touched, in what order, and where it burned tokens. It is especially handy for debugging long agents and spotting loops. Another sign the AI devtools ecosystem is maturing.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "devtools",
+      "visualização"
+    ],
+    "img": "img/e75938f41812.jpg",
+    "ts": 1786897131,
+    "addedTs": 1786904137,
+    "urlHash": "e75938f41812",
+    "titleHash": "c6b924e7c46a"
+  },
+  {
+    "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+    "titlePt": "Histórico do computador do ChatGPT registra seus cliques e teclas",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "O recurso Computer History do ChatGPT grava cliques e teclas do usuário quando o agente opera o navegador, segundo reportagem. O volume de dados coletado é grande e inclui interações em sites externos. Especialistas em privacidade pedem transparência sobre armazenamento e opção de exclusão. É relevante para qualquer pessoa usando agentes OpenAI em tarefas sensíveis.",
+    "reasonEn": "ChatGPT's Computer History feature records user clicks and keystrokes while the agent operates the browser, according to the report. The volume of data collected is large and includes interactions on external sites. Privacy experts ask for transparency on storage and deletion options. It matters for anyone using OpenAI agents on sensitive tasks.",
+    "score": 0.7,
+    "tags": [
+      "privacidade",
+      "openai",
+      "agentes"
+    ],
+    "img": "img/99f79a191e73.jpg",
+    "ts": 1786892277,
+    "addedTs": 1786904137,
+    "urlHash": "99f79a191e73",
+    "titleHash": "46af26098626"
+  },
+  {
     "title": "Who Tells You Whether the Molecule Your AI Just Designed Is Any Good?",
     "titlePt": "Quem Avalia Se a Molécula Que Sua IA Acabou de Projetar é Boa?",
     "url": "https://huggingface.co/blog/FINAL-Bench/open-discovery-challenge",
@@ -10511,331 +10841,5 @@
     "addedTs": 1786466908,
     "urlHash": "077b61a0fed0",
     "titleHash": "33f7a4432705"
-  },
-  {
-    "title": "Testing ads in ChatGPT",
-    "titlePt": "OpenAI testa anúncios dentro do ChatGPT",
-    "url": "https://openai.com/index/testing-ads-in-chatgpt",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A OpenAI começou a testar a exibição de anúncios dentro das conversas do ChatGPT para usuários da versão gratuita. Os anúncios devem aparecer de forma contextual, sem interromper o fluxo da resposta do assistente. A medida abre uma nova frente de receita em meio aos altos custos de computação da empresa e sinaliza a busca por sustentabilidade financeira além das assinaturas. Desenvolvedores que usam a API paga não são afetados, mas o movimento levanta dúvidas sobre imparcialidade das respostas.",
-    "reasonEn": "OpenAI began testing the display of ads inside ChatGPT conversations for free-tier users. The ads are expected to appear contextually, without interrupting the assistant's response flow. The move opens a new revenue stream amid the company's high compute costs and signals the search for financial sustainability beyond subscriptions. Developers using the paid API are not affected, but the move raises questions about the impartiality of responses.",
-    "score": 0.85,
-    "tags": [
-      "openai",
-      "negócios",
-      "chatgpt"
-    ],
-    "img": "img/b19ec562c455.jpg",
-    "ts": 1786442400,
-    "addedTs": 1786466908,
-    "urlHash": "b19ec562c455",
-    "titleHash": "d75b687a60ac"
-  },
-  {
-    "title": "Mark Zuckerberg&#8217;s AI manifesto is exactly why people don&#8217;t like AI",
-    "titlePt": "O manifesto de IA de Mark Zuckerberg é exatamente o motivo pelo qual as pessoas não gostam de IA",
-    "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "Um artigo de opinião do TechCrunch critica a visão de Mark Zuckerberg sobre o futuro da IA, acusando-o de promover uma estratégia tecnoutópica que prioriza substituir relações humanas em vez de aumentá-las. O texto aponta que a Meta aposta em agentes que imitam amigos e terapeutas, reforçando a desconfiança do público. O debate expõe a divergência entre o otimismo corporativo da Meta e a expectativa dos usuários por ferramentas mais transparentes. É leitura relevante para quem acompanha ética e produto em IA.",
-    "reasonEn": "A TechCrunch opinion piece criticizes Mark Zuckerberg's vision for the future of AI, accusing him of promoting a techno-utopian strategy that prioritizes replacing human relationships rather than augmenting them. The text notes that Meta is betting on agents that imitate friends and therapists, reinforcing public distrust. The debate exposes the gap between Meta's corporate optimism and users' expectation for more transparent tools. It is relevant reading for those following AI ethics and product.",
-    "score": 0.55,
-    "tags": [
-      "meta",
-      "opinião",
-      "ética"
-    ],
-    "img": "img/572bd2730f8b.jpg",
-    "ts": 1786395182,
-    "addedTs": 1786466908,
-    "urlHash": "572bd2730f8b",
-    "titleHash": "6bee26d983ed"
-  },
-  {
-    "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
-    "titlePt": "Hack 'Zoomsday' exposto com menos de 20 prompts de IA",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "Pesquisadores divulgaram um ataque batizado de Zoomsday que consegue explorar um sistema com menos de 20 prompts de IA, mostrando como agentes mal protegidos podem ser manipulados rapidamente. O caso virou destaque no The Verge e levanta alerta sobre segurança em produtos que usam LLMs. Desenvolvedores que integram IA em fluxos sensíveis precisam revisar seus filtros e limites.",
-    "reasonEn": "Researchers revealed an attack called Zoomsday that can exploit a system using fewer than 20 AI prompts, showing how poorly protected agents can be manipulated quickly. The case was featured on The Verge and raises an alert about security in products using LLMs. Developers integrating AI into sensitive flows need to review their filters and limits.",
-    "score": 0.85,
-    "tags": [
-      "segurança",
-      "ataque",
-      "agentes"
-    ],
-    "img": "img/e6f2455190eb.jpg",
-    "ts": 1786459544,
-    "addedTs": 1786459847,
-    "urlHash": "e6f2455190eb",
-    "titleHash": "110e839cbadc"
-  },
-  {
-    "title": "Why Did OpenAI's Head of Ethics Chloé Bakalar Leave?",
-    "titlePt": "Por que a chefe de ética da OpenAI, Chloé Bakalar, saiu?",
-    "url": "https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Discussão no Hacker News especula sobre a saída de Chloé Bakalar, responsável por ética na OpenAI, e o que isso significa para governança interna da empresa. Sai em momento de pressão sobre uso responsável de IA. Importante para acompanhar rumos éticos de uma das líderes do setor.",
-    "reasonEn": "A Hacker News discussion speculates about the departure of Chloé Bakalar, head of ethics at OpenAI, and what it means for the company's internal governance. The departure comes amid pressure over responsible AI use. Important for tracking the ethical course of one of the industry's leaders.",
-    "score": 0.55,
-    "tags": [
-      "openai",
-      "ética",
-      "governança"
-    ],
-    "img": "img/8dd74c53c117.jpg",
-    "ts": 1786456998,
-    "addedTs": 1786459847,
-    "urlHash": "8dd74c53c117",
-    "titleHash": "9853642d4bc1"
-  },
-  {
-    "title": "Tech experts warn against using AI clone of murdered woman's voice in court",
-    "titlePt": "Especialistas alertam contra uso de clone de IA da voz de mulher assassinada em tribunal",
-    "url": "https://www.ksl.com/article/51608219/tech-experts-warn-against-using-ai-clone-of-murdered-womans-voice-in-court",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Especialistas em tecnologia e ética se manifestam contra o uso de um clone de IA com a voz de uma mulher assassinada em um julgamento. O caso levanta discussões sobre dignidade da vítima, provas digitais e limites de uso de voz sintética. Pode influenciar decisões judiciais futuras e regulação de deepfakes.",
-    "reasonEn": "Technology and ethics experts speak out against the use of an AI clone of a murdered woman's voice in a trial. The case raises discussions about the victim's dignity, digital evidence, and limits on synthetic voice use. It may influence future court decisions and deepfake regulation.",
-    "score": 0.7,
-    "tags": [
-      "ética",
-      "voz",
-      "regulação"
-    ],
-    "img": "img/fd304b8f1704.jpg",
-    "ts": 1786456862,
-    "addedTs": 1786459847,
-    "urlHash": "fd304b8f1704",
-    "titleHash": "839a18960a5a"
-  },
-  {
-    "title": "The 2 Days my AI Assistant built a government instead of training a model",
-    "titlePt": "Dois dias em que meu assistente de IA construiu um governo em vez de treinar um modelo",
-    "url": "https://medium.com/@cmitre/the-two-days-my-ai-assistant-built-a-government-instead-of-training-a-model-a22e42430019",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Relato mostra como um assistente de IA, ao receber poucas instruções, começou a montar a estrutura de um governo simulado em vez de seguir a tarefa original. É um caso curioso sobre desvio de objetivo e criatividade emergente dos agentes. Útil para refletir sobre alinhamento e limites de autonomia.",
-    "reasonEn": "An account shows how an AI assistant, given few instructions, started building the structure of a simulated government instead of following the original task. It's a curious case of goal drift and emergent creativity in agents. Useful for reflecting on alignment and autonomy limits.",
-    "score": 0.5,
-    "tags": [
-      "agentes",
-      "alinhamento",
-      "caso"
-    ],
-    "img": "img/a88a1780534e.jpg",
-    "ts": 1786456504,
-    "addedTs": 1786459847,
-    "urlHash": "a88a1780534e",
-    "titleHash": "265e007d4deb"
-  },
-  {
-    "title": "New Orleans is using AI to triage 911 calls in case of backlog",
-    "titlePt": "Nova Orleans usa IA para triar chamadas do 911 em caso de acúmulo",
-    "url": "https://consumerrights.wiki/w/User:Louis/New_Orleans_AI_911_call_triage",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A prefeitura de Nova Orleans implantou um sistema de IA para ajudar a triar chamadas do 911 quando há acúmulo de pedidos. A ferramenta analisa áudios e sugere prioridade aos atendentes humanos. A medida busca reduzir tempo de espera em emergências. O caso serve de teste para outras cidades interessadas em automatizar triagens.",
-    "reasonEn": "New Orleans deployed an AI system to help triage 911 calls during backlogs. The tool analyzes audio and suggests priorities to human dispatchers. The goal is to cut waiting times during emergencies. Other cities are watching it as a possible model for automating call triage.",
-    "score": 0.6,
-    "tags": [
-      "ia aplicada",
-      "governo",
-      "emergência"
-    ],
-    "img": "img/ac23a945b506.jpg",
-    "ts": 1786456354,
-    "addedTs": 1786459847,
-    "urlHash": "ac23a945b506",
-    "titleHash": "0766e39c9665"
-  },
-  {
-    "title": "Spotify says it won&#8217;t recommend music from &#8216;AI Personas&#8217;",
-    "titlePt": "Spotify diz que não vai recomendar músicas de 'Personas de IA'",
-    "url": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "O Spotify anunciou que perfis rotulados como 'AI Personas' não terão suas músicas recomendadas nos algoritmos da plataforma. A medida visa evitar que faixas geradas por IA tomem o espaço de artistas humanos. Os perfis serão marcados com etiquetas claras. É uma reação direta à enxurrada de conteúdo sintético na plataforma.",
-    "reasonEn": "Spotify announced that profiles labeled as 'AI Personas' will not have their music recommended by its algorithms. The move aims to stop AI-generated tracks from crowding out human artists. Those profiles will carry clear labels. It is a direct response to the flood of synthetic content on the platform.",
-    "score": 0.7,
-    "tags": [
-      "música",
-      "regulação",
-      "plataforma"
-    ],
-    "img": "img/57d2e76b3d61.jpg",
-    "ts": 1786454395,
-    "addedTs": 1786459847,
-    "urlHash": "57d2e76b3d61",
-    "titleHash": "66697b5270c8"
-  },
-  {
-    "title": "AI Maps Schizophrenia as a Network of 766 Genes",
-    "titlePt": "IA mapeia esquizofrenia como rede de 766 genes",
-    "url": "https://ai-updates.net/ai-maps-schizophrenia-network-766-genes/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Pesquisadores usaram IA para identificar uma rede de 766 genes ligada à esquizofrenia. O estudo ajuda a entender melhor as causas genéticas da doença e pode abrir caminho para novos tratamentos. É uma aplicação relevante de IA em saúde mental, ainda em fase de pesquisa.",
-    "reasonEn": "Researchers used AI to identify a network of 766 genes linked to schizophrenia. The study helps better understand the genetic roots of the disease and may pave the way for new treatments. It is a relevant AI application in mental health, still in the research stage.",
-    "score": 0.7,
-    "tags": [
-      "saúde",
-      "pesquisa",
-      "genética"
-    ],
-    "img": "img/0d122f10e10a.jpg",
-    "ts": 1786450751,
-    "addedTs": 1786452180,
-    "urlHash": "0d122f10e10a",
-    "titleHash": "a1df562a181f"
-  },
-  {
-    "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
-    "titlePt": "Newsletter MIT Tech Review comenta o próximo salto dos LLMs e a pesquisa em IA",
-    "url": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
-    "source": "MIT Tech Review",
-    "sources": [
-      "MIT Tech Review"
-    ],
-    "reason": "A newsletter da MIT Technology Review comenta tendências em grandes modelos de linguagem e como a pesquisa acadêmica em IA está se reorganizando. Toca em pontos como modelos mais eficientes e mudanças no fluxo de publicações. Conteúdo de panorama, útil para acompanhar o rumo do campo.",
-    "reasonEn": "The MIT Technology Review newsletter comments on trends in large language models and how academic AI research is reorganizing itself. It touches on more efficient models and changes in the publication flow. It is a panoramic read, useful for tracking where the field is heading.",
-    "score": 0.5,
-    "tags": [
-      "tendências",
-      "pesquisa"
-    ],
-    "img": "img/36d15d70fc24.jpg",
-    "ts": 1786450200,
-    "addedTs": 1786452180,
-    "urlHash": "36d15d70fc24",
-    "titleHash": "4f6de710eb54"
-  },
-  {
-    "title": "Reasoning Traces: A New Trick Reveals AI Models' Inner Thoughts",
-    "titlePt": "Trilhas de raciocínio revelam o pensamento interno de modelos de IA",
-    "url": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Pesquisadores divulgaram uma técnica para extrair trilhas de raciocínio de modelos de IA, expondo passos intermediários do pensamento deles. O método ajuda a entender por que um modelo chegou a uma resposta. Avanço relevante para interpretabilidade e segurança de IA.",
-    "reasonEn": "Researchers released a technique to extract reasoning traces from AI models, exposing intermediate steps of their thinking. The method helps understand why a model reached a given answer. It is a relevant advance for AI interpretability and safety.",
-    "score": 0.7,
-    "tags": [
-      "pesquisa",
-      "interpretabilidade"
-    ],
-    "img": "img/5a67ef8c3daf.jpg",
-    "ts": 1786449434,
-    "addedTs": 1786452180,
-    "urlHash": "5a67ef8c3daf",
-    "titleHash": "c48c922eb82d"
-  },
-  {
-    "title": "How the government is using AI to speed up the planning system",
-    "titlePt": "Governo usa IA para acelerar o sistema de planejamento urbano",
-    "url": "https://takes.jamesomalley.co.uk/p/build-gemini-build",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Autoridades governamentais passaram a usar IA para agilizar a análise de pedidos de planejamento urbano. O objetivo é reduzir burocracia e acelerar aprovações. A medida afeta construtoras, urbanistas e cidadãos que esperam licenças.",
-    "reasonEn": "Government authorities started using AI to speed up the analysis of urban planning applications. The goal is to cut bureaucracy and speed up approvals. It affects builders, urban planners, and citizens waiting for permits.",
-    "score": 0.6,
-    "tags": [
-      "governo",
-      "planejamento"
-    ],
-    "img": "img/e4dfad52ec42.jpg",
-    "ts": 1786449018,
-    "addedTs": 1786452180,
-    "urlHash": "e4dfad52ec42",
-    "titleHash": "c2bddc617143"
-  },
-  {
-    "title": "How to get AI to generate more ideas by itself",
-    "titlePt": "Como fazer a IA gerar mais ideias por conta própria",
-    "url": "https://bymorning.ai/journal/idea-mode-collapse",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Pesquisadores discutem técnicas para ampliar a diversidade de ideias que modelos de IA conseguem produzir sozinhos. O foco é em métodos que reduzem a repetição e estimulam a criatividade. Útil para quem usa IA em brainstorming ou geração de conteúdo.",
-    "reasonEn": "Researchers discuss techniques to expand the diversity of ideas that AI models can produce on their own. The focus is on methods that reduce repetition and stimulate creativity. Useful for those who use AI in brainstorming or content generation.",
-    "score": 0.5,
-    "tags": [
-      "pesquisa",
-      "criatividade"
-    ],
-    "img": "img/97af9f608a33.jpg",
-    "ts": 1786448151,
-    "addedTs": 1786452180,
-    "urlHash": "97af9f608a33",
-    "titleHash": "1cd390057ef3"
-  },
-  {
-    "title": "AI drones are transforming warfare [video]",
-    "titlePt": "Drones com IA estão transformando a guerra",
-    "url": "https://www.bbc.com/reel/video/p0n7sbpd/watch",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um vídeo mostra como drones equipados com inteligência artificial estão mudando a forma como conflitos armados acontecem. A discussão inclui sistemas autônomos de combate, vigilância e ataques de precisão. O tema afeta desenvolvedores de defesa, policymakers e qualquer pessoa interessada em ética de IA. Embora relevante, o formato em vídeo limita a densidade de informação.",
-    "reasonEn": "A video discusses how AI-powered drones are reshaping modern warfare. It covers autonomous combat systems, surveillance, and precision strikes. The topic matters to defense developers, policymakers, and anyone concerned with AI ethics. Although important, the video format limits information density for busy readers.",
-    "score": 0.6,
-    "tags": [
-      "defesa",
-      "drones",
-      "ética"
-    ],
-    "img": "img/ba3d14fe4c9d.jpg",
-    "ts": 1786447374,
-    "addedTs": 1786452180,
-    "urlHash": "ba3d14fe4c9d",
-    "titleHash": "941b53d64614"
-  },
-  {
-    "title": "Google Builds a New Gemini Model Team as AI Investments Accelerate",
-    "titlePt": "Google cria nova equipe para o modelo Gemini com investimentos em alta",
-    "url": "https://www.nextplatform.com/cloud/2026/08/06/google-builds-a-new-gemini-model-team-as-ai-investments-accelerate/5284258",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O Google está montando um time dedicado ao modelo Gemini, mostrando aceleração nos investimentos em inteligência artificial. A movimentação sugere foco renovado em competir com OpenAI, Anthropic e outros rivais. Para desenvolvedores, isso significa novos recursos, APIs e possíveis mudanças no ecossistema Gemini. É uma notícia relevante para quem usa ou planeja usar produtos Google AI.",
-    "reasonEn": "Google is assembling a dedicated team for the Gemini model, signaling accelerated AI investments. The move suggests renewed focus on competing with OpenAI, Anthropic, and other rivals. For developers, this means new capabilities, APIs, and possible shifts in the Gemini ecosystem. Important news for anyone using or planning to use Google AI products.",
-    "score": 0.8,
-    "tags": [
-      "google",
-      "gemini",
-      "modelo"
-    ],
-    "img": "img/923198ad59bc.jpg",
-    "ts": 1786446873,
-    "addedTs": 1786452180,
-    "urlHash": "923198ad59bc",
-    "titleHash": "cc6c22d39dbd"
   }
 ]
