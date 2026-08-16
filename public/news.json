@@ -1,5 +1,137 @@
 [
   {
+    "title": "Claude Is Down",
+    "titlePt": "Claude está fora do ar",
+    "url": "https://claude.ai/new",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O serviço da Anthropic, Claude, sofreu uma interrupção que afetou usuários em diferentes regiões. Quem dependia da API ou do app perdeu acesso ao chatbot durante o incidente. Quedas como essa impactam diretamente empresas que usam Claude em produção, especialmente atendimento ao cliente e fluxos automatizados. É um lembrete de que concentrar trabalho crítico em um único provedor traz riscos reais.",
+    "reasonEn": "Anthropic's Claude service experienced an outage that affected users across multiple regions. People relying on the API or the app lost access to the chatbot during the incident. Outages like this hit companies running Claude in production hard, especially for customer support and automated workflows. It is a reminder that concentrating critical work on a single provider brings real risks.",
+    "score": 0.75,
+    "tags": [
+      "outage",
+      "anthropic",
+      "infraestrutura"
+    ],
+    "img": "img/146fa17c61d4.jpg",
+    "ts": 1786917085,
+    "addedTs": 1786918320,
+    "urlHash": "146fa17c61d4",
+    "titleHash": "22677892f7f7"
+  },
+  {
+    "title": "Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
+    "titlePt": "Jovens odeiam CEOs de IA com uma intensidade quase inacreditável",
+    "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma reportagem aponta que a geração mais nova expressa uma aversão forte e pessoal aos CEOs das grandes empresas de IA, como Sam Altman e Dario Amodei. A rejeição vai além de críticas técnicas e vira quase um movimento cultural e identitário. Isso importa porque a força de trabalho do futuro já está formando opinião antes mesmo de entrar no mercado. Para empresas de IA, é um sinal de que a imagem pública precisa mudar para conseguir atrair talentos e usuários.",
+    "reasonEn": "A report says younger people express a strong, personal dislike for big AI CEOs like Sam Altman and Dario Amodei. The rejection goes beyond technical criticism and becomes almost a cultural and identity-driven movement. This matters because the future workforce is already forming opinions before even entering the job market. For AI companies, it is a signal that their public image needs to change to attract talent and users.",
+    "score": 0.55,
+    "tags": [
+      "sociedade",
+      "opinião",
+      "trabalho"
+    ],
+    "img": "img/b33db50a6450.jpg",
+    "ts": 1786916046,
+    "addedTs": 1786918320,
+    "urlHash": "b33db50a6450",
+    "titleHash": "3f57a91c823a"
+  },
+  {
+    "title": "Show HN: VocalCode – push-to-talk dictation for AI coding agents, on-device",
+    "titlePt": "VocalCode: ditado por voz para agentes de código de IA, no próprio dispositivo",
+    "url": "https://vocalcode.app/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O VocalCode permite ditar comandos para agentes de codificação por IA pressionando uma tecla, com reconhecimento de voz rodando localmente no dispositivo. O ponto-chave é a privacidade: nada é enviado para a nuvem, então o áudio e o código ficam na máquina do usuário. Isso ajuda quem usa agentes como Claude Code ou Cursor a iterar mais rápido sem digitar. Para desenvolvedores que se preocupam com vazamento de código, é uma proposta interessante.",
+    "reasonEn": "VocalCode lets you push-to-talk and dictate prompts to AI coding agents, with speech recognition running locally on-device. The key selling point is privacy: nothing is sent to the cloud, so audio and code stay on the user's machine. This helps people using agents like Claude Code or Cursor iterate faster without typing. For developers worried about code leakage, it is an appealing approach.",
+    "score": 0.5,
+    "tags": [
+      "devtool",
+      "voz",
+      "privacidade"
+    ],
+    "img": "img/5f181908f796.jpg",
+    "ts": 1786915254,
+    "addedTs": 1786918320,
+    "urlHash": "5f181908f796",
+    "titleHash": "9692b0fdde9a"
+  },
+  {
+    "title": "AI Debt Failure Will Prompt Another Wave of Fed Bailouts [pdf]",
+    "titlePt": "Falha na dívida de IA vai provocar nova onda de resgates do Fed",
+    "url": "https://www.myrmikan.com/pub/Myrmikan_Research_2026_08_14.pdf",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um artigo em PDF argumenta que o endividamento acumulado por empresas de IA para financiar data centers e GPUs pode estourar, exigindo intervenção do banco central dos EUA. A tese é que o sistema financeiro está exposto demais ao ciclo de hype da inteligência artificial. Se isso se confirmar, investidores e contribuintes podem pagar a conta de mais um resgate. É leitura importante para quem acompanha os riscos macroeconômicos do setor.",
+    "reasonEn": "A PDF article argues that debt piled up by AI companies to finance data centers and GPUs could blow up, forcing the US central bank to step in. The thesis is that the financial system is overexposed to the AI hype cycle. If it plays out that way, investors and taxpayers may end up footing the bill for another bailout. Important reading for anyone tracking the macro risks of the sector.",
+    "score": 0.55,
+    "tags": [
+      "economia",
+      "risco",
+      "regulação"
+    ],
+    "img": "img/a6274d70f911.jpg",
+    "ts": 1786914077,
+    "addedTs": 1786918320,
+    "urlHash": "a6274d70f911",
+    "titleHash": "e51b85558664"
+  },
+  {
+    "title": "Why people aren&#8217;t buying Mark Zuckerberg’s AI future",
+    "titlePt": "Por que as pessoas não estão comprando o futuro de IA de Mark Zuckerberg",
+    "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A TechCrunch analisa por que a visão de IA da Meta, empurrada por Zuckerberg com gastos bilionários, não está convencendo o público nem o mercado. Investidores questionam o retorno dos investimentos em modelos próprios e data centers. O artigo sugere que a marca Meta ainda carrega desconfiança após escândalos de privacidade. Para a indústria, é mais um sinal de que marketing e narrativa importam tanto quanto tecnologia.",
+    "reasonEn": "TechCrunch analyzes why Meta's AI vision, pushed by Zuckerberg with billions in spending, is failing to convince either the public or the market. Investors are questioning the return on investments in proprietary models and data centers. The article suggests the Meta brand still carries distrust after privacy scandals. For the industry, it is another signal that marketing and narrative matter as much as technology.",
+    "score": 0.6,
+    "tags": [
+      "meta",
+      "negócios",
+      "mercado"
+    ],
+    "img": "img/9a585195e787.jpg",
+    "ts": 1786912321,
+    "addedTs": 1786918320,
+    "urlHash": "9a585195e787",
+    "titleHash": "3826cbe5211a"
+  },
+  {
+    "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+    "titlePt": "Pensou em ACE? Dá para fazer com menos tokens",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "O post no Hugging Face apresenta uma técnica ou paper que consegue replicar resultados do método ACE (Agentic Context Engineering) usando bem menos tokens. Isso significa mais eficiência e menor custo em fluxos com agentes de IA. Para quem trabalha com agentes, é uma leitura técnica relevante que pode mudar a forma como prompts e contexto são gerenciados. Ainda é pesquisa, mas aponta direção prática.",
+    "reasonEn": "The Hugging Face post presents a technique or paper that replicates results from the ACE (Agentic Context Engineering) method while using far fewer tokens. That means more efficiency and lower cost in AI agent workflows. For people working with agents, it is a relevant technical read that may change how prompts and context are managed. Still research, but it points in a practical direction.",
+    "score": 0.6,
+    "tags": [
+      "pesquisa",
+      "agentes",
+      "eficiência"
+    ],
+    "img": "img/077b61a0fed0.jpg",
+    "ts": 1786455430,
+    "addedTs": 1786918320,
+    "urlHash": "077b61a0fed0",
+    "titleHash": "33f7a4432705"
+  },
+  {
     "title": "Red queen hypothesis – a new way forward for self-improving AI",
     "titlePt": "Hipótese da Rainha Vermelha: novo caminho para IA que se autoaperfeiçoa",
     "url": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
@@ -10704,137 +10836,5 @@
     "addedTs": 1786474110,
     "urlHash": "8e2f05bb649f",
     "titleHash": "1fc3ee324e75"
-  },
-  {
-    "title": "China warns of \"security backdoor\" in Anthropic AI coding tool [July 8, 2026]",
-    "titlePt": "China alerta para backdoor em ferramenta de código da Anthropic",
-    "url": "https://www.cbsnews.com/news/china-security-backdoor-anthropic-ai-coding-tool/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Autoridades chinesas acusaram publicamente a ferramenta de programação com IA da Anthropic de conter uma backdoor de segurança, sem apresentar provas técnicas detalhadas. A acusação ocorre em meio à corrida geopolítica por soberania em IA e pode afetar empresas chinesas que usam a ferramenta. É leitura obrigatória para qualquer equipe de segurança avaliando fornecedores estrangeiros. A Anthropic ainda não respondeu publicamente.",
-    "reasonEn": "Chinese authorities publicly accused Anthropic's AI coding tool of containing a security backdoor, without sharing detailed technical proof. The accusation comes amid the geopolitical race for AI sovereignty and may affect Chinese companies using the tool. A must-read for any security team evaluating foreign vendors. Anthropic has not yet responded publicly.",
-    "score": 0.7,
-    "tags": [
-      "segurança",
-      "geopolítica",
-      "anthropic"
-    ],
-    "img": "img/629824ca0773.jpg",
-    "ts": 1786470235,
-    "addedTs": 1786474110,
-    "urlHash": "629824ca0773",
-    "titleHash": "d0175b382c99"
-  },
-  {
-    "title": "Ask HN: What are your thoughts on E2E software development using AI agents?",
-    "titlePt": "Desenvolvimento E2E com agentes de IA vale a pena?",
-    "url": "https://news.ycombinator.com/item?id=49261790",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Uma pergunta no Hacker News reúne relatos variados de equipes que tentam fazer desenvolvimento ponta a ponta, do requisito ao deploy, usando agentes de IA. Os comentários mostram ganhos em protótipos, mas tropeços em sistemas legados e requisitos não funcionais. Útil para líderes técnicos decidindo até onde apostar nesse fluxo. Não há consenso, mas o tema está maduro o suficiente para discussão séria.",
-    "reasonEn": "An HN question collects varied reports from teams attempting end-to-end development using AI agents. Comments show gains in prototypes but stumbles on legacy systems and non-functional requirements. Useful for tech leaders deciding how far to lean into this workflow. There's no consensus, but the topic is mature enough for serious discussion.",
-    "score": 0.5,
-    "tags": [
-      "agente",
-      "desenvolvimento",
-      "debate"
-    ],
-    "img": "img/6c50ffb961de.jpg",
-    "ts": 1786470191,
-    "addedTs": 1786474110,
-    "urlHash": "6c50ffb961de",
-    "titleHash": "99e957880dc7"
-  },
-  {
-    "title": "Brad Lightcap, OpenAI&#8217;s longtime COO, is leaving to &#8216;start something new&#8217;",
-    "titlePt": "COO de longa data da OpenAI, Brad Lightcap, deixa empresa para 'começar algo novo'",
-    "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "Brad Lightcap, COO da OpenAI por anos e peça-chave em parcerias estratégicas como a da Microsoft, anunciou sua saída. A saída ocorre em momento de transformação da empresa, com várias mudanças executivas recentes. O movimento levanta dúvidas sobre a próxima fase da liderança operacional da OpenAI. Investidores e parceiros acompanharão de perto a sucessão.",
-    "reasonEn": "Brad Lightcap, OpenAI's long-serving COO and a key figure behind deals like the Microsoft partnership, announced his departure. The exit comes amid a period of significant executive turnover at the company. It raises questions about the next phase of OpenAI's operational leadership. Investors and partners will be watching closely to see who steps into the role.",
-    "score": 0.8,
-    "tags": [
-      "openai",
-      "liderança",
-      "executivo"
-    ],
-    "img": "img/1154a9fd6d8a.jpg",
-    "ts": 1786470094,
-    "addedTs": 1786474110,
-    "urlHash": "1154a9fd6d8a",
-    "titleHash": "0654153f2bcc"
-  },
-  {
-    "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
-    "titlePt": "General Catalyst lidera rodada de US$ 1,1 bilhão na River AI, startup com apenas 2 meses",
-    "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A General Catalyst liderou uma rodada massiva de US$ 1,1 bilhão na River AI, empresa fundada há apenas dois meses. O aporte mostra a forte aposta de investidores em startups jovens de IA, mesmo sem histórico de tração. O caso reforça o ciclo aquecido de capital no setor de inteligência artificial. Pode servir de termômetro sobrevaluation e apetite do mercado em 2025.",
-    "reasonEn": "General Catalyst led a massive $1.1B funding round into River AI, a company founded just two months ago. The investment shows investors' strong appetite for very young AI startups, even without a long track record. It reinforces the heated capital cycle in the artificial intelligence sector. The deal may serve as a barometer for valuation trends and market appetite in 2025.",
-    "score": 0.75,
-    "tags": [
-      "investimento",
-      "startup",
-      "modelo"
-    ],
-    "img": "img/4a3a16344e7f.jpg",
-    "ts": 1786470082,
-    "addedTs": 1786474110,
-    "urlHash": "4a3a16344e7f",
-    "titleHash": "7bdcfa3b0ed4"
-  },
-  {
-    "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-    "titlePt": "Google demonstra que seu sistema médico AMIE faz consultas por vídeo em tempo real",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
-    "source": "Google AI",
-    "sources": [
-      "Google AI"
-    ],
-    "reason": "O Google apresentou um estudo pioneiro em que seu sistema de IA médica AMIE realiza consultas clínicas por vídeo em tempo real. A pesquisa mostra capacidade de diálogo, raciocínio clínico e interação visual com pacientes simulados. O avanço aproxima a IA da prática médica assistida, ainda que com supervisão humana. Especialistas em saúde e pacientes podem ser impactados nos próximos anos.",
-    "reasonEn": "Google published a first-of-its-kind study showing its AMIE medical AI system conducting real-time clinical video consultations. The research demonstrates dialogue, clinical reasoning, and visual interaction with simulated patients. The advance brings AI closer to assisted medical practice, though human oversight remains essential. Healthcare professionals and patients could feel the impact within the next few years.",
-    "score": 0.7,
-    "tags": [
-      "google",
-      "saúde",
-      "pesquisa"
-    ],
-    "img": "img/012e30e2c241.jpg",
-    "ts": 1786467600,
-    "addedTs": 1786474110,
-    "urlHash": "012e30e2c241",
-    "titleHash": "5323e7f9539c"
-  },
-  {
-    "title": "Claude will apply invisible watermarks to AI text and images",
-    "titlePt": "Claude aplicará marcas d'água invisíveis em textos e imagens gerados por IA",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "A Anthropic anunciou que o Claude passará a aplicar marcas d'água invisíveis em conteúdos gerados por IA, tanto em texto quanto em imagem. O objetivo é combater plágio, desinformação e uso indevido de conteúdo sintético. A medida pode se tornar padrão no setor e pressionar concorrentes. Usuários e desenvolvedores devem se preparar para mudanças na forma de detectar e distribuir conteúdo de IA.",
-    "reasonEn": "Anthropic announced that Claude will apply invisible watermarks to AI-generated text and images. The goal is to fight plagiarism, misinformation, and misuse of synthetic content. The move could become an industry standard and put pressure on competitors. Users and developers should prepare for changes in how AI content is detected and distributed.",
-    "score": 0.7,
-    "tags": [
-      "anthropic",
-      "marca d'água",
-      "regulação"
-    ],
-    "img": "img/c703baeb9f55.jpg",
-    "ts": 1786453795,
-    "addedTs": 1786474110,
-    "urlHash": "c703baeb9f55",
-    "titleHash": "86c373e1de43"
   }
 ]
