@@ -1,5 +1,225 @@
 [
   {
+    "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+    "titlePt": "Groq levanta US$ 350 milhões para mudar de chips de IA para neocloud",
+    "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A Groq, conhecida por seus chips de inferência rápidos, captou US$ 350 milhões para acelerar sua virada como fornecedora de neocloud, oferecendo capacidade de computação de IA sob demanda. A rodada reforça a tendência de empresas de silício se transformarem em plataformas completas de infraestrutura na nuvem. Desenvolvedores e empresas que usam GPUs ou chips alternativos devem ficar atentos a novas opções de preço e disponibilidade no mercado de inferência.",
+    "reasonEn": "Groq, known for its fast inference chips, raised $350 million to accelerate its pivot into becoming a neocloud provider, offering on-demand AI compute capacity. The round reinforces the trend of silicon companies transforming into full-stack cloud infrastructure platforms. Developers and companies using GPUs or alternative chips should watch for new pricing and availability options in the inference market.",
+    "score": 0.75,
+    "tags": [
+      "infra",
+      "financiamento",
+      "neocloud"
+    ],
+    "img": "img/f7751a62e0c6.jpg",
+    "ts": 1786983312,
+    "addedTs": 1786983435,
+    "urlHash": "f7751a62e0c6",
+    "titleHash": "b6b1415595c0"
+  },
+  {
+    "title": "AI scrapers use bogus URL tracking tags to make website visits seem legit",
+    "titlePt": "Rastreadores de IA usam tags falsas em URLs para parecer tráfego legítimo",
+    "url": "https://disassociated.com/ai-scraper-bogus-url-tracking-tags/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Pesquisadores descobriram que scrapers e bots de IA estão adicionando parâmetros de rastreamento às URLs que visitam, simulando campanhas de marketing reais para passar despercebidos por defesas anti-bot. A técnica dificulta a filtragem de acessos indesejados em logs e CDNs. Donos de sites e engenheiros de plataforma precisam revisar regras de bloqueio baseadas apenas em User-Agent.",
+    "reasonEn": "Researchers found that AI scrapers and bots are adding forged tracking parameters to the URLs they visit, mimicking real marketing campaigns to slip past anti-bot defenses unnoticed. The technique makes filtering unwanted access in logs and CDNs harder. Site owners and platform engineers need to review blocking rules based only on User-Agent.",
+    "score": 0.7,
+    "tags": [
+      "segurança",
+      "scraping",
+      "bots"
+    ],
+    "img": "img/bc6a89d7df17.jpg",
+    "ts": 1786981907,
+    "addedTs": 1786983435,
+    "urlHash": "bc6a89d7df17",
+    "titleHash": "dffa4a3c0d00"
+  },
+  {
+    "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+    "titlePt": "Speko (YC S26) lança um OpenRouter para IA de voz",
+    "url": "https://news.ycombinator.com/item?id=49332751",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Speko, recém-chegada à Y Combinator, posiciona-se como um agregador (router) de modelos de voz, permitindo trocar entre provedores sem reescrever a aplicação. É o equivalente ao OpenRouter, mas focado em voz, área em rápida expansão. Desenvolvedores que constroem assistentes de voz passam a ter uma camada de portabilidade semelhante à que existe para LLMs de texto.",
+    "reasonEn": "Speko, a recent Y Combinator arrival, positions itself as an aggregator (router) of voice models, allowing switching between providers without rewriting the application. It is the equivalent of OpenRouter, but focused on voice, a rapidly expanding area. Developers building voice assistants now have a portability layer similar to what exists for text LLMs.",
+    "score": 0.65,
+    "tags": [
+      "lançamento",
+      "voz",
+      "yc"
+    ],
+    "img": "img/3d4e4fd79cdd.jpg",
+    "ts": 1786980978,
+    "addedTs": 1786983435,
+    "urlHash": "3d4e4fd79cdd",
+    "titleHash": "00f79a3838b0"
+  },
+  {
+    "title": "The Endpoint Wars Just Restarted (Rise of the AI Agents)",
+    "titlePt": "A guerra dos endpoints recomeça com a ascensão dos agentes de IA",
+    "url": "https://www.techoperators.com/insights/the-endpoint-wars-just-restarted",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo argumenta que o crescimento de agentes autônomos está reabrindo a disputa pelo controle dos endpoints de software, agora mediados por modelos em vez de usuários humanos. Plataformas que antes dominavam a interface com o usuário podem perder espaço para provedores de agentes. Desenvolvedores devem repensar estratégias de exposição de APIs e integração.",
+    "reasonEn": "The article argues that the growth of autonomous agents is reopening the dispute for control of software endpoints, now mediated by models instead of human users. Platforms that previously dominated the user interface may lose ground to agent providers. Developers should rethink API exposure and integration strategies.",
+    "score": 0.7,
+    "tags": [
+      "agentes",
+      "estratégia",
+      "apis"
+    ],
+    "img": "img/7274f7ac2c16.jpg",
+    "ts": 1786980972,
+    "addedTs": 1786983435,
+    "urlHash": "7274f7ac2c16",
+    "titleHash": "d372ee3a52ea"
+  },
+  {
+    "title": "Ahmad on X: \"Anthropic's War on open source AI\" / X",
+    "titlePt": "A guerra da Anthropic contra o código aberto em IA",
+    "url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O post reúne declarações e movimentos da Anthropic que sugerem uma posição cada vez mais fechada em relação à liberação de pesos de modelos. O contraste com Meta e outras iniciativas abertas reacende o debate sobre quem controla os modelos de fronteira. Desenvolvedores e empresas que dependem de modelos abertos devem monitorar de perto.",
+    "reasonEn": "The post gathers statements and moves by Anthropic that suggest an increasingly closed position regarding the release of model weights. The contrast with Meta and other open initiatives rekindles the debate about who controls frontier models. Developers and companies that depend on open models should monitor closely.",
+    "score": 0.7,
+    "tags": [
+      "anthropic",
+      "código aberto",
+      "modelos"
+    ],
+    "img": "img/53d23d2c5940.jpg",
+    "ts": 1786980274,
+    "addedTs": 1786983435,
+    "urlHash": "53d23d2c5940",
+    "titleHash": "a3e591680692"
+  },
+  {
+    "title": "Agentic AI costs set to balloon fivefold by 2028",
+    "titlePt": "Custos de IA agêntica devem quintuplicar até 2028",
+    "url": "https://www.theregister.com/ai-and-ml/2026/08/17/agentic-ai-costs-set-to-balloon-fivefold-by-2028/5288363",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Relatórios de mercado projetam que o gasto com agentes autônomos de IA vai crescer cerca de cinco vezes em três anos, puxado por uso corporativo e automações complexas. O número reforça a urgência de monitorar custos por tarefa e escolher modelos menores sempre que possível. Times de produto e finanças precisam se preparar para uma nova curva de OPEX.",
+    "reasonEn": "Market reports project that spending on autonomous AI agents will grow about five times in three years, driven by corporate use and complex automations. The figure reinforces the urgency of monitoring costs per task and choosing smaller models whenever possible. Product and finance teams need to prepare for a new OPEX curve.",
+    "score": 0.8,
+    "tags": [
+      "agentes",
+      "custos",
+      "previsão"
+    ],
+    "img": "img/ef5553703a61.jpg",
+    "ts": 1786979830,
+    "addedTs": 1786983435,
+    "urlHash": "ef5553703a61",
+    "titleHash": "a78eef867471"
+  },
+  {
+    "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+    "titlePt": "Nvidia investe US$ 1,5 bilhão em data center que hospeda projeto da OpenAI",
+    "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A Nvidia anunciou aporte de US$ 1,5 bilhão em uma desenvolvedora de data centers ligada ao SoftBank que atende projetos da OpenAI. O movimento consolida o papel da Nvidia como investidora estratégica, não só fornecedora de chips, no ecossistema de IA. O aporte pressiona a cadeia de suprimentos de GPUs e deve impactar preços e disponibilidade de capacidade de treinamento.",
+    "reasonEn": "Nvidia announced a $1.5 billion investment in a data center developer linked to SoftBank that serves OpenAI projects. The move consolidates Nvidia's role as a strategic investor, not just a chip supplier, in the AI ecosystem. The investment pressures the GPU supply chain and is expected to impact training capacity pricing and availability.",
+    "score": 0.92,
+    "tags": [
+      "nvidia",
+      "infra",
+      "investimento"
+    ],
+    "img": "img/9dc5caf38ae1.jpg",
+    "ts": 1786979784,
+    "addedTs": 1786983435,
+    "urlHash": "9dc5caf38ae1",
+    "titleHash": "3aea5dee06d3"
+  },
+  {
+    "title": "Get closer to the game with Gemini and Pixel",
+    "titlePt": "Google aproxima você do jogo com Gemini e Pixel",
+    "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+    "source": "Google AI",
+    "sources": [
+      "Google AI"
+    ],
+    "reason": "A Google anunciou integração entre o Gemini e smartphones Pixel para entregar uma experiência mais personalizada em jogos, com assistência em tempo real. É uma ação de marketing focada em games mobile e mostra como a empresa quer diferenciar hardware com IA. Desenvolvedores de jogos podem usar como referência para integrações similares.",
+    "reasonEn": "Google announced an integration between Gemini and Pixel smartphones to deliver a more personalized gaming experience, with real-time assistance. It is a marketing action focused on mobile games and shows how the company wants to differentiate hardware with AI. Game developers can use it as a reference for similar integrations.",
+    "score": 0.5,
+    "tags": [
+      "google",
+      "mobile",
+      "games"
+    ],
+    "img": "img/4001c007c7b5.jpg",
+    "ts": 1786953600,
+    "addedTs": 1786983435,
+    "urlHash": "4001c007c7b5",
+    "titleHash": "ab06b1bea77c"
+  },
+  {
+    "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+    "titlePt": "Gestão de GPUs: por que GPUs ociosas são como aviões em terra",
+    "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "O post da Hugging Face compara GPUs ociosas a aviões parados: ativos caros que não geram valor quando não estão sendo usados. O texto mostra práticas para monitorar, agendar e reaproveitar GPUs em times e empresas. É leitura prática para qualquer equipe que lida com infraestrutura de IA. Ajuda a evitar desperdício e melhorar ROI.",
+    "reasonEn": "The Hugging Face post compares idle GPUs to grounded aircraft: expensive assets that generate no value when not in use. The text shows practices to monitor, schedule, and reuse GPUs across teams and companies. It is a practical read for any team dealing with AI infrastructure. It helps avoid waste and improve ROI.",
+    "score": 0.55,
+    "tags": [
+      "infra",
+      "gpu",
+      "custos"
+    ],
+    "img": "img/859cdcef3df0.jpg",
+    "ts": 1785424149,
+    "addedTs": 1786983435,
+    "urlHash": "859cdcef3df0",
+    "titleHash": "e3fcab220175"
+  },
+  {
+    "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+    "titlePt": "NVIDIA Cosmos-H-Dreams leva simulação generativa em tempo real à robótica cirúrgica",
+    "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "A NVIDIA anunciou o Cosmos-H-Dreams, que usa simulação generativa em tempo real para treinar e testar robôs cirúrgicos. A promessa é acelerar o desenvolvimento de procedimentos automatizados com cenários sintéticos realistas. Pode reduzir custos e riscos em treinamento robótico médico. Para desenvolvedores e hospitais, abre novas possibilidades de pesquisa aplicada.",
+    "reasonEn": "NVIDIA announced Cosmos-H-Dreams, which uses real-time generative simulation to train and test surgical robots. The promise is to speed up automated procedure development with realistic synthetic scenarios. It may reduce cost and risk in medical robotic training. For developers and hospitals, it opens new applied research possibilities.",
+    "score": 0.5,
+    "tags": [
+      "nvidia",
+      "robótica",
+      "saúde"
+    ],
+    "img": "img/96537f9acc12.jpg",
+    "ts": 1785144740,
+    "addedTs": 1786983435,
+    "urlHash": "96537f9acc12",
+    "titleHash": "d575cb98f60d"
+  },
+  {
     "title": "Using AI in 2026 (Coding, Writing, Learning, Assistant-Ing)",
     "titlePt": "Como usar IA em 2026: código, escrita, estudo e assistentes",
     "url": "https://blog.sshh.io/p/how-i-use-ai-in-2026-coding-writing",
@@ -10608,225 +10828,5 @@
     "addedTs": 1786538779,
     "urlHash": "f50e72ff101d",
     "titleHash": "5b04ad3adf0c"
-  },
-  {
-    "title": "Hybrid-retrieval memory layer for AI agents",
-    "titlePt": "Camada de memória com recuperação híbrida para agentes de IA",
-    "url": "https://github.com/deepmemteam/deepmem",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O projeto propõe uma camada de memória que combina múltiplas estratégias de recuperação para agentes de IA. Busca resolver o problema clássico de agentes que esquecem contexto entre sessões. Abordagem prática para um problema real enfrentado por quem constrói agentes em produção. Vale acompanhar para engenheiros de IA agêntica.",
-    "reasonEn": "The project proposes a memory layer combining multiple retrieval strategies for AI agents. It aims to solve the classic problem of agents forgetting context between sessions. A practical approach to a real problem faced by those building agents in production. Worth following for agentic AI engineers.",
-    "score": 0.55,
-    "tags": [
-      "agentes",
-      "memória",
-      "arquitetura"
-    ],
-    "img": "img/d7a67f228f0b.jpg",
-    "ts": 1786533299,
-    "addedTs": 1786538779,
-    "urlHash": "d7a67f228f0b",
-    "titleHash": "cec6fd4984ae"
-  },
-  {
-    "title": "Never Trust Your AI Agent's Own Sandbox",
-    "titlePt": "Nunca confie no próprio sandbox do seu agente de IA",
-    "url": "https://badshah.io/blog/never-trust-your-ai-agents-sandbox/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo alerta sobre uma classe de vulnerabilidades em que agentes de IA são enganados a confiar em seus próprios sandboxes como ambientes seguros. Atacantes podem manipular o ambiente para escapar do isolamento ou executar ações maliciosas. É leitura obrigatória para quem implanta agentes com permissões sensíveis. Mostra que segurança em agentes ainda é um problema em aberto.",
-    "reasonEn": "The article warns about a class of vulnerabilities where AI agents are tricked into trusting their own sandboxes as safe environments. Attackers can manipulate the environment to escape isolation or execute malicious actions. Mandatory reading for anyone deploying agents with sensitive permissions. Shows that agent security is still an open problem.",
-    "score": 0.7,
-    "tags": [
-      "segurança",
-      "agentes",
-      "sandbox"
-    ],
-    "img": "img/e0c66add5a9b.jpg",
-    "ts": 1786532545,
-    "addedTs": 1786538779,
-    "urlHash": "e0c66add5a9b",
-    "titleHash": "4d5fd08f9973"
-  },
-  {
-    "title": "AI code-testing startup Blacksmith&#8217;s valuation jumps almost 10x in less than a year",
-    "titlePt": "Startup de testes de código com IA, Blacksmith, quase decuplica valuation em menos de um ano",
-    "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A Blacksmith, startup que usa IA para automatizar testes de software, viu sua avaliação saltar quase 10 vezes em menos de um ano. É um dos casos mais expressivos de valorização no setor de devtools com IA. Sinaliza forte demanda de mercado por automação de qualidade de código. Mostra que investidores continuam apostando alto em IA aplicada a desenvolvimento.",
-    "reasonEn": "Blacksmith, a startup using AI to automate software testing, saw its valuation jump nearly 10x in less than a year. It's one of the most striking valuations in the AI devtools space. Signals strong market demand for code quality automation. Shows investors continue betting big on AI applied to development.",
-    "score": 0.75,
-    "tags": [
-      "startups",
-      "investimento",
-      "testes"
-    ],
-    "img": "img/6b4666838bd7.jpg",
-    "ts": 1786532400,
-    "addedTs": 1786538779,
-    "urlHash": "6b4666838bd7",
-    "titleHash": "573a4bdea1af"
-  },
-  {
-    "title": "Interviewing Engineers in the AI Era: Lessons from a Year of Rebuilding",
-    "titlePt": "Entrevistando engenheiros na era da IA: lições de um ano de reformulação",
-    "url": "https://www.coinbase.com/en-ca/blog/interviewing-engineers-in-the-ai-era-lessons-from-a-year-of-rebuilding",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo compartilha aprendizados práticos de um ano reformulando como uma empresa entrevista engenheiros diante do uso crescente de IA. Discute o que mudou nos testes técnicos e na avaliação de habilidades reais versus uso de ferramentas. Tem valor direto para candidatos e para empresas que estão ajustando seus processos seletivos. Tendência que todo profissional de tech deve acompanhar.",
-    "reasonEn": "The article shares practical lessons from a year of reshaping how a company interviews engineers amid rising AI use. It discusses what changed in technical tests and evaluating real skills versus tool use. Has direct value for candidates and companies adjusting their hiring processes. A trend every tech professional should follow.",
-    "score": 0.7,
-    "tags": [
-      "carreira",
-      "entrevistas",
-      "engenharia"
-    ],
-    "img": "img/cd354f00a936.jpg",
-    "ts": 1786532150,
-    "addedTs": 1786538779,
-    "urlHash": "cd354f00a936",
-    "titleHash": "7bcb0e2116fc"
-  },
-  {
-    "title": "The CASE Framework: A Multi-Disciplinary Control Architecture for Governing Enterprise Agentic AI",
-    "titlePt": "Framework CASE: governança de agentes de IA em empresas",
-    "url": "https://arxiv.org/abs/2608.10153",
-    "source": "arXiv AI",
-    "sources": [
-      "arXiv AI"
-    ],
-    "reason": "Proposta de arquitetura multi-disciplinar para controlar agentes de IA corporativos, cobrindo segurança, compliance e auditoria. Combina práticas de TI, jurídico e gestão de riscos em um só arcabouço. Tópico crítico para empresas que estão implantando agentes autônomos. Vale acompanhar para quem trabalha com governança de IA.",
-    "reasonEn": "A proposal for a multi-disciplinary architecture to control enterprise AI agents, covering security, compliance, and auditing. It combines IT, legal, and risk management practices into one framework. A critical topic for companies deploying autonomous agents. Worth following for those working on AI governance.",
-    "score": 0.5,
-    "tags": [
-      "agentes",
-      "governança",
-      "empresa"
-    ],
-    "img": "img/be57b7632c20.jpg",
-    "ts": 1786507200,
-    "addedTs": 1786538779,
-    "urlHash": "be57b7632c20",
-    "titleHash": "9006d15b2c92"
-  },
-  {
-    "title": "The case for disaggregated LLM serving",
-    "titlePt": "O caso do serving de LLMs de forma disagregada",
-    "url": "https://blog.doubleword.ai/when-to-disaggregate",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo defende separar armazenamento, contexto e geração em infraestruturas de inferência, em vez de empacotar tudo. Tema técnico, mas relevante para engenheiros que operam LLMs em escala. Ajuda a entender para onde o serving de modelos está caminhando.",
-    "reasonEn": "The piece argues for separating storage, context, and generation in inference infrastructure rather than bundling everything. A technical topic, but relevant for engineers running LLMs at scale. Helpful to see where model serving is headed.",
-    "score": 0.5,
-    "tags": [
-      "infraestrutura",
-      "llm",
-      "inferência"
-    ],
-    "img": "img/21a24a4668f0.jpg",
-    "ts": 1786524411,
-    "addedTs": 1786531962,
-    "urlHash": "21a24a4668f0",
-    "titleHash": "201a8f835d3c"
-  },
-  {
-    "title": "Do We Need a New Programming Language for the AI Era?",
-    "titlePt": "Precisamos de uma nova linguagem de programação para a era da IA?",
-    "url": "https://mfallah.com/blog/do-we-need-a-new-programming-language-for-the-ai-era/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O texto levanta se os paradigmas atuais de programação dão conta do desenvolvimento orientado a LLMs e agentes. É uma pergunta provocadora que interessa a qualquer dev antenado. A discussão está só começando, vale acompanhar.",
-    "reasonEn": "The post asks whether current programming paradigms can handle LLM- and agent-driven development. A provocative question that matters to any developer paying attention. The debate is just starting and worth following.",
-    "score": 0.55,
-    "tags": [
-      "linguagem",
-      "dev",
-      "agentes"
-    ],
-    "img": "img/8a9fe2884d5c.jpg",
-    "ts": 1786523875,
-    "addedTs": 1786531962,
-    "urlHash": "8a9fe2884d5c",
-    "titleHash": "3a2d0b41a8eb"
-  },
-  {
-    "title": "What building an AI-native finance function taught me",
-    "titlePt": "O que aprendi construindo uma função financeira nativa em IA",
-    "url": "https://openai.com/index/building-an-ai-native-finance-function",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "Um profissional de finanças da OpenAI descreve lições práticas de integrar IA em processos como fechamento contábil, análise de variações e auditoria. Ele compartilha onde a IA funcionou bem, onde falhou e o que mudou nos fluxos da equipe. O conteúdo é útil para líderes de finanças e operações que pensam em usar IA em áreas administrativas. É um estudo de caso real, sem promessas exageradas.",
-    "reasonEn": "An OpenAI finance professional shares practical lessons from integrating AI into processes like month-end close, variance analysis and auditing. He describes what worked, what failed and how workflows shifted. The post is useful for finance and operations leaders considering AI for back-office work. It is a grounded, real-world case study.",
-    "score": 0.5,
-    "tags": [
-      "finanças",
-      "empresa",
-      "estudo-de-caso"
-    ],
-    "img": "img/5367cc95a8fd.jpg",
-    "ts": 1786381200,
-    "addedTs": 1786531962,
-    "urlHash": "5367cc95a8fd",
-    "titleHash": "83af722c48cc"
-  },
-  {
-    "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-    "titlePt": "Gemini API ganha agentes gerenciados com versão 3.6 Flash e hooks",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-    "source": "Google AI",
-    "sources": [
-      "Google AI"
-    ],
-    "reason": "O Google anunciou atualizações para a API do Gemini, incluindo agentes gerenciados com a versão 3.6 Flash e novos mecanismos de hook para integração com sistemas externos. As mudanças facilitam a construção de aplicações que usam IA sem montar toda a infraestrutura de agentes. É relevante para desenvolvedores que constroem produtos baseados em IA. O movimento deixa o Google mais competitivo frente à Assistants API da OpenAI.",
-    "reasonEn": "Google rolled out updates to the Gemini API including managed agents on the 3.6 Flash model and new hook mechanisms for external systems. The changes make it easier to build agent-based applications without managing all the underlying infrastructure. This matters to developers shipping AI products. It intensifies competition with OpenAI's Assistants API.",
-    "score": 0.7,
-    "tags": [
-      "gemini",
-      "google",
-      "agentes"
-    ],
-    "img": "img/55560096859e.jpg",
-    "ts": 1785254400,
-    "addedTs": 1786531962,
-    "urlHash": "55560096859e",
-    "titleHash": "2015e3833d12"
-  },
-  {
-    "title": "Microsoft unveils AI security tools it says outperform competing platforms",
-    "titlePt": "Microsoft apresenta ferramentas de segurança com IA que superam concorrentes",
-    "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
-    "source": "Ars Technica",
-    "sources": [
-      "Ars Technica"
-    ],
-    "reason": "A Microsoft anunciou novas ferramentas de segurança baseadas em IA que, segundo a empresa, superam plataformas rivais em testes internos. Os produtos prometem detectar ataques, analisar comportamentos suspeitos e automatizar respostas a incidentes. A novidade é voltada a equipes de segurança corporativa e pode mudar a dinâmica do mercado de cibersegurança. O lançamento reforça a aposta da Microsoft em IA para defesa digital.",
-    "reasonEn": "Microsoft announced new AI-based security tools that the company says outperform rivals in internal tests. The products aim to detect attacks, analyze suspicious behavior and automate incident response. They target corporate security teams and may shift the cybersecurity market. The launch reinforces Microsoft's AI push for digital defense.",
-    "score": 0.75,
-    "tags": [
-      "segurança",
-      "microsoft",
-      "lançamento"
-    ],
-    "img": "img/e22923011e3e.jpg",
-    "ts": 1785189374,
-    "addedTs": 1786531962,
-    "urlHash": "e22923011e3e",
-    "titleHash": "3870f3c2a7ea"
   }
 ]
