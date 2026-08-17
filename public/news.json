@@ -1,5 +1,244 @@
 [
   {
+    "title": "Everyone Is Still Undersizing the AI Market – Eric Vishria [video]",
+    "titlePt": "Todos ainda estão subestimando o mercado de IA",
+    "url": "https://www.youtube.com/watch?v=0e7aG_MIHlQ",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O investidor Eric Vishria argumenta que o mercado de inteligência artificial está sendo avaliado de forma conservadora demais. A tese é que o impacto econômico da IA será muito maior do que as projeções atuais indicam. Relevante para investidores, fundadores e profissionais que estão planejando suas carreiras na área. Vídeo longo, voltado a público de negócios.",
+    "reasonEn": "Investor Eric Vishria argues that the AI market is being conservatively valued. The thesis is that AI's economic impact will be far larger than current projections suggest. Relevant for investors, founders, and professionals planning careers in the space. It is a long video aimed at a business audience.",
+    "score": 0.5,
+    "tags": [
+      "mercado",
+      "investimento",
+      "análise"
+    ],
+    "img": "img/543ac924b061.jpg",
+    "ts": 1786990901,
+    "addedTs": 1786991103,
+    "urlHash": "543ac924b061",
+    "titleHash": "451b915a7d72"
+  },
+  {
+    "title": "We're hosting Qwen3.8-27B for Free API usage",
+    "titlePt": "Hospedando Qwen3.8-27B gratuitamente para uso via API",
+    "url": "https://sprag.ai/models/qwen/qwen3.8-27b",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Iniciativa oferece acesso gratuito a um modelo de linguagem grande da família Qwen via API. Útil para desenvolvedores que querem testar modelos sem custo. Pode apresentar filas e limites de uso. Bom recurso para experimentação.",
+    "reasonEn": "An initiative offers free API access to a large language model from the Qwen family. Useful for developers who want to test models without cost. It may have queues and usage limits. A good resource for experimentation.",
+    "score": 0.5,
+    "tags": [
+      "modelo",
+      "gratuito",
+      "api"
+    ],
+    "img": "img/84f33e7fcbf8.jpg",
+    "ts": 1786989117,
+    "addedTs": 1786991103,
+    "urlHash": "84f33e7fcbf8",
+    "titleHash": "198fb771bc44"
+  },
+  {
+    "title": "AI Inference chips will end the same as Crypto Mining ASICs",
+    "titlePt": "Chips de inferência de IA vão acabar como os ASICs de mineração cripto",
+    "url": "https://twitter.com/josefchen/status/2089367836745449952",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Análise que compara o mercado de chips especializados em inferência ao ciclo de mineração de cripto. Argumenta que o hardware dedicado pode perder valor conforme a commoditização avança. Importante para investidores e profissionais de infraestrutura. Visão provocativa que vale acompanhar.",
+    "reasonEn": "An analysis comparing the inference chip market to the crypto mining ASIC cycle. It argues that dedicated hardware may lose value as commoditization advances. Important for investors and infrastructure professionals. A provocative take worth following.",
+    "score": 0.5,
+    "tags": [
+      "hardware",
+      "inferência",
+      "mercado"
+    ],
+    "img": "img/37176f3a7133.jpg",
+    "ts": 1786988302,
+    "addedTs": 1786991103,
+    "urlHash": "37176f3a7133",
+    "titleHash": "03b2f47c764a"
+  },
+  {
+    "title": "OpenAI joins PORTS-Pike project",
+    "titlePt": "OpenAI entra no projeto PORTS-Pike",
+    "url": "https://openai.com/index/openai-joins-ports-pike-project",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "A OpenAI aderiu ao PORTS-Pike, projeto que parece envolver infraestrutura ou pesquisa aberta. A movimentação mostra a empresa diversificando parcerias fora do núcleo de modelos. Pode indicar novas frentes de atuação e investimentos. Vale acompanhar para entender a estratégia de longo prazo da OpenAI.",
+    "reasonEn": "OpenAI has joined the PORTS-Pike project, which appears to involve infrastructure or open research. The move shows the company diversifying partnerships beyond its core model work. It may signal new areas of activity and investment. Worth following to understand OpenAI's long-term strategy.",
+    "score": 0.5,
+    "tags": [
+      "openai",
+      "parceria",
+      "infraestrutura"
+    ],
+    "img": "img/22405ea1e27b.jpg",
+    "ts": 1786942800,
+    "addedTs": 1786991103,
+    "urlHash": "22405ea1e27b",
+    "titleHash": "bf0092aed08b"
+  },
+  {
+    "title": "Modular Cognitive Architecture Emerges in Large Language Models",
+    "titlePt": "Arquitetura cognitiva modular surge em grandes modelos de linguagem",
+    "url": "https://arxiv.org/abs/2608.13567",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "O estudo mostra que LLMs grandes desenvolvem espontaneamente uma estrutura cognitiva modular, com módulos especializados para tarefas diferentes. Isso reforça a ideia de que os modelos não são apenas caixas-pretas homogêneas. Ajuda desenvolvedores a entender por que LLMs se saem melhor em algumas tarefas que em outras. Relevante para quem trabalha com prompting fino e design de sistemas.",
+    "reasonEn": "The study shows that large LLMs spontaneously develop a modular cognitive structure, with specialized modules for different tasks. This reinforces the idea that models are not just homogeneous black boxes. It helps developers understand why LLMs excel at some tasks over others. Relevant for those working on fine prompting and system design.",
+    "score": 0.5,
+    "tags": [
+      "pesquisa",
+      "llm"
+    ],
+    "img": "img/da3b998a992b.jpg",
+    "ts": 1786939200,
+    "addedTs": 1786991103,
+    "urlHash": "da3b998a992b",
+    "titleHash": "c25372d08b49"
+  },
+  {
+    "title": "Agentao: A Governed Local-First Runtime for Tool-Using LLM Agents",
+    "titlePt": "Agentao: runtime local governado para agentes de IA que usam ferramentas",
+    "url": "https://arxiv.org/abs/2608.13574",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "Agentao é um novo runtime projetado para rodar agentes LLM localmente, com governança e controle sobre quais ferramentas podem ser chamadas. Resolve um problema crescente de segurança e custos em agentes autônomos. Importa diretamente para desenvolvedores que montam agentes corporativos. Pode acelerar a adoção de agentes em ambientes regulados.",
+    "reasonEn": "Agentao is a new runtime designed to run LLM agents locally with governance over which tools can be called. It tackles a growing safety and cost problem in autonomous agents. It matters directly for developers building enterprise agents. It could accelerate agent adoption in regulated environments.",
+    "score": 0.6,
+    "tags": [
+      "agentes",
+      "framework",
+      "segurança"
+    ],
+    "img": "img/cedf57bb6ac5.jpg",
+    "ts": 1786939200,
+    "addedTs": 1786991103,
+    "urlHash": "cedf57bb6ac5",
+    "titleHash": "e24303e2f197"
+  },
+  {
+    "title": "No Universal Signal Predicts Sample-Level LLM Regression under Version Updates",
+    "titlePt": "Nenhum sinal universal prevê regressão de LLMs entre versões",
+    "url": "https://arxiv.org/abs/2608.13607",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "O estudo mostra que não existe um indicador único confiável para prever quando um LLM regrediu após uma atualização de versão. Isso significa que testes simples não bastam para garantir qualidade. Importa muito para times que dependem de APIs de LLM em produção. Sugere a necessidade de suites de teste diversificadas.",
+    "reasonEn": "The study shows there is no single reliable indicator to predict when an LLM has regressed after a version update. Simple tests are not enough to guarantee quality. It matters greatly for teams relying on LLM APIs in production. It suggests the need for diverse test suites.",
+    "score": 0.65,
+    "tags": [
+      "llm",
+      "pesquisa",
+      "qualidade"
+    ],
+    "img": "img/c29d9def35f8.jpg",
+    "ts": 1786939200,
+    "addedTs": 1786991103,
+    "urlHash": "c29d9def35f8",
+    "titleHash": "f877a9f903b6"
+  },
+  {
+    "title": "How to tell if your AI platforms’ accounts have been hacked",
+    "titlePt": "Como saber se contas em plataformas de IA foram hackeadas",
+    "url": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "O artigo da TechCrunch lista sinais práticos para identificar comprometimento de contas em plataformas de IA, como cobranças estranhas, integrações desconhecidas e consumo anômalo de créditos. É leitura rápida e útil para qualquer pessoa usando ChatGPT, Claude ou Gemini. Importa para desenvolvedores e equipes que dependem dessas APIs. Pode evitar prejuízos financeiros e vazamento de dados.",
+    "reasonEn": "TechCrunch lists practical signs to detect compromised AI platform accounts, such as strange charges, unknown integrations, and anomalous credit consumption. Quick and useful reading for anyone using ChatGPT, Claude, or Gemini. It matters for developers and teams depending on these APIs. It can prevent financial losses and data leaks.",
+    "score": 0.7,
+    "tags": [
+      "segurança",
+      "guia"
+    ],
+    "img": "img/23cd5e9aacbd.jpg",
+    "ts": 1786810200,
+    "addedTs": 1786991103,
+    "urlHash": "23cd5e9aacbd",
+    "titleHash": "a81f5d21fbb0"
+  },
+  {
+    "title": "The latest AI news we announced in July 2026",
+    "titlePt": "Principais anúncios de IA do Google em julho de 2026",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+    "source": "Google AI",
+    "sources": [
+      "Google AI"
+    ],
+    "reason": "Google publica um resumo mensal com seus lançamentos de IA, incluindo novos modelos, atualizações de API e ferramentas para desenvolvedores. Funciona como um índice rápido do que mudou no ecossistema Google AI. Importa para quem usa Gemini, Vertex AI ou Android. Ajuda a não perder lançamentos relevantes.",
+    "reasonEn": "Google publishes a monthly summary of its AI announcements, including new models, API updates, and developer tools. It works as a quick index of what changed in the Google AI ecosystem. It matters for anyone using Gemini, Vertex AI, or Android. It helps avoid missing relevant releases.",
+    "score": 0.7,
+    "tags": [
+      "google",
+      "lançamento"
+    ],
+    "img": "img/58ba351a2139.jpg",
+    "ts": 1785848400,
+    "addedTs": 1786991103,
+    "urlHash": "58ba351a2139",
+    "titleHash": "ff4f31d4c369"
+  },
+  {
+    "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+    "titlePt": "API Gemini ganha agentes gerenciados, versão 3.6 Flash e hooks",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+    "source": "Google AI",
+    "sources": [
+      "Google AI"
+    ],
+    "reason": "Google anunciou Managed Agents na API Gemini, junto com o modelo 3.6 Flash mais rápido e um sistema de hooks para controlar o ciclo de vida dos agentes. Managed Agents simplifica a operação de agentes em produção, cuidando de escala e segurança. Importa muito para desenvolvedores que constroem produtos com Gemini. Reduz bastante o trabalho de infraestrutura.",
+    "reasonEn": "Google announced Managed Agents in the Gemini API, alongside the faster 3.6 Flash model and a hooks system to control agent lifecycle. Managed Agents simplify running agents in production, handling scale and safety. It matters greatly for developers building on Gemini. It significantly reduces infrastructure work.",
+    "score": 0.85,
+    "tags": [
+      "gemini",
+      "agentes",
+      "lançamento"
+    ],
+    "img": "img/55560096859e.jpg",
+    "ts": 1785254400,
+    "addedTs": 1786991103,
+    "urlHash": "55560096859e",
+    "titleHash": "2015e3833d12"
+  },
+  {
+    "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+    "titlePt": "Microsoft apresenta ferramentas de segurança com IA que superam rivais",
+    "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+    "source": "Ars Technica",
+    "sources": [
+      "Ars Technica"
+    ],
+    "reason": "A Microsoft revelou novos recursos de segurança baseados em IA para defender identidades, endpoints e workloads em nuvem, alegando superar concorrentes. Os recursos usam modelos treinados em sinais de ataque da Microsoft e telemetria de grandes clientes. Importa para times de segurança e para quem usa Azure. Pode pressionar outras plataformas a reagir.",
+    "reasonEn": "Microsoft unveiled new AI-powered security features to defend identities, endpoints, and cloud workloads, claiming to outperform competitors. The features use models trained on Microsoft's attack signals and large-customer telemetry. It matters for security teams and Azure users. It may pressure other platforms to respond.",
+    "score": 0.75,
+    "tags": [
+      "microsoft",
+      "segurança",
+      "lançamento"
+    ],
+    "img": "img/e22923011e3e.jpg",
+    "ts": 1785189374,
+    "addedTs": 1786991103,
+    "urlHash": "e22923011e3e",
+    "titleHash": "3870f3c2a7ea"
+  },
+  {
     "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
     "titlePt": "Groq levanta US$ 350 milhões para mudar de chips de IA para neocloud",
     "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
@@ -10588,245 +10827,5 @@
     "addedTs": 1786546231,
     "urlHash": "2c1f64cc9d2d",
     "titleHash": "19e37e73e484"
-  },
-  {
-    "title": "From assistance to execution: How enterprises put AI to work",
-    "titlePt": "De assistente a executor: como empresas colocam a IA para trabalhar",
-    "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A OpenAI discute como empresas estão deixando de usar a IA como simples assistente e passando a implantá-la para executar tarefas de forma autônoma. Organizações estão integrando a IA em fluxos de trabalho complexos de negócio. Isso importa porque marca uma mudança em como o trabalho está sendo organizado. Empregados e gestores devem entender essa transição para se manterem relevantes. A IA já não responde perguntas, ela toma ações.",
-    "reasonEn": "OpenAI explains how enterprises are moving from using AI as a simple assistant to deploying it for autonomous task execution. Companies are integrating AI into complex business workflows. This matters because it signals a shift in how work is being organized. Employees and managers should understand this transition to stay relevant. AI is no longer answering questions; it is taking actions.",
-    "score": 0.5,
-    "tags": [
-      "empresa",
-      "automação",
-      "agentes"
-    ],
-    "img": "img/e063daae6225.jpg",
-    "ts": 1786514400,
-    "addedTs": 1786546231,
-    "urlHash": "e063daae6225",
-    "titleHash": "c6abce850558"
-  },
-  {
-    "title": "Towards Sustainable Artificial Intelligence: A Comprehensive Review and Comparative Analysis of Deep Learning Models' Carbon Footprint",
-    "titlePt": "Em direção a uma IA sustentável: a pegada de carbono dos modelos",
-    "url": "https://arxiv.org/abs/2608.09998",
-    "source": "arXiv AI",
-    "sources": [
-      "arXiv AI"
-    ],
-    "reason": "Uma revisão abrangente examina a pegada de carbono de modelos de aprendizado profundo em diferentes cenários de treino e uso. O estudo compara modelos e oferece caminhos para tornar a IA mais sustentável. Isso importa porque o consumo de energia da IA cresce rapidamente. Desenvolvedores e empresas deveriam considerar o impacto ambiental ao construir sistemas de IA. A pressão por práticas mais verdes deve aumentar nos próximos anos.",
-    "reasonEn": "A comprehensive review examines the carbon footprint of deep learning models across various training and deployment scenarios. The study compares models and offers paths to make AI more sustainable. This matters because AI's energy consumption is rising fast. Developers and companies should consider environmental impact when building AI systems. Pressure for greener practices is likely to grow in coming years.",
-    "score": 0.5,
-    "tags": [
-      "sustentabilidade",
-      "pesquisa",
-      "infraestrutura"
-    ],
-    "img": "img/e481e33f9e8f.jpg",
-    "ts": 1786507200,
-    "addedTs": 1786546231,
-    "urlHash": "e481e33f9e8f",
-    "titleHash": "7fb59ab21430"
-  },
-  {
-    "title": "Experts are warning: our AI arms race is putting humanity at risk",
-    "titlePt": "Especialistas alertam: corrida armamentista de IA coloca humanidade em risco",
-    "url": "https://www.theguardian.com/commentisfree/2026/aug/11/openai-anthropic-google-deepmind-letter",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Especialistas em IA estão soando o alarme sobre a corrida armamentista entre grandes empresas e países pelo desenvolvimento de inteligência artificial mais poderosa. Eles argumentam que a velocidade da competição está ignorando protocolos de segurança. A discussão levanta questões sobre governança global e quem controla o futuro da IA. É leitura essencial para entender os riscos reais do setor.",
-    "reasonEn": "AI experts are sounding the alarm about the arms race between big companies and countries racing to build more powerful AI. They argue the pace of competition is skipping over safety protocols. The discussion raises questions about global governance and who controls the future of AI. Essential reading to understand the real risks of the field.",
-    "score": 0.85,
-    "tags": [
-      "segurança",
-      "regulação",
-      "riscos"
-    ],
-    "img": "img/e401d31bb53a.jpg",
-    "ts": 1786538478,
-    "addedTs": 1786538779,
-    "urlHash": "e401d31bb53a",
-    "titleHash": "0f3ba24a269c"
-  },
-  {
-    "title": "Retrieval vs. Memory in Agentic AI Systems",
-    "titlePt": "Recuperação versus memória em sistemas de IA agêntica",
-    "url": "https://machinelearningmastery.com/retrieval-vs-memory-in-agentic-ai-systems/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo explora a diferença entre sistemas de recuperação (RAG) e memória persistente em agentes de IA. É um tema técnico importante para quem constrói agentes autônomos. Ajuda a entender quando usar cada abordagem para evitar custos desnecessários. Útil para engenheiros que projetam agentes em produção.",
-    "reasonEn": "The article explores the difference between retrieval (RAG) systems and persistent memory in AI agents. It's an important technical topic for anyone building autonomous agents. Helps clarify when to use each approach to avoid unnecessary costs. Useful for engineers designing agents in production.",
-    "score": 0.55,
-    "tags": [
-      "agentes",
-      "arquitetura"
-    ],
-    "img": "img/09b649feee2f.jpg",
-    "ts": 1786538228,
-    "addedTs": 1786538779,
-    "urlHash": "09b649feee2f",
-    "titleHash": "094177bbd2e5"
-  },
-  {
-    "title": "Oh Lord, AI Reporters Are Breaking Big News",
-    "titlePt": "Repórteres de IA já estão dando grandes notícias",
-    "url": "https://www.wired.com/story/ai-newsrooms-are-breaking-news-now-haha-im-in-danger/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo discute como sistemas automatizados de IA estão começando a publicar notícias importantes antes dos veículos tradicionais. Isso levanta questões sérias sobre verificação de fatos, atribuição de crédito e desinformação. Para profissionais de mídia e desenvolvedores de IA, é um sinal de alerta sobre o impacto da automação no jornalismo. Tendência que vai acelerar nos próximos anos.",
-    "reasonEn": "The article discusses how automated AI systems are starting to publish big news stories ahead of traditional outlets. This raises serious questions about fact-checking, credit attribution, and misinformation. For media professionals and AI developers, it's a warning sign about automation's impact on journalism. A trend that will accelerate over the coming years.",
-    "score": 0.75,
-    "tags": [
-      "mídia",
-      "jornalismo",
-      "automação"
-    ],
-    "img": "img/b98d74cf1fad.jpg",
-    "ts": 1786537896,
-    "addedTs": 1786538779,
-    "urlHash": "b98d74cf1fad",
-    "titleHash": "498321f1f06d"
-  },
-  {
-    "title": "AI was supposed to destroy jobs. Where's the carnage?",
-    "titlePt": "IA deveria ter destruído empregos. Onde está o estrago?",
-    "url": "https://www.theguardian.com/technology/2026/aug/12/ai-job-destruction",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Apesar das previsões apocalípticas, o impacto da IA no emprego até agora foi menor do que muitos esperavam. O artigo analisa dados reais do mercado de trabalho e questiona por que a revolução prometida ainda não se materializou. Pode ser uma questão de tempo, mas também revela que adaptação humana é mais resiliente do que se pensava. Leitura importante para quem pensa em carreiras e estratégia de negócios.",
-    "reasonEn": "Despite apocalyptic predictions, AI's impact on jobs so far has been smaller than many expected. The article analyzes real labor market data and questions why the promised revolution hasn't materialized yet. It might be a matter of time, but it also reveals that human adaptation is more resilient than thought. Important reading for those thinking about careers and business strategy.",
-    "score": 0.8,
-    "tags": [
-      "empregos",
-      "economia"
-    ],
-    "img": "img/5698e809e332.jpg",
-    "ts": 1786537452,
-    "addedTs": 1786538779,
-    "urlHash": "5698e809e332",
-    "titleHash": "da44ac83d0e2"
-  },
-  {
-    "title": "Nvidia's $500B Bet to Make AI Compute Wall Street's Next Asset Class",
-    "titlePt": "Aposta de 500 bilhões de dólares da Nvidia transforma computação de IA em nova classe de ativos",
-    "url": "https://www.forbes.com/sites/robertszczerba/2026/08/10/nvidias-500b-bet-to-make-ai-compute-wall-streets-next-asset-class/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Nvidia está investindo pesadamente para transformar capacidade de computação de IA em um ativo financeiro negociável em Wall Street. A CME lançou contratos futuros ligados a poder computacional de IA, criando um novo mercado. Isso significa que GPUs e data centers viraram instrumentos financeiros. Tendência importante que afeta investidores, empresas de tecnologia e o custo de treinar modelos.",
-    "reasonEn": "Nvidia is investing heavily to turn AI compute capacity into a tradable financial asset on Wall Street. The CME launched futures contracts tied to AI compute power, creating a new market. This means GPUs and data centers have become financial instruments. An important trend affecting investors, tech companies, and the cost of training models.",
-    "score": 0.9,
-    "tags": [
-      "nvidia",
-      "finanças",
-      "mercado"
-    ],
-    "img": "glowing GPU stack turning into coins, minimal abstract tech, violet and navy gradient, soft glow",
-    "ts": 1786536342,
-    "addedTs": 1786538779,
-    "urlHash": "03e0eac9f687",
-    "titleHash": "b6c14bcaa6be"
-  },
-  {
-    "title": "Electricity Pricing in the Age of AI",
-    "titlePt": "Preço da eletricidade na era da IA",
-    "url": "https://power2026.ai/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Data centers de IA consomem quantidades enormes de energia e já estão afetando o preço da eletricidade em várias regiões. O artigo analisa como a demanda por poder computacional está pressionando redes elétricas e inflação energética. Tendência que vai se agravar com a expansão de modelos maiores. Relevante para entender custos reais de IA e impactos ambientais.",
-    "reasonEn": "AI data centers consume massive amounts of energy and are already affecting electricity prices in several regions. The article analyzes how demand for compute power is straining grids and driving energy inflation. A trend that will worsen as larger models scale up. Relevant for understanding the real costs of AI and its environmental impact.",
-    "score": 0.7,
-    "tags": [
-      "energia",
-      "infraestrutura",
-      "economia"
-    ],
-    "img": "img/2a3fa2aace51.jpg",
-    "ts": 1786536028,
-    "addedTs": 1786538779,
-    "urlHash": "2a3fa2aace51",
-    "titleHash": "f2ca5a55d6ce"
-  },
-  {
-    "title": "Grok is now an AI ‘teammate’ you can assign work",
-    "titlePt": "Grok agora é um 'colega de equipe' de IA que recebe tarefas",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "A xAI atualizou o Grok para funcionar como um colega de equipe virtual em que você pode atribuir tarefas diretamente. É a entrada formal da xAI no mercado de agentes corporativos, competindo com Microsoft Copilot e Google Gemini. O lançamento reforça a tendência de IA agêntica em ambientes de trabalho. Pode mudar como equipes pequenas operam.",
-    "reasonEn": "xAI updated Grok to work as a virtual teammate you can assign tasks to directly. It's xAI's formal entry into the corporate agent market, competing with Microsoft Copilot and Google Gemini. The launch reinforces the trend of agentic AI in workplaces. Could change how small teams operate.",
-    "score": 0.7,
-    "tags": [
-      "grok",
-      "agentes",
-      "trabalho"
-    ],
-    "img": "img/937e54c9e405.jpg",
-    "ts": 1786535934,
-    "addedTs": 1786538779,
-    "urlHash": "937e54c9e405",
-    "titleHash": "451c3f5385b2"
-  },
-  {
-    "title": "Cross-Examine – replay base behavior against an AI-generated PR",
-    "titlePt": "Cross-Examine: replique comportamento base contra um PR gerado por IA",
-    "url": "https://github.com/stefbuilds/cross-examine",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Cross-Examine é uma ferramenta para desenvolvedores que permite comparar como um código se comporta antes e depois de mudanças geradas por IA. Ajuda a identificar regressões sutis que passam despercebidas em code reviews tradicionais. Ferramenta útil para equipes que adotam IA generativa em seu fluxo de trabalho. Boa para engenheiros que precisam validar código automatizado.",
-    "reasonEn": "Cross-Examine is a developer tool that compares how code behaves before and after AI-generated changes. It helps spot subtle regressions that slip past traditional code reviews. A useful tool for teams adopting generative AI in their workflow. Good for engineers needing to validate automated code.",
-    "score": 0.5,
-    "tags": [
-      "devtools",
-      "qualidade",
-      "ia-generativa"
-    ],
-    "img": "img/6de70724a3ae.jpg",
-    "ts": 1786535788,
-    "addedTs": 1786538779,
-    "urlHash": "6de70724a3ae",
-    "titleHash": "64f4b935b50d"
-  },
-  {
-    "title": "I built an MCP server to show my AI my screen",
-    "titlePt": "Construí um servidor MCP para mostrar minha tela para a IA",
-    "url": "https://desktopvisionmcp.com/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um desenvolvedor criou um servidor MCP (Model Context Protocol) que permite que agentes de IA vejam o conteúdo da tela do usuário. É uma evolução interessante da integração agente-computador além de texto e arquivos. Pode destravar novos casos de uso como automação visual e debugging assistido. Relevante para quem trabalha com agentes locais.",
-    "reasonEn": "A developer built an MCP (Model Context Protocol) server that lets AI agents see the user's screen content. It's an interesting evolution of agent-computer integration beyond text and files. Could unlock new use cases like visual automation and assisted debugging. Relevant for those working with local agents.",
-    "score": 0.5,
-    "tags": [
-      "mcp",
-      "agentes",
-      "devtools"
-    ],
-    "img": "img/f50e72ff101d.jpg",
-    "ts": 1786535474,
-    "addedTs": 1786538779,
-    "urlHash": "f50e72ff101d",
-    "titleHash": "5b04ad3adf0c"
   }
 ]
