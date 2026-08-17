@@ -1,5 +1,239 @@
 [
   {
+    "title": "Do Not Trust, Continuously Verify (Your AI Agents)",
+    "titlePt": "Não confie, verifique sempre: a segurança dos agentes de IA",
+    "url": "https://nochan.net/b/Internet-Crap/20260714-Do-Not-Trust--Continuously-Verify/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto defende o princípio de nunca confiar cegamente em agentes de IA e implementar verificação contínua em todas as ações automatizadas. Agentes podem tomar decisões prejudiciais, apagar dados ou chamar APIs erradas se não houver supervisão. A regra de ouro é tratar a IA como um estagiário poderoso mas imprevisível: cada saída importante precisa de checagem humana ou automatizada. Desenvolvedores e empresas que usam agentes em produção devem se preocupar com isso agora, antes de um incidente.",
+    "reasonEn": "The post argues for never blindly trusting AI agents and implementing continuous verification on every automated action. Agents can take harmful decisions, delete data, or call the wrong APIs without oversight. The golden rule is treating AI as a powerful but unpredictable intern: every important output needs human or automated checking. Developers and companies running agents in production should worry about this now, before an incident happens.",
+    "score": 0.75,
+    "tags": [
+      "segurança",
+      "agentes"
+    ],
+    "img": "img/e615263a5d2c.jpg",
+    "ts": 1786997400,
+    "addedTs": 1786997778,
+    "urlHash": "e615263a5d2c",
+    "titleHash": "11f2348d650a"
+  },
+  {
+    "title": "I pushed Qwen3.8-27B to 99 tps on a single request and 1150 on batch on a 3090",
+    "titlePt": "Qwen3.8-27B atinge 99 tokens/segundo em uma única RTX 3090",
+    "url": "https://github.com/syv-ai/qwen38-27b-rtx3090",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O autor compartilha como extraiu mais desempenho do modelo Qwen3.8-27B em uma GPU de consumo (RTX 3090). Com ajustes, alcançou 99 tokens por segundo em requisição única e 1150 tokens/s em lote. Isso mostra que hardware doméstico ainda é viável para inferência de modelos grandes sem gastar fortunas em data center. Desenvolvedores independentes e pequenas equipes podem rodar LLMs competitivos sem aluguel de nuvem.",
+    "reasonEn": "The author shares how they squeezed more performance out of the Qwen3.8-27B model on a consumer GPU (RTX 3090). With tweaks, they hit 99 tokens per second on a single request and 1150 tokens/s in batch. It shows that consumer hardware is still viable for running large models without paying data-center prices. Independent developers and small teams can run competitive LLMs without renting cloud capacity.",
+    "score": 0.7,
+    "tags": [
+      "modelo",
+      "performance",
+      "open-source"
+    ],
+    "img": "img/9b3a43fab136.jpg",
+    "ts": 1786997113,
+    "addedTs": 1786997778,
+    "urlHash": "9b3a43fab136",
+    "titleHash": "e275ec4dcb52"
+  },
+  {
+    "title": "Show HN: Doberman: The AI watchdog that stops Claude from deleting your database",
+    "titlePt": "Doberman: cão de guarda de IA que impede o Claude de apagar seu banco",
+    "url": "https://github.com/fu351/Doberman-Core",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Doberman é uma ferramenta que monitora agentes como o Claude e bloqueia ações destrutivas antes que sejam executadas. Ele intercepta comandos perigosos, como apagar tabelas ou sobrescrever arquivos críticos, e exige aprovação humana. É uma implementação prática do princípio de verificar antes de agir. Desenvolvedores que dão acesso a banco de dados para LLMs devem considerar usar algo assim.",
+    "reasonEn": "Doberman is a tool that watches agents like Claude and blocks destructive actions before they run. It intercepts dangerous commands, like dropping tables or overwriting critical files, and demands human approval. It is a practical implementation of the verify-before-act principle. Developers giving LLMs database access should consider using something like this.",
+    "score": 0.7,
+    "tags": [
+      "segurança",
+      "agentes",
+      "ferramenta"
+    ],
+    "img": "img/073672a8a96a.jpg",
+    "ts": 1786996980,
+    "addedTs": 1786997778,
+    "urlHash": "073672a8a96a",
+    "titleHash": "e97ba655ae97"
+  },
+  {
+    "title": "Canadian Columnist Boosting Data Centres Has Ties to AI Industry",
+    "titlePt": "Colunista canadense que defende data centers tem laços com a indústria de IA",
+    "url": "https://www.desmog.com/2026/08/17/canadian-columnist-boosting-data-centres-has-ties-to-ai-industry/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A reportagem revela que um colunista influente do Canadá, que escreve em defesa da expansão de data centers, tem ligações financeiras com empresas de IA. O conflito de interesse não foi declarado em seus textos. A denúncia levanta questões sobre transparência em mídia de opinião. Mostra que nem sempre quem elogia infraestrutura tecnológica é independente.",
+    "reasonEn": "The report reveals that an influential Canadian columnist, who writes in favor of data center expansion, has financial ties to AI companies. The conflict of interest was not disclosed in his pieces. The expose raises questions about transparency in opinion media. It shows that not everyone praising tech infrastructure is independent.",
+    "score": 0.5,
+    "tags": [
+      "jornalismo",
+      "ética"
+    ],
+    "img": "img/c55aa2da497d.jpg",
+    "ts": 1786995798,
+    "addedTs": 1786997778,
+    "urlHash": "c55aa2da497d",
+    "titleHash": "29751419aa1f"
+  },
+  {
+    "title": "The People Building a Way to Slow Down the AI Race",
+    "titlePt": "As pessoas que tentam desacelerar a corrida da IA",
+    "url": "https://time.com/article/2026/08/16/ai-race-slowdown-data-center-verification/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A matéria mostra quem são os pesquisadores, ativistas e políticos que defendem pausas ou limites ao desenvolvimento acelerado da IA. Eles alegam que o ritmo atual traz riscos existenciais e sociais sem regulação adequada. O movimento inclui nomes conhecidos do próprio setor tech, além de governos europeus. O debate afeta diretamente o futuro da regulação global de IA.",
+    "reasonEn": "The article profiles researchers, activists, and politicians pushing to pause or limit the rapid AI development. They argue the current pace brings existential and social risks without adequate regulation. The movement includes well-known names from the tech sector itself, plus European governments. The debate directly affects the future of global AI regulation.",
+    "score": 0.7,
+    "tags": [
+      "regulação",
+      "ética"
+    ],
+    "img": "img/8e6d6c1c7020.jpg",
+    "ts": 1786995086,
+    "addedTs": 1786997778,
+    "urlHash": "8e6d6c1c7020",
+    "titleHash": "a40fba9e4364"
+  },
+  {
+    "title": "The AI Reset",
+    "titlePt": "O reset da IA: repensando o futuro da inteligência artificial",
+    "url": "https://medium.com/@alanscottencinas/ai-as-a-crutch-what-the-watermark-era-is-about-to-expose-3bdf6031d546",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto é uma análise de longo formato sobre o estado atual da indústria de IA, possíveis bolhas de investimento e o que vem depois do hype. Provavelmente discute erros de expectativa, ajustes de mercado e novos rumos para empresas e pesquisadores. Ajuda a separar o sinal do ruído no momento atual. Útil para quem toma decisões estratégicas no setor.",
+    "reasonEn": "The piece is a long-form analysis of the current AI industry, possible investment bubbles, and what comes after the hype. It likely discusses expectation gaps, market corrections, and new directions for companies and researchers. It helps separate signal from noise in the current moment. Useful for anyone making strategic decisions in the sector.",
+    "score": 0.55,
+    "tags": [
+      "mercado",
+      "análise"
+    ],
+    "img": "img/6145f859b55c.jpg",
+    "ts": 1786994505,
+    "addedTs": 1786997778,
+    "urlHash": "6145f859b55c",
+    "titleHash": "a664a35c7efa"
+  },
+  {
+    "title": "AI is transforming politics–-and how we understand it",
+    "titlePt": "A IA está transformando a política — e como entendemos ela",
+    "url": "https://freesystems.substack.com/p/ai-is-transforming-politics-and-how",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo mostra como a IA está sendo usada em campanhas eleitorais, desinformação, deepfakes e análise de opinião pública. Também discute como pesquisadores usam IA para estudar comportamento político e prever tendências. O impacto vai além do marketing: envolve integridade democrática e processos eleitorais. Importante para qualquer pessoa preocupada com o futuro da política.",
+    "reasonEn": "The article shows how AI is being used in election campaigns, disinformation, deepfakes, and public opinion analysis. It also discusses how researchers use AI to study political behavior and predict trends. The impact goes beyond marketing: it touches democratic integrity and electoral processes. Important for anyone worried about the future of politics.",
+    "score": 0.55,
+    "tags": [
+      "política",
+      "desinformação"
+    ],
+    "img": "img/96e29a253a63.jpg",
+    "ts": 1786994469,
+    "addedTs": 1786997778,
+    "urlHash": "96e29a253a63",
+    "titleHash": "da0f3f73c898"
+  },
+  {
+    "title": "Show HN: Cronloop, run Claude Code or Codex on a schedule",
+    "titlePt": "Cronloop: rode Claude Code ou Codex em horários programados",
+    "url": "https://cronloop.ai/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Cronloop é uma ferramenta que permite agendar execuções de agentes de IA como Claude Code e Codex para rodar em horários definidos. Resolve o problema de rodar tarefas longas de IA sem precisar deixar o computador ligado. Casos de uso incluem revisões noturnas, geração de testes ou refatorações matinais automatizadas. Mostra a tendência de integrar LLMs em pipelines de DevOps reais.",
+    "reasonEn": "Cronloop is a tool that schedules AI agents like Claude Code and Codex to run at defined times. It solves the problem of running long AI tasks without keeping the computer on. Use cases include nightly reviews, test generation, or automated morning refactors. It shows the trend of integrating LLMs into real DevOps pipelines.",
+    "score": 0.5,
+    "tags": [
+      "ferramenta",
+      "automação",
+      "devops"
+    ],
+    "img": "img/2a43f5ac0c74.jpg",
+    "ts": 1786994042,
+    "addedTs": 1786997778,
+    "urlHash": "2a43f5ac0c74",
+    "titleHash": "f1f3ed0e2674"
+  },
+  {
+    "title": "Job titles of the future: Space travel agent",
+    "titlePt": "Profissões do futuro: agente de viagens espaciais",
+    "url": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
+    "source": "MIT Tech Review",
+    "sources": [
+      "MIT Tech Review"
+    ],
+    "reason": "A MIT Technology Review destaca cargos que podem surgir com o avanço do turismo espacial, como agente de viagens espaciais. A reportagem discute habilidades exigidas e o impacto de novas indústrias. É uma leitura rápida que ajuda a entender tendências de emprego. Útil para quem pensa em carreira de longo prazo.",
+    "reasonEn": "MIT Technology Review highlights jobs that may emerge with the rise of space tourism, such as space travel agent. The piece discusses required skills and the impact of new industries. It is a quick read that helps understand job trends. Useful for those thinking about long-term careers.",
+    "score": 0.55,
+    "tags": [
+      "carreira",
+      "tendências"
+    ],
+    "img": "img/e722428f2ed0.jpg",
+    "ts": 1786698000,
+    "addedTs": 1786997778,
+    "urlHash": "e722428f2ed0",
+    "titleHash": "e8cfc99847ef"
+  },
+  {
+    "title": "From assistance to execution: How enterprises put AI to work",
+    "titlePt": "Da assistência à execução: como empresas estão colocando IA para trabalhar",
+    "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "A OpenAI publicou um artigo mostrando cases reais de empresas que saíram do piloto de IA e passaram a usar modelos em produção para tarefas críticas. O texto destaca ganhos de produtividade e erros comuns na adoção. É leitura útil para líderes de negócio e desenvolvedores B2B. Ajuda a calibrar expectativas sobre o que IA entrega hoje.",
+    "reasonEn": "OpenAI published an article showing real cases of companies moving from AI pilots to using models in production for critical tasks. The text highlights productivity gains and common adoption mistakes. It is useful for business leaders and B2B developers. It helps calibrate expectations on what AI delivers today.",
+    "score": 0.65,
+    "tags": [
+      "empresas",
+      "adoção"
+    ],
+    "img": "img/e063daae6225.jpg",
+    "ts": 1786514400,
+    "addedTs": 1786997778,
+    "urlHash": "e063daae6225",
+    "titleHash": "c6abce850558"
+  },
+  {
+    "title": "Ask an AI expert: What exactly is the full stack?",
+    "titlePt": "O que é exatamente o 'full stack' segundo um especialista em IA",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
+    "source": "Google AI",
+    "sources": [
+      "Google AI"
+    ],
+    "reason": "O Google publicou um conteúdo educativo explicando o termo 'full stack' para quem trabalha com IA, cobrindo desde interface até modelos e infraestrutura. É uma leitura introdutória, útil para iniciantes. Não traz novidades técnicas. Serve para quem quer entender do que se fala no mercado de IA.",
+    "reasonEn": "Google published educational content explaining the term 'full stack' for people working with AI, covering from interface to models and infrastructure. It is an introductory read, useful for beginners. It does not bring technical news. It helps those who want to understand current AI market jargon.",
+    "score": 0.5,
+    "tags": [
+      "educação",
+      "carreira"
+    ],
+    "img": "img/13020592cd32.jpg",
+    "ts": 1782748800,
+    "addedTs": 1786997778,
+    "urlHash": "13020592cd32",
+    "titleHash": "19324bab72a5"
+  },
+  {
     "title": "Everyone Is Still Undersizing the AI Market – Eric Vishria [video]",
     "titlePt": "Todos ainda estão subestimando o mercado de IA",
     "url": "https://www.youtube.com/watch?v=0e7aG_MIHlQ",
@@ -10585,247 +10819,5 @@
     "addedTs": 1786546231,
     "urlHash": "3576f9332959",
     "titleHash": "f6600f9b9c78"
-  },
-  {
-    "title": "Sequoia Raises Its Comfort with Risk in AI Bets",
-    "titlePt": "Sequoia amplia sua tolerância ao risco em apostas de IA",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-08-11/sequoia-raises-its-bets-on-ai-startups",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A renomada firma de capital de risco Sequoia está assumindo posições mais agressivas em startups de IA, segundo reportagem. O movimento reflete a pressão por retornos enormes em um setor em rápida maturação. Para o ecossistema, isso significa mais capital fluindo, mesmo para apostas consideradas arriscadas.",
-    "reasonEn": "Renowned venture firm Sequoia is taking more aggressive positions in AI startups, according to the report. The move reflects pressure for massive returns in a rapidly maturing sector. For the ecosystem, it means more capital flowing, even into bets considered risky.",
-    "score": 0.7,
-    "tags": [
-      "investimento",
-      "vc",
-      "mercado"
-    ],
-    "img": "img/61de2ea020f8.jpg",
-    "ts": 1786544441,
-    "addedTs": 1786546231,
-    "urlHash": "61de2ea020f8",
-    "titleHash": "6da34b32934c"
-  },
-  {
-    "title": "Everything announced at Made by Google &#8217;26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
-    "titlePt": "Tudo o que o Google anunciou no Made by Google 2026: Pixel 11, Pixel Watch 5 e muito Gemini",
-    "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "O Google revelou a linha Pixel 11, o Pixel Watch 5, um rastreador chamado Pixel Tag e diversas funcionalidades de Gemini em seu evento anual. Os novos trazem IA generativa mais profunda no sistema, câmera e produtividade. É um dos lançamentos de hardware mais relevantes do ano para consumidores e desenvolvedores ecosistema Android.",
-    "reasonEn": "Google unveiled the Pixel 11 lineup, the Pixel Watch 5, a tracker called Pixel Tag, and many Gemini features at its annual event. The new hardware brings deeper generative AI across the system, camera, and productivity. It is one of the year's most relevant hardware launches for consumers and developers watching the Android ecosystem.",
-    "score": 0.8,
-    "tags": [
-      "google",
-      "lançamento",
-      "hardware"
-    ],
-    "img": "img/da40c54dd81a.jpg",
-    "ts": 1786544433,
-    "addedTs": 1786546231,
-    "urlHash": "da40c54dd81a",
-    "titleHash": "5ae378ed0fe4"
-  },
-  {
-    "title": "AI Watermarks Are Coming. What Will Universities Do with Them?",
-    "titlePt": "Marca d'água de IA está chegando. O que as universidades vão fazer?",
-    "url": "https://www.reddit.com/r/AIEducation/comments/1vmd46t/ai_watermarks_are_coming_how_should_universities",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A chegada de marcas d'água obrigatórias em conteúdos gerados por IA levanta dúvidas sobre como instituições de ensino vão aplicá-las na avaliação de alunos. Discussões incluem verificação automática e novas políticas acadêmicas. Tema relevante para educadores, estudantes e plataformas educacionais.",
-    "reasonEn": "The arrival of mandatory watermarks on AI-generated content raises questions about how educational institutions will apply them in student assessments. Discussions include automatic verification and new academic policies. A relevant topic for educators, students, and edtech platforms.",
-    "score": 0.6,
-    "tags": [
-      "regulação",
-      "educação",
-      "ética"
-    ],
-    "img": "img/808965009482.jpg",
-    "ts": 1786544352,
-    "addedTs": 1786546231,
-    "urlHash": "808965009482",
-    "titleHash": "ff4bbc7b8d50"
-  },
-  {
-    "title": "LFM2.5-VL-3B: A Better and Faster Vision-Language Model for the Edge",
-    "titlePt": "LFM2.5-VL-3B: modelo de visão e linguagem mais rápido e melhor para dispositivos de borda",
-    "url": "https://www.liquid.ai/blog/lfm2-5-vl-3b",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Liquid AI lançou o LFM2.5-VL-3B, um modelo de visão-linguagem de 3 bilhões de parâmetros otimizado para rodar em dispositivos de borda com baixo consumo. Ele entrega desempenho superior ao antecessor em tarefas multimodais. Importante para quem quer rodar IA localmente em laptops, celulares ou hardwares dedicados.",
-    "reasonEn": "Liquid AI released LFM2.5-VL-3B, a 3-billion parameter vision-language model optimized to run on edge devices with low consumption. It delivers superior performance over its predecessor on multimodal tasks. Important for those wanting to run AI locally on laptops, phones, or dedicated hardware.",
-    "score": 0.7,
-    "tags": [
-      "modelo",
-      "edge",
-      "visão"
-    ],
-    "img": "img/d04900b5cb86.jpg",
-    "ts": 1786544162,
-    "addedTs": 1786546231,
-    "urlHash": "d04900b5cb86",
-    "titleHash": "477944eec427"
-  },
-  {
-    "title": "The Railway Bubble vs. the AI Bubble (2025)",
-    "titlePt": "A bolha das ferrovias vs. a bolha da IA (2025)",
-    "url": "https://awealthofcommonsense.com/2025/11/the-railway-bubble-vs-the-ai-bubble/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo compara a bolha especulativa das ferrovias no século XIX com o atual ciclo de investimentos em IA. Defende que mesmo bolhas históricas geram infraestrutura duradoura. Bom contexto histórico para entender o hype atual.",
-    "reasonEn": "The article compares the 19th-century railway bubble with the current AI investment cycle. It argues that even historical bubbles left lasting infrastructure. Good historical context to understand today's hype.",
-    "score": 0.5,
-    "tags": [
-      "análise",
-      "bolha",
-      "história"
-    ],
-    "img": "img/3cbb3db3f816.jpg",
-    "ts": 1786544065,
-    "addedTs": 1786546231,
-    "urlHash": "3cbb3db3f816",
-    "titleHash": "02e805afdbf0"
-  },
-  {
-    "title": "Circumstantial Complexity, LLMs and Large Scale Architecture",
-    "titlePt": "Complexidade circunstancial, LLMs e arquitetura em larga escala",
-    "url": "https://datagubbe.se/aiarch/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O post discute como arquiteturas de software precisam se adaptar à complexidade trazida por LLMs em sistemas de grande escala. Argumenta que prompts e contexto mudam a forma de pensar microsserviços e monolitos. Leitura técnica útil para arquitetos e engenheiros seniores.",
-    "reasonEn": "The post discusses how software architectures must adapt to the complexity brought by LLMs in large-scale systems. It argues that prompts and context change how we think about microservices and monoliths. Useful technical read for architects and senior engineers.",
-    "score": 0.5,
-    "tags": [
-      "arquitetura",
-      "llm",
-      "engenharia"
-    ],
-    "img": "img/86d82144769d.jpg",
-    "ts": 1786544050,
-    "addedTs": 1786546231,
-    "urlHash": "86d82144769d",
-    "titleHash": "d7d1bdd7ab45"
-  },
-  {
-    "title": "If the markets reject OpenAI and Anthropic, the US should nationalize them",
-    "titlePt": "Se o mercado rejeitar OpenAI e Anthropic, os EUA deveriam nacionalizá-las",
-    "url": "https://www.theguardian.com/commentisfree/2026/aug/12/openai-anthropic-ai-models",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo defende, de forma provocativa, que se o mercado financeiro privado não sustentar OpenAI e Anthropic, o governo dos EUA deveria intervir. É um debate de política econômica sobre o papel estratégico da IA. Útil para acompanhar o debate sobre infraestrutura crítica nacional.",
-    "reasonEn": "The article provocatively argues that if the private market cannot sustain OpenAI and Anthropic, the US government should step in. It is an economic policy debate on the strategic role of AI. Useful to track the conversation on critical national infrastructure.",
-    "score": 0.5,
-    "tags": [
-      "política",
-      "opinião",
-      "regulação"
-    ],
-    "img": "img/b5ff69322071.jpg",
-    "ts": 1786543886,
-    "addedTs": 1786546231,
-    "urlHash": "b5ff69322071",
-    "titleHash": "ba0c95d6f734"
-  },
-  {
-    "title": "GulliBench: Measuring Skepticism in Frontier Models",
-    "titlePt": "GulliBench: medindo o ceticismo em modelos de fronteira",
-    "url": "https://vetto.ai/companies/gullibench.html",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Pesquisadores lançaram o GulliBench, um benchmark que avalia o quanto modelos de IA são céticos diante de afirmações questionáveis. O objetivo é medir se IAs concordam facilmente ou desafiam premissas duvidosas. Relevante para quem trabalha com alinhamento e segurança de modelos.",
-    "reasonEn": "Researchers released GulliBench, a benchmark that evaluates how skeptical AI models are of questionable claims. The goal is to measure whether AIs easily agree or challenge dubious premises. Relevant for those working on alignment and model safety.",
-    "score": 0.6,
-    "tags": [
-      "benchmark",
-      "segurança",
-      "pesquisa"
-    ],
-    "img": "img/a84cc81a0a4c.jpg",
-    "ts": 1786543843,
-    "addedTs": 1786546231,
-    "urlHash": "a84cc81a0a4c",
-    "titleHash": "fd8764f6295f"
-  },
-  {
-    "title": "German advocacy group lodges criminal complaint over Meta AI glasses",
-    "titlePt": "Grupo alemão registra queixa-crime contra óculos de IA da Meta",
-    "url": "https://www.reuters.com/legal/government/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses-2026-08-12/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um grupo de defesa alemão entrou com uma queixa-crime contra a Meta por causa dos óculos inteligentes com IA. A denúncia foca em preocupações com privacidade, já que os óculos podem gravar e reconhecer pessoas sem consentimento. O caso pode criar precedentes legais sobre como dispositivos de IA vestíveis são regulamentados na Europa. Usuários e desenvolvedores de óculos inteligentes devem ficar atentos ao desfecho. A decisão pode afetar o futuro de produtos similares em todo o mundo.",
-    "reasonEn": "A German advocacy group filed a criminal complaint against Meta over its AI-powered smart glasses. The complaint centers on privacy concerns, especially the glasses' ability to record and identify people without consent. The case could set legal precedents for regulating AI wearables in Europe. Users and developers of smart glasses should watch the outcome closely. The decision may shape the future of similar products worldwide.",
-    "score": 0.7,
-    "tags": [
-      "privacidade",
-      "regulação",
-      "hardware"
-    ],
-    "img": "img/a7907ec05d87.jpg",
-    "ts": 1786543563,
-    "addedTs": 1786546231,
-    "urlHash": "a7907ec05d87",
-    "titleHash": "bd8f9c7f79e3"
-  },
-  {
-    "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
-    "titlePt": "Pixel Watch 5 do Google mergulha em IA e saúde",
-    "url": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "O Google anunciou o Pixel Watch 5 com recursos avançados de IA voltados para monitoramento de saúde. O novo relógio usa aprendizado de máquina para detectar condições e oferecer insights personalizados. Isso mostra como a IA está se tornando central em dispositivos pessoais de saúde. Consumidores vão ver sugestões mais inteligentes e proativas vindas do próprio pulso. Quem se importa com saúde e tecnologia wearable deve prestar atenção.",
-    "reasonEn": "Google launched the Pixel Watch 5 with enhanced AI features focused on health monitoring. The new watch uses machine learning to detect conditions and offer personalized insights. This shows how AI is becoming central to personal health devices. Consumers will see smarter, more proactive suggestions coming from their wrist. Anyone interested in wearable health tech should pay attention.",
-    "score": 0.5,
-    "tags": [
-      "wearable",
-      "saúde",
-      "lançamento"
-    ],
-    "img": "img/b926419d1bf4.jpg",
-    "ts": 1786540993,
-    "addedTs": 1786546231,
-    "urlHash": "b926419d1bf4",
-    "titleHash": "c09f07d91208"
-  },
-  {
-    "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
-    "titlePt": "Vacina contra câncer canino criada com ajuda do ChatGPT vira startup",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "Uma startup nasceu a partir de um episódio em que o ChatGPT ajudou a projetar uma vacina contra câncer em cães. A empresa agora persegue tratamentos reais baseados nessa descoberta assistida por IA. O caso mostra como ferramentas de IA estão acelerando a pesquisa em biotecnologia. Donos de pets e investidores do setor devem acompanhar essa convergência entre IA e saúde. Pode ser o começo de descobertas mais rápidas em medicina veterinária e humana.",
-    "reasonEn": "A startup emerged from a moment when ChatGPT helped design a dog cancer vaccine. The company is now pursuing real treatments based on that AI-assisted discovery. The case shows how AI tools are accelerating biotech research. Pet owners and biotech investors should watch this convergence of AI and health. It may signal faster discoveries in veterinary and human medicine.",
-    "score": 0.6,
-    "tags": [
-      "biotecnologia",
-      "saúde",
-      "startup"
-    ],
-    "img": "img/2c1f64cc9d2d.jpg",
-    "ts": 1786536574,
-    "addedTs": 1786546231,
-    "urlHash": "2c1f64cc9d2d",
-    "titleHash": "19e37e73e484"
   }
 ]
