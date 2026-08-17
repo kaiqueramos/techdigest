@@ -1,5 +1,137 @@
 [
   {
+    "title": "DeepSeek V4 Pro at 207 tok/s with the full 1M context, no quantization",
+    "titlePt": "DeepSeek V4 Pro: 207 blocos por segundo e contexto de 1 milhão",
+    "url": "https://runinfra.ai/inference-api/deepseek-v4-pro",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma publicação no Hacker News afirma que o DeepSeek V4 Pro atingiu 207 blocos de texto por segundo. O modelo teria mantido uma janela de contexto de 1 milhão e não usado quantização. Se os números forem confirmados, desenvolvedores terão uma opção de alto desempenho para processar grandes volumes de informação; a chamada, porém, não traz testes independentes.",
+    "reasonEn": "A Hacker News post claims that DeepSeek V4 Pro reached 207 text tokens per second. It reportedly kept a one-million-token context and did not use quantization. If confirmed, the figures could matter to developers processing large amounts of text, but no independent tests are included.",
+    "score": 0.72,
+    "tags": [
+      "modelo",
+      "desempenho",
+      "contexto"
+    ],
+    "img": "img/4a74fd393a95.jpg",
+    "ts": 1786931709,
+    "addedTs": 1786935160,
+    "urlHash": "4a74fd393a95",
+    "titleHash": "6904a3ef8d0d"
+  },
+  {
+    "title": "AI Agent Safety Is Still Thinking Like Permissions",
+    "titlePt": "Segurança de agentes de IA ainda gira em torno de permissões",
+    "url": "https://jeffreyflynt02.medium.com/ai-agent-safety-is-still-thinking-like-permissions-45878337bd98",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um texto publicado no Hacker News afirma que a segurança de agentes de IA ainda pensa principalmente em permissões. A crítica sugere que limitar ou liberar acessos não resolve todos os riscos desses sistemas. Desenvolvedores e empresas que deixam agentes usar ferramentas, arquivos ou serviços devem acompanhar a discussão.",
+    "reasonEn": "A Hacker News post argues that AI-agent safety still centers on permissions. The critique suggests that granting or restricting access does not address every risk posed by these systems. Developers and companies that let agents use tools, files, or services should follow the discussion.",
+    "score": 0.65,
+    "tags": [
+      "segurança",
+      "agentes",
+      "permissões"
+    ],
+    "img": "img/7a150b3cbc2f.jpg",
+    "ts": 1786930343,
+    "addedTs": 1786935160,
+    "urlHash": "7a150b3cbc2f",
+    "titleHash": "7295796caa5b"
+  },
+  {
+    "title": "The CLI your AI agent drives to manage your knowledge graph",
+    "titlePt": "Linha de comando permite a agentes gerenciar grafos de conhecimento",
+    "url": "https://useokf.com/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma nova interface de linha de comando deixa um agente de IA gerenciar um grafo de conhecimento. A ferramenta pode servir para inserir, consultar ou organizar informações por comandos estruturados. Ela interessa a desenvolvedores que usam agentes e trabalham com bases de conhecimento conectadas.",
+    "reasonEn": "A command-line tool lets an AI agent manage a knowledge graph. It is aimed at developers who want an agent to work with connected information. The headline does not provide benchmarks or implementation details.",
+    "score": 0.52,
+    "tags": [
+      "agentes",
+      "conhecimento",
+      "ferramenta"
+    ],
+    "img": "img/2ce3a63f2977.jpg",
+    "ts": 1786926728,
+    "addedTs": 1786935160,
+    "urlHash": "2ce3a63f2977",
+    "titleHash": "484e0520dc43"
+  },
+  {
+    "title": "BanProof – AI that scans TikTok Shop videos for violation points before you post",
+    "titlePt": "BanProof detecta infrações em vídeos da TikTok Shop antes da publicação",
+    "url": "https://banproof.io/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O BanProof promete analisar vídeos da TikTok Shop antes da publicação. A ferramenta procura identificar infrações e pontos que poderiam causar punições na plataforma. A proposta é voltada a vendedores que querem revisar anúncios antes de colocá-los no ar.",
+    "reasonEn": "BanProof promises to scan TikTok Shop videos before they are posted. It looks for violations and points that could lead to penalties. The tool is aimed at sellers who want to review ads before publishing them.",
+    "score": 0.55,
+    "tags": [
+      "moderação",
+      "vídeo",
+      "vendas"
+    ],
+    "img": "img/81578da45455.jpg",
+    "ts": 1786922952,
+    "addedTs": 1786935160,
+    "urlHash": "81578da45455",
+    "titleHash": "cded2b75f739"
+  },
+  {
+    "title": "Smarter – open-source, declarative AI authoring platform (Django, K8s-inspired)",
+    "titlePt": "Smarter: plataforma declarativa e aberta para construir IA",
+    "url": "https://github.com/smarter-sh/smarter",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Smarter é uma plataforma declarativa e de código aberto para criar aplicações de IA. O projeto se inspira no Django e em sistemas que organizam contêineres, como o Kubernetes. A proposta interessa a desenvolvedores que preferem descrever a arquitetura e o comportamento do sistema de forma estruturada.",
+    "reasonEn": "Smarter is an open-source, declarative platform for authoring AI applications. It draws inspiration from Django and container-orchestration systems such as Kubernetes. It is aimed at developers who prefer to describe system structure and behavior explicitly.",
+    "score": 0.5,
+    "tags": [
+      "plataforma",
+      "código aberto",
+      "desenvolvimento"
+    ],
+    "img": "img/7292ee13ad17.jpg",
+    "ts": 1786919117,
+    "addedTs": 1786935160,
+    "urlHash": "7292ee13ad17",
+    "titleHash": "ace2549c3241"
+  },
+  {
+    "title": "Legbar – live AI agent sessions beside GitHub CI, in one terminal",
+    "titlePt": "Legbar mostra agentes de IA ao lado da integração do GitHub",
+    "url": "https://github.com/gmhoward9289-ops/legbar",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Legbar é uma ferramenta de terminal que mostra sessões ao vivo de agentes de IA ao lado de fluxos de integração contínua do GitHub. A proposta reúne, em uma mesma tela, informações sobre o agente e as verificações de código. A combinação busca facilitar o acompanhamento do trabalho por equipes de desenvolvimento.",
+    "reasonEn": "Legbar is a terminal tool that shows live AI-agent sessions beside GitHub continuous-integration runs. It brings agent activity and code checks into one view. The goal is to give developers more context while they inspect changes and failures.",
+    "score": 0.56,
+    "tags": [
+      "agentes",
+      "github",
+      "desenvolvimento"
+    ],
+    "img": "img/01b62625adca.jpg",
+    "ts": 1786917974,
+    "addedTs": 1786935160,
+    "urlHash": "01b62625adca",
+    "titleHash": "d02efaedc0e5"
+  },
+  {
     "title": "AI Slop Is Real",
     "titlePt": "Lixo gerado por IA é real e está por toda parte",
     "url": "https://aichatspot.online/what-is-ai-slop-and-does-it-really-ruin-youtube/",
@@ -10704,137 +10836,5 @@
     "addedTs": 1786480504,
     "urlHash": "7033d9ca46cf",
     "titleHash": "5a08de26e5a2"
-  },
-  {
-    "title": "OpenAI launches ChatGPT desktop app for Linux",
-    "titlePt": "OpenAI lança app desktop do ChatGPT para Linux",
-    "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A OpenAI disponibilizou oficialmente o aplicativo desktop do ChatGPT para usuários de Linux, fechando uma lacuna que existia em relação a Windows e macOS. O app traz a mesma experiência de conversa por texto e voz já conhecida, com integração ao sistema. É uma boa notícia para desenvolvedores e usuários avançados que dependem do Linux no dia a dia. A distribuição deve seguir os mesmos canais oficiais da OpenAI.",
-    "reasonEn": "OpenAI officially released the ChatGPT desktop app for Linux users, closing a gap that existed compared to Windows and macOS. The app brings the same text and voice chat experience already familiar, with system integration. It's good news for developers and power users who rely on Linux daily. Distribution should follow the same official OpenAI channels.",
-    "score": 0.7,
-    "tags": [
-      "lançamento",
-      "linux",
-      "chatgpt"
-    ],
-    "img": "img/ff47b8bea695.jpg",
-    "ts": 1786475735,
-    "addedTs": 1786480504,
-    "urlHash": "ff47b8bea695",
-    "titleHash": "666f53de9af5"
-  },
-  {
-    "title": "Google’s Gemini app surges to one billion users",
-    "titlePt": "App Gemini do Google atinge um bilhão de usuários",
-    "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "O aplicativo Gemini do Google alcançou a marca de um bilhão de usuários, um salto enorme em popularidade. O número mostra como a IA generativa virou produto de massa e competindo de frente com o ChatGPT. É um indicador claro de que a corrida pela base de usuários esquentou. Para desenvolvedores e empresas, isso significa um mercado de IA cada vez mais consolidado e difícil de ignorar.",
-    "reasonEn": "Google's Gemini app reached the milestone of one billion users, a huge jump in popularity. The number shows how generative AI has become a mass-market product competing head-on with ChatGPT. It's a clear indicator that the race for user base has heated up. For developers and businesses, it means an increasingly consolidated AI market that's hard to ignore.",
-    "score": 0.85,
-    "tags": [
-      "gemini",
-      "marco",
-      "google"
-    ],
-    "img": "img/6d1c60f6173d.jpg",
-    "ts": 1786474152,
-    "addedTs": 1786480504,
-    "urlHash": "6d1c60f6173d",
-    "titleHash": "7c8bdc959028"
-  },
-  {
-    "title": "AI and the Delusions of Increasing Productivity",
-    "titlePt": "IA e as ilusões de aumento de produtividade",
-    "url": "http://charleshughsmith.blogspot.com/2026/08/ai-and-delusions-of-increasing.html",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo questiona a narrativa de que ferramentas de IA estão tornando trabalhadores muito mais produtivos. Mostra que ganhos reais são menores do que prometem e muitas vezes vêm acompanhados de retrabalho e perda de qualidade. É leitura obrigatória para gestores que estão decidindo se valem investir pesado em IA agora. O texto é cético, baseado em casos reais.",
-    "reasonEn": "The article questions the narrative that AI tools are making workers far more productive. It shows real gains are smaller than promised and often come with rework and quality loss. It's a must-read for managers deciding whether to invest heavily in AI now. The piece is skeptical and grounded in real cases.",
-    "score": 0.7,
-    "tags": [
-      "produtividade",
-      "trabalho",
-      "análise"
-    ],
-    "img": "img/68d38b7a75bd.jpg",
-    "ts": 1786473600,
-    "addedTs": 1786474110,
-    "urlHash": "68d38b7a75bd",
-    "titleHash": "37841bc87244"
-  },
-  {
-    "title": "My home internet died for half a day. So did every agent I had",
-    "titlePt": "Minha internet caiu por meio dia e todos os meus agentes também",
-    "url": "https://bostrat.ai/blog/the-outage",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O autor conta como a queda de sua internet residencial derrubou todos os agentes de IA que ele tinha configurado, mostrando a fragilidade de depender de conexões instáveis. O relato serve de alerta para quem roda automações críticas em casa sem redundância. Mostra a importância de fallback local ou execução em nuvem com tolerância a falhas. Vale para qualquer pessoa que depende de agentes para trabalho sério.",
-    "reasonEn": "The author describes how a half-day home internet outage knocked out all his AI agents, exposing how fragile home setups can be. The story is a warning for anyone running critical automations from home without redundancy. It highlights the need for local fallbacks or resilient cloud execution. Useful for anyone who depends on agents for serious work.",
-    "score": 0.6,
-    "tags": [
-      "agente",
-      "infra",
-      "falha"
-    ],
-    "img": "img/f459d23091c6.jpg",
-    "ts": 1786472486,
-    "addedTs": 1786474110,
-    "urlHash": "f459d23091c6",
-    "titleHash": "445c0b37660a"
-  },
-  {
-    "title": "TDD inside the agent loop – theater or actual value?",
-    "titlePt": "TDD dentro do loop de agentes: teatro ou valor real?",
-    "url": "https://martinfowler.com/articles/exploring-gen-ai/tdd-in-the-agent-loop.html",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um desenvolvedor debate se aplicar TDD (desenvolvimento orientado a testes) dentro do loop de um agente de IA realmente traz qualidade ou só dá uma falsa sensação de segurança. O argumento central é que testes gerados pelo próprio agente tendem a confirmar o próprio código, criando circularidade. Pode interessar engenheiros que estão montando pipelines de validação para IA. A discussão é provocativa e ainda sem consenso.",
-    "reasonEn": "A developer debates whether running TDD inside an AI agent loop delivers real quality or just a false sense of safety. The core argument is that agent-generated tests tend to confirm their own code, creating circularity. It may interest engineers building validation pipelines for AI. The discussion is provocative and still unsettled.",
-    "score": 0.5,
-    "tags": [
-      "tdd",
-      "engenharia",
-      "debate"
-    ],
-    "img": "img/52f1f142c0c8.jpg",
-    "ts": 1786472391,
-    "addedTs": 1786474110,
-    "urlHash": "52f1f142c0c8",
-    "titleHash": "a5495653aff2"
-  },
-  {
-    "title": "Ask HN: How do you keep 54 LLM workflows on the right models?",
-    "titlePt": "Como manter 54 fluxos LLM no modelo certo?",
-    "url": "https://news.ycombinator.com/item?id=49262312",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Uma pergunta no Hacker News revela um problema comum: equipes com dezenas de fluxos LLM lutam para manter cada um no modelo mais adequado à medida que preços e capacidades mudam. Mostra a complexidade operacional de escalar IA em produção. Respostas sugerem camadas de roteamento e avaliação contínua. Relevante para qualquer líder técnico com múltiplos usos de LLM.",
-    "reasonEn": "An HN question exposes a common pain: teams with dozens of LLM workflows struggle to keep each one on the right model as prices and capabilities shift. It highlights the operational complexity of scaling AI in production. Replies suggest routing layers and continuous evaluation. Relevant to any tech leader running multiple LLM use cases.",
-    "score": 0.6,
-    "tags": [
-      "llm",
-      "operações",
-      "arquitetura"
-    ],
-    "img": "img/e9a11a2a1dd5.jpg",
-    "ts": 1786472236,
-    "addedTs": 1786474110,
-    "urlHash": "e9a11a2a1dd5",
-    "titleHash": "b41d8e0f588a"
   }
 ]
