@@ -1,5 +1,263 @@
 [
   {
+    "title": "ElevenLabs MCP in Claude",
+    "titlePt": "ElevenLabs MCP agora integrado ao Claude",
+    "url": "https://www.producthunt.com/products/elevenlabs-mcp-2",
+    "source": "ProductHunt",
+    "sources": [
+      "ProductHunt"
+    ],
+    "reason": "A ElevenLabs lançou um servidor MCP que se conecta diretamente ao Claude, permitindo gerar e processar áudio por voz dentro do assistente. A integração facilita para desenvolvedores criarem experiências com fala sem precisar montar pipelines complexos. Para quem usa o Claude no trabalho, isso abre caminho para assistentes que falam e ouvem de verdade.",
+    "reasonEn": "ElevenLabs launched an MCP server that connects directly to Claude, enabling voice generation and processing inside the assistant. The integration makes it easier for developers to build speech-driven experiences without complex pipelines. For Claude users at work, this opens the door to assistants that truly speak and listen.",
+    "score": 0.5,
+    "tags": [
+      "voz",
+      "lançamento",
+      "integração"
+    ],
+    "img": "img/acb389ae6cc9.jpg",
+    "ts": 1787077370,
+    "addedTs": 1787077447,
+    "urlHash": "acb389ae6cc9",
+    "titleHash": "e35cc24e5955"
+  },
+  {
+    "title": "How Much Memory Does Your Agent Actually Need?",
+    "titlePt": "Quanta memória seu agente de IA realmente precisa?",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "O artigo da Hugging Face investiga o uso real de memória por agentes de IA em produção, separando mito de necessidade técnica. Mostra como otimizar contexto para economizar custos e melhorar desempenho em fluxos agênticos. Leitura recomendada para quem constrói agentes e quer evitar contas pesadas em API.",
+    "reasonEn": "The Hugging Face article investigates real memory usage by AI agents in production, separating myth from actual need. It shows how to optimize context to save costs and improve performance in agentic workflows. Recommended reading for anyone building agents who wants to avoid steep API bills.",
+    "score": 0.75,
+    "tags": [
+      "agentes",
+      "memória",
+      "performance"
+    ],
+    "img": "img/5ba78b757300.jpg",
+    "ts": 1787076578,
+    "addedTs": 1787077447,
+    "urlHash": "5ba78b757300",
+    "titleHash": "3b116a96af58"
+  },
+  {
+    "title": "David Chalmers asks: When we talk to AI, what are we talking to?",
+    "titlePt": "David Chalmers pergunta: ao falar com IA, com quem falamos?",
+    "url": "https://www.youtube.com/watch?v=uUjJOMcNU9w",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O filósofo David Chalmers discute se os sistemas de IA podem ter algum tipo de experiência ou consciência quando conversamos com eles. É uma conversa profunda sobre o que significa interagir com máquinas que simulam linguagem humana. Não tem aplicação prática imediata, mas muda a forma como pensamos sobre IAs no dia a dia.",
+    "reasonEn": "Philosopher David Chalmers discusses whether AI systems might have some kind of experience or consciousness when we talk to them. It's a deep conversation about what it means to interact with machines that simulate human language. No immediate practical use, but it shifts how we think about AIs in daily life.",
+    "score": 0.55,
+    "tags": [
+      "filosofia",
+      "consciência"
+    ],
+    "img": "img/14a52a5bd598.jpg",
+    "ts": 1787076153,
+    "addedTs": 1787077447,
+    "urlHash": "14a52a5bd598",
+    "titleHash": "7d287df7eee6"
+  },
+  {
+    "title": "3D Model Markets Are Being Flooded with AI Sellers, but No One's Buying",
+    "titlePt": "Mercados de modelos 3D inundados por vendedores de IA, sem compradores",
+    "url": "https://kotaku.com/3d-model-markets-are-being-flooded-with-ai-sellers-but-no-ones-buying-2000724790",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O mercado de modelos 3D está recebendo uma enxurrada de assets gerados por IA, mas compradores parecem desconfiar da qualidade e dos direitos de uso. Mostra que só gerar conteúdo com IA não basta: ainda é preciso curadoria, procedência e confiança. Afeta diretamente artistas 3D que veem seus preços caírem.",
+    "reasonEn": "The 3D model marketplace is being flooded with AI-generated assets, but buyers appear wary of quality and usage rights. It shows that generating content with AI isn't enough: curation, provenance and trust still matter. It directly affects 3D artists watching their prices drop.",
+    "score": 0.6,
+    "tags": [
+      "3d",
+      "mercado",
+      "ia-generativa"
+    ],
+    "img": "img/5483c6f980a7.jpg",
+    "ts": 1787076079,
+    "addedTs": 1787077447,
+    "urlHash": "5483c6f980a7",
+    "titleHash": "85d61945e207"
+  },
+  {
+    "title": "OpenAI institutes new safeguards after Hugging Face breach",
+    "titlePt": "OpenAI cria novas barreiras após violação na Hugging Face",
+    "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A OpenAI implementou novas medidas de segurança depois que uma falha expôs dados na Hugging Face, plataforma usada por desenvolvedores de IA em todo o mundo. O caso mostra como a cadeia de suprimentos de modelos é um alvo sensível para ataques. Empresas e devs que usam Hugging Face devem revisar suas integrações agora.",
+    "reasonEn": "OpenAI rolled out new safeguards after a security lapse exposed data on Hugging Face, a platform widely used by AI developers. The case shows how the model supply chain is a sensitive target for attacks. Companies and devs using Hugging Face should review their integrations now.",
+    "score": 0.85,
+    "tags": [
+      "segurança",
+      "openai"
+    ],
+    "img": "img/1d131bb25f34.jpg",
+    "ts": 1787076000,
+    "addedTs": 1787077447,
+    "urlHash": "1d131bb25f34",
+    "titleHash": "7003e9ee7177"
+  },
+  {
+    "title": "AI Watermarking, Nazi Enigmas, and Sherlock Holmes",
+    "titlePt": "Marcas d'água em IA, enigmas nazistas e Sherlock Holmes",
+    "url": "https://kolja.wawrowsky.com/posts/invisible-fingerprints/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto mistura a história da criptografia da Segunda Guerra Mundial com técnicas modernas de marca d'água em textos gerados por IA. É uma leitura curiosa que mostra como ideias clássicas de quebra de códigos voltam com força na era dos grandes modelos de linguagem. Útil para entender os limites das marcas d'água atuais.",
+    "reasonEn": "The piece mixes WWII cryptography history with modern watermarking techniques for AI-generated text. It's a curious read showing how classic codebreaking ideas are back in force in the LLM era. Useful to understand the limits of current watermarking schemes.",
+    "score": 0.5,
+    "tags": [
+      "marca-d'água",
+      "história",
+      "segurança"
+    ],
+    "img": "img/70fc08dd79bf.jpg",
+    "ts": 1787075393,
+    "addedTs": 1787077447,
+    "urlHash": "70fc08dd79bf",
+    "titleHash": "9b45a245bdc0"
+  },
+  {
+    "title": "Return of the Spec: Why AI agents are reviving the software specification",
+    "titlePt": "O retorno da especificação: agentes de IA estão ressuscitando o spec",
+    "url": "https://caines.ca/posts/2026-08-15-return-of-the-spec/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto defende que agentes de IA funcionam melhor quando recebem especificações de software bem escritas, em vez de instruções vagas. Mostra como práticas antigas de engenharia voltam por causa dos grandes modelos de linguagem. Leitura útil para líderes técnicos repensando seus fluxos de desenvolvimento.",
+    "reasonEn": "The piece argues AI agents work best when given well-written software specs instead of vague instructions. It shows how old engineering practices are returning because of large language models. Useful reading for tech leads rethinking their development workflows.",
+    "score": 0.7,
+    "tags": [
+      "especificação",
+      "agentes",
+      "engenharia"
+    ],
+    "img": "img/0b832f8def43.jpg",
+    "ts": 1787075363,
+    "addedTs": 1787077447,
+    "urlHash": "0b832f8def43",
+    "titleHash": "f45f90e71eb1"
+  },
+  {
+    "title": "Inference Costs per Agentic Workflow to Increase More Than Fivefold Through 2028",
+    "titlePt": "Custo de inferência por fluxo agêntico pode mais que quintuplicar até 2028",
+    "url": "https://www.gartner.com/en/newsroom/press-releases/2026-08-17-gartner-predicts-ai-inference-costs-per-agentic-workflow-will-increase-more-than-fivefold-through-2028",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um relatório projeta que o custo de rodar fluxos com agentes de IA pode crescer mais de cinco vezes até 2028. Isso significa que produtos baseados em agentes podem ficar muito mais caros para operar à medida que o uso escala. Empresas e desenvolvedores precisam planejar isso agora, não depois.",
+    "reasonEn": "A report projects that running AI agent workflows could cost more than five times as much by 2028. That means agent-based products may get much more expensive to operate as usage scales. Companies and developers need to plan for this now, not later.",
+    "score": 0.85,
+    "tags": [
+      "custos",
+      "agentes",
+      "previsão"
+    ],
+    "img": "img/c26d5834adc5.jpg",
+    "ts": 1787075149,
+    "addedTs": 1787077447,
+    "urlHash": "c26d5834adc5",
+    "titleHash": "0595f421ab62"
+  },
+  {
+    "title": "Contributors are AI-first now. Is your project?",
+    "titlePt": "Colaboradores já são IA-first. E o seu projeto?",
+    "url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto defende que projetos open source precisam se adaptar a contribuidores que usam IA como primeira ferramenta de trabalho. É uma discussão prática sobre como comunidades devem receber pull requests gerados por IA e manter a qualidade do código. Relevante para mantenedores de projetos e times open source.",
+    "reasonEn": "The piece argues open source projects need to adapt to contributors who use AI as their first working tool. It's a practical discussion on how communities should accept AI-generated pull requests and keep code quality. Relevant for project maintainers and open source teams.",
+    "score": 0.6,
+    "tags": [
+      "open-source",
+      "colaboração"
+    ],
+    "img": "img/a4ea241f976d.jpg",
+    "ts": 1787075137,
+    "addedTs": 1787077447,
+    "urlHash": "a4ea241f976d",
+    "titleHash": "01ea7120becb"
+  },
+  {
+    "title": "IP can't save you from AI",
+    "titlePt": "Propriedade intelectual não vai te proteger da IA",
+    "url": "https://pluralistic.net/2026/08/18/enron-corpus/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto argumenta que tentar blindar conteúdo com leis de propriedade intelectual não funciona bem contra sistemas de IA generativa. Mostra por que regulação e contratos práticos importam mais do que no novo cenário. Leitura para quem cria conteúdo e pensa em como se defender.",
+    "reasonEn": "The piece argues that trying to shield content with IP law doesn't work well against generative AI systems. It shows why regulation and practical contracts matter more than copyright in the new landscape. Reading for creators thinking about how to defend themselves.",
+    "score": 0.5,
+    "tags": [
+      "direitos",
+      "regulação"
+    ],
+    "img": "img/0c38f7cf6e05.jpg",
+    "ts": 1787074584,
+    "addedTs": 1787077447,
+    "urlHash": "0c38f7cf6e05",
+    "titleHash": "9392bc655f14"
+  },
+  {
+    "title": "One Person State – portable personal AI system",
+    "titlePt": "One Person State: sistema pessoal de IA portátil",
+    "url": "https://embassy.svit.la/p/one-person-state",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O projeto propõe um sistema pessoal de IA que roda em qualquer lugar, dando ao usuário controle total dos próprios dados. Combina a ideia de soberania digital com assistentes modernos de IA. Pode interessar quem preza por privacidade, mobilidade e independência de nuvens fechadas.",
+    "reasonEn": "The project proposes a personal AI system that runs anywhere, giving the user full control over their own data. It combines the idea of digital sovereignty with modern AI assistants. It may appeal to those who value privacy, mobility and independence from closed clouds.",
+    "score": 0.5,
+    "tags": [
+      "privacidade",
+      "pessoal"
+    ],
+    "img": "img/8ea0d6b68b14.jpg",
+    "ts": 1787073111,
+    "addedTs": 1787077447,
+    "urlHash": "8ea0d6b68b14",
+    "titleHash": "757e6f71ebc5"
+  },
+  {
+    "title": "A 24-Year-Old Blew Up a $45B AI Fund",
+    "titlePt": "Jovem de 24 anos comanda fundo de IA de US$ 45 bilhões",
+    "url": "https://rubbishtalk.com/finance/how-a-24-year-old-blew-up-a-45-billion-ai-fund/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um gestor de apenas 24 anos está à frente de um fundo bilionário focado em IA, mostrando que a nova geração já controla grandes somas no setor. O caso levanta dúvidas sobre governança e experiência em apostas tão pesadas em tecnologia. Importante para entender como o capital está sendo alocado em IA.",
+    "reasonEn": "A manager of just 24 years old is running a multi-billion-dollar AI fund, showing the new generation already controls huge sums in the sector. The case raises questions about governance and experience in such heavy bets on technology. Important to understand how capital is being deployed in AI.",
+    "score": 0.7,
+    "tags": [
+      "investimento",
+      "gestão"
+    ],
+    "img": "img/f4db3f883923.jpg",
+    "ts": 1787073036,
+    "addedTs": 1787077447,
+    "urlHash": "f4db3f883923",
+    "titleHash": "811f4fd1cc87"
+  },
+  {
     "title": "Berlin artist makes people invisible to the city's first AI surveillance cameras",
     "titlePt": "Artista de Berlim torna pessoas invisíveis às câmeras de vigilância com IA",
     "url": "https://simonweckert.com/digitalcamouflage.html",
@@ -10593,268 +10851,5 @@
     "addedTs": 1786625279,
     "urlHash": "a0350d1630f4",
     "titleHash": "6941f95ce179"
-  },
-  {
-    "title": "Show HN: I graded 83 AI vendors on data residency, training and subprocessors",
-    "titlePt": "Analista avalia 83 fornecedores de IA em residência de dados e treinamento",
-    "url": "https://sovereignairegistry.com",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um Show HN apresenta uma planilha com 83 fornecedores de IA avaliados em critérios como residência de dados, uso em treinamento e subprocessadores. O material é útil para times jurídicos e de segurança que precisam escolher fornecedores em ambientes regulados. A curadoria aberta reduz o tempo gasto em due diligence repetitiva. É um recurso valioso para empresas em mercados como saúde, financeiro e setor público.",
-    "reasonEn": "A Show HN presents a spreadsheet of 83 AI vendors graded on criteria such as data residency, training use, and subprocessors. The material is useful for legal and security teams that need to choose vendors in regulated environments. The open curation reduces time spent on repetitive due diligence. It is a valuable resource for companies in markets like healthcare, finance, and the public sector.",
-    "score": 0.6,
-    "tags": [
-      "compliance",
-      "privacidade",
-      "dados"
-    ],
-    "img": "img/a1c76a323af6.jpg",
-    "ts": 1786623137,
-    "addedTs": 1786625279,
-    "urlHash": "a1c76a323af6",
-    "titleHash": "59085aaabf85"
-  },
-  {
-    "title": "Ya Diktu: The Pre-Print from the AI Engineer Who Cracked Linear A",
-    "titlePt": "Pré-impressão diz que engenheiro de IA decifrou a Linear A",
-    "url": "https://zenodo.org/records/21903482",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um texto no Hacker News comenta uma pré-impressão atribuída a um engenheiro de IA que afirma ter decifrado a Linear A, escrita cretense ainda não totalmente compreendida. A alegação é ousada e tende a gerar debate na comunidade acadêmica. Para desenvolvedores e curiosos, é uma amostra do quanto a IA está sendo aplicada a problemas históricos. Vale acompanhar se houver revisão por pares.",
-    "reasonEn": "A Hacker News piece comments on a pre-print attributed to an AI engineer claiming to have cracked Linear A, a Cretan script not yet fully understood. The claim is bold and likely to spark debate in the academic community. For developers and the curious, it is a sample of how far AI is being applied to historical problems. Worth following if there is peer review.",
-    "score": 0.5,
-    "tags": [
-      "pesquisa",
-      "história",
-      "ia"
-    ],
-    "img": "img/3ef5871d9f4c.jpg",
-    "ts": 1786621447,
-    "addedTs": 1786625279,
-    "urlHash": "3ef5871d9f4c",
-    "titleHash": "45d885ae79ce"
-  },
-  {
-    "title": "Booksellers suspect AI firms are buying and then destroying rare books",
-    "titlePt": "Livreiros suspeitam que empresas de IA compram e destroem livros raros",
-    "url": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Livreiros passaram a suspeitar que empresas de IA estão adquirindo livros raros em grandes quantidades e os destruindo em seguida. O motivo seria alimentar treinamento de modelos sem deixar cópias disponíveis ao público, o que reduziria a base comum de conhecimento. A história levanta questões éticas e de direito autoral relevantes ao ecossistema de IA. Pode gerar pressão por novas regras de uso de obras raras.",
-    "reasonEn": "Booksellers have begun to suspect that AI companies are buying rare books in large quantities and then destroying them. The reason would be to feed model training without leaving copies available to the public, which would shrink the common knowledge base. The story raises ethical and copyright questions relevant to the AI ecosystem. It may generate pressure for new rules on the use of rare works.",
-    "score": 0.65,
-    "tags": [
-      "polêmica",
-      "livros",
-      "ética"
-    ],
-    "img": "img/8fbaff8595a9.jpg",
-    "ts": 1786620251,
-    "addedTs": 1786625279,
-    "urlHash": "8fbaff8595a9",
-    "titleHash": "3b1b102a9446"
-  },
-  {
-    "title": "Apple in Talks to Pay Publishers to Improve AI-Powered Siri",
-    "titlePt": "Apple negocia pagar publishers para turbinar a Siri com IA",
-    "url": "https://www.wsj.com/business/media/apple-in-talks-to-pay-publishers-to-improve-ai-powered-siri-0641f64b",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Apple está em conversas avançadas com veículos de imprensa para licenciamento de conteúdo, com o objetivo de alimentar a nova Siri baseada em inteligência artificial generativa. A movimentação indica que a empresa reconhece a defasagem da Siri frente a ChatGPT, Gemini e Alexa. O acordo pode redefinir como Big Tech paga pelo uso de conteúdo jornalístico em modelos de IA. Editores e desenvolvedores que dependem do ecossistema Apple devem ficar atentos aos desdobramentos.",
-    "reasonEn": "Apple is in advanced talks with major publishers to license their content and improve its AI-powered Siri. The move signals Apple admits its voice assistant is lagging behind ChatGPT, Gemini, and Alexa. Such deals could reshape how big tech pays for journalistic content used to train AI models. Editors and developers in the Apple ecosystem should watch closely.",
-    "score": 0.8,
-    "tags": [
-      "apple",
-      "siri",
-      "publicação"
-    ],
-    "img": "img/f48800715756.jpg",
-    "ts": 1786619877,
-    "addedTs": 1786625279,
-    "urlHash": "f48800715756",
-    "titleHash": "deb59ed44f9c"
-  },
-  {
-    "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
-    "titlePt": "Reino Unido quer formar uma nação de pioneiros em IA",
-    "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
-    "source": "Google AI",
-    "sources": [
-      "Google AI"
-    ],
-    "reason": "Iniciativa do Google em parceria com o Reino Unido busca treinar milhões de pessoas em habilidades de IA, com foco em produtividade e inclusão. O movimento reflete a corrida global para difundir IA além das Big Tech. Profissionais britânicos e formuladores de políticas devem prestar atenção.",
-    "reasonEn": "A Google initiative with the UK government aims to train millions of people in AI skills, focusing on productivity and inclusion. The move reflects a global race to spread AI beyond Big Tech. British professionals and policymakers should pay attention.",
-    "score": 0.5,
-    "tags": [
-      "política",
-      "google"
-    ],
-    "img": "img/2987e3b3c79a.jpg",
-    "ts": 1782799200,
-    "addedTs": 1786625279,
-    "urlHash": "2987e3b3c79a",
-    "titleHash": "15e21a08b330"
-  },
-  {
-    "title": "AI's Threat to Science Media Archives",
-    "titlePt": "A ameaça da IA aos acervos de mídia científica",
-    "url": "https://www.birdsoutsidemywindow.org/2026/08/12/ais-threat-to-science-media-archives/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O texto discute como a inteligência artificial está colocando em risco os acervos de mídia usados em pesquisas, incluindo imagens, vídeos e áudios que sustentam estudos publicados. Muitos formatos e metadados podem ser mal interpretados ou corrompidos por modelos generativos, afetando a reprodutibilidade de experimentos. A preocupação é maior em áreas como medicina e biologia, onde provas visuais são essenciais. O artigo sugere práticas para preservar a integridade dos acervos diante do avanço dos modelos.",
-    "reasonEn": "The article discusses how artificial intelligence is putting at risk the media archives used in research, including images, videos, and audio that underpin published studies. Many formats and metadata can be misinterpreted or corrupted by generative models, affecting experiment reproducibility. The concern is greatest in areas like medicine and biology, where visual evidence is essential. The article suggests practices to preserve archive integrity in the face of advancing models.",
-    "score": 0.5,
-    "tags": [
-      "ciência",
-      "arquivos",
-      "ética"
-    ],
-    "img": "img/9d61f5fb704f.jpg",
-    "ts": 1786618185,
-    "addedTs": 1786618443,
-    "urlHash": "9d61f5fb704f",
-    "titleHash": "ee42b1da344a"
-  },
-  {
-    "title": "The median open-source repo pays no \"AI review tax\" (data from 5,388 repos)",
-    "titlePt": "O repositório open-source mediano não paga 'imposto' de revisão por IA",
-    "url": "https://forge.ambera.app/review-tax-index",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Uma análise com dados de 5.388 repositórios open-source mostra que, na maioria dos projetos, a revisão de código feita por IA não impõe um custo computacional relevante. O resultado contraria o medo de que agentes automatizados estejam sobrecarregando mantenedores com trabalho extra. Apenas os repositórios muito populares parecem sentir algum peso da revisão automática. A pesquisa ajuda a dimensionar o impacto real da IA na colaboração em software livre.",
-    "reasonEn": "An analysis of 5,388 open-source repositories shows that, in most projects, AI-driven code review does not impose a significant computational cost. The result contradicts fears that automated agents are overburdening maintainers with extra work. Only very popular repositories seem to feel any weight from automated review. The research helps size the real impact of AI on free software collaboration.",
-    "score": 0.65,
-    "tags": [
-      "open-source",
-      "dados",
-      "desenvolvimento"
-    ],
-    "img": "img/df0f456d04a5.jpg",
-    "ts": 1786617884,
-    "addedTs": 1786618443,
-    "urlHash": "df0f456d04a5",
-    "titleHash": "4ef1516917f9"
-  },
-  {
-    "title": "The White House Is Going to Expand It's AI Policy",
-    "titlePt": "Casa Branca vai expandir sua política de IA",
-    "url": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O governo dos Estados Unidos anunciou que pretende ampliar o escopo de sua política de inteligência artificial para cobrir novos temas, como segurança no trabalho e impacto no emprego. A medida acompanha a pressão crescente por regulação em diversos estados e a atuação de agências como FTC e NIST. Empresas do setor precisam acompanhar para entender novas obrigações e limites. A expansão pode influenciar regulações em outros países e o mercado global de IA.",
-    "reasonEn": "The U.S. government announced it intends to expand the scope of its artificial intelligence policy to cover new topics, such as workplace safety and job impact. The measure comes amid growing pressure for regulation across several states and action from agencies like the FTC and NIST. Companies in the sector need to keep up to understand new obligations and limits. The expansion could influence regulations in other countries and the global AI market.",
-    "score": 0.8,
-    "tags": [
-      "regulação",
-      "governo",
-      "política"
-    ],
-    "img": "img/e8ca677343d1.jpg",
-    "ts": 1786617350,
-    "addedTs": 1786618443,
-    "urlHash": "e8ca677343d1",
-    "titleHash": "eb7e22b553de"
-  },
-  {
-    "title": "What we're learning about AI memory (and why most of it doesn't work yet)",
-    "titlePt": "O que estamos aprendendo sobre memória em IA (e por que quase nada funciona ainda)",
-    "url": "https://www.reddit.com/r/staynimble/s/XKEYgCpwln",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O texto reúne o estado atual das pesquisas em memória para modelos de linguagem, mostrando que a maioria das abordagens ainda falha em reter contexto de forma confiável. Técnicas para ampliar a janela de memória enfrentam trade-offs entre custo, latência e precisão. O autor também discute por que copiar o funcionamento da memória humana é muito mais difícil do que parece na teoria. É uma leitura útil para quem decide onde investir tempo em agentes e aplicações de longo prazo.",
-    "reasonEn": "The article gathers the current state of research on memory for language models, showing that most approaches still fail to retain context reliably. Techniques to expand the memory window face trade-offs between cost, latency, and accuracy. The author also discusses why copying human memory function is much harder than it seems in theory. It's a useful read for anyone deciding where to invest time in agents and long-term applications.",
-    "score": 0.55,
-    "tags": [
-      "memória",
-      "modelos",
-      "pesquisa"
-    ],
-    "img": "img/fae1d0417625.jpg",
-    "ts": 1786615987,
-    "addedTs": 1786618443,
-    "urlHash": "fae1d0417625",
-    "titleHash": "c66fb2479894"
-  },
-  {
-    "title": "AI 2027 Tracker: Tracking predictions from the AI 2027 scenario against reality",
-    "titlePt": "Rastreador AI 2027: previsões conferidas contra a realidade",
-    "url": "https://ai2027-tracker.com/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O site acompanha as previsões do cenário 'AI 2027' e mede o quanto elas se concretizam ao longo do tempo, incluindo marcos como chegada de AGI, impacto no emprego e novos modelos. Ele serve como referência para separar prognósticos sensatos de exageros. Para profissionais e investidores, ajuda a calibrar expectativas sobre o ritmo real da IA. É uma leitura recomendada para quem consome muita previsão sobre o setor.",
-    "reasonEn": "The site tracks the predictions of the 'AI 2027' scenario and measures how much they materialize over time, including milestones like AGI arrival, job impact, and new models. It serves as a reference for separating sensible forecasts from hype. For professionals and investors, it helps calibrate expectations about the real pace of AI. It's a recommended read for anyone consuming many predictions about the sector.",
-    "score": 0.55,
-    "tags": [
-      "previsões",
-      "agenda",
-      "agi"
-    ],
-    "img": "img/41ffd1733926.jpg",
-    "ts": 1786614413,
-    "addedTs": 1786618443,
-    "urlHash": "41ffd1733926",
-    "titleHash": "d3678c736c89"
-  },
-  {
-    "title": "Affordable AI+human insight helped us close 40yr sporadic group Galois problem",
-    "titlePt": "IA acessível + intuição humana resolve problema de Galois em aberto há 40 anos",
-    "url": "https://www.shaowuzhang.com/files/how-we-found-m23.pdf",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Pesquisadores anunciam que combinaram modelos de IA acessíveis com raciocínio humano para avançar em um problema de teoria de grupos relacionado ao grupo esporádico de Galois, aberto desde os anos 1980. O resultado mostra que a IA pode atuar como parceira de exploração matemática, e não apenas como calculadora. O avanço pode influenciar pesquisas em álgebra, criptografia e visão computacional. É um exemplo concreto de colaboração homem-máquina em ciência fundamental.",
-    "reasonEn": "Researchers announce that they combined affordable AI models with human reasoning to advance a group theory problem related to the Galois sporadic group, open since the 1980s. The result shows that AI can act as a partner in mathematical exploration, not just as a calculator. The breakthrough may influence research in algebra, cryptography, and computer vision. It's a concrete example of human-machine collaboration in fundamental science.",
-    "score": 0.75,
-    "tags": [
-      "matemática",
-      "pesquisa",
-      "ciência"
-    ],
-    "img": "img/83835228b837.jpg",
-    "ts": 1786613824,
-    "addedTs": 1786618443,
-    "urlHash": "83835228b837",
-    "titleHash": "76806a5ab778"
-  },
-  {
-    "title": "If I own Claude's outputs why can't I train my own model on them?",
-    "titlePt": "Se eu sou dono das saídas do Claude, por que não posso treinar meu modelo com elas?",
-    "url": "https://support.claude.com/en/articles/12326764-can-i-use-my-outputs-to-train-an-ai-model",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O texto discute a tensão jurídica e contratual entre usuários pagantes da Claude e a Anthropic sobre o que é permitido fazer com as respostas geradas. Mesmo que cláusulas deem ao usuário direitos sobre o conteúdo, os termos de serviço geralmente vetam o treinamento de modelos concorrentes com esse material. O debate levanta dúvidas sobre propriedade intelectual e soberania de dados. Afeta empresas e desenvolvedores que querem construir em cima de seus próprios fluxos com IA.",
-    "reasonEn": "The article discusses the legal and contractual tension between paid Claude users and Anthropic about what is allowed to be done with generated responses. Even if clauses give users rights to the content, the terms of service generally prohibit training competing models with that material. The debate raises questions about intellectual property and data sovereignty. It affects companies and developers who want to build on their own AI workflows.",
-    "score": 0.6,
-    "tags": [
-      "direito",
-      "anthropic",
-      "treinamento"
-    ],
-    "img": "img/4a7108e3bc03.jpg",
-    "ts": 1786613653,
-    "addedTs": 1786618443,
-    "urlHash": "4a7108e3bc03",
-    "titleHash": "44a27f0c7356"
   }
 ]
