@@ -1,5 +1,357 @@
 [
   {
+    "title": "Consumers Prefer AI Music Until They're Told It's AI",
+    "titlePt": "Consumidores preferem músicas de IA até saberem que foram geradas por IA",
+    "url": "https://www.promarket.org/2026/05/04/consumers-prefer-ai-music-until-theyre-told-its-ai/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um estudo recente mostra que ouvintes costumam avaliar melhor canções compostas por inteligência artificial em testes cegos, dando notas mais altas a elas. Porém, quando informados de que a música foi gerada por IA, passam a avaliá-la pior do que composições humanas. O resultado revela um forte viés contra a procedência automatizada, conhecido como efeito de repúdio tecnológico. Artistas e gravadoras podem usar esses dados para repensar como divulgam faixas assistidas por IA. É uma leitura importante sobre percepção pública e transparência na indústria musical.",
+    "reasonEn": "A new study finds that listeners tend to rate AI-composed songs more favorably in blind tests, but once told the music was machine-made, they score it worse than human-created tracks. This points to a strong anti-AI provenance bias even when the output is objectively well-received. Musicians and labels may need to rethink how they disclose AI-assisted tracks. The findings are relevant for creators, marketers, and policymakers monitoring public attitudes.",
+    "score": 0.75,
+    "tags": [
+      "estudo",
+      "música",
+      "viés"
+    ],
+    "img": "img/5a433ae32e92.jpg",
+    "ts": 1787012123,
+    "addedTs": 1787013712,
+    "urlHash": "5a433ae32e92",
+    "titleHash": "9e7b592fdf12"
+  },
+  {
+    "title": "Whose doctor does the AI recommend? An algorithm audit of LLMs in physician",
+    "titlePt": "Auditoria revela quais médicos os LLMs recomendam",
+    "url": "https://arxiv.org/abs/2608.14399",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Pesquisadores fizeram uma auditoria em grandes modelos de linguagem para descobrir quais nomes de médicos aparecem com mais frequência nas respostas. O estudo mostra padrões sistemáticos que podem refletir vieses nos dados de treinamento, incluindo preferências por gênero, especialidade ou país de origem. Quando pacientes pedem orientação médica a chatbots, podem receber recomendações enviesadas sem perceber. Os autores defendem que hospitais e desenvolvedores publiquem auditorias regulares dos seus modelos. O tema afeta qualquer pessoa que usa IA como apoio para decisões de saúde.",
+    "reasonEn": "Researchers audited major LLMs to see which physician names they recommend most often. The audit surfaces systematic biases around gender, specialty, and regional background embedded in training data. Patients who rely on chatbots for medical guidance may receive skewed suggestions without realizing it. The authors urge model providers to publish regular bias audits. The findings matter for anyone using AI as a health-information source.",
+    "score": 0.75,
+    "tags": [
+      "saúde",
+      "viés",
+      "auditoria"
+    ],
+    "img": "img/e8554d462e85.jpg",
+    "ts": 1787011626,
+    "addedTs": 1787013712,
+    "urlHash": "e8554d462e85",
+    "titleHash": "ada4e3fb59eb"
+  },
+  {
+    "title": "Prime Agent: A Self-Improving RLM Agent",
+    "titlePt": "Prime Agent: um agente RLM autoaperfeiçoável",
+    "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um projeto no Hacker News apresenta o Prime Agent, um agente baseado em modelo de raciocínio por reforço (RLM) capaz de melhorar seu próprio desempenho a cada tarefa executada. O autor relata ganhos em benchmarks de codificação e uso de ferramentas após ciclos de autoavaliação. O sistema se diferencia por ajustar políticas internas em vez de apenas armazenar memórias de execuções anteriores. Pesquisadores de IA podem usar a abordagem como ponto de partida para agentes mais autônomos. O impacto prático ainda é cedo, mas a ideia reforça a corrida por agentes cada vez mais autoaprimorados.",
+    "reasonEn": "A Hacker News project called Prime Agent introduces a Reasoning Language Model (RLM) agent that improves itself after each task. The author reports gains on coding and tool-use benchmarks through self-evaluation cycles. The agent differs by adjusting internal policies rather than just storing execution memory. AI researchers may use the approach to build more autonomous systems. Practical impact remains early, but it adds another data point to the self-improving agent race.",
+    "score": 0.6,
+    "tags": [
+      "pesquisa",
+      "agentes",
+      "autoaperfeiçoamento"
+    ],
+    "img": "img/06b6387dd348.jpg",
+    "ts": 1787011541,
+    "addedTs": 1787013712,
+    "urlHash": "06b6387dd348",
+    "titleHash": "cdd864a4edb5"
+  },
+  {
+    "title": "Un-AI Your Internet",
+    "titlePt": "Un-AI Your Internet: ferramenta para filtrar conteúdo gerado por IA",
+    "url": "https://un-ai.digitalprophet.online/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um novo serviço se propõe a ajudar usuários a reduzir o volume de imagens, textos e vídeos gerados por inteligência artificial que aparece no seu feed. A ferramenta combina filtros em navegadores, extensões e ajustes em mecanismos de busca para priorizar conteúdo humano. O criador argumenta que a saturação de material sintético prejudica a confiança e a criatividade online. Usuários podem configurar preferências por site ou tipo de mídia. O projeto reflete uma crescente reação contra o excesso de conteúdo automatizado.",
+    "reasonEn": "A new service called Un-AI Your Internet helps users cut down on AI-generated images, text, and videos in their feeds. It bundles browser filters, extensions, and search tweaks to favor human-made content. The creator argues that synthetic content overload is eroding trust and creativity online. Users can customize preferences per site or media type. The project reflects growing pushback against automated content saturation.",
+    "score": 0.5,
+    "tags": [
+      "extensão",
+      "conteúdo",
+      "filtro"
+    ],
+    "img": "img/eb688ac209b5.jpg",
+    "ts": 1787011033,
+    "addedTs": 1787013712,
+    "urlHash": "eb688ac209b5",
+    "titleHash": "0d0e6d165f12"
+  },
+  {
+    "title": "Anthropic&#8217;s annualized revenue surges to $65B",
+    "titlePt": "Receita anualizada da Anthropic dispara para US$ 65 bilhões",
+    "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A Anthropic teria alcançado US$ 65 bilhões de receita anualizada, segundo reportagem da TechCrunch, em um salto impressionante em relação aos números de meses anteriores. O crescimento seria puxado por contratos corporativos com seu principal modelo Claude, usado por empresas em atendimento, programação e análise de dados. O número coloca a Anthropic entre as provedoras de IA mais valiosas do mercado. Investidores e concorrentes estão de olho no ritmo de adoção da empresa e em como isso afeta a disputa com OpenAI e Google. A reportagem é relevante para qualquer profissional atento ao cenário de IA.",
+    "reasonEn": "Anthropic has reportedly reached an annualized revenue of $65 billion, per a TechCrunch report, marking a steep jump from prior months. Growth is driven by enterprise contracts around its Claude model, used in customer support, coding, and data analysis. The figure places Anthropic among the most valuable AI providers. Investors and competitors are watching how this shifts the race with OpenAI and Google. The story matters for anyone tracking the AI business landscape.",
+    "score": 0.9,
+    "tags": [
+      "anthropic",
+      "negócios",
+      "receita"
+    ],
+    "img": "img/e7e318e87e3c.jpg",
+    "ts": 1787010986,
+    "addedTs": 1787013712,
+    "urlHash": "e7e318e87e3c",
+    "titleHash": "6ca6e412a3ca"
+  },
+  {
+    "title": "Show HN: A multiplayer coding environment for dev teams and agents",
+    "titlePt": "Ambiente de programação multiplayer para times e agentes de IA",
+    "url": "https://forklane.ai",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um projeto Show HN apresenta um editor de código multiplayer pensado tanto para desenvolvedores humanos quanto para agentes de IA trabalharem no mesmo repositório em tempo real. A plataforma oferece chat lateral, execução isolada por branch e indicadores visuais sobre quais trechos foram alterados por humanos versus bots. Times distribuídos podem usar a ferramenta para integrar revisões humanas em código gerado automaticamente. Ainda é um protótipo, mas aponta para um futuro onde humanos e agentes compartilham fluxos de desenvolvimento lado a lado. Pode interessar a líderes de engenharia avaliando novas ferramentas internas.",
+    "reasonEn": "A Show HN project unveils a multiplayer code editor built for both human developers and AI agents to work on the same repo in real time. It offers side chat, per-branch isolation, and visual markers distinguishing human vs bot edits. Distributed teams can use it to keep humans in the loop of auto-generated code. The tool is still a prototype but signals a future where humans and agents share dev workflows side by side. Engineering leads evaluating new internal tooling should take note.",
+    "score": 0.55,
+    "tags": [
+      "devtools",
+      "multiplayer",
+      "agentes"
+    ],
+    "img": "img/a08868ad00c2.jpg",
+    "ts": 1787009580,
+    "addedTs": 1787013712,
+    "urlHash": "a08868ad00c2",
+    "titleHash": "523590f89483"
+  },
+  {
+    "title": "Google to buy Spirit Airlines business data for $10M",
+    "titlePt": "Google vai comprar dados empresariais da Spirit Airlines por US$ 10 milhões",
+    "url": "https://www.reuters.com/legal/litigation/google-buy-spirit-airlines-business-data-10-million-2026-08-17/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Google fechou acordo de cerca de US$ 10 milhões para adquirir os dados empresariais da Spirit Airlines durante o processo de falência da aérea. O pacote inclui e-mails, registros de chat e documentos internos de funcionários e parceiros. A aquisição reforça um padrão em que grandes empresas de tecnologia compram acervos valiosos via leilões judiciais em vez de coletar dados dos usuários com consentimento direto. Especialistas em privacidade apontam que o caso deve reacender o debate sobre regras de uso de dados pessoais em contextos de falência. Passageiros e trabalhadores podem não ter como impedir o uso de suas informações.",
+    "reasonEn": "Google has agreed to pay roughly $10 million for Spirit Airlines' enterprise data as part of the carrier's bankruptcy proceedings. The package covers employee emails, chat logs, and internal documents from staff and partners. It reinforces a pattern in which big tech firms acquire valuable datasets via courtroom auctions rather than direct user consent. Privacy experts say the deal will reignite debate about data use rules in bankruptcies. Passengers and employees typically have no way to opt out of such transfers.",
+    "score": 0.65,
+    "tags": [
+      "privacidade",
+      "google",
+      "leilão"
+    ],
+    "img": "img/f72392f8db10.jpg",
+    "ts": 1787008371,
+    "addedTs": 1787013712,
+    "urlHash": "f72392f8db10",
+    "titleHash": "f334edb5fcbc"
+  },
+  {
+    "title": "Show HN: A benchmark for AI agent guardrails that caught my own plugin",
+    "titlePt": "Benchmark para guardrails de agentes de IA flagrou o próprio plugin do autor",
+    "url": "https://github.com/couldbeme/holdline",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um projetista publicou um benchmark voltado a testar barreiras de proteção em agentes de IA, e logo na primeira rodada o próprio plugin dele apresentou falhas. O benchmark avalia se agentes obedecem limites de leitura, escrita e execução de comandos antes de tocar em sistemas externos. O autor defende que o conjunto de testes cobre casos comuns de falha em produção, como permissões excessivas e comandos fora de escopo. Times que implantam agentes podem usar a ferramenta para medir suas defesas antes de liberá-los para clientes. É um recurso útil para engenheiros de segurança e plataforma.",
+    "reasonEn": "A developer released a benchmark for AI agent guardrails and immediately caught flaws in his own plugin during testing. The benchmark checks whether agents respect read, write, and command execution boundaries before touching external systems. The author says the test set covers common production failure modes such as over-broad permissions. Engineering teams deploying agents can use it to measure defenses before exposing them to customers. It is a useful resource for security and platform engineers.",
+    "score": 0.55,
+    "tags": [
+      "segurança",
+      "benchmark",
+      "agentes"
+    ],
+    "img": "img/7e8be5a0a9bb.jpg",
+    "ts": 1787008308,
+    "addedTs": 1787013712,
+    "urlHash": "7e8be5a0a9bb",
+    "titleHash": "af660e2c0910"
+  },
+  {
+    "title": "Rysh – an AI harness where Claude and Codex agents work as a team (Go)",
+    "titlePt": "Rysh: harness em Go onde Claude e Codex trabalham como time",
+    "url": "https://github.com/rysh-ai/rysh-cli-code",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um projeto de código aberto chamado Rysh cria um orquestrador em Go que conecta agentes baseados em Claude e Codex em um mesmo time, dividindo tarefas por área de competência. O sistema usa contratos simples para passar contexto entre agentes e evita duplicação de trabalho. O autor compartilha benchmarks mostrando queda de erros e ganho de produtividade em comparação com agentes isolados. Equipes que já usam múltiplos provedores podem se beneficiar da abordagem unificada. É uma iniciativa relevante para quem busca padronizar pipelines de IA em produção.",
+    "reasonEn": "An open-source project called Rysh builds a Go-based harness that orchestrates Claude and Codex agents as one team, splitting tasks by area of expertise. It uses simple contracts to share context and avoid duplicated work. The author shares benchmarks showing fewer errors and faster throughput compared with single-agent setups. Teams already mixing providers may benefit from the unified workflow. The project is relevant for anyone standardizing AI pipelines in production.",
+    "score": 0.55,
+    "tags": [
+      "orquestração",
+      "código-aberto",
+      "agentes"
+    ],
+    "img": "img/5aa6e5dfd0ec.jpg",
+    "ts": 1787007076,
+    "addedTs": 1787013712,
+    "urlHash": "5aa6e5dfd0ec",
+    "titleHash": "23d01cd298b2"
+  },
+  {
+    "title": "Building an AI Text Detector from Scratch",
+    "titlePt": "Construindo um detector de texto de IA do zero",
+    "url": "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um desenvolvedor publica um guia detalhado mostrando como montar um classificador simples para identificar textos gerados por IA, sem depender de serviços pagos. O artigo cobre desde a coleta de amostras até o treinamento de um modelo leve de classificação binária. O autor reconhece que detectores caseiros ficam atrás de soluções comerciais, mas argumenta que são úteis para triagem rápida. Professores, editores e moderadores podem usar o método como ponto de partida. É um recurso didático para quem quer entender os bastidores da detecção de IA.",
+    "reasonEn": "A developer published a step-by-step guide on building a lightweight AI text classifier from scratch without paid services. The article covers dataset gathering and training a small binary classifier. The author admits homemade detectors lag behind commercial tools, but argues they help with quick triage. Teachers, editors, and moderators can use it as a starting point. It is a practical resource for understanding how AI detection works under the hood.",
+    "score": 0.5,
+    "tags": [
+      "detecção",
+      "tutorial",
+      "ml"
+    ],
+    "img": "img/fec51d95d54d.jpg",
+    "ts": 1787007003,
+    "addedTs": 1787013712,
+    "urlHash": "fec51d95d54d",
+    "titleHash": "08cfbd02e6fb"
+  },
+  {
+    "title": "Cumora, a cross-platform team chat where AI agents work alongside humans",
+    "titlePt": "Cumora: chat de equipe com agentes de IA integrados",
+    "url": "https://github.com/yetone/cumora",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A startup Cumora lançou um chat de equipe multiplataforma que mistura mensagens humanas com a execução de agentes de IA diretamente nas conversas. Usuários podem atribuir tarefas a bots, ver resultados inline e convidar modelos diferentes para etapas específicas do trabalho. O produto aposta em fluxos compartilhados como diferencial frente a chatbots isolados. O foco inicial são times de produto e engenharia que já usam IA em rotinas diárias. A novidade amplia a tendência de plataformas de produtividade com IA embutida.",
+    "reasonEn": "Cumora, a new startup, launched a cross-platform team chat that weaves AI agents directly into human conversations. Users can assign tasks to bots, see results inline, and invite different models for specific workflow steps. The product bets on shared flows as a differentiator over siloed chat assistants. Early focus is on product and engineering teams already using AI daily. It reinforces the trend of AI-embedded productivity suites.",
+    "score": 0.5,
+    "tags": [
+      "chat",
+      "produtividade",
+      "agentes"
+    ],
+    "img": "img/b20063452d1b.jpg",
+    "ts": 1787006760,
+    "addedTs": 1787013712,
+    "urlHash": "b20063452d1b",
+    "titleHash": "e54c849b1bd9"
+  },
+  {
+    "title": "AI writes dead code – the Go team's deadcode tool finds it in one command",
+    "titlePt": "Ferramenta deadcode do Go acha código morto que a IA escreveu",
+    "url": "https://towardsdev.com/how-to-find-and-remove-the-dead-code-your-agent-wrote-752eb1e738d0?sk=283d17fe49cb51c9936d99371e7a9d2a",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O time oficial do Go lançou a ferramenta deadcode, que identifica funções nunca chamadas em um único comando. Desenvolvedores vêm descobrindo grandes volumes de código morto deixado por agentes de IA que duplicam lógica ou importam bibliotecas sem necessidade. A ferramenta é leve, não exige configuração e se integra bem a pipelines de CI. Adotar deadcode em revisões pode reduzir dívida técnica gerada por automações. É uma dica prática relevante para times que já programam com assistentes de IA.",
+    "reasonEn": "The Go team released the deadcode tool, which flags never-called functions in a single command. Developers are uncovering large amounts of dead code left behind by AI agents that duplicate logic or import unused libs. The tool is lightweight, requires no setup, and fits cleanly into CI pipelines. Adding deadcode checks to review flows can curb technical debt introduced by automation. It is a practical tip for teams already coding with AI assistants.",
+    "score": 0.6,
+    "tags": [
+      "go",
+      "devtools",
+      "qualidade"
+    ],
+    "img": "img/e7377ef5dade.jpg",
+    "ts": 1787006166,
+    "addedTs": 1787013712,
+    "urlHash": "e7377ef5dade",
+    "titleHash": "d80a09d980a9"
+  },
+  {
+    "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+    "titlePt": "Amazon destrói textos raros para treinar modelos de IA",
+    "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "Uma reportagem da TechCrunch revela que a Amazon tem desmontado e descartado exemplares raros de livros e manuscritos para alimentar o treinamento de seus modelos de inteligência artificial. A prática envolve separar páginas, digitalizá-las em massa e descartar o restante do material físico, segundo ex-funcionários e documentos internos. Bibliotecários e especialistas em patrimônio denunciam que obras únicas estão sendo perdidas de forma irreversível. O caso reforça o debate sobre como big tech adquirem dados, mesmo quando isso destrói acervos culturais. É um alerta sério para conservadores, autores e reguladores.",
+    "reasonEn": "A TechCrunch report says Amazon has been disassembling and discarding rare books and manuscripts to train its AI models. The practice involves separating pages, scanning them at scale, and trashing the remaining physical material, according to former staff and internal documents. Librarians and heritage experts warn that unique works are being lost irreversibly. The report reignites debate over how big tech sources data even when it destroys cultural assets. It is a serious warning for conservators, authors, and regulators.",
+    "score": 0.85,
+    "tags": [
+      "amazon",
+      "treinamento",
+      "patrimônio"
+    ],
+    "img": "img/248c74532a44.jpg",
+    "ts": 1786984724,
+    "addedTs": 1787013712,
+    "urlHash": "248c74532a44",
+    "titleHash": "69fa3871dabb"
+  },
+  {
+    "title": "Your Probabilistic JEPA Is Secretly a Hidden Markov Model: A State-Space Interpretation of Joint-Embedding Predictive Learning",
+    "titlePt": "JEPA probabilístico é secretamente um modelo de Markov escondido",
+    "url": "https://arxiv.org/abs/2608.13621",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "O artigo mostra que o JEPA probabilístico, arquitetura popular em aprendizado auto-supervisionado, pode ser reinterpretado como um modelo de Markov em espaço de estados. Isso ajuda a entender suas limitações e propriedades teóricas. É leitura recomendada para quem trabalha com representações preditivas e busca embasamento matemático.",
+    "reasonEn": "The paper shows that probabilistic JEPA, a popular self-supervised learning architecture, can be reinterpreted as a hidden Markov model in state space. This helps understand its limits and theoretical properties. Recommended reading for those working with predictive representations who want mathematical grounding.",
+    "score": 0.5,
+    "tags": [
+      "jepa",
+      "teoria",
+      "pesquisa"
+    ],
+    "img": "img/ea815fc28947.jpg",
+    "ts": 1786939200,
+    "addedTs": 1787013712,
+    "urlHash": "ea815fc28947",
+    "titleHash": "7723cd64008e"
+  },
+  {
+    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+    "titlePt": "Anatomia de uma invasão em um agente de fronteira em julho de 2026",
+    "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "O texto detalha uma cronologia técnica de uma invasão ocorrida em julho de 2026 em um agente de um laboratório de fronteira. São descritos vetores de ataque, impacto e lições aprendidas. O tema é altamente relevante para quem opera agentes de IA em produção e precisa entender riscos reais de segurança.",
+    "reasonEn": "The text details a technical timeline of an intrusion in July 2026 affecting an agent from a frontier lab. It describes attack vectors, impact, and lessons learned. The topic is highly relevant for anyone running AI agents in production and needing to understand real security risks.",
+    "score": 0.75,
+    "tags": [
+      "segurança",
+      "agentes",
+      "incidente"
+    ],
+    "img": "img/8088c1dfd69d.jpg",
+    "ts": 1785110400,
+    "addedTs": 1787013712,
+    "urlHash": "8088c1dfd69d",
+    "titleHash": "5eddbac95c4d"
+  },
+  {
+    "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+    "titlePt": "Inferência de difusão em 4 bits do Nunchaku chega ao Diffusers",
+    "url": "https://huggingface.co/blog/nunchaku-diffusers",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "O anúncio mostra a integração do Nunchaku, motor de inferência em 4 bits para modelos de difusão, com a biblioteca Diffusers da Hugging Face. Isso permite rodar modelos de imagem pesados com muito menos memória. É uma atualização prática importante para desenvolvedores que trabalham com geração de imagens em hardware limitado.",
+    "reasonEn": "The announcement shows the integration of Nunchaku, a 4-bit inference engine for diffusion models, with Hugging Face's Diffusers library. This allows running heavy image models with much less memory. It is an important practical update for developers working with image generation on limited hardware.",
+    "score": 0.65,
+    "tags": [
+      "difusão",
+      "otimização",
+      "imagem"
+    ],
+    "img": "img/96f5dc656a14.jpg",
+    "ts": 1784764800,
+    "addedTs": 1787013712,
+    "urlHash": "96f5dc656a14",
+    "titleHash": "66b1112f02e4"
+  },
+  {
     "title": "Agentic AI in a Smolbox",
     "titlePt": "IA Agêntica em uma Caixa Pequena",
     "url": "https://remyhax.xyz/posts/smolbox/",
@@ -10470,354 +10822,5 @@
     "addedTs": 1786566846,
     "urlHash": "7f364f72c49c",
     "titleHash": "41eb0bf106a9"
-  },
-  {
-    "title": "Zitron on CNBC talking Nvidia, unprofitable AI labs, and the Greater AI Bubble [video]",
-    "titlePt": "Zitron na CNBC fala sobre Nvidia, labs de IA não lucrativos e a Grande Bolha da IA",
-    "url": "https://www.youtube.com/watch?v=8GWPjTDPVIM",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Vídeo com o jornalista Ed Zitron na CNBC discutindo a bolha da IA, a situação da Nvidia e a sustentabilidade dos laboratórios de IA. Posição cética sobre o setor. Relevante para quem avalia o cenário financeiro da IA.",
-    "reasonEn": "A video with journalist Ed Zitron on CNBC discussing the AI bubble, Nvidia's situation, and the sustainability of AI labs. A skeptical view of the sector. Relevant for those evaluating the AI financial landscape.",
-    "score": 0.55,
-    "tags": [
-      "bolha",
-      "mercado"
-    ],
-    "img": "img/3ff01caa95b7.jpg",
-    "ts": 1786560747,
-    "addedTs": 1786566846,
-    "urlHash": "3ff01caa95b7",
-    "titleHash": "ef4c14ef0308"
-  },
-  {
-    "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
-    "titlePt": "Ofertas de ações de energia disparam com investidores buscando se expor ao boom da IA",
-    "url": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
-    "source": "Ars Technica",
-    "sources": [
-      "Ars Technica"
-    ],
-    "reason": "A onda de IPOs do setor de energia ganhou força à medida que investidores querem participar do crescimento da IA. A alta demanda por eletricidade para data centers está puxando empresas de energia para o mercado de capitais. O movimento mostra como a IA vira tema dominante em finanças, não só em tecnologia. Pode afetar preços de energia e valuation de empresas do setor.",
-    "reasonEn": "The wave of energy IPOs has picked up as investors seek exposure to AI growth. Surging electricity demand from data centers is pulling energy companies into capital markets. The move shows how AI is becoming a dominant theme in finance, not just in technology. It may affect energy prices and valuations across the sector.",
-    "score": 0.5,
-    "tags": [
-      "finanças",
-      "energia",
-      "mercado"
-    ],
-    "img": "img/09cf494e1505.jpg",
-    "ts": 1784216901,
-    "addedTs": 1786566846,
-    "urlHash": "09cf494e1505",
-    "titleHash": "18881a43c015"
-  },
-  {
-    "title": "China's top AI continues using Nvidia amid high costs of local chip transition",
-    "titlePt": "Top da IA chinesa ainda usa chips Nvidia diante do alto custo da troca",
-    "url": "https://www.scmp.com/tech/big-tech/article/3363491/chinas-top-ai-still-trained-nvidia-chips-what-delaying-switch-local-tech",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Mesmo com pressões do governo chinês para adotar hardware local, as principais empresas de IA do país continuam dependendo de GPUs da Nvidia. A transição para chips nacionais está mais cara e mais instável do que o esperado, afetando desempenho e prazos de treinamento. O cenário mostra que a corrida por soberania tecnológica tem atrito real. Importa a profissionais de infraestrutura, investidores e concorrentes da Nvidia.",
-    "reasonEn": "Despite Beijing's push for local chips, top Chinese AI firms still rely on Nvidia GPUs. Switching to domestic silicon is proving more expensive and less stable than expected, hurting training timelines. The story shows that tech sovereignty has real friction. It matters to infra teams, investors and Nvidia's competitors.",
-    "score": 0.75,
-    "tags": [
-      "chips",
-      "china",
-      "nvidia"
-    ],
-    "img": "img/b628bac1c0f4.jpg",
-    "ts": 1786558758,
-    "addedTs": 1786560595,
-    "urlHash": "b628bac1c0f4",
-    "titleHash": "397012bfe3fe"
-  },
-  {
-    "title": "Twitch Is Mining Peoples' Streams to Train Amazon's AI",
-    "titlePt": "Twitch usa transmissões de criadores para treinar IA da Amazon",
-    "url": "https://www.404media.co/twitch-training-amazon-ai-models-how-to-opt-out-setting/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Reportagem revela que a Twitch está usando conteúdo das transmissões ao vivo de streamers para treinar modelos de IA da Amazon, sem aviso prévio claro. A prática reacende o debate sobre uso de dados de criadores para treinar sistemas de inteligência artificial. Streamers e usuários de plataformas de streaming devem se preocupar com transparência. Pode gerar pressão regulatória nos próximos meses.",
-    "reasonEn": "A report reveals Twitch has been using live stream content to train Amazon's AI models without clear notice. The practice reignites the debate over creator data being used to train AI systems. Streamers and platform users should care about transparency. It may draw regulatory attention soon.",
-    "score": 0.7,
-    "tags": [
-      "twitch",
-      "privacidade",
-      "amazon"
-    ],
-    "img": "img/1186af2892bd.jpg",
-    "ts": 1786557738,
-    "addedTs": 1786560595,
-    "urlHash": "1186af2892bd",
-    "titleHash": "fbed037dd2b7"
-  },
-  {
-    "title": "Preview, a production platform for AI video, raises $12M seed led by Sequoia",
-    "titlePt": "Preview, plataforma de vídeo com IA, capta US$ 12 milhões com Sequoia",
-    "url": "https://sequoiacap.com/article/partnering-with-preview-lights-inference-action/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Preview, plataforma de produção de vídeo com IA, anunciou uma rodada seed de US$ 12 milhões liderada pela Sequoia Capital. O aporte indica que o capital de risco continua investindo pesado em ferramentas generativas para audiovisual, mesmo com a queda geral do setor. A empresa compete no espaço de criação de vídeo sob demanda. Vale acompanhar como referência do mercado de mídia sintética.",
-    "reasonEn": "Preview, an AI video production platform, raised a $12M seed round led by Sequoia. The deal shows VCs are still betting heavily on generative video tools despite the broader sector cooldown. The company competes in on-demand video creation. Worth tracking as a market signal for synthetic media.",
-    "score": 0.6,
-    "tags": [
-      "vídeo",
-      "seed",
-      "sequoia"
-    ],
-    "img": "img/f502c276b80c.jpg",
-    "ts": 1786557390,
-    "addedTs": 1786560595,
-    "urlHash": "f502c276b80c",
-    "titleHash": "a9130c04877b"
-  },
-  {
-    "title": "Spotify to Begin Labelling AI-Generated Artist Profiles",
-    "titlePt": "Spotify vai rotular perfis de artistas gerados por IA",
-    "url": "https://thequietus.com/news/spotify-to-begin-labelling-ai-generated-artist-profiles/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O Spotify anunciou que vai começar a identificar perfis de artistas criados ou modificados por inteligência artificial. A medida tenta combater fraudes, deepfakes musicais e inflação de catálogos falsos. Produtores e artistas independentes devem se preparar para mais transparência. É relevante para toda a indústria da música digital.",
-    "reasonEn": "Spotify announced it will begin labeling artist profiles that are AI-generated or modified. The move aims to fight fraud, musical deepfakes and fake catalog inflation. Independent producers and artists should prepare for more transparency. It matters across the digital music industry.",
-    "score": 0.75,
-    "tags": [
-      "spotify",
-      "música",
-      "regulação"
-    ],
-    "img": "img/2bfb142756eb.jpg",
-    "ts": 1786557084,
-    "addedTs": 1786560595,
-    "urlHash": "2bfb142756eb",
-    "titleHash": "8c7778155801"
-  },
-  {
-    "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-    "titlePt": "Três pioneiros defendem IA aberta em meio a preocupações com segurança",
-    "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "Em meio ao aumento do debate sobre segurança em IA, três pesquisadores pioneiros estão argumentando publicamente em favor de manter o desenvolvimento aberto. Eles afirmam que restringir pesquisa pode concentrar poder e reduzir a capacidade de auditoria externa. O texto não resolve o debate, mas oferece uma posição contrária ao fechamento. Importante para acompanhar o futuro regulatório do setor.",
-    "reasonEn": "As AI safety concerns grow, three research pioneers are publicly arguing for keeping AI development open. They warn that restricting research concentrates power and weakens external auditing. The piece does not settle the debate but offers a counterweight to closure arguments. Useful for tracking the regulatory direction of the field.",
-    "score": 0.6,
-    "tags": [
-      "segurança",
-      "open-source"
-    ],
-    "img": "img/74eca2cdad77.jpg",
-    "ts": 1786557060,
-    "addedTs": 1786560595,
-    "urlHash": "74eca2cdad77",
-    "titleHash": "51dfb0f93906"
-  },
-  {
-    "title": "A Multi-Agent AI Framework Used to Compromise Government Entities in Asia",
-    "titlePt": "Framework de IA multi-agente foi usado para atacar governos na Ásia",
-    "url": "https://dreamgroup.com/blog/inside-a-multi-agent-ai-framework-used-to-compromise-government-entities-in-asia",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Pesquisadores detalharam como um framework de IA multi-agente foi usado em uma campanha para comprometer entidades governamentais na Ásia. O caso mostra que agentes autônomos já saíram da teoria e estão sendo usados em ataques reais. Equipes de segurança, CISOs e formuladores de políticas precisam acompanhar. É um sinal claro da próxima geração de ciberataques.",
-    "reasonEn": "Researchers detailed how a multi-agent AI framework was used to compromise government entities across Asia. The case shows autonomous agents have moved beyond theory into real attacks. Security teams, CISOs and policymakers should pay attention. It is a clear signal of the next generation of cyber threats.",
-    "score": 0.85,
-    "tags": [
-      "segurança",
-      "agentes",
-      "ataque"
-    ],
-    "img": "img/a4fc0c97301d.jpg",
-    "ts": 1786556927,
-    "addedTs": 1786560595,
-    "urlHash": "a4fc0c97301d",
-    "titleHash": "36e43e15cbaf"
-  },
-  {
-    "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-    "titlePt": "Thrive Holdings, apoiada pela OpenAI, capta US$ 2 bilhões para IA corporativa",
-    "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A Thrive Holdings, com apoio da OpenAI, levantou US$ 2 bilhões para acelerar a adoção de IA em grandes empresas. O movimento reforça a aposta da OpenAI em distribuição via parceiros e integradores. Grandes clientes corporativos terão mais opções de implantação assistida. A rodada também aquece o mercado de consultoria em IA.",
-    "reasonEn": "Thrive Holdings, backed by OpenAI, raised $2 billion to bring AI to enterprises. The deal reinforces OpenAI's distribution strategy through partners and integrators. Large corporate clients will see more assisted deployment options. It also heats up the AI consulting market.",
-    "score": 0.7,
-    "tags": [
-      "enterprise",
-      "openai",
-      "investimento"
-    ],
-    "img": "img/0afb458e7b08.jpg",
-    "ts": 1786556489,
-    "addedTs": 1786560595,
-    "urlHash": "0afb458e7b08",
-    "titleHash": "57ee5cca7bd5"
-  },
-  {
-    "title": "Crypto executives desert the sinking ship for the AI lifeboats",
-    "titlePt": "Executivos de cripto abandonam o setor e migram para IA",
-    "url": "https://www.independent.ie/business/technology/adrian-weckler-crypto-executives-desert-the-sinking-ship-for-the-ai-lifeboats.-women-and-children-first/a/159706932.html",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Diversos líderes que estavam em cripto estão saindo do setor e assumindo cargos em empresas de IA, em busca de valuation mais alto e narrativa mais favorável. O movimento reflete a migração de capital e talento entre bolhas tecnológicas. É relevante para quem acompanha o mercado de trabalho tech. Mostra onde o dinheiro está indo agora.",
-    "reasonEn": "Several crypto executives are leaving the sector and taking roles in AI companies, chasing higher valuations and a friendlier narrative. The shift reflects capital and talent migration between tech bubbles. Useful for anyone tracking the tech labor market. It signals where the money is heading now.",
-    "score": 0.55,
-    "tags": [
-      "cripto",
-      "carreiras"
-    ],
-    "img": "img/e470162cda68.jpg",
-    "ts": 1786555418,
-    "addedTs": 1786560595,
-    "urlHash": "e470162cda68",
-    "titleHash": "470b22737b63"
-  },
-  {
-    "title": "If AI Accelerates Your Software Factory, Where's the ROI?",
-    "titlePt": "Se a IA acelera sua fábrica de software, onde está o retorno?",
-    "url": "https://johnpietro.com/content/if-ai-accelerates-your-software-factory-wheres-the-roi/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo questiona se os ganhos reais de produtividade com IA em desenvolvimento estão se traduzindo em retorno financeiro mensurável para as empresas. Aponta que acelerar entregas sem afetar receita ou margens não gera valor automático. É uma leitura útil para CTOs, fundadores e líderes de engenharia. Ajuda a calibrar expectativas sobre ROI de IA.",
-    "reasonEn": "The article questions whether real productivity gains from AI in software development are translating into measurable financial return. It argues faster delivery without revenue or margin impact does not automatically create value. A useful read for CTOs, founders and engineering leaders. Helps calibrate ROI expectations.",
-    "score": 0.6,
-    "tags": [
-      "negócios",
-      "roi",
-      "engenharia"
-    ],
-    "img": "img/37ab54bf4c9c.jpg",
-    "ts": 1786554835,
-    "addedTs": 1786560595,
-    "urlHash": "37ab54bf4c9c",
-    "titleHash": "f7234afae2a9"
-  },
-  {
-    "title": "Scaling AI agents with trustworthy data",
-    "titlePt": "Como escalar agentes de IA com dados confiáveis",
-    "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-    "source": "MIT Tech Review",
-    "sources": [
-      "MIT Tech Review"
-    ],
-    "reason": "A MIT Technology Review aborda o desafio central de escalar agentes de IA: a qualidade e a confiabilidade dos dados usados para treiná-los e alimentá-los. O texto mostra que sem governança de dados, agentes autônomos falham em produção. É leitura essencial para equipes que implantam agentes em fluxos críticos. Ajuda a evitar falhas caras.",
-    "reasonEn": "MIT Technology Review tackles the core challenge of scaling AI agents: the quality and trustworthiness of the data feeding them. The piece shows that without data governance, autonomous agents fail in production. Essential reading for teams deploying agents in critical workflows. It helps avoid costly failures.",
-    "score": 0.65,
-    "tags": [
-      "agentes",
-      "dados",
-      "mit"
-    ],
-    "img": "img/ba210dcd32a4.jpg",
-    "ts": 1786553517,
-    "addedTs": 1786560595,
-    "urlHash": "ba210dcd32a4",
-    "titleHash": "add75550cec4"
-  },
-  {
-    "title": "Some Simple Economics of Open versus Closed AI",
-    "titlePt": "Economia simples da IA aberta versus fechada",
-    "url": "https://www.a16z.news/p/some-simple-economics-of-open-versus",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo discute a economia por trás dos modelos de IA abertos versus fechados, com argumentos sobre custos, dinâmicas de mercado e efeitos de rede. A leitura é relevante para quem pensa em estratégia de adoção de IA em empresas e produtos. Fornece contexto prático para decidir entre investir em modelos open source ou depender de APIs proprietárias. Pode ajudar líderes técnicos a calibrar expectativas de custo.",
-    "reasonEn": "The article discusses the economics behind open versus closed AI models, with arguments about costs, market dynamics, and network effects. The read is relevant for those considering AI adoption strategy in companies and products. It provides practical context for deciding between investing in open source models or relying on proprietary APIs. It can help technical leaders calibrate cost expectations.",
-    "score": 0.55,
-    "tags": [
-      "análise",
-      "open-source",
-      "mercado"
-    ],
-    "img": "img/c0edeaa3a4f1.jpg",
-    "ts": 1786551479,
-    "addedTs": 1786553279,
-    "urlHash": "c0edeaa3a4f1",
-    "titleHash": "d3742e0146fe"
-  },
-  {
-    "title": "CodeRabbit raises a $143M Series C at a $1.5B valuation",
-    "titlePt": "CodeRabbit levanta 143 milhões em Série C e vale 1,5 bilhão",
-    "url": "https://www.coderabbit.ai/blog/introducing-agentic-change-management",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A CodeRabbit, startup de revisão de código por IA, levantou 143 milhões de dólares em uma Série C, chegando a valuation de 1,5 bilhão. O salto mostra a confiança do mercado em ferramentas de IA para o ciclo de desenvolvimento de software. Times que já usam revisão automática devem acompanhar a evolução da empresa. A concorrência no setor de devtools com IA segue aquecida e bem financiada.",
-    "reasonEn": "CodeRabbit, an AI code review startup, raised $143M in a Series C, reaching a $1.5B valuation. The jump shows market confidence in AI tools for the software development cycle. Teams already using automated review should follow the company's evolution. Competition in the AI devtools space remains heated and well funded.",
-    "score": 0.7,
-    "tags": [
-      "financiamento",
-      "codificação",
-      "review"
-    ],
-    "img": "img/20b806953065.jpg",
-    "ts": 1786551120,
-    "addedTs": 1786553279,
-    "urlHash": "20b806953065",
-    "titleHash": "07a1b4a29a43"
-  },
-  {
-    "title": "Grok 4.6 (High) Intelligence, Performance and Price Analysis",
-    "titlePt": "Análise do Grok 4.6: inteligência, desempenho e preço",
-    "url": "https://artificialanalysis.ai/models/grok-4-6",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A análise avalia a versão 4.6 High do Grok, comparando inteligência, desempenho e preço com modelos concorrentes. Fornece dados concretos para decidir se vale usar o modelo em diferentes casos de uso. Ajuda times a calibrar custo-benefício em aplicações reais de produção. Útil especialmente para quem considera o Grok em pipelines de inferência.",
-    "reasonEn": "The analysis evaluates Grok version 4.6 High, comparing intelligence, performance, and price with competing models. It provides concrete data to decide whether the model is worth using across different use cases. It helps teams calibrate cost-benefit in real production applications. Especially useful for those considering Grok in inference pipelines.",
-    "score": 0.55,
-    "tags": [
-      "análise",
-      "modelo",
-      "grok"
-    ],
-    "img": "img/9d070519d04d.jpg",
-    "ts": 1786550778,
-    "addedTs": 1786553279,
-    "urlHash": "9d070519d04d",
-    "titleHash": "eb1134b863fe"
-  },
-  {
-    "title": "DeepSeek V4 Pro 0813",
-    "titlePt": "DeepSeek lança versão V4 Pro 0813",
-    "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A DeepSeek lançou a versão V4 Pro 0813 do seu modelo de IA, mais um lançamento da empresa chinesa conhecida por modelos com boa relação custo-desempenho. Desenvolvedores devem testar para ver onde ela se encaixa em seus fluxos e aplicações. O ritmo acelerado de versões mostra a intensidade da competição global no setor. Vale comparar com alternativas abertas e proprietárias recentes.",
-    "reasonEn": "DeepSeek has launched the V4 Pro 0813 version of its AI model, another release from the Chinese company known for strong cost-performance models. Developers should test it to see where it fits in their workflows and applications. The rapid version cadence shows the intensity of global competition in the sector. Worth comparing with recent open and proprietary alternatives.",
-    "score": 0.6,
-    "tags": [
-      "modelo",
-      "lançamento",
-      "deepseek"
-    ],
-    "img": "img/7408c6cd79dc.jpg",
-    "ts": 1786550690,
-    "addedTs": 1786553279,
-    "urlHash": "7408c6cd79dc",
-    "titleHash": "32d5134d00d9"
   }
 ]
