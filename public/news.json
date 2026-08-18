@@ -1,5 +1,159 @@
 [
   {
+    "title": "Global AI Regulations for FAIR and Ethics in High-Risk Use Cases: A Comparative Review",
+    "titlePt": "Regulamentações globais de IA para uso ético em casos de alto risco",
+    "url": "https://arxiv.org/abs/2608.14562",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "Uma revisão comparativa na arXiv mapeia como diferentes países estão regulando IA em aplicações de alto risco, com foco em princípios FAIR e ética. O trabalho é útil para equipes jurídicas e de compliance que precisam entender o cenário internacional. Mostra convergência em princípios gerais, mas divergência em execução. Para o dev comum, é contexto estratégico para planejar produtos globais.",
+    "reasonEn": "A comparative review on arXiv maps how different countries are regulating AI in high-risk applications, focusing on FAIR principles and ethics. The work is useful for legal and compliance teams needing to understand the international landscape. It shows convergence on general principles but divergence in execution. For the average developer, it is strategic context for planning global products.",
+    "score": 0.5,
+    "tags": [
+      "regulação",
+      "ética",
+      "global"
+    ],
+    "img": "img/235ec2ea066c.jpg",
+    "ts": 1787025600,
+    "addedTs": 1787027194,
+    "urlHash": "235ec2ea066c",
+    "titleHash": "5de8480c1297"
+  },
+  {
+    "title": "Position: AI Lock-In Is in Progress, and We Must Be Prepared",
+    "titlePt": "Posição: o lock-in de IA está em andamento e precisamos estar preparados",
+    "url": "https://arxiv.org/abs/2608.14565",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "O artigo de posição alerta que empresas e usuários estão ficando presos a poucos provedores de modelos de IA, criando dependências difíceis de reverter. Os autores comparam o fenômeno ao lock-in de plataformas já visto em bancos e sistemas operacionais. Defendem ações práticas como contratos abertos, portabilidade e auditoria. Para quem toma decisões de arquitetura, é leitura obrigatória.",
+    "reasonEn": "The position paper warns that companies and users are getting locked into a few AI model providers, creating dependencies that are hard to reverse. The authors compare the phenomenon to platform lock-in seen in banks and operating systems. They advocate practical actions like open contracts, portability, and auditing. For those making architecture decisions, it is required reading.",
+    "score": 0.6,
+    "tags": [
+      "lock-in",
+      "estratégia",
+      "mercado"
+    ],
+    "img": "img/879501499ef5.jpg",
+    "ts": 1787025600,
+    "addedTs": 1787027194,
+    "urlHash": "879501499ef5",
+    "titleHash": "0038a4769cd3"
+  },
+  {
+    "title": "OGX: An Open-Source, Vendor-Neutral Generative AI Application Server",
+    "titlePt": "OGX: servidor de aplicações de IA generativa open-source e neutro",
+    "url": "https://arxiv.org/abs/2608.14580",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "O artigo detalha o OGX, um servidor de aplicações de IA generativa open-source que se propõe a ser independente de fornecedor. A ideia é oferecer uma camada padrão para integrar modelos, agentes e pipelines em produção. Pode ajudar equipes a evitar lock-in e reduzir custo de troca. Para devs que constroem produtos com IA, é uma promessa relevante se a comunidade aderir.",
+    "reasonEn": "The paper details OGX, an open-source generative AI application server that aims to be vendor-neutral. The idea is to offer a standard layer to integrate models, agents, and pipelines in production. It can help teams avoid lock-in and reduce switching costs. For developers building AI products, it is a relevant promise if the community adopts it.",
+    "score": 0.5,
+    "tags": [
+      "open-source",
+      "infra",
+      "agente"
+    ],
+    "img": "img/c101462c30cc.jpg",
+    "ts": 1787025600,
+    "addedTs": 1787027194,
+    "urlHash": "c101462c30cc",
+    "titleHash": "d5b307a659f1"
+  },
+  {
+    "title": "The Hallucination Snowball: Modeling Error Propagation as State Transitions in Multi-Agent LLM Pipelines",
+    "titlePt": "A bola de neve das alucinações: propagação de erro em pipelines multi-agente",
+    "url": "https://arxiv.org/abs/2608.14588",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "O artigo modela como erros e alucinações se acumulam em pipelines de múltiplos agentes LLM, tratando a propagação como transições de estado. Mostra que pequenos erros em um agente podem crescer rapidamente conforme outros agentes confiam na saída anterior. Para quem constrói sistemas multi-agente, é alerta importante. Pode mudar como você projeta validações entre etapas.",
+    "reasonEn": "The paper models how errors and hallucinations accumulate in multi-agent LLM pipelines, treating propagation as state transitions. It shows that small errors in one agent can grow quickly as other agents trust the previous output. For those building multi-agent systems, it is an important warning. It may change how you design validation between steps.",
+    "score": 0.5,
+    "tags": [
+      "alucinação",
+      "agente",
+      "arquitetura"
+    ],
+    "img": "img/8cf1c1d3c301.jpg",
+    "ts": 1787025600,
+    "addedTs": 1787027194,
+    "urlHash": "8cf1c1d3c301",
+    "titleHash": "43ec27f18685"
+  },
+  {
+    "title": "Position: Medical AI Neglects Real Treatment Outcomes",
+    "titlePt": "Posição: IA médica ignora resultados reais de tratamento",
+    "url": "https://arxiv.org/abs/2608.14598",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "O artigo argumenta que boa parte da IA médica é avaliada em métricas laboratoriais e não em desfechos clínicos reais, como melhora do paciente. Os autores cobram benchmarks que meçam impacto terapêutico de verdade. Para o setor de saúde, é um chamado para repensar como validar modelos. Para pacientes e médicos, é alerta sobre confiança depositada em IA clínica.",
+    "reasonEn": "The paper argues that much of medical AI is evaluated on lab metrics, not real clinical outcomes like patient improvement. The authors call for benchmarks that measure actual therapeutic impact. For the health sector, it is a call to rethink how models are validated. For patients and doctors, it is a warning about trust placed in clinical AI.",
+    "score": 0.5,
+    "tags": [
+      "saúde",
+      "avaliação",
+      "ética"
+    ],
+    "img": "img/0664f28b1626.jpg",
+    "ts": 1787025600,
+    "addedTs": 1787027194,
+    "urlHash": "0664f28b1626",
+    "titleHash": "ef1ab36ff3af"
+  },
+  {
+    "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
+    "titlePt": "Robô de caixinha de areia com IA confunde os gatos e acha que trocaram de corpo",
+    "url": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "O robô de limpeza de caixinha de areia da Whisker, controlado por IA, está com um bug que faz o sistema identificar cada gato como se fosse o outro, como se tivessem trocado de corpo. O erro, relatado por usuários e destacado pelo The Verge, mostra os limites do reconhecimento visual em produtos de consumo. O problema afeta diretamente quem comprou o equipamento automatizado para gatos. É um caso curioso de IA dando errado em um produto do dia a dia.",
+    "reasonEn": "Whisker's AI-powered litter box cleaning robot has a bug that makes the system identify each cat as if it were the other, as if they had swapped bodies. The glitch, reported by users and highlighted by The Verge, shows the limits of visual recognition in consumer products. The problem directly affects anyone who bought the automated cat litter equipment. It is a curious case of AI going wrong in an everyday product.",
+    "score": 0.55,
+    "tags": [
+      "ia",
+      "bug",
+      "pet-tech"
+    ],
+    "img": "img/d189a5b52ecb.jpg",
+    "ts": 1787010026,
+    "addedTs": 1787027194,
+    "urlHash": "d189a5b52ecb",
+    "titleHash": "9d3d4bf6ff18"
+  },
+  {
+    "title": "5 ways AI Mode in Search helps you enjoy the real world",
+    "titlePt": "Google mostra 5 formas de o Modo IA na Busca te ajudar a aproveitar o mundo real",
+    "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+    "source": "Google AI",
+    "sources": [
+      "Google AI"
+    ],
+    "reason": "O Google publicou um post destacando cinco recursos do Modo IA em sua Busca que ajudam usuários a planejar saídas, refeições e tarefas do dia a dia. O foco é mostrar que a busca com IA vai além de perguntas e serve como assistente para atividades fora das telas. É conteúdo institucional do próprio Google, útil para entender a direção do produto. Relevante para usuários comuns e desenvolvedores que integram com a Busca.",
+    "reasonEn": "Google published a post highlighting five features of AI Mode in Search that help users plan outings, meals, and everyday tasks. The focus is on showing that AI search goes beyond questions and serves as an assistant for offline activities. It is institutional content from Google itself, useful for understanding the product's direction. Relevant for everyday users and developers who integrate with Search.",
+    "score": 0.5,
+    "tags": [
+      "google",
+      "busca",
+      "assistente"
+    ],
+    "img": "img/dc323d8334b7.jpg",
+    "ts": 1785243600,
+    "addedTs": 1787027194,
+    "urlHash": "dc323d8334b7",
+    "titleHash": "a7db83a2df3e"
+  },
+  {
     "title": "A candy brand discovered TikTok made an AI clone of its founder to run ads [video]",
     "titlePt": "Marca de balas descobre que TikTok criou clone de IA de seu fundador para anúncios",
     "url": "https://www.youtube.com/watch?v=itovmsMwus0",
@@ -10681,154 +10835,5 @@
     "addedTs": 1786573850,
     "urlHash": "5eee16701f55",
     "titleHash": "3266b7d4f56e"
-  },
-  {
-    "title": "AI is the next layer of software development",
-    "titlePt": "IA é a próxima camada do desenvolvimento de software",
-    "url": "https://mcclowes.com/blog/2026/05/29/ai-is-just-another-layer",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O texto defende que a inteligência artificial se tornou a próxima camada fundamental do desenvolvimento de software, mudando como produtos são projetados e entregues. A discussão reflete sobre produtividade, novos fluxos de trabalho e o papel dos engenheiros. É uma análise conceitual útil para líderes técnicos e times em transição. Ajuda a entender para onde o mercado caminha.",
-    "reasonEn": "The post argues that AI has become the next foundational layer of software development, reshaping how products are designed and delivered. It discusses productivity, new workflows, and the evolving role of engineers. It is a conceptual piece useful for tech leaders and teams in transition. It helps frame where the market is heading.",
-    "score": 0.55,
-    "tags": [
-      "opinião",
-      "desenvolvimento"
-    ],
-    "img": "img/2d2f7777bf6d.jpg",
-    "ts": 1786572249,
-    "addedTs": 1786573850,
-    "urlHash": "2d2f7777bf6d",
-    "titleHash": "45e37600d256"
-  },
-  {
-    "title": "Terabytes of credentials leaked in massive supply-chain attack",
-    "titlePt": "Terabytes de credenciais vazam em megaciberataque à cadeia de suprimentos",
-    "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
-    "source": "Ars Technica",
-    "sources": [
-      "Ars Technica"
-    ],
-    "reason": "Um ataque em escala massiva à cadeia de suprimentos expôs terabytes de credenciais de usuários e empresas. Os dados vazados podem ser usados para invasões, fraudes e roubo de identidade. O incidente afeta serviços populares e mostra como um único fornecedor comprometido multiplica o estrago. Desenvolvedores e times de segurança precisam revisar acessos imediatamente.",
-    "reasonEn": "A massive supply-chain attack leaked terabytes of credentials belonging to users and companies. The exposed data can fuel breaches, fraud, and identity theft. The incident hits popular services and shows how one compromised vendor multiplies damage. Developers and security teams must audit access immediately.",
-    "score": 0.9,
-    "tags": [
-      "segurança",
-      "vazamento"
-    ],
-    "img": "img/50a8f76b8fcc.jpg",
-    "ts": 1786571001,
-    "addedTs": 1786573850,
-    "urlHash": "50a8f76b8fcc",
-    "titleHash": "bbb82acdc987"
-  },
-  {
-    "title": "Show HN: Remove AI Watermark from Text",
-    "titlePt": "Ferramenta promete remover marcas d'água de textos gerados por IA",
-    "url": "https://nomark.me/#text-watermark",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um projeto do Show HN oferece uma ferramenta para apagar marcas d'água de textos produzidos por modelos de IA, como as do Claude. O lançamento acontece no mesmo momento em que provedores tentam tornar essas marcas mais robustas. A ferramenta reacende o debate entre detecção e evasão. Pode interessar pesquisadores e profissionais de segurança.",
-    "reasonEn": "A Show HN project offers a tool to strip watermarks from AI-generated text, including those added by Claude. The release comes as providers try to make those marks more robust. The tool reignites the cat-and-mouse debate between detection and evasion. Relevant for researchers and security professionals.",
-    "score": 0.5,
-    "tags": [
-      "segurança",
-      "ferramenta"
-    ],
-    "img": "img/3a018feefdf5.jpg",
-    "ts": 1786570700,
-    "addedTs": 1786573850,
-    "urlHash": "3a018feefdf5",
-    "titleHash": "c7f1dc87d0cd"
-  },
-  {
-    "title": "Why Wall Street and Nvidia Are Building an Exotic Money Pipeline for the AI Boom",
-    "titlePt": "Wall Street e Nvidia constroem duto financeiro exótico para a corrida da IA",
-    "url": "https://www.wsj.com/tech/ai/why-wall-street-and-nvidia-are-building-an-exotic-money-pipeline-for-the-ai-boom-346ba482",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Investidores de Wall Street e a Nvidia estão criando estruturas financeiras pouco usuais para alimentar o boom da inteligência artificial. O texto explica como esses dutos canalizam capital para data centers, chips e startups. A engenharia financeira fora do comum mostra quanto dinheiro está sendo mobilizado. Relevante para entender o lado econômico e os riscos do ciclo atual.",
-    "reasonEn": "Wall Street players and Nvidia are building unusual financial structures to feed the AI boom. The piece explains how these pipelines channel capital to data centers, chips, and startups. The exotic finance signals just how much money is being mobilized. Useful to grasp the economics and risks of the current cycle.",
-    "score": 0.6,
-    "tags": [
-      "finanças",
-      "nvidia"
-    ],
-    "img": "img/52bf662781a4.jpg",
-    "ts": 1786568366,
-    "addedTs": 1786573850,
-    "urlHash": "52bf662781a4",
-    "titleHash": "9881b0d925cd"
-  },
-  {
-    "title": "Can you tell if a comment is AI?",
-    "titlePt": "Você consegue perceber quando um comentário foi escrito por IA?",
-    "url": "https://talkshi.com/blog/reddit-or-ai",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O texto discute como identificar comentários e textos gerados por inteligência artificial em discussões online. O tema interessa a moderadores, jornalistas e leitores preocupados com a qualidade do debate. Mostra sinais práticos e armadilhas comuns. Útil para qualquer pessoa que queira filtrar conteúdo automatizado.",
-    "reasonEn": "The piece discusses how to spot AI-written comments and posts in online discussions. It matters to moderators, journalists, and readers who care about debate quality. It shares practical signals and common pitfalls. Useful for anyone trying to filter out automated content.",
-    "score": 0.55,
-    "tags": [
-      "conteúdo",
-      "detecção"
-    ],
-    "img": "img/a4b8af60fffd.jpg",
-    "ts": 1786567006,
-    "addedTs": 1786573850,
-    "urlHash": "a4b8af60fffd",
-    "titleHash": "12567ee923a4"
-  },
-  {
-    "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-    "titlePt": "Cognition, startup de IA para código, negocia nova rodada a US$ 40 bilhões",
-    "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A Cognition, criadora do assistente de programação Devin, estaria em conversas para levantar capital com avaliação de US$ 40 bilhões. A valuation mostra como investidores continuam apostando alto em startups de codificação com IA. O movimento pode influenciar fusões, aquisições e o ritmo de contratação no setor. Importa a desenvolvedores acompanhando o mercado de ferramentas de IA.",
-    "reasonEn": "Cognition, maker of the Devin coding assistant, is reportedly in talks to raise capital at a $40 billion valuation. The figure shows investors keep pouring money into AI coding startups. The move may influence M&A, hiring, and competition in the space. Relevant to developers tracking AI tooling markets.",
-    "score": 0.8,
-    "tags": [
-      "investimento",
-      "startup",
-      "codificação"
-    ],
-    "img": "img/478abdc997f5.jpg",
-    "ts": 1786558752,
-    "addedTs": 1786573850,
-    "urlHash": "478abdc997f5",
-    "titleHash": "8f3fff2359e6"
-  },
-  {
-    "title": "Mind Viruses: Self-Propagating Ideas in Multi-Agent LLM Systems",
-    "titlePt": "'Vírus mentais': ideias que se propagam sozinhas em sistemas multi-agente de LLM",
-    "url": "https://arxiv.org/abs/2608.10218",
-    "source": "arXiv AI",
-    "sources": [
-      "arXiv AI"
-    ],
-    "reason": "Pesquisadores mostram que ideias prejudiciais podem se espalhar entre agentes de IA de forma autônoma, sem controle humano. O fenômeno lembra a propagação de vírus em redes. O trabalho alerta para riscos em sistemas multi-agente cada vez mais comuns. Tema importante para desenvolvedores e pesquisadores de segurança.",
-    "reasonEn": "Researchers show harmful ideas can spread autonomously between AI agents without human control. The phenomenon resembles virus propagation across networks. The paper warns about risks in increasingly common multi-agent systems. Important topic for developers and safety researchers.",
-    "score": 0.7,
-    "tags": [
-      "pesquisa",
-      "multi-agente",
-      "segurança"
-    ],
-    "img": "img/98aed69579fa.jpg",
-    "ts": 1786507200,
-    "addedTs": 1786573850,
-    "urlHash": "98aed69579fa",
-    "titleHash": "ec08009c8c15"
   }
 ]
