@@ -1,5 +1,313 @@
 [
   {
+    "title": "Private Scribe – 100% offline Whisper AI voice dictation for Windows",
+    "titlePt": "Private Scribe: ditado por voz com Whisper totalmente offline no Windows",
+    "url": "https://omnitender.gumroad.com/l/private-scribe",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Private Scribe é um aplicativo para Windows que usa o modelo Whisper da OpenAI para transcrever áudio localmente, sem enviar dados para a nuvem. Isso é útil para profissionais que lidam com informações sensíveis, como médicos, advogados e jornalistas. A ferramenta promete alta precisão e velocidade em hardware comum.",
+    "reasonEn": "Private Scribe is a Windows app that uses OpenAI's Whisper model to transcribe audio locally without sending data to the cloud. It is useful for professionals handling sensitive information such as doctors, lawyers and journalists. The tool promises high accuracy and speed on common hardware.",
+    "score": 0.7,
+    "tags": [
+      "whisper",
+      "privacidade",
+      "windows"
+    ],
+    "img": "img/2720ded441bc.jpg",
+    "ts": 1787033596,
+    "addedTs": 1787034428,
+    "urlHash": "2720ded441bc",
+    "titleHash": "15a03a408b21"
+  },
+  {
+    "title": "A/B testing LLMs in production",
+    "titlePt": "Como fazer testes A/B com modelos de linguagem em produção",
+    "url": "https://www.together.ai/blog/a-b-test-models-in-production",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um guia prático para desenvolvedores que querem comparar diferentes LLMs em ambiente de produção sem quebrar a experiência dos usuários. O artigo discute métricas, armadilhas comuns e estratégias de rollout gradual. Leitura essencial para equipes que dependem de modelos de IA para gerar receita ou produtividade.",
+    "reasonEn": "A practical guide for developers who want to compare different LLMs in production without breaking the user experience. The article discusses metrics, common pitfalls and gradual rollout strategies. Essential reading for teams that rely on AI models to drive revenue or productivity.",
+    "score": 0.8,
+    "tags": [
+      "llm",
+      "testes",
+      "produção"
+    ],
+    "img": "img/f4ddb8c16d28.jpg",
+    "ts": 1787030903,
+    "addedTs": 1787034428,
+    "urlHash": "f4ddb8c16d28",
+    "titleHash": "3fc0ef848953"
+  },
+  {
+    "title": "FLOPs vs Real Work: The Importance of Replication in AI Efficiency Assessment",
+    "titlePt": "FLOPs contra trabalho real: por que replicação importa em eficiência de IA",
+    "url": "https://arxiv.org/abs/2608.14550",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "O artigo argumenta que medir eficiência de modelos de IA apenas por FLOPs esconde o trabalho computacional real necessário para reproduzir resultados. Os autores defendem métricas mais honestas que considerem todo o pipeline, incluindo pré-processamento e ajustes. Relevante para pesquisadores e engenheiros que precisam comparar modelos.",
+    "reasonEn": "The paper argues that measuring AI model efficiency only by FLOPs hides the real computational work needed to reproduce results. The authors advocate for more honest metrics that consider the entire pipeline, including preprocessing and tuning. Relevant for researchers and engineers who need to compare models.",
+    "score": 0.5,
+    "tags": [
+      "pesquisa",
+      "eficiência",
+      "benchmark"
+    ],
+    "img": "img/0e2f9ef09896.jpg",
+    "ts": 1787025600,
+    "addedTs": 1787034428,
+    "urlHash": "0e2f9ef09896",
+    "titleHash": "ca4d166e3733"
+  },
+  {
+    "title": "Large Language Models Show Metacognitive Sensitivity in Medical Reasoning",
+    "titlePt": "Modelos de linguagem mostram sensibilidade metacognitiva em raciocínio médico",
+    "url": "https://arxiv.org/abs/2608.14552",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "O estudo testa se LLMs conseguem perceber quando não sabem a resposta em perguntas médicas complexas. Os resultados sugerem que os modelos calibram sua confiança de forma razoável, mas ainda erram em casos críticos. Importante para clínicos que usam IA como apoio à decisão.",
+    "reasonEn": "The study tests whether LLMs can perceive when they do not know the answer in complex medical questions. The results suggest that models calibrate their confidence reasonably but still fail in critical cases. Important for clinicians using AI as decision support.",
+    "score": 0.6,
+    "tags": [
+      "saúde",
+      "pesquisa",
+      "llm"
+    ],
+    "img": "img/d777f0d1d66f.jpg",
+    "ts": 1787025600,
+    "addedTs": 1787034428,
+    "urlHash": "d777f0d1d66f",
+    "titleHash": "0b1aff5ffe6d"
+  },
+  {
+    "title": "The Unwritten Benchmark: A New Challenge for Multimodal Machine Learning in Abstract Perceptual Reasoning",
+    "titlePt": "O benchmark não escrito: novo desafio de raciocínio perceptual abstrato multimodal",
+    "url": "https://arxiv.org/abs/2608.14558",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "Pesquisadores propõem um novo benchmark para avaliar a capacidade de modelos multimodais de entender padrões visuais abstratos. O objetivo é testar raciocínio além do reconhecimento de objetos comum. Pode influenciar como futuros modelos são treinados e avaliados.",
+    "reasonEn": "Researchers propose a new benchmark to evaluate multimodal models' ability to understand abstract visual patterns. The goal is to test reasoning beyond common object recognition. It may influence how future models are trained and evaluated.",
+    "score": 0.5,
+    "tags": [
+      "benchmark",
+      "multimodal",
+      "pesquisa"
+    ],
+    "img": "img/a21f779c24c7.jpg",
+    "ts": 1787025600,
+    "addedTs": 1787034428,
+    "urlHash": "a21f779c24c7",
+    "titleHash": "d73158e11844"
+  },
+  {
+    "title": "Position: Evaluations of AI Moral Reasoning Still Miss Half of the Picture",
+    "titlePt": "Avaliações de raciocínio moral de IA ainda perdem metade do quadro",
+    "url": "https://arxiv.org/abs/2608.14566",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "Um artigo de posição argumentando que os testes atuais de ética em IA cobrem apenas parte dos dilemas morais reais. Os autores pedem benchmarks mais diversos culturalmente e situações menos óbvias. Relevante para quem desenvolve ou audita sistemas de IA com impacto social.",
+    "reasonEn": "A position paper arguing that current AI ethics tests cover only part of real moral dilemmas. The authors call for more culturally diverse benchmarks and less obvious scenarios. Relevant for those developing or auditing AI systems with social impact.",
+    "score": 0.5,
+    "tags": [
+      "ética",
+      "pesquisa",
+      "avaliação"
+    ],
+    "img": "img/fe9b085c32dd.jpg",
+    "ts": 1787025600,
+    "addedTs": 1787034428,
+    "urlHash": "fe9b085c32dd",
+    "titleHash": "26fa23bb7e8b"
+  },
+  {
+    "title": "Position: AI Governance Needs ISO-like Interoperability Protocols, Not Just Laws",
+    "titlePt": "Governança de IA precisa de protocolos de interoperabilidade tipo ISO, não só leis",
+    "url": "https://arxiv.org/abs/2608.14568",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "Os autores defendem que regulações isoladas por país não bastam: é preciso criar padrões técnicos de interoperabilidade entre sistemas de IA, semelhantes aos da ISO. Isso facilitaria auditorias, fiscalização e integração entre plataformas. Texto relevante para policymakers e líderes técnicos.",
+    "reasonEn": "The authors argue that isolated country-by-country regulations are not enough: technical interoperability standards between AI systems, similar to ISO, are needed. This would facilitate audits, oversight and integration between platforms. Relevant text for policymakers and technical leaders.",
+    "score": 0.6,
+    "tags": [
+      "governança",
+      "regulação",
+      "padrões"
+    ],
+    "img": "img/6d2dfa0ce0e2.jpg",
+    "ts": 1787025600,
+    "addedTs": 1787034428,
+    "urlHash": "6d2dfa0ce0e2",
+    "titleHash": "759f8be3e7a6"
+  },
+  {
+    "title": "Position: Certified Correctness in Neural Constraint Reasoning Requires Symbolic Integration",
+    "titlePt": "Correção certificada em raciocínio neural exige integração simbólica",
+    "url": "https://arxiv.org/abs/2608.14569",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "O artigo afirma que não é possível garantir correção formal em sistemas de restrições neurais sem componentes simbólicos. Os autores mostram casos onde redes neurais falham em tarefas lógicas simples. Voltado para a comunidade de verificação formal e IA neuro-simbólica.",
+    "reasonEn": "The paper states that formal correctness in neural constraint systems cannot be guaranteed without symbolic components. The authors show cases where neural networks fail in simple logical tasks. Aimed at the formal verification and neuro-symbolic AI community.",
+    "score": 0.5,
+    "tags": [
+      "pesquisa",
+      "verificação",
+      "neurosimbólico"
+    ],
+    "img": "img/c656ed9f4e79.jpg",
+    "ts": 1787025600,
+    "addedTs": 1787034428,
+    "urlHash": "c656ed9f4e79",
+    "titleHash": "19852c6630eb"
+  },
+  {
+    "title": "SKILL: Self-correcting Knowledge-guided Iterative Large Language Model Agent for Logic Optimization",
+    "titlePt": "SKILL: agente LLM iterativo que se autocorrige em otimização lógica",
+    "url": "https://arxiv.org/abs/2608.14579",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "Pesquisadores apresentam o SKILL, um agente baseado em LLM que revisa suas próprias respostas em tarefas de otimização lógica. O sistema combina conhecimento prévio com ciclos de correção iterativa. Resultados mostram ganhos em problemas complexos de síntese.",
+    "reasonEn": "Researchers present SKILL, an LLM-based agent that reviews its own responses on logic optimization tasks. The system combines prior knowledge with iterative correction cycles. Results show gains on complex synthesis problems.",
+    "score": 0.5,
+    "tags": [
+      "agente",
+      "llm",
+      "pesquisa"
+    ],
+    "img": "img/c57f745b0ff4.jpg",
+    "ts": 1787025600,
+    "addedTs": 1787034428,
+    "urlHash": "c57f745b0ff4",
+    "titleHash": "8281e36ea1f7"
+  },
+  {
+    "title": "Toward Safe LLM Agents: A Survey of Specification, Verification, and Enforcement",
+    "titlePt": "Rumo a agentes LLM seguros: pesquisa sobre especificação e verificação",
+    "url": "https://arxiv.org/abs/2608.14590",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "Uma pesquisa abrangente sobre como tornar agentes baseados em LLMs mais seguros, cobrindo especificação de comportamento, verificação formal e mecanismos de enforcement. O texto é referência para quem precisa construir sistemas autônomos confiáveis. Útil para engenheiros de segurança e produto.",
+    "reasonEn": "A comprehensive survey on how to make LLM-based agents safer, covering behavior specification, formal verification and enforcement mechanisms. The text is a reference for those needing to build reliable autonomous systems. Useful for security and product engineers.",
+    "score": 0.7,
+    "tags": [
+      "segurança",
+      "agente",
+      "pesquisa"
+    ],
+    "img": "img/76553c0aeeab.jpg",
+    "ts": 1787025600,
+    "addedTs": 1787034428,
+    "urlHash": "76553c0aeeab",
+    "titleHash": "196701cf3cae"
+  },
+  {
+    "title": "When Do LLMs Apply the Wrong Law? Diagnosing LLM Failures in Temporal Legal Reasoning",
+    "titlePt": "Quando LLMs aplicam a lei errada? Diagnóstico em raciocínio jurídico temporal",
+    "url": "https://arxiv.org/abs/2608.14610",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "O artigo investiga por que modelos de linguagem cometem erros em perguntas legais que dependem de linha do tempo, como mudanças de legislação. Os autores propõem uma taxonomia de falhas e sugerem correções de prompt. Relevante para o setor jurídico que começa a usar IA.",
+    "reasonEn": "The article investigates why language models make errors on legal questions that depend on timelines, such as legislation changes. The authors propose a failure taxonomy and suggest prompt fixes. Relevant for the legal sector starting to use AI.",
+    "score": 0.5,
+    "tags": [
+      "direito",
+      "pesquisa",
+      "llm"
+    ],
+    "img": "img/d0c4e9557cf2.jpg",
+    "ts": 1787025600,
+    "addedTs": 1787034428,
+    "urlHash": "d0c4e9557cf2",
+    "titleHash": "74ac5a8c99fc"
+  },
+  {
+    "title": "Why It Hasn't Happened Yet: Capable AI and Malicious Intent",
+    "titlePt": "Por que ainda não aconteceu: IA capaz e intenção maliciosa",
+    "url": "https://substack.norabble.com/p/why-it-hasnt-happened-yet",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto discute por que, apesar do avanço da IA, ainda não houve grandes catastrophes causadas por uso malicioso. Os autores analisam barreiras técnicas, econômicas e sociais para ataques com IA. Leitura estratégica para equipes de segurança e policymakers.",
+    "reasonEn": "The text discusses why, despite AI advances, there have not yet been major catastrophes caused by malicious use. The authors analyze technical, economic and social barriers to AI attacks. Strategic reading for security teams and policymakers.",
+    "score": 0.5,
+    "tags": [
+      "segurança",
+      "análise",
+      "ameaças"
+    ],
+    "img": "img/88461a9b8535.jpg",
+    "ts": 1787025268,
+    "addedTs": 1787034428,
+    "urlHash": "88461a9b8535",
+    "titleHash": "fbc02bcd6df3"
+  },
+  {
+    "title": "Terabytes of credentials leaked in massive supply-chain attack",
+    "titlePt": "Terabytes de credenciais vazam em enorme ataque à cadeia de suprimentos",
+    "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+    "source": "Ars Technica",
+    "sources": [
+      "Ars Technica"
+    ],
+    "reason": "A Ars Technica reporta um ataque massivo à cadeia de suprimentos de software que expôs terabytes de credenciais, incluindo tokens e chaves de acesso usadas por desenvolvedores e empresas. O tipo de falha descrito pode permitir que invasores se infiltrem em sistemas internos de empresas de tecnologia que consomem pacotes comprometidos. A notícia é essencial para qualquer pessoa que mantenha dependências de software, configure pipelines de CI/CD ou gerencie segredos em produção. Verificar fornecedores e atualizar credenciais deve ser prioridade imediata.",
+    "reasonEn": "Ars Technica reports a massive software supply-chain attack that exposed terabytes of credentials, including tokens and access keys used by developers and companies. This kind of failure can let attackers infiltrate the internal systems of tech companies that consume compromised packages. The news is essential for anyone who maintains software dependencies, sets up CI/CD pipelines, or manages secrets in production. Checking suppliers and rotating credentials should be an immediate priority.",
+    "score": 0.9,
+    "tags": [
+      "segurança",
+      "supply-chain",
+      "vazamento"
+    ],
+    "img": "img/50a8f76b8fcc.jpg",
+    "ts": 1786571001,
+    "addedTs": 1787034428,
+    "urlHash": "50a8f76b8fcc",
+    "titleHash": "bbb82acdc987"
+  },
+  {
+    "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
+    "titlePt": "Já sabemos mais como a OpenAI invadiu o Hugging Face",
+    "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+    "source": "Ars Technica",
+    "sources": [
+      "Ars Technica"
+    ],
+    "reason": "A Ars Technica detalha o incidente em que alguém ligado à OpenAI acessou de forma indevida contas e infraestrutura do Hugging Face, plataforma central para desenvolvedores de IA compartilharem modelos e datasets. O ataque expõe fraquezas em como grandes empresas de IA lidam com credenciais e acesso a serviços de terceiros, e preocupa qualquer pessoa que hospeda modelos ou dados sensíveis em plataformas similares. É um alerta direto para times de segurança revisarem autenticação, rotação de tokens e monitoramento. Quem trabalha com IA open source precisa entender o caso para se proteger.",
+    "reasonEn": "Ars Technica details the incident in which someone linked to OpenAI improperly accessed Hugging Face accounts and infrastructure, a central platform for AI developers to share models and datasets. The attack exposes weaknesses in how large AI companies handle credentials and access to third-party services, and worries anyone who hosts models or sensitive data on similar platforms. It is a direct warning for security teams to review authentication, token rotation, and monitoring. Anyone working with open-source AI needs to understand the case to protect themselves.",
+    "score": 0.92,
+    "tags": [
+      "segurança",
+      "openai",
+      "hugging-face"
+    ],
+    "img": "img/4a4d812ef5a7.jpg",
+    "ts": 1785274599,
+    "addedTs": 1787034428,
+    "urlHash": "4a4d812ef5a7",
+    "titleHash": "bf9ebc27f19f"
+  },
+  {
     "title": "Global AI Regulations for FAIR and Ethics in High-Risk Use Cases: A Comparative Review",
     "titlePt": "Regulamentações globais de IA para uso ético em casos de alto risco",
     "url": "https://arxiv.org/abs/2608.14562",
@@ -10539,301 +10847,5 @@
     "addedTs": 1786593706,
     "urlHash": "6ff2a98565d8",
     "titleHash": "f0c073178738"
-  },
-  {
-    "title": "Amazon will train on Twitch streamers&#8217; content by default, unless they opt out",
-    "titlePt": "Amazon vai treinar IA com conteúdo de streamers da Twitch por padrão",
-    "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A Amazon anunciou que streamings, clipes e dados de streamers da Twitch serão usados para treinar seus modelos de IA, salvo opt-out explícito. A medida gerou reação imediata de criadores, preocupados com uso de imagem e voz. É mais um caso de empresas assumindo direitos por padrão, transferindo o ônus ao usuário. Afeta diretamente streamers, parceiros e seus advogados.",
-    "reasonEn": "Amazon announced that Twitch streams, clips and streamer data will be used to train its AI models unless creators explicitly opt out. The move sparked immediate backlash from creators worried about image and voice use. It is another case of companies assuming rights by default, shifting the burden to users. It directly affects streamers, partners and their lawyers.",
-    "score": 0.75,
-    "tags": [
-      "regulação",
-      "treino"
-    ],
-    "img": "img/4eff3856a599.jpg",
-    "ts": 1786565440,
-    "addedTs": 1786593706,
-    "urlHash": "4eff3856a599",
-    "titleHash": "0d89e197284c"
-  },
-  {
-    "title": "Model Routing Is Simple. Until It Isn’t.",
-    "titlePt": "Roteamento de modelos parece simples. Até que não é mais.",
-    "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "O artigo da HuggingFace mostra que escolher o modelo certo para cada tarefa é mais complexo do que parece. Discute critérios como custo, latência, qualidade e disponibilidade. É leitura útil para times que operam múltiplos LLMs em produção. Ajuda a evitar gastos desnecessários e escolhas mal calibradas.",
-    "reasonEn": "HuggingFace's article shows that picking the right model for each task is more complex than it seems. It discusses criteria like cost, latency, quality and availability. It is useful reading for teams operating multiple LLMs in production. It helps avoid unnecessary spending and poorly calibrated choices.",
-    "score": 0.55,
-    "tags": [
-      "modelos",
-      "infraestrutura"
-    ],
-    "img": "img/969cdff00361.jpg",
-    "ts": 1784136421,
-    "addedTs": 1786593706,
-    "urlHash": "969cdff00361",
-    "titleHash": "f6b91c28ebd5"
-  },
-  {
-    "title": "The latest AI news we announced in June 2026",
-    "titlePt": "Resumo de notícias de IA do Google em junho de 2026",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
-    "source": "Google AI",
-    "sources": [
-      "Google AI"
-    ],
-    "reason": "O post do Google reúne anúncios recentes da empresa em produtos de IA, de modelos a ferramentas para desenvolvedores. Serve como índice rápido para acompanhar lançamentos do ecossistema. É útil para quem quer uma visão agregada em vez de ler cada release separado. Tem viés institucional e omite falhas ou críticas.",
-    "reasonEn": "Google's post gathers recent company announcements in AI products, from models to developer tools. It serves as a quick index to track ecosystem launches. Useful for those wanting an aggregated view instead of reading each release separately. It carries an institutional bias and omits failures or criticisms.",
-    "score": 0.5,
-    "tags": [
-      "google",
-      "lançamento"
-    ],
-    "img": "img/0be6913362ae.jpg",
-    "ts": 1782929700,
-    "addedTs": 1786593706,
-    "urlHash": "0be6913362ae",
-    "titleHash": "2b4afd9fd8de"
-  },
-  {
-    "title": "Jeff Dean has been in talks for a $10B valuation for his new AI startup",
-    "titlePt": "Jeff Dean negocia avaliação de US$ 10 bilhões para nova startup de IA",
-    "url": "https://www.businessinsider.com/former-google-exec-jeff-dean-valuation-for-new-ai-startup-2026-8",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Jeff Dean, executivo veterano do Google e peça-chave na revolução da inteligência artificial, estaria em conversas para captar recursos avaliando sua nova empresa em US$ 10 bilhões. O valor mostra que investidores seguem dispostos a pagar caro por projetos liderados por nomes consagrados do setor. Para desenvolvedores e profissionais de tecnologia, a movimentação indica que a corrida por talentos e empresas de IA continua aquecida, com capital abundante disponível. A chegada de mais um player bilionário pode intensificar a disputa por engenheiros especializados e redefinir salários no mercado.",
-    "reasonEn": "Jeff Dean, a veteran Google executive and key figure in the AI revolution, is reportedly in talks to raise funding at a $10 billion valuation for his new startup. The figure shows investors remain willing to pay a premium for ventures led by established AI names. For developers and tech professionals, the move signals that the AI talent and company race is still hot, with abundant capital available. The arrival of another billion-dollar player may intensify competition for specialized engineers and reshape salaries in the market.",
-    "score": 0.85,
-    "tags": [
-      "valuation",
-      "startup",
-      "investimento"
-    ],
-    "img": "img/baea97c903ff.jpg",
-    "ts": 1786583350,
-    "addedTs": 1786583465,
-    "urlHash": "baea97c903ff",
-    "titleHash": "fd8c163d0f98"
-  },
-  {
-    "title": "What Is AI Governance and How to Operationalize It?",
-    "titlePt": "O que é governança de IA e como colocá-la em prática?",
-    "url": "https://www.etherionconsulting.com/blog/what-is-ai-governance-and-how-to-operationalize-it/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O texto explora o conceito de governança de IA, abordando processos, políticas e controles para garantir o uso responsável e seguro de sistemas inteligentes. É relevante para líderes técnicos e equipes que precisam definir regras internas nas empresas. A leitura ajuda a transformar princípios abstratos em ações práticas dentro das organizações. Importante para quem trabalha em times que já usam ou planejam usar IA em produção.",
-    "reasonEn": "The piece explores the concept of AI governance, covering processes, policies, and controls to ensure responsible and safe use of intelligent systems. It is relevant for technical leaders and teams that need to define internal rules inside companies. Reading it helps turn abstract principles into practical actions within organizations. Important for anyone working in teams that already use or plan to use AI in production.",
-    "score": 0.5,
-    "tags": [
-      "governança",
-      "política"
-    ],
-    "img": "img/754ba35858a1.jpg",
-    "ts": 1786582929,
-    "addedTs": 1786583465,
-    "urlHash": "754ba35858a1",
-    "titleHash": "0f7823c32cfa"
-  },
-  {
-    "title": "Context Bombs: stopping AI attackers in their tracks",
-    "titlePt": "Context Bombs: nova técnica para impedir ataques contra IA",
-    "url": "https://agentic.tracebit.com/context-bombs/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo apresenta o conceito de Context Bombs, uma estratégia para bloquear ataques de injeção de prompt e manipulação em sistemas de inteligência artificial. É relevante para times de segurança e desenvolvedores que implantam grandes modelos de linguagem em ambientes reais. A técnica pode ajudar a detectar entradas maliciosas que tentam enganar o modelo. Mostra uma nova camada de defesa para aplicações que usam IA generativa em produção.",
-    "reasonEn": "The article introduces the concept of Context Bombs, a strategy to block prompt injection and manipulation attacks on AI systems. It is relevant for security teams and developers deploying large language models in real-world environments. The technique can help detect malicious inputs that try to fool the model. It shows a new defense layer for applications using generative AI in production.",
-    "score": 0.55,
-    "tags": [
-      "segurança",
-      "prompts"
-    ],
-    "img": "img/db29fa960869.jpg",
-    "ts": 1786578404,
-    "addedTs": 1786583465,
-    "urlHash": "db29fa960869",
-    "titleHash": "5063a8dfb2b1"
-  },
-  {
-    "title": "The Wrong Defaults is why enterprise AI agents fail at adoption",
-    "titlePt": "Por que agentes de IA empresarial falham na adoção? Os defaults errados",
-    "url": "https://imphan.substack.com/p/the-wrong-defaults-an-ai-agent-manifesto",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O texto argumenta que o principal motivo de fracasso na adoção de agentes de IA em empresas são configurações padrão mal escolhidas. Isso afeta diretamente equipes que tentam implementar inteligência artificial em processos corporativos. As decisões de design inicial têm impacto desproporcional no sucesso ou fracasso do projeto. Vale a leitura para quem lidera implantações de IA em organizações.",
-    "reasonEn": "The piece argues that the main reason enterprise AI agents fail at adoption is poorly chosen default settings. This directly affects teams trying to implement AI in corporate processes. Initial design decisions have a disproportionate impact on project success or failure. Worth reading for anyone leading AI deployments in organizations.",
-    "score": 0.6,
-    "tags": [
-      "empresarial",
-      "adoção"
-    ],
-    "img": "img/d43ed987eefe.jpg",
-    "ts": 1786578131,
-    "addedTs": 1786583465,
-    "urlHash": "d43ed987eefe",
-    "titleHash": "5ac597851698"
-  },
-  {
-    "title": "Show HN: A marketplace where AI agents buy services from AI agents",
-    "titlePt": "Marketplace onde agentes de IA compram serviços de outros agentes",
-    "url": "https://aaas-marketplace-1089237826218.asia-northeast1.run.app",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O projeto apresenta uma plataforma em que agentes autônomos negociam e contratam serviços de outros agentes automaticamente. É um experimento que antecipa uma economia futura entre máquinas. Pode interessar desenvolvedores que pesquisam novas formas de automação entre sistemas. Mostra um vislumbre de como ambientes multi-agentes podem operar sem intervenção humana direta.",
-    "reasonEn": "The project showcases a platform where autonomous agents negotiate and hire services from other agents automatically. It is an experiment anticipating a future economy between machines. It may interest developers researching new forms of automation between systems. It offers a glimpse of how multi-agent environments could operate without direct human intervention.",
-    "score": 0.5,
-    "tags": [
-      "agentes",
-      "mercado"
-    ],
-    "img": "img/e75d3938fd6a.jpg",
-    "ts": 1786576052,
-    "addedTs": 1786583465,
-    "urlHash": "e75d3938fd6a",
-    "titleHash": "ebf18ebef4c9"
-  },
-  {
-    "title": "Ask HN: Is AI code verification becoming your main bottleneck?",
-    "titlePt": "Discussão: a verificação de código gerado por IA virou seu gargalo?",
-    "url": "https://news.ycombinator.com/item?id=49279494",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A pergunta no Hacker News provoca reflexão sobre o tempo gasto revisando código gerado por inteligência artificial. É um tema relevante para desenvolvedores que adotam ferramentas como Copilot e Cursor em seu fluxo diário. A discussão pode oferecer dicas práticas de quem enfrenta o mesmo problema. Sinaliza uma tendência importante no ritmo de trabalho de desenvolvimento de software moderno.",
-    "reasonEn": "The Hacker News question provokes reflection on the time spent reviewing AI-generated code. It is a relevant topic for developers adopting tools like Copilot and Cursor in their daily workflow. The discussion may offer practical tips from those facing the same problem. It signals an important trend in the pace of modern software development work.",
-    "score": 0.5,
-    "tags": [
-      "código",
-      "ferramentas"
-    ],
-    "img": "img/a53ffaa83f19.jpg",
-    "ts": 1786574031,
-    "addedTs": 1786583465,
-    "urlHash": "a53ffaa83f19",
-    "titleHash": "ae7f34bb3802"
-  },
-  {
-    "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-    "titlePt": "Real World VoiceEQ: medindo a qualidade humana de vozes geradas por IA",
-    "url": "https://huggingface.co/blog/real-world-voiceeq",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "A Hugging Face apresenta o VoiceEQ, novo benchmark para avaliar o quanto a fala gerada por IA soa natural para ouvintes humanos. A métrica busca complementar testes automatizados tradicionais. Relevante para desenvolvedores de voicebots e audiobooks com IA.",
-    "reasonEn": "Hugging Face introduces VoiceEQ, a new benchmark to evaluate how natural AI-generated speech sounds to human listeners. The metric complements traditional automated tests. Relevant for developers of AI voicebots and audiobooks.",
-    "score": 0.5,
-    "tags": [
-      "voz",
-      "benchmark"
-    ],
-    "img": "img/5e1ffb769438.jpg",
-    "ts": 1784073600,
-    "addedTs": 1786583465,
-    "urlHash": "5e1ffb769438",
-    "titleHash": "a08984d9083e"
-  },
-  {
-    "title": "Native-speed vLLM transformers modeling backend",
-    "titlePt": "Backend vLLM transformers atinge velocidade nativa",
-    "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "A Hugging Face anuncia que o backend vLLM para transformers agora roda em velocidade nativa, igualando a versão original em desempenho. Isso permite usar ferramentas do ecossistema transformers com a velocidade do vLLM. Boa notícia para quem precisa de inferência rápida.",
-    "reasonEn": "Hugging Face announces the vLLM backend for transformers now runs at native speed, matching the original in performance. This lets you use transformers ecosystem tools with vLLM speed. Good news for developers needing fast inference.",
-    "score": 0.55,
-    "tags": [
-      "performance",
-      "inferência"
-    ],
-    "img": "img/3ce97f6a8c6c.jpg",
-    "ts": 1783468800,
-    "addedTs": 1786583465,
-    "urlHash": "3ce97f6a8c6c",
-    "titleHash": "6f28be8550fe"
-  },
-  {
-    "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
-    "titlePt": "Gemini API amplia agentes gerenciados com tarefas em segundo plano e MCP remoto",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
-    "source": "Google AI",
-    "sources": [
-      "Google AI"
-    ],
-    "reason": "O Google expande os Managed Agents da API Gemini com suporte a tarefas em segundo plano e conexão remota com servidores MCP. Desenvolvedores podem criar agentes que executam processos longos sem bloquear a resposta. Mudança relevante para quem constrói agentes no Google AI Studio.",
-    "reasonEn": "Google expands Gemini API's Managed Agents with background task support and remote MCP server connections. Developers can create agents that run long processes without blocking the response. Relevant change for those building agents in Google AI Studio.",
-    "score": 0.55,
-    "tags": [
-      "agentes",
-      "gemini"
-    ],
-    "img": "img/2a44ce948b87.jpg",
-    "ts": 1783414440,
-    "addedTs": 1786583465,
-    "urlHash": "2a44ce948b87",
-    "titleHash": "23ef60c912f7"
-  },
-  {
-    "title": "Some Claude users are mad that Anthropic&#8217;s new watermarks will catch them cheating at their jobs, classes",
-    "titlePt": "Usuários do Claude reclamam de marcas d'água que entregam trapaça com IA",
-    "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A Anthropic passou a marcar respostas do Claude com marcas d'água invisíveis para identificar textos escritos por IA. Usuários que usam a ferramenta para trabalhar, estudar ou produzir conteúdo relatam que a mudança pode denunciar trapaças em provas e entregas corporativas. O recurso reacende o debate sobre privacidade, transparência e uso ético. Quem depende do Claude para tarefas sensíveis precisa se adaptar à nova realidade.",
-    "reasonEn": "Anthropic started embedding invisible watermarks in Claude responses to flag AI-generated text. Users who rely on the tool for work, school, and content creation say the change could expose cheating on tests and corporate deliverables. The move revives the debate over privacy, transparency, and ethical use. Anyone depending on Claude for sensitive tasks must adapt to the new reality.",
-    "score": 0.85,
-    "tags": [
-      "anthropic",
-      "regulação",
-      "ética"
-    ],
-    "img": "img/12b636d0245b.jpg",
-    "ts": 1786573597,
-    "addedTs": 1786573850,
-    "urlHash": "12b636d0245b",
-    "titleHash": "ceb22005e1df"
-  },
-  {
-    "title": "AI Music Startup Suno Bets Anyone Can Be a Rock Star",
-    "titlePt": "Suno aposta que qualquer um pode ser astro do rock com IA",
-    "url": "https://www.bloomberg.com/news/features/2026-08-11/suno-stares-down-universal-and-sony-to-reshape-the-future-of-music",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Suno, startup de música com IA, quer transformar qualquer pessoa em estrela do rock com sua plataforma de geração musical. A empresa cresce apostando em criadores amadores e profissionais. O movimento levanta questões sobre direitos autorais e o futuro da indústria musical. Pode interessar músicos, produtores e curiosos sobre criatividade assistida por IA.",
-    "reasonEn": "Suno, an AI music startup, wants to turn anyone into a rock star through its music generation platform. The company is growing by betting on amateur and professional creators. The move raises questions about copyright and the future of the music industry. It may interest musicians, producers, and anyone curious about AI-assisted creativity.",
-    "score": 0.55,
-    "tags": [
-      "música",
-      "startup"
-    ],
-    "img": "img/5eee16701f55.jpg",
-    "ts": 1786573582,
-    "addedTs": 1786573850,
-    "urlHash": "5eee16701f55",
-    "titleHash": "3266b7d4f56e"
   }
 ]
