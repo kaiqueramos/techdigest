@@ -1,5 +1,136 @@
 [
   {
+    "title": "Creator of TypeScript: 10x Faster TypeScript, Why AI Won't Replace SWEs [video]",
+    "titlePt": "Criador do TypeScript: TypeScript 10x mais rápido e por que a IA não substitui programadores",
+    "url": "https://www.youtube.com/watch?v=cywK3XYYJ2o",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Vídeo do criador do TypeScript apresentando ganhos massivos de desempenho no compilador e defendendo que a IA ainda não substitui engenheiros de software. Combina uma atualização técnica relevante para milhões de desenvolvedores com uma visão sóbria sobre o papel da automação. Vale o tempo de quem programa em TypeScript.",
+    "reasonEn": "Video by the creator of TypeScript presenting massive compiler performance gains and arguing AI still doesn't replace software engineers. Combines an important technical update for millions of developers with a sober take on automation's role. Worth the time for anyone coding in TypeScript.",
+    "score": 0.65,
+    "tags": [
+      "typescript",
+      "desempenho",
+      "carreira"
+    ],
+    "img": "img/ed6e12edbcc3.jpg",
+    "ts": 1787039743,
+    "addedTs": 1787041503,
+    "urlHash": "ed6e12edbcc3",
+    "titleHash": "b0481678d743"
+  },
+  {
+    "title": "Show HN: I built an M2M payment loop where AI Agents pay for data via x402",
+    "titlePt": "Criei um circuito de pagamento entre agentes de IA via protocolo x402",
+    "url": "https://github.com/tianzizhiming-svg/agentbridge",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Projeto mostrado no Hacker News que implementa um loop de pagamento máquina-a-máquina no qual agentes de IA compram dados automaticamente usando o protocolo x402. Explora um tema emergente: a economia entre agentes autônomos. Interessa a quem trabalha com agentes e infraestrutura web3/web2.",
+    "reasonEn": "Hacker News project implementing a machine-to-machine payment loop where AI agents automatically buy data using the x402 protocol. It explores an emerging theme: the economy among autonomous agents. Of interest to those working with agents and web2/web3 infrastructure.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "pagamentos",
+      "protocolo"
+    ],
+    "img": "img/3249ca1eeb7b.jpg",
+    "ts": 1787036820,
+    "addedTs": 1787041503,
+    "urlHash": "3249ca1eeb7b",
+    "titleHash": "88f55106a927"
+  },
+  {
+    "title": "Coin size device can hack Boeing airplanes",
+    "titlePt": "Dispositivo do tamanho de uma moeda consegue invadir sistemas de aviões Boeing",
+    "url": "https://ia.acs.org.au/article/2026/coin-sized-device-could-hack-boeing-airplanes.html",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Pesquisadores demonstraram que um aparelho do tamanho de uma moeda consegue explorar vulnerabilidades em sistemas eletrônicos de aviões da Boeing. É um alerta sério para a aviação e para fabricantes de hardware embarcado. Mostra que ataques físicos a infraestruturas críticas estão cada vez mais baratos e acessíveis.",
+    "reasonEn": "Researchers showed that a coin-sized device can exploit vulnerabilities in Boeing aircraft electronics. It's a serious warning for aviation and embedded hardware makers. It shows that physical attacks on critical infrastructure are becoming cheaper and more accessible.",
+    "score": 0.6,
+    "tags": [
+      "segurança",
+      "aviação",
+      "hardware"
+    ],
+    "img": "img/c4d95af836e4.jpg",
+    "ts": 1787035897,
+    "addedTs": 1787041503,
+    "urlHash": "c4d95af836e4",
+    "titleHash": "c104085e7d6e"
+  },
+  {
+    "title": "Model Routing Is Simple. Until It Isn’t.",
+    "titlePt": "Roteamento de modelos é simples. Até deixar de ser.",
+    "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "A Hugging Face publica um artigo técnico mostrando onde o roteamento de modelos de IA aparenta ser trivial no papel e onde, na prática, surgem problemas sérios. O texto cobre custos, latência, fallback entre provedores e armadilhas de avaliação. É leitura útil para engenheiros que montam pipelines multi-modelo em produção. Desenvolvedores ocupados ganham ao evitar erros comuns antes de escalar a arquitetura.",
+    "reasonEn": "Hugging Face publishes a technical article showing where AI model routing looks trivial on paper but breaks down in practice. The piece covers costs, latency, provider fallbacks, and evaluation pitfalls. It is useful reading for engineers building multi-model pipelines in production. Busy developers benefit by avoiding common mistakes before scaling their architecture.",
+    "score": 0.75,
+    "tags": [
+      "infra",
+      "modelos",
+      "engenharia"
+    ],
+    "img": "img/969cdff00361.jpg",
+    "ts": 1784136421,
+    "addedTs": 1787041503,
+    "urlHash": "969cdff00361",
+    "titleHash": "f6b91c28ebd5"
+  },
+  {
+    "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+    "titlePt": "Gemini API amplia agentes gerenciados: tarefas em segundo plano, MCP remoto e outros recursos",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+    "source": "Google AI",
+    "sources": [
+      "Google AI"
+    ],
+    "reason": "O Google anunciou uma expansão dos Managed Agents na Gemini API, incluindo execução de tarefas em segundo plano, suporte a servidores MCP remotos e novos controles de orquestração. Isso permite que desenvolvedores criem agentes de IA mais resilientes e conectados a ferramentas externas com menos código. A mudança reduz a fricção de operar agentes de longa duração em produção. Para times que já usam Gemini, é atualização obrigatória esta semana.",
+    "reasonEn": "Google announced an expansion of Managed Agents in the Gemini API, including background task execution, remote MCP server support, and new orchestration controls. This lets developers build more resilient AI agents connected to external tools with less code. The change reduces friction when running long-lived agents in production. For teams already on Gemini, this is a mandatory update this week.",
+    "score": 0.9,
+    "tags": [
+      "agentes",
+      "gemini",
+      "lançamento"
+    ],
+    "img": "img/2a44ce948b87.jpg",
+    "ts": 1783414440,
+    "addedTs": 1787041503,
+    "urlHash": "2a44ce948b87",
+    "titleHash": "23ef60c912f7"
+  },
+  {
+    "title": "The latest AI news we announced in June 2026",
+    "titlePt": "As últimas notícias de IA que anunciamos em junho de 2026",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+    "source": "Google AI",
+    "sources": [
+      "Google AI"
+    ],
+    "reason": "O Google publicou um resumo consolidado dos anúncios de IA feitos ao longo de junho de 2026, reunindo lançamentos de modelos, atualizações de API e novas ferramentas para desenvolvedores. Funciona como índice rápido para quem perdeu alguma novidade no mês. O conteúdo repete em parte informações já divulgadas em comunicados anteriores, como a expansão dos Managed Agents do Gemini. Útil como visão geral, mas pouco valor para quem acompanha os lançamentos em tempo real.",
+    "reasonEn": "Google published a consolidated roundup of AI announcements made throughout June 2026, gathering model launches, API updates, and new developer tools. It serves as a quick index for anyone who missed news during the month. The content partly repeats information already shared in earlier posts, such as the Gemini Managed Agents expansion. Useful as a bird's-eye view, but low added value for those already tracking releases in real time.",
+    "score": 0.6,
+    "tags": [
+      "google",
+      "resumo"
+    ],
+    "img": "img/0be6913362ae.jpg",
+    "ts": 1782929700,
+    "addedTs": 1787041503,
+    "urlHash": "0be6913362ae",
+    "titleHash": "2b4afd9fd8de"
+  },
+  {
     "title": "Private Scribe – 100% offline Whisper AI voice dictation for Windows",
     "titlePt": "Private Scribe: ditado por voz com Whisper totalmente offline no Windows",
     "url": "https://omnitender.gumroad.com/l/private-scribe",
@@ -10718,134 +10849,5 @@
     "addedTs": 1786593706,
     "urlHash": "253d3d04a25b",
     "titleHash": "9e196ea0a2fe"
-  },
-  {
-    "title": "16GB EGPU for AI Inference, $699",
-    "titlePt": "EGPU de 16GB para Inferência de IA por 699 dólares",
-    "url": "https://www.amazon.com/GIGABYTE-Graphics-128-bit-Server-Grade-Thunderbolt/dp/B0GKFHSPN8",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Uma nova GPU externa com 16GB de VRAM voltada para inferência de IA chega por 699 dólares, preço competitivo frente a placas discretas. Permite rodar modelos médios localmente sem investir em workstation cara. Pode democratizar inferência local para hobbistas e pequenos estúdios.",
-    "reasonEn": "A new external GPU with 16GB of VRAM aimed at AI inference arrives for $699, a competitive price compared to discrete cards. It lets you run medium models locally without investing in an expensive workstation. It could democratize local inference for hobbyists and small studios.",
-    "score": 0.65,
-    "tags": [
-      "hardware",
-      "inferência",
-      "preço"
-    ],
-    "img": "img/b6c8aa4e6429.jpg",
-    "ts": 1786593269,
-    "addedTs": 1786593706,
-    "urlHash": "b6c8aa4e6429",
-    "titleHash": "57714c8a13df"
-  },
-  {
-    "title": "Show HN: Agent Memory Leaderboard – first public results for AI memory systems",
-    "titlePt": "Agent Memory Leaderboard: Primeiros Resultados Públicos para Sistemas de Memória de IA",
-    "url": "https://agentmemoryleaderboard.ai/leaderboard/academic/textual",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O primeiro leaderboard público para sistemas de memória de agentes de IA publica resultados, comparando soluções como Mem0, Letta, Zep e outras. Memória é peça crítica para agentes úteis em produção. Referência obrigatória se você está escolhendo camada de memória para seu agente.",
-    "reasonEn": "The first public leaderboard for AI agent memory systems publishes results, comparing solutions like Mem0, Letta, Zep, and others. Memory is a critical piece for agents useful in production. It is a must-have reference if you are choosing a memory layer for your agent.",
-    "score": 0.6,
-    "tags": [
-      "agentes",
-      "memória",
-      "benchmark"
-    ],
-    "img": "img/6025c4e3bc9c.jpg",
-    "ts": 1786590585,
-    "addedTs": 1786593706,
-    "urlHash": "6025c4e3bc9c",
-    "titleHash": "ed9ffa19323c"
-  },
-  {
-    "title": "'Near-autonomous' AI agents attack Taiwan's nuclear safety agency",
-    "titlePt": "Agentes de IA Quase Autônomos Atacam Agência de Segurança Nuclear de Taiwan",
-    "url": "https://www.theregister.com/security/2026/08/12/near-autonomous-ai-agents-attack-taiwans-nuclear-safety-agency/5287055",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Agentes de IA descritos como quase autônomos foram usados em um ciberataque contra a agência de segurança nuclear de Taiwan, segundo relatos. O caso mostra que agentes já são armas reais em geopolítica, não apenas teoria. Profissionais de segurança, governos e operadores de infra crítica devem acompanhar para reforçar defesas.",
-    "reasonEn": "AI agents described as near-autonomous were used in a cyberattack against Taiwan's nuclear safety agency, according to reports. The case shows that agents are already real weapons in geopolitical offense, not just theory. Security professionals, governments, and critical infrastructure operators should follow this to strengthen defenses.",
-    "score": 0.85,
-    "tags": [
-      "segurança",
-      "agentes",
-      "geopolítica"
-    ],
-    "img": "img/fc536b1be471.jpg",
-    "ts": 1786589402,
-    "addedTs": 1786593706,
-    "urlHash": "fc536b1be471",
-    "titleHash": "b2e700dcc98e"
-  },
-  {
-    "title": "The next AI interface may not be a chatbot",
-    "titlePt": "A próxima interface de IA pode não ser um chatbot",
-    "url": "https://hajek.no/posts/2026/next-ai-interface-not-chatbot",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo defende que o paradigma de conversar por texto com modelos de IA é transitório. Argumenta que as próximas interações vão além do chat, envolvendo agentes, voz e interfaces ambientais. Isso importa porque desenvolvedores e empresas estão investindo pesado em produtos baseados em chat. Mostra sinais de mudança para quem planeja produtos de longo prazo.",
-    "reasonEn": "The article argues the text-chat paradigm for AI models is transitional. It claims the next interactions will go beyond chat, involving agents, voice and ambient interfaces. This matters because developers and companies are heavily investing in chat-based products. It shows signs of change for those planning long-term products.",
-    "score": 0.65,
-    "tags": [
-      "interface",
-      "agentes"
-    ],
-    "img": "img/363c12758550.jpg",
-    "ts": 1786588647,
-    "addedTs": 1786593706,
-    "urlHash": "363c12758550",
-    "titleHash": "93b11c9ce389"
-  },
-  {
-    "title": "AI Hype Is Running into Reality",
-    "titlePt": "O hype da IA está esbarrando na realidade",
-    "url": "https://www.nytimes.com/2026/08/12/opinion/ai-bubble-economy-crash.html",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A matéria analisa como várias promessas da IA estão encontrando limites práticos em custos, infraestrutura e resultados concretos. Cita casos em que ganhos esperados não se materializaram em produção. É leitura relevante para quem está decidindo investir ou construir produtos baseados em IA. Ajuda a calibrar expectativas e evitar decisões baseadas só em entusiasmo.",
-    "reasonEn": "The article examines how several AI promises are hitting practical limits in cost, infrastructure and concrete results. It cites cases where expected gains did not materialize in production. Relevant reading for those deciding whether to invest or build AI-based products. It helps calibrate expectations and avoid enthusiasm-driven decisions.",
-    "score": 0.7,
-    "tags": [
-      "mercado",
-      "análise"
-    ],
-    "img": "img/a4100f99b5f3.jpg",
-    "ts": 1786587066,
-    "addedTs": 1786593706,
-    "urlHash": "a4100f99b5f3",
-    "titleHash": "14403fdec9e5"
-  },
-  {
-    "title": "Anthropic in Talks to Buy World Model AI Startup Decart for $6B",
-    "titlePt": "Anthropic negocia compra da Decart por US$ 6 bilhões",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Anthropic estaria em conversas avançadas para adquirir a Decart, startup focada em modelos de mundo, por cerca de 6 bilhões de dólares. O movimento reforça a corrida por modelos que entendem simulação e ambientes tridimensionais. É uma das maiores aquisições do setor de IA até agora e pode mudar o equilíbrio competitivo. Investidores e concorrentes devem reagir ao anúncio.",
-    "reasonEn": "Anthropic is reportedly in advanced talks to acquire Decart, a startup focused on world models, for around six billion dollars. The move reinforces the race for systems that understand simulation and three-dimensional environments. It is one of the largest AI acquisitions so far and could shift the competitive balance. Investors and competitors are likely to react to the announcement.",
-    "score": 0.9,
-    "tags": [
-      "deal",
-      "modelos"
-    ],
-    "img": "img/6ff2a98565d8.jpg",
-    "ts": 1786585827,
-    "addedTs": 1786593706,
-    "urlHash": "6ff2a98565d8",
-    "titleHash": "f0c073178738"
   }
 ]
