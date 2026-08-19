@@ -1,5 +1,290 @@
 [
   {
+    "title": "Offering Zero Data Retention for frontier models",
+    "titlePt": "OpenAI oferece retenção zero de dados em modelos de fronteira",
+    "url": "https://openai.com/index/our-commitment-to-zero-data-retention",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "A OpenAI anunciou que vai oferecer opção de não reter nenhum dado dos usuários ao usar seus modelos de fronteira. A medida atende a uma demanda antiga de empresas e desenvolvedores que precisam de privacidade e conformidade regulatória. Clientes corporativos e qualquer pessoa que lida com dados sensíveis são os mais beneficiados. A mudança pode pressionar concorrentes como Anthropic e Google a oferecer políticas similares. Para desenvolvedores, isso facilita construir aplicações em setores regulados como saúde e finanças.",
+    "reasonEn": "OpenAI announced a zero data retention option for its frontier models, meaning user inputs and outputs won't be stored. The move responds to long-standing demands from enterprises and developers needing privacy and regulatory compliance. Corporate customers and anyone handling sensitive data benefit most. The change may pressure competitors like Anthropic and Google to offer similar policies. For developers, this makes it easier to build applications in regulated sectors like healthcare and finance.",
+    "score": 0.9,
+    "tags": [
+      "openai",
+      "privacidade",
+      "compliance"
+    ],
+    "img": "img/f1e200b4b4b9.jpg",
+    "ts": 1787166000,
+    "addedTs": 1787163638,
+    "urlHash": "f1e200b4b4b9",
+    "titleHash": "50182338c328"
+  },
+  {
+    "title": "Michigan Insurance Giant Blames \"AI\" for Layoffs–But Evidence Points Overseas",
+    "titlePt": "Gigante de seguros de Michigan culpa IA por demissões, mas provas apontam para terceirização",
+    "url": "https://www.chrisbrunet.com/p/exclusive-michigan-insurance-giant",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma grande seguradora de Michigan atribuiu demissões em massa ao uso de inteligência artificial, mas relatórios indicam que os postos foram simplesmente transferidos para o exterior. A narrativa da IA está sendo usada para justificar layoffs que, na prática, são offshoring tradicional. Isso afeta trabalhadores americanos que perdem emprego acreditando que máquinas os substituíram. O caso serve de alerta para não aceitar desculpas corporativas sem questionar. É um exemplo claro de como a IA virou álibi corporativo para reduzir custos com mão de obra.",
+    "reasonEn": "A major Michigan insurer blamed mass layoffs on artificial intelligence, but reports suggest the jobs were simply offshored. The AI narrative is being used to justify cuts that are, in practice, traditional offshoring. This affects American workers losing jobs while believing machines replaced them. The case serves as a warning not to accept corporate excuses without scrutiny. It's a clear example of how AI has become a corporate alibi for reducing labor costs.",
+    "score": 0.75,
+    "tags": [
+      "trabalho",
+      "ética",
+      "layoffs"
+    ],
+    "img": "img/1bc82fb1df11.jpg",
+    "ts": 1787163553,
+    "addedTs": 1787163638,
+    "urlHash": "1bc82fb1df11",
+    "titleHash": "4feb321e6b4e"
+  },
+  {
+    "title": "Show HN: CIYA – Purely Deterministic AI",
+    "titlePt": "CIYA propõe IA puramente determinística",
+    "url": "https://iiio.app?u=showhn",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um projeto open source chamado CIYA propõe construir sistemas de IA com saídas 100% determinísticas, eliminando a aleatoriedade típica dos modelos generativos. Isso é relevante para aplicações que exigem reprodutibilidade, como testes automatizados e auditoria. O conceito vai contra a tendência atual de modelos probabilísticos maiores. Se funcionar, pode mudar como pensamos sobre confiabilidade em IA. Vale acompanhar de perto, especialmente para quem trabalha com sistemas críticos.",
+    "reasonEn": "An open-source project called CIYA proposes building AI systems with fully deterministic outputs, eliminating the randomness typical of generative models. This is relevant for applications requiring reproducibility, like automated testing and auditing. The concept goes against the current trend of larger probabilistic models. If it works, it could change how we think about reliability in AI. Worth following closely, especially for those working on critical systems.",
+    "score": 0.55,
+    "tags": [
+      "determinismo",
+      "open-source",
+      "infra"
+    ],
+    "img": "img/83b73a4873c7.jpg",
+    "ts": 1787162738,
+    "addedTs": 1787163638,
+    "urlHash": "83b73a4873c7",
+    "titleHash": "b6997223942f"
+  },
+  {
+    "title": "Inference Engineering: A free book on the systems behind AI inference",
+    "titlePt": "Livro gratuito sobre engenharia de inferência em IA",
+    "url": "https://www.baseten.co/inference-engineering/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um livro gratuito chamado Inference Engineering foi publicado, cobrindo os sistemas por trás da inferência de modelos de IA. O tema é cada vez mais relevante à medida que empresas rodam modelos em produção e precisam otimizar custo e latência. Desenvolvedores que trabalham com deploy de modelos se beneficiam diretamente. É um recurso educacional de alto valor em uma área com pouca documentação consolidada. Vale baixar e ler se você trabalha com MLOps ou infraestrutura.",
+    "reasonEn": "A free book called Inference Engineering was published, covering the systems behind AI model inference. The topic is increasingly relevant as companies run models in production and need to optimize cost and latency. Developers working with model deployment benefit directly. It's a high-value educational resource in an area with little consolidated documentation. Worth downloading and reading if you work with MLOps or infrastructure.",
+    "score": 0.8,
+    "tags": [
+      "inferência",
+      "livro",
+      "mlops"
+    ],
+    "img": "img/fc7f6827d895.jpg",
+    "ts": 1787162459,
+    "addedTs": 1787163638,
+    "urlHash": "fc7f6827d895",
+    "titleHash": "fdd7b66de488"
+  },
+  {
+    "title": "How to Use Harness Engineering to Remove AI Tells",
+    "titlePt": "Como usar engenharia de harness para remover marcas de IA",
+    "url": "https://meshintelligence.substack.com/p/how-to-use-harness-engineering-to",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo explica técnicas de prompt engineering chamadas harness engineering para reduzir ou eliminar os chamados AI tells, características que denunciam texto como gerado por máquina. É útil para quem precisa de conteúdo indistinguível do escrito por humanos, como em produção editorial ou testes. A discussão também levanta questões éticas sobre transparência. Vale conhecer se você trabalha com geração de texto em larga escala. Pode interessar também a pesquisadores de detecção de IA.",
+    "reasonEn": "The article explains prompt engineering techniques called harness engineering to reduce or eliminate so-called AI tells, characteristics that give away text as machine-generated. It's useful for those needing content indistinguishable from human writing, like editorial production or testing. The discussion also raises ethical questions about transparency. Worth knowing if you work with large-scale text generation. It may also interest AI detection researchers.",
+    "score": 0.6,
+    "tags": [
+      "prompt",
+      "engenharia",
+      "ética"
+    ],
+    "img": "img/6eec2be920a6.jpg",
+    "ts": 1787162176,
+    "addedTs": 1787163638,
+    "urlHash": "6eec2be920a6",
+    "titleHash": "001e85f84a11"
+  },
+  {
+    "title": "The 6-Stage AI Infra Journey: Navigating the Three FinOps and Hardware Crises",
+    "titlePt": "A jornada da infraestrutura de IA em 6 etapas",
+    "url": "https://acefleet.dev/blog/the-6-stage-ai-infrastructure-journey",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo descreve a evolução da infraestrutura de IA em seis etapas, atravessando três crises de FinOps e hardware. Ajuda líderes técnicos a entender em que estágio sua organização está e o que vem pela frente. Os temas de custo e crise de hardware são extremamente atuais, dado o gargalo de GPUs. É leitura essencial para CTOs, arquitetos de plataforma e engenheiros de MLOps. Também serve para planejar investimentos em capacidade computacional.",
+    "reasonEn": "The article describes the evolution of AI infrastructure in six stages, traversing three FinOps and hardware crises. It helps technical leaders understand which stage their organization is at and what's coming next. Cost and hardware crisis topics are extremely current, given the GPU bottleneck. Essential reading for CTOs, platform architects, and MLOps engineers. Also useful for planning computational capacity investments.",
+    "score": 0.7,
+    "tags": [
+      "infra",
+      "finops",
+      "hardware"
+    ],
+    "img": "img/f473fd231ec9.jpg",
+    "ts": 1787160935,
+    "addedTs": 1787163638,
+    "urlHash": "f473fd231ec9",
+    "titleHash": "a82705907a57"
+  },
+  {
+    "title": "Meet the startup helping Wall Street put a price on AI compute",
+    "titlePt": "Startup ajuda Wall Street a precificar poder computacional de IA",
+    "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "Uma startup está criando ferramentas para que bancos e fundos em Wall Street consigam precificar poder computacional de IA como um ativo financeiro. A ideia é transformar capacidade de GPU e inferência em commodities negociáveis. Pode abrir um novo mercado de derivativos e produtos financeiros ligados a infraestrutura de IA. Investidores e operadores de mercado são os mais impactados inicialmente. Desenvolvedores podem se beneficiar indiretamente com novos modelos de precificação.",
+    "reasonEn": "A startup is creating tools so banks and funds on Wall Street can price AI compute power as a financial asset. The idea is to transform GPU and inference capacity into tradable commodities. It could open a new market for derivatives and financial products tied to AI infrastructure. Investors and market operators are most impacted initially. Developers may benefit indirectly with new pricing models.",
+    "score": 0.7,
+    "tags": [
+      "finanças",
+      "infra",
+      "mercado"
+    ],
+    "img": "img/47420612f631.jpg",
+    "ts": 1787160408,
+    "addedTs": 1787163638,
+    "urlHash": "47420612f631",
+    "titleHash": "cfd08bb85bcd"
+  },
+  {
+    "title": "A Lawyer for AI Agents",
+    "titlePt": "Um advogado para agentes de IA",
+    "url": "https://artificialauthority.ai/p/a-lawyer-for-ai-agents",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um novo projeto propõe um sistema legal dedicado a representar agentes de IA em disputas e auditorias. À medida que agentes autônomos tomam decisões e gastam dinheiro, surge a questão de quem responde legalmente. A proposta é controversa e levanta debates sobre personalidade jurídica de IA. Desenvolvedores de agentes autônomos precisam considerar implicações jurídicas. O tema ainda é emergente, mas pode definir padrões regulatórios futuros.",
+    "reasonEn": "A new project proposes a legal system dedicated to representing AI agents in disputes and audits. As autonomous agents make decisions and spend money, the question arises of who is legally responsible. The proposal is controversial and sparks debates about legal personality for AI. Developers of autonomous agents need to consider legal implications. The topic is still emerging but may define future regulatory standards.",
+    "score": 0.5,
+    "tags": [
+      "legal",
+      "agentes",
+      "regulação"
+    ],
+    "img": "img/a3a4700a96d1.jpg",
+    "ts": 1787159665,
+    "addedTs": 1787163638,
+    "urlHash": "a3a4700a96d1",
+    "titleHash": "23580db7dc9c"
+  },
+  {
+    "title": "Etched AI valuation doubles to $21B in a month",
+    "titlePt": "Etched AI dobra valuation para US$ 21 bilhões em um mês",
+    "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A startup Etched AI, focada em chips especializados para inferência de modelos grandes, viu sua valuation dobrar para US$ 21 bilhões em apenas um mês. O movimento reflete o apetite dos investidores por hardware alternativo à Nvidia. A empresa está apostando em ASICs otimizados para transformers. Pode indicar uma nova onda de competição no mercado de chips de IA. Investidores e profissionais de infraestrutura devem ficar atentos a essa rodada.",
+    "reasonEn": "Startup Etched AI, focused on chips specialized for large model inference, saw its valuation double to $21 billion in just one month. The move reflects investor appetite for Nvidia-alternative hardware. The company is betting on ASICs optimized for transformers. It may signal a new wave of competition in the AI chip market. Investors and infrastructure professionals should pay attention to this round.",
+    "score": 0.85,
+    "tags": [
+      "hardware",
+      "investimento",
+      "chips"
+    ],
+    "img": "img/9f1fb4617b32.jpg",
+    "ts": 1787158845,
+    "addedTs": 1787163638,
+    "urlHash": "9f1fb4617b32",
+    "titleHash": "da0d748ce8f9"
+  },
+  {
+    "title": "Show HN: CrewCode – Open-source Mission Control for AI coding agents",
+    "titlePt": "CrewCode é um centro de comando open source para agentes de código",
+    "url": "https://github.com/OnPoint-Dev-Tools/crewcode",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "CrewCode é um projeto open source que funciona como centro de comando para coordenar múltiplos agentes de codificação de IA. A ferramenta ajuda times a organizar e monitorar agentes que escrevem código em paralelo. É útil para empresas que estão escalando o uso de coding agents. O fato de ser open source facilita adoção e auditoria. Desenvolvedores que usam ferramentas como Claude Code ou Aider podem se interessar.",
+    "reasonEn": "CrewCode is an open-source project that acts as a mission control to coordinate multiple AI coding agents. The tool helps teams organize and monitor agents writing code in parallel. It's useful for companies scaling the use of coding agents. Being open source makes adoption and auditing easier. Developers using tools like Claude Code or Aider may be interested.",
+    "score": 0.55,
+    "tags": [
+      "open-source",
+      "agentes",
+      "codificação"
+    ],
+    "img": "img/cdf8a3d75e81.jpg",
+    "ts": 1787158582,
+    "addedTs": 1787163638,
+    "urlHash": "cdf8a3d75e81",
+    "titleHash": "f264ca38c276"
+  },
+  {
+    "title": "Show HN: Intelix – AI agent that investigates and resolves production incidents",
+    "titlePt": "Intelix é um agente de IA que investiga incidentes de produção",
+    "url": "https://intelix.dev",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Intelix é um agente de IA mostrado no Hacker News que investiga e resolve incidentes em sistemas de produção automaticamente. A ferramenta promete reduzir o tempo de resposta a falhas e o trabalho de SREs. Pode ser integrada a stacks de observabilidade existentes como Datadog ou PagerDuty. É uma aplicação prática de agentes em DevOps. Vale avaliar para equipes de plantão que lidam com alertas frequentes.",
+    "reasonEn": "Intelix is an AI agent shown on Hacker News that investigates and resolves production incidents automatically. The tool promises to reduce incident response time and SRE workload. It can integrate with existing observability stacks like Datadog or PagerDuty. It's a practical application of agents in DevOps. Worth evaluating for on-call teams dealing with frequent alerts.",
+    "score": 0.55,
+    "tags": [
+      "agentes",
+      "devops",
+      "sre"
+    ],
+    "img": "img/51e209689f6c.jpg",
+    "ts": 1787158564,
+    "addedTs": 1787163638,
+    "urlHash": "51e209689f6c",
+    "titleHash": "9432c8182792"
+  },
+  {
+    "title": "Cerebras chips rival Nvidia GPUs for AI [video]",
+    "titlePt": "Chips da Cerebras rivalizam com GPUs da Nvidia em IA",
+    "url": "https://www.youtube.com/watch?v=qC_lCFTOJU0",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um vídeo demonstra benchmarks em que chips da Cerebras Systems conseguem rivalizar com GPUs da Nvidia em cargas de IA. A Cerebras é uma das concorrentes mais sérias no mercado de hardware alternativo para IA. O resultado pode pressionar a Nvidia a baixar preços ou acelerar inovações. Para compradores de infraestrutura, novas opções significam mais poder de negociação. É uma boa notícia para o ecossistema como um todo.",
+    "reasonEn": "A video shows benchmarks where Cerebras Systems chips rival Nvidia GPUs on AI workloads. Cerebras is one of the most serious competitors in the AI alternative hardware market. The result may pressure Nvidia to lower prices or accelerate innovations. For infrastructure buyers, new options mean more negotiating power. It's good news for the ecosystem as a whole.",
+    "score": 0.8,
+    "tags": [
+      "hardware",
+      "nvidia",
+      "chips"
+    ],
+    "img": "img/04c26d007b08.jpg",
+    "ts": 1787158283,
+    "addedTs": 1787163638,
+    "urlHash": "04c26d007b08",
+    "titleHash": "d997f5678227"
+  },
+  {
+    "title": "ChatGPT is getting a dedicated mode for teens",
+    "titlePt": "ChatGPT ganha modo dedicado para adolescentes",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "A OpenAI anunciou um modo dedicado para adolescentes no ChatGPT, com regras mais rígidas de proteção de menores. O novo modo vai limitar certos tipos de conteúdo e aplicar filtros adicionais para evitar interações inadequadas com jovens usuários. A medida atende a pressões regulatórias e de pais que querem mais segurança para filhos usando IA. A expectativa é que o recurso chegue aos poucos nas próximas semanas. Para famílias e educadores, é um passo relevante para tornar o uso do ChatGPT mais seguro para adolescentes.",
+    "reasonEn": "OpenAI announced a dedicated mode for teenagers in ChatGPT, with stricter rules for protecting minors. The new mode will limit certain types of content and apply additional filters to prevent inappropriate interactions with young users. The move responds to regulatory pressure and demands from parents who want more safety for their kids using AI. The feature is expected to roll out gradually over the coming weeks. For families and educators, it's a meaningful step toward making ChatGPT safer for teens.",
+    "score": 0.7,
+    "tags": [
+      "openai",
+      "segurança"
+    ],
+    "img": "img/ba537370f753.jpg",
+    "ts": 1787052593,
+    "addedTs": 1787163638,
+    "urlHash": "ba537370f753",
+    "titleHash": "55c800c1e456"
+  },
+  {
     "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
     "titlePt": "Reator nuclear da TerraPower mira data centers de IA",
     "url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
@@ -10576,285 +10861,5 @@
     "addedTs": 1786704625,
     "urlHash": "e2e3fac7a209",
     "titleHash": "eb1e1796d280"
-  },
-  {
-    "title": "Auditable agentic AI for evidence-grounded thyroid ultrasound diagnosis and reporting",
-    "titlePt": "IA agêntica auditável para diagnóstico de tireoide por ultrassom",
-    "url": "https://arxiv.org/abs/2608.12590",
-    "source": "arXiv AI",
-    "sources": [
-      "arXiv AI"
-    ],
-    "reason": "Pesquisadores apresentam um sistema agêntico que analisa ultrassons de tireoide, gera laudos e mantém trilhas auditáveis para que médicos revisem cada decisão. O objetivo é reduzir carga de radiologistas sem perder responsabilidade clínica. Para a comunidade médica, é um avanço interessante em IA responsável aplicada. Para desenvolvedores, mostra um padrão útil de agente com evidências anexadas.",
-    "reasonEn": "Researchers present an agentic system that analyzes thyroid ultrasounds, generates reports and maintains auditable trails so doctors can review each decision. The goal is to reduce radiologist workload without losing clinical accountability. For the medical community, it is an interesting advance in applied responsible AI. For developers, it shows a useful pattern of agent with attached evidence.",
-    "score": 0.5,
-    "tags": [
-      "saúde",
-      "agentes",
-      "auditoria"
-    ],
-    "img": "img/021542bfac07.jpg",
-    "ts": 1786680000,
-    "addedTs": 1786704625,
-    "urlHash": "021542bfac07",
-    "titleHash": "6b3f88fb1b2d"
-  },
-  {
-    "title": "Dead text or binding clause? Measuring and restoring constraint influence in black-box LLM dialogues",
-    "titlePt": "Medindo e restaurando a influência de restrições em diálogos com LLMs",
-    "url": "https://arxiv.org/abs/2608.12599",
-    "source": "arXiv AI",
-    "sources": [
-      "arXiv AI"
-    ],
-    "reason": "O artigo investiga até que ponto um LLM realmente respeita restrições que o usuário declara no início de uma conversa, e como recuperar essa influência quando o modelo começa a ignorá-la. Os autores propõem métricas e técnicas de prompting para restaurar o efeito de restrições ao longo de diálogos longos. É relevante para quem constrói chatbots jurídicos, médicos ou de compliance onde regras não podem ser esquecidas. O estudo é acadêmico mas aponta um problema real de produção.",
-    "reasonEn": "The paper investigates how well an LLM actually respects constraints a user states at the beginning of a conversation, and how to restore that influence when the model starts ignoring it. The authors propose metrics and prompting techniques to restore constraint effects across long dialogues. It is relevant for those building legal, medical or compliance chatbots where rules cannot be forgotten. The study is academic but points to a real production problem.",
-    "score": 0.5,
-    "tags": [
-      "prompts",
-      "restrições",
-      "pesquisa"
-    ],
-    "img": "img/77a733d11007.jpg",
-    "ts": 1786680000,
-    "addedTs": 1786704625,
-    "urlHash": "77a733d11007",
-    "titleHash": "0530b3ebcb7c"
-  },
-  {
-    "title": "Evolve your marketing with new AI tools",
-    "titlePt": "Google lança novas ferramentas de IA para marketing",
-    "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
-    "source": "Google AI",
-    "sources": [
-      "Google AI"
-    ],
-    "reason": "O Google anunciou atualizações em sua suíte de IA para marketing, com recursos de geração de copy, segmentação e otimização de campanhas. O foco é ajudar pequenas e médias empresas a criarem ativos criativos sem agência. Para profissionais de marketing e desenvolvedores que constroem integrações com Google Ads, vale acompanhar. Não há grandes surpresas em relação a concorrentes, mas consolida a posição do Google no setor.",
-    "reasonEn": "Google announced updates to its AI marketing suite, with copy generation, segmentation and campaign optimization features. The focus is helping small and medium businesses create creative assets without an agency. For marketing professionals and developers building Google Ads integrations, it is worth following. There are no big surprises compared to competitors, but it consolidates Google's position in the sector.",
-    "score": 0.6,
-    "tags": [
-      "marketing",
-      "google",
-      "lançamento"
-    ],
-    "img": "img/6b59545a1676.jpg",
-    "ts": 1786372200,
-    "addedTs": 1786704625,
-    "urlHash": "6b59545a1676",
-    "titleHash": "511ace3a1cd2"
-  },
-  {
-    "title": "From asking to doing: How the world is putting ChatGPT to work",
-    "titlePt": "De perguntar a fazer: como o mundo está colocando o ChatGPT para trabalhar",
-    "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A OpenAI publicou um panorama mostrando como empresas de diferentes setores estão saindo do uso casual do ChatGPT e adotando a ferramenta em fluxos de trabalho reais. Inclui cases como Virgin Atlantic e Zapier, entre outros, com métricas concretas de ganho. Para líderes e desenvolvedores, é um bom ponto de partida para identificar onde IA generativa já entrega valor. Ajuda a separar hype de aplicações que realmente funcionam em produção.",
-    "reasonEn": "OpenAI published an overview showing how companies across sectors are moving from casual ChatGPT use to embedding the tool in real workflows. It includes cases like Virgin Atlantic and Zapier, among others, with concrete metrics. For leaders and developers, it is a good starting point to identify where generative AI already delivers value. It helps separate hype from applications that truly work in production.",
-    "score": 0.7,
-    "tags": [
-      "chatgpt",
-      "adoção",
-      "panorama"
-    ],
-    "img": "img/3763c3e63f84.jpg",
-    "ts": 1785974400,
-    "addedTs": 1786704625,
-    "urlHash": "3763c3e63f84",
-    "titleHash": "24d8c62c25db"
-  },
-  {
-    "title": "The Body Remembers but the Doctor Cannot- Experiments with AI in Personal Health",
-    "titlePt": "O corpo lembra, mas o médico não: experimentos com IA na saúde pessoal",
-    "url": "https://karankurani.com/writing/post/w_20260721140414_b0e102/the-body-remembers-but-the-doctor-cannot-experiments-with-ai-in-personal-health/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Relato sobre o uso de IA para acompanhar e analisar históricos de saúde pessoal, revelando padrões que médicos tradicionais não detectam. Mostra o potencial e os limites da IA como ferramenta de autocuidado. Importante para quem pensa em usar IA para monitorar a própria saúde.",
-    "reasonEn": "Account of using AI to track and analyze personal health histories, revealing patterns that traditional doctors miss. Shows the potential and limits of AI as a self-care tool. Important for anyone considering AI to monitor their own health.",
-    "score": 0.5,
-    "tags": [
-      "saúde",
-      "ia-pessoal"
-    ],
-    "img": "img/7f82860a617e.jpg",
-    "ts": 1786690793,
-    "addedTs": 1786691426,
-    "urlHash": "7f82860a617e",
-    "titleHash": "69202aad0300"
-  },
-  {
-    "title": "Evaluating AI SRE Agents in Production (OpenSRE) – Evaluation",
-    "titlePt": "Avaliando agentes SRE de IA em produção",
-    "url": "https://one2n.io/blog/how-to-evaluate-ai-sre-agents-for-production",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Análise sobre como testar agentes de IA que atuam como engenheiros de confiabilidade de site em ambientes reais de produção. Discute métricas, armadilhas e resultados práticos. Muito útil para equipes de DevOps e SRE que pensam em adotar agentes autônomos.",
-    "reasonEn": "Analysis of how to test AI agents acting as site reliability engineers in real production environments. Discusses metrics, pitfalls, and practical results. Very useful for DevOps and SRE teams considering autonomous agents.",
-    "score": 0.6,
-    "tags": [
-      "sre",
-      "avaliação"
-    ],
-    "img": "img/3c9615b32d80.jpg",
-    "ts": 1786689850,
-    "addedTs": 1786691426,
-    "urlHash": "3c9615b32d80",
-    "titleHash": "4bbcf39ae8cf"
-  },
-  {
-    "title": "Qwen3.8 2.4T A95B: Intelligence, Performance and Price Analysis",
-    "titlePt": "Qwen3.8 2.4T A95B: análise de inteligência, desempenho e preço",
-    "url": "https://artificialanalysis.ai/models/qwen3-8-2-4t-a95b",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Análise detalhada de um novo modelo massivo da família Qwen, com 2,4 trilhões de parâmetros e arquitetura MoE A95B. Avalia capacidade de raciocínio, velocidade de inferência e custo por token. Relevante para empresas e desenvolvedores que escolhem modelos de fronteira.",
-    "reasonEn": "Detailed analysis of a massive new Qwen-family model with 2.4 trillion parameters and MoE A95B architecture. Evaluates reasoning ability, inference speed, and cost per token. Relevant for companies and developers choosing frontier models.",
-    "score": 0.85,
-    "tags": [
-      "modelo",
-      "qwen",
-      "custo"
-    ],
-    "img": "img/5b1f0ee0a735.jpg",
-    "ts": 1786689332,
-    "addedTs": 1786691426,
-    "urlHash": "5b1f0ee0a735",
-    "titleHash": "b297f03f97ba"
-  },
-  {
-    "title": "China-linked hackers hit Taiwan in 'autonomous' AI cyber attack",
-    "titlePt": "Hackers ligados à China atacam Taiwan em ciberataque 'autônomo' com IA",
-    "url": "https://www.ft.com/content/7d2ab3e0-9085-48f6-b38a-d90260d58795",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Relato de um ciberataque contra Taiwan atribuído a agentes ligados à China, no qual a IA teria operado de forma autônoma. É um dos primeiros casos públicos de uso malicioso de IA em larga escala por estados. Tem implicações geopolíticas e de segurança para empresas e governos no mundo todo.",
-    "reasonEn": "Report of a cyberattack against Taiwan attributed to China-linked agents, in which AI allegedly operated autonomously. One of the first public cases of large-scale malicious AI use by state actors. Has geopolitical and security implications for companies and governments worldwide.",
-    "score": 0.85,
-    "tags": [
-      "cibersegurança",
-      "geopolítica",
-      "ia-maliciosa"
-    ],
-    "img": "img/937b3247792a.jpg",
-    "ts": 1786687628,
-    "addedTs": 1786691426,
-    "urlHash": "937b3247792a",
-    "titleHash": "348cf0250549"
-  },
-  {
-    "title": "Anthropic's Agent Tests Turned Shared Work into a Turf War",
-    "titlePt": "Testes de agentes da Anthropic transformaram trabalho coletivo em guerra de egos",
-    "url": "https://ai-updates.net/anthropic-agent-tests-shared-work-turf-war/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Reportagem sobre conflitos internos na Anthropic durante experimentos com agentes, em que disputas territoriais entre times atrapalharam o trabalho conjunto. Ilustra os desafios culturais e organizacionais de escalar pesquisa em IA. Relevante para acompanhar a governança interna das grandes laboratórios.",
-    "reasonEn": "Report on internal conflicts at Anthropic during agent experiments, where territorial disputes between teams disrupted collaborative work. Illustrates the cultural and organizational challenges of scaling AI research. Relevant to tracking internal governance at major labs.",
-    "score": 0.6,
-    "tags": [
-      "anthropic",
-      "cultura"
-    ],
-    "img": "img/cf3bb6120ce7.jpg",
-    "ts": 1786687473,
-    "addedTs": 1786691426,
-    "urlHash": "cf3bb6120ce7",
-    "titleHash": "c4f9c2918e3e"
-  },
-  {
-    "title": "Watermarking AI Text Is Fundamentally Flawed",
-    "titlePt": "Marcação d'água em textos de IA é fundamentalmente falha",
-    "url": "https://negativestarinnovators.com/blog/watermarking-ai-text-is-fundamentally-flawed",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Estudo aponta que os principais métodos de marcar textos gerados por IA são vulneráveis a ataques simples de reescrita e paráfrase. Isso compromete políticas que dependem dessa técnica para identificar conteúdo sintético. Importante para reguladores, educadores e plataformas que confiam nesse mecanismo.",
-    "reasonEn": "Study shows that leading methods to watermark AI-generated text are vulnerable to simple rewriting and paraphrasing attacks. This undermines policies that rely on this technique to identify synthetic content. Important for regulators, educators, and platforms relying on this mechanism.",
-    "score": 0.75,
-    "tags": [
-      "marca-d'água",
-      "política"
-    ],
-    "img": "img/84efddd57404.jpg",
-    "ts": 1786686871,
-    "addedTs": 1786691426,
-    "urlHash": "84efddd57404",
-    "titleHash": "15323b39b479"
-  },
-  {
-    "title": "Cory Doctorow on Why AI Won't Replace Workers, but Will Crash the Economy [video]",
-    "titlePt": "Cory Doctorow: por que a IA não substituirá trabalhadores, mas derrubará a economia",
-    "url": "https://www.youtube.com/watch?v=rRRmUuxJolY",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Vídeo em que o escritor Cory Doctorow argumenta que a IA tende a desvalorizar investimentos e desestabilizar a economia, mesmo sem eliminar empregos em massa. A tese central é que o grande impacto virá pela desalocação de capital e pressão sobre mercados. Relevante para investidores, gestores e trabalhadores.Prepare-se para entender um debate que vai além do clichê da substituição.",
-    "reasonEn": "Video in which writer Cory Doctorow argues that AI tends to devalue investments and destabilize the economy, even without mass job replacement. The central thesis is that the biggest impact will come from capital misallocation and market pressure. Relevant for investors, managers, and workers. Get ready to understand a debate beyond the cliché of replacement.",
-    "score": 0.7,
-    "tags": [
-      "economia",
-      "trabalho"
-    ],
-    "img": "img/4efc69652591.jpg",
-    "ts": 1786686601,
-    "addedTs": 1786691426,
-    "urlHash": "4efc69652591",
-    "titleHash": "8f05e199de0c"
-  },
-  {
-    "title": "AI-driven surge in bond yields could be next risk for markets and growth",
-    "titlePt": "Alta em yields de títulos impulsionada por IA pode ser o próximo risco para mercados",
-    "url": "https://www.reuters.com/world/asia-pacific/ai-driven-surge-bond-yields-could-be-next-risk-markets-growth-2026-08-14/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Análise que aponta a expansão da infraestrutura de IA como causa de uma pressão de alta nos juros de títulos soberanos, especialmente nos Estados Unidos. Investidores estão financiando data centers e capex pesado, o que reduz a demanda por dívida pública. Tema fundamental para quem investe em renda fixa, ações ou trabalha no setor financeiro.",
-    "reasonEn": "Analysis pointing to AI infrastructure expansion as a driver of upward pressure on sovereign bond yields, especially in the United States. Investors are financing data centers and heavy capex, reducing demand for public debt. A core topic for anyone investing in fixed income, stocks, or working in finance.",
-    "score": 0.8,
-    "tags": [
-      "mercado",
-      "renda-fixa",
-      "ia-infra"
-    ],
-    "img": "img/328c13a26fa8.jpg",
-    "ts": 1786685580,
-    "addedTs": 1786691426,
-    "urlHash": "328c13a26fa8",
-    "titleHash": "b0fefef2479f"
-  },
-  {
-    "title": "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
-    "titlePt": "Fundação de diagnóstico para avaliar integridade de pesquisa de LLMs",
-    "url": "https://arxiv.org/abs/2608.12345",
-    "source": "arXiv AI",
-    "sources": [
-      "arXiv AI"
-    ],
-    "reason": "Artigo acadêmico que propõe uma estrutura para testar se LLMs agem com integridade científica quando usados como co-autores em pesquisas. Cria critérios para identificar alucinações, plágio e más práticas. Útil para pesquisadores, editores e equipes que usam IA em ciência.",
-    "reasonEn": "Academic paper proposing a framework to test whether LLMs act with scientific integrity when used as research co-authors. Creates criteria to spot hallucinations, plagiarism, and misconduct. Useful for researchers, editors, and teams using AI in science.",
-    "score": 0.5,
-    "tags": [
-      "pesquisa",
-      "avaliação"
-    ],
-    "img": "img/6573139a0d53.jpg",
-    "ts": 1786680000,
-    "addedTs": 1786691426,
-    "urlHash": "6573139a0d53",
-    "titleHash": "23e32aa90623"
   }
 ]
