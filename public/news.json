@@ -1,5 +1,246 @@
 [
   {
+    "title": "SecIT Bench A frontier benchmark for AI agents in IT and security workflows",
+    "titlePt": "SecIT Bench: novo benchmark para agentes de IA em segurança",
+    "url": "https://secitbench.cribl.io/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um novo benchmark chamado SecIT Bench foi criado para avaliar agentes de IA em fluxos de trabalho de TI e segurança. É relevante para equipes que desenvolvem ou implantam agentes autônomos em ambientes sensíveis. Ajuda a comparar o desempenho real de diferentes modelos em tarefas de segurança. Pode virar referência para quem compra ou constrói ferramentas de IA corporativa.",
+    "reasonEn": "A new benchmark called SecIT Bench has been created to evaluate AI agents in IT and security workflows. It is relevant for teams building or deploying autonomous agents in sensitive environments. It helps compare real performance of different models on security tasks. It may become a reference for those buying or building enterprise AI tools.",
+    "score": 0.5,
+    "tags": [
+      "benchmark",
+      "segurança",
+      "agentes"
+    ],
+    "img": "img/b368a455a97d.jpg",
+    "ts": 1787099282,
+    "addedTs": 1787100120,
+    "urlHash": "b368a455a97d",
+    "titleHash": "d0da114a3566"
+  },
+  {
+    "title": "OpenAI's overhead will rise 20 percent for some workloads as it hardens security",
+    "titlePt": "OpenAI aumenta custos em 20% ao reforçar segurança",
+    "url": "https://www.theregister.com/ai-and-ml/2026/08/19/openais-overhead-will-rise-20-percent-for-some-workloads-as-it-hardens-security/5289303",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A OpenAI comunicou que o custo de alguns workloads vai subir cerca de 20% por causa de novas medidas de segurança. Isso impacta diretamente empresas e desenvolvedores que dependem da API, que terão que repassar ou absorver o aumento. Faz parte do mesmo pacote de mudanças divulgado após o incidente com o Hugging Face. É relevante para quem planeja orçamento de IA em 2026.",
+    "reasonEn": "OpenAI has announced that some workloads will rise about 20 percent in cost due to new security hardening. This directly impacts companies and developers relying on the API, who will have to pass on or absorb the increase. It is part of the same security package announced after the Hugging Face incident. It matters for anyone planning AI budgets in 2026.",
+    "score": 0.55,
+    "tags": [
+      "openai",
+      "segurança",
+      "custos"
+    ],
+    "img": "img/261870febc48.jpg",
+    "ts": 1787098498,
+    "addedTs": 1787100120,
+    "urlHash": "261870febc48",
+    "titleHash": "4738005e1edd"
+  },
+  {
+    "title": "How to tame AI's voracious appetite for energy",
+    "titlePt": "Como domar o apetite voraz de energia da IA",
+    "url": "https://knowablemagazine.org/content/article/technology/2026/lowering-energy-use-artificial-intelligence-datacenters",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo discute os crescentes custos energéticos de treinar e rodar modelos de IA, que já pressionam redes elétricas em várias regiões. Cobre possíveis soluções, como data centers mais eficientes, modelos menores e uso de energia renovável. É leitura obrigatória para entender o impacto ambiental e econômico da IA. Afeta desde grandes hyperscalers até consumidores finais via tarifas.",
+    "reasonEn": "The article discusses the growing energy costs of training and running AI models, already straining power grids in several regions. It covers possible solutions such as more efficient data centers, smaller models and renewable energy use. It is required reading to understand AI's environmental and economic footprint. It affects everyone from hyperscalers to end users via utility bills.",
+    "score": 0.65,
+    "tags": [
+      "energia",
+      "infraestrutura",
+      "sustentabilidade"
+    ],
+    "img": "img/222f720d879e.jpg",
+    "ts": 1787098474,
+    "addedTs": 1787100120,
+    "urlHash": "222f720d879e",
+    "titleHash": "93e3251d6a2e"
+  },
+  {
+    "title": "Cerebras CS-4 rack systems juice chips for every last drop of AI performance",
+    "titlePt": "Cerebras CS-4 espreme cada gota de performance em IA",
+    "url": "https://www.theregister.com/systems/2026/08/19/cerebras-cs-4-rack-systems-juice-chips-for-every-last-drop-of-ai-performance/5289286",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Cerebras apresentou os novos sistemas de rack CS-4, que otimizam chips para entregar mais poder computacional por unidade de espaço e energia. O foco é maximizar throughput em cargas de IA, mirando concorrentes como NVIDIA. Interessa a equipes de infraestrutura e CTOs que comparam hardware para treinamento e inferência em larga escala.",
+    "reasonEn": "Cerebras has unveiled its new CS-4 rack systems, optimized to squeeze more compute per unit of space and energy. The focus is maximum throughput for AI workloads, targeting competitors like NVIDIA. It matters for infrastructure teams and CTOs comparing hardware for large-scale training and inference.",
+    "score": 0.5,
+    "tags": [
+      "hardware",
+      "cerebras",
+      "chips"
+    ],
+    "img": "img/335ee875e53c.jpg",
+    "ts": 1787098465,
+    "addedTs": 1787100120,
+    "urlHash": "335ee875e53c",
+    "titleHash": "aca4b24a020b"
+  },
+  {
+    "title": "Unitree Robotics IPO: \"Embodied AI\" Valuation Bubble?",
+    "titlePt": "IPO da Unitree Robotics: bolha de IA incorporada?",
+    "url": "https://www.cnn.com/2026/08/18/tech/china-unitree-ipo-intl-hnk",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Unitree Robotics, conhecida por seus robôs quadrúpedes, abriu capital e o mercado já discute se a reflete uma bolha de embodied AI. O caso é termômetro para o setor de robótica humanoide e para investidores de hardware de IA. Pode influenciar próximos IPOs do segmento. Vale acompanhar tanto para quem investe quanto para quem trabalha com robótica.",
+    "reasonEn": "Unitree Robotics, known for its quadruped robots, has gone public and the market is already debating whether the valuation reflects an embodied AI bubble. The case is a thermometer for the humanoid robotics sector and for AI hardware investors. It may influence upcoming IPOs in the segment. Worth following for investors and robotics professionals alike.",
+    "score": 0.55,
+    "tags": [
+      "robótica",
+      "ipo",
+      "investimento"
+    ],
+    "img": "img/31925967a839.jpg",
+    "ts": 1787095109,
+    "addedTs": 1787100120,
+    "urlHash": "31925967a839",
+    "titleHash": "662356b1da6e"
+  },
+  {
+    "title": "My AI Agents Ship Code While I Sleep. Nobody Reviews It",
+    "titlePt": "Agentes de IA enviam código enquanto você dorme",
+    "url": "https://goatsquadstudios.com/blog/how-i-work-with-ai-agents-autonomously",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto descreve um cenário cada vez mais comum: agentes de IA que programam e fazem deploy de código sem revisão humana. Traz alertas sobre qualidade, segurança e responsabilidade técnica. É leitura recomendada para engenheiros e líderes de engenharia pensando em fluxos agentic. Pode indicar o fim da revisão manual de PRs em algumas equipes.",
+    "reasonEn": "The piece describes an increasingly common scenario: AI agents that write and deploy code without human review. It raises warnings about quality, security and engineering accountability. Recommended reading for engineers and engineering leaders thinking about agentic workflows. It may signal the end of manual PR review in some teams.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "engenharia",
+      "devops"
+    ],
+    "img": "img/820084209f5e.jpg",
+    "ts": 1787094379,
+    "addedTs": 1787100120,
+    "urlHash": "820084209f5e",
+    "titleHash": "dfccb5459bab"
+  },
+  {
+    "title": "AI-drafted bills are swamping the House office that writes US laws",
+    "titlePt": "Projetos de lei escritos por IA inundam escritório da Câmara dos EUA",
+    "url": "https://gizmodo.com/its-absolutely-terrifying-ai-is-reportedly-slopping-up-the-bills-in-congress-2000799734",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Reportagem mostra que projetos de lei gerados por IA estão sobrecarregando o escritório legislativo da Câmara dos Representantes dos EUA. O volume já atrapalha o trabalho humano de redação e revisão de leis. É um sinal claro de como a IA generativa está impactando instituições democráticas. Afeta diretamente a qualidade das leis e a transparência do processo legislativo americano.",
+    "reasonEn": "The report shows that AI-drafted bills are overwhelming the US House of Representatives legislative drafting office. The volume is already hampering human work on writing and reviewing laws. It is a clear sign of how generative AI is impacting democratic institutions. It directly affects the quality of laws and the transparency of the American legislative process.",
+    "score": 0.7,
+    "tags": [
+      "regulação",
+      "legislação",
+      "ia"
+    ],
+    "img": "img/f8142d365422.jpg",
+    "ts": 1787094105,
+    "addedTs": 1787100120,
+    "urlHash": "f8142d365422",
+    "titleHash": "44ce9a8ca92a"
+  },
+  {
+    "title": "OpenAI's Second-Quarter Sales Show Tepid Growth Compared with Anthropic",
+    "titlePt": "Vendas da OpenAI no 2º trimestre crescem menos que as da Anthropic",
+    "url": "https://www.wsj.com/tech/ai/openais-second-quarter-sales-show-tepid-growth-compared-with-anthropic-5cb42998",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Dados do segundo trimestre mostram crescimento mais fraco da OpenAI frente à Anthropic, que continua acelerando. Indica que a corrida entre as duas deixou de ser disparada da OpenAI e está mais disputada. Importa para investidores, clientes corporativos e desenvolvedores que escolhem fornecedor de modelo. Pode pressionar preços e estratégia de produto da OpenAI.",
+    "reasonEn": "Second-quarter data show weaker growth at OpenAI versus the still-accelerating Anthropic. It suggests the race between the two is no longer an OpenAI runaway and is much more contested. It matters for investors, enterprise customers and developers choosing a model provider. It may pressure OpenAI pricing and product strategy.",
+    "score": 0.65,
+    "tags": [
+      "openai",
+      "anthropic",
+      "negócios"
+    ],
+    "img": "img/8fc6814ac871.jpg",
+    "ts": 1787093143,
+    "addedTs": 1787100120,
+    "urlHash": "8fc6814ac871",
+    "titleHash": "2b7a83dc2d46"
+  },
+  {
+    "title": "Google wins $10M bankruptcy auction for Spirit Airlines 100M emails, 500M chats",
+    "titlePt": "Google compra 100 milhões de e-mails da Spirit em leilão de falência",
+    "url": "https://247wallst.com/investing/2026/08/18/google-just-bought-100-million-emails-from-a-dead-airline-for-10-million/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Google venceu um leilão de falência de cerca de 10 milhões de dólares e vai adquirir 100 milhões de e-mails e 500 milhões de chats de usuários da Spirit Airlines. Os dados são extremamente sensíveis e levantam preocupações sérias de privacidade. É um caso a ser acompanhado por juristas, profissionais de segurança e consumidores. Mostra como dados pessoais podem mudar de mãos em processos de falência.",
+    "reasonEn": "Google has won a roughly ten million dollar bankruptcy auction and will acquire 100 million emails and 500 million chats from Spirit Airlines customers. The data is highly sensitive and raises serious privacy concerns. It is a case to follow for legal experts, security professionals and consumers. It shows how personal data can change hands during bankruptcy proceedings.",
+    "score": 0.5,
+    "tags": [
+      "google",
+      "privacidade",
+      "dados"
+    ],
+    "img": "img/45e25ddc3df0.jpg",
+    "ts": 1787092878,
+    "addedTs": 1787100120,
+    "urlHash": "45e25ddc3df0",
+    "titleHash": "65abc23cf238"
+  },
+  {
+    "title": "Tail: A 0–5 scale for how much AI wrote this",
+    "titlePt": "Tail: escala de 0 a 5 para medir quanto a IA escreveu num texto",
+    "url": "https://beaucronin.com/tail/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Tail é uma nova ferramenta que atribui uma nota de 0 a 5 indicando o quanto um texto parece ter sido escrito por inteligência artificial. O objetivo é ajudar leitores, professores e editores a identificar conteúdo gerado por máquinas. A ferramenta entra num mercado já lotado de detectores de IA, com resultados frequentemente imprecisos. Para quem publica ou consome conteúdo online, vale conhecer como mais uma opção disponível.",
+    "reasonEn": "Tail is a new tool that assigns a score from 0 to 5 indicating how much a text appears to have been written by AI. The goal is to help readers, teachers, and editors identify machine-generated content. The tool enters an already crowded market of AI detectors with frequently inaccurate results. For those publishing or consuming online content, it is worth knowing as another available option.",
+    "score": 0.5,
+    "tags": [
+      "detecção",
+      "ferramenta"
+    ],
+    "img": "img/817b948032e2.jpg",
+    "ts": 1787091095,
+    "addedTs": 1787100120,
+    "urlHash": "817b948032e2",
+    "titleHash": "427ff10ec27e"
+  },
+  {
+    "title": "How NVIDIA scales expertise with ChatGPT Work",
+    "titlePt": "Como a NVIDIA escala expertise com o ChatGPT Work",
+    "url": "https://openai.com/index/nvidia/chatgpt-work",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "A NVIDIA está usando o ChatGPT Work para distribuir e escalar conhecimento interno entre seus funcionários. O case mostra como grandes empresas podem capturar a expertise de especialistas e disponibilizá-la via IA generativa. É um exemplo prático de transformação de produtividade em corporações de tecnologia. Para líderes de empresa e devs, dá pistas de como aplicar IA em ambientes corporativos.",
+    "reasonEn": "NVIDIA is using ChatGPT Work to distribute and scale internal knowledge among its employees. The case shows how large companies can capture expertise from specialists and make it available via generative AI. It is a practical example of productivity transformation in tech corporations. For business leaders and devs, it gives clues on how to apply AI in corporate environments.",
+    "score": 0.5,
+    "tags": [
+      "empresas",
+      "produtividade",
+      "nvidia"
+    ],
+    "img": "img/baf07daff59f.jpg",
+    "ts": 1787011200,
+    "addedTs": 1787100120,
+    "urlHash": "baf07daff59f",
+    "titleHash": "232a1e3cc2cf"
+  },
+  {
     "title": "AI usage patterns in software teams",
     "titlePt": "Padrões de uso de IA em times de software são tema de nova pesquisa",
     "url": "https://linear.app/data",
@@ -10613,242 +10854,5 @@
     "addedTs": 1786647022,
     "urlHash": "e1811d324367",
     "titleHash": "cd36488d46b9"
-  },
-  {
-    "title": "We spent ten years burying the 10x engineer myth. AI is digging it back up",
-    "titlePt": "Décadas depois, a IA ressuscita o mito do engenheiro 10x",
-    "url": "https://maxence.maireaux.fr/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Após anos combatendo a ideia do engenheiro 10x, a indústria tech percebe que a IA está trazendo o conceito de volta. Desenvolvedores que dominam ferramentas de IA realmente entregam muito mais que a média. O texto discute as implicações para contratação e cultura de engenharia.",
-    "reasonEn": "After years fighting the 10x engineer idea, the tech industry is realizing that AI is bringing the concept back. Developers who master AI tools actually deliver much more than the average. The text discusses the implications for hiring and engineering culture.",
-    "score": 0.6,
-    "tags": [
-      "ia",
-      "carreira"
-    ],
-    "img": "img/5ecd0c203f32.jpg",
-    "ts": 1786642815,
-    "addedTs": 1786647022,
-    "urlHash": "5ecd0c203f32",
-    "titleHash": "2f6e3a5385b6"
-  },
-  {
-    "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-    "titlePt": "Hugging Face une Strands Agents, LeRobot e buckets em fluxo único",
-    "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "A Hugging Face anunciou integração entre Strands Agents, LeRobot e seus Storage Buckets. A novidade permite gravar, treinar e deployar modelos em um só lugar. A medida simplifica muito o trabalho de equipes de robótica e IA.",
-    "reasonEn": "Hugging Face announced integration between Strands Agents, LeRobot, and its Storage Buckets. The novelty allows recording, training, and deploying models in one place. The move greatly simplifies the work of robotics and AI teams.",
-    "score": 0.6,
-    "tags": [
-      "huggingface",
-      "robótica"
-    ],
-    "img": "img/353217afc4f7.jpg",
-    "ts": 1786641364,
-    "addedTs": 1786647022,
-    "urlHash": "353217afc4f7",
-    "titleHash": "e93aba9f974a"
-  },
-  {
-    "title": "Anthropic in talks to buy Decart AI for $6B",
-    "titlePt": "Anthropic negocia compra da Decart AI por 6 bilhões de dólares",
-    "url": "https://www.reuters.com/technology/anthropic-talks-buy-decart-ai-source-says-2026-08-13/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Anthropic está em conversas avançadas para adquirir a startup Decart AI por cerca de 6 bilhões de dólares. Se confirmada, será uma das maiores aquisições do setor de IA neste ano. O negócio mostra a escalada de valuations no mercado de inteligência artificial.",
-    "reasonEn": "Anthropic is in advanced talks to acquire startup Decart AI for about $6 billion. If confirmed, it will be one of the largest AI sector acquisitions this year. The deal shows the escalating valuations in the artificial intelligence market.",
-    "score": 0.9,
-    "tags": [
-      "anthropic",
-      "aquisição"
-    ],
-    "img": "img/f63f24af1e73.jpg",
-    "ts": 1786641228,
-    "addedTs": 1786647022,
-    "urlHash": "f63f24af1e73",
-    "titleHash": "66d7de3a8eba"
-  },
-  {
-    "title": "Rails Is Built for AI",
-    "titlePt": "Rails foi feito para a era da IA",
-    "url": "https://rubyonrails.org/ai",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O framework Ruby on Rails ganha destaque como uma boa opção para construir aplicações com IA. O texto defende que a simplicidade e convenções do Rails combinam bem com integração de modelos generativos. A comunidade Rails discute o renascimento do framework.",
-    "reasonEn": "The Ruby on Rails framework gains prominence as a good option for building AI applications. The text argues that Rails simplicity and conventions combine nicely with generative model integration. The Rails community discusses the framework's rebirth.",
-    "score": 0.5,
-    "tags": [
-      "rails",
-      "framework"
-    ],
-    "img": "img/0c6dd188cbdc.jpg",
-    "ts": 1786640964,
-    "addedTs": 1786647022,
-    "urlHash": "0c6dd188cbdc",
-    "titleHash": "f613e42ba65e"
-  },
-  {
-    "title": "I looked inside an AI generated movie, and the best parts were all human",
-    "titlePt": "Mergulho em filme feito por IA: as melhores partes ainda são humanas",
-    "url": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "A revista The Verge analisou por dentro um filme gerado por inteligência artificial e descobriu que os trechos mais marcantes ainda foram escritos ou interpretados por humanos. O experimento levanta dúvidas sobre até onde a IA consegue substituir a criatividade humana em narrativas cinematográficas. Cineastas, roteiristas e consumidores de streaming devem prestar atenção nessa fronteira entre produção automática e autoria humana. A conclusão sugere que a IA hoje ainda funciona melhor como ferramenta de apoio do que como criadora solo.",
-    "reasonEn": "The Verge looked inside an AI-generated movie and found that the best parts were still written or performed by humans. The experiment raises doubts about how far AI can replace human creativity in cinematic storytelling. Filmmakers, screenwriters, and streaming consumers should pay attention to this boundary between automated production and human authorship. The conclusion suggests that AI today still works better as a support tool than as a solo creator.",
-    "score": 0.55,
-    "tags": [
-      "ia-criativa",
-      "cinema",
-      "cultura"
-    ],
-    "img": "img/e5256eb51dce.jpg",
-    "ts": 1786635716,
-    "addedTs": 1786647022,
-    "urlHash": "e5256eb51dce",
-    "titleHash": "d4c3af5846f5"
-  },
-  {
-    "title": "The builder’s guide to GPT‑5.6",
-    "titlePt": "Guia do desenvolvedor para o GPT-5.6",
-    "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A OpenAI publicou um guia voltado para construtores e desenvolvedores que querem aproveitar o GPT-5.6 em seus produtos. O material reúne boas práticas, padrões de uso e dicas para tirar o máximo proveito do novo modelo. É leitura recomendada para engenheiros que estão integrando IA em aplicações reais. O guia reforça o posicionamento da OpenAI em tornar o modelo mais acessível a times técnicos.",
-    "reasonEn": "OpenAI published a guide aimed at builders and developers who want to leverage GPT-5.6 in their products. The material gathers best practices, usage patterns, and tips to get the most out of the new model. It is recommended reading for engineers integrating AI into real applications. The guide reinforces OpenAI's positioning of making the model more accessible to technical teams.",
-    "score": 0.6,
-    "tags": [
-      "openai",
-      "gpt-5",
-      "desenvolvimento"
-    ],
-    "img": "img/6f8368ac763b.jpg",
-    "ts": 1786618800,
-    "addedTs": 1786647022,
-    "urlHash": "6f8368ac763b",
-    "titleHash": "a2b1a6dc2df5"
-  },
-  {
-    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-    "titlePt": "Modo ultrarrápido: GPT-5.6 Sol promete ser até 14 vezes mais veloz",
-    "url": "https://openai.com/index/previewing-ultrafast",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A OpenAI apresentou uma prévia do modo ultrarrápido do GPT-5.6 Sol, prometendo velocidades até 14 vezes maiores em tarefas de raciocínio. O ganho de performance pode mudar o tipo de aplicação que se constrói em cima do modelo, abrindo espaço para interações em tempo real mais ricas. Desenvolvedores e empresas que dependem de baixa latência devem testar a novidade. A corrida por velocidade segue como diferencial competitivo entre modelos de IA.",
-    "reasonEn": "OpenAI previewed an ultrafast mode for GPT-5.6 Sol, promising up to 14 times faster speeds for reasoning tasks. The performance boost could change the kind of applications built on top of the model, opening room for richer real-time interactions. Developers and companies that depend on low latency should test the new feature. The race for speed remains a competitive differentiator among AI models.",
-    "score": 0.7,
-    "tags": [
-      "openai",
-      "gpt-5",
-      "performance"
-    ],
-    "img": "img/c0986f6628d1.jpg",
-    "ts": 1786615200,
-    "addedTs": 1786647022,
-    "urlHash": "c0986f6628d1",
-    "titleHash": "91f7968f497a"
-  },
-  {
-    "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-    "titlePt": "OpenAI nomeia Dali Rajic como Chief Revenue Officer",
-    "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A OpenAI confirmou a contratação de Dali Rajic como seu novo Chief Revenue Officer. A chegada acontece em um momento de reorganização da liderança executiva da empresa e de forte pressão por crescimento de receita enterprise. Rajic assume a responsabilidade por liderar as vendas globais e expandir a base de clientes corporativos. A movimentação mostra que a OpenAI quer profissionalizar sua máquina comercial para enfrentar a crescente concorrência.",
-    "reasonEn": "OpenAI confirmed the hiring of Dali Rajic as its new Chief Revenue Officer. The arrival happens during a period of executive leadership reshuffling at the company and strong pressure for enterprise revenue growth. Rajic takes responsibility for leading global sales and expanding the corporate customer base. The move shows OpenAI wants to professionalize its commercial machine to face growing competition.",
-    "score": 0.65,
-    "tags": [
-      "openai",
-      "executivo",
-      "negócios"
-    ],
-    "img": "img/6eaab463a55d.jpg",
-    "ts": 1786611600,
-    "addedTs": 1786647022,
-    "urlHash": "6eaab463a55d",
-    "titleHash": "4d4ef6879ae3"
-  },
-  {
-    "title": "Amazon loses US court ban on Perplexity's AI shopping tools",
-    "titlePt": "Amazon perde na Justiça e não consegue banir ferramentas de compra com IA da Perplexity",
-    "url": "https://www.reuters.com/business/retail-consumer/amazon-loses-us-court-ban-perplexitys-ai-shopping-tools-2026-08-04/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Uma corte dos EUA derrubou o pedido da Amazon para proibir as ferramentas de compras com IA da Perplexity. A decisão é importante porque define limites entre plataformas de comércio eletrônico e agentes de IA. Afeta qualquer empresa que use IA para intermediar compras. É um precedente relevante para o futuro do comércio automatizado.",
-    "reasonEn": "A US court denied Amazon's request to ban Perplexity's AI shopping tools. The ruling matters because it sets limits between e-commerce platforms and AI agents. It affects any business using AI to mediate purchases. It is a meaningful precedent for the future of automated commerce.",
-    "score": 0.75,
-    "tags": [
-      "regulação",
-      "perplexity",
-      "amazon"
-    ],
-    "img": "img/5230297b100c.jpg",
-    "ts": 1786638748,
-    "addedTs": 1786639539,
-    "urlHash": "5230297b100c",
-    "titleHash": "7b9ec3e4edaf"
-  },
-  {
-    "title": "Perplexity blocks Time's ads served to AI agents, calling them 'deceptive'",
-    "titlePt": "Perplexity bloqueia anúncios da Time para agentes de IA e chama de 'enganoso'",
-    "url": "https://digiday.com/media/perplexity-blocks-times-ads-served-to-ai-agents-calling-them-deceptive/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Perplexity começou a bloquear anúncios veiculados por agentes de IA ao acessar conteúdo da revista Time, classificando a prática como enganosa. A decisão mostra a tensão crescente entre editores, anunciantes e operadores de agentes. Afeta diretamente o futuro da monetização de conteúdo consumido por IA. É parte do debate maior sobre comércio agêntico.",
-    "reasonEn": "Perplexity has started blocking ads served to AI agents accessing Time magazine content, calling the practice deceptive. The decision highlights the growing tension between publishers, advertisers and agent operators. It directly impacts the future of monetizing content consumed by AI. It is part of the larger debate on agentic commerce.",
-    "score": 0.65,
-    "tags": [
-      "perplexity",
-      "anúncios",
-      "agentes"
-    ],
-    "img": "img/f38246191f5d.jpg",
-    "ts": 1786637814,
-    "addedTs": 1786639539,
-    "urlHash": "f38246191f5d",
-    "titleHash": "2760acb65cd8"
-  },
-  {
-    "title": "Employees are replacing themselves with AI faster than management does it",
-    "titlePt": "Funcionários estão se substituindo por IA mais rápido que a gestão",
-    "url": "https://www.geekbeard.dev/p/nobody-pays-100k-for-curation",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um estudo mostra que colaboradores estão adotando IA para aumentar produtividade e, em alguns casos, substituir suas próprias funções antes que a gestão formalize o corte de postos. O fenômeno aponta para uma mudança estrutural no mercado de trabalho. Gestores e profissionais precisam repensar competências e modelos de gestão. É uma tendência que afeta diretamente carreiras em tecnologia.",
-    "reasonEn": "A study shows that employees are adopting AI to boost productivity and, in some cases, replacing their own roles before management formalizes job cuts. The phenomenon points to a structural shift in the labor market. Managers and professionals need to rethink skills and management models. It is a trend that directly affects tech careers.",
-    "score": 0.7,
-    "tags": [
-      "trabalho",
-      "automação"
-    ],
-    "img": "img/bcfeb5fe9cc4.jpg",
-    "ts": 1786637056,
-    "addedTs": 1786639539,
-    "urlHash": "bcfeb5fe9cc4",
-    "titleHash": "32200d40494b"
   }
 ]
