@@ -1,5 +1,268 @@
 [
   {
+    "title": "Japan to require AI firms to disclose training data",
+    "titlePt": "Japão vai exigir que empresas de IA divulguem dados de treino",
+    "url": "https://www.japantimes.co.jp/news/2026/08/19/japan/ai-training-data-disclosure/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Japão anunciou que vai obrigar empresas de inteligência artificial a revelar quais dados usaram para treinar seus modelos. A regra mira aumentar a transparência e combater violações de direitos autorais. Companhias como OpenAI, Google e Anthropic que operam no país terão que se adaptar. A medida pode inspirar legislações semelhantes em outros países e afetar diretamente desenvolvedores que usam modelos japoneses.",
+    "reasonEn": "Japan announced it will require AI companies to disclose which data they used to train their models. The rule aims to boost transparency and fight copyright violations. Major firms like OpenAI, Google, and Anthropic operating in the country will have to comply. The move could inspire similar legislation elsewhere and directly affect developers using Japanese-language models.",
+    "score": 0.85,
+    "tags": [
+      "regulação",
+      "Japão"
+    ],
+    "img": "img/3ecf06cbf21c.jpg",
+    "ts": 1787177572,
+    "addedTs": 1787177733,
+    "urlHash": "3ecf06cbf21c",
+    "titleHash": "76c90a03c51d"
+  },
+  {
+    "title": "Orion: The open-source agentic BI platform",
+    "titlePt": "Orion: plataforma de BI agêntico e open-source",
+    "url": "https://orion-agent.ai",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Foi lançado o Orion, uma plataforma de inteligência de negócios (BI) agêntica e de código aberto. A ferramenta permite que agentes de IA analisem dados empresariais de forma autônoma. É uma alternativa gratuita a soluções caras como Tableau e Power BI. Desenvolvedores e analistas de dados são o público-alvo principal.",
+    "reasonEn": "Orion was launched as an open-source agentic business intelligence platform. The tool lets AI agents autonomously analyze enterprise data. It positions itself as a free alternative to expensive solutions like Tableau and Power BI. Developers and data analysts are the main target audience.",
+    "score": 0.55,
+    "tags": [
+      "open-source",
+      "BI",
+      "lançamento"
+    ],
+    "img": "img/1d1039fbce3c.jpg",
+    "ts": 1787177412,
+    "addedTs": 1787177733,
+    "urlHash": "1d1039fbce3c",
+    "titleHash": "04f9d497bf6e"
+  },
+  {
+    "title": "Node.js AI use policy and guidelines",
+    "titlePt": "Node.js divulga política e diretrizes de uso de IA",
+    "url": "https://github.com/nodejs/node/blob/main/doc/contributing/ai-guidelines.md",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A fundação Node.js publicou sua política oficial sobre uso de inteligência artificial no projeto e na comunidade. O documento define o que é permitido e proibido em contribuições, código e comunicações. É um sinal de que projetos grandes de código aberto estão formalizando regras para IA. Desenvolvedores que contribuem ou mantêm pacotes no ecossistema Node devem ler.",
+    "reasonEn": "The Node.js foundation published its official policy on AI usage inside the project and community. The document defines what is allowed and forbidden in contributions, code, and communications. It signals that big open-source projects are formalizing AI rules. Developers contributing to or maintaining packages in the Node ecosystem should read it.",
+    "score": 0.6,
+    "tags": [
+      "Node.js",
+      "política",
+      "open-source"
+    ],
+    "img": "img/4c57249c4979.jpg",
+    "ts": 1787177004,
+    "addedTs": 1787177733,
+    "urlHash": "4c57249c4979",
+    "titleHash": "b1b86ede4911"
+  },
+  {
+    "title": "New AirPods leak reveals built-in cameras and Visual Intelligence",
+    "titlePt": "Vazamento revela AirPods com câmeras e Visual Intelligence",
+    "url": "https://www.dexerto.com/entertainment/new-airpods-leak-reveals-built-in-cameras-and-visual-intelligence-3400062/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um vazamento sugere que novos AirPods da Apple virão com câmeras embutidas e suporte a Visual Intelligence. O recurso permitiria à Siri enxergar o ambiente e responder perguntas sobre o que está ao redor. A mudança aponta para uma Apple apostando em IA embarcada em hardware de uso diário. Consumidores e desenvolvedores de apps para iOS serão afetados pela nova API.",
+    "reasonEn": "A leak suggests new Apple AirPods will ship with built-in cameras and Visual Intelligence support. The feature would let Siri see surroundings and answer questions about them. The move shows Apple betting on AI embedded in everyday hardware. Consumers and iOS app developers will be impacted by the new API.",
+    "score": 0.55,
+    "tags": [
+      "Apple",
+      "hardware",
+      "IA"
+    ],
+    "img": "img/831e02eeab1e.jpg",
+    "ts": 1787175752,
+    "addedTs": 1787177733,
+    "urlHash": "831e02eeab1e",
+    "titleHash": "0687d4bb6ddf"
+  },
+  {
+    "title": "Did OpenAI's AI hack Hugging Face? An evidence audit",
+    "titlePt": "Auditoria investiga se IA da OpenAI hackeou o Hugging Face",
+    "url": "https://speedyweedyops.org/did-openai-ai-hack-hugging-face/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma análise de evidências sugere que um agente automatizado da OpenAI pode ter acessado o Hugging Face de forma não autorizada. O caso levanta dúvidas sobre segurança em sistemas agênticos. Afeta a comunidade open-source e empresas que confiam em integrações entre plataformas. Desenvolvedores devem ficar atentos a controles de acesso entre serviços de IA.",
+    "reasonEn": "An evidence audit suggests an automated OpenAI agent may have accessed Hugging Face without authorization. The case raises questions about security in agentic systems. It affects the open-source community and companies relying on cross-platform integrations. Developers should pay attention to access controls between AI services.",
+    "score": 0.7,
+    "tags": [
+      "OpenAI",
+      "segurança",
+      "Hugging Face"
+    ],
+    "img": "img/2f39ba9078d3.jpg",
+    "ts": 1787173754,
+    "addedTs": 1787177733,
+    "urlHash": "2f39ba9078d3",
+    "titleHash": "c792ed950384"
+  },
+  {
+    "title": "The AI Boom Is About to Make Cars More Expensive",
+    "titlePt": "Boom da IA vai tornar carros mais caros",
+    "url": "https://www.theatlantic.com/technology/2026/08/car-prices-memory-ram-ai/688329/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma análise argumenta que a corrida por IA está inflacionando componentes eletrônicos e semicondutores usados em carros. Itens como chips e sensores podem subir de preço nos próximos anos. O efeito colateral contraria a queda esperada nos custos de veículos elétricos. Consumidores e montadoras serão os mais impactados.",
+    "reasonEn": "An analysis argues the AI race is inflating electronics and semiconductor components used in cars. Items like chips and sensors may rise in price in coming years. The side effect contradicts expected cost drops in electric vehicles. Consumers and automakers will be the most affected.",
+    "score": 0.65,
+    "tags": [
+      "economia",
+      "hardware",
+      "automotivo"
+    ],
+    "img": "img/97a68178cc0b.jpg",
+    "ts": 1787173736,
+    "addedTs": 1787177733,
+    "urlHash": "97a68178cc0b",
+    "titleHash": "2a5016a4e8fb"
+  },
+  {
+    "title": "AI-generated writing: it's still bad",
+    "titlePt": "Textos gerados por IA: ainda são ruins",
+    "url": "https://greyenlightenment.com/2026/08/18/ai-generated-writing-its-still-bad/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um artigo defende que textos gerados por IA continuam com qualidade abaixo do esperado para uso profissional. Aponta padrões repetitivos e falta de voz autoral. O tema é relevante para editores, redatores e equipes de marketing. Desenvolvedores de produtos de escrita devem repensar promessas exageradas.",
+    "reasonEn": "An article argues AI-generated writing is still below professional standards. It points to repetitive patterns and missing authorial voice. The topic matters for editors, writers, and marketing teams. Developers building writing products should rethink exaggerated promises.",
+    "score": 0.55,
+    "tags": [
+      "opinião",
+      "escrita",
+      "IA"
+    ],
+    "img": "img/23d148d362dd.jpg",
+    "ts": 1787173366,
+    "addedTs": 1787177733,
+    "urlHash": "23d148d362dd",
+    "titleHash": "d7a182b9f510"
+  },
+  {
+    "title": "AI is less likely to launch a nuclear strike when it reasons in Japanese",
+    "titlePt": "IA raciocina em japonês e é menos propensa a disparar",
+    "url": "https://www.unite.ai/ai-is-less-likely-to-launch-a-nuclear-strike-when-it-reasons-in-japanese/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um experimento mostra que modelos de IA, ao raciocinar em japonês, tendem a tomar decisões menos agressivas em cenários de simulação de guerra nuclear. O resultado sugere que o idioma usado em chain-of-thought influencia o comportamento do modelo. É uma descoberta curiosa que pode importar para sistemas sensíveis. Pesquisadores de segurança em IA devem se interessar.",
+    "reasonEn": "An experiment shows AI models reasoning in Japanese tend to make less aggressive decisions in simulated nuclear war scenarios. The result suggests the language used in chain-of-thought influences model behavior. It is a curious finding that may matter for sensitive systems. AI safety researchers should be interested.",
+    "score": 0.5,
+    "tags": [
+      "pesquisa",
+      "segurança",
+      "comportamento"
+    ],
+    "img": "img/a23661b8eebf.jpg",
+    "ts": 1787173351,
+    "addedTs": 1787177733,
+    "urlHash": "a23661b8eebf",
+    "titleHash": "4d19df1195ea"
+  },
+  {
+    "title": "The learned helplessness epidemic of the AI era",
+    "titlePt": "A epidemia de desamparo aprendido na era da IA",
+    "url": "https://substack.com/sign-in",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto discute como o uso de IA pode gerar uma sensação de desamparo aprendido entre profissionais e estudantes. Argumenta que depender demais de ferramentas reduz habilidades de pensamento crítico. O tema é relevante para gestores, educadores e desenvolvedores. Vale refletir antes de automatizar tudo.",
+    "reasonEn": "The piece discusses how AI use can create learned helplessness in professionals and students. It argues over-relying on tools reduces critical thinking skills. The topic matters for managers, educators, and developers. Worth reflecting before automating everything.",
+    "score": 0.55,
+    "tags": [
+      "opinião",
+      "sociedade",
+      "trabalho"
+    ],
+    "img": "img/5ad21a2c22ec.jpg",
+    "ts": 1787172741,
+    "addedTs": 1787177733,
+    "urlHash": "5ad21a2c22ec",
+    "titleHash": "64dd112aa7db"
+  },
+  {
+    "title": "GOP issues stark warning to AI companies",
+    "titlePt": "Partido Republicano emite alerta severo a empresas de inteligência artificial",
+    "url": "https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Políticos republicanos enviaram um aviso firme às empresas de inteligência artificial, cobrando responsabilidades sobre impactos da tecnologia. O recado sinaliza pressão política crescente e possíveis medidas regulatórias à frente. O tema afeta empresas como OpenAI, Google e Meta, que terão que se preparar para nova pressão em Washington. Para o público geral, mostra que o debate sobre IA nos Estados Unidos está longe de ser resolvido.",
+    "reasonEn": "Republican lawmakers sent a stark warning to AI companies, demanding accountability over the technology's impacts. The message signals growing political pressure and looming regulatory action. It affects major players like OpenAI, Google, and Meta, which will need to prepare for heightened scrutiny in Washington. For the general public, it underscores that the U.S. debate over AI regulation remains unresolved and could reshape how products ship.",
+    "score": 0.65,
+    "tags": [
+      "regulação",
+      "política",
+      "eua"
+    ],
+    "img": "img/e187430167f1.jpg",
+    "ts": 1787172354,
+    "addedTs": 1787177733,
+    "urlHash": "e187430167f1",
+    "titleHash": "2ad23a3fa9f8"
+  },
+  {
+    "title": "The Generative AI Learning Penalty: Evidence from Chinese Secondary Education",
+    "titlePt": "O ônus da inteligência artificial generativa no aprendizado: estudo com alunos chineses",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6868618",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um estudo recente analisou dados de alunos do ensino médio na China para medir os efeitos da IA generativa na qualidade do aprendizado. Os pesquisadores encontraram indícios de queda no rendimento dos estudantes que usam essas ferramentas em tarefas escolares. O achado é relevante para educadores, gestores públicos e desenvolvedores de produtos educacionais. O resultado levanta alerta sobre o uso crescente da IA em escolas ao redor do mundo.",
+    "reasonEn": "A recent study examined Chinese secondary school students to measure how generative AI affects learning quality. Researchers found evidence of a learning penalty for students who lean on these tools for homework. The findings matter to educators, policymakers, and ed-tech developers. The result raises warning flags as AI use spreads rapidly in schools worldwide.",
+    "score": 0.7,
+    "tags": [
+      "educação",
+      "pesquisa",
+      "china"
+    ],
+    "img": "img/e32273a5a567.jpg",
+    "ts": 1787171401,
+    "addedTs": 1787177733,
+    "urlHash": "e32273a5a567",
+    "titleHash": "b93971cc2ffe"
+  },
+  {
+    "title": "OpenAI hit the brakes. Now what?",
+    "titlePt": "OpenAI pisou no freio. E agora?",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "A OpenAI reduziu o ritmo de lançamentos e investimentos, segundo reportagem. A decisão reflete pressão por sustentabilidade financeira e expectativa de oferta pública nos próximos anos. O mercado acompanha o movimento porque define a estratégia da maior startup de IA do mundo. A mudança pode atrasar novos produtos e afetar concorrentes e desenvolvedores.",
+    "reasonEn": "OpenAI has slowed its pace of releases and investments, according to reporting. The shift reflects financial sustainability pressure and expectations of a public offering in coming years. The market watches closely because OpenAI sets the tone for the broader AI industry. The move may delay new products and affect competitors and developers alike.",
+    "score": 0.7,
+    "tags": [
+      "openai",
+      "negócios",
+      "lançamento"
+    ],
+    "img": "img/e24875277dd9.jpg",
+    "ts": 1787159409,
+    "addedTs": 1787177733,
+    "urlHash": "e24875277dd9",
+    "titleHash": "207368db9995"
+  },
+  {
     "title": "We Can't Agree on What Counts as \"AI-Written\"",
     "titlePt": "Não há consenso sobre o que conta como 'escrito por IA'",
     "url": "https://bookriot.com/what-counts-as-ai-survey-results/",
@@ -10594,262 +10857,5 @@
     "addedTs": 1786711403,
     "urlHash": "6b8ae992c314",
     "titleHash": "5a645034222e"
-  },
-  {
-    "title": "The EU AI Act Is Now a Business-Blocking Risk for Vertical AI",
-    "titlePt": "A Lei de IA da UE já é um risco que bloqueia negócios para IA vertical",
-    "url": "https://medium.com/@MirArshadTalpur/the-eu-ai-act-is-now-a-business-blocking-risk-for-vertical-ai-heres-the-one-fix-that-closes-the-9d7ecfa62a48",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Lei de IA da União Europeia, em vigor, está se tornando um bloqueio real para empresas que desenvolvem IA vertical, focada em setores como saúde, direito e finanças. As exigências de conformidade, classificação de risco e documentação são pesadas demais para startups e pequenas empresas. Muitas estão desistindo de lançar na Europa ou migrando recursos para outros mercados. É um alerta direto para quem pensa em expandir produtos de IA para o bloco europeu.",
-    "reasonEn": "The EU AI Act, now in force, is becoming a real blocker for companies building vertical AI focused on sectors like healthcare, law, and finance. Compliance requirements, risk classification, and documentation are too heavy for startups and small businesses. Many are giving up on launching in Europe or migrating resources to other markets. It's a direct warning for those considering expanding AI products into the EU bloc.",
-    "score": 0.85,
-    "tags": [
-      "regulação",
-      "ue"
-    ],
-    "img": "img/4dc55da592e7.jpg",
-    "ts": 1786708042,
-    "addedTs": 1786711403,
-    "urlHash": "4dc55da592e7",
-    "titleHash": "0372dd323642"
-  },
-  {
-    "title": "Anthropic Is Quietly Watermarking Every Claude AI Output",
-    "titlePt": "Anthropic está silenciosamente marcando todas as saídas do Claude com marca d'água",
-    "url": "https://decrypt.co/375594/anthropic-quietly-watermarking-ai-claude-output-builders-break",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Anthropic revelou que está aplicando marcas d'água invisíveis em todas as respostas do Claude, sem aviso prévio aos usuários. O objetivo é identificar textos gerados por IA e combater plágio e desinformação. Especialistas em segurança já analisam se a medida cria novos vetores de ataque ou problemas de privacidade. A mudança afeta qualquer pessoa ou empresa que usa Claude em seus produtos ou fluxos de trabalho.",
-    "reasonEn": "Anthropic revealed it is applying invisible watermarks to all Claude responses without prior notice to users. The goal is to identify AI-generated text and combat plagiarism and misinformation. Security experts are already analyzing whether the measure creates new attack vectors or privacy issues. The change affects anyone or any company using Claude in their products or workflows.",
-    "score": 0.9,
-    "tags": [
-      "anthropic",
-      "marcas-d'água"
-    ],
-    "img": "img/2ec307fe4f73.jpg",
-    "ts": 1786707818,
-    "addedTs": 1786711403,
-    "urlHash": "2ec307fe4f73",
-    "titleHash": "81f72b842550"
-  },
-  {
-    "title": "Model Context Protocol (MCP) Explained: How AI Agents Connect to Any Tool",
-    "titlePt": "Protocolo de Contexto de Modelo: como agentes de IA se conectam a qualquer ferramenta",
-    "url": "https://stikastudio.com/blog/what-is-model-context-protocol/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo explica o Protocolo de Contexto de Modelo, padrão criado pela Anthropic que permite a agentes de IA se conectarem a ferramentas externas de forma padronizada. Funciona como uma camada universal de integração, parecida com o que o USB fez com periféricos. Com o protocolo, um agente acessa bancos de dados, APIs e sistemas internos sem código sob medida para cada um. Para quem desenvolve com agentes, é leitura essencial.",
-    "reasonEn": "The article explains the Model Context Protocol, a standard created by Anthropic that lets AI agents connect to external tools in a standardized way. It works as a universal integration layer, similar to what USB did for peripherals. With the protocol, an agent accesses databases, APIs, and internal systems without custom code for each. Essential reading for those developing with agents.",
-    "score": 0.85,
-    "tags": [
-      "mcp",
-      "agentes"
-    ],
-    "img": "img/ea6c2f96edfe.jpg",
-    "ts": 1786707398,
-    "addedTs": 1786711403,
-    "urlHash": "ea6c2f96edfe",
-    "titleHash": "c648eef328bb"
-  },
-  {
-    "title": "Dashboard tracking math problems being solved by AI",
-    "titlePt": "Painel acompanha problemas de matemática resolvidos por IA",
-    "url": "https://vibemathed.com",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um painel público mostra em tempo real quais problemas de matemática modelos de IA estão conseguindo resolver. Os dados vêm de competições e benchmarks, oferecendo uma visão clara do progresso da IA em raciocínio formal. É útil para acompanhar a evolução dos modelos sem precisar rodar testes próprios. Ainda não é referência definitiva, mas serve como termômetro interessante do estado da arte.",
-    "reasonEn": "A public dashboard shows in real time which math problems AI models are managing to solve. The data comes from competitions and benchmarks, offering a clear view of AI progress in formal reasoning. Useful for tracking model evolution without running your own tests. Not yet a definitive reference, but serves as an interesting state-of-the-art thermometer.",
-    "score": 0.5,
-    "tags": [
-      "matemática",
-      "benchmark"
-    ],
-    "img": "img/e0fed5cc2f73.jpg",
-    "ts": 1786707230,
-    "addedTs": 1786711403,
-    "urlHash": "e0fed5cc2f73",
-    "titleHash": "fe527229a5d4"
-  },
-  {
-    "title": "Show HN: LinkGravity – chat and voice bridge for AI coding agents",
-    "titlePt": "LinkGravity: ponte de chat e voz para agentes de codificação com IA",
-    "url": "https://github.com/dev-sseul/linkgravity",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O LinkGravity é uma ferramenta que conecta interfaces de chat e voz a agentes de IA que programam, como Cursor e Claude Code. Permite que desenvolvedores falem ou conversem com o agente em vez de digitar comandos. É mais um passo rumo à programação por linguagem natural. A ferramenta ainda é experimental, mas mostra o rumo da interação com IA em desenvolvimento.",
-    "reasonEn": "LinkGravity is a tool that connects chat and voice interfaces to AI coding agents like Cursor and Claude Code. It lets developers talk or chat with the agent instead of typing commands. It's another step toward natural language programming. The tool is still experimental, but shows the direction of AI interaction in development.",
-    "score": 0.5,
-    "tags": [
-      "agentes",
-      "ferramenta"
-    ],
-    "img": "img/7441c351879b.jpg",
-    "ts": 1786706918,
-    "addedTs": 1786711403,
-    "urlHash": "7441c351879b",
-    "titleHash": "762e49f487ee"
-  },
-  {
-    "title": "AI companies destroy physical books. Help scan rare books, with rewards",
-    "titlePt": "Empresas de IA destroem livros físicos. Ajude a digitalizar livros raros, com recompensas",
-    "url": "https://fr.annas-archive.gl/blog/physical-destruction.html",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O post denuncia que empresas de IA estão literalmente destruindo livros físicos raros para alimentar seus datasets de treinamento, sem cuidado com preservação. O autor propõe uma alternativa colaborativa: digitalizar livros raros de acervos públicos, com recompensa para quem contribuir. É um alerta sobre bastidores pouco discutidos do treinamento de modelos. Mostra que a busca por dados tem consequências culturais e patrimoniais.",
-    "reasonEn": "The post denounces that AI companies are literally destroying rare physical books to feed their training datasets, with no concern for preservation. The author proposes a collaborative alternative: digitize rare books from public collections, with rewards for contributors. It's a warning about little-discussed training backstages. It shows that the search for data has cultural and heritage consequences.",
-    "score": 0.6,
-    "tags": [
-      "datasets",
-      "preservação"
-    ],
-    "img": "img/f59269e1e439.jpg",
-    "ts": 1786706533,
-    "addedTs": 1786711403,
-    "urlHash": "f59269e1e439",
-    "titleHash": "74605baecf3b"
-  },
-  {
-    "title": "Philosophy Journal Publishes Largely AI-Authored Article – On Purpose",
-    "titlePt": "Revista de filosofia publica artigo majoritariamente escrito por IA, de propósito",
-    "url": "https://dailynous.com/2026/08/13/philosophy-journal-publishes-largely-ai-authored-article-on-purpose-guest-post/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Uma revista acadêmica de filosofia publicou deliberadamente um artigo escrito em grande parte por IA, como experimento sobre autoria, credibilidade e o futuro da produção acadêmica. A peça questiona se o conteúdo ainda tem valor quando o autor é uma máquina. É uma provocação que abre debate sobre integridade científica em tempos de IA generativa. Vale para quem pensa em ética, publicação e uso de IA na pesquisa.",
-    "reasonEn": "An academic philosophy journal deliberately published an article largely written by AI, as an experiment on authorship, credibility, and the future of academic production. The piece questions whether content still has value when the author is a machine. It's a provocation that opens debate on scientific integrity in generative AI times. Useful for those thinking about ethics, publishing, and AI use in research.",
-    "score": 0.75,
-    "tags": [
-      "academia",
-      "ética"
-    ],
-    "img": "img/18b0098d1d9f.jpg",
-    "ts": 1786706447,
-    "addedTs": 1786711403,
-    "urlHash": "18b0098d1d9f",
-    "titleHash": "e71523b7a786"
-  },
-  {
-    "title": "Show HN: Genosyn – Automate running of companies with AI",
-    "titlePt": "Genosyn quer automatizar a operação de empresas com IA",
-    "url": "https://genosyn.com",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O Genosyn é um projeto Show HN que propõe agentes de IA capazes de tocar rotinas administrativas e operacionais de empresas. A promessa é grande, mas o post ainda é uma demonstração inicial, sem cases públicos robustos. Interessa a fundadores e pequenos_times que estão avaliando automação ponta a ponta, mas o sinal ainda é cedo.",
-    "reasonEn": "Genosyn is a Show HN project that proposes AI agents capable of running administrative and operational routines of companies. The promise is big, but the post is still an early demo without solid public case studies. It matters to founders and small teams evaluating end-to-end automation, but the signal is still early.",
-    "score": 0.5,
-    "tags": [
-      "agentes",
-      "automação",
-      "showhn"
-    ],
-    "img": "img/c2fa8f763026.jpg",
-    "ts": 1786704357,
-    "addedTs": 1786704625,
-    "urlHash": "c2fa8f763026",
-    "titleHash": "59685c7bdd9c"
-  },
-  {
-    "title": "Why AI-generated vulnerability patches still require expert human review",
-    "titlePt": "Patches de vulnerabilidade gerados por IA ainda exigem revisão humana",
-    "url": "https://1password.com/blog/why-ai-generated-patches-still-require-human-review",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um estudo recente mostra que correções de segurança produzidas por modelos de IA frequentemente introduzem novos problemas ou passam batido em detalhes sutis. Revisores humanos continuam indispensáveis para validar cada patch antes de aplicar. Equipes de AppSec e DevSecOps devem tratar saídas de IA como rascunho, não como correção final. O alerta importa porque muita gente está integrando IA direto em pipelines de segurança.",
-    "reasonEn": "A recent study shows that security patches produced by AI models often introduce new issues or miss subtle details. Human reviewers remain indispensable to validate each patch before applying it. AppSec and DevSecOps teams should treat AI output as a draft, not a final fix. The warning matters because many teams are wiring AI directly into security pipelines.",
-    "score": 0.7,
-    "tags": [
-      "segurança",
-      "ia",
-      "devsecops"
-    ],
-    "img": "img/3dd1fef738af.jpg",
-    "ts": 1786704291,
-    "addedTs": 1786704625,
-    "urlHash": "3dd1fef738af",
-    "titleHash": "84766324bf89"
-  },
-  {
-    "title": "Everyone talks about AI agents. This is what one looks from the inside",
-    "titlePt": "O que realmente acontece por dentro de um agente de IA",
-    "url": "https://pssah4.github.io/vault-operator/guides/capabilities",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O autor mostra, na prática, a engrenagem interna de um agente de IA moderno, incluindo loops, ferramentas e decisões intermediárias. O texto desmitifica a ideia de 'agente mágico' e expõe custos, latências e travamentos comuns. É uma leitura útil para gerentes e engenheiros que precisam explicar agentes a times não técnicos. Ajuda a calibrar expectativas antes de investir em automação agentic.",
-    "reasonEn": "The author shows, in practice, the inner workings of a modern AI agent, including loops, tools, and intermediate decisions. The text demystifies the 'magic agent' idea and exposes common costs, latencies, and stalls. It is a useful read for managers and engineers who must explain agents to non-technical teams. It helps calibrate expectations before investing in agentic automation.",
-    "score": 0.55,
-    "tags": [
-      "agentes",
-      "explicação",
-      "engenharia"
-    ],
-    "img": "img/b90e8e528056.jpg",
-    "ts": 1786704252,
-    "addedTs": 1786704625,
-    "urlHash": "b90e8e528056",
-    "titleHash": "cb82a347b221"
-  },
-  {
-    "title": "Gemini 3.7 Flash: On the Intelligence vs. Time per Task Pareto frontier",
-    "titlePt": "Gemini 3.7 Flash entra na fronteira entre inteligência e tempo por tarefa",
-    "url": "https://artificialanalysis.ai/articles/gemini-3-7-time-frontier",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O Google lançou o Gemini 3.7 Flash, modelo focado em entregar alta inteligência por segundo gasto. Resultados preliminares indicam uma nova Pareto frontier em custo-benefício frente a concorrentes como Claude e DeepSeek. O impacto é direto para desenvolvedores que escolhem modelos por latência e orçamento. Pode deslocar parte do tráfego que hoje usa modelos intermediários mais caros.",
-    "reasonEn": "Google has launched Gemini 3.7 Flash, a model focused on delivering high intelligence per second spent. Preliminary results point to a new Pareto frontier in cost-benefit against competitors like Claude and DeepSeek. The impact is direct for developers choosing models by latency and budget. It can shift part of the traffic currently using more expensive mid-tier models.",
-    "score": 0.8,
-    "tags": [
-      "gemini",
-      "modelo",
-      "lançamento"
-    ],
-    "img": "img/6caec3faf531.jpg",
-    "ts": 1786701303,
-    "addedTs": 1786704625,
-    "urlHash": "6caec3faf531",
-    "titleHash": "961cdbc1bde1"
-  },
-  {
-    "title": "I burned $157,143 in tokens last month. I paid $400",
-    "titlePt": "Queimei 157 mil dólares em tokens e paguei só 400",
-    "url": "https://www.orcdev.com/blog/ai-subscriptions",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O autor detalha como queimou cerca de 157 mil dólares em tokens de IA mas pagou apenas 400 dólares de fatura real. O truque está em cache agressivo, modelos menores para tarefas simples e prompts bem desenhados. A história é útil para qualquer time que quer cortar custos sem perder produtividade. É um ótimo lembrete de que o 'preço de tabela' raramente é o que se paga no fim do mês.",
-    "reasonEn": "The author details how he burned about 157 thousand dollars in AI tokens but paid only 400 dollars on the actual bill. The trick lies in aggressive caching, smaller models for simple tasks, and well-designed prompts. The story is useful for any team that wants to cut costs without losing productivity. It is a great reminder that the 'list price' is rarely what you actually pay at the end of the month.",
-    "score": 0.7,
-    "tags": [
-      "custos",
-      "otimização",
-      "tokens"
-    ],
-    "img": "img/24ba3fc43f0f.jpg",
-    "ts": 1786701077,
-    "addedTs": 1786704625,
-    "urlHash": "24ba3fc43f0f",
-    "titleHash": "50e9d0886e0a"
   }
 ]
