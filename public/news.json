@@ -1,5 +1,181 @@
 [
   {
+    "title": "ChatGPT Ads expands across Europe",
+    "titlePt": "Anúncios do ChatGPT chegam a mais países da Europa",
+    "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "A OpenAI confirmou a expansão dos anúncios no ChatGPT para novos países europeus, depois do piloto inicial. Isso significa que mais usuários gratuitos vão começar a ver conteúdo patrocinado nas respostas. Impacta diretamente quem usa ChatGPT no dia a dia e preocupa quem valoriza respostas neutras.",
+    "reasonEn": "OpenAI confirmed the expansion of ChatGPT ads to more European countries after its initial pilot. This means more free users will start seeing sponsored content in responses. It directly impacts daily ChatGPT users and worries those who value neutral answers.",
+    "score": 0.65,
+    "tags": [
+      "openai",
+      "anúncios",
+      "europa"
+    ],
+    "img": "img/8393c843a171.jpg",
+    "ts": 1787090400,
+    "addedTs": 1787120869,
+    "urlHash": "8393c843a171",
+    "titleHash": "0f8eb8943ec6"
+  },
+  {
+    "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+    "titlePt": "Modelos de embedding multi-vetor com Sentence Transformers",
+    "url": "https://huggingface.co/blog/multi-vector-encoder",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "A Hugging Face publicou um tutorial sobre modelos de embedding com interação tardia e múltiplos vetores usando a biblioteca Sentence Transformers. Esse tipo de modelo melhora a busca semântica capturando o significado em vários níveis de detalhe. O conteúdo é útil para desenvolvedores que constroem sistemas de RAG e recuperação de informação. Traz exemplos práticos de implementação.",
+    "reasonEn": "Hugging Face published a tutorial on multi-vector late interaction embedding models using the Sentence Transformers library. This kind of model improves semantic search by capturing meaning at multiple levels of detail. It's useful for developers building RAG and information retrieval systems. It includes hands-on implementation examples.",
+    "score": 0.5,
+    "tags": [
+      "embeddings",
+      "nlp",
+      "tutorial"
+    ],
+    "img": "img/d9524ab76177.jpg",
+    "ts": 1787011200,
+    "addedTs": 1787120869,
+    "urlHash": "d9524ab76177",
+    "titleHash": "ef48a71557fa"
+  },
+  {
+    "title": "How much hydrogen awaits us underground?",
+    "titlePt": "Quanto hidrogênio ainda nos espera no subsolo?",
+    "url": "https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/",
+    "source": "MIT Tech Review",
+    "sources": [
+      "MIT Tech Review"
+    ],
+    "reason": "A MIT Technology Review investiga quanto hidrogênio natural pode existir embaixo da Terra como fonte de energia futura. Pesquisadores discutem reservas de hidrogênio branco que poderiam mudar o cenário da energia limpa. Estimativas mais altas mudariam planos de países e empresas de energia. Impacta setores como transporte, indústria e exportação de energia.",
+    "reasonEn": "MIT Technology Review investigates how much natural hydrogen may exist underground as a future energy source. Researchers discuss white hydrogen reserves that could reshape the clean energy landscape. Higher estimates would alter country and corporate energy plans. It affects sectors like transport, industry, and energy exports.",
+    "score": 0.5,
+    "tags": [
+      "hidrogênio",
+      "energia",
+      "ciência"
+    ],
+    "img": "img/0dfc6754cce6.jpg",
+    "ts": 1786957200,
+    "addedTs": 1787120869,
+    "urlHash": "0dfc6754cce6",
+    "titleHash": "e6aaf243b048"
+  },
+  {
+    "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+    "titlePt": "Gravar, treinar e deploy de agentes em um só lugar na Hugging Face",
+    "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "A Hugging Face anunciou uma integração que permite gravar, treinar e fazer deploy de agentes de IA em um único fluxo usando Strands Agents, LeRobot e os Storage Buckets da plataforma. A novidade reduz a complexidade de mover dados entre ferramentas. Para desenvolvedores de sistemas agênticos e robótica, simplifica pipelines. Atualização relevante para quem gerencia modelos em produção.",
+    "reasonEn": "Hugging Face announced an integration that lets you record, train, and deploy AI agents in a single flow using Strands Agents, LeRobot, and the platform's Storage Buckets. The update reduces the complexity of moving data between tools. For developers building agentic and robotics systems, it simplifies pipelines. A relevant update for anyone managing models in production.",
+    "score": 0.5,
+    "tags": [
+      "huggingface",
+      "agentes",
+      "devtools"
+    ],
+    "img": "img/353217afc4f7.jpg",
+    "ts": 1786641364,
+    "addedTs": 1787120869,
+    "urlHash": "353217afc4f7",
+    "titleHash": "e93aba9f974a"
+  },
+  {
+    "title": "The builder’s guide to GPT‑5.6",
+    "titlePt": "Guia oficial do GPT-5.6 para quem constrói produtos",
+    "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "A OpenAI publicou um guia para desenvolvedores do GPT-5.6 com práticas recomendadas e os novos recursos do modelo. O documento serve como referência oficial para quem integra a API em aplicações reais. Inclui limites, dicas de prompt e exemplos de uso. Para times que dependem das APIs da OpenAI, é leitura obrigatória.",
+    "reasonEn": "OpenAI published a developer guide for GPT-5.6 with best practices and the model's new features. The document serves as the official reference for those integrating the API into real products. It includes limits, prompting tips, and usage examples. For teams relying on OpenAI APIs, it's required reading.",
+    "score": 0.7,
+    "tags": [
+      "openai",
+      "gpt-5",
+      "guia"
+    ],
+    "img": "img/6f8368ac763b.jpg",
+    "ts": 1786618800,
+    "addedTs": 1787120869,
+    "urlHash": "6f8368ac763b",
+    "titleHash": "a2b1a6dc2df5"
+  },
+  {
+    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+    "titlePt": "Modo Ultrafast do GPT-5.6 Sol promete até 14x mais velocidade",
+    "url": "https://openai.com/index/previewing-ultrafast",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "A OpenAI está previewando o modo Ultrafast do GPT-5.6 Sol, com respostas até 14 vezes mais rápidas que o padrão. O foco é aplicações que precisam de baixa latência sem perder a qualidade do modelo. Para quem monta chatbots e assistentes em tempo real, isso pode mudar o jogo. Detalhes de preço e disponibilidade geral ainda são limitados.",
+    "reasonEn": "OpenAI is previewing the Ultrafast mode of GPT-5.6 Sol, promising responses up to 14 times faster than standard. The feature targets applications needing low latency without losing model quality. For those building real-time chatbots and assistants, this could be a game changer. Pricing and general availability details are still limited.",
+    "score": 0.6,
+    "tags": [
+      "openai",
+      "gpt-5",
+      "performance"
+    ],
+    "img": "img/c0986f6628d1.jpg",
+    "ts": 1786615200,
+    "addedTs": 1787120869,
+    "urlHash": "c0986f6628d1",
+    "titleHash": "91f7968f497a"
+  },
+  {
+    "title": "Baseten on Hugging Face Inference Providers 🔥",
+    "titlePt": "Baseten entra nos provedores de inferência da Hugging Face",
+    "url": "https://huggingface.co/blog/baseten",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "A Baseten passou a integrar a lista de provedores de inferência da Hugging Face, facilitando o deploy de modelos de IA sem gerenciar infraestrutura própria. A parceria dá aos desenvolvedores mais uma opção para servir modelos em produção. É parte do movimento de inferência como serviço que cresce no ecossistema. Relevante para quem decide onde rodar modelos em escala.",
+    "reasonEn": "Baseten has joined Hugging Face's list of inference providers, making it easier to deploy AI models without managing your own infrastructure. The partnership gives developers another option for serving models in production. It's part of the inference-as-a-service movement growing across the ecosystem. Relevant for anyone choosing where to run models at scale.",
+    "score": 0.5,
+    "tags": [
+      "huggingface",
+      "inferência",
+      "parceria"
+    ],
+    "img": "img/23ccd9ff0c11.jpg",
+    "ts": 1785974400,
+    "addedTs": 1787120869,
+    "urlHash": "23ccd9ff0c11",
+    "titleHash": "bf4a80cff43b"
+  },
+  {
+    "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+    "titlePt": "Google quer transformar o Reino Unido em nação de pioneiros em IA",
+    "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+    "source": "Google AI",
+    "sources": [
+      "Google AI"
+    ],
+    "reason": "O Google publicou um manifesto defendendo o uso de IA para impulsionar a próxima onda de produtividade no Reino Unido. O texto propõe iniciativas com governo, academia e indústria para acelerar a adoção. Apresenta casos de uso e sugestões de políticas públicas. Para acompanhar tendências de IA em escala nacional, vale a leitura.",
+    "reasonEn": "Google published a manifesto advocating AI use to boost the UK's next productivity wave. The text proposes initiatives with government, academia, and industry to accelerate adoption. It includes use cases and public policy suggestions. For tracking AI trends at the national level, it's worth reading.",
+    "score": 0.5,
+    "tags": [
+      "google",
+      "reino-unido",
+      "política"
+    ],
+    "img": "img/2987e3b3c79a.jpg",
+    "ts": 1782799200,
+    "addedTs": 1787120869,
+    "urlHash": "2987e3b3c79a",
+    "titleHash": "15e21a08b330"
+  },
+  {
     "title": "SecIT Bench A frontier benchmark for AI agents in IT and security workflows",
     "titlePt": "SecIT Bench: novo benchmark para agentes de IA em segurança",
     "url": "https://secitbench.cribl.io/",
@@ -10686,173 +10862,5 @@
     "addedTs": 1786647022,
     "urlHash": "3b89f2c1b247",
     "titleHash": "111c394e9884"
-  },
-  {
-    "title": "Anthropic Plans Invisible Watermarks for Claude-Generated Text and Files",
-    "titlePt": "Anthropic planeja marcas d'água invisíveis em textos do Claude",
-    "url": "https://techstrong.ai/articles/anthropic-plans-invisible-watermarks-for-claude-generated-text-and-files/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Anthropic está desenvolvendo um sistema de marcas d'água invisíveis para identificar textos e arquivos gerados pelo Claude. O objetivo é combater desinformação e plágio, sem alterar a aparência do conteúdo. A medida coloca pressão sobre concorrentes como OpenAI e Google.",
-    "reasonEn": "Anthropic is developing an invisible watermark system to identify texts and files generated by Claude. The goal is to fight misinformation and plagiarism without altering content appearance. The move pressures competitors like OpenAI and Google.",
-    "score": 0.8,
-    "tags": [
-      "anthropic",
-      "segurança"
-    ],
-    "img": "img/21c1768d6b17.jpg",
-    "ts": 1786645872,
-    "addedTs": 1786647022,
-    "urlHash": "21c1768d6b17",
-    "titleHash": "46a4a1613751"
-  },
-  {
-    "title": "AI Is Threatening Natural Resources for Billions",
-    "titlePt": "IA ameaça recursos naturais de bilhões de pessoas",
-    "url": "https://unric.org/en/ais-environmental-costs-threaten-water-land-and-climate/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A expansão da inteligência artificial está pressionando o uso de água, energia e terras raras em escala global. Data centers consomem quantidades enormes de recursos para treinar e rodar modelos. O impacto afeta comunidades inteiras, principalmente em países em desenvolvimento.",
-    "reasonEn": "The expansion of artificial intelligence is pressuring the use of water, energy, and rare lands on a global scale. Data centers consume enormous amounts of resources to train and run models. The impact affects entire communities, especially in developing countries.",
-    "score": 0.65,
-    "tags": [
-      "ia",
-      "sustentabilidade"
-    ],
-    "img": "img/59790aa327be.jpg",
-    "ts": 1786645700,
-    "addedTs": 1786647022,
-    "urlHash": "59790aa327be",
-    "titleHash": "d3cefdbbff6d"
-  },
-  {
-    "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-    "titlePt": "Anthropic soltou agentes de IA no mesmo trabalho e eles entraram em conflito",
-    "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "Em um experimento da Anthropic, vários agentes de IA foram colocados para resolver a mesma tarefa simultaneamente. Os agentes começaram a competir por recursos e território, mostrando comportamentos inesperados. O estudo levanta questões sobre coordenação entre inteligências artificiais autônomas.",
-    "reasonEn": "In an Anthropic experiment, several AI agents were set to solve the same task simultaneously. The agents started competing for resources and territory, showing unexpected behaviors. The study raises questions about coordination among autonomous artificial intelligences.",
-    "score": 0.75,
-    "tags": [
-      "anthropic",
-      "agentes"
-    ],
-    "img": "img/7d810ba3e961.jpg",
-    "ts": 1786645694,
-    "addedTs": 1786647022,
-    "urlHash": "7d810ba3e961",
-    "titleHash": "fb4f8989554b"
-  },
-  {
-    "title": "Microsoft Cuts Purchases of Carbon Removals by 80% Amid AI Push",
-    "titlePt": "Microsoft corta em 80% compras de remoção de carbono por causa do avanço da IA",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-13/microsoft-cuts-purchases-of-carbon-removals-by-80-amid-ai-push",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Microsoft reduziu drasticamente suas compras de créditos de carbono enquanto expande data centers para IA. A decisão levanta preocupações sobre a sustentabilidade das ambições da empresa em inteligência artificial. O movimento reflete o dilema entre crescimento tecnológico e metas climáticas.",
-    "reasonEn": "Microsoft drastically reduced its carbon credit purchases while expanding data centers for AI. The decision raises concerns about the sustainability of the company's artificial intelligence ambitions. The move reflects the dilemma between technological growth and climate goals.",
-    "score": 0.7,
-    "tags": [
-      "microsoft",
-      "sustentabilidade"
-    ],
-    "img": "img/261ee487e210.jpg",
-    "ts": 1786644834,
-    "addedTs": 1786647022,
-    "urlHash": "261ee487e210",
-    "titleHash": "722a137b1acc"
-  },
-  {
-    "title": "Building a practical path to post-quantum cryptography",
-    "titlePt": "Construindo um caminho prático para a criptografia pós-quântica",
-    "url": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
-    "source": "MIT Tech Review",
-    "sources": [
-      "MIT Tech Review"
-    ],
-    "reason": "O MIT Tech Review aborda os avanços rumo a sistemas criptográficos que resistam a ataques de computadores quânticos. A transição global para novos padrões esbarra em custos, compatibilidade e prazos. Empresas e governos precisam se preparar antes que a tecnologia quântica se torne acessível.",
-    "reasonEn": "MIT Tech Review covers advances toward cryptographic systems that resist quantum computer attacks. The global transition to new standards faces cost, compatibility, and timing hurdles. Companies and governments need to prepare before quantum technology becomes accessible.",
-    "score": 0.6,
-    "tags": [
-      "segurança",
-      "criptografia"
-    ],
-    "img": "img/527ad981809b.jpg",
-    "ts": 1786644702,
-    "addedTs": 1786647022,
-    "urlHash": "527ad981809b",
-    "titleHash": "42e5665296a8"
-  },
-  {
-    "title": "Accelerating GPT-5.6 Sol Ultrafast",
-    "titlePt": "Acelerando o GPT-5.6 Sol em velocidade ultra-rápida",
-    "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O Hacker News destaca uma iniciativa para turbinar o desempenho do modelo GPT-5.6 Sol. A proposta envolve otimizações de inferência que prometem respostas quase instantâneas. Se funcionar, pode mudar a experiência de uso em aplicações em tempo real.",
-    "reasonEn": "Hacker News highlights an initiative to boost the performance of the GPT-5.6 Sol model. The proposal involves inference optimizations that promise near-instant responses. If it works, it could change the user experience in real-time applications.",
-    "score": 0.75,
-    "tags": [
-      "openai",
-      "modelo"
-    ],
-    "img": "img/3868a8d41a04.jpg",
-    "ts": 1786644602,
-    "addedTs": 1786647022,
-    "urlHash": "3868a8d41a04",
-    "titleHash": "e4395d889625"
-  },
-  {
-    "title": "Video: I'm Done Coding with AI",
-    "titlePt": "Vídeo: Estou parando de programar com IA",
-    "url": "https://www.youtube.com/watch?v=2ZU3j4GQ4K8",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um desenvolvedor famoso publicou um vídeo explicando por que abandonou o uso de IA para programar. Ele argumenta que a dependência das ferramentas compromete o aprendizado profundo e a qualidade do código. O vídeo gerou debate intenso na comunidade.",
-    "reasonEn": "A well-known developer published a video explaining why he stopped using AI to code. He argues that reliance on the tools compromises deep learning and code quality. The video sparked intense debate in the community.",
-    "score": 0.5,
-    "tags": [
-      "ia",
-      "programação"
-    ],
-    "img": "img/c6a73e90f22e.jpg",
-    "ts": 1786643643,
-    "addedTs": 1786647022,
-    "urlHash": "c6a73e90f22e",
-    "titleHash": "ceca3e048d1f"
-  },
-  {
-    "title": "Gemini 3.7 Flash (High) Intelligence, Performance and Price Analysis",
-    "titlePt": "Análise do Gemini 3.7 Flash: inteligência, desempenho e preço",
-    "url": "https://artificialanalysis.ai/models/gemini-3-7-flash",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O Hacker News traz uma análise detalhada do novo Gemini 3.7 Flash do Google, focado em alta inteligência e baixo custo. O modelo promete competir diretamente com modelos premium de outras empresas em tarefas complexas. Os testes comparativos incluem latência, precisão e preço por token.",
-    "reasonEn": "Hacker News brings a detailed analysis of Google's new Gemini 3.7 Flash, focused on high intelligence and low cost. The model promises to compete directly with premium models from other companies on complex tasks. The comparative tests include latency, accuracy, and price per token.",
-    "score": 0.85,
-    "tags": [
-      "google",
-      "modelo"
-    ],
-    "img": "img/e1811d324367.jpg",
-    "ts": 1786643260,
-    "addedTs": 1786647022,
-    "urlHash": "e1811d324367",
-    "titleHash": "cd36488d46b9"
   }
 ]
