@@ -1,5 +1,225 @@
 [
   {
+    "title": "Show HN: Fail CI when your stack runs end-of-life software",
+    "titlePt": "Ferramenta falha CI quando detecta software sem suporte",
+    "url": "https://github.com/endoflife-ai/eol-check",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um projeto open source publicado no Hacker News quebra o pipeline de integração contínua ao detectar software fora de suporte. Ajuda times a evitar vulnerabilidades em componentes legados. Importante para engenheiros DevOps e de segurança.",
+    "reasonEn": "An open source project published on Hacker News breaks the continuous integration pipeline when it detects unsupported software. It helps teams avoid vulnerabilities in legacy components. Important for DevOps and security engineers.",
+    "score": 0.7,
+    "tags": [
+      "devops",
+      "segurança",
+      "open source"
+    ],
+    "img": "img/72721162566b.jpg",
+    "ts": 1787221147,
+    "addedTs": 1787221225,
+    "urlHash": "72721162566b",
+    "titleHash": "f4c5af5030e8"
+  },
+  {
+    "title": "Splunk patches 9.1 CVSS RCE in MCP Server and 9 flaws in AI Toolkit",
+    "titlePt": "Splunk corrige RCE crítica de 9.1 no MCP Server e 9 falhas no AI Toolkit",
+    "url": "https://cyberupdates365.com/splunk-mcp-server-rce-patch/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Splunk emitiu patches para uma vulnerabilidade de execução remota de código com pontuação 9.1 em seu MCP Server e mais nove falhas no AI Toolkit. A falha crítica expõe sistemas a ataques remotos. Equipes que usam Splunk devem aplicar as correções imediatamente.",
+    "reasonEn": "Splunk released patches for a remote code execution vulnerability with a 9.1 score in its MCP Server and nine more flaws in its AI Toolkit. The critical flaw exposes systems to remote attacks. Teams using Splunk should apply the patches immediately.",
+    "score": 0.85,
+    "tags": [
+      "segurança",
+      "splunk",
+      "patch"
+    ],
+    "img": "img/c8164d70bf7a.jpg",
+    "ts": 1787220649,
+    "addedTs": 1787221225,
+    "urlHash": "c8164d70bf7a",
+    "titleHash": "9910b1d39c5f"
+  },
+  {
+    "title": "Show HN: Data enrichment with AI for Pandas DataFrame",
+    "titlePt": "Enriquecimento de dados com IA para Pandas DataFrame",
+    "url": "https://github.com/mljar/enrichment",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um projeto mostrado no Hacker News usa IA para enriquecer DataFrames do Pandas automaticamente. Pode acelerar fluxos de análise de dados em Python. Voltado para cientistas e engenheiros de dados que querem reduzir trabalho manual.",
+    "reasonEn": "A project shown on Hacker News uses AI to automatically enrich Pandas DataFrames. It can speed up data analysis workflows in Python. Aimed at data scientists and engineers who want to reduce manual work.",
+    "score": 0.5,
+    "tags": [
+      "dados",
+      "python",
+      "ai"
+    ],
+    "img": "img/db56ca1491d6.jpg",
+    "ts": 1787219321,
+    "addedTs": 1787221225,
+    "urlHash": "db56ca1491d6",
+    "titleHash": "ef73ad0855ce"
+  },
+  {
+    "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
+    "titlePt": "Binance libera agentes de IA para negociar, mas controle fica com o usuário",
+    "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A Binance passou a permitir que agentes de IA executem operações na plataforma de criptomoedas. A responsabilidade por monitorar e limitar esses agentes continua sendo do usuário. Importante para investidores em cripto e desenvolvedores de bots de trading.",
+    "reasonEn": "Binance has begun allowing AI agents to execute trades on its cryptocurrency platform. Responsibility for monitoring and limiting these agents remains with the user. Important for crypto investors and trading bot developers.",
+    "score": 0.75,
+    "tags": [
+      "cripto",
+      "agentes",
+      "trading"
+    ],
+    "img": "img/bb72d97feb83.jpg",
+    "ts": 1787218200,
+    "addedTs": 1787221225,
+    "urlHash": "bb72d97feb83",
+    "titleHash": "950187a9680c"
+  },
+  {
+    "title": "Run frontier LLMs on sovereign EU infrastructure",
+    "titlePt": "Execute LLMs de ponta em infraestrutura soberana da UE",
+    "url": "https://corti.ai/models",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um projeto no Hacker News permite rodar grandes modelos de linguagem em data centers soberanos da União Europeia. A ideia é reduzir dependência de provedores fora do bloco. Relevante para empresas europeias preocupadas com soberania de dados.",
+    "reasonEn": "A project on Hacker News allows running large language models on sovereign European Union data centers. The idea is to reduce dependency on providers outside the bloc. Relevant for European companies concerned with data sovereignty.",
+    "score": 0.65,
+    "tags": [
+      "ue",
+      "soberania",
+      "llm"
+    ],
+    "img": "img/081c29759599.jpg",
+    "ts": 1787217561,
+    "addedTs": 1787221225,
+    "urlHash": "081c29759599",
+    "titleHash": "9ac0dde9bbf3"
+  },
+  {
+    "title": "A proposed browser standard for provider-agnostic AI inference",
+    "titlePt": "Proposta de padrão de navegador para inferência de IA agnóstica",
+    "url": "https://github.com/SamSamskies/inference-provider-api",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma proposta técnica no Hacker News sugere um padrão aberto de navegador para chamadas de inferência de IA sem vincular a um provedor específico. Pode mudar como aplicações web consomem modelos. Relevante para desenvolvedores web e arquitetos de plataforma.",
+    "reasonEn": "A technical proposal on Hacker News suggests an open browser standard for AI inference calls without binding to a specific provider. It could change how web applications consume models. Relevant for web developers and platform architects.",
+    "score": 0.75,
+    "tags": [
+      "padrão",
+      "navegador",
+      "ai"
+    ],
+    "img": "img/2e0af42fb848.jpg",
+    "ts": 1787216450,
+    "addedTs": 1787221225,
+    "urlHash": "2e0af42fb848",
+    "titleHash": "cf37320db63d"
+  },
+  {
+    "title": "AI Coding Agents Adoption Trends",
+    "titlePt": "Tendências de adoção de agentes de IA para programação",
+    "url": "https://blog.jetbrains.com/research/2026/08/ai-coding-agent-adoption-2026/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Hacker News publicou uma análise sobre como empresas e desenvolvedores estão adotando agentes de IA para codificação. Mostra crescimento, casos de uso e limitações percebidas. Útil para líderes de engenharia avaliarem o ritmo de adoção.",
+    "reasonEn": "Hacker News published an analysis on how companies and developers are adopting AI agents for coding. It shows growth, use cases and perceived limitations. Useful for engineering leaders evaluating adoption pace.",
+    "score": 0.65,
+    "tags": [
+      "agentes",
+      "adoção",
+      "desenvolvimento"
+    ],
+    "img": "img/194229a2c20c.jpg",
+    "ts": 1787215225,
+    "addedTs": 1787221225,
+    "urlHash": "194229a2c20c",
+    "titleHash": "ce71d85057f1"
+  },
+  {
+    "title": "AI Influence Level (Ail) v1.0",
+    "titlePt": "Nível de Influência da IA (Ail) versão 1.0",
+    "url": "https://danielmiessler.com/blog/ai-influence-level-ail",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Foi lançada a versão 1.0 do AI Influence Level (Ail), uma proposta para medir e classificar o grau de influência que sistemas de IA exercem em decisões e processos. A ideia é fornecer uma referência comum para desenvolvedores, pesquisadores e equipes avaliarem riscos e impactos. Interessa principalmente a quem precisa comparar modelos e ferramentas de forma padronizada. Ainda é uma métrica nova e precisa de adoção pela comunidade.",
+    "reasonEn": "Version 1.0 of AI Influence Level (Ail) has been released, proposing a way to measure and classify how much influence AI systems have over decisions and processes. It aims to give developers, researchers, and teams a common yardstick for evaluating risks and impact. Most useful for anyone comparing models and tools in a standardized way. It is still a fresh metric that needs community adoption.",
+    "score": 0.5,
+    "tags": [
+      "métrica",
+      "avaliação",
+      "framework"
+    ],
+    "img": "img/72a58e362480.jpg",
+    "ts": 1787213760,
+    "addedTs": 1787221225,
+    "urlHash": "72a58e362480",
+    "titleHash": "336141acc590"
+  },
+  {
+    "title": "FinSkillBench: Evaluating AI Agents and Domain Skills for Investment Management",
+    "titlePt": "FinSkillBench: avaliando agentes de IA em gestão de investimentos",
+    "url": "https://arxiv.org/abs/2608.18099",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "Foi apresentado o FinSkillBench, um benchmark voltado a testar agentes de IA em tarefas reais de gestão de investimentos. O objetivo é medir habilidades de domínio financeiro, raciocínio sobre risco e tomada de decisão, indo além de testes genéricos de LLM. É útil para equipes que avaliam IA para o setor financeiro e para pesquisadores de agentes autônomos. Pode virar referência em compliance e auditoria de modelos.",
+    "reasonEn": "FinSkillBench has been introduced, a benchmark aimed at testing AI agents on real investment management tasks. Its goal is to measure financial domain skills, risk reasoning, and decision-making, going beyond generic LLM tests. It is useful for teams evaluating AI for finance and for autonomous agent researchers. It may become a reference for compliance and model auditing.",
+    "score": 0.55,
+    "tags": [
+      "benchmark",
+      "finanças",
+      "agentes"
+    ],
+    "img": "img/5f01427aab73.jpg",
+    "ts": 1787198400,
+    "addedTs": 1787221225,
+    "urlHash": "5f01427aab73",
+    "titleHash": "1b968baf95dc"
+  },
+  {
+    "title": "Adversarial Review: Structured Disagreement for Grounded Agentic Code Review",
+    "titlePt": "Revisão adversarial: discordância estruturada para revisão de código",
+    "url": "https://arxiv.org/abs/2608.18167",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "O artigo apresenta uma abordagem em que agentes agênticos revisam código de forma adversarial, forçando discordância estruturada para evitar concordâncias superficiais. O objetivo é tornar a revisão automatizada mais rigorosa e fundamentada em evidências. É relevante para times de engenharia que já usam IA em code review. Pode influenciar ferramentas de revisão nos próximos meses.",
+    "reasonEn": "The paper introduces an approach in which agentic AIs review code adversarially, forcing structured disagreement to avoid superficial agreement. The goal is to make automated review more rigorous and evidence-based. It matters for engineering teams already using AI in code review. It may influence review tools in the coming months.",
+    "score": 0.55,
+    "tags": [
+      "código",
+      "revisão",
+      "agentes"
+    ],
+    "img": "img/ff38dfc050f2.jpg",
+    "ts": 1787198400,
+    "addedTs": 1787221225,
+    "urlHash": "ff38dfc050f2",
+    "titleHash": "41afaa1a55b6"
+  },
+  {
     "title": "Grok 4.6",
     "titlePt": "Grok 4.6 aparece no Product Hunt",
     "url": "https://www.producthunt.com/products/grok-4-6-7",
@@ -10632,224 +10852,5 @@
     "addedTs": 1786745629,
     "urlHash": "4370cfeba708",
     "titleHash": "d3cbcadf137c"
-  },
-  {
-    "title": "Man attempts to prompt-inject court, fails",
-    "titlePt": "Homem tenta usar prompt injection em tribunal e fracassa",
-    "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um homem tentou usar técnicas de prompt injection para enganar a inteligência artificial de um tribunal e influenciar uma decisão. O ataque falhou porque o sistema identificou a manipulação. O caso é raro e mostra que adversários já tentam explorar LLMs em sistemas judiciais. Serve de alerta para tribunais e órgãos públicos que adotam IA em seus processos.",
-    "reasonEn": "A man tried to use prompt injection techniques to fool a court's AI and influence a ruling. The attack failed because the system detected the manipulation. The case is rare and shows adversaries are already trying to exploit LLMs in judicial systems. It serves as a warning for courts and public agencies adopting AI in their processes.",
-    "score": 0.6,
-    "tags": [
-      "segurança",
-      "justiça",
-      "prompt injection"
-    ],
-    "img": "img/2dbd025943ac.jpg",
-    "ts": 1786744316,
-    "addedTs": 1786745629,
-    "urlHash": "2dbd025943ac",
-    "titleHash": "01128ed71ed9"
-  },
-  {
-    "title": "AI runs here. Not out there",
-    "titlePt": "IA roda aqui, não lá fora: o futuro da inferência local",
-    "url": "https://osaurus.ai",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A campanha pelo processamento local de IA ganha força, defendendo que modelos rodem nos próprios dispositivos dos usuários em vez de na nuvem. A motivação é privacidade, latência e menor custo operacional. Grandes empresas já lançam modelos otimizados para rodar em laptops e celulares. A tendência afeta como empresas compram hardware e desenham produtos.",
-    "reasonEn": "The push for local AI processing is gaining momentum, arguing models should run on user devices instead of in the cloud. The motivation is privacy, latency, and lower operating costs. Major companies are already releasing models optimized to run on laptops and phones. The trend affects how businesses buy hardware and design products.",
-    "score": 0.6,
-    "tags": [
-      "edge ai",
-      "privacidade",
-      "local"
-    ],
-    "img": "img/6b4d8945620d.jpg",
-    "ts": 1786743148,
-    "addedTs": 1786745629,
-    "urlHash": "6b4d8945620d",
-    "titleHash": "7e5230c9ba6f"
-  },
-  {
-    "title": "Qwen 3.8 27B vs. Nemotron 3.5 vs. Muse Glimmer on an RTX 5090",
-    "titlePt": "Qwen 3.8 27B contra Nemotron 3.5 e Muse Glimmer na RTX 5090",
-    "url": "https://kgptalkie.com/tutorials/generative-ai/qwen-3-8-27b-vs-nemotron-3-5-vs-muse-glimmer",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O teste compara três modelos recentes - Qwen 3.8 27B, Nemotron 3.5 e Muse Glimmer - em uma GPU topo de linha, a RTX 5090. Mostra velocidade, qualidade e uso de memória de cada modelo em tarefas reais. Ajuda quem está escolhendo qual LLM rodar localmente em hardware de alto desempenho. O benchmark é útil para decisões de compra e implantação.",
-    "reasonEn": "The benchmark compares three recent models - Qwen 3.8 27B, Nemotron 3.5, and Muse Glimmer - on a top-tier GPU, the RTX 5090. It shows speed, quality, and memory use of each model on real tasks. Helps anyone choosing which LLM to run locally on high-end hardware. The benchmark is useful for purchase and deployment decisions.",
-    "score": 0.6,
-    "tags": [
-      "benchmark",
-      "modelo local",
-      "gpu"
-    ],
-    "img": "img/2ce2fc756935.jpg",
-    "ts": 1786742722,
-    "addedTs": 1786745629,
-    "urlHash": "2ce2fc756935",
-    "titleHash": "52478e85699a"
-  },
-  {
-    "title": "DeepSeek V4 Pro goes GA: 1.6T MoE flagship exits preview",
-    "titlePt": "DeepSeek V4 Pro chega oficialmente com 1,6 trilhão de parâmetros MoE",
-    "url": "https://ainexusdaily.vercel.app",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A DeepSeek lançou a versão final do V4 Pro, um modelo MoE de 1,6 trilhão de parâmetros que sai da fase de preview. A empresa chinesa vinha ganhando terreno com modelos abertos de alto desempenho e baixo custo. O lançamento afeta diretamente a concorrência com OpenAI, Anthropic e Google. Desenvolvedores devem esperar APIs mais baratas e novos benchmarks abertos.",
-    "reasonEn": "DeepSeek released the final version of V4 Pro, a 1.6 trillion parameter MoE model exiting preview. The Chinese company had been gaining ground with high-performance, low-cost open models. The launch directly affects competition with OpenAI, Anthropic, and Google. Developers should expect cheaper APIs and new open benchmarks.",
-    "score": 0.9,
-    "tags": [
-      "deepseek",
-      "modelo",
-      "lançamento"
-    ],
-    "img": "img/9b37af0d8c97.jpg",
-    "ts": 1786740970,
-    "addedTs": 1786745629,
-    "urlHash": "9b37af0d8c97",
-    "titleHash": "6b76d8367f18"
-  },
-  {
-    "title": "AI-Assisted Management Drives Latest SUSE Linux Release (2025)",
-    "titlePt": "Nova versão do SUSE Linux usa IA para automatizar a gestão",
-    "url": "https://www.suse.com/news/suse-linux-enterprise-server-16-ai-ready-long-term-support/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A SUSE anunciou uma versão do seu Linux empresarial que usa IA para automatizar tarefas de administração de sistemas. A proposta é simplificar operações como atualização, monitoramento e correção de falhas. É parte da tendência de adicionar IA em camadas de infraestrutura. Pode reduzir carga de equipes de TI em ambientes corporativos.",
-    "reasonEn": "SUSE announced a version of its enterprise Linux that uses AI to automate system administration tasks. The goal is to simplify operations like patching, monitoring, and fixing failures. It is part of the trend of adding AI at the infrastructure layer. It could reduce the load on IT teams in corporate environments.",
-    "score": 0.5,
-    "tags": [
-      "suse",
-      "linux",
-      "automação"
-    ],
-    "img": "img/9667f7fec2ef.jpg",
-    "ts": 1786738865,
-    "addedTs": 1786745629,
-    "urlHash": "9667f7fec2ef",
-    "titleHash": "5f523d0c0e3d"
-  },
-  {
-    "title": "Show HN: Mocktail – Free, open-source mock API server with a built-in dashboard",
-    "titlePt": "Mocktail: servidor gratuito de APIs simuladas com painel",
-    "url": "https://getmocktail.com/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O Mocktail é um servidor gratuito e de código aberto para simular APIs. Ele inclui um painel integrado para acompanhar o serviço e suas respostas. A proposta ajuda desenvolvedores a testar aplicações antes de conectá-las a um serviço real.",
-    "reasonEn": "Mocktail is a free, open-source server for mocking APIs. It includes a built-in dashboard for monitoring the service and its responses. The project can help developers test applications before connecting them to a real service.",
-    "score": 0.54,
-    "tags": [
-      "desenvolvimento",
-      "servidor",
-      "api"
-    ],
-    "img": "img/432aa6d44c55.jpg",
-    "ts": 1786738824,
-    "addedTs": 1786738962,
-    "urlHash": "432aa6d44c55",
-    "titleHash": "4151458c950e"
-  },
-  {
-    "title": "Young people increasingly don't trust AI",
-    "titlePt": "Jovens confiam cada vez menos em IA",
-    "url": "https://www.techradar.com/pro/young-people-increasingly-dont-trust-ai-or-the-billionaires-that-keep-telling-us-we-should-all-love-ai-survey-finds",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Pessoas jovens estão demonstrando menos confiança em sistemas de inteligência artificial. Essa mudança sugere que a adoção da tecnologia varia bastante entre gerações. Empresas que oferecem produtos educacionais, atendimento e serviços com IA podem encontrar mais resistência desse público.",
-    "reasonEn": "Young people are showing less trust in artificial intelligence systems. The shift suggests that adoption varies significantly across generations. Companies offering educational products, customer service, and AI-powered services may face greater resistance from this audience.",
-    "score": 0.74,
-    "tags": [
-      "confiança",
-      "jovens",
-      "ia"
-    ],
-    "img": "img/aae4a470795e.jpg",
-    "ts": 1786738448,
-    "addedTs": 1786738962,
-    "urlHash": "aae4a470795e",
-    "titleHash": "a6ecb60eba25"
-  },
-  {
-    "title": "The Download: kids&#8217; thoughts on AI, and female clones of male mice",
-    "titlePt": "O que crianças pensam sobre IA e clones femininos de camundongos",
-    "url": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
-    "source": "MIT Tech Review",
-    "sources": [
-      "MIT Tech Review"
-    ],
-    "reason": "O boletim semanal do MIT Technology Review reúne duas pautas curiosas: o olhar de crianças sobre o uso crescente de inteligência artificial em suas vidas e um avanço científico que produziu clones femininos a partir de camundongos machos. A primeira pauta traz uma perspectiva rara sobre como a geração mais nova entende e convive com a IA. A segunda é uma curiosidade da biologia reprodutiva. O conteúdo é leve e diversificado, útil para quem quer ficar por dentro sem aprofundar demais.",
-    "reasonEn": "MIT Technology Review's weekly digest bundles two stories: what kids think about the growing use of AI in their lives, and a scientific breakthrough producing female mouse clones from male mice. The first piece offers a rare perspective on how the youngest generation understands and lives with AI. The second is a curiosity from reproductive biology. The content is light and varied, useful for catching up without going too deep.",
-    "score": 0.5,
-    "tags": [
-      "sociedade",
-      "ciência"
-    ],
-    "img": "img/6c09900b9ff7.jpg",
-    "ts": 1786623000,
-    "addedTs": 1786738962,
-    "urlHash": "6c09900b9ff7",
-    "titleHash": "9c5def16a95e"
-  },
-  {
-    "title": "Gemini 3.7 Flash",
-    "titlePt": "Google lança Gemini 3.7 Flash, nova versão de seu modelo rápido",
-    "url": "https://www.producthunt.com/products/gemini-3-7-flash",
-    "source": "ProductHunt",
-    "sources": [
-      "ProductHunt"
-    ],
-    "reason": "O Google lançou o Gemini 3.7 Flash, atualização do seu modelo leve da família Gemini. A linha Flash é voltada para tarefas que exigem baixa latência e custo reduzido, mantendo boa capacidade de raciocínio. O lançamento segue a estratégia de versões incrementais da empresa e renova o portfólio disponível na API. Para desenvolvedores que já usam Gemini, vale testar a nova versão em busca de ganhos de velocidade e qualidade.",
-    "reasonEn": "Google launched Gemini 3.7 Flash, an update to its lightweight Gemini model. The Flash line targets low-latency and lower-cost tasks while keeping solid reasoning power. The release follows Google's incremental version strategy and refreshes the lineup available through the API. Developers already using Gemini should benchmark the new version for speed and quality gains.",
-    "score": 0.7,
-    "tags": [
-      "modelo",
-      "lançamento",
-      "google"
-    ],
-    "img": "img/335007ec731b.jpg",
-    "ts": 1786732561,
-    "addedTs": 1786732905,
-    "urlHash": "335007ec731b",
-    "titleHash": "6382782b97b0"
-  },
-  {
-    "title": "We urgently need a coherent national AI cybersecurity policy",
-    "titlePt": "Especialistas pedem uma política nacional coerente de cibersegurança em IA",
-    "url": "https://joshuasaxe181906.substack.com/p/we-urgently-need-a-coherent-national",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo defende que os Estados Unidos precisam de uma política nacional clara de cibersegurança para sistemas de IA. O argumento é que ataques envolvendo IA crescem e a fragmentação de normas atrapalha a defesa. O texto lista riscos em infraestruturas críticas e na cadeia de software. A proposta é reunir governo, academia e setor privado para criar padrões comuns.",
-    "reasonEn": "The article argues that the United States needs a clear national cybersecurity policy for AI systems. The reasoning is that AI-related attacks are growing and fragmented rules hamper defense. The post lists risks in critical infrastructure and the software supply chain. The proposal is to bring government, academia, and the private sector together around common standards.",
-    "score": 0.6,
-    "tags": [
-      "regulação",
-      "segurança",
-      "política"
-    ],
-    "img": "img/5c9284ce9aa4.jpg",
-    "ts": 1786731300,
-    "addedTs": 1786732905,
-    "urlHash": "5c9284ce9aa4",
-    "titleHash": "9f3669b6ae96"
   }
 ]
