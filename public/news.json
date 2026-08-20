@@ -1,5 +1,131 @@
 [
   {
+    "title": "Grok 4.6",
+    "titlePt": "Grok 4.6 aparece no Product Hunt",
+    "url": "https://www.producthunt.com/products/grok-4-6-7",
+    "source": "ProductHunt",
+    "sources": [
+      "ProductHunt"
+    ],
+    "reason": "Uma versão chamada Grok 4.6 do modelo da xAI apareceu em listagem no Product Hunt. É uma família de modelos conhecida por ser integrada ao X e por respostas pouco filtradas. A relevância depende de melhorias concretas em benchmarks e segurança, ainda não detalhadas. Vale acompanhar de perto se você já usa Grok ou avalia concorrentes.",
+    "reasonEn": "A version called Grok 4.6 from xAI appeared in a Product Hunt listing. It is a model family known for being integrated into X and for lightly filtered responses. Relevance depends on concrete improvements in benchmarks and safety, which were not detailed yet. Worth following closely if you already use Grok or evaluate competitors.",
+    "score": 0.55,
+    "tags": [
+      "modelo",
+      "lançamento"
+    ],
+    "img": "img/3424bf7f4752.jpg",
+    "ts": 1787214387,
+    "addedTs": 1787214418,
+    "urlHash": "3424bf7f4752",
+    "titleHash": "add92b9cde2b"
+  },
+  {
+    "title": "Don't Paste the AI, please",
+    "titlePt": "Não cole código de IA, por favor",
+    "url": "https://dontpastetheai.com/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um post no Hacker News defende que desenvolvedores não devem simplesmente colar código gerado por IA em seus projetos sem entender. O argumento central é que aceitar trechos gerados sem revisão cria débitos técnicos e bugs sutis. É um alerta importante para times que adotam ferramentas de codificação assistida por IA. Afeta especialmente equipes pequenas e juniores que confiam demais nessas ferramentas.",
+    "reasonEn": "A Hacker News post argues that developers should not simply paste AI-generated code into their projects without understanding it. The core argument is that accepting generated snippets without review creates technical debt and subtle bugs. It is an important warning for teams adopting AI-assisted coding tools. It especially affects small teams and juniors who overly rely on these tools.",
+    "score": 0.7,
+    "tags": [
+      "boas-práticas",
+      "codificação"
+    ],
+    "img": "img/22bc845755c6.jpg",
+    "ts": 1787214044,
+    "addedTs": 1787214418,
+    "urlHash": "22bc845755c6",
+    "titleHash": "96f5e08e9fa3"
+  },
+  {
+    "title": "200B Tokens Later: A Month of Letting AI Agents Decompile MW2",
+    "titlePt": "200 bilhões de tokens depois: descompilando Modern Warfare 2 com agentes de IA",
+    "url": "https://momo5502.com/posts/2026-08-17-mw2-decompilation/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um experimento de um mês usando agentes de IA para descompilar o jogo Modern Warfare 2 consumiu cerca de 200 bilhões de tokens. Mostra os limites práticos de agentes aplicados a engenharia reversa complexa em larga escala. É um estudo de caso interessante sobre custo e viabilidade. Afeta desenvolvedores que consideram IA para tarefas de reverse engineering.",
+    "reasonEn": "A one-month experiment using AI agents to decompile the Modern Warfare 2 game consumed about 200 billion tokens. It shows the practical limits of agents applied to complex reverse engineering at scale. It is an interesting case study on cost and viability. It affects developers considering AI for reverse engineering tasks.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "engenharia-reversa"
+    ],
+    "img": "img/932d72a034c4.jpg",
+    "ts": 1787213676,
+    "addedTs": 1787214418,
+    "urlHash": "932d72a034c4",
+    "titleHash": "f456064091e6"
+  },
+  {
+    "title": "Florida police officer accused of using Flock AI cameras",
+    "titlePt": "Policial da Flórida acusado de usar câmeras de IA da Flock",
+    "url": "https://www.dexerto.com/entertainment/florida-police-officer-accused-of-using-ai-flock-cameras-to-track-ex-wife-717-times-3400226/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um policial da Flórida foi acusado de usar indevidamente as câmeras de vigilância com IA da Flock, empresa conhecida por sua ampla rede de leitura de placas. O caso levanta sérias questões sobre privacidade, abuso de autoridade e governança de sistemas de IA em forças policiais. É um precedente importante sobre responsabilização individual no uso de IA. Afeta diretamente a discussão sobre vigilância urbana nos Estados Unidos.",
+    "reasonEn": "A Florida police officer was accused of misusing Flock's AI surveillance cameras, a company known for its wide license plate reading network. The case raises serious questions about privacy, abuse of authority, and governance of AI systems in police forces. It is an important precedent on individual accountability in AI use. It directly affects the discussion on urban surveillance in the United States.",
+    "score": 0.85,
+    "tags": [
+      "vigilância",
+      "regulação"
+    ],
+    "img": "img/9dae2125675b.jpg",
+    "ts": 1787211562,
+    "addedTs": 1787214418,
+    "urlHash": "9dae2125675b",
+    "titleHash": "b62fd1b84a12"
+  },
+  {
+    "title": "Show HN: Do-over, undo for AI agent shell commands",
+    "titlePt": "Do-over: desfazer comandos de shell de agentes de IA",
+    "url": "https://github.com/CaydenChik/doover",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um projeto mostrado no Hacker News oferece uma camada de undo para comandos de shell executados por agentes de IA, permitindo reverter ações destrutivas. Ataca um problema real e frequente em fluxos com agentes autônomos. É uma ferramenta útil para quem trabalha com agentes em produção ou em pipelines automatizados. Reduz riscos de operações irreversíveis mal avaliadas pelos modelos.",
+    "reasonEn": "A project shown on Hacker News offers an undo layer for shell commands run by AI agents, allowing reversal of destructive actions. It tackles a real and frequent problem in autonomous agent workflows. It is a useful tool for those working with agents in production or automated pipelines. It reduces risks of irreversible operations poorly evaluated by models.",
+    "score": 0.55,
+    "tags": [
+      "agentes",
+      "segurança"
+    ],
+    "img": "img/a48653ba5e6a.jpg",
+    "ts": 1787208156,
+    "addedTs": 1787214418,
+    "urlHash": "a48653ba5e6a",
+    "titleHash": "2296a844213f"
+  },
+  {
+    "title": "AI is changing how we code. Is this positive?",
+    "titlePt": "A IA está mudando como codificamos. Isso é positivo?",
+    "url": "https://news.ycombinator.com/item?id=49371169",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma discussão no Hacker News debate se o impacto da IA na prática de programação é positivo ou negativo. Os argumentos giram em torno de produtividade, qualidade do código e aprendizado de juniores. É um debate relevante para qualquer time de engenharia que esteja adotando ferramentas de IA. Não há conclusão única, mas ajuda a calibrar decisões de processo.",
+    "reasonEn": "A Hacker News discussion debates whether AI's impact on coding practice is positive or negative. The arguments revolve around productivity, code quality, and junior learning. It is a relevant debate for any engineering team adopting AI tools. There is no single conclusion, but it helps calibrate process decisions.",
+    "score": 0.6,
+    "tags": [
+      "codificação",
+      "sociedade"
+    ],
+    "img": "img/825af0c8fe3d.jpg",
+    "ts": 1787207834,
+    "addedTs": 1787214418,
+    "urlHash": "825af0c8fe3d",
+    "titleHash": "51811339e41f"
+  },
+  {
     "title": "LLM Reasoning Traces Are Not Audit Records",
     "titlePt": "Traços de raciocínio de LLMs não são registros de auditoria",
     "url": "https://rye.ai/blog/cot-faithfulness-reasoning-traces-not-audit-logs/",
@@ -10725,134 +10851,5 @@
     "addedTs": 1786732905,
     "urlHash": "5c9284ce9aa4",
     "titleHash": "9f3669b6ae96"
-  },
-  {
-    "title": "When facts change, should AI memory change?",
-    "titlePt": "Quando os fatos mudam, a memória da IA deveria mudar também?",
-    "url": "https://github.com/Anchorstate-Lab/GMR",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A discussão aborda um problema central de agentes de IA: como lidar com memória quando a realidade muda. Sistemas que mantêm fatos antigos podem responder de forma errada ou até perigosa. O texto explora estratégias para invalidar, atualizar e versionar memórias. É leitura recomendada para quem desenvolve agentes com memória de longo prazo.",
-    "reasonEn": "The discussion tackles a core problem for AI agents: how to handle memory when reality changes. Systems that retain stale facts can answer incorrectly or even dangerously. The post explores strategies to invalidate, update, and version memories. It is recommended reading for anyone building agents with long-term memory.",
-    "score": 0.5,
-    "tags": [
-      "agentes",
-      "memória"
-    ],
-    "img": "img/8a27d7c6c15a.jpg",
-    "ts": 1786729586,
-    "addedTs": 1786732905,
-    "urlHash": "8a27d7c6c15a",
-    "titleHash": "f3da3d95024d"
-  },
-  {
-    "title": "Trust Boundary Collapse: Two Campaigns That Bypassed Artifact Inspection",
-    "titlePt": "Colapso de fronteira de confiança: duas campanhas que driblaram inspeção de artefatos",
-    "url": "https://lateos.ai/articles/trust-boundary-collapse-teampcp-clickfix",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Pesquisadores detalham duas campanhas maliciosas que conseguiram passar pela inspeção de artefatos de software. Os ataques exploraram confiança excessiva em pipelines automatizados e em ferramentas apoiadas por IA. O texto mostra como builds aparentemente legítimos foram comprometidos. É um alerta importante para equipes de segurança e de DevOps.",
-    "reasonEn": "Researchers detail two malicious campaigns that bypassed software artifact inspection. The attacks exploited over-trust in automated pipelines and AI-assisted tools. The post shows how seemingly legitimate builds were compromised. It is a notable warning for security and DevOps teams.",
-    "score": 0.5,
-    "tags": [
-      "segurança",
-      "supply-chain"
-    ],
-    "img": "img/53ab622127c5.jpg",
-    "ts": 1786729369,
-    "addedTs": 1786732905,
-    "urlHash": "53ab622127c5",
-    "titleHash": "f53379135f47"
-  },
-  {
-    "title": "AI Thinks the Internet Is Reddit. We Have 8,616 Answers Proving It",
-    "titlePt": "IA acha que a internet é só Reddit, e 8.616 respostas provam isso",
-    "url": "https://growtika.com/blog/reddit-ai-visibility-research",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um estudo analisou milhares de respostas de modelos de IA e identificou um forte viés para o estilo e os temas do Reddit. Isso afeta a qualidade e a diversidade das saídas, principalmente em perguntas fora da bolha da plataforma. O texto serve de alerta para usuários e desenvolvedores sobre os limites do treinamento. Reforça a importância de auditar modelos antes de usá-los em produção.",
-    "reasonEn": "A study analyzed thousands of AI model responses and found a strong bias toward Reddit's style and topics. That hurts output quality and diversity, especially for questions outside the platform's bubble. The post warns users and developers about the limits of pretraining. It reinforces the need to audit models before deploying them in production.",
-    "score": 0.5,
-    "tags": [
-      "dados",
-      "treinamento",
-      "crítica"
-    ],
-    "img": "img/2b2958cd2c8a.jpg",
-    "ts": 1786729316,
-    "addedTs": 1786732905,
-    "urlHash": "2b2958cd2c8a",
-    "titleHash": "566584d0fca9"
-  },
-  {
-    "title": "1,1 mld USD dla River AI: Co oznacza rewolucja spersonalizowanego AI?",
-    "titlePt": "River AI capta US$ 1,1 bilhão para impulsionar IA personalizada",
-    "url": "https://neurise.io/blog-auto-1-1-mld-usd-dla-river-ai-rewolucja-spersonalizowanego-ai.html",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A empresa River AI anunciou uma rodada de US$ 1,1 bilhão para acelerar seu foco em IA personalizada para empresas e usuários. O aporte reflete o interesse crescente do mercado em modelos adaptados a contextos específicos, e não apenas em uso genérico. A notícia é relevante para acompanhar o cenário de investimentos em IA e identificar novos entrantes de peso. Também indica que a personalização virou um campo competitivo importante.",
-    "reasonEn": "River AI announced a $1.1 billion round to boost its focus on personalized AI for companies and end users. The funding reflects growing market interest in models tailored to specific contexts rather than generic use cases. The story is relevant for tracking the AI investment landscape and spotting heavyweight newcomers. It also signals that personalization has become a serious competitive area.",
-    "score": 0.6,
-    "tags": [
-      "investimento",
-      "personalização"
-    ],
-    "img": "img/2890897db7cc.jpg",
-    "ts": 1786729269,
-    "addedTs": 1786732905,
-    "urlHash": "2890897db7cc",
-    "titleHash": "916f1725bf26"
-  },
-  {
-    "title": "LLM Web Search Benchmarks: More Searches Beat a Better Search Engine",
-    "titlePt": "Benchmark de busca na web: mais buscas vencem um motor melhor",
-    "url": "https://openrouter.ai/blog/announcements/web-search-benchmark/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um novo benchmark compara diferentes estratégias de busca na web feitas por LLMs. O resultado mostra que rodar mais buscas, mesmo com motor imperfeito, supera usar um motor melhor com menos consultas. A descoberta tem impacto direto em como agentes de IA são desenhados. Para desenvolvedores, vale repensar o número de buscas por pergunta.",
-    "reasonEn": "A new benchmark compares different web search strategies used by LLMs. The result shows that running more searches, even with an imperfect engine, beats using a better engine with fewer queries. The finding directly impacts how AI agents are designed. Developers should rethink the number of searches per question.",
-    "score": 0.5,
-    "tags": [
-      "busca",
-      "benchmarks",
-      "LLM"
-    ],
-    "img": "img/5cef28541bd1.jpg",
-    "ts": 1786729155,
-    "addedTs": 1786732905,
-    "urlHash": "5cef28541bd1",
-    "titleHash": "2695722029a0"
-  },
-  {
-    "title": "Nvidia's $500B Plan Envelops Wall Sreett in Its AI Frenzy",
-    "titlePt": "Plano de US$ 500 bilhões da Nvidia agita Wall Street",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-14/nvidia-s-500-billion-plan-envelops-wall-street-in-its-ai-frenzy",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Nvidia anunciou um plano de investimentos de cerca de US$ 500 bilhões ligado à inteligência artificial. O pacote envolve fábricas, pesquisa e parcerias com gigantes de tecnologia. O mercado financeiro reagiu de forma positiva, refletindo a confiança no papel central da empresa na economia da IA. A notícia mostra como a Nvidia se tornou peça-chave para o futuro do setor.",
-    "reasonEn": "Nvidia announced an investment plan of roughly $500 billion tied to artificial intelligence. The package covers factories, research, and partnerships with tech giants. Financial markets reacted positively, reflecting confidence in the company's central role in the AI economy. The story highlights how Nvidia has become a key piece for the sector's future.",
-    "score": 0.7,
-    "tags": [
-      "nvidia",
-      "investimento",
-      "mercados"
-    ],
-    "img": "img/57085d69e2b8.jpg",
-    "ts": 1786728515,
-    "addedTs": 1786732905,
-    "urlHash": "57085d69e2b8",
-    "titleHash": "574f748e259f"
   }
 ]
