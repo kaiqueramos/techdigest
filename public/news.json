@@ -1,5 +1,47 @@
 [
   {
+    "title": "Agentic AI has made CPUs the new performance bottleneck",
+    "titlePt": "IA agêntica transforma CPU no novo gargalo de performance",
+    "url": "https://spectrum.ieee.org/ai-cpu-comeback",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo mostra que a nova geração de agentes de IA esbarra no desempenho dos processadores tradicionais, e não mais nas GPUs. Com mais agentes rodando em paralelo, o custo de CPU virou fator limitante. Importa para engenheiros que planejam infraestrutura de IA em produção.",
+    "reasonEn": "The article shows that the new generation of AI agents is hitting CPU limits, not GPU ones. With more agents running in parallel, CPU cost has become the bottleneck. Matters for engineers planning production AI infrastructure.",
+    "score": 0.6,
+    "tags": [
+      "infra",
+      "agentes"
+    ],
+    "img": "img/fbd5c7f2369a.jpg",
+    "ts": 1787188445,
+    "addedTs": 1787194157,
+    "urlHash": "fbd5c7f2369a",
+    "titleHash": "5944035850ec"
+  },
+  {
+    "title": "Round Hill Music Sues Suno and Anthropic for $1B over AI Training Data",
+    "titlePt": "Round Hill Music processa Suno e Anthropic por US$ 1 bilhão",
+    "url": "https://www.gadgetreview.com/round-hill-music-sues-suno-and-anthropic-for-1-billion-over-ai-training-data",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A editora Round Hill Music entrou com ação de US$ 1 bilhão contra as startups de IA Suno e Anthropic, acusando-as de usar músicas protegidas para treinar seus modelos sem licença. É o mais alto valor já pedido em uma ação desse tipo e pode definir precedente para a indústria musical. Afeta empresas de IA generativa de música e donos de catálogos musicais.",
+    "reasonEn": "Music publisher Round Hill Music has filed a $1 billion lawsuit against AI startups Suno and Anthropic, accusing them of training on copyrighted music without licenses. It's the highest amount ever sought in such a case and could set a precedent. It affects generative music AI firms and rights holders.",
+    "score": 0.85,
+    "tags": [
+      "regulação",
+      "música"
+    ],
+    "img": "img/2b5e8aa22d92.jpg",
+    "ts": 1787186414,
+    "addedTs": 1787194157,
+    "urlHash": "2b5e8aa22d92",
+    "titleHash": "37a560ab1798"
+  },
+  {
     "title": "US warns of AI-powered attacks on Siemens PLCs in critical infrastructure",
     "titlePt": "EUA alertam sobre ataques de IA contra CLPs da Siemens",
     "url": "https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/",
@@ -10814,49 +10856,5 @@
     "addedTs": 1786718670,
     "urlHash": "85574048ff1a",
     "titleHash": "7c02ef5a7d9e"
-  },
-  {
-    "title": "Show HN: GridProof – spacing/grid QA for AI-generated UIs, in the agent loop",
-    "titlePt": "GridProof: ferramenta de QA de espaçamento para UIs geradas por IA",
-    "url": "https://github.com/gridproof/gridproof",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "GridProof é uma nova ferramenta que verifica automaticamente o alinhamento e o espaçamento de interfaces geradas por agentes de IA. Ela roda dentro do loop do agente, permitindo corrigir problemas visuais antes da entrega. É útil para desenvolvedores que usam IA para prototipar UIs e querem evitar layouts quebrados. Reduz o trabalho manual de revisão visual em projetos rápidos.",
-    "reasonEn": "GridProof is a new tool that automatically checks alignment and spacing of AI-generated interfaces. It runs inside the agent loop, fixing visual issues before delivery. Useful for developers using AI to prototype UIs who want to avoid broken layouts. It reduces manual visual review work on fast projects.",
-    "score": 0.55,
-    "tags": [
-      "ferramenta",
-      "ui",
-      "qa"
-    ],
-    "img": "img/5dfbfe65b4ca.jpg",
-    "ts": 1786715312,
-    "addedTs": 1786718670,
-    "urlHash": "5dfbfe65b4ca",
-    "titleHash": "df452749d7a5"
-  },
-  {
-    "title": "Apple trained its own AI model for China with help from Alibaba",
-    "titlePt": "Apple treinou modelo próprio de IA para a China com ajuda da Alibaba",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "A Apple desenvolveu um modelo de inteligência artificial sob medida para o mercado chinês, com apoio técnico da Alibaba. A parceria foi necessária para cumprir exigências regulatórias locais e adaptar o sistema ao ecossistema do país. O movimento mostra como a Apple está cedendo a chinesas para manter acesso ao gigantesco mercado chinês. Desenvolvedores e usuários chineses serão os mais impactados pela novidade.",
-    "reasonEn": "Apple developed a custom AI model for the Chinese market with technical support from Alibaba. The partnership was needed to meet local regulatory demands and adapt the system to the country's ecosystem. The move shows how Apple is yielding to Chinese players to keep access to the huge Chinese market. Chinese developers and users will be the most impacted by the news.",
-    "score": 0.95,
-    "tags": [
-      "apple",
-      "china",
-      "regulação"
-    ],
-    "img": "img/9d7bfbd4e75c.jpg",
-    "ts": 1786699810,
-    "addedTs": 1786718670,
-    "urlHash": "9d7bfbd4e75c",
-    "titleHash": "15dbcc0db71a"
   }
 ]
