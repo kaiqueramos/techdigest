@@ -1,5 +1,312 @@
 [
   {
+    "title": "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions",
+    "titlePt": "Riscos de colusão entre agentes de IA justificam certificação",
+    "url": "https://arxiv.org/abs/2608.18078",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "Um artigo de posição publicado na arXiv defende que agentes de IA usados para tomar decisões de mercado representam riscos reais de colusão e por isso deveriam passar por um processo de certificação antes de operar. O texto traz implicações importantes para reguladores, empresas financeiras e desenvolvedores que criam agentes autônomos. Mostra que o debate sobre governança de IA está se aprofundando em áreas concretas como mercado financeiro. Vale para quem acompanha regulação e segurança de IA.",
+    "reasonEn": "A position paper published on arXiv argues that AI reasoning agents making market decisions pose real collusion risks and therefore should require certification before deployment. It carries important implications for regulators, financial firms, and developers building autonomous agents. The paper shows that AI governance debates are deepening into concrete areas like financial markets. Worth reading for anyone following AI regulation and safety.",
+    "score": 0.55,
+    "tags": [
+      "regulação",
+      "agentes",
+      "finanças"
+    ],
+    "img": "img/41b914407b7a.jpg",
+    "ts": 1787198400,
+    "addedTs": 1787200092,
+    "urlHash": "41b914407b7a",
+    "titleHash": "31d38d318dfe"
+  },
+  {
+    "title": "Position: Current Model Cards Are Insufficient for Downstream Governance of Open-Weight Foundation Models",
+    "titlePt": "Model cards atuais são insuficientes para governança",
+    "url": "https://arxiv.org/abs/2608.18086",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "Artigo de posição que argumenta que os model cards atuais, espécie de ficha técnica dos modelos de IA, não são suficientes para embasar decisões de governança sobre modelos open-weight. Os autores propõem critérios mais rígidos e detalhados para que órgãos reguladores e a sociedade consigam avaliar riscos. É um sinal de que a discussão sobre transparência e responsabilidade está amadurecendo. Importante para quem se preocupa com o futuro da regulação.",
+    "reasonEn": "A position paper arguing that current model cards, the standard technical sheets for AI models, are insufficient to support governance decisions about open-weight models. The authors propose stricter, more detailed criteria so regulators and society can assess risks properly. It signals that the discussion around transparency and accountability is maturing. Important for anyone concerned about the future of AI regulation.",
+    "score": 0.5,
+    "tags": [
+      "regulação",
+      "governança",
+      "open-source"
+    ],
+    "img": "img/e9736df789fd.jpg",
+    "ts": 1787198400,
+    "addedTs": 1787200092,
+    "urlHash": "e9736df789fd",
+    "titleHash": "54db4d5a8638"
+  },
+  {
+    "title": "Safety Alignment Illusion: The Cross-Lingual Safety Gap in LLMs",
+    "titlePt": "Ilusão de alinhamento de segurança em LLMs multilíngues",
+    "url": "https://arxiv.org/abs/2608.18131",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "Estudo que mostra que modelos de linguagem grandes apresentam uma lacuna real de segurança entre idiomas, criando o que os autores chamam de ilusão de alinhamento. Isso significa que ataques e conteúdo perigoso que seriam bloqueados em inglês podem passar em outros idiomas. É uma descoberta relevante para segurança, moderação e empresas que operam globalmente. Vale a leitura para qualquer time que use LLMs em produção.",
+    "reasonEn": "A study showing that large language models exhibit a real safety gap across languages, creating what the authors call a safety alignment illusion. This means attacks and harmful content blocked in English can slip through in other languages. It is a finding relevant to security, moderation, and any company operating LLMs globally. Worth reading for any team using LLMs in production.",
+    "score": 0.6,
+    "tags": [
+      "segurança",
+      "llm"
+    ],
+    "img": "img/01b13dd2d468.jpg",
+    "ts": 1787198400,
+    "addedTs": 1787200092,
+    "urlHash": "01b13dd2d468",
+    "titleHash": "ea15bca0b364"
+  },
+  {
+    "title": "Looped Language Models Improve Compositional Tool Calling",
+    "titlePt": "Modelos de linguagem em loop melhoram chamadas de ferramentas compostas",
+    "url": "https://arxiv.org/abs/2608.18171",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "Pesquisadores apresentam um método que faz modelos de linguagem executarem várias iterações de raciocínio antes de chamar ferramentas externas. A técnica melhora a precisão em tarefas que exigem combinar várias chamadas em sequência. Desenvolvedores que constroem agentes e sistemas baseados em ferramentas podem se beneficiar do ganho de confiabilidade. O artigo está disponível no arXiv para quem quer se aprofundar na implementação.",
+    "reasonEn": "Researchers present a method that makes language models run multiple reasoning iterations before calling external tools. The technique improves accuracy on tasks that require chaining several calls together. Developers building agents and tool-using systems can benefit from the reliability boost. The paper is available on arXiv for those wanting to dig into the implementation.",
+    "score": 0.7,
+    "tags": [
+      "pesquisa",
+      "agentes",
+      "ferramentas"
+    ],
+    "img": "img/2ecdfda7b2c3.jpg",
+    "ts": 1787198400,
+    "addedTs": 1787200092,
+    "urlHash": "2ecdfda7b2c3",
+    "titleHash": "392226fd4816"
+  },
+  {
+    "title": "Show HN: MatrAIx – simulate users before reality (Survey/Chat/Web/App)",
+    "titlePt": "MatrAIx: simule usuários antes da realidade",
+    "url": "https://github.com/MatrAIx-ai/MatrAIx-Persona-8B",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Ferramenta recém-lançada permite simular respostas de usuários em pesquisas, chats e aplicativos antes de colocar um produto no ar. A ideia é validar fluxos e hipóteses sem gastar orçamento com testes com pessoas reais. Desenvolvedores de produto e pesquisa podem acelerar ciclos de validação usando a plataforma. O projeto foi compartilhado no Hacker News buscando feedback da comunidade.",
+    "reasonEn": "A newly launched tool lets you simulate user responses in surveys, chats, and apps before shipping a product. The idea is to validate flows and hypotheses without spending budget on tests with real people. Product and research developers can speed up validation cycles using the platform. The project was shared on Hacker News seeking community feedback.",
+    "score": 0.5,
+    "tags": [
+      "ferramenta",
+      "simulação",
+      "lançamento"
+    ],
+    "img": "img/601c18ad521b.jpg",
+    "ts": 1787196892,
+    "addedTs": 1787200092,
+    "urlHash": "601c18ad521b",
+    "titleHash": "0e84f42829df"
+  },
+  {
+    "title": "Do We Still Need Database Management Tools When AI Can Write SQL?",
+    "titlePt": "Ainda precisamos de ferramentas de banco de dados se a IA escreve SQL?",
+    "url": "http://johnli.work/posts/do-we-still-need-database-management-tools-when-ai-can-write-sql/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Discussão no Hacker News questiona se ferramentas tradicionais de administração de banco de dados ainda fazem sentido quando modelos de IA já geram consultas SQL. Parte dos participantes defende que editores visuais e otimizadores continuam entregando valor real. Outros apontam que agentes de IA podem substituir a maior parte do trabalho manual de DBA. O debate revela como o papel do profissional de dados está mudando rapidamente.",
+    "reasonEn": "A Hacker News discussion questions whether traditional database administration tools still make sense when AI models already generate SQL queries. Some participants argue that visual editors and optimizers still deliver real value. Others point out that AI agents can replace most manual DBA work. The debate reveals how the data professional's role is changing fast.",
+    "score": 0.6,
+    "tags": [
+      "sql",
+      "banco-de-dados",
+      "debate"
+    ],
+    "img": "img/1d1405c11570.jpg",
+    "ts": 1787196271,
+    "addedTs": 1787200092,
+    "urlHash": "1d1405c11570",
+    "titleHash": "53995486db07"
+  },
+  {
+    "title": "Show HN: AI agents can now safely write to your CRMs",
+    "titlePt": "Agentes de IA agora podem escrever em CRMs com segurança",
+    "url": "https://www.archron.app/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Novo projeto permite que agentes de IA atualizem registros em sistemas de CRM sem correr o risco de corromper dados importantes. A ferramenta inclui validações e limites de segurança para evitar alterações perigosas em contas de clientes. Times de vendas e RevOps podem automatizar entrada de dados com mais confiança e menos retrabalho. O projeto está em fase inicial e busca usuários para testes reais.",
+    "reasonEn": "A new project lets AI agents update records in CRM systems without risking data corruption. The tool includes validations and safety limits to prevent dangerous changes to customer accounts. Sales and RevOps teams can automate data entry with more confidence and less rework. The project is in early stages and seeks users for real-world testing.",
+    "score": 0.6,
+    "tags": [
+      "agentes",
+      "crm",
+      "automação"
+    ],
+    "img": "img/86d2e02835a8.jpg",
+    "ts": 1787195828,
+    "addedTs": 1787200092,
+    "urlHash": "86d2e02835a8",
+    "titleHash": "82da9b5a4223"
+  },
+  {
+    "title": "Comparing Qwen3.8 Max and Fable 5 on UI",
+    "titlePt": "Comparando Qwen 3.8 Max e Fable 5 em geração de interfaces",
+    "url": "https://blog.kilo.ai/p/qwen38-max-just-passed-claude-fable",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Usuário do Hacker News comparou os modelos Qwen 3.8 Max e Fable 5 em tarefas de geração de interfaces de usuário. Os resultados mostram diferenças em fidelidade visual e na capacidade de seguir instruções de design. Desenvolvedores que usam IA para prototipar UIs podem usar o comparativo para escolher o modelo que melhor se adapta ao seu fluxo. A discussão inclui exemplos de saída para análise.",
+    "reasonEn": "A Hacker News user compared Qwen 3.8 Max and Fable 5 models on UI generation tasks. Results show differences in visual fidelity and in how well they follow design instructions. Developers using AI to prototype UIs can use the comparison to pick the model that best fits their workflow. The discussion includes output examples for analysis.",
+    "score": 0.5,
+    "tags": [
+      "modelo",
+      "comparação",
+      "interface"
+    ],
+    "img": "img/66dd21a73e0f.jpg",
+    "ts": 1787194057,
+    "addedTs": 1787200092,
+    "urlHash": "66dd21a73e0f",
+    "titleHash": "2720b34d827d"
+  },
+  {
+    "title": "Does anyone find AI code review useful?",
+    "titlePt": "Alguém acha a revisão de código por IA realmente útil?",
+    "url": "https://news.ycombinator.com/item?id=49369710",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Discussão no Hacker News sobre a utilidade real de ferramentas de revisão de código com IA no dia a dia. Desenvolvedores compartilham tanto experiências positivas quanto frustrações com falsos positivos constantes. O consenso geral aponta que a IA ajuda como um segundo par de olhos, mas não substitui a revisão humana cuidadosa. Vale a pena ler antes de adotar essas ferramentas em times de produção.",
+    "reasonEn": "A Hacker News discussion on the real-world usefulness of AI code review tools. Developers share both positive experiences and frustrations with constant false positives. The overall consensus points to AI helping as a second pair of eyes, but not replacing careful human review. Worth reading before adopting these tools in production teams.",
+    "score": 0.6,
+    "tags": [
+      "revisão-de-código",
+      "ferramenta",
+      "debate"
+    ],
+    "img": "img/c78b96a434fd.jpg",
+    "ts": 1787192647,
+    "addedTs": 1787200092,
+    "urlHash": "c78b96a434fd",
+    "titleHash": "e8fd77e18cbd"
+  },
+  {
+    "title": "Show HN: AI Resume Screening – Looking for feedback from recruiters",
+    "titlePt": "Triagem de currículos com IA busca feedback de recrutadores",
+    "url": "https://aiomniu.top/services/resume-screening",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Projeto aberto busca feedback de profissionais de RH sobre uma ferramenta que usa IA para fazer a triagem inicial de currículos. O sistema promete reduzir o tempo gasto com candidatos que claramente não se encaixam na vaga. Recrutadores e engenheiros de People Ops podem experimentar a solução e contribuir com melhorias. O criador afirma estar atento para evitar os vieses comuns nesse tipo de automação.",
+    "reasonEn": "An open project seeks feedback from HR professionals on a tool that uses AI to do initial resume screening. The system promises to reduce time spent with candidates who clearly do not fit the role. Recruiters and People Ops engineers can try the solution and contribute improvements. The creator claims to be careful to avoid the common biases in this kind of automation.",
+    "score": 0.5,
+    "tags": [
+      "rh",
+      "triagem",
+      "feedback"
+    ],
+    "img": "img/283648c4e9f9.jpg",
+    "ts": 1787192229,
+    "addedTs": 1787200092,
+    "urlHash": "283648c4e9f9",
+    "titleHash": "5b089e464d09"
+  },
+  {
+    "title": "Credentialism is coming for AI agents",
+    "titlePt": "Credencialismo está chegando aos agentes de IA",
+    "url": "https://betocmn.com/blog/credentialism-is-coming-for-ai-agents/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Artigo discute como agentes de IA vão precisar de sistemas de identidade e credenciais robustos para operar de forma confiável em ambientes com múltiplos agentes. Sem isso, fica difícil auditar ações e garantir responsabilidade pelos resultados. A tendência afeta diretamente desenvolvedores que constroem sistemas multi-agente em produção. O texto serve como alerta para planejar autenticação desde o início do projeto.",
+    "reasonEn": "The article discusses how AI agents will need strong identity and credential systems to operate reliably in multi-agent environments. Without this, auditing actions and ensuring accountability for results becomes hard. The trend directly affects developers building multi-agent systems in production. The text serves as a warning to plan authentication from the start of the project.",
+    "score": 0.7,
+    "tags": [
+      "agentes",
+      "segurança",
+      "identidade"
+    ],
+    "img": "img/d599a326cde6.jpg",
+    "ts": 1787189266,
+    "addedTs": 1787200092,
+    "urlHash": "d599a326cde6",
+    "titleHash": "8b6451476ab1"
+  },
+  {
+    "title": "AI-Powered Cyberattacks",
+    "titlePt": "Ataques cibernéticos agora movidos por IA",
+    "url": "https://www.opswat.com/blog/ai-powered-cyberattacks",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Discussão aborda como agentes de IA estão sendo usados para automatizar ataques, reconhecimento de alvos e exploração de vulnerabilidades em escala. O tema preocupa equipes de segurança e desenvolvedores que mantêm sistemas expostos na internet. O texto mostra exemplos recentes e possíveis estratégias de defesa. É leitura recomendada para qualquer profissional que lida com segurança da informação.",
+    "reasonEn": "The discussion addresses how AI agents are being used to automate attacks, target reconnaissance, and vulnerability exploitation at scale. The topic worries security teams and developers maintaining internet-exposed systems. The text shows recent examples and possible defense strategies. Recommended reading for any professional dealing with information security.",
+    "score": 0.7,
+    "tags": [
+      "segurança",
+      "ataque",
+      "cibersegurança"
+    ],
+    "img": "img/a3309f5a3c86.jpg",
+    "ts": 1787181919,
+    "addedTs": 1787200092,
+    "urlHash": "a3309f5a3c86",
+    "titleHash": "fbf2fb52408b"
+  },
+  {
+    "title": "How RingCentral builds AI-native work from engineering to ops",
+    "titlePt": "Como a RingCentral constrói trabalho nativo em IA da engenharia às operações",
+    "url": "https://openai.com/index/ringcentral",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "A RingCentral compartilha como integrou IA em toda a sua operação, desde o desenvolvimento de software até o suporte ao cliente. O case mostra o uso de copilots internos, automação de processos internos e métricas de produtividade. Desenvolvedores e líderes de TI podem se inspirar nos exemplos práticos apresentados. É um estudo de caso útil para quem está planejando uma transformação digital em sua empresa.",
+    "reasonEn": "RingCentral shares how it integrated AI across its entire operation, from software development to customer support. The case shows the use of internal copilots, internal process automation, and productivity metrics. Developers and IT leaders can draw inspiration from the practical examples presented. It is a useful case study for those planning a digital transformation at their company.",
+    "score": 0.5,
+    "tags": [
+      "case-study",
+      "transformação-digital",
+      "automação"
+    ],
+    "img": "img/9bafa93fe08b.jpg",
+    "ts": 1786492800,
+    "addedTs": 1787200092,
+    "urlHash": "9bafa93fe08b",
+    "titleHash": "835090512f9b"
+  },
+  {
+    "title": "Newer Models, Same Advantage",
+    "titlePt": "Modelos mais novos, mesma vantagem relativa",
+    "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "Análise publicada no Hugging Face mostra que modelos mais recentes mantêm as mesmas vantagens comparativas em benchmarks, sem saltos dramáticos de desempenho. O texto discute as implicações dessa estabilidade para desenvolvedores que precisam escolher entre opções. Reforça a importância de testar em casos de uso reais antes de decidir qual modelo adotar. Leitura rápida e útil para quem está em dúvida sobre qual LLM escolher.",
+    "reasonEn": "An analysis published on Hugging Face shows that newer models maintain the same comparative advantages on benchmarks, without dramatic performance leaps. The text discusses the implications of this stability for developers needing to choose between options. It reinforces the importance of testing on real use cases before deciding which model to adopt. Quick and useful reading for those unsure which LLM to pick.",
+    "score": 0.7,
+    "tags": [
+      "benchmark",
+      "modelo",
+      "análise"
+    ],
+    "img": "img/c5c3971a8972.jpg",
+    "ts": 1784202588,
+    "addedTs": 1787200092,
+    "urlHash": "c5c3971a8972",
+    "titleHash": "c0e574730220"
+  },
+  {
     "title": "Agentic AI has made CPUs the new performance bottleneck",
     "titlePt": "IA agêntica transforma CPU no novo gargalo de performance",
     "url": "https://spectrum.ieee.org/ai-cpu-comeback",
@@ -10550,311 +10857,5 @@
     "addedTs": 1786725667,
     "urlHash": "744ebd52ee08",
     "titleHash": "d60e8b0cb60f"
-  },
-  {
-    "title": "Google Is Making Private AI Practical with Homomorphic Encryption",
-    "titlePt": "Google torna a IA privada uma realidade com criptografia homomórfica",
-    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O Google publicou um trabalho sobre criptografia homomórfica aplicada a modelos de IA, permitindo processar dados sem descriptografá-los. A técnica promete manter a privacidade do usuário enquanto a IA ainda funciona sobre os dados. É um avanço importante para setores regulados, como saúde e finanças. A novidade aproxima a IA privada da prática em produção.",
-    "reasonEn": "Google published work on homomorphic encryption applied to AI models, allowing data to be processed without decrypting it. The technique promises to keep user privacy while AI still operates on the data. It is a major step forward for regulated sectors like healthcare and finance. The release brings private AI closer to production use.",
-    "score": 0.7,
-    "tags": [
-      "privacidade",
-      "google",
-      "criptografia"
-    ],
-    "img": "img/0356ba6ae093.jpg",
-    "ts": 1786722190,
-    "addedTs": 1786725667,
-    "urlHash": "0356ba6ae093",
-    "titleHash": "5ecdcda53310"
-  },
-  {
-    "title": "Show HN: Remarc – contextual feedback for coding agents via MCP",
-    "titlePt": "Remarc: feedback contextual para agentes de código via MCP",
-    "url": "https://github.com/metedata/Remarc",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um desenvolvedor lançou o Remarc, ferramenta open-source que dá feedback contextual para agentes de programação usando o protocolo MCP. A ideia é permitir que revisores humanos ou automáticos guiem o agente sem precisar reescrever o código todo. A novidade se encaixa na onda de ferramentas para ajustar melhor o trabalho de agentes. Pode interessar times que já usam MCP em seus fluxos.",
-    "reasonEn": "A developer launched Remarc, an open-source tool that delivers contextual feedback to coding agents using the MCP protocol. The goal is to let human or automated reviewers guide the agent without rewriting everything. The release fits the wave of tools to better steer agent work. It may appeal to teams already using MCP in their flows.",
-    "score": 0.5,
-    "tags": [
-      "mcp",
-      "agentes",
-      "open-source"
-    ],
-    "img": "img/23862908c4e1.jpg",
-    "ts": 1786721723,
-    "addedTs": 1786725667,
-    "urlHash": "23862908c4e1",
-    "titleHash": "d71589ba542c"
-  },
-  {
-    "title": "European publishers are getting hit harder by AI bot scraping, report finds",
-    "titlePt": "Editores europeus sofrem mais com raspagem de bots de IA, diz relatório",
-    "url": "https://digiday.com/media/european-publishers-are-getting-hit-harder-by-ai-bot-scraping-report-finds/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um novo relatório mostra que publishers europeus estão perdendo tráfego e receita porque bots de IA raspam seus sites de forma agressiva, ignorando diretivas de exclusão. O problema cresce à medida que modelos de linguagem precisam de dados frescos para treinar. Isso afeta diretamente veículos de notícias, blogs independentes e qualquer site que dependa de audiência. Para desenvolvedores, é um alerta sobre infraestrutura anti-scraping e custo de banda.",
-    "reasonEn": "A new report shows European publishers are losing traffic and revenue because AI bots scrape their sites aggressively, ignoring exclusion directives. The problem is growing as language models need fresh data to train. This directly hits news outlets, independent blogs, and any site that depends on audience. For developers, it's a warning about anti-scraping infrastructure and bandwidth costs.",
-    "score": 0.72,
-    "tags": [
-      "publishers",
-      "scraping",
-      "regulação"
-    ],
-    "img": "img/c716805d1b48.jpg",
-    "ts": 1786720665,
-    "addedTs": 1786725667,
-    "urlHash": "c716805d1b48",
-    "titleHash": "8b44674e94b4"
-  },
-  {
-    "title": "NTU to stop using 'fundamentally unreliable' AI detector from 2027",
-    "titlePt": "Universidade de Nottingham vai abandonar detector de IA 'fundamentalmente não confiável'",
-    "url": "https://www.channelnewsasia.com/singapore/ntu-ai-detector-stop-using-2027-probability-scores-misconduct-6320136",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A NTU decidiu parar de usar detectores de texto gerado por IA a partir de 2027, depois de auditoria interna concluir que a ferramenta é falha e injusta. Falsos positivos punem alunos inocentes, especialmente falantes não nativos de inglês. A decisão pode pressionar outras universidades a repensar políticas de originalidade. Para desenvolvedores de edtech, é um sinal de que o mercado de detectores está em xeque.",
-    "reasonEn": "NTU decided to stop using AI-generated text detectors from 2027 after an internal audit concluded the tool is flawed and unfair. False positives punish innocent students, especially non-native English speakers. The decision may pressure other universities to rethink originality policies. For edtech developers, it's a sign that the detector market is in check.",
-    "score": 0.58,
-    "tags": [
-      "educação",
-      "detectores",
-      "ética"
-    ],
-    "img": "img/5528687122c6.jpg",
-    "ts": 1786720579,
-    "addedTs": 1786725667,
-    "urlHash": "5528687122c6",
-    "titleHash": "ff57a7f107c8"
-  },
-  {
-    "title": "Kog is going deeper to squeeze more inference out of GPUs",
-    "titlePt": "Kog quer espremer mais inferência de cada GPU",
-    "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A startup Kog está lançando uma camada de software que promete aumentar o uso de GPUs em inferência de modelos de IA, reduzindo o custo por token gerado. A abordagem combina melhor agendamento de batches e reutilização de memória. Para empresas que rodam modelos em produção, isso significa contas menores de cloud. Ainda é cedo para saber os números reais de ganho.",
-    "reasonEn": "Startup Kog is launching a software layer that promises to boost GPU utilization in AI model inference, reducing cost per token generated. The approach combines better batch scheduling and memory reuse. For companies running models in production, this means smaller cloud bills. It's still early to know the real gain numbers.",
-    "score": 0.62,
-    "tags": [
-      "gpu",
-      "inferência",
-      "otimização"
-    ],
-    "img": "img/bc3411669855.jpg",
-    "ts": 1786719011,
-    "addedTs": 1786725667,
-    "urlHash": "bc3411669855",
-    "titleHash": "ec32e759b890"
-  },
-  {
-    "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-    "titlePt": "OpenAI e Anthropic entram em guerra de preços enquanto rivais chineses avançam",
-    "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
-    "source": "Ars Technica",
-    "sources": [
-      "Ars Technica"
-    ],
-    "reason": "OpenAI e Anthropic estão cortando preços de API para defender market share, pressionados por modelos chineses mais baratos e quase tão capazes. A disputa derruba o custo de usar IA de ponta, mas aperta margens dos laboratórios ocidentais. Clientes corporativos se beneficiam agora, mas o mercado pode consolidar em poucos vencedores. Para desenvolvedores, é hora de revisar contratos e comparar preço por desempenho.",
-    "reasonEn": "OpenAI and Anthropic are cutting API prices to defend market share, pressured by cheaper and nearly as capable Chinese models. The dispute drops the cost of frontier AI but squeezes Western labs' margins. Enterprise customers benefit now, but the market may consolidate into few winners. For developers, it's time to review contracts and compare price per performance.",
-    "score": 0.85,
-    "tags": [
-      "preços",
-      "competição",
-      "api"
-    ],
-    "img": "img/0778f93b3ef2.jpg",
-    "ts": 1786717634,
-    "addedTs": 1786725667,
-    "urlHash": "0778f93b3ef2",
-    "titleHash": "69efe2998c89"
-  },
-  {
-    "title": "Meta&#8217;s &#8216;open&#8217; AI, and a $250M deal gone very wrong ",
-    "titlePt": "O 'open' da Meta e um acordo de US$ 250 milhões que deu muito errado",
-    "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A reportagem mostra que os modelos ditos abertos da Meta entregam menos controle real do que prometem, enquanto um acordo de US$ 250 milhões envolvendo IA terminou em litígio. O caso reacende o debate sobre o que 'open source' significa em IA. Afeta empresas que escolheram Meta Llama por questão de independência. Para desenvolvedores, vale revisar termos de licença antes de adotar.",
-    "reasonEn": "The report explains that Meta's so-called open models deliver less real control than promised, while a $250M deal involving AI ended in litigation. The case reignites the debate about what 'open source' means in AI. It affects companies that chose Meta Llama for independence reasons. For developers, it's worth reviewing license terms before adopting.",
-    "score": 0.74,
-    "tags": [
-      "meta",
-      "open-source",
-      "legal"
-    ],
-    "img": "img/45f40813ef00.jpg",
-    "ts": 1786716000,
-    "addedTs": 1786725667,
-    "urlHash": "45f40813ef00",
-    "titleHash": "376073cd56a7"
-  },
-  {
-    "title": "State of Open Models: Summer 2026 Observations",
-    "titlePt": "Estado dos modelos abertos: observações do verão de 2026",
-    "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "A Hugging Face publicou um panorama dos modelos abertos no meio de 2026, cobrindo qualidade, adoção e licenciamento. É referência útil para quem precisa escolher entre rodar modelos próprios ou usar APIs. Mostra quais famílias estão realmente em produção. Vale a leitura para arquitetos de solução.",
-    "reasonEn": "Hugging Face published an overview of open models in mid-2026, covering quality, adoption, and licensing. It's a useful reference for those who need to choose between running their own models or using APIs. It shows which families are really in production. Worth reading for solution architects.",
-    "score": 0.7,
-    "tags": [
-      "open-source",
-      "modelos",
-      "panorama"
-    ],
-    "img": "img/bc290ba394fd.jpg",
-    "ts": 1786665600,
-    "addedTs": 1786725667,
-    "urlHash": "bc290ba394fd",
-    "titleHash": "243f0ba61cd4"
-  },
-  {
-    "title": "About Z AI \"Benchmaxxing\"",
-    "titlePt": "Z AI é acusada de otimizar para benchmarks",
-    "url": "https://twitter.com/natolambert/status/2088272938361606397",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Uma discussão no Hacker News detalha como a Z AI (Zhipu) supostamente ajusta seus modelos para inflar resultados em testes públicos. A prática, chamada de 'benchmaxxing', levanta dúvidas sobre a confiabilidade dos números divulgados por laboratórios chineses. Desenvolvedores e investidores que dependem desses rankings devem interpretar os números com cautela.",
-    "reasonEn": "A Hacker News discussion details how Z AI (Zhipu) allegedly tunes its models to inflate public benchmark results. The practice, called 'benchmaxxing', raises doubts about the reliability of numbers published by Chinese labs. Developers and investors relying on these rankings should treat them with caution.",
-    "score": 0.7,
-    "tags": [
-      "benchmarks",
-      "regulação",
-      "china"
-    ],
-    "img": "img/71f25eec85e8.jpg",
-    "ts": 1786718339,
-    "addedTs": 1786718670,
-    "urlHash": "71f25eec85e8",
-    "titleHash": "6af87ea76d64"
-  },
-  {
-    "title": "DeepSeek Harness",
-    "titlePt": "DeepSeek Harness facilita uso dos modelos DeepSeek",
-    "url": "https://www.producthunt.com/products/deepseek",
-    "source": "ProductHunt",
-    "sources": [
-      "ProductHunt"
-    ],
-    "reason": "Foi lançado um harness para integrar modelos DeepSeek em pipelines de desenvolvimento com menos fricção. A ferramenta promete simplificar chamadas, monitoramento e custos. Desenvolvedores que usam os modelos chineses podem ganhar produtividade.",
-    "reasonEn": "A harness was launched to integrate DeepSeek models into development pipelines with less friction. The tool promises to simplify calls, monitoring and costs. Developers using Chinese models may gain productivity.",
-    "score": 0.5,
-    "tags": [
-      "ferramenta",
-      "deepseek"
-    ],
-    "img": "img/9485e4897bb0.jpg",
-    "ts": 1786717999,
-    "addedTs": 1786718670,
-    "urlHash": "9485e4897bb0",
-    "titleHash": "a7db0d66f380"
-  },
-  {
-    "title": "Fast, on Device Agentic AI with Muse Glimmer on ExecuTorch",
-    "titlePt": "IA agêntica rápida no dispositivo com Muse Glimmer no ExecuTorch",
-    "url": "https://pytorch.org/blog/fast-ondevice-agentic-ai-with-executorch/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O anúncio mostra como rodar agentes de IA localmente em dispositivos usando o runtime ExecuTorch com o modelo Muse Glimmer. A novidade reduz latência e dependência de nuvem, beneficiando apps sensíveis à privacidade. Desenvolvedores mobile ganham mais uma opção de inferência on-device.",
-    "reasonEn": "The announcement shows how to run AI agents locally on devices using the ExecuTorch runtime with the Muse Glimmer model. The novelty reduces latency and cloud dependency, benefiting privacy-sensitive apps. Mobile developers gain another on-device inference option.",
-    "score": 0.6,
-    "tags": [
-      "on-device",
-      "agentes"
-    ],
-    "img": "img/2a31cfa30481.jpg",
-    "ts": 1786717627,
-    "addedTs": 1786718670,
-    "urlHash": "2a31cfa30481",
-    "titleHash": "102ebf87e754"
-  },
-  {
-    "title": "Canva slashes valuation by $10B as AI reality bites",
-    "titlePt": "Canva corta US$ 10 bi em valuation com realidade da IA",
-    "url": "https://www.msn.com/en-au/money/news/sobering-markdown-canva-slashes-valuation-by-10b-as-ai-reality-bites/ar-AA2a5i6F",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Canva, gigante de design, reduziu sua avaliação em US$ 10 bilhões em uma nova rodada, refletindo pressão competitiva de ferramentas de IA generativa. O movimento sinaliza que mesmo empresas consolidadas sentem o impacto da IA em seus modelos de negócio. Investidores e fundadores devem repensar valuation de empresas de software tradicionais.",
-    "reasonEn": "Canva, the design giant, cut its valuation by $10 billion in a new round, reflecting competitive pressure from generative AI tools. The move signals that even established companies feel AI's impact on their business models. Investors and founders should rethink valuations of traditional software companies.",
-    "score": 0.9,
-    "tags": [
-      "valuation",
-      "negócios",
-      "ia-generativa"
-    ],
-    "img": "img/3af6690e8227.jpg",
-    "ts": 1786717574,
-    "addedTs": 1786718670,
-    "urlHash": "3af6690e8227",
-    "titleHash": "15f84a8f6831"
-  },
-  {
-    "title": "Show HN: We mapped AI patterns before watermark removal became a mainstream",
-    "titlePt": "Mapeando padrões de IA antes da remoção de marcas d'água virar moda",
-    "url": "https://founderstoday.org/claude-watermark-remover",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O projeto identifica assinaturas estatísticas em textos gerados por IA que antecedem a popularização da remoção de marcas d'água. Serve como base para pesquisadores que querem entender e detectar conteúdo sintético. Ajuda a comunidade a se preparar para novos vetores de desinformação.",
-    "reasonEn": "The project identifies statistical signatures in AI-generated texts that predate the popularization of watermark removal. It serves as a base for researchers wanting to understand and detect synthetic content. It helps the community prepare for new disinformation vectors.",
-    "score": 0.55,
-    "tags": [
-      "watermark",
-      "detecção",
-      "pesquisa"
-    ],
-    "img": "img/854591359bad.jpg",
-    "ts": 1786717143,
-    "addedTs": 1786718670,
-    "urlHash": "854591359bad",
-    "titleHash": "638b5e7e1deb"
-  },
-  {
-    "title": "Devs to Anthropic, OpenAI, Cursor: Make security and privacy the default",
-    "titlePt": "Desenvolvedores pedem segurança e privacidade como padrão em IA",
-    "url": "https://www.theregister.com/ai-and-ml/2026/08/08/devs-to-anthropic-openai-cursor-and-friends-make-security-and-privacy-the-default/5285107",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Uma carta aberta direcionada a Anthropic, OpenAI e Cursor pede que segurança e privacidade sejam habilitadas por padrão, em vez de opt-in. O movimento reflete frustração crescente da comunidade técnica com vazamentos e exposição de código. Pode influenciar roadmap de grandes fornecedores.",
-    "reasonEn": "An open letter to Anthropic, OpenAI and Cursor asks that security and privacy be enabled by default instead of opt-in. The movement reflects growing frustration from the technical community with leaks and code exposure. It may influence major vendors' roadmaps.",
-    "score": 0.7,
-    "tags": [
-      "segurança",
-      "privacidade",
-      "carta-aberta"
-    ],
-    "img": "img/85574048ff1a.jpg",
-    "ts": 1786715399,
-    "addedTs": 1786718670,
-    "urlHash": "85574048ff1a",
-    "titleHash": "7c02ef5a7d9e"
   }
 ]
