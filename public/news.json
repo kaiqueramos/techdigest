@@ -1,5 +1,131 @@
 [
   {
+    "title": "'Not a theoretical risk,' feds warn as attackers use AI-made code",
+    "titlePt": "EUA alertam: atacantes já usam código gerado por IA em ataques reais",
+    "url": "https://www.theregister.com/security/2026/08/19/not-a-theoretical-risk-feds-warn-as-attackers-use-ai-made-code-to-hack-critical-infrastructure-controllers/5289960",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Autoridades federais americanas divulgaram alerta formal de que códigos maliciosos feitos por IA já estão em uso ativo, não são mais ameaça teórica. Isso pressiona empresas de defesa e engenharia a endurecer pipelines. Qualquer time que use IA para desenvolvimento precisa revisar saídas.",
+    "reasonEn": "U.S. federal authorities issued a formal warning that AI-generated malicious code is already in active use, no longer a theoretical threat. This pressures defense and engineering firms to harden their pipelines. Any team using AI to assist development must review outputs.",
+    "score": 0.85,
+    "tags": [
+      "segurança",
+      "alerta"
+    ],
+    "img": "img/ad9a86a6f850.jpg",
+    "ts": 1787234713,
+    "addedTs": 1787235974,
+    "urlHash": "ad9a86a6f850",
+    "titleHash": "19ee6b249eed"
+  },
+  {
+    "title": "Google strikes $12B AI chip deal with Marvell to develop TPUs",
+    "titlePt": "Google fecha acordo de US$ 12 bi com Marvell para avançar em TPUs",
+    "url": "https://www.ft.com/content/0fdb094c-fc03-4d3c-8da6-bd11af88ff63",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Google fechou contrato bilionário com a Marvell para co-desenvolver seus chips TPU, focados em workloads de IA. O movimento reforça a estratégia de reduzir dependência de Nvidia e escalar capacidade própria. Afeta toda a cadeia de infraestrutura de IA, de hyperscalers a fornecedores.",
+    "reasonEn": "Google signed a multi-billion deal with Marvell to co-develop its TPU chips, focused on AI workloads. The move reinforces its strategy of reducing Nvidia dependence and scaling in-house capacity. It affects the entire AI infrastructure chain, from hyperscalers to suppliers.",
+    "score": 0.9,
+    "tags": [
+      "chips",
+      "deal"
+    ],
+    "img": "img/2c1fc7706ef8.jpg",
+    "ts": 1787233608,
+    "addedTs": 1787235974,
+    "urlHash": "2c1fc7706ef8",
+    "titleHash": "3638a8b883cc"
+  },
+  {
+    "title": "Frustrated GP patients hang up as Yorkshire accent baffles AI receptionist",
+    "titlePt": "Recepcionista de IA trava com sotaque de Yorkshire e irrita pacientes",
+    "url": "https://www.theguardian.com/society/2026/aug/20/yorkshire-rotherham-ai-gp-receptionist-cannot-understand-accent",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um sistema de triagem por IA em clínicas britânicas não entendeu pacientes com sotaque regional e desligou chamadas. O episódio ilustra limitações de modelos de fala fora de contextos padronizados. É um alerta para qualquer empresa que pretende automatizar atendimento por voz.",
+    "reasonEn": "An AI triage system at UK clinics failed to understand patients with regional accents and hung up calls. The episode illustrates limits of speech models outside standardized contexts. It's a warning for any company planning to automate voice support.",
+    "score": 0.5,
+    "tags": [
+      "voz",
+      "saúde"
+    ],
+    "img": "img/41a3e5cbe1d8.jpg",
+    "ts": 1787232397,
+    "addedTs": 1787235974,
+    "urlHash": "41a3e5cbe1d8",
+    "titleHash": "c92b08af413b"
+  },
+  {
+    "title": "Show HN: Find every AI model your code calls and warn before it's retired",
+    "titlePt": "Encontre todo modelo de IA que seu código chama e avise antes da descontinuação",
+    "url": "https://llmstatus.ai",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um projeto do Show HN lista cada modelo de IA que o código de uma aplicação consome e alerta quando algum será descontinuado. Resolve um problema real de times que dependem de múltiplos provedores. Pode evitar outages silenciosos por depreciação de APIs.",
+    "reasonEn": "A Show HN project lists every AI model a codebase consumes and warns when one is being deprecated. It solves a real problem for teams depending on multiple providers. It can prevent silent outages from API deprecation.",
+    "score": 0.5,
+    "tags": [
+      "devtools",
+      "observabilidade"
+    ],
+    "img": "img/f7e89b80a484.jpg",
+    "ts": 1787231575,
+    "addedTs": 1787235974,
+    "urlHash": "f7e89b80a484",
+    "titleHash": "3a373807222f"
+  },
+  {
+    "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+    "titlePt": "Grok vaza dados de usuários quando recebe instruções maliciosas criptografadas",
+    "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+    "source": "Ars Technica",
+    "sources": [
+      "Ars Technica"
+    ],
+    "reason": "Pesquisadores mostraram que o Grok, da xAI, pode ser induzido a exfiltrar dados de usuário se atacante esconder comandos maliciosos em conteúdo criptografado. É uma vulnerabilidade grave que afeta qualquer empresa integrando o modelo. Times precisam revisar o que expõem ao Grok em produção.",
+    "reasonEn": "Researchers showed that xAI's Grok can be induced to exfiltrate user data if an attacker hides malicious commands in encrypted content. That's a serious vulnerability affecting any company integrating the model. Teams must review what they expose to Grok in production.",
+    "score": 0.8,
+    "tags": [
+      "segurança",
+      "grok"
+    ],
+    "img": "img/bb7f10ed90dc.jpg",
+    "ts": 1787230835,
+    "addedTs": 1787235974,
+    "urlHash": "bb7f10ed90dc",
+    "titleHash": "406310cc34e4"
+  },
+  {
+    "title": "LinkedIn cracks down on automated content with AI detection button",
+    "titlePt": "LinkedIn ativa detecção de conteúdo gerado por IA",
+    "url": "https://www.campaignindia.in/article/linkedin-cracks-down-on-automated-content-with-new-seems-like-ai-slop-detection-button/43e4tn3qyq543rpam874wksjn3",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O LinkedIn adicionou um botão que permite sinalizar posts feitos por IA, mirando spam e automação em massa. Mudanças como essa tendem a se espalhar para outras redes. Afeta criadores, social media e times de growth.",
+    "reasonEn": "LinkedIn added a button that lets users flag AI-generated posts, targeting spam and mass automation. Changes like this tend to spread to other networks. It affects creators, social media, and growth teams.",
+    "score": 0.5,
+    "tags": [
+      "plataforma",
+      "moderação"
+    ],
+    "img": "img/43815858733e.jpg",
+    "ts": 1787229762,
+    "addedTs": 1787235974,
+    "urlHash": "43815858733e",
+    "titleHash": "c13735a56df7"
+  },
+  {
     "title": "Meta AI&#8217;s new Mac app wants you to talk to your apps",
     "titlePt": "Meta lança app para Mac que fala com seus aplicativos",
     "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
@@ -10725,136 +10851,5 @@
     "addedTs": 1786774900,
     "urlHash": "2aac712184ad",
     "titleHash": "6b366940cd49"
-  },
-  {
-    "title": "Did the AI Bubble Just Pop?",
-    "titlePt": "A bolha da IA acabou de estourar?",
-    "url": "https://www.youtube.com/watch?v=wrFH8PvDPFE",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A discussão no Hacker News questiona se o recente esfriamento do mercado indica o fim da bolha de IA. O tema afeta investidores, empresas de tecnologia e profissionais que trabalham com IA. Os argumentos apresentados podem ajudar a calibrar expectativas sobre contratações e investimentos no setor. Vale ler para quem depende economicamente da indústria de IA.",
-    "reasonEn": "The Hacker News discussion questions whether the recent market cooldown signals the end of the AI bubble. The topic affects investors, tech companies, and professionals working with AI. The arguments presented can help calibrate expectations about hiring and investment in the sector. Worth reading for anyone economically dependent on the AI industry.",
-    "score": 0.8,
-    "tags": [
-      "mercado",
-      "bolha",
-      "análise"
-    ],
-    "img": "img/aa2d85de515e.jpg",
-    "ts": 1786771327,
-    "addedTs": 1786774900,
-    "urlHash": "aa2d85de515e",
-    "titleHash": "6e1179ca0843"
-  },
-  {
-    "title": "Single-provider vs. multi-provider architectures for multimodal AI apps",
-    "titlePt": "Arquiteturas single-provider vs multi-provider para apps multimodais",
-    "url": "https://medium.com/@CometAPI_/how-to-architect-a-multimodal-app-for-chat-image-and-video-in-2026-770eb94952a0",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo compara concentrar tudo em um provedor de IA versus distribuir entre vários para aplicações multimodais. Para arquitetos de software e devs que montam produtos de IA, é uma decisão com tradeoffs reais de custo, latência e resiliência. A discussão ajuda a evitar lock-in desnecessário. Vale ler antes de comprometer a stack.",
-    "reasonEn": "The article compares concentrating everything in one AI provider versus distributing across several for multimodal applications. For software architects and devs building AI products, this is a decision with real tradeoffs in cost, latency, and resilience. The discussion helps avoid unnecessary lock-in. Worth reading before committing to a stack.",
-    "score": 0.6,
-    "tags": [
-      "arquitetura",
-      "multimodal",
-      "decisão-técnica"
-    ],
-    "img": "img/fd0a6d388015.jpg",
-    "ts": 1786770072,
-    "addedTs": 1786774900,
-    "urlHash": "fd0a6d388015",
-    "titleHash": "38317a916a11"
-  },
-  {
-    "title": "Best US- and EU-hosted abliterated models with no input/output prompt retention",
-    "titlePt": "Modelos abliterados hospedados nos EUA e UE sem retenção de prompts",
-    "url": "https://next.abliteration.ai",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A lista reúne modelos de IA sem filtros pesados e que não guardam os prompts enviados, hospedados em jurisdições confiáveis. Para quem trabalha com dados sensíveis ou precisa de modelos sem censura, é um recurso prático. Ajuda devs e empresas a escolher alternativas que respeitem privacidade. Importante para conformidade.",
-    "reasonEn": "The list gathers AI models without heavy filters that do not retain submitted prompts, hosted in trusted jurisdictions. For those working with sensitive data or needing uncensored models, it is a practical resource. It helps devs and companies choose alternatives that respect privacy. Important for compliance.",
-    "score": 0.5,
-    "tags": [
-      "privacidade",
-      "modelos",
-      "regulação"
-    ],
-    "img": "img/2ec92e52fbd9.jpg",
-    "ts": 1786767786,
-    "addedTs": 1786774900,
-    "urlHash": "2ec92e52fbd9",
-    "titleHash": "479cec0cee6e"
-  },
-  {
-    "title": "People Who Will Thrive in the AI Age",
-    "titlePt": "Pessoas que vão prosperar na era da IA",
-    "url": "https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo discute perfis profissionais e habilidades que estarão em alta com a ascensão da IA. Para qualquer pessoa preocupada com sua carreira, é leitura relevante para se reposicionar. A análise identifica habilidades humanas complementares que a IA não substitui facilmente. Vale refletir sobre seu próprio plano de carreira.",
-    "reasonEn": "The article discusses professional profiles and skills that will be in high demand with the rise of AI. For anyone worried about their career, it is relevant reading to reposition oneself. The analysis identifies complementary human skills that AI does not easily replace. Worth reflecting on your own career plan.",
-    "score": 0.7,
-    "tags": [
-      "carreira",
-      "futuro-do-trabalho",
-      "análise"
-    ],
-    "img": "img/af541d0f14f8.jpg",
-    "ts": 1786766297,
-    "addedTs": 1786774900,
-    "urlHash": "af541d0f14f8",
-    "titleHash": "594677fa98d9"
-  },
-  {
-    "title": "Google will now allow users to remove visible watermark from its AI generations",
-    "titlePt": "Google agora permite remover a marca d'água visível de imagens geradas por IA",
-    "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "O Google está liberando a opção de remover a marca d'água visível das imagens criadas por seus modelos de IA, segundo a TechCrunch. A mudança afeta principalmente usuários de produtos como o Imagen. Isso levanta dúvidas sobre procedência e direito autoral, já que a marca d'água serve justamente para identificar conteúdo sintético. Desenvolvedores e criadores devem ficar atentos às novas regras de uso.",
-    "reasonEn": "Google is rolling out the ability to remove the visible watermark from AI-generated images produced by its models, according to TechCrunch. The change primarily affects products like Imagen. This raises concerns about provenance and copyright, since watermarks exist to flag synthetic content. Developers and creators should review the updated usage rules and implications.",
-    "score": 0.75,
-    "tags": [
-      "google",
-      "marca-dagua",
-      "ia-generativa"
-    ],
-    "img": "img/c22aae7eac79.jpg",
-    "ts": 1786724020,
-    "addedTs": 1786774900,
-    "urlHash": "c22aae7eac79",
-    "titleHash": "445ec3805358"
-  },
-  {
-    "title": "Dynatrace to buy AI observability startup Arize for $915M",
-    "titlePt": "Dynatrace compra startup de observabilidade de IA Arize por 915 milhões de dólares",
-    "url": "https://app.dealroom.co/news/note/dynatrace-to-buy-ai-observability-startup-arize-for-915m",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Dynatrace, gigante de monitoramento de software, anunciou a compra da Arize, startup especializada em observabilidade de inteligência artificial, por 915 milhões de dólares. O negócio mostra que empresas tradicionais de software estão dispostas a pagar caro para acompanhar a onda de IA generativa. Clientes corporativos passam a ter mais opções para monitorar modelos em produção. O setor de observabilidade de IA está entre os que mais recebem investimento atualmente.",
-    "reasonEn": "Dynatrace, a software monitoring giant, announced the acquisition of Arize, an AI observability startup, for $915 million. The deal shows traditional software companies are willing to pay heavily to keep up with the generative AI wave. Corporate customers get more options for monitoring models in production. The AI observability sector is among the most heavily invested right now.",
-    "score": 0.7,
-    "tags": [
-      "aquisição",
-      "negócios"
-    ],
-    "img": "img/fe3a5db21a4a.jpg",
-    "ts": 1786765758,
-    "addedTs": 1786767688,
-    "urlHash": "fe3a5db21a4a",
-    "titleHash": "040ae59fa8e1"
   }
 ]
