@@ -1,5 +1,311 @@
 [
   {
+    "title": "Show HN: Zero () friction local AI for Mac",
+    "titlePt": "IA local no Mac sem complicação",
+    "url": "https://www.basecompute.co/local",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um projeto no Hacker News promete rodar IA localmente no Mac com configuração zero. É útil para desenvolvedores e curiosos que querem privacidade e velocidade sem depender da nuvem. O foco é eliminar a fricção técnica de instalar modelos localmente.",
+    "reasonEn": "A Hacker News project promises to run AI locally on Mac with zero configuration. It is useful for developers and curious users who want privacy and speed without depending on the cloud. The focus is on removing the technical friction of installing models locally.",
+    "score": 0.6,
+    "tags": [
+      "ferramenta",
+      "local",
+      "mac"
+    ],
+    "img": "img/5071bb1e9d24.jpg",
+    "ts": 1787264011,
+    "addedTs": 1787264235,
+    "urlHash": "5071bb1e9d24",
+    "titleHash": "461bd0799e0e"
+  },
+  {
+    "title": "ChatGPT can now send texts for you with new Apple Messages plugin",
+    "titlePt": "ChatGPT agora envia mensagens de texto por você via plugin do Apple Messages",
+    "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A OpenAI lançou um plugin que permite ao ChatGPT enviar SMS diretamente pelo Apple Messages no Mac. Isso transforma o assistente em um canal prático de comunicação no dia a dia. Usuários da Apple ganham automação sem sair do ecossistema, mas há questões de privacidade e consentimento.",
+    "reasonEn": "OpenAI launched a plugin that lets ChatGPT send SMS directly through Apple Messages on Mac. This turns the assistant into a practical everyday communication channel. Apple users gain automation without leaving the ecosystem, but there are privacy and consent concerns.",
+    "score": 0.75,
+    "tags": [
+      "openai",
+      "apple",
+      "plugin"
+    ],
+    "img": "img/7a4a6fae5369.jpg",
+    "ts": 1787263791,
+    "addedTs": 1787264235,
+    "urlHash": "7a4a6fae5369",
+    "titleHash": "0205db3cf2bb"
+  },
+  {
+    "title": "Browser automation agents with Pydantic AI and Playwright",
+    "titlePt": "Automatize seu navegador com Pydantic AI e Playwright",
+    "url": "http://blog.pamelafox.org/2026/08/browser-automation-with-pydantic-ai.html",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um tutorial mostra como criar agentes de automação de navegador combinando Pydantic AI com Playwright. A ideia é dar aos LLMs controle direto sobre páginas web para testes, scraping e fluxos repetitivos. É uma técnica avançada, mas muito procurada por times de produto.",
+    "reasonEn": "A tutorial shows how to build browser automation agents by combining Pydantic AI with Playwright. The idea is to give LLMs direct control over web pages for testing, scraping and repetitive flows. It is an advanced technique, but much sought after by product teams.",
+    "score": 0.6,
+    "tags": [
+      "automação",
+      "python",
+      "tutorial"
+    ],
+    "img": "img/119caad1d5ef.jpg",
+    "ts": 1787263365,
+    "addedTs": 1787264235,
+    "urlHash": "119caad1d5ef",
+    "titleHash": "12ded4a15da4"
+  },
+  {
+    "title": "I published 8 months of frontier-AI research, code, emails, and timestamps",
+    "titlePt": "Pesquisador publica 8 meses de bastidores de IA de fronteira",
+    "url": "https://zenodo.org/records/21969180",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Alguém abriu o baú: publicou códigos, e-mails, registros de data e hora de oito meses de trabalho em IA de fronteira. É um caso raro de transparência em um campo normalmente fechado. Desenvolvedores e jornalistas podem analisar materiais primários que raramente saem dos laboratórios.",
+    "reasonEn": "Someone opened the vault: they published code, emails, and timestamps from eight months of frontier AI work. It is a rare case of transparency in a normally closed field. Developers and journalists can analyze raw materials that rarely leave the labs.",
+    "score": 0.7,
+    "tags": [
+      "pesquisa",
+      "transparência"
+    ],
+    "img": "img/52bcd64a86ac.jpg",
+    "ts": 1787262862,
+    "addedTs": 1787264235,
+    "urlHash": "52bcd64a86ac",
+    "titleHash": "5379db49dbe0"
+  },
+  {
+    "title": "Protesters haul a guillotine to city council meeting about an AI data center",
+    "titlePt": "Protesto dramático leva guilhotina a audiência sobre data center de IA",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/protesters-haul-a-guillotine-to-city-council-meeting-about-a-potential-ai-data-center-company-rep-cornered-by-protestors-it-no-longer-felt-safe-to-stay-developer-escorted-out-by-police",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Manifestantes foram a uma reunião do conselho municipal carregando uma guilhotina para protestar contra um data center de IA. É um sinal claro de que a oposição local à infraestrutura de IA está crescendo e ficando visualmente agressiva. O caso mostra como a questão energética e ambiental está polarizando comunidades.",
+    "reasonEn": "Protesters went to a city council meeting carrying a guillotine to protest an AI data center. It is a clear sign that local opposition to AI infrastructure is growing and turning visually aggressive. The case shows how the energy and environmental issue is polarizing communities.",
+    "score": 0.65,
+    "tags": [
+      "protesto",
+      "data center",
+      "sociedade"
+    ],
+    "img": "img/9953931b8b91.jpg",
+    "ts": 1787262817,
+    "addedTs": 1787264235,
+    "urlHash": "9953931b8b91",
+    "titleHash": "39dc532742bf"
+  },
+  {
+    "title": "Training Thousands of LoRA Adapters at Once",
+    "titlePt": "Como treinar milhares de adaptadores LoRA de uma vez",
+    "url": "https://osmosis.ai/blogs/training-thousands-of-lora-adapters-at-once",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um artigo técnico explica técnicas para treinar muitos adaptadores LoRA simultaneamente. É útil para times que ajustam modelos para dezenas de tarefas ou clientes diferentes. A promessa é economizar tempo e custo de GPU sem perder qualidade.",
+    "reasonEn": "A technical article explains techniques for training many LoRA adapters at once. It is useful for teams tuning models for dozens of different tasks or customers. The promise is saving time and GPU cost without losing quality.",
+    "score": 0.55,
+    "tags": [
+      "treinamento",
+      "lora",
+      "ml"
+    ],
+    "img": "img/f082ea0474cb.jpg",
+    "ts": 1787262570,
+    "addedTs": 1787264235,
+    "urlHash": "f082ea0474cb",
+    "titleHash": "2169553e979a"
+  },
+  {
+    "title": "Everything but the model: what matters in production agents",
+    "titlePt": "O que importa em agentes de produção, além do modelo",
+    "url": "https://medium.com/@fsaint/i-built-a-cloud-for-ai-agents-the-cloud-was-the-wrong-part-a974484b78b0",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um post defende que, em agentes em produção, o que decide o resultado é a engenharia em volta, não o modelo em si. Toca em tópicos como orquestração, logs, ferramentas e avaliação. É leitura recomendada para quem está colocando agentes em produto real.",
+    "reasonEn": "A post argues that in production agents, what decides the outcome is the surrounding engineering, not the model itself. It touches on topics like orchestration, logs, tools and evaluation. Recommended reading for those putting agents into real products.",
+    "score": 0.6,
+    "tags": [
+      "agentes",
+      "engenharia"
+    ],
+    "img": "img/1ff6607ce1c8.jpg",
+    "ts": 1787262154,
+    "addedTs": 1787264235,
+    "urlHash": "1ff6607ce1c8",
+    "titleHash": "fcc6bed94a88"
+  },
+  {
+    "title": "Iceland cuts store losses by 80% with AI-powered theft detection",
+    "titlePt": "Islândia reduz perdas em lojas em 80% com IA antifurto",
+    "url": "https://www.retailgazette.co.uk/blog/2026/08/iceland-cuts-store-losses-by-80-with-ai-powered-theft-detection/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Lojas islandesas implementaram detecção de roubo com IA e cortaram perdas em 80%. É um caso real de impacto financeiro direto com retorno claro. Mostra como IA de visão computacional já está entregando valor no varejo físico.",
+    "reasonEn": "Icelandic stores implemented AI-powered theft detection and cut losses by 80%. It is a real case of direct financial impact with clear return. It shows how computer vision AI is already delivering value in physical retail.",
+    "score": 0.7,
+    "tags": [
+      "varejo",
+      "visão computacional",
+      "caso real"
+    ],
+    "img": "img/9ff629501583.jpg",
+    "ts": 1787261304,
+    "addedTs": 1787264235,
+    "urlHash": "9ff629501583",
+    "titleHash": "781c9821af93"
+  },
+  {
+    "title": "The Threat of AI to Media Archives",
+    "titlePt": "A ameaça da IA aos acervos de mídia",
+    "url": "https://ebird.org/news/threat-of-ai-to-archives",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto discute como modelos generativos podem apagar ou distorcer o registro histórico mantido por jornais, TVs e produtoras. É um problema civilizacional: sem arquivo confiável, perde-se memória coletiva. Jornalistas, arquivistas e reguladores precisam se mexer.",
+    "reasonEn": "The text discusses how generative models can erase or distort the historical record kept by newspapers, TVs and production houses. It is a civilizational problem: without a reliable archive, collective memory is lost. Journalists, archivists and regulators need to act.",
+    "score": 0.55,
+    "tags": [
+      "mídia",
+      "arquivo",
+      "sociedade"
+    ],
+    "img": "img/9a0e95795e36.jpg",
+    "ts": 1787260400,
+    "addedTs": 1787264235,
+    "urlHash": "9a0e95795e36",
+    "titleHash": "e596098670da"
+  },
+  {
+    "title": "How to Destroy AI Scam Phone Calls (Short Video)",
+    "titlePt": "Como acabar com ligações de golpe feitas com IA",
+    "url": "https://www.youtube.com/shorts/aa0v-24EFy0",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um vídeo curto mostra técnicas práticas para identificar e bloquear chamadas de voz geradas por IA. É útil para qualquer pessoa com telefone, principalmente idosos. Mostra que o combate a fraudes com IA começa no comportamento do usuário.",
+    "reasonEn": "A short video shows practical techniques to identify and block AI-generated voice calls. It is useful for anyone with a phone, especially the elderly. It shows that the fight against AI fraud starts in user behavior.",
+    "score": 0.5,
+    "tags": [
+      "segurança",
+      "golpes",
+      "voz"
+    ],
+    "img": "img/44ca4806216f.jpg",
+    "ts": 1787260129,
+    "addedTs": 1787264235,
+    "urlHash": "44ca4806216f",
+    "titleHash": "27df31d4664a"
+  },
+  {
+    "title": "We published 421 AI-written articles in five months. They earned 10 clicks",
+    "titlePt": "Publicamos 421 artigos escritos por IA em cinco meses: 10 cliques",
+    "url": "https://blog.marketingsohigh.com/421-ai-articles-10-clicks-what-the-data-showed/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um experimento revela que 421 artigos gerados por IA renderam apenas 10 cliques em cinco meses. É um alerta frio sobre o chamado SEO de IA e a saturação de conteúdo automático. Ajuda empresas a repensarem antes de terceirizar todo o conteúdo para máquinas.",
+    "reasonEn": "An experiment reveals that 421 AI-generated articles earned only 10 clicks in five months. It is a cold warning about so-called AI SEO and the saturation of automated content. It helps companies rethink before outsourcing all content to machines.",
+    "score": 0.65,
+    "tags": [
+      "conteúdo",
+      "seo",
+      "experimento"
+    ],
+    "img": "img/e9c961477c0b.jpg",
+    "ts": 1787259646,
+    "addedTs": 1787264235,
+    "urlHash": "e9c961477c0b",
+    "titleHash": "f03f349bd1be"
+  },
+  {
+    "title": "Show HN: Molecule.dev is an AI-first composable package ecosystem",
+    "titlePt": "Molecule.dev: ecossistema de pacotes componível e focado em IA",
+    "url": "https://github.com/molecule-dev/molecule",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Molecule.dev é um novo ecossistema de pacotes projetado desde o início para ser composto por IA, permitindo que agentes montem funcionalidades automaticamente. O projeto foi publicado no Show HN, ganhando atenção da comunidade de desenvolvedores. Pode acelerar fluxos de trabalho de desenvolvimento e mudar a forma como bibliotecas são criadas e consumidas. Ainda é um lançamento inicial, então a maturidade do ecossistema precisa ser avaliada.",
+    "reasonEn": "Molecule.dev is a new package ecosystem designed from the ground up to be AI-composable, letting agents assemble functionality automatically. The project was posted on Show HN and caught attention from the developer community. It could speed up development workflows and reshape how libraries are built and consumed. It is still an early launch, so the ecosystem's maturity remains to be seen.",
+    "score": 0.55,
+    "tags": [
+      "lançamento",
+      "devtools",
+      "agentes"
+    ],
+    "img": "img/16fb10f606d3.jpg",
+    "ts": 1787259607,
+    "addedTs": 1787264235,
+    "urlHash": "16fb10f606d3",
+    "titleHash": "ef997dc978d9"
+  },
+  {
+    "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+    "titlePt": "Stampli reduz em 68% o tempo de lançamento com ChatGPT Work",
+    "url": "https://openai.com/index/stampli",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "A Stampli, fintech de gestão de contas a pagar, relata que reduziu o tempo de lançamento de novos produtos em 68% ao integrar o ChatGPT Work ao fluxo de desenvolvimento. O case mostra ganhos reais de produtividade com IA em ambiente corporativo. É um exemplo concreto que pode inspirar outras empresas. Útil para líderes técnicos avaliando ROI de IA generativa.",
+    "reasonEn": "Stampli, an accounts-payable fintech, reports cutting product launch time by 68% after integrating ChatGPT Work into its development flow. The case shows real productivity gains with AI in a corporate setting. It is a concrete example that can inspire other companies. It is useful for technical leaders evaluating generative AI ROI.",
+    "score": 0.6,
+    "tags": [
+      "caso",
+      "produtividade",
+      "empresas"
+    ],
+    "img": "img/ad89fb510e3c.jpg",
+    "ts": 1787184000,
+    "addedTs": 1787264235,
+    "urlHash": "ad89fb510e3c",
+    "titleHash": "1c05c306f4bb"
+  },
+  {
+    "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+    "titlePt": "Agentes de voz multilíngues com Magpie TTS da NVIDIA",
+    "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "A NVIDIA publicou o Magpie TTS em pesos abertos, permitindo criar agentes de voz multilíngues de baixa latência com controle total de implantação. O modelo facilita a construção de aplicações de voz sem depender de APIs fechadas. É relevante para desenvolvedores que precisam de TTS flexível e on-premise. Aumenta a oferta de alternativas abertas no mercado de voz.",
+    "reasonEn": "NVIDIA released Magpie TTS with open weights, enabling low-latency multilingual voice agents with full deployment control. The model makes it easier to build voice applications without relying on closed APIs. It is relevant for developers needing flexible on-premise TTS. It expands the open alternatives in the voice market.",
+    "score": 0.55,
+    "tags": [
+      "lançamento",
+      "voz",
+      "open-source"
+    ],
+    "img": "img/5890b1cfd4cc.jpg",
+    "ts": 1786379136,
+    "addedTs": 1787264235,
+    "urlHash": "5890b1cfd4cc",
+    "titleHash": "eb7bc34091a0"
+  },
+  {
     "title": "AI-Driven Development Means Test-Driven Development",
     "titlePt": "Desenvolvimento com IA significa voltar ao Test-Driven Development",
     "url": "https://meiert.com/blog/ai-and-tdd/",
@@ -10548,307 +10854,5 @@
     "addedTs": 1786831905,
     "urlHash": "cd36b7d00429",
     "titleHash": "e148635ad4a7"
-  },
-  {
-    "title": "Meta will train its AI on Newsmax, a far-right media outlet",
-    "titlePt": "Meta vai treinar sua IA com conteúdo da Newsmax, veículo de extrema direita",
-    "url": "https://popular.info/p/meta-will-train-its-ai-on-far-right",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Meta anunciou que vai usar conteúdo da Newsmax, um veículo de mídia de extrema direita dos EUA, para treinar seus modelos de inteligência artificial. A decisão levanta preocupações sobre a qualidade e o viés político dos dados usados no treinamento. Especialistas apontam que incluir fontes polarizadas pode reforçar desinformação dentro dos sistemas de IA. A escolha afeta diretamente desenvolvedores e usuários que dependem dos modelos Meta para obter conteúdo neutro.",
-    "reasonEn": "Meta announced it will use content from Newsmax, a far-right US media outlet, to train its AI models. The decision raises concerns about the quality and political bias of training data. Experts warn that including polarized sources can reinforce misinformation inside AI systems. The choice directly affects developers and users who rely on Meta's models for neutral content.",
-    "score": 0.65,
-    "tags": [
-      "treinamento",
-      "vies",
-      "midia"
-    ],
-    "img": "img/79b1f93b9346.jpg",
-    "ts": 1786824014,
-    "addedTs": 1786824755,
-    "urlHash": "79b1f93b9346",
-    "titleHash": "893436481ffa"
-  },
-  {
-    "title": "Why tech bosses keep sharing their manifestos about AI",
-    "titlePt": "Por que os chefes da tecnologia continuam compartilhando manifestos sobre IA",
-    "url": "https://www.bbc.com/news/articles/cz97ljy91zxo",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Líderes de grandes empresas de tecnologia têm publicado cada vez mais manifestos e cartas abertas sobre o futuro da IA. O texto analisa os motivos por trás dessa tendência, que mistura marketing, posicionamento estratégico e busca por influência regulatória. Para o público geral, é mais um sinal de que a corrida da IA virou também uma batalha de narrativas. Desenvolvedores devem ficar atentos ao que essas mensagens revelam sobre os rumos da indústria.",
-    "reasonEn": "Leaders of major tech companies have increasingly been publishing manifestos and open letters about the future of AI. The text analyzes the reasons behind this trend, which mixes marketing, strategic positioning, and a search for regulatory influence. For the general public, it's another sign that the AI race has also become a battle of narratives. Developers should pay attention to what these messages reveal about the industry's direction.",
-    "score": 0.5,
-    "tags": [
-      "manifesto",
-      "regulacao",
-      "industria"
-    ],
-    "img": "img/9f93bf789a5d.jpg",
-    "ts": 1786822232,
-    "addedTs": 1786824755,
-    "urlHash": "9f93bf789a5d",
-    "titleHash": "d85387e3be20"
-  },
-  {
-    "title": "So How Is AI Drug Discovery Doing, Really?",
-    "titlePt": "No fim das contas, como está a descoberta de medicamentos com IA?",
-    "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo faz um balanço realista do uso de IA na descoberta de novos medicamentos. Apesar do grande hype, os resultados práticos até agora são modestos, com poucos medicamentos realmente chegando ao mercado. Houve avanços em triagem de moléculas e simulações, mas o processo regulatório continua lento. É uma leitura útil para quem quer separar propaganda de progresso real na área.",
-    "reasonEn": "The article takes a realistic look at AI use in drug discovery. Despite the heavy hype, practical results so far have been modest, with few drugs actually reaching the market. There have been advances in molecule screening and simulations, but the regulatory process remains slow. It's a useful read for anyone wanting to separate hype from real progress in the field.",
-    "score": 0.55,
-    "tags": [
-      "saude",
-      "pesquisa"
-    ],
-    "img": "img/441022e5503b.jpg",
-    "ts": 1786821173,
-    "addedTs": 1786824755,
-    "urlHash": "441022e5503b",
-    "titleHash": "064f4878555a"
-  },
-  {
-    "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-    "titlePt": "Anthropic revela mais detalhes sobre como funcionarão as marcas d'água do Claude",
-    "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A Anthropic publicou novos detalhes sobre o sistema de marca d'água que pretende embutir nos textos gerados pelo Claude. O objetivo é permitir identificar conteúdos produzidos por IA e combater desinformação em larga escala. A medida pode ter impacto em desenvolvedores que usam a API, já que pode limitar certos usos automatizados. É um passo importante no debate sobre autenticidade de conteúdo digital.",
-    "reasonEn": "Anthropic published new details about the watermark system it intends to embed in texts generated by Claude. The goal is to identify AI-produced content and combat misinformation at scale. The measure may impact developers using the API, as it could limit certain automated uses. It's an important step in the debate over digital content authenticity.",
-    "score": 0.75,
-    "tags": [
-      "antropic",
-      "claude",
-      "seguranca"
-    ],
-    "img": "img/569c4523c8fc.jpg",
-    "ts": 1786820319,
-    "addedTs": 1786824755,
-    "urlHash": "569c4523c8fc",
-    "titleHash": "3892516544d8"
-  },
-  {
-    "title": "Show HN: Self-hosted monitoring for AI recommendations (MIT License)",
-    "titlePt": "Show HN: monitoramento auto-hospedado para recomendações de IA",
-    "url": "https://lettertrace.com",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um desenvolvedor publicou um projeto open source sob licença MIT para monitorar sistemas de recomendação baseados em IA. A ferramenta permite acompanhar resultados, detectar vieses e melhorar a transparência dos modelos. É útil para equipes que precisam auditar sistemas em produção. Mostra a tendência crescente de ferramentas de observabilidade dedicadas à IA.",
-    "reasonEn": "A developer published an open source project under MIT license to monitor AI-based recommendation systems. The tool allows tracking results, detecting biases, and improving model transparency. It's useful for teams that need to audit systems in production. It shows the growing trend of observability tools dedicated to AI.",
-    "score": 0.55,
-    "tags": [
-      "opensource",
-      "monitoramento",
-      "ia"
-    ],
-    "img": "img/3d6b76512730.jpg",
-    "ts": 1786815313,
-    "addedTs": 1786824755,
-    "urlHash": "3d6b76512730",
-    "titleHash": "277a18f54f62"
-  },
-  {
-    "title": "Open Sourcing the Atuin AI Server",
-    "titlePt": "Abrindo o código do servidor Atuin AI",
-    "url": "https://blog.atuin.sh/atuin-ai-oss/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A equipe do projeto Atuin abriu o código do seu servidor de IA, disponibilizando a infraestrutura completa para a comunidade. A decisão permite que outros desenvolvedores estudem, modifiquem e implantem o sistema em seus próprios ambientes. É mais um movimento na tendência de abertura de ferramentas de IA. Interessa especialmente a quem busca alternativas auto-hospedadas.",
-    "reasonEn": "The Atuin project team open-sourced its AI server, making the full infrastructure available to the community. The decision allows other developers to study, modify, and deploy the system in their own environments. It's another move in the trend of opening up AI tools. It especially interests those looking for self-hosted alternatives.",
-    "score": 0.5,
-    "tags": [
-      "opensource",
-      "infraestrutura"
-    ],
-    "img": "img/0ff98ad8d07f.jpg",
-    "ts": 1786814146,
-    "addedTs": 1786824755,
-    "urlHash": "0ff98ad8d07f",
-    "titleHash": "04adf3391a0f"
-  },
-  {
-    "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-    "titlePt": "IA não está pensando mais que matemáticos, está só lembrando melhor",
-    "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O texto mostra que sistemas de IA parecem gerar provas matemáticas novas, mas no fundo dependem de memorização massiva de conteúdo já existente. Isso importa porque muita gente superestima a capacidade real de raciocínio criativo e confunde recall inteligente com inovação. Desenvolvedores devem calibrar expectativas antes de confiar em IA para tarefas técnicas inéditas. Qualquer usuário de modelos generativos é afetado por essa ilusão de pensamento.",
-    "reasonEn": "The piece argues AI doesn't truly out-think mathematicians — it wins by memorizing huge amounts of training data. It matters because many people overestimate the creative reasoning and confuse smart recall with real innovation. Developers should recalibrate expectations before trusting AI on novel technical work. Anyone using generative models is affected by this illusion.",
-    "score": 0.62,
-    "tags": [
-      "matemática",
-      "memória",
-      "limites"
-    ],
-    "img": "img/ba9e2d42d5d6.jpg",
-    "ts": 1786817582,
-    "addedTs": 1786817734,
-    "urlHash": "ba9e2d42d5d6",
-    "titleHash": "83c470e3537f"
-  },
-  {
-    "title": "AI detectors are creating a new era of distrust",
-    "titlePt": "Detectores de IA criam nova era de desconfiança",
-    "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Ferramentas que tentam identificar textos escritos por IA estão produzindo falsos positivos e resultados inconsistentes, gerando desconfiança em escolas, empresas e na web. O impacto recai principalmente sobre estudantes, professores e equipes de conteúdo que precisam avaliar entregas. Para desenvolvedores, serve de aviso sobre limites e riscos antes de integrar esses detectores em fluxos. Confiar cegamente em tecnologia de classificação pode sair caro.",
-    "reasonEn": "AI-detection tools are producing false positives and inconsistent results, fueling a new wave of distrust in schools, workplaces and online. The impact hits hardest students, teachers and content teams judging submitted work. For developers it's a warning about limits and risks before wiring these detectors into pipelines. Blind trust in classification tech can backfire badly.",
-    "score": 0.6,
-    "tags": [
-      "detecção",
-      "confiança",
-      "ferramentas"
-    ],
-    "img": "img/5ddd2738c431.jpg",
-    "ts": 1786817272,
-    "addedTs": 1786817734,
-    "urlHash": "5ddd2738c431",
-    "titleHash": "dfd8ed4f019a"
-  },
-  {
-    "title": "Briefing on Extinction-Level AI Threats",
-    "titlePt": "Briefing sobre ameaças de IA em nível de extinção",
-    "url": "https://intelligence.org/briefing/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Documento reúne argumentos sobre riscos catastróficos e existenciais ligados ao avanço da IA, incluindo cenários de perda de controle. Importa porque reguladores, executivos e pesquisadores estão moldando políticas com base nesse tipo de análise. Desenvolvedores que constroem sistemas avançados devem entender os argumentos. Reflexão útil mesmo quando os cenários parecem distantes da realidade atual.",
-    "reasonEn": "Briefing gathers arguments on catastrophic, extinction-level risks tied to advanced AI, including loss-of-control scenarios. It matters because regulators, executives and researchers are shaping policy around such analyses. Builders of advanced systems should understand the arguments. Useful reflection, even when scenarios feel far off.",
-    "score": 0.62,
-    "tags": [
-      "segurança",
-      "extinção",
-      "regulação"
-    ],
-    "img": "img/cb001ac48e39.jpg",
-    "ts": 1786811610,
-    "addedTs": 1786817734,
-    "urlHash": "cb001ac48e39",
-    "titleHash": "6f5742611698"
-  },
-  {
-    "title": "Godfather of AI: \"If you sleep well tonight...\" [video]",
-    "titlePt": "Padrinho da IA alerta: 'se você dormir bem esta noite...'",
-    "url": "https://www.youtube.com/watch?v=iVXerna_D4A",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Vídeo traz alerta de uma figura central da área de IA sobre os perigos iminentes da tecnologia que ajudou a criar. Sinaliza que líderes da indústria estão cada vez mais preocupados e dispostos a falar publicamente. Desenvolvedores devem assistir para calibrar senso de urgência e responsabilidade. Conteúdo relevante para qualquer pessoa que trabalha com IA em qualquer nível.",
-    "reasonEn": "A video featuring a leading AI figure warning about imminent dangers of the tech he helped build. It signals that industry leaders are increasingly worried and willing to speak publicly. Developers should watch it to calibrate their sense of urgency and responsibility. Relevant content for anyone working with AI at any level.",
-    "score": 0.68,
-    "tags": [
-      "segurança",
-      "líder",
-      "alerta"
-    ],
-    "img": "img/7513fd53a0b6.jpg",
-    "ts": 1786811086,
-    "addedTs": 1786817734,
-    "urlHash": "7513fd53a0b6",
-    "titleHash": "2d3c83b779b0"
-  },
-  {
-    "title": "Ask HN: How to Stay Marketable in the AI Era?",
-    "titlePt": "Pergunta do fórum: como se manter relevante na era da IA",
-    "url": "https://news.ycombinator.com/item?id=49311655",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Discussão em fórum de tecnologia em que desenvolvedores e profissionais perguntam como continuam atraentes para o mercado em meio ao avanço da inteligência artificial. Os participantes compartilham conselhos sobre habilidades técnicas, adaptação e aprendizado contínuo. O tema interessa a qualquer pessoa preocupada com a própria carreira na tecnologia. Mostra que a dúvida sobre o futuro profissional está generalizada na comunidade.",
-    "reasonEn": "A Hacker News thread where developers and professionals ask how to stay marketable as AI advances. Participants share advice on technical skills, adaptation, and continuous learning. The topic interests anyone worried about their tech career. It shows that uncertainty about professional futures is widespread in the community.",
-    "score": 0.5,
-    "tags": [
-      "carreira",
-      "ia"
-    ],
-    "img": "img/82e88a539ced.jpg",
-    "ts": 1786809539,
-    "addedTs": 1786810425,
-    "urlHash": "82e88a539ced",
-    "titleHash": "1d1b317c61e9"
-  },
-  {
-    "title": "SpaceX has acquired coding AI startup Cursor",
-    "titlePt": "SpaceX teria adquirido a startup de IA para programação Cursor",
-    "url": "https://www.engadget.com/2237655/spacex-officially-acquired-ai-coding-startup-cursor/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A publicação afirma que a SpaceX comprou a Cursor, startup conhecida por seu assistente de código baseado em inteligência artificial. O movimento chamaria a atenção por unir uma empresa espacial a uma ferramenta voltada a desenvolvedores de software. O impacto, se confirmado, pode reshufflear o mercado de assistentes de programação. Detalhes da transação ainda não são claros no título apresentado.",
-    "reasonEn": "The post claims SpaceX bought Cursor, the startup known for its AI coding assistant. The move would be notable for pairing a space company with a developer-focused tool. If confirmed, it could shake up the AI coding assistant market. Transaction details remain unclear from the headline.",
-    "score": 0.65,
-    "tags": [
-      "aquisição",
-      "ia"
-    ],
-    "img": "img/cae1829a946e.jpg",
-    "ts": 1786809429,
-    "addedTs": 1786810425,
-    "urlHash": "cae1829a946e",
-    "titleHash": "eaebfeb30682"
-  },
-  {
-    "title": "OpenAI talent exodus raises 'huge red flag' ahead of IPO",
-    "titlePt": "Saída de talentos da OpenAI acende alerta antes do IPO",
-    "url": "https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Reportagem aponta que a OpenAI está perdendo pesquisadores e executivos importantes em meio à preparação para uma oferta pública de ações. O movimento preocupa investidores porque capital humano é um dos maiores ativos de empresas de inteligência artificial. Vários funcionários já teriam migrado para startups concorrentes ou fundado novas empresas. O tema pode afetar a avaliação da OpenAI no mercado financeiro.",
-    "reasonEn": "Reports say OpenAI is losing key researchers and executives while preparing for an IPO. Investors are worried because human capital is one of the biggest assets of AI companies. Several employees have already moved to rival startups or founded new ventures. The trend could affect OpenAI's market valuation.",
-    "score": 0.9,
-    "tags": [
-      "openai",
-      "mercado"
-    ],
-    "img": "img/6af8e84630a5.jpg",
-    "ts": 1786807516,
-    "addedTs": 1786810425,
-    "urlHash": "6af8e84630a5",
-    "titleHash": "dfbd000953e9"
-  },
-  {
-    "title": "China is shaping the future of open‑source technology – including AI",
-    "titlePt": "China está moldando o futuro do código aberto, inclusive em inteligência artificial",
-    "url": "https://theconversation.com/china-is-shaping-the-future-of-open-source-technology-including-ai-288061",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Análise mostra que a China tem ganhado influência crescente no desenvolvimento de software de código aberto, com modelos de IA entre os mais baixados do mundo. Empresas chinesas contribuem com projetos e lançam versões abertas que competem diretamente com gigantes ocidentais. O movimento preocupa reguladores em outros países sobre quem define os padrões técnicos globais. Para desenvolvedores, significa mais opções gratuitas e concorrência maior.",
-    "reasonEn": "Analysis shows China is gaining growing influence in open-source software, with AI models among the most downloaded worldwide. Chinese firms are contributing to projects and releasing open versions that compete directly with Western giants. The shift worries regulators elsewhere about who sets global technical standards. For developers, it means more free options and more competition.",
-    "score": 0.75,
-    "tags": [
-      "china",
-      "código-aberto"
-    ],
-    "img": "img/0505c00fd329.jpg",
-    "ts": 1786805791,
-    "addedTs": 1786810425,
-    "urlHash": "0505c00fd329",
-    "titleHash": "b858f00faae3"
   }
 ]
