@@ -1,5 +1,112 @@
 [
   {
+    "title": "US warns of AI-powered attacks on Siemens PLCs in critical infrastructure",
+    "titlePt": "EUA alertam sobre ataques de IA contra CLPs da Siemens",
+    "url": "https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Autoridades americanas emitiram alerta oficial sobre o uso de inteligência artificial para atacar controladores lógicos programáveis da Siemens usados em infraestruturas críticas, como energia e água. O aviso indica que agentes automatizados já conseguem identificar e explorar vulnerabilidades de forma autônoma. Profissionais de segurança, operadores de infraestrutura e fabricantes precisam revisar defesas imediatamente. Para desenvolvedores, é um sinal claro de que código malicioso gerado por IA deixou de ser teoria.",
+    "reasonEn": "US authorities issued an official warning about AI being used to attack Siemens PLCs used in critical infrastructure such as energy and water systems. The alert notes automated agents can now autonomously identify and exploit vulnerabilities. Security professionals, infrastructure operators, and vendors must review defenses now. For developers, it is a clear signal that AI-generated malicious code is no longer theoretical.",
+    "score": 0.9,
+    "tags": [
+      "segurança",
+      "infraestrutura",
+      "regulação"
+    ],
+    "img": "img/71fc6995d69e.jpg",
+    "ts": 1787184426,
+    "addedTs": 1787186493,
+    "urlHash": "71fc6995d69e",
+    "titleHash": "ead6f2b8bfd9"
+  },
+  {
+    "title": "\"Half-Day\": 0-Day in the Age of AI",
+    "titlePt": "Vulnerabilidades exploráveis em meio dia na era da IA",
+    "url": "https://margin.re/2026/08/introducing-the-half-day-0-day-in-the-age-of-ai/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Discussão sobre como a IA está comprimindo o tempo entre a descoberta de uma falha e sua exploração em produção, conceito chamado de meio dia. O tema é técnico e relevante para times que lidam com deploy contínuo e resposta a incidentes. Ajuda a calibrar políticas de patch e monitoramento. Ainda é debate, sem evento específico confirmado.",
+    "reasonEn": "A discussion on how AI is shrinking the gap between a vulnerability being disclosed and exploited in the wild, dubbed a half-day. The topic is technical and relevant for teams handling continuous deployment and incident response. It helps calibrate patching and monitoring policies. Still a debate rather than a confirmed event.",
+    "score": 0.7,
+    "tags": [
+      "segurança",
+      "vulnerabilidade"
+    ],
+    "img": "img/2abee6f5f923.jpg",
+    "ts": 1787180633,
+    "addedTs": 1787186493,
+    "urlHash": "2abee6f5f923",
+    "titleHash": "fe95cfa2219b"
+  },
+  {
+    "title": "Semantica, the Open Source Palantir for AI Agents",
+    "titlePt": "Semantica: Palantir aberto para agentes de IA",
+    "url": "https://github.com/semantica-agi/semantica",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Projeto de código aberto propõe ser o equivalente livre do Palantir, focado em servir de base de conhecimento para agentes de IA. Pode interessar equipes que precisam dar contexto estruturado a agentes sem depender de fornecedor único. Ainda é novidade, vale acompanhar a maturidade e a comunidade antes de apostar.",
+    "reasonEn": "An open-source project aims to be the free equivalent of Palantir, focused on serving as a knowledge base for AI agents. It may interest teams needing structured context for agents without vendor lock-in. Still new, so worth watching maturity and community before committing.",
+    "score": 0.6,
+    "tags": [
+      "open-source",
+      "agentes"
+    ],
+    "img": "img/1e09ecc78087.jpg",
+    "ts": 1787178528,
+    "addedTs": 1787186493,
+    "urlHash": "1e09ecc78087",
+    "titleHash": "7f795856e263"
+  },
+  {
+    "title": "PINE64 halts their open-source hardware manufacturing until the AI bubble bursts",
+    "titlePt": "PINE64 paralisa fabricação até a bolha de IA estourar",
+    "url": "https://www.hackster.io/news/pine64-calls-time-on-the-linux-hardware-market-ceases-production-until-the-ai-bubble-bursts-a865c8345041",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Fabricante de hardware aberto PINE64 anunciou que vai suspender a produção até o mercado de inteligência artificial se estabilizar, alegando pressão de custos e priorização do setor. É um sinal claro de que a corrida por GPUs e componentes está afetando toda a cadeia, inclusive projetos pequenos. Para desenvolvedores e entusiastas, significa atrasos em dispositivos como laptops e celulares Linux. Também é um termômetro sobre quando a bolha pode começar a ceder.",
+    "reasonEn": "Open hardware maker PINE64 announced it will halt production until the AI market stabilizes, citing cost pressure and industry prioritization. It is a clear sign the GPU and component race is affecting the whole chain, including small projects. For developers and enthusiasts, expect delays on Linux laptops and phones. Also a thermometer for when the bubble might start deflating.",
+    "score": 0.65,
+    "tags": [
+      "hardware",
+      "bolha"
+    ],
+    "img": "img/a45deb3bead5.jpg",
+    "ts": 1787178014,
+    "addedTs": 1787186493,
+    "urlHash": "a45deb3bead5",
+    "titleHash": "5d6a79c22e89"
+  },
+  {
+    "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+    "titlePt": "OpenAI tenta superar Anthropic em privacidade de clientes",
+    "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "OpenAI anunciou novos mecanismos de privacidade para clientes corporativos, mirando diretamente as ofertas de zero retenção de dados da Anthropic. A disputa mostra que privacidade virou campo competitivo entre os grandes modelos. Empresas que usam IA em processos sensíveis devem revisar os termos antes de escolher fornecedor. É movimento relevante para times jurídicos e de compliance.",
+    "reasonEn": "OpenAI announced new customer privacy protections for enterprise clients, directly targeting Anthropic's zero data retention offerings. The fight shows privacy has become a competitive field among top model providers. Companies using AI in sensitive workflows should review terms before picking a vendor. Relevant for legal and compliance teams.",
+    "score": 0.85,
+    "tags": [
+      "privacidade",
+      "openai",
+      "concorrência"
+    ],
+    "img": "img/9c6c713126af.jpg",
+    "ts": 1787177446,
+    "addedTs": 1787186493,
+    "urlHash": "9c6c713126af",
+    "titleHash": "567b4c5e7842"
+  },
+  {
     "title": "Japan to require AI firms to disclose training data",
     "titlePt": "Japão vai exigir que empresas de IA divulguem dados de treino",
     "url": "https://www.japantimes.co.jp/news/2026/08/19/japan/ai-training-data-disclosure/",
@@ -10751,111 +10858,5 @@
     "addedTs": 1786718670,
     "urlHash": "9d7bfbd4e75c",
     "titleHash": "15dbcc0db71a"
-  },
-  {
-    "title": "Charisma, confidence and no fear of AI taking their jobs. The personality hires",
-    "titlePt": "Carisma, confiança e sem medo da IA. Os contratados pela personalidade",
-    "url": "https://www.marketwatch.com/story/these-workers-have-charisma-confidence-and-no-fear-of-ai-taking-their-jobs-theyre-the-personality-hires-3235c187?mod=djem_mwnpfinance",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Empresas passaram a valorizar candidatos com presença forte e habilidades sociais, justamente os perfis menos ameaçados por ferramentas de IA. Profissionais de vendas, relações públicas e negociação se destacam porque seu valor está na interação humana, não em tarefas repetitivas. É um sinal claro de como o mercado de trabalho se reorganiza. Para quem escolhe carreira, investir em habilidades interpessoais pode ser diferencial competitivo.",
-    "reasonEn": "Companies have started valuing candidates with strong presence and social skills, exactly the profiles least threatened by AI tools. Sales, PR, and negotiation professionals stand out because their value lies in human interaction, not repetitive tasks. It's a clear sign of how the labor market is reorganizing. For those choosing a career, investing in interpersonal skills can be a competitive edge.",
-    "score": 0.6,
-    "tags": [
-      "trabalho",
-      "carreira"
-    ],
-    "img": "img/4613d8bce763.jpg",
-    "ts": 1786710879,
-    "addedTs": 1786711403,
-    "urlHash": "4613d8bce763",
-    "titleHash": "41a89f32875a"
-  },
-  {
-    "title": "Show HN: Artifex - Graph Based GPU Harness for AI Agents",
-    "titlePt": "Artifex: ferramenta de GPU baseada em grafos para agentes de IA",
-    "url": "https://gatewai.studio/artifex",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O Artifex é um projeto open source que usa estrutura de grafos para organizar o uso de GPUs por múltiplos agentes de IA. Em vez de cada agente competir por recursos, o sistema coordena quem usa qual GPU e quando, evitando gargalos. É útil para times que rodam vários agentes em paralelo. Mostra uma tendência de ferramentas de orquestração mais sofisticadas para cargas de IA.",
-    "reasonEn": "Artifex is an open-source project that uses graph structure to organize GPU usage by multiple AI agents. Instead of each agent competing for resources, the system coordinates who uses which GPU and when, avoiding bottlenecks. Useful for teams running multiple agents in parallel. It reflects a trend toward more sophisticated orchestration tools for AI workloads.",
-    "score": 0.7,
-    "tags": [
-      "gpu",
-      "agentes",
-      "open-source"
-    ],
-    "img": "img/5ec9ca6e3f82.jpg",
-    "ts": 1786709713,
-    "addedTs": 1786711403,
-    "urlHash": "5ec9ca6e3f82",
-    "titleHash": "f58c7b46121d"
-  },
-  {
-    "title": "Open Silicon Photonics for AI Systems Initiative",
-    "titlePt": "Iniciativa de Fotônica de Silício Aberta para Sistemas de IA",
-    "url": "https://lightmatter.co/press-release/industry-leaders-formally-launch-cpo-system-architecture-initiative-within-the-open-compute-project/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Uma nova iniciativa quer tornar open source o hardware de fotônica de silício, que usa luz em vez de eletricidade para processar dados. A promessa é acelerar drasticamente o treinamento e a inferência de modelos de IA com menor consumo de energia. É uma jogada estratégica para reduzir a dependência de GPUs dominadas por poucas empresas. Se vingar, pode mudar a infraestrutura de IA nos próximos anos.",
-    "reasonEn": "A new initiative aims to make silicon photonics hardware open source, which uses light instead of electricity to process data. The promise is to drastically accelerate AI model training and inference with lower energy consumption. It's a strategic move to reduce dependence on GPUs dominated by a few companies. If it works, it could reshape AI infrastructure in coming years.",
-    "score": 0.7,
-    "tags": [
-      "hardware",
-      "fotônica"
-    ],
-    "img": "img/5e178bb0949e.jpg",
-    "ts": 1786708732,
-    "addedTs": 1786711403,
-    "urlHash": "5e178bb0949e",
-    "titleHash": "46c61a9d7874"
-  },
-  {
-    "title": "AI Watermarks, Skill Loss and GenAI – Food for Agile Thought #557",
-    "titlePt": "Marcas d'água em IA, perda de habilidades e GenAI",
-    "url": "https://age-of-product.com/food-agile-thought-557-ai-watermarks/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A edição #557 do Food for Agile Thought aborda três temas: os problemas das marcas d'água em texto gerado por IA, a perda de habilidades cognitivas que o uso constante de IA pode causar e novidades em ferramentas GenAI. É uma curadoria semanal para profissionais ágeis e tech. Funciona como panorama rápido para quem quer se atualizar sem ler dezenas de artigos.",
-    "reasonEn": "Issue #557 of Food for Agile Thought covers three topics: problems with watermarks in AI-generated text, the loss of cognitive skills that constant AI use can cause, and GenAI tool news. It's a weekly curation for agile and tech professionals. It works as a quick overview for those who want to stay updated without reading dozens of articles.",
-    "score": 0.5,
-    "tags": [
-      "newsletter",
-      "marcas-d'água"
-    ],
-    "img": "img/dfb1a1dfc9ba.jpg",
-    "ts": 1786708319,
-    "addedTs": 1786711403,
-    "urlHash": "dfb1a1dfc9ba",
-    "titleHash": "1ca06b37ddf0"
-  },
-  {
-    "title": "Which GPU Is Suitable for Running Your AI Workloads?",
-    "titlePt": "Qual GPU é ideal para rodar suas cargas de trabalho de IA?",
-    "url": "https://3hcloud.com/blog/which-gpu-is-suitable-for-your-ai-workload",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um guia prático ajuda desenvolvedores a escolher a GPU certa para diferentes tipos de trabalho com IA, seja treino pesado, inferência ou prototipagem. O texto compara opções como H100, A100, RTX 4090 e alternativas mais baratas. Considera memória, custo, disponibilidade e tipo de modelo. É leitura prática para quem precisa decidir compra ou aluguel de hardware.",
-    "reasonEn": "A practical guide helps developers choose the right GPU for different types of AI work, whether heavy training, inference, or prototyping. The text compares options like H100, A100, RTX 4090, and cheaper alternatives. It considers memory, cost, availability, and model type. It's practical reading for those deciding on hardware purchases or rentals.",
-    "score": 0.6,
-    "tags": [
-      "gpu",
-      "guia"
-    ],
-    "img": "img/6b8ae992c314.jpg",
-    "ts": 1786708173,
-    "addedTs": 1786711403,
-    "urlHash": "6b8ae992c314",
-    "titleHash": "5a645034222e"
   }
 ]
