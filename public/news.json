@@ -1,5 +1,175 @@
 [
   {
+    "title": "Route the Work, Not Just the Data: GPUs, CPUs, and the Rise of AI-Native SSDs",
+    "titlePt": "Otimizando GPUs, CPUs e SSDs nativos para IA",
+    "url": "https://research.triunalabs.com/articles/ai-native-ssd/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo discute como rotear trabalho entre GPUs, CPUs e SSDs nativos para IA em vez de apenas mover dados. É um tema relevante para quem monta infraestrutura de IA e busca performance. Conteúdo técnico aprofundado, útil para engenheiros de plataforma.",
+    "reasonEn": "The article discusses routing work across GPUs, CPUs, and AI-native SSDs instead of just shuffling data. Relevant for anyone building AI infrastructure and chasing performance. Deep technical content, useful for platform engineers.",
+    "score": 0.5,
+    "tags": [
+      "infraestrutura",
+      "hardware"
+    ],
+    "img": "img/1eb2b91febcd.jpg",
+    "ts": 1787248459,
+    "addedTs": 1787250274,
+    "urlHash": "1eb2b91febcd",
+    "titleHash": "92fda95f853c"
+  },
+  {
+    "title": "Grok keeps sending gibberish responses to users",
+    "titlePt": "Grok continua enviando respostas sem sentido a usuários",
+    "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "O Grok, chatbot da xAI, voltou a apresentar falhas graves e está enviando textos sem sentido aos usuários. Quem depende dele para trabalho ou atendimento precisa checar imediatamente se suas respostas estão confiáveis. Mais um sinal de que a qualidade do Grok segue instável.",
+    "reasonEn": "Grok, xAI's chatbot, is once again showing serious failures and sending nonsensical text to users. Anyone relying on it for work or customer support should immediately check whether its responses are trustworthy. Another sign that Grok's quality remains unstable.",
+    "score": 0.9,
+    "tags": [
+      "grok",
+      "bug",
+      "modelo"
+    ],
+    "img": "img/d5497c2ac537.jpg",
+    "ts": 1787247136,
+    "addedTs": 1787250274,
+    "urlHash": "d5497c2ac537",
+    "titleHash": "7dca21f81764"
+  },
+  {
+    "title": "A third of web pages published since ChatGPT&#8217;s launch show signs of AI authorship, study finds",
+    "titlePt": "Um terço das páginas web pós-ChatGPT tem traços de IA",
+    "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "Estudo mostra que cerca de um terço das páginas publicadas desde o lançamento do ChatGPT apresenta sinais de autoria por IA. Isso afeta a confiança em conteúdo online, SEO e o trabalho de criadores. Pesquisadores, jornalistas e profissionais de marketing devem se atentar ao fenômeno.",
+    "reasonEn": "A study finds roughly a third of web pages published since ChatGPT's launch show signs of AI authorship. This affects trust in online content, SEO, and creators' livelihoods. Researchers, journalists, and marketers should pay attention to the trend.",
+    "score": 0.85,
+    "tags": [
+      "estudo",
+      "conteúdo"
+    ],
+    "img": "img/632d085c0041.jpg",
+    "ts": 1787246338,
+    "addedTs": 1787250274,
+    "urlHash": "632d085c0041",
+    "titleHash": "e6a244fbb151"
+  },
+  {
+    "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+    "titlePt": "LFM2.5-DSpark promete inferência até 3,2x mais rápida",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "A Liquid AI anunciou o modelo LFM2.5-DSpark, que promete ser até 3,2 vezes mais rápido em inferência que versões anteriores. Para desenvolvedores que precisam de respostas mais ágeis em produção, vale testar. O ganho de velocidade pode reduzir custos operacionais com IA.",
+    "reasonEn": "Liquid AI announced the LFM2.5-DSpark model, claiming up to 3.2x faster inference than previous versions. For developers needing snappier production responses, it's worth testing. The speed gain can lower operational AI costs.",
+    "score": 0.8,
+    "tags": [
+      "modelo",
+      "performance"
+    ],
+    "img": "img/eab5285cfdeb.jpg",
+    "ts": 1787244777,
+    "addedTs": 1787250274,
+    "urlHash": "eab5285cfdeb",
+    "titleHash": "e59d3783eb75"
+  },
+  {
+    "title": "Ramp launches its own AI model router, called Router",
+    "titlePt": "Ramp lança Router, seu próprio roteador de modelos de IA",
+    "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A Ramp, fintech conhecida, lançou o Router, um roteador próprio que escolhe qual modelo de IA usar em cada tarefa. A novidade é relevante para empresas que querem otimizar custo e qualidade em uso corporativo. Sinaliza tendência de ferramentas internas de seleção de modelos.",
+    "reasonEn": "Ramp, the well-known fintech, launched Router, its own router that picks which AI model to use per task. The move matters for companies wanting to optimize cost and quality in corporate use. Signals a trend toward in-house model selection tools.",
+    "score": 0.85,
+    "tags": [
+      "lançamento",
+      "roteador",
+      "negócios"
+    ],
+    "img": "img/f726cd00afef.jpg",
+    "ts": 1787244360,
+    "addedTs": 1787250274,
+    "urlHash": "f726cd00afef",
+    "titleHash": "91f9cc07217d"
+  },
+  {
+    "title": "AI Agent Governance – a free book on AI Agent evaluation and governance",
+    "titlePt": "Livro grátis sobre governança de agentes de IA",
+    "url": "https://www.proofagent.ai/book",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Foi publicado um livro gratuito cobrindo avaliação e governança de agentes de IA. O tema é cada vez mais importante para times que implantam agentes em produção. Material didático útil, especialmente para gestores e engenheiros de plataforma.",
+    "reasonEn": "A free book was released covering evaluation and governance of AI agents. The topic is increasingly important for teams deploying agents in production. Useful educational material, especially for managers and platform engineers.",
+    "score": 0.5,
+    "tags": [
+      "livro",
+      "governança"
+    ],
+    "img": "img/0a0cd37f42b8.jpg",
+    "ts": 1787244140,
+    "addedTs": 1787250274,
+    "urlHash": "0a0cd37f42b8",
+    "titleHash": "6f60192d3a48"
+  },
+  {
+    "title": "Ask HN: When AI models use harnesses who liable between model/harness/user?",
+    "titlePt": "Quem responde quando um modelo de IA erra via harness?",
+    "url": "https://news.ycombinator.com/item?id=49376952",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Discussão no Hacker News levanta questão jurídica relevante: quando um modelo de IA usa um harness intermediário, quem é responsável por erros, o modelo, o harness ou o usuário final? Tema importante para quem implanta agentes em ambientes regulados. A questão ainda não tem resposta clara.",
+    "reasonEn": "A Hacker News thread raises a relevant legal question: when an AI model uses an intermediate harness, who is liable for errors, the model, the harness, or the end user? An important topic for those deploying agents in regulated environments. The question has no clear answer yet.",
+    "score": 0.5,
+    "tags": [
+      "regulação",
+      "responsabilidade"
+    ],
+    "img": "img/ac581dfddda4.jpg",
+    "ts": 1787243840,
+    "addedTs": 1787250274,
+    "urlHash": "ac581dfddda4",
+    "titleHash": "dd6e4ecb0950"
+  },
+  {
+    "title": "Agent Applications: A Reference Architecture for AI Agent Systems",
+    "titlePt": "Arquitetura de referência para sistemas de agentes de IA",
+    "url": "https://agentapplication.io",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Foi publicada uma arquitetura de referência para aplicações com agentes de IA, organizando componentes comuns. Material útil para arquitetos de software e engenheiros que estão estruturando produtos baseados em agentes. Ajuda a evitar reinventar a roda.",
+    "reasonEn": "A reference architecture for AI agent applications was published, organizing common components. Useful material for software architects and engineers structuring agent-based products. Helps avoid reinventing the wheel.",
+    "score": 0.55,
+    "tags": [
+      "arquitetura",
+      "agente"
+    ],
+    "img": "img/fe95fefbccd8.jpg",
+    "ts": 1787243749,
+    "addedTs": 1787250274,
+    "urlHash": "fe95fefbccd8",
+    "titleHash": "7ead670d8b91"
+  },
+  {
     "title": "DripSharp: Building a Java-to-C# source converter with AI",
     "titlePt": "DripSharp: convertendo Java para C# com ajuda de IA",
     "url": "https://www.isaksky.com/posts/dripsharp-java-to-csharp-source-converter/",
@@ -10679,181 +10849,5 @@
     "addedTs": 1786803206,
     "urlHash": "331bfc6c933f",
     "titleHash": "b1b2f302c972"
-  },
-  {
-    "title": "1Password's new benchmark teaches AI agents how not to get scammed",
-    "titlePt": "1Password cria benchmark para ensinar agentes de IA a não caírem em golpes",
-    "url": "https://1password.github.io/SCAM/#",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O 1Password criou um novo benchmark para ensinar agentes de IA a evitar golpes digitais. A iniciativa mede a capacidade dos modelos de identificar tentativas de phishing e fraudes automatizadas. Empresas que usam IA para automatizar tarefas precisam se preocupar com segurança contra manipulação. O benchmark é mais um sinal de que a segurança de agentes virou prioridade do mercado.",
-    "reasonEn": "1Password created a new benchmark to teach AI agents how to avoid digital scams. The initiative measures models' ability to identify phishing attempts and automated fraud. Companies using AI to automate tasks need to worry about security against manipulation. The benchmark is another sign that agent security has become a market priority.",
-    "score": 0.7,
-    "tags": [
-      "segurança",
-      "benchmark",
-      "agentes"
-    ],
-    "img": "img/739fb892a6fe.jpg",
-    "ts": 1786800046,
-    "addedTs": 1786803206,
-    "urlHash": "739fb892a6fe",
-    "titleHash": "7f6b5827b85d"
-  },
-  {
-    "title": "AI assistance is not authorship",
-    "titlePt": "Assistência de IA não é autoria",
-    "url": "https://twitter.com/Seltaa_/status/2088353576259314024",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um artigo de opinião argumenta que o uso de IA como ferramenta não transforma o usuário em coautor da máquina. O texto defende que assistência automatizada deve ser tratada de forma diferente de autoria humana. Escritores, editores e profissionais criativos precisam entender essa distinção para fins legais e de atribuição. O debate importa para políticas editoriais e direitos autorais.",
-    "reasonEn": "An opinion article argues that using AI as a tool does not turn the user into a co-author with the machine. The text defends that automated assistance should be treated differently from human authorship. Writers, editors, and creative professionals need to understand this distinction for legal and attribution purposes. The debate matters for publishing policies and copyright.",
-    "score": 0.6,
-    "tags": [
-      "direitos autorais",
-      "autoria",
-      "opinião"
-    ],
-    "img": "img/bc8d67fcd7f6.jpg",
-    "ts": 1786799859,
-    "addedTs": 1786803206,
-    "urlHash": "bc8d67fcd7f6",
-    "titleHash": "7e005fe6ce2d"
-  },
-  {
-    "title": "NASA processor is performing 500x faster than rad-hardened chips currently used",
-    "titlePt": "Processador da NASA é 500x mais rápido que chips espaciais atuais",
-    "url": "https://spacedaily.com/t-nasa-hpsc-processor-500-times-faster-spaceflight-ai/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um novo processador criado pela NASA está performando 500 vezes mais rápido que os chips reforçados contra radiação usados atualmente no espaço. O avanço pode revolucionar sistemas embarcados em missões espaciais e satélites. Engenheiros aeroespaciais e pesquisadores de hardware acompanham o feito com grande interesse. A descoberta também pode ter implicações em computação de alto desempenho em ambientes extremos.",
-    "reasonEn": "A new processor created by NASA is performing 500 times faster than the radiation-hardened chips currently used in space. The breakthrough could revolutionize embedded systems in space missions and satellites. Aerospace engineers and hardware researchers are following the achievement with great interest. The discovery may also have implications for high-performance computing in extreme environments.",
-    "score": 0.5,
-    "tags": [
-      "hardware",
-      "nasa",
-      "computação"
-    ],
-    "img": "img/03cd100e712e.jpg",
-    "ts": 1786799748,
-    "addedTs": 1786803206,
-    "urlHash": "03cd100e712e",
-    "titleHash": "9a51e8e2523e"
-  },
-  {
-    "title": "Meta Patents AI Glasses to Use Facial Recognition to Identify People",
-    "titlePt": "Meta patenteia óculos de IA com reconhecimento facial",
-    "url": "https://www.404media.co/meta-patents-ai-glasses-to-use-facial-recognition-to-identify-people-make-highlight-reels-of-your-dinner-party/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Meta registrou uma patente de óculos com IA que usam reconhecimento facial para identificar pessoas ao redor. O sistema levanta preocupações sérias de privacidade e vigilância em massa. Reguladores, defensores de direitos digitais e usuários de tecnologia devem ficar atentos ao desenvolvimento. A patente mostra que a Meta continua apostando em hardware de consumo com IA embarcada.",
-    "reasonEn": "Meta registered a patent for AI glasses using facial recognition to identify people nearby. The system raises serious privacy and mass surveillance concerns. Regulators, digital rights advocates, and tech users should pay attention to the development. The patent shows Meta continues betting on consumer hardware with embedded AI.",
-    "score": 0.8,
-    "tags": [
-      "privacidade",
-      "meta",
-      "hardware"
-    ],
-    "img": "img/bbd626287736.jpg",
-    "ts": 1786798199,
-    "addedTs": 1786803206,
-    "urlHash": "bbd626287736",
-    "titleHash": "d53d44f11fb5"
-  },
-  {
-    "title": "The Apache Lesson for AI",
-    "titlePt": "A lição do Apache para a IA",
-    "url": "https://asimovaddendum.substack.com/p/why-open-source-matters-for-ai",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um artigo compara a história do projeto Apache com o cenário atual de desenvolvimento de IA. O texto extrai lições sobre governança, licenciamento e construção de ecossistemas abertos. Desenvolvedores e líderes de projeto encontram paralelos úteis para seus próprios projetos de IA. A leitura é recomendada para quem pensa em criar ou financiar plataformas de código aberto em IA.",
-    "reasonEn": "An article compares the history of the Apache project with the current AI development landscape. The text extracts lessons about governance, licensing, and building open ecosystems. Developers and project leaders find useful parallels for their own AI projects. The reading is recommended for anyone thinking about creating or funding open-source AI platforms.",
-    "score": 0.5,
-    "tags": [
-      "open-source",
-      "governança",
-      "história"
-    ],
-    "img": "img/3b9f7a471e8d.jpg",
-    "ts": 1786798050,
-    "addedTs": 1786803206,
-    "urlHash": "3b9f7a471e8d",
-    "titleHash": "9aca45975d5c"
-  },
-  {
-    "title": "Anthropic sees AI risks rising, no plan to release stronger \"Model 2\"",
-    "titlePt": "Anthropic vê riscos de IA crescerem e descarta lançar 'Model 2' mais potente",
-    "url": "https://www.axios.com/2026/08/14/anthropic-model-2-ai-risk",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A empresa Anthropic afirmou publicamente que os riscos da inteligência artificial estão aumentando. Segundo a companhia, não há planos de lançar uma versão mais poderosa do modelo, chamada informalmente de 'Model 2'. A decisão reflete a estratégia da empresa de priorizar segurança em vez de velocidade de lançamento. É um sinal importante para o setor, pois uma das maiores laboratórios do mundo está freando a corrida por modelos mais avançados.",
-    "reasonEn": "Anthropic publicly stated that AI risks are increasing. According to the company, there are no plans to release a more powerful version of the model, informally called 'Model 2'. The decision reflects the company's strategy of prioritizing safety over release speed. It is an important signal for the industry, as one of the world's largest labs is slowing down the race for more advanced models.",
-    "score": 0.85,
-    "tags": [
-      "anthropic",
-      "segurança",
-      "modelo"
-    ],
-    "img": "img/c9eb27f95a84.jpg",
-    "ts": 1786791624,
-    "addedTs": 1786796342,
-    "urlHash": "c9eb27f95a84",
-    "titleHash": "b2c6dd19371f"
-  },
-  {
-    "title": "How Zapier transformed core marketing processes with ChatGPT Work",
-    "titlePt": "Como a Zapier transformou processos de marketing com o ChatGPT Work",
-    "url": "https://openai.com/index/zapier",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A OpenAI publicou um estudo de caso mostrando como a Zapier usou o ChatGPT Work para automatizar partes centrais do seu marketing. A empresa relata ganhos de produtividade e redução de trabalho manual em campanhas e geração de conteúdo. É mais um sinal de que ferramentas de IA estão sendo adotadas em áreas além da engenharia. Para desenvolvedores e líderes de produto, mostra um padrão replicável de automação de marketing com IA.",
-    "reasonEn": "OpenAI published a case study showing how Zapier used ChatGPT Work to automate core marketing processes. The company reports productivity gains and reduced manual work in campaigns and content generation. It is another sign that AI tools are being adopted beyond engineering. For developers and product leaders, it shows a replicable pattern for AI-driven marketing automation.",
-    "score": 0.5,
-    "tags": [
-      "caso",
-      "automação",
-      "marketing"
-    ],
-    "img": "img/6476741ad7bd.jpg",
-    "ts": 1786320000,
-    "addedTs": 1786796342,
-    "urlHash": "6476741ad7bd",
-    "titleHash": "aad68cff6d34"
-  },
-  {
-    "title": "Alibaba AI Models Hit 3B Downloads, Passing Meta, Google",
-    "titlePt": "Modelos de IA da Alibaba atingem 3 bilhões de downloads e ultrapassam Meta e Google",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Os modelos de inteligência artificial da Alibaba, principalmente da família Qwen, ultrapassaram a marca de 3 bilhões de downloads acumulados em plataformas como Hugging Face. Com isso, a empresa chinesa se posiciona à frente de gigantes como Meta e Google em volume de adoção por desenvolvedores. O feito reflete a estratégia agressiva da Alibaba de oferecer modelos abertos e competitivos em preço e desempenho. Isso muda o equilíbrio global do mercado de IA e mostra que a China está ganhando força no ecossistema de código aberto.",
-    "reasonEn": "Alibaba's AI models, mainly from the Qwen family, surpassed 3 billion cumulative downloads on platforms like Hugging Face. With this, the Chinese company positions itself ahead of giants like Meta and Google in developer adoption volume. The achievement reflects Alibaba's aggressive strategy of offering open models that are competitive in price and performance. This shifts the global AI market balance and shows China is gaining strength in the open-source ecosystem.",
-    "score": 0.85,
-    "tags": [
-      "modelo",
-      "open-source",
-      "china"
-    ],
-    "img": "img/67aeaacb1ed8.jpg",
-    "ts": 1786787199,
-    "addedTs": 1786788831,
-    "urlHash": "67aeaacb1ed8",
-    "titleHash": "ff393d835971"
   }
 ]
