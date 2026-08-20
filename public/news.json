@@ -1,5 +1,177 @@
 [
   {
+    "title": "LLM Reasoning Traces Are Not Audit Records",
+    "titlePt": "Traços de raciocínio de LLMs não são registros de auditoria",
+    "url": "https://rye.ai/blog/cot-faithfulness-reasoning-traces-not-audit-logs/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Discussão no HackerNews apontando que os rastros de raciocínio expostos por grandes modelos de linguagem não devem ser tratados como logs confiáveis para auditoria. O ponto importa para equipes que usam LLMs em decisões reguladas, como saúde e finanças. Trata-se de alerta prático sobre governança, não apenas teoria.",
+    "reasonEn": "A HackerNews discussion arguing that the reasoning traces exposed by large language models should not be treated as reliable audit logs. The point matters for teams using LLMs in regulated decisions such as healthcare or finance. It is a practical governance warning rather than pure theory.",
+    "score": 0.65,
+    "tags": [
+      "governança",
+      "segurança"
+    ],
+    "img": "img/e54f71859cce.jpg",
+    "ts": 1787206814,
+    "addedTs": 1787207383,
+    "urlHash": "e54f71859cce",
+    "titleHash": "3d8f1ab03357"
+  },
+  {
+    "title": "Position: Multi-Agent Systems Should Prioritize Concurrency Control",
+    "titlePt": "Posição: sistemas multiagente devem priorizar controle de concorrência",
+    "url": "https://arxiv.org/abs/2608.18092",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "Artigo de posição defendendo que sistemas com múltiplos agentes de IA precisam de mecanismos sólidos de controle de concorrência para evitar conflitos e dados corrompidos. O tema é cada vez mais relevante à medida que agentes autônomos passam a operar em paralelo sobre os mesmos recursos.",
+    "reasonEn": "A position paper arguing that multi-agent AI systems need solid concurrency control mechanisms to avoid conflicts and corrupted data. The topic is increasingly relevant as autonomous agents operate in parallel on the same resources.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "arquitetura"
+    ],
+    "img": "img/1f26f1ccb998.jpg",
+    "ts": 1787198400,
+    "addedTs": 1787207383,
+    "urlHash": "1f26f1ccb998",
+    "titleHash": "abbecf3e1d7f"
+  },
+  {
+    "title": "Position: AI Leaderboards Are Underserving the Global South: A Case Study from India",
+    "titlePt": "Posição: rankings de IA desservem o Sul Global, caso da Índia",
+    "url": "https://arxiv.org/abs/2608.18117",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "Artigo de posição criticando benchmarks globais de IA que não refletem a realidade linguística e cultural de países como a Índia. O trabalho defende avaliações mais inclusivas e importa para qualquer equipe que use benchmarks para escolher modelos em mercados diversos.",
+    "reasonEn": "A position paper criticizing global AI benchmarks that do not reflect the linguistic and cultural reality of countries like India. It argues for more inclusive evaluations and matters to any team using benchmarks to choose models for diverse markets.",
+    "score": 0.6,
+    "tags": [
+      "benchmark",
+      "regulação"
+    ],
+    "img": "img/265fffef933f.jpg",
+    "ts": 1787198400,
+    "addedTs": 1787207383,
+    "urlHash": "265fffef933f",
+    "titleHash": "b25587884624"
+  },
+  {
+    "title": "FraudBench: Stress-Testing Policy-Grounded Banking Agents Against Adaptive Fraud",
+    "titlePt": "FraudBench: testando agentes bancários contra fraudes adaptativas",
+    "url": "https://arxiv.org/abs/2608.18136",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "Novo benchmark que submete agentes bancários a cenários de fraude cada vez mais adaptativos, avaliando sua robustez. Importante para bancos e fintechs que planejam usar agentes de IA para atendimento e operações sensíveis.",
+    "reasonEn": "A new benchmark that pushes banking AI agents against increasingly adaptive fraud scenarios to test their robustness. Important for banks and fintechs planning to deploy AI agents in sensitive customer-facing operations.",
+    "score": 0.5,
+    "tags": [
+      "finanças",
+      "segurança"
+    ],
+    "img": "img/cceabc0a997f.jpg",
+    "ts": 1787198400,
+    "addedTs": 1787207383,
+    "urlHash": "cceabc0a997f",
+    "titleHash": "e8c4d589e996"
+  },
+  {
+    "title": "How to use AI for your next job interview",
+    "titlePt": "Como usar IA na sua próxima entrevista de emprego",
+    "url": "https://www.lennysnewsletter.com/p/how-to-use-ai-in-your-next-job-interview",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo mostra formas práticas de usar ferramentas de inteligência artificial para se preparar para entrevistas de trabalho. Cobre simulação de respostas, análise de currículos e dicas de postura geradas por IA. É útil para quem está buscando emprego agora e quer ganhar vantagem competitiva. Não é notícia de grande impacto no setor, mas tem valor prático direto para leitores comuns.",
+    "reasonEn": "The article shows practical ways to use AI tools to prepare for job interviews. It covers response simulation, resume analysis, and AI-generated interview tips. It is useful for anyone job hunting who wants a competitive edge. It is not major industry news, but offers direct practical value to everyday readers.",
+    "score": 0.5,
+    "tags": [
+      "carreira",
+      "ferramentas",
+      "emprego"
+    ],
+    "img": "img/364c66731aa3.jpg",
+    "ts": 1787188697,
+    "addedTs": 1787207383,
+    "urlHash": "364c66731aa3",
+    "titleHash": "6e67266b4082"
+  },
+  {
+    "title": "Google Gemini is getting a dedicated student hub",
+    "titlePt": "Google Gemini ganha hub dedicado para estudantes",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "O Google anunciou um novo espaço centralizado dentro do Gemini voltado para alunos, reunindo recursos de estudo, resumos e ajuda com pesquisas. A ideia é competir com ferramentas como ChatGPT e Claude pelo público estudantil, especialmente em ano de volta às aulas. Professores e estudantes devem prestar atenção porque isso muda a forma como tarefas acadêmicas podem ser feitas com IA. Para o restante do público, é mais um sinal de que a corrida por usuários jovens está esquentando.",
+    "reasonEn": "Google announced a new dedicated hub inside Gemini aimed at students, bundling study tools, summaries, and research help. The move aims to compete with ChatGPT and Claude for the student audience, especially in back-to-school season. Teachers and students should pay attention because it changes how academic tasks can be done with AI. For the rest of the public, it is another sign that the race for young users is heating up.",
+    "score": 0.55,
+    "tags": [
+      "lançamento",
+      "google",
+      "educação"
+    ],
+    "img": "img/3ce595e677a9.jpg",
+    "ts": 1787165563,
+    "addedTs": 1787207383,
+    "urlHash": "3ce595e677a9",
+    "titleHash": "f406f09a0900"
+  },
+  {
+    "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+    "titlePt": "OpenAI e Anthropic entram em guerra de preços com rivais chineses",
+    "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+    "source": "Ars Technica",
+    "sources": [
+      "Ars Technica"
+    ],
+    "reason": "A reportagem mostra que OpenAI e Anthropic estão cortando preços de seus modelos para competir com rivais chineses que oferecem alternativas cada vez mais competitivas. A pressão sobre margens é forte e indica que o mercado de IA está entrando em fase de commoditização. Consumidores e empresas podem se beneficiar com custos mais baixos, mas startups dependentes de receita de API podem sofrer. É leitura obrigatória para quem toma decisões de compra ou investe no ecossistema.",
+    "reasonEn": "The report shows that OpenAI and Anthropic are cutting model prices to compete with Chinese rivals offering increasingly competitive alternatives. Margin pressure is intense and signals that the AI market is entering a commoditization phase. Consumers and businesses may benefit from lower costs, but startups relying on API revenue may suffer. It is required reading for anyone making purchasing decisions or investing in the ecosystem.",
+    "score": 0.92,
+    "tags": [
+      "modelo",
+      "negócio",
+      "concorrência"
+    ],
+    "img": "img/0778f93b3ef2.jpg",
+    "ts": 1786717634,
+    "addedTs": 1787207383,
+    "urlHash": "0778f93b3ef2",
+    "titleHash": "69efe2998c89"
+  },
+  {
+    "title": "State of Open Models: Summer 2026 Observations",
+    "titlePt": "Estado dos modelos abertos: observações do verão de 2026",
+    "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "A Hugging Face publicou um panorama atualizado sobre os modelos de IA de código aberto, comparando qualidade, custo e adoção. O relatório aponta que a diferença entre modelos abertos e fechados está diminuindo rapidamente em várias tarefas. Desenvolvedores devem ler para entender quais modelos escolher em novos projetos. Também é relevante para empresas preocupadas com dependência de fornecedores únicos.",
+    "reasonEn": "Hugging Face published an updated overview of open-source AI models, comparing quality, cost, and adoption. The report shows the gap between open and closed models is shrinking fast across many tasks. Developers should read it to know which models to pick for new projects. It is also relevant for companies worried about single-vendor lock-in.",
+    "score": 0.85,
+    "tags": [
+      "open-source",
+      "modelo",
+      "relatório"
+    ],
+    "img": "img/bc290ba394fd.jpg",
+    "ts": 1786665600,
+    "addedTs": 1787207383,
+    "urlHash": "bc290ba394fd",
+    "titleHash": "243f0ba61cd4"
+  },
+  {
     "title": "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions",
     "titlePt": "Riscos de colusão entre agentes de IA justificam certificação",
     "url": "https://arxiv.org/abs/2608.18078",
@@ -10682,180 +10854,5 @@
     "addedTs": 1786732905,
     "urlHash": "57085d69e2b8",
     "titleHash": "574f748e259f"
-  },
-  {
-    "title": "Fortunes from AI revive effective altruism after Sam Bankman-Fried turmoil",
-    "titlePt": "Fortunas da IA ressuscitam o altruísmo eficaz após o caso Bankman-Fried",
-    "url": "https://www.ft.com/content/938b4b82-06d2-4b92-a807-38d935d7d5c5",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O movimento do altruísmo eficaz está recebendo novas doações vindas de bilionários da área de IA. Após o escândalo de Sam Bankman-Fried, o movimento perdeu força e credibilidade. Agora, novos filantropos reaquecem a ideia de doar para causas de alto impacto. A tendência mostra como o dinheiro da IA está remodelando agendas globais.",
-    "reasonEn": "The effective altruism movement is receiving new donations from AI billionaires. After the Sam Bankman-Fried scandal, the movement lost strength and credibility. Now, new philanthropists are warming up the idea of giving to high-impact causes. The trend shows how AI money is reshaping global agendas.",
-    "score": 0.5,
-    "tags": [
-      "altruísmo",
-      "filantropia"
-    ],
-    "img": "img/3a65d9bd8bc8.jpg",
-    "ts": 1786727226,
-    "addedTs": 1786732905,
-    "urlHash": "3a65d9bd8bc8",
-    "titleHash": "9372fc8ef0cd"
-  },
-  {
-    "title": "Show HN: I built a tool that delegates bounded spending to an AI agent",
-    "titlePt": "Ferramenta dá a agentes de IA um limite de gastos controlado",
-    "url": "https://github.com/meyerdav24/molt",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um desenvolvedor publicou no Hacker News uma ferramenta que permite delegar gastos com limites definidos para um agente de IA. A ideia é evitar que o agente gaste mais do que o permitido em tarefas automatizadas, como compras ou contratação de serviços. Isso resolve um problema real para empresas que usam IA em operações financeiras. A novidade é útil para times que precisam de automação sem abrir mão de controle orçamentário.",
-    "reasonEn": "A developer shared on Hacker News a tool that lets you delegate spending to an AI agent with strict caps. The idea is to stop the agent from overspending on automated tasks like purchases or service hiring. It solves a real problem for companies using AI for financial operations. The release is useful for teams that want automation without losing budget control.",
-    "score": 0.5,
-    "tags": [
-      "agentes",
-      "finanças",
-      "automação"
-    ],
-    "img": "img/fdcb7f8f62ac.jpg",
-    "ts": 1786725592,
-    "addedTs": 1786725667,
-    "urlHash": "fdcb7f8f62ac",
-    "titleHash": "b0e95cdc61da"
-  },
-  {
-    "title": "Show HN: Agentic Ship – open-source Lovable alternative that runs on your agent",
-    "titlePt": "Agentic Ship: alternativa open-source ao Lovable roda no seu próprio agente",
-    "url": "https://github.com/moasq/agentic-ship",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um novo projeto open-source chamado Agentic Ship foi lançado como concorrente do Lovable, plataforma popular de criação de apps com IA. Diferente dos rivais, ele roda dentro do próprio agente do usuário, em vez de ser um serviço na nuvem. Isso dá mais controle e privacidade para desenvolvedores. A ferramenta pode interessar quem quer construir apps com IA sem depender de serviços externos.",
-    "reasonEn": "A new open-source project called Agentic Ship launched as a competitor to Lovable, a popular AI app-building platform. Unlike rivals, it runs inside the user's own agent rather than as a cloud service. This gives developers more control and privacy. The tool may appeal to those who want to build AI apps without depending on external services.",
-    "score": 0.5,
-    "tags": [
-      "open-source",
-      "agentes",
-      "desenvolvimento"
-    ],
-    "img": "img/863ec1695ba8.jpg",
-    "ts": 1786725580,
-    "addedTs": 1786725667,
-    "urlHash": "863ec1695ba8",
-    "titleHash": "a3553b035825"
-  },
-  {
-    "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
-    "titlePt": "Google agora permite remover marcas d'água visíveis de imagens do Gemini",
-    "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "O Google passou a permitir que usuários removam as marcas d'água visíveis das imagens criadas por sua IA Gemini. Antes, essas marcas identificavam o conteúdo como gerado por máquina, ajudando no combate à desinformação. A mudança preocupa especialistas em autenticidade digital e direitos autorais. Usuários comuns e empresas que usam imagens de IA devem repensar como identificam esse tipo de conteúdo.",
-    "reasonEn": "Google now lets users remove visible watermarks from images created by its Gemini AI. Previously these marks identified the content as machine-generated, helping fight misinformation. The change worries experts about digital authenticity and copyright. Everyday users and companies using AI images should rethink how they flag this kind of content.",
-    "score": 0.75,
-    "tags": [
-      "google",
-      "marca-d'água",
-      "regulação"
-    ],
-    "img": "img/e5026bc3d2dc.jpg",
-    "ts": 1786725572,
-    "addedTs": 1786725667,
-    "urlHash": "e5026bc3d2dc",
-    "titleHash": "64720e863792"
-  },
-  {
-    "title": "My Dad Is in Prison. Here's Why I Built an AI Chatbot for His Electronic Tablet",
-    "titlePt": "Meu pai está preso: por isso criei um chatbot de IA para o tablet dele",
-    "url": "https://www.themarshallproject.org/2026/08/14/prison-ai-chatbot-nova-cj-jones",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um desenvolvedor compartilhou no Hacker News a história pessoal por trás de um chatbot de IA criado para funcionar no tablet de presidiários. O objetivo é manter vínculos familiares e oferecer apoio emocional a quem está cumprindo pena. O projeto levanta questões éticas sobre privacidade e uso de IA em ambientes carcerários. A história chamou atenção pela combinação de tecnologia e impacto humano.",
-    "reasonEn": "A developer shared on Hacker News the personal story behind an AI chatbot built to run on a prisoner's tablet. The goal is to maintain family bonds and offer emotional support to those serving time. The project raises ethical questions about privacy and AI use in prison settings. The story drew attention for mixing technology with human impact.",
-    "score": 0.5,
-    "tags": [
-      "história",
-      "ética",
-      "chatbot"
-    ],
-    "img": "img/e6d3f73ca0e9.jpg",
-    "ts": 1786725112,
-    "addedTs": 1786725667,
-    "urlHash": "e6d3f73ca0e9",
-    "titleHash": "9109ac6392d4"
-  },
-  {
-    "title": "Software Factory with AI",
-    "titlePt": "Fábrica de software com IA: como times estão estruturando a produção automatizada",
-    "url": "https://twitter.com/i/status/2088296448563503269",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um post no Hacker News discute o conceito de fábrica de software impulsionada por IA, onde agentes automatizam grande parte da produção de código. O autor defende que times precisam repensar fluxos, papéis e revisão quando máquinas escrevem boa parte do código. O debate é relevante para líderes técnicos que avaliam adotar IA em escala. A discussão também toca em temas de qualidade, segurança e propriedade intelectual.",
-    "reasonEn": "A Hacker News post discusses the idea of an AI software factory, where agents automate most of the code production. The author argues teams need to rethink workflows, roles and review when machines write most of the code. The debate matters to tech leaders evaluating AI at scale. The discussion also touches on quality, security and intellectual property.",
-    "score": 0.55,
-    "tags": [
-      "desenvolvimento",
-      "agentes",
-      "gestão"
-    ],
-    "img": "img/bdf56f7cd548.jpg",
-    "ts": 1786724261,
-    "addedTs": 1786725667,
-    "urlHash": "bdf56f7cd548",
-    "titleHash": "4b69576a8d6e"
-  },
-  {
-    "title": "NIST Seeks Blueprint for AI-Era Overhaul of National Vulnerability Database",
-    "titlePt": "NIST quer modernizar banco nacional de vulnerabilidades para a era da IA",
-    "url": "https://securityboulevard.com/2026/08/nist-seeks-blueprint-for-ai-era-overhaul-of-national-vulnerability-database/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O NIST, agência de padrões dos EUA, abriu consulta para redesenhar o National Vulnerability Database pensando na era da IA. A ideia é adaptar a forma como vulnerabilidades são catalogadas para incluir falhas específicas de modelos e sistemas inteligentes. A mudança é importante porque muitas brechas atuais não se encaixam nas categorias tradicionais. Desenvolvedores, pesquisadores e equipes de segurança devem acompanhar a discussão.",
-    "reasonEn": "NIST, the US standards agency, opened a consultation to redesign the National Vulnerability Database for the AI era. The idea is to adapt how vulnerabilities are catalogued to include flaws specific to models and intelligent systems. The change matters because many current issues don't fit traditional categories. Developers, researchers and security teams should follow the discussion.",
-    "score": 0.7,
-    "tags": [
-      "segurança",
-      "regulação",
-      "nist"
-    ],
-    "img": "img/cf976eedf2af.jpg",
-    "ts": 1786723655,
-    "addedTs": 1786725667,
-    "urlHash": "cf976eedf2af",
-    "titleHash": "10ab071e571c"
-  },
-  {
-    "title": "Does Mark Zuckerberg really believe AI is &#8216;for everyone&#8217;?",
-    "titlePt": "Mark Zuckerberg realmente acredita que a IA é 'para todos'?",
-    "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "O TechCrunch questiona se o discurso do CEO da Meta sobre IA 'para todos' é sincero ou estratégico. Zuckerberg vem espalhando a ideia de que a empresa quer democratizar o acesso à inteligência artificial. Críticos apontam que o movimento também é uma forma de enfraquecer concorrentes e capturar mercado. A discussão importa porque define como bilhões de pessoas vão interagir com IA nos próximos anos.",
-    "reasonEn": "TechCrunch questions whether Meta CEO Mark Zuckerberg's talk about AI being 'for everyone' is genuine or strategic. Zuckerberg has been spreading the idea that the company wants to democratize access to artificial intelligence. Critics point out the move is also a way to weaken competitors and capture market share. The discussion matters because it shapes how billions of people will interact with AI in the coming years.",
-    "score": 0.55,
-    "tags": [
-      "meta",
-      "negócios",
-      "estratégia"
-    ],
-    "img": "img/744ebd52ee08.jpg",
-    "ts": 1786722208,
-    "addedTs": 1786725667,
-    "urlHash": "744ebd52ee08",
-    "titleHash": "d60e8b0cb60f"
   }
 ]
