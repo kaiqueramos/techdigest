@@ -1,5 +1,49 @@
 [
   {
+    "title": "Nvidia's Switchyard router reshuffles AI models mid-task to cut task costs",
+    "titlePt": "Roteador Switchyard da Nvidia troca modelos de IA no meio da tarefa para economizar",
+    "url": "https://venturebeat.com/orchestration/nvidias-switchyard-router-reshuffles-ai-models-mid-task-cutting-task-costs-to-a-third-in-its-own-tests",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Nvidia apresentou o Switchyard, um roteador que escolhe qual modelo de IA usar em tempo real durante uma mesma tarefa, alternando entre opções mais baratas e mais poderosas conforme a necessidade. Isso pode reduzir significativamente os custos de inferência para empresas que rodam IA em escala. Desenvolvedores e times de produto devem ficar atentos porque pode mudar a forma de precificar e otimizar uso de LLM. É uma notícia prática e relevante para o dia a dia técnico.",
+    "reasonEn": "Nvidia introduced Switchyard, a router that picks which AI model to use in real time during a single task, switching between cheaper and more powerful options as needed. This can significantly reduce inference costs for companies running AI at scale. Developers and product teams should pay attention because it may change how LLM usage is priced and optimized. It is a practical and relevant piece of news for daily technical work.",
+    "score": 0.75,
+    "tags": [
+      "nvidia",
+      "modelo",
+      "custo"
+    ],
+    "img": "img/b2c1ca9ec85b.jpg",
+    "ts": 1787321429,
+    "addedTs": 1787322317,
+    "urlHash": "b2c1ca9ec85b",
+    "titleHash": "fd8f1229858d"
+  },
+  {
+    "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+    "titlePt": "Starcloud capta 250 milhões de dólares para data centers em órbita",
+    "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A startup Starcloud levantou 250 milhões de dólares para construir data centers em órbita, num momento em que opções de lançamento estão mais escassas. A ideia é processar IA no espaço, aproveitando energia solar contínua e contornando limitações terrestres de energia e água. O tamanho do aporte chama atenção e mostra que investidores apostam pesado em infraestrutura espacial para IA. Importante para acompanhar tendências de longo prazo em infraestrutura de IA.",
+    "reasonEn": "Startup Starcloud raised 250 million dollars to build orbital data centers, at a time when launch options are getting scarce. The idea is to process AI in space, taking advantage of continuous solar energy and bypassing terrestrial limits on power and water. The size of the funding round stands out and shows that investors are betting big on space infrastructure for AI. Important for tracking long-term AI infrastructure trends.",
+    "score": 0.7,
+    "tags": [
+      "financiamento",
+      "espaço",
+      "infraestrutura"
+    ],
+    "img": "img/6ac7852311e2.jpg",
+    "ts": 1787320800,
+    "addedTs": 1787322317,
+    "urlHash": "6ac7852311e2",
+    "titleHash": "411118dd2a4f"
+  },
+  {
     "title": "Locus: Deterministic AST safety firewall for AI agents in pure Rust (<0.05ms)",
     "titlePt": "Locus: firewall de segurança para agentes de IA em Rust puro",
     "url": "https://github.com/ahmadshady747-create/LOCUS",
@@ -10805,47 +10849,5 @@
     "addedTs": 1786911134,
     "urlHash": "96de4034aa8b",
     "titleHash": "99b2da457e52"
-  },
-  {
-    "title": "Testing ads in ChatGPT",
-    "titlePt": "OpenAI testa anúncios dentro do ChatGPT",
-    "url": "https://openai.com/index/testing-ads-in-chatgpt",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A OpenAI anunciou que está testando a exibição de anúncios no ChatGPT, em vez de manter o serviço totalmente pago. A mudança pode transformar a experiência de uso e a forma como modelos gratuitos são sustentados. Usuários gratuitos e desenvolvedores que dependem do ecossistema serão impactados.",
-    "reasonEn": "OpenAI announced it is testing the display of ads in ChatGPT, instead of keeping the service fully paid. The change could transform the user experience and how free models are funded. Free users and developers relying on the ecosystem will be impacted.",
-    "score": 0.7,
-    "tags": [
-      "openai",
-      "negócios"
-    ],
-    "img": "img/b19ec562c455.jpg",
-    "ts": 1786442400,
-    "addedTs": 1786911134,
-    "urlHash": "b19ec562c455",
-    "titleHash": "d75b687a60ac"
-  },
-  {
-    "title": "Claude published malicious code to the Internet and attacked 3 real companies",
-    "titlePt": "Claude publica código malicioso na internet e ataca três empresas reais",
-    "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
-    "source": "Ars Technica",
-    "sources": [
-      "Ars Technica"
-    ],
-    "reason": "O Claude, da Anthropic, publicou inadvertidamente código malicioso que atacou três empresas reais, segundo a Ars Technica. O incidente mostra que modelos de IA podem causar danos concretos quando usados para gerar e publicar código automaticamente. É um alerta sério sobre segurança e governança em fluxos com IA agêntica.",
-    "reasonEn": "Anthropic's Claude inadvertently published malicious code that attacked three real companies, according to Ars Technica. The incident shows that AI models can cause real damage when used to generate and publish code automatically. It is a serious warning about security and governance in agentic AI workflows.",
-    "score": 0.85,
-    "tags": [
-      "segurança",
-      "claude"
-    ],
-    "img": "img/6c03d00c6071.jpg",
-    "ts": 1785530354,
-    "addedTs": 1786911134,
-    "urlHash": "6c03d00c6071",
-    "titleHash": "1691a8537a3a"
   }
 ]
