@@ -1,5 +1,48 @@
 [
   {
+    "title": "Only one type of lawyer will survive the AI wipeout",
+    "titlePt": "Apenas um tipo de advogado sobreviverá à onda da IA",
+    "url": "https://www.afr.com/work-and-careers/workplace/judges-may-be-the-only-survivors-of-law-s-ai-carnage-futurist-20260819-p60pla",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um post no HackerNews argumenta que só advogados com forte domínio técnico e de estratégia vão sobreviver à automação do setor jurídico. Tarefas repetitivas como revisão de contratos e pesquisa de jurisprudência já estão sendo absorvidas por IA. O texto provoca debate sobre o futuro da profissão. Interessa diretamente a advogados, estudantes de direito e gestores.",
+    "reasonEn": "A HackerNews post argues that only lawyers with strong technical and strategic mastery will survive automation in the legal sector. Repetitive tasks like contract review and case law research are already being absorbed by AI. The text sparks debate about the future of the profession. It directly interests lawyers, law students, and managers.",
+    "score": 0.5,
+    "tags": [
+      "direito",
+      "mercado"
+    ],
+    "img": "img/622728366f8c.jpg",
+    "ts": 1787298948,
+    "addedTs": 1787300921,
+    "urlHash": "622728366f8c",
+    "titleHash": "8b9034b8b3ff"
+  },
+  {
+    "title": "Claude Opus 4.6 returned nothing 900/900 times. Should agents retry?",
+    "titlePt": "Claude Opus 4.6 retornou vazio em 900 de 900 tentativas",
+    "url": "https://zenodo.org/records/21696066",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um desenvolvedor reportou que o Claude Opus 4.6 da Anthropic devolveu resposta vazia em 900 chamadas consecutivas, levantando dúvidas sobre quando agentes devem tentar de novo. O caso é relevante para quem constrói sistemas agentic em produção e depende de retries confiáveis. Mostra como falhas silenciosas de modelo podem quebrar pipelines inteiros. É um alerta prático sobre resiliência.",
+    "reasonEn": "A developer reported that Anthropic's Claude Opus 4.6 returned empty responses in 900 consecutive calls, raising questions about when agents should retry. The case is relevant for those building agentic systems in production that depend on reliable retries. It shows how silent model failures can break entire pipelines. It is a practical alert about resilience.",
+    "score": 0.55,
+    "tags": [
+      "anthropic",
+      "agentes",
+      "bug"
+    ],
+    "img": "img/cd3a27ed1784.jpg",
+    "ts": 1787297592,
+    "addedTs": 1787300921,
+    "urlHash": "cd3a27ed1784",
+    "titleHash": "35cd4c3deb6f"
+  },
+  {
     "title": "Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents",
     "titlePt": "Argentic: pedágio Lightning para agentes de IA que fazem scraping",
     "url": "https://Argentic.network",
@@ -10813,49 +10856,5 @@
     "addedTs": 1786896861,
     "urlHash": "25385ac3ccb2",
     "titleHash": "af445285fa00"
-  },
-  {
-    "title": "If your agent commits a crime, who is responsible?",
-    "titlePt": "Se Seu Agente de IA Comete um Crime, Quem é Responsável?",
-    "url": "https://www.signalbloom.ai/posts/if-your-agent-commits-a-crime-who-is-responsible/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo levanta uma questão jurídica urgente: quando um agente autônomo de IA comete um crime, quem responde legalmente pelo ato. A discussão envolve desenvolvedores, operadores da plataforma e até os próprios usuários que implantaram o sistema. Isso é altamente relevante para empresas que adotam agentes autônomos em decisões sensíveis como finanças e saúde. A legislação atual ainda não tem respostas claras para essa nova realidade. O texto defende que empresas precisam repensar responsabilidade antes de delegar ações críticas a sistemas de IA.",
-    "reasonEn": "The article raises an urgent legal question: when an autonomous AI agent commits a crime, who is legally responsible for the act. The discussion involves developers, platform operators, and even the users who deployed the system. This is highly relevant for companies adopting autonomous agents in sensitive decisions like finance and healthcare. Current legislation still has no clear answers for this new reality. The text argues that companies need to rethink responsibility before delegating critical actions to AI systems.",
-    "score": 0.75,
-    "tags": [
-      "ia",
-      "agentes",
-      "regulação"
-    ],
-    "img": "img/6c43a0f27543.jpg",
-    "ts": 1786895183,
-    "addedTs": 1786896861,
-    "urlHash": "6c43a0f27543",
-    "titleHash": "ad6e64bd0342"
-  },
-  {
-    "title": "Europe Cannot Govern AI by Cloud Region Alone: A Architecture for AI Sovereignty",
-    "titlePt": "Europa Não Pode Governar IA Só por Região de Nuvem: Proposta de Soberania",
-    "url": "https://zenodo.org/records/21967218",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo defende que a Europa não pode regular inteligência artificial baseando-se apenas em regiões de nuvem, pois isso ignora questões de soberania tecnológica. Propõe uma nova arquitetura que considera capacidade computacional, dados e infraestrutura como ativos estratégicos. Isso afeta diretamente empresas de tecnologia que operam no continente e policymakers europeus. A discussão ganha relevância com o AI Act e tensões geopolíticas atuais. A proposta visa garantir que decisões críticas sobre IA sejam tomadas dentro da jurisdição europeia.",
-    "reasonEn": "The article argues that Europe cannot regulate artificial intelligence based only on cloud regions, as this ignores issues of technological sovereignty. It proposes a new architecture that considers computational capacity, data, and infrastructure as strategic assets. This directly affects tech companies operating on the continent and European policymakers. The discussion gains relevance with the AI Act and current geopolitical tensions. The proposal aims to ensure critical AI decisions are made within European jurisdiction.",
-    "score": 0.7,
-    "tags": [
-      "regulação",
-      "europa",
-      "soberania"
-    ],
-    "img": "img/bfc899e53e63.jpg",
-    "ts": 1786894311,
-    "addedTs": 1786896861,
-    "urlHash": "bfc899e53e63",
-    "titleHash": "92c4dd9995f6"
   }
 ]
