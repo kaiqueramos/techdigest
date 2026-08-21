@@ -1,5 +1,137 @@
 [
   {
+    "title": "Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents",
+    "titlePt": "Argentic: pedágio Lightning para agentes de IA que fazem scraping",
+    "url": "https://Argentic.network",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Argentic é um projeto da comunidade Hacker News que implementa o protocolo L402 sobre a rede Lightning para cobrar de agentes de IA que raspam dados na web. A ideia é transformar o acesso a conteúdo em um micropagamento automático entre máquinas. Isso importa para criadores de conteúdo que querem monetizar APIs e para desenvolvedores que constroem agentes autônomos. Ainda é experimental, mas indica uma direção para a economia de agentes.",
+    "reasonEn": "Argentic is a Hacker News community project implementing the L402 protocol over the Lightning Network to charge AI agents that scrape data on the web. The idea turns access to content into automatic machine-to-machine micropayments. This matters for content creators wanting to monetize APIs and for developers building autonomous agents. Still experimental, but it points toward a future agent economy.",
+    "score": 0.55,
+    "tags": [
+      "agentes",
+      "pagamentos",
+      "bitcoin"
+    ],
+    "img": "img/32e6db757723.jpg",
+    "ts": 1787293456,
+    "addedTs": 1787293825,
+    "urlHash": "32e6db757723",
+    "titleHash": "077ced6ac8e4"
+  },
+  {
+    "title": "AWS Bedrock AgentCore enforces user context to prevent hijacked AI agents",
+    "titlePt": "AWS Bedrock AgentCore reforça contexto do usuário para evitar agentes sequestrados",
+    "url": "https://techupdate24.com/aws-bedrock-agentcore-hijacked-ai-security/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A AWS anunciou o AgentCore no Bedrock, um recurso que valida o contexto do usuário em cada chamada para impedir que agentes de IA sejam sequestrados por instruções maliciosas. A medida é importante porque ataques de injeção de prompt em agentes autônomos são uma vulnerabilidade crescente. Desenvolvedores que usam Bedrock ganham uma camada extra de segurança sem código adicional. É leitura obrigatória para quem implanta agentes em produção.",
+    "reasonEn": "AWS announced AgentCore on Bedrock, a feature that validates user context on each call to prevent AI agents from being hijacked by malicious instructions. This matters because prompt injection attacks on autonomous agents are a growing vulnerability. Developers using Bedrock get an extra security layer with no additional code. It is mandatory reading for anyone deploying agents in production.",
+    "score": 0.8,
+    "tags": [
+      "aws",
+      "segurança",
+      "agentes"
+    ],
+    "img": "img/df1a460505ac.jpg",
+    "ts": 1787291789,
+    "addedTs": 1787293825,
+    "urlHash": "df1a460505ac",
+    "titleHash": "d6755f256478"
+  },
+  {
+    "title": "Show HN: Just describe your idea and let AI build a playable game for you",
+    "titlePt": "Mostre HN: descreva sua ideia e a IA cria um jogo jogável",
+    "url": "https://run.ceo/coder/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um projeto no Hacker News permite ao usuário descrever um jogo em texto e a inteligência artificial gera uma versão jogável automaticamente. A ferramenta usa modelos generativos para criar lógica, arte e interação em tempo real. É interessante para prototipagem rápida e para quem quer testar ideias sem programar. Ainda é experimental e a qualidade dos jogos varia, mas mostra o estado da arte em geração interativa.",
+    "reasonEn": "A Hacker News project lets the user describe a game in text and artificial intelligence automatically generates a playable version. The tool uses generative models to create logic, art and interaction in real time. It is interesting for rapid prototyping and for those who want to test ideas without coding. Still experimental and game quality varies, but it shows the state of the art in interactive generation.",
+    "score": 0.5,
+    "tags": [
+      "jogos",
+      "geração",
+      "prototipagem"
+    ],
+    "img": "img/5798fdd2d550.jpg",
+    "ts": 1787288656,
+    "addedTs": 1787293825,
+    "urlHash": "5798fdd2d550",
+    "titleHash": "a05f615457ee"
+  },
+  {
+    "title": "Show HN: I built a permission layer for AI agents, then spent a day breaking it",
+    "titlePt": "Desenvolvedor cria camada de permissões para agentes de IA e testa seus limites",
+    "url": "https://news.ycombinator.com/item?id=49383441",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um projeto mostrado no Hacker News propõe uma camada de permissões dedicada a agentes de IA, controlando o que eles podem acessar e executar. O autor passou um dia tentando quebrar o próprio sistema, registrando falhas e ajustes. A discussão ajuda a comunidade a entender pontos frágeis de segurança em agentes autônomos. É leitura rápida e prática para quem trabalha com automações.",
+    "reasonEn": "A Hacker News project proposes a permission layer dedicated to AI agents, controlling what they can access and execute. The author spent a day trying to break his own system, documenting failures and fixes. The discussion helps the community understand fragile security points in autonomous agents. It is quick, practical reading for anyone working with automations.",
+    "score": 0.65,
+    "tags": [
+      "show hn",
+      "agentes",
+      "segurança"
+    ],
+    "img": "img/82428d275e0b.jpg",
+    "ts": 1787283161,
+    "addedTs": 1787293825,
+    "urlHash": "82428d275e0b",
+    "titleHash": "d40aa92f3d9a"
+  },
+  {
+    "title": "Seedance 2.5 vs. Wan 3.0 for a 30-second AI video workflow",
+    "titlePt": "Seedance 2.5 vs. Wan 3.0: comparativo para vídeos curtos com IA",
+    "url": "https://seevido.com/model/seedance-2-5/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um desenvolvedor comparou os modelos Seedance 2.5 e Wan 3.0 em um fluxo de trabalho para gerar vídeos de 30 segundos com IA. O post mostra prós, contras e custos de cada opção em cenários reais. É útil para criadores e equipes que precisam decidir qual ferramenta adotar. Ajuda a evitar perda de tempo testando modelos às cegas.",
+    "reasonEn": "A developer compared Seedance 2.5 and Wan 3.0 in a workflow for generating 30-second AI videos. The post shows pros, cons, and costs of each option in real scenarios. It is useful for creators and teams deciding which tool to adopt. It helps avoid wasting time testing models blindly.",
+    "score": 0.6,
+    "tags": [
+      "vídeo",
+      "comparativo",
+      "ferramentas"
+    ],
+    "img": "img/4a7487531bfe.jpg",
+    "ts": 1787282884,
+    "addedTs": 1787293825,
+    "urlHash": "4a7487531bfe",
+    "titleHash": "cb5e047ece62"
+  },
+  {
+    "title": "Show HN: An autonomous AI agent running one project for two months in public",
+    "titlePt": "Agente autônomo de IA mantém um projeto rodando por dois meses",
+    "url": "https://aitoolsinsiderhq.com/log/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um projeto no Hacker News mostra um agente de IA operando sozinho em uma iniciativa de longo prazo, com atualizações públicas. O autor registra decisões, erros e aprendizados durante o período. Serve como estudo de caso real sobre os limites e capacidades atuais dos agentes. Vale acompanhar para quem estuda automação contínua.",
+    "reasonEn": "A Hacker News project shows an autonomous AI agent operating alone on a long-running initiative, with public updates. The author documents decisions, errors, and lessons over the period. It serves as a real case study on current agent capabilities and limits. Worth following for anyone studying continuous automation.",
+    "score": 0.55,
+    "tags": [
+      "show hn",
+      "agentes",
+      "autônomos"
+    ],
+    "img": "img/c3defaf39e04.jpg",
+    "ts": 1787282506,
+    "addedTs": 1787293825,
+    "urlHash": "c3defaf39e04",
+    "titleHash": "b64c3c30379a"
+  },
+  {
     "title": "Meta's app for creating generative AI minigames is now available in the US",
     "titlePt": "App da Meta para criar minigames com IA generativa chega aos EUA",
     "url": "https://www.engadget.com/2241098/meta-pocket-app-for-creating-generative-ai-minigames-available-in-us/",
@@ -10725,135 +10857,5 @@
     "addedTs": 1786896861,
     "urlHash": "bfc899e53e63",
     "titleHash": "92c4dd9995f6"
-  },
-  {
-    "title": "Enlicitide: A stress test for AI in drug discovery",
-    "titlePt": "Enlicitide: Um Teste de Estresse para IA na Descoberta de Medicamentos",
-    "url": "https://www.empirical.health/blog/macrocyclic-peptides/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Enlicitide é apresentado como um teste de estresse para sistemas de IA aplicados à descoberta de medicamentos, expondo falhas em promessas exageradas. O artigo discute casos onde a IA anunciou curas milagrosas que não se confirmaram em testes clínicos reais. Isso é crítico para farmacêuticas que investem pesado em IA e para pacientes que dependem desses avanços. O tema mostra os limites da tecnologia em áreas de alto risco onde erros custam vidas. A discussão reforça a necessidade de validação humana rigorosa e ceticismo saudável.",
-    "reasonEn": "Enlicitide is presented as a stress test for AI systems applied to drug discovery, exposing failures in exaggerated promises. The article discusses cases where AI announced miracle cures that were not confirmed in real clinical trials. This is critical for pharmaceutical companies investing heavily in AI and for patients depending on these advances. The topic shows the limits of technology in high-risk areas where errors cost lives. The discussion reinforces the need for rigorous human validation and healthy skepticism.",
-    "score": 0.7,
-    "tags": [
-      "ia",
-      "medicamentos",
-      "validação"
-    ],
-    "img": "img/49c13814aeab.jpg",
-    "ts": 1786892825,
-    "addedTs": 1786896861,
-    "urlHash": "49c13814aeab",
-    "titleHash": "32e80f9b2da8"
-  },
-  {
-    "title": "The AI Credit Resale Economy",
-    "titlePt": "A Economia de Revenda de Créditos de IA",
-    "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo descreve uma economia emergente onde créditos de uso de IA são revendidos entre usuários e empresas em mercados paralelos. Há quem compre créditos baratos e revenda com desconto, criando um ecossistema informal. Isso afeta desenvolvedores independentes e pequenas empresas que tentam reduzir custos com APIs de IA. O tema mostra como créditos de IA estão se tornando commodities financeiros. Pode ter implicações em preços oficiais e nos termos de serviço dos grandes provedores de IA.",
-    "reasonEn": "The article describes an emerging economy where AI usage credits are resold between users and companies in parallel markets. Some buy cheap credits and resell at a discount, creating an informal ecosystem. This affects independent developers and small businesses trying to reduce costs with AI APIs. The topic shows how AI credits are becoming financial commodities. It may have implications for official pricing and terms of service of major AI providers.",
-    "score": 0.5,
-    "tags": [
-      "ia",
-      "economia"
-    ],
-    "img": "img/16ac10544a86.jpg",
-    "ts": 1786891495,
-    "addedTs": 1786896861,
-    "urlHash": "16ac10544a86",
-    "titleHash": "b99a9bda06db"
-  },
-  {
-    "title": "Show HN: Qwen3.8-27B API, 140 tok/s on one GPU",
-    "titlePt": "Mostrar HN: API do Qwen3.8-27B Roda a 140 Tokens/s em Uma GPU",
-    "url": "https://inference.tiyuvta.ai/login?next=%2Fapp",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um desenvolvedor publicou no HackerNews uma demonstração do modelo Qwen3.8-27B rodando a 140 tokens por segundo em uma única GPU. O desempenho é competitivo com modelos muito maiores hospedados em data centers de empresas de tecnologia. Isso é relevante para quem quer rodar IA localmente sem depender de serviços na nuvem pagos. O anúncio mostra avanço contínuo em modelos menores e mais eficientes que cabem em hardware comum. Pode acelerar a adoção de IA privada em empresas preocupadas com dados sensíveis.",
-    "reasonEn": "A developer published on HackerNews a demonstration of the Qwen3.8-27B model running at 140 tokens per second on a single GPU. The performance is competitive with much larger models hosted in tech company data centers. This is relevant for those who want to run AI locally without relying on paid cloud services. The announcement shows continuous progress in smaller, more efficient models that fit on common hardware. It may accelerate private AI adoption in data-sensitive companies.",
-    "score": 0.55,
-    "tags": [
-      "modelo",
-      "lançamento",
-      "open-source"
-    ],
-    "img": "img/37cf7e18f78c.jpg",
-    "ts": 1786891379,
-    "addedTs": 1786896861,
-    "urlHash": "37cf7e18f78c",
-    "titleHash": "8543249a4885"
-  },
-  {
-    "title": "Dario Amodei responds to criticism about his stance on AI regulation",
-    "titlePt": "Dario Amodei Responde a Críticas Sobre Regulação de IA",
-    "url": "https://xcancel.com/DarioAmodei/status/2088758816376807762",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Dario Amodei, CEO da Anthropic, respondeu publicamente a críticas sobre sua posição favorável a mais regulação governamental de IA. Ele defende que sem regras claras, o setor pode causar danos graves à sociedade antes de conseguir se autorregular. A resposta é diretamente relevante para o debate global sobre governança de IA em Washington, Bruxelas e outras capitais. Empresas e policymakers acompanham de perto o posicionamento de líderes influentes do setor. A fala de Amodei influencia o tom da discussão regulatória em todo o mundo ocidental.",
-    "reasonEn": "Dario Amodei, CEO of Anthropic, publicly responded to criticism about his position favoring more government regulation of AI. He argues that without clear rules, the sector can cause serious harm to society before managing to self-regulate. The response is directly relevant to the global debate on AI governance in Washington, Brussels, and other capitals. Companies and policymakers closely follow the positioning of influential industry leaders. Amodei's speech influences the tone of regulatory discussion across the Western world.",
-    "score": 0.7,
-    "tags": [
-      "regulação",
-      "ia"
-    ],
-    "img": "img/e55d8e6b462f.jpg",
-    "ts": 1786891299,
-    "addedTs": 1786896861,
-    "urlHash": "e55d8e6b462f",
-    "titleHash": "66f30c8c5259"
-  },
-  {
-    "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-    "titlePt": "Meta apresenta Muse Glimmer, modelo local, multimodal e aberto",
-    "url": "https://huggingface.co/blog/muse-glimmer",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "A Meta apresentou o Muse Glimmer, descrito como local, agêntico, multimodal e de código aberto. A combinação dessas características pode ampliar as opções para criar aplicações de inteligência artificial fora de grandes serviços em nuvem. Desenvolvedores e equipes que avaliam modelos abertos são os principais interessados.",
-    "reasonEn": "Meta introduced Muse Glimmer, described as local, agentic, multimodal, and open source. This combination of features could broaden options for building artificial intelligence applications outside major cloud services. Developers and teams evaluating open models are the main audience.",
-    "score": 0.82,
-    "tags": [
-      "modelo",
-      "multimodal",
-      "código-aberto"
-    ],
-    "img": "img/dfb586131bf3.jpg",
-    "ts": 1786320000,
-    "addedTs": 1786896861,
-    "urlHash": "dfb586131bf3",
-    "titleHash": "12900bac2723"
-  },
-  {
-    "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-    "titlePt": "Como a HSP GRUPPE cria inteligência artificial para asesoría tributária",
-    "url": "https://openai.com/index/hsp-gruppe",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A OpenAI mostra como a HSP GRUPDE desenvolve capacidades de inteligência artificial aplicadas à assessoria tributária. O caso destaca a adaptação dessa tecnologia às necessidades de um setor profissional específico. Consultores, empresas de tributação e organizações interessadas em automação podem se beneficiar do exemplo.",
-    "reasonEn": "OpenAI shows how HSP GRUPPE develops artificial intelligence capabilities for tax advisory work. The case highlights adapting the technology to the needs of a specific professional sector. Tax consultants, tax businesses, and organizations interested in automation can learn from the example.",
-    "score": 0.52,
-    "tags": [
-      "inteligência-artificial",
-      "tributação",
-      "setores"
-    ],
-    "img": "img/7347f06e7c91.jpg",
-    "ts": 1786093200,
-    "addedTs": 1786896861,
-    "urlHash": "7347f06e7c91",
-    "titleHash": "09a5b78c46a3"
   }
 ]
