@@ -1,5 +1,262 @@
 [
   {
+    "title": "Locus: Deterministic AST safety firewall for AI agents in pure Rust (<0.05ms)",
+    "titlePt": "Locus: firewall de segurança para agentes de IA em Rust puro",
+    "url": "https://github.com/ahmadshady747-create/LOCUS",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Locus é um firewall determinístico para agentes de IA, escrito em Rust puro, com latência abaixo de 0,05 milissegundos. Usa análise estática de árvore sintática para bloquear ações perigosas antes que saiam do agente. Ferramenta útil para quem desenvolve agentes de IA que precisam de garantias rígidas de segurança.",
+    "reasonEn": "Locus is a deterministic firewall for AI agents, written in pure Rust, with latency under 0.05 milliseconds. It uses AST static analysis to block dangerous actions before they leave the agent. A useful tool for developers of AI agents who need strict safety guarantees.",
+    "score": 0.7,
+    "tags": [
+      "segurança",
+      "agentes",
+      "rust"
+    ],
+    "img": "img/0b15399105ec.jpg",
+    "ts": 1787315063,
+    "addedTs": 1787315262,
+    "urlHash": "0b15399105ec",
+    "titleHash": "d3841aa66ab5"
+  },
+  {
+    "title": "ChatGPT-Taught Experts Are Crippling Agentic AI",
+    "titlePt": "Especialistas treinados pelo ChatGPT estão prejudicando a IA agêntica",
+    "url": "https://msukhareva.substack.com/p/how-chatgpt-taught-experts-are-crippling",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo argumenta que profissionais que aprenderam a programar com ajuda do ChatGPT estão limitando o avanço dos agentes de IA. A dependência da ferramenta pode reduzir a capacidade de resolver problemas complexos de forma autônoma. Impacta empresas que desenvolvem soluções agênticas e formam equipes técnicas.",
+    "reasonEn": "The article argues that professionals who learned to code with ChatGPT's help are limiting the advancement of agentic AI. Dependency on the tool may reduce the ability to solve complex problems autonomously. It impacts companies developing agentic solutions and training technical teams.",
+    "score": 0.55,
+    "tags": [
+      "agentes",
+      "educação"
+    ],
+    "img": "img/87227f6e6db2.jpg",
+    "ts": 1787314615,
+    "addedTs": 1787315262,
+    "urlHash": "87227f6e6db2",
+    "titleHash": "2945f3c4af3b"
+  },
+  {
+    "title": "We burned 11.7B tokens to find the best cyber AI model",
+    "titlePt": "Foram queimados 11,7 bilhões de tokens para descobrir o melhor modelo de IA em cibersegurança",
+    "url": "https://www.aikido.dev/blog/ai-model-benchmarks-aug-21-2026",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma equipe rodou 11,7 bilhões de tokens para comparar modelos de IA aplicados à cibersegurança, em tarefas reais de defesa e ataque. O resultado aponta qual modelo se sai melhor em cenários ofensivos e defensivos. É referência importante para equipes de segurança que precisam escolher ferramentas de IA.",
+    "reasonEn": "A team ran 11.7 billion tokens to compare AI models applied to cybersecurity, in real defense and attack tasks. The result points to which model performs best in offensive and defensive scenarios. It's an important reference for security teams needing to choose AI tools.",
+    "score": 0.85,
+    "tags": [
+      "benchmark",
+      "segurança",
+      "cibersegurança"
+    ],
+    "img": "img/7c5c3421e06a.jpg",
+    "ts": 1787314147,
+    "addedTs": 1787315262,
+    "urlHash": "7c5c3421e06a",
+    "titleHash": "b02e3f387aba"
+  },
+  {
+    "title": "Vertical AI Founders, You Are Going Through 3 Existential Crises",
+    "titlePt": "Fundadores de IA vertical: vocês estão passando por três crises existenciais",
+    "url": "https://medium.com/@MirArshadTalpur/vertical-ai-founders-you-are-going-through-3-existential-crises-and-most-of-you-dont-know-it-b3d86a386d37",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto aponta três crises existenciais que fundadores de startups de IA vertical estão enfrentando neste momento. Mistura pressão de mercado, saturação de investidores e amadurecimento dos clientes corporativos. Leitura útil para empreendedores e investidores que precisam repensar estratégia.",
+    "reasonEn": "The text points out three existential crises that vertical AI startup founders are facing right now. It mixes market pressure, investor saturation and corporate customer maturation. Useful reading for entrepreneurs and investors who need to rethink strategy.",
+    "score": 0.5,
+    "tags": [
+      "negócios",
+      "startups"
+    ],
+    "img": "img/ee71315dbd09.jpg",
+    "ts": 1787313888,
+    "addedTs": 1787315262,
+    "urlHash": "ee71315dbd09",
+    "titleHash": "0fd4095021bc"
+  },
+  {
+    "title": "AI reshapes India's IT services sector contracts as clients demand more for less",
+    "titlePt": "IA remodela contratos de TI na Índia com clientes pedindo mais por menos",
+    "url": "https://www.reuters.com/world/india/ai-reshapes-indias-it-services-sector-contracts-clients-demand-more-less-2026-08-20/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A inteligência artificial está mudando os contratos de serviços de TI na Índia. Clientes exigem mais entregas, por menos dinheiro, automatizando tarefas antes feitas por humanos. É um sinal claro do impacto da IA em grandes operações de terceirização, com efeito global em TI.",
+    "reasonEn": "Artificial intelligence is changing IT services contracts in India. Clients demand more deliverables for less money, automating tasks previously done by humans. It's a clear sign of AI's impact on large outsourcing operations, with a global effect on IT.",
+    "score": 0.8,
+    "tags": [
+      "negócios",
+      "contratos",
+      "índia"
+    ],
+    "img": "img/0351e80224f5.jpg",
+    "ts": 1787313853,
+    "addedTs": 1787315262,
+    "urlHash": "0351e80224f5",
+    "titleHash": "1aeaee314984"
+  },
+  {
+    "title": "First library for ads shown on ChatGPT",
+    "titlePt": "Primeira biblioteca para anúncios exibidos no ChatGPT",
+    "url": "https://llmpulse.ai/chatgpt-ads-library",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Foi lançada a primeira biblioteca dedicada a anúncios que aparecem dentro do ChatGPT. Permite acompanhar, medir e possivelmente veicular anúncios nesse novo canal. Importante para desenvolvedores e profissionais de marketing que precisam lidar com publicidade em plataformas de IA conversacional.",
+    "reasonEn": "The first library dedicated to ads appearing inside ChatGPT has been launched. It allows tracking, measuring and possibly serving ads on this new channel. Important for developers and marketing professionals who need to deal with advertising on conversational AI platforms.",
+    "score": 0.6,
+    "tags": [
+      "publicidade",
+      "chatgpt"
+    ],
+    "img": "img/79b874c9fac4.jpg",
+    "ts": 1787313620,
+    "addedTs": 1787315262,
+    "urlHash": "79b874c9fac4",
+    "titleHash": "b275197d6393"
+  },
+  {
+    "title": "Delta Use AI to Cut Costs Set Diff Ticket Price–CEO Says Profits Could Rise 50%",
+    "titlePt": "Delta usa IA para cortar custos e precificar passagens; lucro pode subir 50%",
+    "url": "https://viewfromthewing.com/delta-will-use-ai-to-cut-jobs-and-set-a-different-ticket-price-for-every-passenger-ceo-says-profits-could-rise-50/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A companhia aérea Delta está usando inteligência artificial para reduzir custos e adotar tarifas dinâmicas por passageiro, ajustadas em tempo real. O CEO afirma que os lucros podem crescer até cinquenta por cento com a estratégia. É um caso emblemático de como a IA muda indústrias tradicionais.",
+    "reasonEn": "Airline Delta is using artificial intelligence to cut costs and adopt dynamic per-passenger fares, adjusted in real time. The CEO says profits could grow up to fifty percent with the strategy. It's an emblematic case of how AI changes traditional industries.",
+    "score": 0.7,
+    "tags": [
+      "aviação",
+      "negócios"
+    ],
+    "img": "img/81b12cb5ea79.jpg",
+    "ts": 1787312828,
+    "addedTs": 1787315262,
+    "urlHash": "81b12cb5ea79",
+    "titleHash": "fae59a4f96bb"
+  },
+  {
+    "title": "AI(.)DIY – Open-source AI workspace with agents, MCP and Linux in the browser",
+    "titlePt": "IA faça você mesmo: espaço de trabalho de código aberto com agentes e Linux no navegador",
+    "url": "https://github.com/Cubinghackerz/ai.diy",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Lançado um espaço de trabalho de código aberto para inteligência artificial, com suporte a agentes, protocolo MCP e Linux rodando direto no navegador. Tenta democratizar o acesso a IA sem instalar nada localmente. Pode ser útil para desenvolvedores e curiosos que querem testar modelos rapidamente.",
+    "reasonEn": "An open-source workspace for artificial intelligence has been launched, with support for agents, the MCP protocol, and Linux running directly in the browser. It tries to democratize access to AI without installing anything locally. It may be useful for developers and curious users wanting to test models quickly.",
+    "score": 0.55,
+    "tags": [
+      "código-aberto",
+      "agentes"
+    ],
+    "img": "img/6ac13290ffea.jpg",
+    "ts": 1787311547,
+    "addedTs": 1787315262,
+    "urlHash": "6ac13290ffea",
+    "titleHash": "df1c7bc0f3a9"
+  },
+  {
+    "title": "Microsoft gives Task Manager another task: Watching AI workloads",
+    "titlePt": "Microsoft dá ao Gerenciador de Tarefas mais uma função: monitorar cargas de IA",
+    "url": "https://www.theregister.com/os-platforms/2026/08/20/microsoft-gives-task-manager-another-task-watching-ai-workloads/5290448",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Microsoft está adicionando ao Gerenciador de Tarefas do Windows a capacidade de acompanhar cargas de trabalho de inteligência artificial em execução. Usuários poderão ver uso de GPU, memória e energia de processos de IA diretamente na ferramenta nativa do sistema. Mudança relevante para desenvolvedores e usuários avançados.",
+    "reasonEn": "Microsoft is adding to Windows Task Manager the ability to monitor running artificial intelligence workloads. Users will be able to see GPU, memory and energy usage for AI processes directly in the system's native tool. A relevant change for developers and advanced users.",
+    "score": 0.65,
+    "tags": [
+      "microsoft",
+      "windows",
+      "monitoramento"
+    ],
+    "img": "img/048289528009.jpg",
+    "ts": 1787310963,
+    "addedTs": 1787315262,
+    "urlHash": "048289528009",
+    "titleHash": "ac8cbcf1353f"
+  },
+  {
+    "title": "Show HN: ContextForge – context engineering platform for AI-assisted development",
+    "titlePt": "ContextForge: plataforma de engenharia de contexto para desenvolvimento com IA",
+    "url": "https://github.com/waterflane/ContextForge",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "ContextForge é uma plataforma dedicada à engenharia de contexto para programação assistida por inteligência artificial. Ajuda a organizar e alimentar as informações que entram nos modelos durante o desenvolvimento de software. Voltada para desenvolvedores que querem respostas mais precisas de assistentes de código.",
+    "reasonEn": "ContextForge is a platform dedicated to context engineering for AI-assisted programming. It helps organize and feed the information that goes into models during software development. Aimed at developers who want more accurate responses from coding assistants.",
+    "score": 0.5,
+    "tags": [
+      "desenvolvimento",
+      "agentes"
+    ],
+    "img": "img/fb58f405e778.jpg",
+    "ts": 1787310848,
+    "addedTs": 1787315262,
+    "urlHash": "fb58f405e778",
+    "titleHash": "53e00dd30038"
+  },
+  {
+    "title": "Anti India Influence Machine: Troll Farms, Fake News, Algorithms and AI",
+    "titlePt": "Máquina de influência anti-Índia: fazendas de trolls, notícias falsas, algoritmos e IA",
+    "url": "https://blog.himanshuanand.com/2026/08/the-anti-india-influence-machine-troll-farms-fake-news-newsrooms-algorithms-and-ai/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A reportagem investiga operações coordenadas de influência contra a Índia, com uso de fazendas de trolls, notícias falsas, algoritmos e inteligência artificial. Revela infraestrutura de desinformação operando em escala internacional. Tema importante para quem acompanha geopolítica digital e segurança da informação.",
+    "reasonEn": "The report investigates coordinated influence operations against India, using troll farms, fake news, algorithms and artificial intelligence. It reveals disinformation infrastructure operating on an international scale. An important topic for those tracking digital geopolitics and information security.",
+    "score": 0.5,
+    "tags": [
+      "geopolítica",
+      "desinformação"
+    ],
+    "img": "img/04da807290de.jpg",
+    "ts": 1787309064,
+    "addedTs": 1787315262,
+    "urlHash": "04da807290de",
+    "titleHash": "553dcad09395"
+  },
+  {
+    "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+    "titlePt": "Meta volta com o Muse Glimmer: local, agêntico, multimodal e código aberto",
+    "url": "https://huggingface.co/blog/muse-glimmer",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "A Meta lançou o Muse Glimmer, um novo modelo de IA com pesos abertos. O modelo roda localmente, é multimodal e foi desenhado para uso agêntico em sistemas autônomos. A proposta reforça a estratégia da Meta de apostar em modelos abertos como diferencial. É relevante para desenvolvedores que querem alternativas gratuitas e privadas aos modelos em nuvem.",
+    "reasonEn": "Meta launched Muse Glimmer, a new AI model with open weights. The model runs locally, is multimodal, and was designed for agentic use in autonomous systems. The proposal reinforces Meta's strategy of betting on open models as a differentiator. It is relevant for developers who want free and private alternatives to cloud models.",
+    "score": 0.7,
+    "tags": [
+      "modelo",
+      "lançamento",
+      "código-aberto"
+    ],
+    "img": "img/dfb586131bf3.jpg",
+    "ts": 1786320000,
+    "addedTs": 1787315262,
+    "urlHash": "dfb586131bf3",
+    "titleHash": "12900bac2723"
+  },
+  {
     "title": "The Brains Who Powered China's Surprising AI Leap",
     "titlePt": "Os cérebros por trás do salto inesperado da IA chinesa",
     "url": "https://www.wsj.com/tech/ai/ai-china-scientists-race-us-cd9732e3",
@@ -10590,269 +10847,5 @@
     "addedTs": 1786911134,
     "urlHash": "6c03d00c6071",
     "titleHash": "1691a8537a3a"
-  },
-  {
-    "title": "Evaluating AI Agents as Products",
-    "titlePt": "Avaliando agentes de IA como produtos",
-    "url": "https://www.marble.onl/posts/evaluating_ai_product_quality.html",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O texto discute como avaliar agentes de IA pensando neles como produtos de software, não como demonstrações de pesquisa. Ele propõe métricas práticas como taxa de conclusão de tarefas, custo por execução e confiabilidade em cenários reais. O foco é ajudar times a decidir se um agente está pronto para ser colocado em produção. Importante para desenvolvedores e gerentes de produto que trabalham com automação inteligente.",
-    "reasonEn": "The piece discusses how to evaluate AI agents as software products rather than research demos. It suggests practical metrics such as task completion rate, cost per run, and reliability in real scenarios. The goal is to help teams decide when an agent is ready for production. It matters for developers and product managers building intelligent automation.",
-    "score": 0.7,
-    "tags": [
-      "agentes",
-      "avaliação",
-      "produto"
-    ],
-    "img": "img/82b0ebe7e40a.jpg",
-    "ts": 1786903887,
-    "addedTs": 1786904137,
-    "urlHash": "82b0ebe7e40a",
-    "titleHash": "f3202cb80ccf"
-  },
-  {
-    "title": "AI is not just one bubble, strategist says – but a 'rolling sequence of bubbles'",
-    "titlePt": "IA não é uma bolha só, mas uma 'sequência rolando de bolhas'",
-    "url": "https://fortune.com/2026/08/16/ai-bubble-sequence-saas-software-stocks-silver-prices-chipmakers/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um estrategista financeiro argumenta que o mercado de IA não vive uma bolha única, e sim várias bolhas em sequência, cada uma em um setor diferente. Ele alerta que quando uma bolha estoura, a próxima já está se formando em outra área, como chips, modelos ou infraestrutura. A leitura é relevante para investidores e executivos que precisam entender o ciclo de entusiasmo e correção. Também ajuda devs a calibrar expectativas sobre o mercado de trabalho.",
-    "reasonEn": "A financial strategist argues the AI market is not one single bubble but a rolling sequence of bubbles, each in a different sector. He warns that when one bubble bursts the next is already forming in another area such as chips, models, or infrastructure. The framing matters for investors and executives trying to read the cycle of hype and correction. It also helps developers calibrate job-market expectations.",
-    "score": 0.6,
-    "tags": [
-      "mercado",
-      "investimento",
-      "bolha"
-    ],
-    "img": "img/7754f52e375f.jpg",
-    "ts": 1786903539,
-    "addedTs": 1786904137,
-    "urlHash": "7754f52e375f",
-    "titleHash": "09b4103126f7"
-  },
-  {
-    "title": "Why all AI content sounds the same (and how to fix it)",
-    "titlePt": "Por que todo conteúdo de IA soa igual (e como resolver)",
-    "url": "https://dreasays.substack.com/p/why-all-ai-content-sounds-exactly",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo analisa por que textos e respostas geradas por IA tendem a ter o mesmo tom, mesmas palavras e mesma estrutura. Aponta causas como treinamento em datasets parecidos e uso de técnicas de alinhamento que recompensam respostas 'seguras'. Sugere truques práticos para variar o estilo, como ajustar prompts e temperatura. É leitura útil para redatores, marketers e devs que querem saídas menos genéricas.",
-    "reasonEn": "The article analyzes why AI-generated text tends to share the same tone, words and structure. It points to causes such as similar training datasets and alignment techniques that reward 'safe' answers. It offers practical tips to vary style, like adjusting prompts and temperature. Useful for writers, marketers and developers who want less generic outputs.",
-    "score": 0.6,
-    "tags": [
-      "conteúdo",
-      "prompts",
-      "estilo"
-    ],
-    "img": "img/3b243d8fad57.jpg",
-    "ts": 1786902192,
-    "addedTs": 1786904137,
-    "urlHash": "3b243d8fad57",
-    "titleHash": "4d68a32b465b"
-  },
-  {
-    "title": "Show HN: I built my 15-year-old game idea in a week with AI",
-    "titlePt": "Construí em uma semana com IA um jogo que sonhava há 15 anos",
-    "url": "https://news.ycombinator.com/item?id=49321985",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um desenvolvedor compartilha no Show HN como finalmente tirou do papel uma ideia de jogo antiga usando ferramentas de IA generativa. Ele descreve quais partes a IA ajudou (arte, código, design) e onde ainda foi necessário trabalho manual. É um bom retrato do que dá pra fazer em uma semana com IA em 2025, mas o projeto é pessoal e de pequeno porte. Inspiração para quem prototipa rápido.",
-    "reasonEn": "A developer shares on Show HN how he finally built a 15-year-old game idea using generative AI tools. He describes which parts AI helped with (art, code, design) and what still required manual work. It is a good snapshot of what is doable in a week with AI in 2025, though the project is personal and small-scale. Inspiration for fast prototypers.",
-    "score": 0.5,
-    "tags": [
-      "show hn",
-      "jogos",
-      "prototipagem"
-    ],
-    "img": "img/b6f6a5aa25bf.jpg",
-    "ts": 1786901726,
-    "addedTs": 1786904137,
-    "urlHash": "b6f6a5aa25bf",
-    "titleHash": "ae3ad5f9dec0"
-  },
-  {
-    "title": "AI Can Guess Your Location from Social Media Photos with 87% to 91% Accuracy",
-    "titlePt": "IA adivinha sua localização por fotos em redes sociais com 87% a 91% de acerto",
-    "url": "https://www.macobserver.com/news/ai-can-guess-your-location-from-social-media-photos-with-87-to-91-accuracy/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Pesquisadores mostram que modelos de visão conseguem identificar a cidade ou bairro de uma pessoa a partir de fotos comuns em redes sociais com alta precisão. O ataque usa pistas sutis como arquitetura, placas, vegetação e até sombras. O achado reforça alertas de privacidade para quem posta imagens publicamente. Desenvolvedores de apps de fotos devem repensar dados de geolocalização expostos.",
-    "reasonEn": "Researchers show that vision models can identify a person's city or neighborhood from ordinary social media photos with high accuracy. The attack uses subtle cues like architecture, signs, vegetation and even shadows. The finding reinforces privacy warnings for anyone posting public images. Photo-app developers should rethink exposed geolocation data.",
-    "score": 0.75,
-    "tags": [
-      "privacidade",
-      "visão",
-      "segurança"
-    ],
-    "img": "img/db0db0fcc1f6.jpg",
-    "ts": 1786900749,
-    "addedTs": 1786904137,
-    "urlHash": "db0db0fcc1f6",
-    "titleHash": "86a992a905eb"
-  },
-  {
-    "title": "Show HN: I shrank DeepSeek V4 Flash to 57GB and it wrote a compiler on my Mac",
-    "titlePt": "Reduzi o DeepSeek V4 Flash para 57 GB e ele compilou um programa no meu Mac",
-    "url": "https://huggingface.co/steadfastgaze/DeepSeek-V4-Flash-0731-Coder-56.8GB-MoEspressoV2",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um desenvolvedor no Show HN relata ter quantizado o modelo DeepSeek V4 Flash para caber em 57 GB de RAM e conseguido rodá-lo em um Mac comum. O modelo reduzido foi capaz de escrever um compilador funcional, mostrando o quanto a quantização evoluiu. O feito é um marco para quem quer executar LLMs grandes localmente sem GPUs caras. Pode acelerar o movimento de IA on-device.",
-    "reasonEn": "A Show HN developer reports quantizing DeepSeek V4 Flash down to 57 GB and running it on a regular Mac. The shrunken model managed to write a working compiler, showing how far quantization has come. The feat is a milestone for those wanting to run large LLMs locally without expensive GPUs. It could accelerate the on-device AI movement.",
-    "score": 0.6,
-    "tags": [
-      "modelo",
-      "quantização",
-      "local"
-    ],
-    "img": "img/08740f9c3e29.jpg",
-    "ts": 1786900402,
-    "addedTs": 1786904137,
-    "urlHash": "08740f9c3e29",
-    "titleHash": "84e17761447e"
-  },
-  {
-    "title": "AgentShield – Offline Rust security scanner for AI agent tools and MCP (<50ms)",
-    "titlePt": "AgentShield: scanner de segurança Rust offline para ferramentas de agentes de IA",
-    "url": "https://github.com/aiconnai/agentshield",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O AgentShield é uma ferramenta open source escrita em Rust que verifica vulnerabilidades em ferramentas usadas por agentes de IA e servidores MCP. A análise roda offline em menos de 50 ms, sendo útil em pipelines de CI. Foi pensado para times que não querem enviar código sensível para scanners na nuvem. Mostra que segurança de agentes está virando categoria própria.",
-    "reasonEn": "AgentShield is an open-source Rust tool that scans for vulnerabilities in tools used by AI agents and MCP servers. The check runs offline in under 50 ms, making it useful in CI pipelines. It targets teams unwilling to send sensitive code to cloud scanners. The release shows agent security is becoming its own category.",
-    "score": 0.6,
-    "tags": [
-      "segurança",
-      "agentes",
-      "rust"
-    ],
-    "img": "img/8031a99757ab.jpg",
-    "ts": 1786900372,
-    "addedTs": 1786904137,
-    "urlHash": "8031a99757ab",
-    "titleHash": "9970e9bbbd45"
-  },
-  {
-    "title": "AI won't solve the work-theater problem",
-    "titlePt": "IA não vai resolver o problema do teatro corporativo",
-    "url": "https://think-twice.me/?p=102",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O texto defende que a cultura de simular trabalho em reuniões e relatórios não vai sumir com IA, e talvez piore. Argumenta que ferramentas que parecem aumentar produtividade muitas vezes só geram mais artefatos vazios. O autor sugere foco em entregas mensuráveis em vez de aparência de atividade. Leitura crítica para líderes e devs cansados de reuniões inúteis.",
-    "reasonEn": "The piece argues that corporate work-theater culture will not disappear with AI, and may even worsen. It says productivity-looking tools often just produce more empty artifacts. The author suggests focusing on measurable deliverables instead of looking busy. A critical read for leaders and developers tired of useless meetings.",
-    "score": 0.5,
-    "tags": [
-      "trabalho",
-      "cultura",
-      "opinião"
-    ],
-    "img": "img/94985770f4a9.jpg",
-    "ts": 1786899830,
-    "addedTs": 1786904137,
-    "urlHash": "94985770f4a9",
-    "titleHash": "77245416a5da"
-  },
-  {
-    "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-    "titlePt": "CEO da Anthropic diz que rejeição à IA é 'uma crise de confiança'",
-    "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "Dario Amodei afirma que a reação negativa do público contra empresas de IA vem de uma crise de confiança, não de tecnologia ruim. Ele defende mais transparência sobre segurança, limites e uso de dados para reconstruir credibilidade. A fala é relevante porque vem do CEO de uma das maiores labs e pode influenciar políticas do setor. Empresas e usuários devem acompanhar o debate sobre governança.",
-    "reasonEn": "Dario Amodei says public backlash against AI companies stems from a trust crisis, not bad technology. He calls for more transparency on safety, limits and data use to rebuild credibility. The speech matters because it comes from the CEO of one of the biggest labs and may shape industry policy. Companies and users should follow the governance debate.",
-    "score": 0.8,
-    "tags": [
-      "anthropic",
-      "confiança",
-      "regulação"
-    ],
-    "img": "img/31bad0791a5e.jpg",
-    "ts": 1786899231,
-    "addedTs": 1786904137,
-    "urlHash": "31bad0791a5e",
-    "titleHash": "bf863532a958"
-  },
-  {
-    "title": "AI and the Changing Future of Mathematics",
-    "titlePt": "IA e o futuro da matemática",
-    "url": "https://www.understandingai.org/p/mathematicians-are-grappling-with",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O texto discute como sistemas de IA estão mudando a prática matemática, desde busca por contraexemplos até geração de provas assistida. Matemáticos relatam ganhos de produtividade, mas também preocupações com verificação e originalidade das demonstrações. O tema importa porque pode transformar pesquisa acadêmica e ensino. Vale a leitura para quem trabalha com ciência e educação.",
-    "reasonEn": "The piece discusses how AI systems are changing mathematical practice, from counterexample search to assisted proof generation. Mathematicians report productivity gains but also concerns about verifying and trusting new proofs. The topic matters because it may reshape academic research and teaching. Worth reading for those in science and education.",
-    "score": 0.5,
-    "tags": [
-      "matemática",
-      "pesquisa",
-      "ciência"
-    ],
-    "img": "img/8b9c05d2b3c3.jpg",
-    "ts": 1786899056,
-    "addedTs": 1786904137,
-    "urlHash": "8b9c05d2b3c3",
-    "titleHash": "22244df7ee57"
-  },
-  {
-    "title": "Breaking AI Orchestration: Hijacking N8n HITL Chat Sessions",
-    "titlePt": "Hackeando sessões de chat do N8n com humanos no loop",
-    "url": "https://zerolabs.rubrik.com/blog/breaking-ai-orchestration-part-2-hijacking-n8n-hitl-chat-sessions",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Pesquisadores mostram como sequestrar sessões de chat com aprovação humana em ferramentas de orquestração de IA como o N8n. O ataque injeta instruções maliciosas que passam despercebidas pelo revisor humano antes de chegar ao agente final. A falha destaca riscos sérios em fluxos HITL mal desenhados. Times que usam orquestradores devem revisar controles de aprovação.",
-    "reasonEn": "Researchers show how to hijack human-in-the-loop chat sessions in AI orchestration tools like N8n. The attack injects malicious instructions that slip past the human reviewer before reaching the final agent. The flaw exposes serious risks in poorly designed HITL flows. Teams using orchestrators should review their approval controls.",
-    "score": 0.75,
-    "tags": [
-      "segurança",
-      "orquestração",
-      "agentes"
-    ],
-    "img": "img/810b9cf9d384.jpg",
-    "ts": 1786898971,
-    "addedTs": 1786904137,
-    "urlHash": "810b9cf9d384",
-    "titleHash": "40daf46aec3a"
-  },
-  {
-    "title": "Russian missile uses Nvidia AI chip to help target Ukraine",
-    "titlePt": "Míssil russo usa chip de IA da Nvidia para mirar na Ucrânia",
-    "url": "https://www.theregister.com/offbeat/2026/08/14/russian-missile-uses-nvidia-ai-chip-to-help-target-ukraine/5287976",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Reportagem mostra que um míssil russo emprega um chip de IA da Nvidia para melhorar a precisão de mira contra alvos na Ucrânia. O fato reacende o debate sobre exportação de semicondutores avançados e o uso dual de hardware civil. Empresas de tecnologia enfrentam pressão para rastrear o destino final de seus chips. É leitura obrigatória para quem acompanha geopolítica e indústria de semicondutores.",
-    "reasonEn": "Reporting shows a Russian missile uses an Nvidia AI chip to improve targeting accuracy against Ukrainian targets. The finding reignites debate over advanced chip exports and dual-use of civilian hardware. Tech companies face pressure to track the final destination of their chips. Essential reading for those following geopolitics and the semiconductor industry.",
-    "score": 0.85,
-    "tags": [
-      "geopolítica",
-      "nvidia",
-      "chips"
-    ],
-    "img": "img/78cba02c36d1.jpg",
-    "ts": 1786898860,
-    "addedTs": 1786904137,
-    "urlHash": "78cba02c36d1",
-    "titleHash": "f0f5458105ff"
   }
 ]
