@@ -1,5 +1,114 @@
 [
   {
+    "title": "Linus Torvalds uses AI to debug an Intel GPU driver bug",
+    "titlePt": "Linus Torvalds usa IA para corrigir bug em driver de GPU Intel",
+    "url": "https://lists.freedesktop.org/archives/dri-devel/2026-August/590630.html",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O criador do Linux, Linus Torvalds, usou uma ferramenta de IA para encontrar e corrigir um bug em um driver de GPU da Intel. É uma vitória simbólica para a utilidade da IA em programação de baixo nível. Mostra que até os engenheiros mais experientes do mundo confiam em IA para tarefas tediosas.",
+    "reasonEn": "Linux creator Linus Torvalds used an AI tool to find and fix a bug in an Intel GPU driver. It is a symbolic win for the usefulness of AI in low-level programming. It shows even the world's most experienced engineers trust AI for tedious tasks.",
+    "score": 0.75,
+    "tags": [
+      "linux",
+      "gpu",
+      "ai-debug"
+    ],
+    "img": "img/05a31158a3f5.jpg",
+    "ts": 1787327859,
+    "addedTs": 1787329296,
+    "urlHash": "05a31158a3f5",
+    "titleHash": "86c039e48036"
+  },
+  {
+    "title": "How Frontier AI Is Changing the Economics of Cybersecurity",
+    "titlePt": "Como a IA de fronteira muda a economia da cibersegurança",
+    "url": "https://corporate.comcast.com/stories/how-frontier-ai-is-changing-the-economics-of-cybersecurity",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo discute como modelos avançados de IA estão alterando custos e estratégias de defesa e ataque cibernético. É relevante para profissionais de segurança e tomadores de decisão em empresas de tecnologia. Mostra como atacantes e defensores ganham e perdem poder com essas ferramentas.",
+    "reasonEn": "The article discusses how advanced AI models are changing the costs and strategies of cyber defense and attack. It is relevant for security professionals and decision-makers in tech companies. It shows how attackers and defenders gain and lose power with these tools.",
+    "score": 0.5,
+    "tags": [
+      "segurança",
+      "cibersegurança"
+    ],
+    "img": "img/9cdf2a35fad3.jpg",
+    "ts": 1787327306,
+    "addedTs": 1787329296,
+    "urlHash": "9cdf2a35fad3",
+    "titleHash": "bdcdd28636bb"
+  },
+  {
+    "title": "Block AI from installing malicious NPM packages",
+    "titlePt": "Como impedir que agentes de IA instalem pacotes maliciosos no NPM",
+    "url": "https://prasannamestha.medium.com/a-tool-to-block-ai-from-installing-malicious-npm-packages-c82bd32ed4cc",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto mostra técnicas para bloquear agentes de IA que tentam instalar pacotes maliciosos no NPM. É importante porque cada vez mais ferramentas de IA executam comandos automaticamente. Ajuda desenvolvedores a protegerem seus ambientes de produção.",
+    "reasonEn": "The text shows techniques to block AI agents that try to install malicious NPM packages. It is important because more AI tools execute commands automatically. It helps developers protect their production environments.",
+    "score": 0.5,
+    "tags": [
+      "segurança",
+      "npm",
+      "agentes"
+    ],
+    "img": "img/1cf92ad2ccd0.jpg",
+    "ts": 1787326282,
+    "addedTs": 1787329296,
+    "urlHash": "1cf92ad2ccd0",
+    "titleHash": "fac69b329936"
+  },
+  {
+    "title": "Show HN: AgentSight – eBPF observability for AI agents, no code changes",
+    "titlePt": "AgentSight: observabilidade eBPF para agentes de IA",
+    "url": "https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "AgentSight é uma ferramenta que usa eBPF para observar o que agentes de IA fazem no sistema, sem alterar o código. É útil para SREs e engenheiros que precisam depurar agentes autônomos. Funciona em tempo real com baixo custo de performance.",
+    "reasonEn": "AgentSight is a tool that uses eBPF to observe what AI agents do in the system without changing the code. It is useful for SREs and engineers who need to debug autonomous agents. It works in real time with low performance cost.",
+    "score": 0.55,
+    "tags": [
+      "devtools",
+      "observabilidade",
+      "agentes"
+    ],
+    "img": "img/95858bc435b0.jpg",
+    "ts": 1787325670,
+    "addedTs": 1787329296,
+    "urlHash": "95858bc435b0",
+    "titleHash": "cc1cb0f528ab"
+  },
+  {
+    "title": "Testing ads in ChatGPT",
+    "titlePt": "OpenAI começa a testar anúncios dentro do ChatGPT",
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "A OpenAI anunciou que está testando a exibição de anúncios nas conversas do ChatGPT, em um movimento que confirma a chegada da empresa ao modelo de monetização por publicidade. O teste envolve um pequeno grupo de usuários nos EUA e pode mudar a experiência de uso gratuita. A decisão afeta diretamente todos os usuários gratuitos do produto e developers que integram com a plataforma. Ainda não há detalhes completos de formato ou segmentação.",
+    "reasonEn": "OpenAI announced it is testing ad display within ChatGPT conversations, in a move that confirms the company's entry into ad-based monetization. The test involves a small group of US users and may change the free user experience. The decision directly affects all free-tier users and developers integrating with the platform. Full format and targeting details are not yet available.",
+    "score": 0.7,
+    "tags": [
+      "openai",
+      "monetização",
+      "chatgpt"
+    ],
+    "img": "img/b19ec562c455.jpg",
+    "ts": 1786442400,
+    "addedTs": 1787329296,
+    "urlHash": "b19ec562c455",
+    "titleHash": "d75b687a60ac"
+  },
+  {
     "title": "Nvidia's Switchyard router reshuffles AI models mid-task to cut task costs",
     "titlePt": "Roteador Switchyard da Nvidia troca modelos de IA no meio da tarefa para economizar",
     "url": "https://venturebeat.com/orchestration/nvidias-switchyard-router-reshuffles-ai-models-mid-task-cutting-task-costs-to-a-third-in-its-own-tests",
@@ -10743,111 +10852,5 @@
     "addedTs": 1786918320,
     "urlHash": "9a585195e787",
     "titleHash": "3826cbe5211a"
-  },
-  {
-    "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
-    "titlePt": "Pensou em ACE? Dá para fazer com menos tokens",
-    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "O post no Hugging Face apresenta uma técnica ou paper que consegue replicar resultados do método ACE (Agentic Context Engineering) usando bem menos tokens. Isso significa mais eficiência e menor custo em fluxos com agentes de IA. Para quem trabalha com agentes, é uma leitura técnica relevante que pode mudar a forma como prompts e contexto são gerenciados. Ainda é pesquisa, mas aponta direção prática.",
-    "reasonEn": "The Hugging Face post presents a technique or paper that replicates results from the ACE (Agentic Context Engineering) method while using far fewer tokens. That means more efficiency and lower cost in AI agent workflows. For people working with agents, it is a relevant technical read that may change how prompts and context are managed. Still research, but it points in a practical direction.",
-    "score": 0.6,
-    "tags": [
-      "pesquisa",
-      "agentes",
-      "eficiência"
-    ],
-    "img": "img/077b61a0fed0.jpg",
-    "ts": 1786455430,
-    "addedTs": 1786918320,
-    "urlHash": "077b61a0fed0",
-    "titleHash": "33f7a4432705"
-  },
-  {
-    "title": "Red queen hypothesis – a new way forward for self-improving AI",
-    "titlePt": "Hipótese da Rainha Vermelha: novo caminho para IA que se autoaperfeiçoa",
-    "url": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um artigo propõe usar a hipótese da Rainha Vermelha, da biologia evolutiva, para treinar sistemas de IA que melhoram continuamente. A ideia é criar uma dinâmica em que a IA precisa evoluir constantemente para acompanhar adversários. É leitura relevante para quem pesquisa IA e métodos de autoaperfeiçoamento.",
-    "reasonEn": "A paper proposes using the Red Queen hypothesis from evolutionary biology to train AI systems that improve continuously. The idea is to create a dynamic where the AI must keep evolving to keep up with adversaries. It is relevant reading for anyone researching AI and self-improvement methods.",
-    "score": 0.5,
-    "tags": [
-      "pesquisa",
-      "autoaperfeiçoamento"
-    ],
-    "img": "img/0535013f5a2c.jpg",
-    "ts": 1786910473,
-    "addedTs": 1786911134,
-    "urlHash": "0535013f5a2c",
-    "titleHash": "7d4ab4e2c8d0"
-  },
-  {
-    "title": "Stripe Nears Deal to Buy AI Firm OpenRouter for over $7B",
-    "titlePt": "Stripe perto de comprar a OpenRouter por mais de 7 bilhões de dólares",
-    "url": "https://news.bloomberglaw.com/mergers-and-acquisitions/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Stripe está em negociações avançadas para adquirir a OpenRouter, roteador de modelos de IA, por mais de 7 bilhões de dólares. A OpenRouter funciona como intermediária entre desenvolvedores e diversos modelos de IA, sendo peça-chave na infraestrutura. Se confirmada, é uma das maiores aquisições do setor e pode mudar o acesso a modelos de IA.",
-    "reasonEn": "Stripe is in advanced talks to acquire OpenRouter, an AI model router, for over 7 billion dollars. OpenRouter acts as an intermediary between developers and various AI models, sitting at key infrastructure. If confirmed, this is one of the biggest acquisitions in the sector and could change access to AI models.",
-    "score": 0.95,
-    "tags": [
-      "deal",
-      "infraestrutura"
-    ],
-    "img": "img/fde83b787284.jpg",
-    "ts": 1786909654,
-    "addedTs": 1786911134,
-    "urlHash": "fde83b787284",
-    "titleHash": "63d16df95fa5"
-  },
-  {
-    "title": "Low-regret recommendations for AI policy",
-    "titlePt": "Recomendações de baixo arrependimento para política de IA",
-    "url": "https://www.noahpinion.blog/p/23-low-regret-recommendations-for",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um texto defende políticas de IA que minimizem arrependimento futuro, evitando proibições radicais ou apostas cegas. A proposta foca em medidas que funcionam bem em diferentes cenários possíveis. É leitura útil para gestores e formuladores de políticas que lidam com incerteza sobre o futuro da IA.",
-    "reasonEn": "A piece argues for AI policies that minimize future regret, avoiding both radical bans and blind bets. The proposal focuses on measures that work well across different possible futures. It is useful reading for managers and policymakers dealing with uncertainty about AI's future.",
-    "score": 0.5,
-    "tags": [
-      "regulação",
-      "política"
-    ],
-    "img": "img/fd0a9bcac9d2.jpg",
-    "ts": 1786907126,
-    "addedTs": 1786911134,
-    "urlHash": "fd0a9bcac9d2",
-    "titleHash": "91ed536c38c1"
-  },
-  {
-    "title": "The AI store manager fired its first human",
-    "titlePt": "Gerente de loja feito com IA demite seu primeiro humano",
-    "url": "https://thenextweb.com/news/andon-market-luna-ai-store-manager-fires-employee",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Reportagem mostra um sistema de IA gerenciando uma loja e tomando a decisão de desligar um funcionário humano. É um caso concreto de IA substituindo e gerenciando pessoas em ambiente de trabalho real. Serve como alerta para sobre automação e responsabilidade sobre decisões automatizadas.",
-    "reasonEn": "A report shows an AI system managing a store and making the decision to fire a human employee. It is a concrete case of AI replacing and managing people in a real workplace. It serves as a warning about automation and responsibility for automated decisions.",
-    "score": 0.6,
-    "tags": [
-      "automação",
-      "trabalho"
-    ],
-    "img": "img/96de4034aa8b.jpg",
-    "ts": 1786904387,
-    "addedTs": 1786911134,
-    "urlHash": "96de4034aa8b",
-    "titleHash": "99b2da457e52"
   }
 ]
