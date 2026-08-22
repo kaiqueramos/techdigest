@@ -1,5 +1,159 @@
 [
   {
+    "title": "Linus: \"A debug session from hell, enormously helped by an AI\"",
+    "titlePt": "Linus Torvalds: sessão de debug resolvida com ajuda de IA",
+    "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Linus Torvalds, criador do Linux, contou que passou por uma sessão de debug extremamente difícil que foi enormemente facilitada por uma inteligência artificial. A declaração é notável porque Torvalds é conhecido por ser cético em relação a tendências tecnológicas. A história interessa diretamente a desenvolvedores e pode indicar que ferramentas de IA estão amadurecendo para tarefas reais de engenharia.",
+    "reasonEn": "Linus Torvalds, creator of Linux, shared that he went through an extremely tough debugging session that was enormously helped by an AI. The statement is notable because Torvalds is famously skeptical of tech trends. The story directly interests developers and may signal that AI tools are maturing for real engineering tasks.",
+    "score": 0.7,
+    "tags": [
+      "desenvolvimento",
+      "linux",
+      "ia"
+    ],
+    "img": "img/8c2f342ea8fe.jpg",
+    "ts": 1787357327,
+    "addedTs": 1787359340,
+    "urlHash": "8c2f342ea8fe",
+    "titleHash": "4c98ab15b9b0"
+  },
+  {
+    "title": "Nvidia to Pay AI Startup Poolside a $6B License, Newcomer Says",
+    "titlePt": "Nvidia vai pagar US$ 6 bi em licença para startup Poolside",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-20/nvidia-to-pay-ai-startup-poolside-a-6-billion-license-newcomer-says",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Nvidia fechou acordo para pagar cerca de seis bilhões de dólares em licenciamento à startup de inteligência artificial Poolside, segundo reportagem do Hacker News. O movimento mostra que a Nvidia está distribuindo bilhões para startups de IA para garantir acesso a novos modelos e talentos. É um sinal claro do tamanho dos investimentos que estão sendo feitos na corrida da IA e afeta todo o ecossistema de desenvolvedores e investidores.",
+    "reasonEn": "Nvidia has struck a deal to pay around six billion dollars in licensing to AI startup Poolside, according to the Hacker News report. The move shows Nvidia is funneling billions toward AI startups to secure access to new models and talent. It is a clear signal of the scale of investment in the AI race and affects the broader developer and investor ecosystem.",
+    "score": 0.95,
+    "tags": [
+      "nvidia",
+      "deal",
+      "modelo"
+    ],
+    "img": "img/890e0b81b2b4.jpg",
+    "ts": 1787357226,
+    "addedTs": 1787359340,
+    "urlHash": "890e0b81b2b4",
+    "titleHash": "9240ae50ca39"
+  },
+  {
+    "title": "As demand for Meta AI glasses explodes, it's harder to avoid creepy recordings",
+    "titlePt": "Óculos de IA da Meta levantam medo de gravações invasivas",
+    "url": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Com a explosão de demanda pelos óculos de IA da Meta, cresce a preocupação de que se tornarão ainda mais difíceis de evitar gravações invasivas em locais públicos e privados. O texto discute dilemas de privacidade,consentimento e o efeito de aparelhos sempre ligados em espaços sociais. A pauta afeta consumidores, empresas e profissionais que lidam com imagem, além de regulação de tecnologia.",
+    "reasonEn": "With surging demand for Meta's AI glasses, concerns grow that it will become even harder to avoid invasive recordings in public and private spaces. The piece discusses privacy dilemmas, consent issues, and the impact of always-on devices in social settings. The topic affects consumers, businesses, image professionals, and tech regulation.",
+    "score": 0.65,
+    "tags": [
+      "privacidade",
+      "meta",
+      "hardware"
+    ],
+    "img": "img/b7c780b7793b.jpg",
+    "ts": 1787356189,
+    "addedTs": 1787359340,
+    "urlHash": "b7c780b7793b",
+    "titleHash": "15ee6c3126d0"
+  },
+  {
+    "title": "A Call for Action: The \"Leiden Declaration on AI and Math\"",
+    "titlePt": "Declaração de Leiden pede ações sobre IA e matemática",
+    "url": "https://www.ams.org/journals/notices/202608/noti3386/noti3386.html",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Declaração de Leiden sobre IA e Matemática reúne pesquisadores pedindo ações concretas sobre o impacto da inteligência artificial na pesquisa matemática. O documento discute preocupações com confiabilidade, atribuição e uso ético de sistemas automatizados em provas e publicações. É uma pauta relevante para a comunidade acadêmica e para empresas que dependem de resultados matemáticos automatizados.",
+    "reasonEn": "The Leiden Declaration on AI and Mathematics gathers researchers calling for concrete action on the impact of AI on mathematical research. The document discusses concerns about reliability, attribution, and ethical use of automated systems in proofs and publications. It is relevant to academics and to companies depending on automated mathematical results.",
+    "score": 0.5,
+    "tags": [
+      "academia",
+      "regulação",
+      "pesquisa"
+    ],
+    "img": "img/f9a22c631d73.jpg",
+    "ts": 1787354457,
+    "addedTs": 1787359340,
+    "urlHash": "f9a22c631d73",
+    "titleHash": "6ce398b6e3d6"
+  },
+  {
+    "title": "Replacing 223-node agent graph with a single OSS LLM",
+    "titlePt": "Substituem grafo de agentes com 223 nós por um único LLM open source",
+    "url": "https://www.netic.ai/blog/replacing-node-agent-graph-with-open-source-llm",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um time relatou no Hacker News que substituiu um sistema complexo de agentes com 223 nós por um único modelo de linguagem open source e obteve resultados melhores. O caso mostra que arquiteturas exageradas de múltiplos agentes podem ser desnecessárias para certos problemas. É leitura obrigatória para arquitetos de software e engenheiros que avaliam quando usar agentes versus um bom modelo único.",
+    "reasonEn": "A team reported on Hacker News that they replaced a complex 223-node agent system with a single open-source language model and got better results. The case shows that overly complex multi-agent architectures can be unnecessary for certain problems. It is must-reading for software architects and engineers deciding when to use agents versus a strong single model.",
+    "score": 0.8,
+    "tags": [
+      "agentes",
+      "arquitetura",
+      "oss"
+    ],
+    "img": "img/5e2f8698f098.jpg",
+    "ts": 1787353852,
+    "addedTs": 1787359340,
+    "urlHash": "5e2f8698f098",
+    "titleHash": "66409d86bb7d"
+  },
+  {
+    "title": "Anthropic’s Opus 4.6 is a smut-machine",
+    "titlePt": "Opus 4.6 da Anthropic gera conteúdo sexual, diz TechCrunch",
+    "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "Reportagem da TechCrunch afirma que o modelo Opus 4.6 da Anthropic gera conteúdo sexual explícito com facilidade, batizando-o de máquina de smut. O texto levanta preocupações sobre os limites de segurança, moderação e responsabilidade de grandes modelos de linguagem. A notícia afeta usuários, desenvolvedores que usam a API e reguladores atentos à segurança em IA.",
+    "reasonEn": "A TechCrunch report claims Anthropic's Opus 4.6 model easily generates explicit sexual content, calling it a smut-machine. The piece raises concerns about safety limits, moderation, and accountability in large language models. The story affects users, developers using the API, and regulators focused on AI safety.",
+    "score": 0.7,
+    "tags": [
+      "anthropic",
+      "segurança",
+      "modelo"
+    ],
+    "img": "img/393f1149ee17.jpg",
+    "ts": 1787353645,
+    "addedTs": 1787359340,
+    "urlHash": "393f1149ee17",
+    "titleHash": "8f37884e7d36"
+  },
+  {
+    "title": "Chrome adopts what may be the best protection yet against account takeovers",
+    "titlePt": "Chrome adota o que pode ser a melhor proteção contra invasões de contas",
+    "url": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
+    "source": "Ars Technica",
+    "sources": [
+      "Ars Technica"
+    ],
+    "reason": "O navegador Chrome passou a usar um novo mecanismo que dificulta bastante o sequestro de contas por invasores. A proteção combina sinais do dispositivo, do comportamento e da conta para bloquear acessos suspeitos em tempo real. O recurso afeta qualquer pessoa que usa Chrome, especialmente em ataques de phishing e vazamento de senhas. Vale a pena ativar e revisar as configurações de segurança.",
+    "reasonEn": "The Chrome browser has rolled out a new mechanism that significantly hinders account takeovers by attackers. The protection combines device, behavior and account signals to block suspicious access in real time. The feature affects anyone using Chrome, especially against phishing and password leak attacks. It is worth turning on and reviewing security settings.",
+    "score": 0.75,
+    "tags": [
+      "segurança",
+      "chrome",
+      "contas"
+    ],
+    "img": "img/dae85365821a.jpg",
+    "ts": 1786481992,
+    "addedTs": 1787359340,
+    "urlHash": "dae85365821a",
+    "titleHash": "21f8642c952d"
+  },
+  {
     "title": "80% of developers find AI coding more addictive than helpful",
     "titlePt": "80% dos desenvolvedores acham que codar com IA vicia mais do que ajuda",
     "url": "https://www.zdnet.com/article/80-of-developers-find-ai-coding-more-addictive-than-helpful/",
@@ -10687,159 +10841,5 @@
     "addedTs": 1786969489,
     "urlHash": "e82fdf6a1f9e",
     "titleHash": "564117c5ee66"
-  },
-  {
-    "title": "Vetted AI code is hard to justify",
-    "titlePt": "Código de IA revisado é difícil de justificar",
-    "url": "https://amoffat.github.io/blog/vetting-burnout.html",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O texto discute como equipes de engenharia têm dificuldade em auditar e justificar trechos de código gerados por IA, mesmo após revisão humana. O problema é prático e crescente para times que precisam garantir segurança e conformidade. Boa leitura para líderes de engenharia em ambientes regulados.",
-    "reasonEn": "The piece discusses how engineering teams struggle to audit and justify AI-generated code, even after human review. The problem is practical and growing for teams that need to ensure security and compliance. Good read for engineering leaders in regulated environments.",
-    "score": 0.5,
-    "tags": [
-      "código",
-      "auditoria",
-      "segurança"
-    ],
-    "img": "img/b7c6ee67b44d.jpg",
-    "ts": 1786966600,
-    "addedTs": 1786969489,
-    "urlHash": "b7c6ee67b44d",
-    "titleHash": "98b48ec35125"
-  },
-  {
-    "title": "Why Stripe's $7B OpenRouter Acquisition Is About Owning the AI Routing Layer",
-    "titlePt": "Por que a aquisição da OpenRouter pela Stripe por 7 bilhões é sobre a camada de roteamento de IA",
-    "url": "https://medium.com/@glennlenormand/stripe-didnt-pay-7-billion-for-openrouter-it-bought-the-tollbooth-of-the-ai-economy-5849f9891488",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Reportagem aponta que a Stripe estaria comprando a OpenRouter por 7 bilhões de dólares para controlar quem intermedia o acesso a modelos de IA. O movimento é gigantesco e mostra que a camada de roteamento de prompts virou peça estratégica. Desenvolvedores, provedores de modelo e rivais da Stripe serão afetados pela consolidação.",
-    "reasonEn": "Reporting suggests Stripe is buying OpenRouter for 7 billion dollars to control who intermediates access to AI models. The move is massive and shows the prompt routing layer has become strategic. Developers, model providers, and Stripe rivals will be affected by the consolidation.",
-    "score": 0.95,
-    "tags": [
-      "aquisição",
-      "stripe",
-      "infra"
-    ],
-    "img": "img/972689d5cd0c.jpg",
-    "ts": 1786965967,
-    "addedTs": 1786969489,
-    "urlHash": "972689d5cd0c",
-    "titleHash": "7e722f3f73be"
-  },
-  {
-    "title": "Bruce Schneier: AI Will Hack More Than Computers [video]",
-    "titlePt": "Bruce Schneier: IA vai hackear mais do que computadores",
-    "url": "https://www.youtube.com/watch?v=YuwL8us4aq4",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Em palestra, Bruce Schneier, referência em segurança digital, amplia a definição de hacking para incluir manipulação política, social e cognitiva via IA. O tema é crucial para pensar em defesa além de código. Leitura e visão obrigatórias para profissionais de segurança e formuladores de políticas.",
-    "reasonEn": "In a talk, Bruce Schneier, a reference in digital security, expands the definition of hacking to include political, social, and cognitive manipulation via AI. The topic is crucial to thinking about defense beyond code. Required reading for security professionals and policymakers.",
-    "score": 0.6,
-    "tags": [
-      "segurança",
-      "schneier",
-      "palestra"
-    ],
-    "img": "img/9f627468f75d.jpg",
-    "ts": 1786965819,
-    "addedTs": 1786969489,
-    "urlHash": "9f627468f75d",
-    "titleHash": "be07ac32c98a"
-  },
-  {
-    "title": "What the OpenAI/Hugging Face Hack Tells Us About AI Danger",
-    "titlePt": "O que o hack da OpenAI e Hugging Face revela sobre o perigo da IA",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-17/what-the-openai-hugging-face-hack-shows-about-ai-danger-video",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O incidente recente em que contas e tokens foram comprometidos na OpenAI e Hugging Face expôs falhas de segurança em infraestruturas centrais da indústria. Mostra que até plataformas maduras de IA são alvo fácil. Desenvolvedores que usam suas APIs precisam rever práticas de gestão de credenciais.",
-    "reasonEn": "The recent incident in which accounts and tokens were compromised at OpenAI and Hugging Face exposed security flaws in core industry infrastructure. It shows that even mature AI platforms are easy targets. Developers using their APIs need to revisit credential management practices.",
-    "score": 0.8,
-    "tags": [
-      "segurança",
-      "openai",
-      "huggingface"
-    ],
-    "img": "img/8bafe7b2e44b.jpg",
-    "ts": 1786964826,
-    "addedTs": 1786969489,
-    "urlHash": "8bafe7b2e44b",
-    "titleHash": "8a64070d9a8d"
-  },
-  {
-    "title": "Anthropic becomes the 'Apple of AI': Most revenue despite being most expensive",
-    "titlePt": "Anthropic vira a Apple da IA: mais receita mesmo sendo mais cara",
-    "url": "https://www.techradar.com/pro/anthropic-becomes-the-apple-of-ai-as-it-grabs-most-revenue-despite-being-the-most-expensive",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Dados mostram que a Anthropic lidera em receita de IA apesar de cobrar preços mais altos por seus modelos, replicando o posicionamento premium da Apple. Indica que há um segmento disposto a pagar por qualidade e confiança. Relevante para fundadores que pensam em pricing e para clientes corporativos.",
-    "reasonEn": "Data shows Anthropic leads in AI revenue despite charging higher prices for its models, replicating Apple's premium positioning. It indicates there is a segment willing to pay for quality and trust. Relevant for founders thinking about pricing and for enterprise customers.",
-    "score": 0.7,
-    "tags": [
-      "anthropic",
-      "negócios",
-      "pricing"
-    ],
-    "img": "img/c6f2bd1a2040.jpg",
-    "ts": 1786964205,
-    "addedTs": 1786969489,
-    "urlHash": "c6f2bd1a2040",
-    "titleHash": "bfd304ca3580"
-  },
-  {
-    "title": "AI music has reached the charts, and the artists using it have stopped hiding it",
-    "titlePt": "Música feita com IA chega às paradas e artistas param de esconder",
-    "url": "https://thenextweb.com/news/ai-music-mainstream-tyga-timbaland",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Faixas geradas ou finalizadas com IA estão entrando nas paradas e os artistas passaram a admitir abertamente o uso da tecnologia. Marcas, gravadoras e consumidores terão que reagir a um novo normal. Sinal importante sobre amadurecimento do uso criativo de IA na indústria musical.",
-    "reasonEn": "Tracks generated or finished with AI are entering the charts and artists openly admit using the technology. Brands, labels, and consumers will have to react to a new normal. It is an important signal about maturing creative AI use in the music industry.",
-    "score": 0.6,
-    "tags": [
-      "música",
-      "cultura",
-      "direitos"
-    ],
-    "img": "img/1017a560728c.jpg",
-    "ts": 1786962996,
-    "addedTs": 1786969489,
-    "urlHash": "1017a560728c",
-    "titleHash": "9bce3fccef10"
-  },
-  {
-    "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-    "titlePt": "Stripe reportedly acquires OpenRouter por mais de 7 bilhões de dólares",
-    "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "Segundo a TechCrunch, a Stripe está em conversas avançadas para adquirir a OpenRouter, startup que funciona como gateway para vários modelos de IA, por mais de 7 bilhões de dólares. A OpenRouter é usada por muitos desenvolvedores para acessar ChatGPT, Anthropic, Google e outros por meio de uma única API. Se o negócio se confirmar, será uma das maiores aquisições recentes no setor de infraestrutura de IA. Desenvolvedores que usam OpenRouter podem ser afetados por mudanças em preços, planos e governança. A confirmação oficial ainda não veio.",
-    "reasonEn": "According to TechCrunch, Stripe is in advanced talks to acquire OpenRouter, a startup that acts as a gateway to many AI models, for over $7 billion. OpenRouter is used by many developers to access ChatGPT, Anthropic, Google, and others through a single API. If the deal closes, it would be one of the largest recent acquisitions in AI infrastructure. Developers who rely on OpenRouter could be affected by changes in pricing, plans, and governance. No official confirmation has been released yet.",
-    "score": 0.9,
-    "tags": [
-      "stripe",
-      "openrouter",
-      "aquisição"
-    ],
-    "img": "img/ce56f7c0b2ba.jpg",
-    "ts": 1786913824,
-    "addedTs": 1786969489,
-    "urlHash": "ce56f7c0b2ba",
-    "titleHash": "2f5cc359ac12"
   }
 ]
