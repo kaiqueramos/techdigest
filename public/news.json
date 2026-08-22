@@ -1,5 +1,90 @@
 [
   {
+    "title": "Giving an LLM your prod database is easy. Taking access away is the hard part",
+    "titlePt": "Dar seu banco de produção a um LLM é fácil; tirar o acesso é o difícil",
+    "url": "https://deepsql.ai/blog/giving-an-llm-your-database-is-easy-taking-access-away-is-hard",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo aborda um problema real e crescente: uma vez que um modelo de IA recebe acesso a um banco de dados de produção, revogar esse acesso é complexo e cheio de riscos. Times de engenharia devem ler antes de conceder permissões amplas a LLMs. Tema crítico de segurança e governança.",
+    "reasonEn": "The article tackles a real and growing problem: once an AI model gets access to a production database, revoking that access is complex and risky. Engineering teams should read it before granting broad permissions to LLMs. A critical security and governance topic.",
+    "score": 0.85,
+    "tags": [
+      "segurança",
+      "llm",
+      "governança"
+    ],
+    "img": "img/7742ec42af69.jpg",
+    "ts": 1787369614,
+    "addedTs": 1787372624,
+    "urlHash": "7742ec42af69",
+    "titleHash": "9eade399e8db"
+  },
+  {
+    "title": "Startup Founders Are Working Harder Than Ever to Keep Up with Their AI Agents",
+    "titlePt": "Fundadores de startups trabalham mais que nunca para acompanhar seus agentes de IA",
+    "url": "https://www.wsj.com/tech/ai/ai-agents-startup-work-culture-fa10494d",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto mostra que fundadores estão sobrecarregados tentando supervisionar agentes de IA que crescem em número e autonomia. Sinaliza uma tendência clara: o trabalho humano está migrando de executar tarefas para monitorar máquinas. Útil para líderes técnicos repensarem seus times.",
+    "reasonEn": "The piece shows founders are overwhelmed trying to supervise AI agents that grow in number and autonomy. It signals a clear trend: human work is shifting from executing tasks to monitoring machines. Useful for tech leaders rethinking their teams.",
+    "score": 0.7,
+    "tags": [
+      "agentes",
+      "startups"
+    ],
+    "img": "img/fa9e6f175abb.jpg",
+    "ts": 1787368833,
+    "addedTs": 1787372624,
+    "urlHash": "fa9e6f175abb",
+    "titleHash": "118084e89580"
+  },
+  {
+    "title": "Show HN: Anjadhe – privacy first AI assistant, no account, no server DB",
+    "titlePt": "Anjadhe: assistente de IA com privacidade primeiro, sem conta e sem banco no servidor",
+    "url": "https://www.anjadhe.com/demo",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Anjadhe é um novo assistente de IA que não exige cadastro e não armazena dados em servidor. A proposta de privacidade local atrai usuários preocupados com vazamentos. Ainda é projeto Show HN, então é cedo para garantir robustez.",
+    "reasonEn": "Anjadhe is a new AI assistant that requires no sign-up and stores no data on a server. The local-privacy pitch appeals to users worried about leaks. Still a Show HN project, so robustness is unproven.",
+    "score": 0.5,
+    "tags": [
+      "privacidade",
+      "lançamento"
+    ],
+    "img": "img/0f39951c7cf7.jpg",
+    "ts": 1787364721,
+    "addedTs": 1787372624,
+    "urlHash": "0f39951c7cf7",
+    "titleHash": "a8893724070d"
+  },
+  {
+    "title": "Show HN: Heimdall – Trust-verified knowledge layer for AI coding agents",
+    "titlePt": "Heimdall: camada de conhecimento verificada para agentes de codificação",
+    "url": "https://github.com/ArihantDeva/heimdall",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Heimdall propõe uma camada intermediária que valida o conhecimento usado por agentes de programação antes de eles agirem. A ideia é reduzir respostas erradas e alucinações em código. Pode interessar equipes que dependem de Cursor, Claude Code e similares.",
+    "reasonEn": "Heimdall proposes a middleware layer that validates the knowledge used by coding agents before they act. The goal is reducing wrong answers and hallucinations in code. Could interest teams relying on Cursor, Claude Code and similar tools.",
+    "score": 0.55,
+    "tags": [
+      "agentes",
+      "devtools"
+    ],
+    "img": "img/ab4acb5c0002.jpg",
+    "ts": 1787364134,
+    "addedTs": 1787372624,
+    "urlHash": "ab4acb5c0002",
+    "titleHash": "77c6aad98a00"
+  },
+  {
     "title": "Anthropic Could Aim to Raise $100B in Blockbuster IPO",
     "titlePt": "Anthropic pode buscar cem bilhões de dólares em grande oferta pública",
     "url": "https://www.nytimes.com/2026/08/21/technology/anthropic-ipo-100-billion.html",
@@ -10753,93 +10838,5 @@
     "addedTs": 1786969489,
     "urlHash": "7859890780e1",
     "titleHash": "45a0369568f2"
-  },
-  {
-    "title": "AI market correction is coming, ECB blog predicts",
-    "titlePt": "Correção do mercado de IA está chegando, prevê blog do BCE",
-    "url": "https://www.reuters.com/business/autos-transportation/ai-market-correction-is-coming-ecb-blog-predicts-2026-08-17/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um post oficial do Banco Central Europeu argumenta que há uma bolha se formando em torno de empresas de IA e que uma correção é provável nos próximos anos. O aviso é relevante para investidores, fundadores e profissionais que dependem do ciclo de capital no setor. É um sinal raro vindo de uma instituição reguladora europeia.",
-    "reasonEn": "An official European Central Bank post argues that a bubble is forming around AI companies and that a correction is likely in coming years. The warning matters for investors, founders, and professionals dependent on the sector's capital cycle. It is a rare signal from a European regulatory institution.",
-    "score": 0.8,
-    "tags": [
-      "economia",
-      "regulação",
-      "bolha"
-    ],
-    "img": "img/64862764630b.jpg",
-    "ts": 1786968015,
-    "addedTs": 1786969489,
-    "urlHash": "64862764630b",
-    "titleHash": "2f268414628a"
-  },
-  {
-    "title": "What happens when an AI agent stops being a disposable session?",
-    "titlePt": "O que acontece quando um agente de IA deixa de ser uma sessão descartável",
-    "url": "https://www.dropstone.io/blog/dropstone-sdk-1-0",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo discute o avanço de agentes de IA que mantêm estado, memória e identidade entre sessões, mudando como interagimos com eles. O tema é central para quem constrói automações e produtos baseados em agentes. Sinaliza uma virada em direção a assistentes realmente contínuos, não chatbots soltos.",
-    "reasonEn": "The article discusses the advance of AI agents that keep state, memory, and identity across sessions, changing how we interact with them. The topic is central to anyone building automations and agent-based products. It signals a shift toward truly continuous assistants, not loose chatbots.",
-    "score": 0.55,
-    "tags": [
-      "agentes",
-      "memória",
-      "produto"
-    ],
-    "img": "img/459e2fc74f40.jpg",
-    "ts": 1786967840,
-    "addedTs": 1786969489,
-    "urlHash": "459e2fc74f40",
-    "titleHash": "c0bc697a5e47"
-  },
-  {
-    "title": "AI Has Plunged the Book Publishing Industry into Utter Chaos",
-    "titlePt": "IA mergulha a indústria editorial em caos total",
-    "url": "https://www.wsj.com/arts-culture/books/generative-ai-book-publishing-be79a287",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Editoras tradicionais estão lutando para lidar com livros escritos por IA, catálogos inundados de títulos genéricos e questões de direitos autorais. O setor editorial, um dos mais tradicionais, sente o impacto mais rápido do que esperava. Leitores, autores e profissionais do livro são afetados diretamente.",
-    "reasonEn": "Traditional publishers are struggling to cope with AI-written books, catalogs flooded with generic titles, and copyright issues. The publishing industry, one of the most traditional, feels the impact faster than expected. Readers, authors, and book professionals are directly affected.",
-    "score": 0.55,
-    "tags": [
-      "publicação",
-      "direitos autorais",
-      "indústria"
-    ],
-    "img": "img/3e54f62b60f1.jpg",
-    "ts": 1786967412,
-    "addedTs": 1786969489,
-    "urlHash": "3e54f62b60f1",
-    "titleHash": "0a789c2b12bd"
-  },
-  {
-    "title": "We built AI accelerators to reduce the time from AI prototype to production",
-    "titlePt": "Construímos aceleradores para tirar IA do protótipo e levar à produção",
-    "url": "https://geekyants.com/ai-accelerator",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Uma equipe apresenta ferramentas para reduzir o tempo entre um protótipo de IA e um sistema em produção real. Útil para engenheiros de ML e times de plataforma que sofrem com deploy lento. Não é uma notícia de mercado, mas uma contribuição técnica relevante.",
-    "reasonEn": "A team presents tools to cut the time between an AI prototype and a real production system. Useful for ML engineers and platform teams suffering from slow deploys. Not a market story, but a relevant technical contribution.",
-    "score": 0.5,
-    "tags": [
-      "mlops",
-      "infra",
-      "deploy"
-    ],
-    "img": "img/2d35bcc3dfd0.jpg",
-    "ts": 1786967299,
-    "addedTs": 1786969489,
-    "urlHash": "2d35bcc3dfd0",
-    "titleHash": "56e006eeb59a"
   }
 ]
