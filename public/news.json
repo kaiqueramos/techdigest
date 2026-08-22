@@ -1,5 +1,93 @@
 [
   {
+    "title": "Show HN: I make my AI agents file paperwork before they're allowed to code",
+    "titlePt": "Agentes de IA precisam preencher formulários antes de programar",
+    "url": "https://github.com/kidus-tiliksew/conveyor",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Desenvolvedor mostra um sistema onde agentes de IA precisam completar uma etapa formal de papelada e governança antes de ganhar acesso ao código. É uma tentativa prática de impor limites, registro e responsabilidade no uso de agentes. Pode interessar equipes preocupadas com controle e auditoria.",
+    "reasonEn": "A developer showcases a system where AI agents must complete a formal paperwork and governance step before gaining code access. It is a practical attempt to enforce limits, logging, and accountability in agent usage. May interest teams concerned with control and auditing.",
+    "score": 0.6,
+    "tags": [
+      "agentes",
+      "governança",
+      "segurança"
+    ],
+    "img": "img/128500fee627.jpg",
+    "ts": 1787407306,
+    "addedTs": 1787407956,
+    "urlHash": "128500fee627",
+    "titleHash": "2e0299e4779d"
+  },
+  {
+    "title": "Show HN: Running a full AI coding agent inside Cloudflare Durable Object",
+    "titlePt": "Rodando um agente de codificação inteiro dentro de um Durable Object da Cloudflare",
+    "url": "https://github.com/pawaca/dsh-edge",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Projeto demonstrado na Hacker News executa um agente de codificação com IA dentro de um Durable Object da Cloudflare, eliminando servidores externos. Mostra viabilidade técnica de agentes leves na borda. Útil para quem busca arquiteturas de baixo custo e baixa latência.",
+    "reasonEn": "A Hacker News project runs a full AI coding agent inside a Cloudflare Durable Object, removing external servers. It shows technical viability of lightweight edge agents. Useful for those seeking low-cost, low-latency architectures.",
+    "score": 0.5,
+    "tags": [
+      "cloudflare",
+      "agentes",
+      "edge"
+    ],
+    "img": "img/69025bb86565.jpg",
+    "ts": 1787407130,
+    "addedTs": 1787407956,
+    "urlHash": "69025bb86565",
+    "titleHash": "055e7ffaca7d"
+  },
+  {
+    "title": "Ante: Self-contained coding agent that lives in your terminal and self-organizes",
+    "titlePt": "Ante: agente de codificação que se auto-organiza no terminal",
+    "url": "https://docs.antigma.ai/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Nova ferramenta chamada Ante oferece um agente de codificação autocontido que roda no terminal e se organiza sozinho, sem dependências externas. Promete fluxo mais simples para desenvolvedores individuais. A maturidade e a comunidade ainda são pequenas, então vale testar antes de apostar.",
+    "reasonEn": "A new tool called Ante offers a self-contained coding agent that runs in the terminal and self-organizes without external dependencies. It promises a simpler workflow for individual developers. Maturity and community are still small, so test before committing.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "terminal",
+      "dev"
+    ],
+    "img": "img/32faeda8256b.jpg",
+    "ts": 1787406003,
+    "addedTs": 1787407956,
+    "urlHash": "32faeda8256b",
+    "titleHash": "a421e2026bb7"
+  },
+  {
+    "title": "How to Fingerprint AI Models When Prompts Lie",
+    "titlePt": "Como identificar modelos de IA quando os prompts mentem",
+    "url": "https://openrating.io/blog/current-state-of-ai-model-fingerprinting",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo discute técnicas de fingerprinting para distinguir qual modelo de IA gerou uma resposta, mesmo quando o prompt tenta mascarar a origem. É relevante para segurança, auditoria e detecção de uso indevido. Ajuda empresas a identificarShadow AI e validar fornecedores.",
+    "reasonEn": "The article discusses fingerprinting techniques to identify which AI model produced a response, even when prompts try to hide the origin. It is relevant for security, auditing, and misuse detection. It helps companies spot shadow AI and validate vendors.",
+    "score": 0.6,
+    "tags": [
+      "segurança",
+      "modelos",
+      "auditoria"
+    ],
+    "img": "img/27c63a46af5b.jpg",
+    "ts": 1787401610,
+    "addedTs": 1787407956,
+    "urlHash": "27c63a46af5b",
+    "titleHash": "fac880bee591"
+  },
+  {
     "title": "Mango AI: image/video generation with Nano Banana 2, GPT Image 2, Seedance 2",
     "titlePt": "Mango AI reúne vários modelos de geração",
     "url": "https://trymangoai.com",
@@ -10759,89 +10847,5 @@
     "addedTs": 1786976316,
     "urlHash": "050c872c2a5c",
     "titleHash": "326e8a33281e"
-  },
-  {
-    "title": "What 15M Gemini conversations tell us about AI at work",
-    "titlePt": "O que 15 milhões de conversas com Gemini revelam sobre IA no trabalho",
-    "url": "https://leaddev.com/ai/what-15-million-gemini-conversations-tell-us-about-ai-at-work",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Uma análise de 15 milhões de conversas reais com o Gemini mostra como as pessoas realmente usam IA no trabalho, quais tarefas dominam e onde a ferramenta falha. Os dados revelam padrões inesperados de adoção em diferentes cargos e setores. A pesquisa é útil para líderes que precisam entender o retorno real do investimento em IA corporativa.",
-    "reasonEn": "An analysis of 15 million real Gemini conversations shows how people actually use AI at work, which tasks dominate, and where the tool falls short. The data reveals unexpected adoption patterns across different roles and industries. The research is useful for leaders who need to understand the real return on corporate AI investments.",
-    "score": 0.75,
-    "tags": [
-      "dados",
-      "trabalho"
-    ],
-    "img": "img/a0da090f6caf.jpg",
-    "ts": 1786975500,
-    "addedTs": 1786976316,
-    "urlHash": "a0da090f6caf",
-    "titleHash": "8b1679d1c170"
-  },
-  {
-    "title": "The beautiful mathematics behind OpenAI's sphere packing result",
-    "titlePt": "A matemática por trás do resultado de empacotamento de esferas da OpenAI",
-    "url": "https://www.empirical.health/blog/ai-math-sphere-packing/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um novo resultado da OpenAI sobre empacotamento de esferas chamou atenção pela elegância matemática. O artigo explica o problema clássico e como técnicas de IA modernas produziram soluções surpreendentes. É leitura interessante para quem gosta de matemática e quer ver IA aplicada a problemas teóricos profundos.",
-    "reasonEn": "A new OpenAI result on sphere packing drew attention for its mathematical elegance. The article explains the classic problem and how modern AI techniques produced surprising solutions. It is interesting reading for those who enjoy mathematics and want to see AI applied to deep theoretical problems.",
-    "score": 0.5,
-    "tags": [
-      "pesquisa",
-      "matemática"
-    ],
-    "img": "img/fbccfa85e610.jpg",
-    "ts": 1786975360,
-    "addedTs": 1786976316,
-    "urlHash": "fbccfa85e610",
-    "titleHash": "7735c380c54a"
-  },
-  {
-    "title": "AI-Induced Psychosis. A Look at Some Academic Papers",
-    "titlePt": "Psicose induzida por IA: o que dizem os artigos acadêmicos",
-    "url": "https://read.misalignedmag.com/ai-induced-psychosis-a-look-at-some-academic-papers-7143e60bb7d7",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O texto reúne artigos acadêmicos que discutem casos de psicose e delírios ligados ao uso intenso de chatbots de IA. Embora ainda seja um campo novo, há sinais preocupantes sobre pessoas vulneráveis desenvolverem dependência emocional ou crenças distorcidas. É leitura importante para profissionais de saúde, educadores e qualquer pessoa que conviva com usuários intensos de IA.",
-    "reasonEn": "The post collects academic articles discussing cases of psychosis and delusions linked to heavy chatbot use. Although the field is still new, there are worrying signs that vulnerable people develop emotional dependence or distorted beliefs. It is important reading for health professionals, educators, and anyone who lives with heavy AI users.",
-    "score": 0.7,
-    "tags": [
-      "saúde",
-      "pesquisa"
-    ],
-    "img": "img/638599941a47.jpg",
-    "ts": 1786975345,
-    "addedTs": 1786976316,
-    "urlHash": "638599941a47",
-    "titleHash": "d41320b9a15f"
-  },
-  {
-    "title": "Satellites and artificial intelligence are transforming wildfire detection",
-    "titlePt": "Satélites e IA estão transformando a detecção de incêndios florestais",
-    "url": "https://www.theguardian.com/us-news/2026/aug/17/satellites-ai-wildfire-detection",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A combinação de imagens de satélite com modelos de IA permite detectar incêndios florestais muito mais cedo do que métodos tradicionais. Sistemas em operação já mostraram capacidade de identificar focos de fogo em minutos, salvando áreas antes inacessíveis. A tecnologia está mudando a forma como bombeiros e agências ambientais respondem a emergências ambientais.",
-    "reasonEn": "Combining satellite imagery with AI models allows wildfire detection much earlier than traditional methods. Operational systems have already shown the ability to identify fire outbreaks within minutes, saving previously inaccessible areas. The technology is changing how firefighters and environmental agencies respond to environmental emergencies.",
-    "score": 0.55,
-    "tags": [
-      "aplicação",
-      "clima"
-    ],
-    "img": "img/22648566398e.jpg",
-    "ts": 1786974916,
-    "addedTs": 1786976316,
-    "urlHash": "22648566398e",
-    "titleHash": "e63a95ebb3c4"
   }
 ]
