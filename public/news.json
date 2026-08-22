@@ -1,5 +1,159 @@
 [
   {
+    "title": "Mango AI: image/video generation with Nano Banana 2, GPT Image 2, Seedance 2",
+    "titlePt": "Mango AI reúne vários modelos de geração",
+    "url": "https://trymangoai.com",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Mango AI é uma nova ferramenta que reúne modelos de ponta para gerar imagens e vídeos a partir de texto em uma única interface. Combina Nano Banana 2, GPT Image 2 e Seedance 2, dando ao usuário várias opções de estilo. Para criadores e desenvolvedores, simplifica o trabalho de testar diferentes modelos em um só lugar. O lançamento é relevante porque consolida múltiplos concorrentes em um produto único, mas precisa provar que entrega mais do que o uso direto de cada modelo separado.",
+    "reasonEn": "Mango AI is a new tool that brings together cutting-edge models to generate images and videos from text in a single interface. It combines Nano Banana 2, GPT Image 2, and Seedance 2, giving the user multiple style options. For creators and developers, it simplifies the work of testing different models in one place. The launch is relevant because it consolidates multiple competitors in a single product, but it needs to prove it delivers more than using each model separately.",
+    "score": 0.5,
+    "tags": [
+      "geração",
+      "multimodal",
+      "ferramenta"
+    ],
+    "img": "img/01eeb590a511.jpg",
+    "ts": 1787399033,
+    "addedTs": 1787401219,
+    "urlHash": "01eeb590a511",
+    "titleHash": "364602331848"
+  },
+  {
+    "title": "Dutch regulator fines Uber €825M for letting AI deactivate driver accounts",
+    "titlePt": "Holanda multa Uber em 825 milhões por IA",
+    "url": "https://nltimes.nl/2026/08/21/dutch-regulator-fines-uber-eu825-mil-letting-algorithm-deactivate-drivers-accounts",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A autoridade holandesa de proteção de dados multou a Uber em 825 milhões de euros porque o sistema de IA da empresa desativava contas de motoristas sem revisão humana adequada. O sistema classificava fraudes e comportamento suspeito automaticamente, mas sem explicações nem possibilidade de recurso. Motoristas perdiam acesso à plataforma e à sua renda sem aviso claro. O caso mostra como decisões automatizadas precisam de supervisão e transparência, e pode virar referência para outras empresas que usam IA em decisões que afetam o trabalho das pessoas.",
+    "reasonEn": "The Dutch data protection authority fined Uber 825 million because the company's AI system deactivated driver accounts without proper human review. The system automatically classified fraud and suspicious behavior, but without explanations or the possibility to appeal. Drivers lost access to the platform and their income without clear warning. The case shows how automated decisions need supervision and transparency, and may become a reference for other companies using AI to make decisions that affect people's work.",
+    "score": 0.95,
+    "tags": [
+      "regulação",
+      "multa",
+      "uber"
+    ],
+    "img": "img/7e5ae0694616.jpg",
+    "ts": 1787398049,
+    "addedTs": 1787401219,
+    "urlHash": "7e5ae0694616",
+    "titleHash": "1b158810035c"
+  },
+  {
+    "title": "Five things make agent-built UI look generic. Each takes 30 seconds to check",
+    "titlePt": "Cinco problemas em interfaces feitas por agentes",
+    "url": "https://tailthemes.com/blog/ai-design-slop-quality-gate",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo lista cinco problemas visuais comuns em interfaces criadas por agentes de IA e como corrigi-los em menos de um minuto cada. Coisas como botões todos iguais, cores repetidas, ausência de hierarquia visual e falta de personalidade. Os conselhos são práticos e podem ser aplicados em prompts ou em regras de pós-processamento. Para quem usa agentes para construir UIs, é um guia rápido de controle de qualidade.",
+    "reasonEn": "The article lists five common visual problems in interfaces created by AI agents and how to fix them in under a minute each. Things like all-the-same buttons, repeated colors, lack of visual hierarchy, and missing personality. The tips are practical and can be applied in prompts or post-processing rules. For those using agents to build UIs, it's a quick quality control guide.",
+    "score": 0.65,
+    "tags": [
+      "agentes",
+      "ui",
+      "design"
+    ],
+    "img": "img/2747f7e32660.jpg",
+    "ts": 1787396862,
+    "addedTs": 1787401219,
+    "urlHash": "2747f7e32660",
+    "titleHash": "10a1bc7f1c0b"
+  },
+  {
+    "title": "AI Is Rewriting Mathematics",
+    "titlePt": "IA está reescrevendo a matemática",
+    "url": "https://nofilk.substack.com/p/ai-is-rewriting-mathematics",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo mostra como ferramentas de IA estão sendo usadas para descobrir novas provas, resolver problemas abertos e mudar a maneira como matemáticos trabalham. Grandes modelos já auxiliam em tarefas pesadas de cálculo e sugerem hipóteses que pesquisadores depois verificam. Para a ciência, a IA pode acelerar descobertas, mas também levanta dúvidas sobre autoria e rigor matemático. Quem trabalha com pesquisa ou com ensino de matemática precisa acompanhar essa transformação de perto.",
+    "reasonEn": "The article shows how AI tools are being used to discover new proofs, solve open problems, and change the way mathematicians work. Large models already help with heavy computational tasks and suggest hypotheses that researchers then verify. For science, AI can accelerate discoveries but also raises questions about authorship and mathematical rigor. Anyone working in research or math teaching needs to follow this transformation closely.",
+    "score": 0.7,
+    "tags": [
+      "matemática",
+      "pesquisa",
+      "ia"
+    ],
+    "img": "img/7a3d329ba172.jpg",
+    "ts": 1787396384,
+    "addedTs": 1787401219,
+    "urlHash": "7a3d329ba172",
+    "titleHash": "d647e65e3fde"
+  },
+  {
+    "title": "Continue coding agent is dead. Alternatives?",
+    "titlePt": "Agente Continue morre: o que usar agora?",
+    "url": "https://news.ycombinator.com/item?id=49398366",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um post discute o fim do agente de codificação Continue e pede sugestões de alternativas para substituí-lo. O autor lista limitações que tornaram a ferramenta inviável para o projeto atual. A conversa mostra quais ferramentas de IA para programação estão ganhando tração agora. Para desenvolvedores, vale acompanhar quais agentes são confiáveis hoje e onde a comunidade está se concentrando.",
+    "reasonEn": "A post discusses the end of the Continue coding agent and asks for alternative suggestions to replace it. The author lists limitations that made the tool unviable for the current project. The conversation shows which AI programming tools are gaining traction now. For developers, it's worth following which agents are reliable today and where the community is concentrating.",
+    "score": 0.6,
+    "tags": [
+      "agentes",
+      "desenvolvimento",
+      "ferramentas"
+    ],
+    "img": "img/808930d886ce.jpg",
+    "ts": 1787395213,
+    "addedTs": 1787401219,
+    "urlHash": "808930d886ce",
+    "titleHash": "390b4be1ca65"
+  },
+  {
+    "title": "Six principles for evaluating cognitive capabilities in AI models",
+    "titlePt": "Seis princípios para avaliar cognição em IA",
+    "url": "https://onlinelibrary.wiley.com/doi/10.1002/aaai.70061",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo apresenta seis princípios para avaliar as capacidades cognitivas de modelos de IA de forma mais justa. Em vez de só medir benchmarks, propõe olhar para coerência, generalização, raciocínio e outros fatores qualitativos. É útil para quem decide qual modelo usar em produção e quer evitar escolhas baseadas só em números de leaderboards. A abordagem ajuda a comparar modelos com mais critério antes de apostar em um deles.",
+    "reasonEn": "The article presents six principles to evaluate AI models' cognitive capabilities more fairly. Instead of just measuring benchmarks, it proposes looking at coherence, generalization, reasoning, and other qualitative factors. It's useful for those deciding which model to use in production and want to avoid choices based only on leaderboard numbers. The approach helps compare models more carefully before betting on one.",
+    "score": 0.65,
+    "tags": [
+      "avaliação",
+      "pesquisa",
+      "cognição"
+    ],
+    "img": "img/596e924bd425.jpg",
+    "ts": 1787395041,
+    "addedTs": 1787401219,
+    "urlHash": "596e924bd425",
+    "titleHash": "2ef7d9cfe450"
+  },
+  {
+    "title": "CyberStrike – open-source AI harness for offensive security (AGPL)",
+    "titlePt": "CyberStrike: IA open-source para segurança ofensiva",
+    "url": "https://github.com/CyberStrikeus/CyberStrike",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "CyberStrike é um framework open-source que usa IA para automatizar testes de segurança ofensiva em sistemas. Permite que equipes de segurança simulem ataques com mais velocidade e descubram vulnerabilidades mais rápido. É distribuído sob licença AGPL, o que limita o uso comercial sem abrir o código derivado. Para profissionais de segurança, é uma nova ferramenta promissora para pentests com apoio de IA.",
+    "reasonEn": "CyberStrike is an open-source framework that uses AI to automate offensive security testing on systems. It allows security teams to simulate attacks faster and discover vulnerabilities more quickly. It's distributed under the AGPL license, which limits commercial use without opening derived code. For security professionals, it's a promising new tool for pentests with AI support.",
+    "score": 0.55,
+    "tags": [
+      "segurança",
+      "open-source",
+      "pentest"
+    ],
+    "img": "img/0e34ef926ae7.jpg",
+    "ts": 1787391884,
+    "addedTs": 1787401219,
+    "urlHash": "0e34ef926ae7",
+    "titleHash": "dad004366116"
+  },
+  {
     "title": "Is \"AI slop\" now the default response to every new project?",
     "titlePt": "'AI slop' virou a resposta padrão para todo novo projeto?",
     "url": "https://news.ycombinator.com/item?id=49397791",
@@ -10689,152 +10843,5 @@
     "addedTs": 1786976316,
     "urlHash": "22648566398e",
     "titleHash": "e63a95ebb3c4"
-  },
-  {
-    "title": "On AI Coding and Its Discontents",
-    "titlePt": "Sobre programação com IA e seus descontentes",
-    "url": "https://calnewport.com/on-ai-coding-and-its-discontents/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo discute as frustrações reais de desenvolvedores que adotaram IA para codificar e descobriram armadilhas: código difícil de manter, dívidas técnicas e dependência excessiva da ferramenta. Argumenta que o ganho de velocidade inicial muitas vezes se perde em refatorações e bugs sutis. É leitura honesta e útil para times que estão avaliando quando vale a pena usar IA em projetos sérios.",
-    "reasonEn": "The article discusses the real frustrations of developers who adopted AI for coding and discovered pitfalls: hard-to-maintain code, technical debt, and excessive reliance on the tool. It argues that initial speed gains are often lost to refactoring and subtle bugs. It is honest, useful reading for teams evaluating when AI is worth using in serious projects.",
-    "score": 0.7,
-    "tags": [
-      "desenvolvimento",
-      "opinião"
-    ],
-    "img": "img/3328c2ac9412.jpg",
-    "ts": 1786974903,
-    "addedTs": 1786976316,
-    "urlHash": "3328c2ac9412",
-    "titleHash": "4fe81c0f6453"
-  },
-  {
-    "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-    "titlePt": "Rastreamos livros raros e descobrimos que foram para um centro de treino de IA da Amazon",
-    "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Uma investigação jornalística acompanhou um carregamento de livros raros e descobriu que eles foram parar em uma instalação da Amazon usada para treinar modelos de IA. O caso levanta questões sobre propriedade intelectual, consentimento de autores e a origem dos dados usados para treinar grandes modelos. É leitura essencial para quem se importa com direitos autorais na era da IA.",
-    "reasonEn": "A journalistic investigation tracked a shipment of rare books and found they ended up at an Amazon facility used to train AI models. The case raises questions about intellectual property, author consent, and the origin of data used to train large models. It is essential reading for anyone who cares about copyright in the AI era.",
-    "score": 0.85,
-    "tags": [
-      "direitos autorais",
-      "investigação"
-    ],
-    "img": "img/ae76c49be904.jpg",
-    "ts": 1786974263,
-    "addedTs": 1786976316,
-    "urlHash": "ae76c49be904",
-    "titleHash": "160c5d7f11c7"
-  },
-  {
-    "title": "Should you use AI for a task? Here's a simple way to decide",
-    "titlePt": "Devo usar IA nesta tarefa? Um jeito simples de decidir",
-    "url": "https://www.theguardian.com/commentisfree/2026/jul/24/should-you-use-ai",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo propõe uma regra simples para decidir quando vale a pena usar IA: tarefas repetitivas, alto volume e baixo risco de erro geralmente se beneficiam; tarefas criativas únicas ou de alto risco não. A abordagem evita o desperdício de tempo aplicando IA em problemas onde ela atrapalha mais do que ajuda. É leitura rápida e útil para qualquer pessoa sobrecarregada pela quantidade de novas ferramentas.",
-    "reasonEn": "The article proposes a simple rule for deciding when AI is worth using: repetitive tasks with high volume and low error risk usually benefit; unique creative or high-stakes tasks do not. The approach avoids wasting time applying AI to problems where it hurts more than helps. It is quick, useful reading for anyone overwhelmed by the number of new tools.",
-    "score": 0.7,
-    "tags": [
-      "guia",
-      "produtividade"
-    ],
-    "img": "img/168fc08643a8.jpg",
-    "ts": 1786974170,
-    "addedTs": 1786976316,
-    "urlHash": "168fc08643a8",
-    "titleHash": "4fb0781f32fb"
-  },
-  {
-    "title": "Two API calls exposed AI's hidden reasoning [video]",
-    "titlePt": "Duas chamadas de API expõem o raciocínio oculto da IA",
-    "url": "https://www.youtube.com/watch?v=P1v1-2CCKD0",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um vídeo mostra como duas chamadas de API relativamente simples conseguem revelar o raciocínio interno escondido de modelos de IA atuais, incluindo traços de pensamento que os fornecedores normalmente tentam esconder. A descoberta tem implicações de segurança e transparência. É leitura relevante para quem se preocupa com o que os modelos fazem por baixo dos panos.",
-    "reasonEn": "A video shows how two relatively simple API calls can reveal the hidden internal reasoning of current AI models, including thought traces that vendors usually try to hide. The discovery has security and transparency implications. It is relevant reading for anyone concerned about what models do under the hood.",
-    "score": 0.6,
-    "tags": [
-      "segurança",
-      "transparência"
-    ],
-    "img": "img/d4576f3cc622.jpg",
-    "ts": 1786973936,
-    "addedTs": 1786976316,
-    "urlHash": "d4576f3cc622",
-    "titleHash": "3be368dfe161"
-  },
-  {
-    "title": "Dario Amodei admits AI Suffers from a Crisis of Trust...",
-    "titlePt": "Dario Amodei admite que a IA sofre de uma crise de confiança",
-    "url": "https://fortune.com/2026/08/16/dario-amodei-anthropic-ai-trust-crisis-regulation-frontier-open-models-negative-views/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Dario Amodei, CEO da Anthropic, reconheceu publicamente que a indústria de IA enfrenta uma crise de confiança com usuários, reguladores e o público em geral. A fala é relevante porque vem de dentro de uma das maiores desenvolvedoras de modelos do mundo. A admissão pode acelerar movimentos de e autorregulação no setor.",
-    "reasonEn": "Dario Amodei, CEO of Anthropic, publicly acknowledged that the AI industry faces a trust crisis with users, regulators, and the general public. The statement matters because it comes from inside one of the largest model developers in the world. The admission may accelerate regulatory and self-regulatory moves in the sector.",
-    "score": 0.85,
-    "tags": [
-      "anthropic",
-      "regulação"
-    ],
-    "img": "img/10aa762c2a1c.jpg",
-    "ts": 1786973530,
-    "addedTs": 1786976316,
-    "urlHash": "10aa762c2a1c",
-    "titleHash": "0bd10e5e168c"
-  },
-  {
-    "title": "Firefox 154 Now Available with \"Manage AI\" Quick Action",
-    "titlePt": "Firefox 154 traz ação rápida \"Gerenciar IA\"",
-    "url": "https://www.phoronix.com/news/Firefox-154-Released",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A nova versão do Firefox inclui um botão de acesso rápido para gerenciar recursos de IA integrados ao navegador, dando ao usuário controle sobre o que é habilitado. A mudança reflete a pressão crescente por transparência e opt-in em recursos de IA. É leitura relevante para quem se preocupa com a presença default de IA em produtos de software.",
-    "reasonEn": "The new Firefox version includes a quick-access button to manage AI features integrated into the browser, giving users control over what is enabled. The change reflects growing pressure for transparency and opt-in on AI features. It is relevant reading for anyone concerned about the default presence of AI in software products.",
-    "score": 0.6,
-    "tags": [
-      "navegador",
-      "privacidade"
-    ],
-    "img": "img/91d3770e9e7b.jpg",
-    "ts": 1786973493,
-    "addedTs": 1786976316,
-    "urlHash": "91d3770e9e7b",
-    "titleHash": "47ec28104115"
-  },
-  {
-    "title": "AI Agents Made Me Rethink Leadership",
-    "titlePt": "Agentes de IA me fizeram repensar liderança",
-    "url": "https://allen.bargi.org/notes/leadership-management-and-supervision/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O autor compartilha como a chegada de agentes de IA mudou a forma como ele lidera equipes, deslocando o foco de tarefas para definir contexto, critérios e resultados. A mudança exige novas habilidades de gestores acostumados a controle direto. É leitura relevante para líderes que estão incorporando IA em seus times.",
-    "reasonEn": "The author shares how the arrival of AI agents changed how he leads teams, shifting the focus from commanding tasks to defining context, criteria, and overseeing outcomes. The change requires new skills from managers used to direct control. It is relevant reading for leaders incorporating AI into their teams.",
-    "score": 0.65,
-    "tags": [
-      "liderança",
-      "gestão"
-    ],
-    "img": "img/339e709955b3.jpg",
-    "ts": 1786973025,
-    "addedTs": 1786976316,
-    "urlHash": "339e709955b3",
-    "titleHash": "d34f4dfccc23"
   }
 ]
