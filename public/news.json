@@ -1,5 +1,71 @@
 [
   {
+    "title": "Show HN: Learn Leap, an AI tutor that teaches from your own material",
+    "titlePt": "Learn Leap: tutor de IA que ensina com seu próprio material",
+    "url": "https://learnleap.xyz",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Learn Leap é um tutor de IA que aprende a partir de materiais enviados pelo próprio usuário, permitindo ensino personalizado. Pode ser útil para estudantes e profissionais que querem treinar a ferramenta com seus próprios documentos. A eficácia depende de quão bem o modelo se adapta ao material de cada pessoa.",
+    "reasonEn": "Learn Leap is an AI tutor that learns from materials uploaded by the user itself, enabling personalized teaching. It could help students and professionals who want to train the tool with their own documents. Effectiveness depends on how well the model adapts to each person's material.",
+    "score": 0.5,
+    "tags": [
+      "educação",
+      "tutor",
+      "lançamento"
+    ],
+    "img": "img/9d774903692b.jpg",
+    "ts": 1787386076,
+    "addedTs": 1787386722,
+    "urlHash": "9d774903692b",
+    "titleHash": "b694247fb01a"
+  },
+  {
+    "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
+    "titlePt": "Inteligência por watt: medindo eficiência da IA local",
+    "url": "https://arxiv.org/abs/2511.07885",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo propõe a métrica 'inteligência por watt' para comparar o quão eficiente cada modelo de IA é quando rodado localmente, em vez de na nuvem. É um conceito útil para quem roda modelos em hardware próprio e precisa balancear desempenho e consumo de energia. Ajuda a escolher hardware e modelos de forma mais informada.",
+    "reasonEn": "The article proposes the metric 'intelligence per watt' to compare how efficient each AI model is when run locally instead of in the cloud. It's a useful concept for anyone running models on their own hardware and needing to balance performance and energy use. It helps choose hardware and models more wisely.",
+    "score": 0.5,
+    "tags": [
+      "benchmark",
+      "local",
+      "eficiência"
+    ],
+    "img": "img/eb8b9dad9035.jpg",
+    "ts": 1787378089,
+    "addedTs": 1787386722,
+    "urlHash": "eb8b9dad9035",
+    "titleHash": "b339b0f06cb1"
+  },
+  {
+    "title": "Show HN: Front end skill pack for AI agents, with machine-enforced quality gates",
+    "titlePt": "Pacote de skills front-end para agentes de IA com qualidade automatizada",
+    "url": "https://krishna-modi12.github.io/frontend-design-pro/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um Show HN apresenta um pacote de habilidades front-end para agentes de IA acompanhado de portões de qualidade automatizados que checam o código gerado. Pode acelerar times que delegam trabalho de UI para agentes, desde que as verificações sejam confiáveis. Vale acompanhar se a comunidade adotar e validar a abordagem.",
+    "reasonEn": "A Show HN presents a front-end skill pack for AI agents along with automated quality gates that check the generated code. It can speed up teams delegating UI work to agents, as long as the checks are trustworthy. Worth following to see if the community adopts and validates the approach.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "frontend",
+      "qualidade"
+    ],
+    "img": "img/3d06f8aedf94.jpg",
+    "ts": 1787377939,
+    "addedTs": 1787386722,
+    "urlHash": "3d06f8aedf94",
+    "titleHash": "3454bea40421"
+  },
+  {
     "title": "Ask HN: What is the evidence for a stock market bubble in AI?",
     "titlePt": "Existe mesmo uma bolha de IA no mercado de ações?",
     "url": "https://news.ycombinator.com/item?id=49397022",
@@ -10772,71 +10838,5 @@
     "addedTs": 1786976316,
     "urlHash": "f6ae65e28240",
     "titleHash": "eeae5b5868f0"
-  },
-  {
-    "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
-    "titlePt": "Wispr capta US$ 280 milhões e se avalia em US$ 2 bilhões mirando além do ditado",
-    "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A Wispr, conhecida por suas ferramentas de ditado por voz, levantou US$ 280 milhões em nova rodada e atingiu valuation de US$ 2 bilhões. O capital será usado para expandir a empresa além do ditado, provavelmente em direção a agentes e assistentes mais completos. Para desenvolvedores de produtos de voz e IA, o tamanho da rodada sinaliza que o mercado continua valorizando interfaces baseadas em fala. Investidores agora observam quem será o próximo player a dominar a camada de voz.",
-    "reasonEn": "Wispr, known for its voice dictation tools, raised $280 million in a new round and reached a $2 billion valuation. The capital will be used to expand the company beyond dictation, likely toward fuller agents and assistants. For developers building voice and AI products, the round's size signals the market still values speech-based interfaces. Investors are now watching who will be the next player to dominate the voice layer.",
-    "score": 0.55,
-    "tags": [
-      "investimento",
-      "voz",
-      "startup"
-    ],
-    "img": "img/fe8e71c09009.jpg",
-    "ts": 1786972205,
-    "addedTs": 1786976316,
-    "urlHash": "fe8e71c09009",
-    "titleHash": "cecef647d808"
-  },
-  {
-    "title": "A Test for AI Consciousness",
-    "titlePt": "Um teste para a consciência de IA",
-    "url": "https://gruhn.me/blog/2026-08-16/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Uma discussão filosófica e técnica propõe critérios práticos para avaliar se um sistema de IA pode ser considerado consciente. O tema é polêmico porque empresas como Anthropic e OpenAI já debatem internamente essas questões. O assunto importa para desenvolvedores que constroem agentes cada vez mais autônomos e para o público em geral preocupado com os rumos da tecnologia.",
-    "reasonEn": "A philosophical and technical discussion proposes practical criteria to evaluate whether an AI system could be considered conscious. The topic is controversial because companies like Anthropic and OpenAI already debate these issues internally. It matters for developers building increasingly autonomous agents and for the general public worried about where the technology is heading.",
-    "score": 0.55,
-    "tags": [
-      "consciência",
-      "ética",
-      "filosofia"
-    ],
-    "img": "img/8bb32bc03477.jpg",
-    "ts": 1786969300,
-    "addedTs": 1786969489,
-    "urlHash": "8bb32bc03477",
-    "titleHash": "e0ed8d77e5b2"
-  },
-  {
-    "title": "Who Owns Intelligence? Jensen Huang and the Battle for Open-Weight AI",
-    "titlePt": "De quem é a inteligência? Jensen Huang e a batalha pela IA de pesos abertos",
-    "url": "https://aiengineerhub.com/who-owns-intelligence-open-weight-ai",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O texto discute o embate entre Nvidia, grandes labs e o movimento open-weight, levantando quem controla o acesso à IA mais poderosa do mundo. A discussão afeta diretamente desenvolvedores e empresas que dependem de modelos abertos ou proprietários. É leitura relevante para entender o futuro do preço e da disponibilidade de modelos.",
-    "reasonEn": "The piece discusses the clash between Nvidia, major labs, and the open-weight movement, raising who controls access to the world's most powerful AI. The debate directly affects developers and companies depending on open or proprietary models. It is relevant reading to understand the future price and availability of models.",
-    "score": 0.8,
-    "tags": [
-      "open-weight",
-      "nvidia",
-      "indústria"
-    ],
-    "img": "img/ae091fee217c.jpg",
-    "ts": 1786969066,
-    "addedTs": 1786969489,
-    "urlHash": "ae091fee217c",
-    "titleHash": "f9eb3aa627c9"
   }
 ]
