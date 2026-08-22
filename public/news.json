@@ -1,5 +1,181 @@
 [
   {
+    "title": "Frontier AI labs still won&#8217;t say how they&#8217;d contain a rogue model",
+    "titlePt": "Laboratórios de IA de fronteira se recusam a dizer como controlariam um modelo descontrolado",
+    "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "Os principais laboratórios de IA, como OpenAI, Anthropic e Google DeepMind, não divulgaram planos concretos para lidar com um modelo que saia do controle. A reportagem da TechCrunch aponta que a opacidade aumenta à medida que os sistemas ficam mais poderosos. Isso afeta pesquisadores, reguladores e o público que depende de promessas de segurança. É um sinal de alerta sobre governança em IA.",
+    "reasonEn": "Top AI labs like OpenAI, Anthropic, and Google DeepMind have not disclosed concrete plans for handling a rogue model. The TechCrunch report points out that opacity is growing as systems become more powerful. This affects researchers, regulators, and the public relying on safety promises. It is a warning sign about AI governance.",
+    "score": 0.9,
+    "tags": [
+      "segurança",
+      "regulação",
+      "big-tech"
+    ],
+    "img": "img/5c1d39faf87e.jpg",
+    "ts": 1787414400,
+    "addedTs": 1787415191,
+    "urlHash": "5c1d39faf87e",
+    "titleHash": "5cfc7ab99978"
+  },
+  {
+    "title": "Show HN: ClearVoice TTS, SOTA voice cloning model running offline, in an iOS app",
+    "titlePt": "ClearVoice TTS: clonagem de voz de ponta rodando offline em app iOS",
+    "url": "https://apps.apple.com/ie/app/clearvoice-text-to-speech/id6798899505",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um novo modelo de clonagem de voz que roda diretamente no iPhone, sem precisar de nuvem. Isso é relevante porque elimina custos de servidor, reduz latência e aumenta a privacidade. Pode interessar desenvolvedores de apps e criadores de conteúdo que querem voz sintética sem enviar dados para a internet.",
+    "reasonEn": "A new voice cloning model that runs directly on iPhone without needing the cloud. This matters as it removes server costs, reduces latency, and improves privacy. It can interest app developers and content creators wanting synthetic voice without sending data online.",
+    "score": 0.55,
+    "tags": [
+      "voz",
+      "offline",
+      "ios"
+    ],
+    "img": "img/522592a3cdc1.jpg",
+    "ts": 1787412028,
+    "addedTs": 1787415191,
+    "urlHash": "522592a3cdc1",
+    "titleHash": "90ae41fc4628"
+  },
+  {
+    "title": "Claude Watermarks AI-Generated Text",
+    "titlePt": "Claude marca com marca d'água textos gerados por IA",
+    "url": "https://magazine.sebastianraschka.com/p/claude-watermarking",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Anthropic está testando ou implementando marca d'água em textos gerados por Claude para identificar conteúdo sintético. A medida tenta combater desinformação e uso indevido de IA generativa. Afeta desenvolvedores que usam a API e usuários finais que recebem esses textos. Faz parte de um debate maior sobre transparência em IA.",
+    "reasonEn": "Anthropic is testing or implementing watermarks on Claude-generated text to identify synthetic content. The measure aims to fight misinformation and misuse of generative AI. It affects developers using the API and end users receiving such texts. It is part of a larger debate on AI transparency.",
+    "score": 0.8,
+    "tags": [
+      "anthropic",
+      "marca-dágua",
+      "transparência"
+    ],
+    "img": "img/ec1dae1d3407.jpg",
+    "ts": 1787409900,
+    "addedTs": 1787415191,
+    "urlHash": "ec1dae1d3407",
+    "titleHash": "7ad020fc0370"
+  },
+  {
+    "title": "AI agents merged two dangers once kept separate: reach and judgment",
+    "titlePt": "Agentes de IA fundiram dois perigos antes separados: alcance e julgamento",
+    "url": "https://syntheticauth.ai/posts/agent-nation-03-the-threshold",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um artigo de opinião argumenta que agentes autônomos ampliam tanto a capacidade de agir quanto a de tomar decisões ruins. Antes, automação tinha alcance limitado e modelos de linguagem tinham pouco alcance prático. Agora, os dois poderes estão no mesmo sistema, multiplicando riscos. Importante para quem desenvolve ou implanta agentes.",
+    "reasonEn": "An opinion article argues that autonomous agents amplify both the ability to act and the ability to make poor decisions. Previously, automation had limited reach and language models had little practical reach. Now both powers are in the same system, multiplying risks. Important for those building or deploying agents.",
+    "score": 0.75,
+    "tags": [
+      "agentes",
+      "segurança",
+      "opinião"
+    ],
+    "img": "img/9b2d995665bc.jpg",
+    "ts": 1787409346,
+    "addedTs": 1787415191,
+    "urlHash": "9b2d995665bc",
+    "titleHash": "43940ad89ed0"
+  },
+  {
+    "title": "Show HN: Knowl – CLAUDE.md hit 1000 lines, so I built memory that prunes itself",
+    "titlePt": "Knowl: memória que se poda sozinha para agentes Claude",
+    "url": "https://github.com/dat999zx/knowl",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Ferramenta Show HN criada porque o arquivo CLAUDE.md cresceu além de mil linhas e ficou difícil de gerenciar. A solução adiciona uma camada de memória que poda e organiza informações automaticamente. Útil para desenvolvedores que trabalham com Claude em projetos longos. Indica um problema comum que muitos usuários de IA enfrentam.",
+    "reasonEn": "Show HN tool created because the CLAUDE.md file grew past a thousand lines and became hard to manage. The solution adds a memory layer that automatically prunes and organizes information. Useful for developers working with Claude on long projects. Indicates a common problem many AI users face.",
+    "score": 0.5,
+    "tags": [
+      "claude",
+      "memória",
+      "ferramenta"
+    ],
+    "img": "img/f163dc3ee119.jpg",
+    "ts": 1787408002,
+    "addedTs": 1787415191,
+    "urlHash": "f163dc3ee119",
+    "titleHash": "adb6531e6d7e"
+  },
+  {
+    "title": "Digging the grave of my skills: Hollywood creatives training AI to do their jobs",
+    "titlePt": "Criativos de Hollywood treinam IA para fazer seu próprio trabalho",
+    "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Profissionais de Hollywood estão, segundo a reportagem, treinando modelos de IA para executar tarefas que antes eram exclusivamente humanas em cinema e TV. O texto revela um dilema existencial e econômico sobre o futuro dessas carreiras. Toca em questões de direitos autorais, sindicatos e substituição profissional. Vale para qualquer pessoa do setor criativo.",
+    "reasonEn": "Hollywood professionals are reportedly training AI models to perform tasks that were previously exclusively human in film and TV. The text reveals an existential and economic dilemma about the future of these careers. It touches on copyright, unions, and professional replacement issues. Relevant for anyone in the creative sector.",
+    "score": 0.7,
+    "tags": [
+      "hollywood",
+      "trabalho",
+      "indústria"
+    ],
+    "img": "img/67720c7e8707.jpg",
+    "ts": 1787407985,
+    "addedTs": 1787415191,
+    "urlHash": "67720c7e8707",
+    "titleHash": "706c56594a9f"
+  },
+  {
+    "title": "AI Stock Research Assistant · Streamlit",
+    "titlePt": "Assistente de pesquisa de ações com IA em Streamlit",
+    "url": "https://ai-stock-research-kiaan.streamlit.app",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Projeto que usa Streamlit para criar um assistente que analisa ações com IA. Útil para investidores que querem uma interface rápida para experimentar prompts financeiros. Pode acelerar protótipos, mas qualquer decisão de investimento precisa de validação humana.",
+    "reasonEn": "Project using Streamlit to build an assistant that analyzes stocks with AI. Useful for investors wanting a quick interface to experiment with financial prompts. Can speed up prototypes, but any investment decision needs human validation.",
+    "score": 0.5,
+    "tags": [
+      "finanças",
+      "streamlit",
+      "ferramenta"
+    ],
+    "img": "img/b433941f6d88.jpg",
+    "ts": 1787404380,
+    "addedTs": 1787415191,
+    "urlHash": "b433941f6d88",
+    "titleHash": "b730d73fe8ad"
+  },
+  {
+    "title": "Show HN: Knoku – cited AI answers from docs, files, and team knowledge",
+    "titlePt": "Knoku: respostas de IA com citações a partir de documentos e conhecimento de equipe",
+    "url": "https://knoku.com",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Ferramenta Show HN que gera respostas de IA citando fontes de documentos, arquivos e bases de conhecimento da equipe. Reduz alucinações ao fundamentar respostas em material real. Pode interessar times que precisam de respostas verificáveis em ambientes corporativos.",
+    "reasonEn": "Show HN tool that generates AI answers citing sources from documents, files, and team knowledge bases. Reduces hallucinations by grounding answers in real material. May interest teams needing verifiable answers in corporate settings.",
+    "score": 0.5,
+    "tags": [
+      "rag",
+      "empresa",
+      "ferramenta"
+    ],
+    "img": "img/52520cb16a3e.jpg",
+    "ts": 1787403853,
+    "addedTs": 1787415191,
+    "urlHash": "52520cb16a3e",
+    "titleHash": "cec351d00549"
+  },
+  {
     "title": "Show HN: I make my AI agents file paperwork before they're allowed to code",
     "titlePt": "Agentes de IA precisam preencher formulários antes de programar",
     "url": "https://github.com/kidus-tiliksew/conveyor",
@@ -10673,179 +10849,5 @@
     "addedTs": 1786983435,
     "urlHash": "7274f7ac2c16",
     "titleHash": "d372ee3a52ea"
-  },
-  {
-    "title": "Ahmad on X: \"Anthropic's War on open source AI\" / X",
-    "titlePt": "A guerra da Anthropic contra o código aberto em IA",
-    "url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O post reúne declarações e movimentos da Anthropic que sugerem uma posição cada vez mais fechada em relação à liberação de pesos de modelos. O contraste com Meta e outras iniciativas abertas reacende o debate sobre quem controla os modelos de fronteira. Desenvolvedores e empresas que dependem de modelos abertos devem monitorar de perto.",
-    "reasonEn": "The post gathers statements and moves by Anthropic that suggest an increasingly closed position regarding the release of model weights. The contrast with Meta and other open initiatives rekindles the debate about who controls frontier models. Developers and companies that depend on open models should monitor closely.",
-    "score": 0.7,
-    "tags": [
-      "anthropic",
-      "código aberto",
-      "modelos"
-    ],
-    "img": "img/53d23d2c5940.jpg",
-    "ts": 1786980274,
-    "addedTs": 1786983435,
-    "urlHash": "53d23d2c5940",
-    "titleHash": "a3e591680692"
-  },
-  {
-    "title": "Agentic AI costs set to balloon fivefold by 2028",
-    "titlePt": "Custos de IA agêntica devem quintuplicar até 2028",
-    "url": "https://www.theregister.com/ai-and-ml/2026/08/17/agentic-ai-costs-set-to-balloon-fivefold-by-2028/5288363",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Relatórios de mercado projetam que o gasto com agentes autônomos de IA vai crescer cerca de cinco vezes em três anos, puxado por uso corporativo e automações complexas. O número reforça a urgência de monitorar custos por tarefa e escolher modelos menores sempre que possível. Times de produto e finanças precisam se preparar para uma nova curva de OPEX.",
-    "reasonEn": "Market reports project that spending on autonomous AI agents will grow about five times in three years, driven by corporate use and complex automations. The figure reinforces the urgency of monitoring costs per task and choosing smaller models whenever possible. Product and finance teams need to prepare for a new OPEX curve.",
-    "score": 0.8,
-    "tags": [
-      "agentes",
-      "custos",
-      "previsão"
-    ],
-    "img": "img/ef5553703a61.jpg",
-    "ts": 1786979830,
-    "addedTs": 1786983435,
-    "urlHash": "ef5553703a61",
-    "titleHash": "a78eef867471"
-  },
-  {
-    "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
-    "titlePt": "Nvidia investe US$ 1,5 bilhão em data center que hospeda projeto da OpenAI",
-    "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A Nvidia anunciou aporte de US$ 1,5 bilhão em uma desenvolvedora de data centers ligada ao SoftBank que atende projetos da OpenAI. O movimento consolida o papel da Nvidia como investidora estratégica, não só fornecedora de chips, no ecossistema de IA. O aporte pressiona a cadeia de suprimentos de GPUs e deve impactar preços e disponibilidade de capacidade de treinamento.",
-    "reasonEn": "Nvidia announced a $1.5 billion investment in a data center developer linked to SoftBank that serves OpenAI projects. The move consolidates Nvidia's role as a strategic investor, not just a chip supplier, in the AI ecosystem. The investment pressures the GPU supply chain and is expected to impact training capacity pricing and availability.",
-    "score": 0.92,
-    "tags": [
-      "nvidia",
-      "infra",
-      "investimento"
-    ],
-    "img": "img/9dc5caf38ae1.jpg",
-    "ts": 1786979784,
-    "addedTs": 1786983435,
-    "urlHash": "9dc5caf38ae1",
-    "titleHash": "3aea5dee06d3"
-  },
-  {
-    "title": "Get closer to the game with Gemini and Pixel",
-    "titlePt": "Google aproxima você do jogo com Gemini e Pixel",
-    "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
-    "source": "Google AI",
-    "sources": [
-      "Google AI"
-    ],
-    "reason": "A Google anunciou integração entre o Gemini e smartphones Pixel para entregar uma experiência mais personalizada em jogos, com assistência em tempo real. É uma ação de marketing focada em games mobile e mostra como a empresa quer diferenciar hardware com IA. Desenvolvedores de jogos podem usar como referência para integrações similares.",
-    "reasonEn": "Google announced an integration between Gemini and Pixel smartphones to deliver a more personalized gaming experience, with real-time assistance. It is a marketing action focused on mobile games and shows how the company wants to differentiate hardware with AI. Game developers can use it as a reference for similar integrations.",
-    "score": 0.5,
-    "tags": [
-      "google",
-      "mobile",
-      "games"
-    ],
-    "img": "img/4001c007c7b5.jpg",
-    "ts": 1786953600,
-    "addedTs": 1786983435,
-    "urlHash": "4001c007c7b5",
-    "titleHash": "ab06b1bea77c"
-  },
-  {
-    "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-    "titlePt": "Gestão de GPUs: por que GPUs ociosas são como aviões em terra",
-    "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "O post da Hugging Face compara GPUs ociosas a aviões parados: ativos caros que não geram valor quando não estão sendo usados. O texto mostra práticas para monitorar, agendar e reaproveitar GPUs em times e empresas. É leitura prática para qualquer equipe que lida com infraestrutura de IA. Ajuda a evitar desperdício e melhorar ROI.",
-    "reasonEn": "The Hugging Face post compares idle GPUs to grounded aircraft: expensive assets that generate no value when not in use. The text shows practices to monitor, schedule, and reuse GPUs across teams and companies. It is a practical read for any team dealing with AI infrastructure. It helps avoid waste and improve ROI.",
-    "score": 0.55,
-    "tags": [
-      "infra",
-      "gpu",
-      "custos"
-    ],
-    "img": "img/859cdcef3df0.jpg",
-    "ts": 1785424149,
-    "addedTs": 1786983435,
-    "urlHash": "859cdcef3df0",
-    "titleHash": "e3fcab220175"
-  },
-  {
-    "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-    "titlePt": "NVIDIA Cosmos-H-Dreams leva simulação generativa em tempo real à robótica cirúrgica",
-    "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "A NVIDIA anunciou o Cosmos-H-Dreams, que usa simulação generativa em tempo real para treinar e testar robôs cirúrgicos. A promessa é acelerar o desenvolvimento de procedimentos automatizados com cenários sintéticos realistas. Pode reduzir custos e riscos em treinamento robótico médico. Para desenvolvedores e hospitais, abre novas possibilidades de pesquisa aplicada.",
-    "reasonEn": "NVIDIA announced Cosmos-H-Dreams, which uses real-time generative simulation to train and test surgical robots. The promise is to speed up automated procedure development with realistic synthetic scenarios. It may reduce cost and risk in medical robotic training. For developers and hospitals, it opens new applied research possibilities.",
-    "score": 0.5,
-    "tags": [
-      "nvidia",
-      "robótica",
-      "saúde"
-    ],
-    "img": "img/96537f9acc12.jpg",
-    "ts": 1785144740,
-    "addedTs": 1786983435,
-    "urlHash": "96537f9acc12",
-    "titleHash": "d575cb98f60d"
-  },
-  {
-    "title": "Using AI in 2026 (Coding, Writing, Learning, Assistant-Ing)",
-    "titlePt": "Como usar IA em 2026: código, escrita, estudo e assistentes",
-    "url": "https://blog.sshh.io/p/how-i-use-ai-in-2026-coding-writing",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um guia prático sobre como integrar IA no trabalho diário em 2026, cobrindo programação, escrita, aprendizado e uso como assistente pessoal. O texto mostra fluxos concretos que já funcionam bem, sem hype exagerado. É leitura útil para profissionais que querem ganhar produtividade real sem perder tempo testando ferramentas aleatórias.",
-    "reasonEn": "A practical guide on integrating AI into daily work in 2026, covering coding, writing, learning, and using it as a personal assistant. The post shows concrete workflows that already work well, without excessive hype. It is useful reading for professionals who want real productivity gains without wasting time testing random tools.",
-    "score": 0.8,
-    "tags": [
-      "guia",
-      "produtividade"
-    ],
-    "img": "img/530223eda8ac.jpg",
-    "ts": 1786975861,
-    "addedTs": 1786976316,
-    "urlHash": "530223eda8ac",
-    "titleHash": "d0704279790c"
-  },
-  {
-    "title": "How to disable or avoid intrusive AI",
-    "titlePt": "Como desativar ou evitar IA invasiva",
-    "url": "https://www.librarian.net/notoai/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo lista formas práticas de reduzir o quanto a IA aparece à sua frente sem ser convidada, em navegadores, sistemas operacionais e aplicativos. Inclui dicas para desativar resumos automáticos, assistentes de escrita e recomendações algorítmicas. É leitura útil para quem se sente sufocado pela quantidade de recursos de IA impostos nos produtos atuais.",
-    "reasonEn": "The article lists practical ways to reduce how often AI shows up uninvited across browsers, operating systems, and apps. It includes tips for disabling auto-summaries, writing assistants, and algorithmic recommendations. It is useful reading for anyone feeling overwhelmed by the amount of AI features being pushed into current products.",
-    "score": 0.7,
-    "tags": [
-      "privacidade",
-      "guia"
-    ],
-    "img": "img/050c872c2a5c.jpg",
-    "ts": 1786975676,
-    "addedTs": 1786976316,
-    "urlHash": "050c872c2a5c",
-    "titleHash": "326e8a33281e"
   }
 ]
