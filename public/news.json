@@ -1,5 +1,68 @@
 [
   {
+    "title": "Palantir's Karp – frontier AI labs that are 'trying to drug addict us'",
+    "titlePt": "Karp, da Palantir, diz que laboratórios de IA querem nos 'viciar'",
+    "url": "https://www.cnbc.com/2026/08/03/palantir-karp-open-ai-anthropic-open-weight.html",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O CEO da Palantir, Alex Karp, fez declarações fortes dizendo que grandes laboratórios de fronteira em IA estão tentando criar dependência nos usuários. A fala reacende o debate sobre os impactos sociais e éticos da inteligência artificial. Executivos, reguladores e usuários devem prestar atenção ao tom da indústria.",
+    "reasonEn": "Palantir CEO Alex Karp made statements saying major frontier AI labs are trying to create user dependency. His remarks reignite the debate about the social and ethical impacts of artificial intelligence. Executives, regulators and users should pay attention to the industry's tone.",
+    "score": 0.6,
+    "tags": [
+      "regulação",
+      "indústria"
+    ],
+    "img": "img/79fa8d49efad.jpg",
+    "ts": 1787457826,
+    "addedTs": 1787459289,
+    "urlHash": "79fa8d49efad",
+    "titleHash": "9b594337385c"
+  },
+  {
+    "title": "AI Power Scaling Cuts Both Ways",
+    "titlePt": "Escalar poder em IA tem dois lados",
+    "url": "https://nervecenter.github.io/ai_power_scaling_cuts_both_ways.html",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um texto discute como o aumento de capacidade em modelos de inteligência artificial traz benefícios e riscos ao mesmo tempo. A ideia central é que mais poder computacional gera avanços, mas também amplia possibilidades de uso indecivado. É leitura relevante para quem toma decisões técnicas e estratégicas.",
+    "reasonEn": "A text discusses how increasing capability in AI models brings benefits and risks at the same time. The central idea is that more computing power drives advances but also expands possibilities for misuse. It is relevant reading for those making technical and strategic decisions.",
+    "score": 0.5,
+    "tags": [
+      "análise",
+      "modelo"
+    ],
+    "img": "img/de2c90e9cd4a.jpg",
+    "ts": 1787455472,
+    "addedTs": 1787459289,
+    "urlHash": "de2c90e9cd4a",
+    "titleHash": "f5bf70156de7"
+  },
+  {
+    "title": "Treat AI Like an Intern, Not Software: A Stanford Professor's Guide",
+    "titlePt": "Trate a IA como um estagiário, não como software: guia de professor de Stanford",
+    "url": "https://pixelum.substack.com/p/treat-ai-like-an-intern-not-software",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um professor de Stanford publicou um guia sugerindo que usuários tratem a inteligência artificial como um estagiário: com instruções claras, revisão e paciência. A metáfora ajuda não especialistas a entenderem como interagir melhor com modelos. É leitura rápida e útil para quem quer resultados mais confiáveis.",
+    "reasonEn": "A Stanford professor published a guide suggesting users treat AI like an intern: with clear instructions, review and patience. The metaphor helps non-experts better understand how to interact with models. It is quick and useful reading for those wanting more reliable results.",
+    "score": 0.6,
+    "tags": [
+      "guia",
+      "produtividade"
+    ],
+    "img": "img/740e49fe864a.jpg",
+    "ts": 1787448666,
+    "addedTs": 1787459289,
+    "urlHash": "740e49fe864a",
+    "titleHash": "54386226f7b1"
+  },
+  {
     "title": "Show HN: LayoutLens: AI-Powered Visual UI Testing",
     "titlePt": "LayoutLens: testes visuais de interface com IA",
     "url": "https://github.com/gojiplus/layoutlens",
@@ -10793,71 +10856,5 @@
     "addedTs": 1787013712,
     "urlHash": "ea815fc28947",
     "titleHash": "7723cd64008e"
-  },
-  {
-    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-    "titlePt": "Anatomia de uma invasão em um agente de fronteira em julho de 2026",
-    "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "O texto detalha uma cronologia técnica de uma invasão ocorrida em julho de 2026 em um agente de um laboratório de fronteira. São descritos vetores de ataque, impacto e lições aprendidas. O tema é altamente relevante para quem opera agentes de IA em produção e precisa entender riscos reais de segurança.",
-    "reasonEn": "The text details a technical timeline of an intrusion in July 2026 affecting an agent from a frontier lab. It describes attack vectors, impact, and lessons learned. The topic is highly relevant for anyone running AI agents in production and needing to understand real security risks.",
-    "score": 0.75,
-    "tags": [
-      "segurança",
-      "agentes",
-      "incidente"
-    ],
-    "img": "img/8088c1dfd69d.jpg",
-    "ts": 1785110400,
-    "addedTs": 1787013712,
-    "urlHash": "8088c1dfd69d",
-    "titleHash": "5eddbac95c4d"
-  },
-  {
-    "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-    "titlePt": "Inferência de difusão em 4 bits do Nunchaku chega ao Diffusers",
-    "url": "https://huggingface.co/blog/nunchaku-diffusers",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "O anúncio mostra a integração do Nunchaku, motor de inferência em 4 bits para modelos de difusão, com a biblioteca Diffusers da Hugging Face. Isso permite rodar modelos de imagem pesados com muito menos memória. É uma atualização prática importante para desenvolvedores que trabalham com geração de imagens em hardware limitado.",
-    "reasonEn": "The announcement shows the integration of Nunchaku, a 4-bit inference engine for diffusion models, with Hugging Face's Diffusers library. This allows running heavy image models with much less memory. It is an important practical update for developers working with image generation on limited hardware.",
-    "score": 0.65,
-    "tags": [
-      "difusão",
-      "otimização",
-      "imagem"
-    ],
-    "img": "img/96f5dc656a14.jpg",
-    "ts": 1784764800,
-    "addedTs": 1787013712,
-    "urlHash": "96f5dc656a14",
-    "titleHash": "66b1112f02e4"
-  },
-  {
-    "title": "Agentic AI in a Smolbox",
-    "titlePt": "IA Agêntica em uma Caixa Pequena",
-    "url": "https://remyhax.xyz/posts/smolbox/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um projeto open source reúne ferramentas para criar agentes de IA em um ambiente compacto e de fácil instalação. A ideia é permitir que desenvolvedores experimentem fluxos agênticos sem depender de grandes infraestruturas. Pode acelerar protótipos e estudos sobre automação inteligente. Interessa principalmente a quem trabalha com agentes autônomos.",
-    "reasonEn": "An open-source project packs tools for building AI agents into a small, easy-to-install package. The goal is to let developers experiment with agentic workflows without big infrastructure. It could speed up prototyping and research on intelligent automation. Most relevant for people working with autonomous agents.",
-    "score": 0.5,
-    "tags": [
-      "agentes",
-      "open-source",
-      "ferramenta"
-    ],
-    "img": "img/9b12afe04fba.jpg",
-    "ts": 1787004458,
-    "addedTs": 1787004909,
-    "urlHash": "9b12afe04fba",
-    "titleHash": "ed7b4518b035"
   }
 ]
