@@ -1,5 +1,110 @@
 [
   {
+    "title": "AI Writing Without the Slop",
+    "titlePt": "Escrevendo com IA sem produzir texto ruim",
+    "url": "https://sfactory.dev",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A discussão aborda como evitar que ferramentas de inteligência artificial gerem textos genéricos e sem personalidade. São exploradas técnicas de prompt, edição humana e uso consciente dos modelos. O fenômeno do chamado slop, textos vazios que inundam a internet, é o ponto central. O conteúdo oferece caminhos práticos para melhorar a qualidade final do que se publica.",
+    "reasonEn": "The discussion covers how to prevent AI tools from generating generic and soulless text. Prompt techniques, human editing, and mindful use of models are explored. The so-called slop phenomenon—empty texts flooding the internet—is the central point. The content offers practical paths to improve the final quality of what gets published.",
+    "score": 0.55,
+    "tags": [
+      "qualidade",
+      "escrita"
+    ],
+    "img": "img/2aa93adef2c2.jpg",
+    "ts": 1787479211,
+    "addedTs": 1787480071,
+    "urlHash": "2aa93adef2c2",
+    "titleHash": "5c372b52aa3c"
+  },
+  {
+    "title": "Show HN: Opensourcing Lemmaflow – A trust harness for AI-native apps",
+    "titlePt": "Lemmaflow vira open source para confiabilidade de apps com IA",
+    "url": "https://news.ycombinator.com/item?id=49407337",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um projeto open source promete ajudar desenvolvedores a monitorar e garantir a confiabilidade de aplicações construídas com inteligência artificial. A ferramenta oferece uma camada para validar o comportamento dos agentes em produção. É uma tentativa de resolver um dos maiores desafios atuais: confiar em sistemas que tomam decisões autônomas. Desenvolvedores que constroem com IA devem olhar com atenção.",
+    "reasonEn": "An open source project promises to help developers monitor and ensure the reliability of applications built with artificial intelligence. The tool offers a layer to validate agent behavior in production. It is an attempt to solve one of today's biggest challenges: trusting systems that make autonomous decisions. Developers building with AI should pay close attention.",
+    "score": 0.5,
+    "tags": [
+      "open-source",
+      "agentes"
+    ],
+    "img": "img/b40c41dd749d.jpg",
+    "ts": 1787477531,
+    "addedTs": 1787480071,
+    "urlHash": "b40c41dd749d",
+    "titleHash": "a4b2062873ee"
+  },
+  {
+    "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+    "titlePt": "Modelo top da Anthropic tem dificuldade para conquistar usuários",
+    "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Mesmo sendo o melhor modelo da Anthropic, a versão mais recente enfrenta concorrência pesada de alternativas mais baratas no mercado. O relato mostra que usuários estão migrando para ferramentas com melhor custo-benefício. É um sinal importante sobre a dinâmica atual do setor de IA. Mostra que capacidade técnica isolada não basta sem preço competitivo.",
+    "reasonEn": "Despite being Anthropic's best model, the latest version faces heavy competition from cheaper alternatives in the market. The report shows users are migrating to tools with better cost-benefit ratios. It is an important signal about the current dynamics of the AI sector. It shows that technical capability alone is not enough without competitive pricing.",
+    "score": 0.75,
+    "tags": [
+      "anthropic",
+      "mercado"
+    ],
+    "img": "img/149a75083aa9.jpg",
+    "ts": 1787476904,
+    "addedTs": 1787480071,
+    "urlHash": "149a75083aa9",
+    "titleHash": "74b1e029b36d"
+  },
+  {
+    "title": "Every Tech Bubble Obeyed the Same Rule. AI Is Next [video]",
+    "titlePt": "Toda bolha tech seguiu a mesma regra. A da IA será a próxima",
+    "url": "https://www.youtube.com/watch?v=KJxfSIvv920",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O vídeo argumenta que as bolhas tecnológicas sempre seguiram um padrão previsível e que a inteligência artificial deve repetir o ciclo. A análise compara o momento atual com bolhas anteriores como a das pontocom. Traz lições sobre como identificar sinais de alerta e o que esperar nos próximos anos. Para investidores e profissionais do setor, é leitura obrigatória.",
+    "reasonEn": "The video argues that tech bubbles have always followed a predictable pattern and that artificial intelligence will repeat the cycle. The analysis compares the current moment with previous bubbles like the dot-com era. It brings lessons on how to identify warning signs and what to expect in coming years. For investors and industry professionals, it is required viewing.",
+    "score": 0.65,
+    "tags": [
+      "bolha",
+      "mercado"
+    ],
+    "img": "img/f8da62cf24b3.jpg",
+    "ts": 1787474171,
+    "addedTs": 1787480071,
+    "urlHash": "f8da62cf24b3",
+    "titleHash": "85bf6694d712"
+  },
+  {
+    "title": "Contextual News Search APIs: A Deep Comparison for AI, RAG, and Research",
+    "titlePt": "Comparativo de APIs de busca de notícias para IA e RAG",
+    "url": "https://github.com/free-news-api/news-search-api-comparison",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma análise técnica detalhada compara APIs de busca de notícias voltadas para sistemas de inteligência artificial, RAG e pesquisa. O texto avalia cobertura, latência, custo e qualidade dos dados retornados. É leitura útil para desenvolvedores que precisam alimentar modelos com informações atualizadas. Ajuda a evitar escolhas ruins em projetos de geração aumentada por recuperação.",
+    "reasonEn": "A detailed technical analysis compares news search APIs aimed at artificial intelligence systems, RAG, and research. The text evaluates coverage, latency, cost, and quality of returned data. It is useful reading for developers who need to feed models with updated information. It helps avoid poor choices in retrieval augmented generation projects.",
+    "score": 0.55,
+    "tags": [
+      "apis",
+      "rag"
+    ],
+    "img": "img/0bba0b0e9d5e.jpg",
+    "ts": 1787473832,
+    "addedTs": 1787480071,
+    "urlHash": "0bba0b0e9d5e",
+    "titleHash": "1db8032e7d5c"
+  },
+  {
     "title": "Wild AI-related reliability incidents are coming",
     "titlePt": "Incidentes graves de confiabilidade em IA estão chegando",
     "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming/",
@@ -10746,115 +10851,5 @@
     "addedTs": 1787021305,
     "urlHash": "eb6152fc6599",
     "titleHash": "e459aee12589"
-  },
-  {
-    "title": "ARC: Fair Relative Advantage Comparison in Open-Ended Real-World Interaction",
-    "titlePt": "ARC: comparação justa de vantagens em interações reais",
-    "url": "https://arxiv.org/abs/2608.13622",
-    "source": "arXiv AI",
-    "sources": [
-      "arXiv AI"
-    ],
-    "reason": "O artigo apresenta a ARC, uma abordagem para comparar de forma justa vantagens relativas em interações abertas com o mundo real. O foco é tornar as avaliações mais equilibradas quando não existe uma única resposta ou trajetória correta. A pesquisa interessa principalmente a quem desenvolve e avalia agentes de inteligência artificial em ambientes dinâmicos.",
-    "reasonEn": "The paper presents ARC, an approach for fairly comparing relative advantages in open-ended real-world interactions. It aims to make evaluations more balanced when there is no single correct answer or trajectory. The research is mainly relevant to those developing and evaluating AI agents in dynamic environments.",
-    "score": 0.57,
-    "tags": [
-      "agentes",
-      "avaliação",
-      "interação"
-    ],
-    "img": "img/3009a5f5a379.jpg",
-    "ts": 1786939200,
-    "addedTs": 1787021305,
-    "urlHash": "3009a5f5a379",
-    "titleHash": "aba81e17f661"
-  },
-  {
-    "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
-    "titlePt": "Ofertas públicas de energia disparam com o avanço da IA",
-    "url": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
-    "source": "Ars Technica",
-    "sources": [
-      "Ars Technica"
-    ],
-    "reason": "O número de ofertas públicas iniciais de empresas de energia cresceu enquanto investidores procuram formas de se expor ao avanço da inteligência artificial. A alta mostra que o interesse pela infraestrutura que sustenta a tecnologia também está se refletindo no mercado de ações. O movimento afeta investidores, empresas do setor energético e companhias que dependem de grande capacidade computacional.",
-    "reasonEn": "The number of initial public offerings from energy companies has grown as investors seek ways to gain exposure to the AI boom. The rise shows that interest in the infrastructure supporting the technology is also reaching the stock market. The movement affects investors, energy companies, and companies that depend on substantial computing capacity.",
-    "score": 0.72,
-    "tags": [
-      "energia",
-      "bolsa",
-      "investimentos"
-    ],
-    "img": "img/09cf494e1505.jpg",
-    "ts": 1784216901,
-    "addedTs": 1787021305,
-    "urlHash": "09cf494e1505",
-    "titleHash": "18881a43c015"
-  },
-  {
-    "title": "Consumers Prefer AI Music Until They're Told It's AI",
-    "titlePt": "Consumidores preferem músicas de IA até saberem que foram geradas por IA",
-    "url": "https://www.promarket.org/2026/05/04/consumers-prefer-ai-music-until-theyre-told-its-ai/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um estudo recente mostra que ouvintes costumam avaliar melhor canções compostas por inteligência artificial em testes cegos, dando notas mais altas a elas. Porém, quando informados de que a música foi gerada por IA, passam a avaliá-la pior do que composições humanas. O resultado revela um forte viés contra a procedência automatizada, conhecido como efeito de repúdio tecnológico. Artistas e gravadoras podem usar esses dados para repensar como divulgam faixas assistidas por IA. É uma leitura importante sobre percepção pública e transparência na indústria musical.",
-    "reasonEn": "A new study finds that listeners tend to rate AI-composed songs more favorably in blind tests, but once told the music was machine-made, they score it worse than human-created tracks. This points to a strong anti-AI provenance bias even when the output is objectively well-received. Musicians and labels may need to rethink how they disclose AI-assisted tracks. The findings are relevant for creators, marketers, and policymakers monitoring public attitudes.",
-    "score": 0.75,
-    "tags": [
-      "estudo",
-      "música",
-      "viés"
-    ],
-    "img": "img/5a433ae32e92.jpg",
-    "ts": 1787012123,
-    "addedTs": 1787013712,
-    "urlHash": "5a433ae32e92",
-    "titleHash": "9e7b592fdf12"
-  },
-  {
-    "title": "Whose doctor does the AI recommend? An algorithm audit of LLMs in physician",
-    "titlePt": "Auditoria revela quais médicos os LLMs recomendam",
-    "url": "https://arxiv.org/abs/2608.14399",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Pesquisadores fizeram uma auditoria em grandes modelos de linguagem para descobrir quais nomes de médicos aparecem com mais frequência nas respostas. O estudo mostra padrões sistemáticos que podem refletir vieses nos dados de treinamento, incluindo preferências por gênero, especialidade ou país de origem. Quando pacientes pedem orientação médica a chatbots, podem receber recomendações enviesadas sem perceber. Os autores defendem que hospitais e desenvolvedores publiquem auditorias regulares dos seus modelos. O tema afeta qualquer pessoa que usa IA como apoio para decisões de saúde.",
-    "reasonEn": "Researchers audited major LLMs to see which physician names they recommend most often. The audit surfaces systematic biases around gender, specialty, and regional background embedded in training data. Patients who rely on chatbots for medical guidance may receive skewed suggestions without realizing it. The authors urge model providers to publish regular bias audits. The findings matter for anyone using AI as a health-information source.",
-    "score": 0.75,
-    "tags": [
-      "saúde",
-      "viés",
-      "auditoria"
-    ],
-    "img": "img/e8554d462e85.jpg",
-    "ts": 1787011626,
-    "addedTs": 1787013712,
-    "urlHash": "e8554d462e85",
-    "titleHash": "ada4e3fb59eb"
-  },
-  {
-    "title": "Prime Agent: A Self-Improving RLM Agent",
-    "titlePt": "Prime Agent: um agente RLM autoaperfeiçoável",
-    "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um projeto no Hacker News apresenta o Prime Agent, um agente baseado em modelo de raciocínio por reforço (RLM) capaz de melhorar seu próprio desempenho a cada tarefa executada. O autor relata ganhos em benchmarks de codificação e uso de ferramentas após ciclos de autoavaliação. O sistema se diferencia por ajustar políticas internas em vez de apenas armazenar memórias de execuções anteriores. Pesquisadores de IA podem usar a abordagem como ponto de partida para agentes mais autônomos. O impacto prático ainda é cedo, mas a ideia reforça a corrida por agentes cada vez mais autoaprimorados.",
-    "reasonEn": "A Hacker News project called Prime Agent introduces a Reasoning Language Model (RLM) agent that improves itself after each task. The author reports gains on coding and tool-use benchmarks through self-evaluation cycles. The agent differs by adjusting internal policies rather than just storing execution memory. AI researchers may use the approach to build more autonomous systems. Practical impact remains early, but it adds another data point to the self-improving agent race.",
-    "score": 0.6,
-    "tags": [
-      "pesquisa",
-      "agentes",
-      "autoaperfeiçoamento"
-    ],
-    "img": "img/06b6387dd348.jpg",
-    "ts": 1787011541,
-    "addedTs": 1787013712,
-    "urlHash": "06b6387dd348",
-    "titleHash": "cdd864a4edb5"
   }
 ]
