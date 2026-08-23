@@ -1,5 +1,27 @@
 [
   {
+    "title": "Woe Is Em: The Sad Lifecycle of an AI Tell",
+    "titlePt": "A triste vida do travessão usado por IAs",
+    "url": "https://stevekrause.org/blog/2026/08/woe-is-em-the-sad-lifecycle-of-an-ai-tell/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma análise técnica mostra que o travessão (em-dash) virou uma espécie de marca registrada de textos gerados por inteligência artificial, repetido por todos os modelos atuais. O artigo explica como esse padrão aparece em diferentes modelos e por que é tão difícil eliminá-lo durante o treinamento. O tema é relevante para editores, professores e qualquer pessoa que precise distinguir texto humano de texto de máquina. Mostra também como os modelos de IA compartilham vieses estilísticos sutis.",
+    "reasonEn": "A technical analysis shows that the em-dash has become a kind of signature of AI-generated text, repeated across current models. The article explains how this pattern emerges across models and why it is hard to remove during training. The topic is relevant for editors, teachers, and anyone who needs to distinguish human from machine text. It also shows how AI models share subtle stylistic biases.",
+    "score": 0.6,
+    "tags": [
+      "escrita",
+      "ia",
+      "estilo"
+    ],
+    "img": "img/2903bb0c87c3.jpg",
+    "ts": 1787496816,
+    "addedTs": 1787515929,
+    "urlHash": "2903bb0c87c3",
+    "titleHash": "0bd2297e3167"
+  },
+  {
     "title": "Show HN: Writing-eval, local deterministic style checks for AI-written drafts",
     "titlePt": "Writing-eval: checagens locais de estilo para textos de IA",
     "url": "https://github.com/majesticlabs-dev/writing-eval",
@@ -10827,27 +10849,5 @@
     "addedTs": 1787034428,
     "urlHash": "6d2dfa0ce0e2",
     "titleHash": "759f8be3e7a6"
-  },
-  {
-    "title": "Position: Certified Correctness in Neural Constraint Reasoning Requires Symbolic Integration",
-    "titlePt": "Correção certificada em raciocínio neural exige integração simbólica",
-    "url": "https://arxiv.org/abs/2608.14569",
-    "source": "arXiv AI",
-    "sources": [
-      "arXiv AI"
-    ],
-    "reason": "O artigo afirma que não é possível garantir correção formal em sistemas de restrições neurais sem componentes simbólicos. Os autores mostram casos onde redes neurais falham em tarefas lógicas simples. Voltado para a comunidade de verificação formal e IA neuro-simbólica.",
-    "reasonEn": "The paper states that formal correctness in neural constraint systems cannot be guaranteed without symbolic components. The authors show cases where neural networks fail in simple logical tasks. Aimed at the formal verification and neuro-symbolic AI community.",
-    "score": 0.5,
-    "tags": [
-      "pesquisa",
-      "verificação",
-      "neurosimbólico"
-    ],
-    "img": "img/c656ed9f4e79.jpg",
-    "ts": 1787025600,
-    "addedTs": 1787034428,
-    "urlHash": "c656ed9f4e79",
-    "titleHash": "19852c6630eb"
   }
 ]
