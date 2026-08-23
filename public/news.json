@@ -1,5 +1,93 @@
 [
   {
+    "title": "Show HN: LayoutLens: AI-Powered Visual UI Testing",
+    "titlePt": "LayoutLens: testes visuais de interface com IA",
+    "url": "https://github.com/gojiplus/layoutlens",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O LayoutLens é uma ferramenta que usa inteligência artificial para fazer testes visuais de interfaces de usuário automaticamente. Em vez de conferir cada tela manualmente, o sistema compara capturas e detecta mudanças inesperadas de layout. É útil para equipes que precisam manter a consistência visual em vários navegadores e dispositivos. Ainda está em estágio inicial, então vale testar antes de colocar em produção.",
+    "reasonEn": "LayoutLens is an AI-powered tool that automates visual UI testing by comparing screenshots and flagging unexpected layout changes. It helps teams keep visual consistency across browsers and devices without manual review. Being a Show HN project, it's early-stage and worth piloting before relying on it in production. Most relevant for front-end developers and QA engineers.",
+    "score": 0.55,
+    "tags": [
+      "ferramenta",
+      "testes",
+      "ui"
+    ],
+    "img": "img/e6aa4fce491d.jpg",
+    "ts": 1787452436,
+    "addedTs": 1787453712,
+    "urlHash": "e6aa4fce491d",
+    "titleHash": "7bbf118416f1"
+  },
+  {
+    "title": "AI Chip Architectures",
+    "titlePt": "Arquiteturas de chips para IA: o que vem por aí",
+    "url": "https://www.jepeake.com/ai-chip-architectures",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A discussão no Hacker News reúne análises sobre como os chips especializados em IA estão sendo desenhados e quaistrade-offs existem entre desempenho, consumo e custo. Temas como memória no chip, largura de banda e paralelismo dominam a conversa. É conteúdo denso, voltado a quem acompanha hardware. Ajuda a entender por que alguns modelos rodam rápido em certos dispositivos e devagar em outros.",
+    "reasonEn": "This Hacker News thread gathers analysis on how AI-specialized chips are being designed and the trade-offs between performance, power and cost. Topics like on-chip memory, bandwidth, and parallelism dominate. It is dense reading aimed at hardware enthusiasts. Useful for understanding why some models run fast on certain devices and slow on others.",
+    "score": 0.55,
+    "tags": [
+      "hardware",
+      "chips",
+      "ia"
+    ],
+    "img": "img/b007265302fc.jpg",
+    "ts": 1787451910,
+    "addedTs": 1787453712,
+    "urlHash": "b007265302fc",
+    "titleHash": "b1fcc542ed03"
+  },
+  {
+    "title": "Why can AI generate Super Mario but not a wedge ramp for my robot vacuum?",
+    "titlePt": "Por que a IA consegue gerar Mario, mas não uma rampa para o robô aspirador",
+    "url": "https://news.ycombinator.com/item?id=49405520",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto explora uma limitação curiosa dos modelos generativos atuais: eles reproduzem bem padrões vistos em treinamento, mas falham em objetos comuns do dia a dia quando não há referência clara. A rampa simples para um robô aspirador é trivial para um humano, mas o modelo não consegue criá-la do zero. Isso revela que a IA ainda depende muito de memorização e não de raciocínio físico genuíno. Importante para quem usa IA em design e engenharia.",
+    "reasonEn": "The piece highlights a curious limitation of current generative models: they replicate training patterns well but struggle with ordinary everyday objects when no clear reference exists. A simple robot vacuum ramp is trivial for a human, yet the model cannot design it from scratch. This shows today's AI leans heavily on memorization rather than genuine physical reasoning. Important reading for anyone using AI in design or engineering tasks.",
+    "score": 0.6,
+    "tags": [
+      "limitações",
+      "modelos",
+      "design"
+    ],
+    "img": "img/d82b7b553d76.jpg",
+    "ts": 1787449517,
+    "addedTs": 1787453712,
+    "urlHash": "d82b7b553d76",
+    "titleHash": "a831d393f0d0"
+  },
+  {
+    "title": "Apple degrades privacy and encryption of iMessage with AI integrations",
+    "titlePt": "Apple enfraquece privacidade e criptografia do iMessage com integrações de IA",
+    "url": "https://twitter.com/stevemoraco/status/2091194172917338520",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo mostra que a Apple abriu mão de parte da criptografia ponta a ponta do iMessage para integrar recursos de inteligência artificial no app Mensagens. Isso permite que o conteúdo seja processado em servidores da empresa, enfraquecendo a promessa original de privacidade. Usuários que dependem do iMessage para conversas sensíveis podem ser afetados. É uma mudança significativa na postura da Apple sobre segurança.",
+    "reasonEn": "The article reports that Apple has weakened iMessage's end-to-end encryption to integrate AI features into the Messages app. Content may now be processed on Apple's servers, undermining the platform's original privacy promise. Users relying on iMessage for sensitive conversations are most affected. This marks a notable shift in Apple's security stance.",
+    "score": 0.8,
+    "tags": [
+      "privacidade",
+      "apple",
+      "regulação"
+    ],
+    "img": "img/3f21824caff8.jpg",
+    "ts": 1787449262,
+    "addedTs": 1787453712,
+    "urlHash": "3f21824caff8",
+    "titleHash": "74dc9f5980fb"
+  },
+  {
     "title": "Show HN: Active Source of Truth for Your Coding Agents",
     "titlePt": "Show HN: Fonte da verdade ativa para seus agentes de codificação",
     "url": "https://meetless.ai",
@@ -10771,93 +10859,5 @@
     "addedTs": 1787004909,
     "urlHash": "9b12afe04fba",
     "titleHash": "ed7b4518b035"
-  },
-  {
-    "title": "Control Charts Make AI Agents Cheaper, Less Necessary, and More Useful",
-    "titlePt": "Cartas de Controle Tornam Agentes de IA Mais Baratos e Úteis",
-    "url": "https://newoldweb.com/control-charts-make-ai-agents-less-necessary-and-more-useful",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um artigo mostra como usar cartas de controle estatístico para monitorar agentes de IA em produção. A técnica reduz custos ao evitar chamadas desnecessárias ao modelo. Também torna os agentes mais confiáveis ao detectar desvios cedo. É uma leitura útil para times que operam IA em escala.",
-    "reasonEn": "An article shows how statistical control charts can monitor AI agents in production. The technique cuts costs by avoiding unnecessary model calls. It also makes agents more reliable by catching drift early. A useful read for teams running AI at scale.",
-    "score": 0.6,
-    "tags": [
-      "agentes",
-      "operações",
-      "custos"
-    ],
-    "img": "img/ee45fca30007.jpg",
-    "ts": 1787003294,
-    "addedTs": 1787004909,
-    "urlHash": "ee45fca30007",
-    "titleHash": "4a0fd4824127"
-  },
-  {
-    "title": "Foreign psyops campaign targeting American consumer AI (2025)",
-    "titlePt": "Campanha Estrangeira de Psyops Mira IA Americana",
-    "url": "https://www.ynetnews.com/tech-and-digital/article/rj00kxqzaxx",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Pesquisadores identificaram uma campanha estrangeira de operações psicológicas direcionada a produtos de IA voltados ao consumidor nos EUA. O objetivo seria influenciar respostas e plantar narrativas em chatbots. O caso levanta alertas sobre a vulnerabilidade de modelos a manipulação externa. É relevante para quem se preocupa com desinformação e segurança digital.",
-    "reasonEn": "Researchers identified a foreign influence campaign targeting US consumer AI products. The goal is to sway answers and seed narratives inside chatbots. The case raises alarms about model vulnerability to external manipulation. Relevant for anyone worried about disinformation and digital security.",
-    "score": 0.8,
-    "tags": [
-      "segurança",
-      "desinformação",
-      "chatbots"
-    ],
-    "img": "img/b56c78b2d63e.jpg",
-    "ts": 1787003045,
-    "addedTs": 1787004909,
-    "urlHash": "b56c78b2d63e",
-    "titleHash": "1a2f1c1ac1d0"
-  },
-  {
-    "title": "EY turning internships into yearlong residencies as AI changes entry-level work",
-    "titlePt": "EY Transforma Estágios em Residências de Um Ano por Causa da IA",
-    "url": "https://www.businessinsider.com/ey-internship-residency-career-ai-skills-2026-8",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A consultoria EY vai converter estágios de verão em programas de um ano para adaptar a entrada de jovens ao mercado afetado por IA. A medida busca oferecer formação mais profunda diante da automação de tarefas juniores. Sinaliza como grandes empresas repensam o início de carreira. Pode servir de referência para outros empregadores.",
-    "reasonEn": "Consulting firm EY is turning summer internships into yearlong programs to adapt junior entry into an AI-affected job market. The move aims to give deeper training as routine tasks get automated. It signals how big employers rethink early careers. May set a precedent for other companies.",
-    "score": 0.7,
-    "tags": [
-      "carreira",
-      "trabalho",
-      "consultoria"
-    ],
-    "img": "img/11063cefa189.jpg",
-    "ts": 1787002585,
-    "addedTs": 1787004909,
-    "urlHash": "11063cefa189",
-    "titleHash": "5ec1b9d38af6"
-  },
-  {
-    "title": "AI automation startup Relay shuts down, staff joins Google&#8217;s Chrome team",
-    "titlePt": "Startup Relay Fecha e Equipe Vai para o Chrome no Google",
-    "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A Relay, startup de automação com IA, encerrou operações e seus funcionários foram absorvidos pelo Google, no time do Chrome. O movimento reflete a consolidação do setor e a forte disputa por talentos de IA. Mostra que mesmo empresas promissoras podem ser engolidas por grandes techs. Relevante para quem acompanha o mercado de automação.",
-    "reasonEn": "Relay, an AI automation startup, has shut down and its staff were absorbed by Google's Chrome team. The move reflects industry consolidation and the fierce race for AI talent. It shows even promising startups can be swallowed by big tech. Relevant for anyone tracking the automation market.",
-    "score": 0.7,
-    "tags": [
-      "startup",
-      "google",
-      "automação"
-    ],
-    "img": "img/526cd2e1f6fe.jpg",
-    "ts": 1787002025,
-    "addedTs": 1787004909,
-    "urlHash": "526cd2e1f6fe",
-    "titleHash": "cf1d7c0190c7"
   }
 ]
