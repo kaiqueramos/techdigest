@@ -1,5 +1,70 @@
 [
   {
+    "title": "Show HN: Writing-eval, local deterministic style checks for AI-written drafts",
+    "titlePt": "Writing-eval: checagens locais de estilo para textos de IA",
+    "url": "https://github.com/majesticlabs-dev/writing-eval",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma ferramenta local e determinística para detectar traços de IA em rascunhos. Roda sem precisar enviar dados para a nuvem, preservando privacidade. Pode ser integrada a fluxos de revisão para garantir qualidade. Boa opção para equipes de conteúdo preocupadas com originalidade.",
+    "reasonEn": "A local, deterministic tool to flag AI tells in drafts. It runs without sending data to the cloud, preserving privacy. Can plug into review workflows to enforce quality. A solid option for content teams worried about originality.",
+    "score": 0.5,
+    "tags": [
+      "ia",
+      "ferramenta",
+      "escrita"
+    ],
+    "img": "img/3be1728906d7.jpg",
+    "ts": 1787495476,
+    "addedTs": 1787508974,
+    "urlHash": "3be1728906d7",
+    "titleHash": "b415998363c2"
+  },
+  {
+    "title": "Terabytes of credentials leaked in massive supply-chain attack",
+    "titlePt": "Terabytes de credenciais vazam em mega ataque à cadeia de suprimentos",
+    "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+    "source": "Ars Technica",
+    "sources": [
+      "Ars Technica"
+    ],
+    "reason": "Um ataque à cadeia de suprimentos expôs terabytes de credenciais, afetando serviços. Vazamentos desse tamanho costumam alimentar credential stuffing e invasões em massa. Desenvolvedores e times de segurança precisam rotacionar segredos e revisar dependências imediatamente. É uma das maiores notícias de segurança do ciclo.",
+    "reasonEn": "A supply-chain attack exposed terabytes of credentials, hitting countless services. Leaks of this scale typically fuel credential stuffing and mass intrusions. Developers and security teams must rotate secrets and audit dependencies right now. It is one of the biggest security stories of the cycle.",
+    "score": 0.7,
+    "tags": [
+      "segurança",
+      "vazamento"
+    ],
+    "img": "img/50a8f76b8fcc.jpg",
+    "ts": 1786571001,
+    "addedTs": 1787508974,
+    "urlHash": "50a8f76b8fcc",
+    "titleHash": "bbb82acdc987"
+  },
+  {
+    "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
+    "titlePt": "Entendemos melhor como a OpenAI invadiu o Hugging Face",
+    "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+    "source": "Ars Technica",
+    "sources": [
+      "Ars Technica"
+    ],
+    "reason": "Análise técnica revela como a OpenAI acessou sistemas internos do Hugging Face, possivelmente para espionagem competitiva. Levanta questões sérias sobre confiança entre laboratórios de IA. Pode influenciar como empresas lidam com segredos de modelos e arquitetura interna. Desenvolvedores devem repensar o que compartilham em plataformas públicas de IA.",
+    "reasonEn": "Technical analysis reveals how OpenAI accessed internal Hugging Face systems, likely for competitive intelligence. It raises serious questions about trust between AI labs. Could change how firms handle model and architecture secrets. Developers should rethink what they share on public AI platforms.",
+    "score": 0.65,
+    "tags": [
+      "segurança",
+      "openai",
+      "hugging-face"
+    ],
+    "img": "img/4a4d812ef5a7.jpg",
+    "ts": 1785274599,
+    "addedTs": 1787508974,
+    "urlHash": "4a4d812ef5a7",
+    "titleHash": "bf9ebc27f19f"
+  },
+  {
     "title": "Flock camera backlash adds fuel to midterm anti-AI frenzy",
     "titlePt": "Câmeras Flock viram alvo da revolta contra a IA nas eleições",
     "url": "https://www.axios.com/2026/08/23/flock-cameras-data-centers-ai-midterms-2026-tech",
@@ -10784,71 +10849,5 @@
     "addedTs": 1787034428,
     "urlHash": "c656ed9f4e79",
     "titleHash": "19852c6630eb"
-  },
-  {
-    "title": "SKILL: Self-correcting Knowledge-guided Iterative Large Language Model Agent for Logic Optimization",
-    "titlePt": "SKILL: agente LLM iterativo que se autocorrige em otimização lógica",
-    "url": "https://arxiv.org/abs/2608.14579",
-    "source": "arXiv AI",
-    "sources": [
-      "arXiv AI"
-    ],
-    "reason": "Pesquisadores apresentam o SKILL, um agente baseado em LLM que revisa suas próprias respostas em tarefas de otimização lógica. O sistema combina conhecimento prévio com ciclos de correção iterativa. Resultados mostram ganhos em problemas complexos de síntese.",
-    "reasonEn": "Researchers present SKILL, an LLM-based agent that reviews its own responses on logic optimization tasks. The system combines prior knowledge with iterative correction cycles. Results show gains on complex synthesis problems.",
-    "score": 0.5,
-    "tags": [
-      "agente",
-      "llm",
-      "pesquisa"
-    ],
-    "img": "img/c57f745b0ff4.jpg",
-    "ts": 1787025600,
-    "addedTs": 1787034428,
-    "urlHash": "c57f745b0ff4",
-    "titleHash": "8281e36ea1f7"
-  },
-  {
-    "title": "Toward Safe LLM Agents: A Survey of Specification, Verification, and Enforcement",
-    "titlePt": "Rumo a agentes LLM seguros: pesquisa sobre especificação e verificação",
-    "url": "https://arxiv.org/abs/2608.14590",
-    "source": "arXiv AI",
-    "sources": [
-      "arXiv AI"
-    ],
-    "reason": "Uma pesquisa abrangente sobre como tornar agentes baseados em LLMs mais seguros, cobrindo especificação de comportamento, verificação formal e mecanismos de enforcement. O texto é referência para quem precisa construir sistemas autônomos confiáveis. Útil para engenheiros de segurança e produto.",
-    "reasonEn": "A comprehensive survey on how to make LLM-based agents safer, covering behavior specification, formal verification and enforcement mechanisms. The text is a reference for those needing to build reliable autonomous systems. Useful for security and product engineers.",
-    "score": 0.7,
-    "tags": [
-      "segurança",
-      "agente",
-      "pesquisa"
-    ],
-    "img": "img/76553c0aeeab.jpg",
-    "ts": 1787025600,
-    "addedTs": 1787034428,
-    "urlHash": "76553c0aeeab",
-    "titleHash": "196701cf3cae"
-  },
-  {
-    "title": "When Do LLMs Apply the Wrong Law? Diagnosing LLM Failures in Temporal Legal Reasoning",
-    "titlePt": "Quando LLMs aplicam a lei errada? Diagnóstico em raciocínio jurídico temporal",
-    "url": "https://arxiv.org/abs/2608.14610",
-    "source": "arXiv AI",
-    "sources": [
-      "arXiv AI"
-    ],
-    "reason": "O artigo investiga por que modelos de linguagem cometem erros em perguntas legais que dependem de linha do tempo, como mudanças de legislação. Os autores propõem uma taxonomia de falhas e sugerem correções de prompt. Relevante para o setor jurídico que começa a usar IA.",
-    "reasonEn": "The article investigates why language models make errors on legal questions that depend on timelines, such as legislation changes. The authors propose a failure taxonomy and suggest prompt fixes. Relevant for the legal sector starting to use AI.",
-    "score": 0.5,
-    "tags": [
-      "direito",
-      "pesquisa",
-      "llm"
-    ],
-    "img": "img/d0c4e9557cf2.jpg",
-    "ts": 1787025600,
-    "addedTs": 1787034428,
-    "urlHash": "d0c4e9557cf2",
-    "titleHash": "74ac5a8c99fc"
   }
 ]
