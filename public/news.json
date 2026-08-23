@@ -1,5 +1,71 @@
 [
   {
+    "title": "The Web-Search Latency Your Agent Pays",
+    "titlePt": "A latência da busca na web que seu agente de IA paga",
+    "url": "https://telem.ai/blog/latency-research",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo mostra como a busca na web virou um gargalo caro para agentes de IA, já que cada consulta adiciona segundos de espera e custos extras. Desenvolvedores precisam equilibrar profundidade da pesquisa contra velocidade e orçamento. A análise inclui benchmarks e dicas práticas para reduzir chamadas. É leitura obrigatória para quem monta agentes autônomos em produção.",
+    "reasonEn": "The article shows how web search became an expensive bottleneck for AI agents, since each query adds seconds of wait and extra cost. Developers must balance research depth against speed and budget. The analysis includes benchmarks and practical tips to cut calls. Required reading for anyone building autonomous agents in production.",
+    "score": 0.55,
+    "tags": [
+      "agentes",
+      "performance",
+      "desenvolvimento"
+    ],
+    "img": "img/c6927bdb3ec1.jpg",
+    "ts": 1787491154,
+    "addedTs": 1787494454,
+    "urlHash": "c6927bdb3ec1",
+    "titleHash": "20a5b31580ab"
+  },
+  {
+    "title": "Soofi S 31.6B. German Open Moe Explained",
+    "titlePt": "Soofi S 31.6B: entenda o German Open MoE",
+    "url": "https://kie.ai/blog/what-is-soofi-s-31-6b",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um novo modelo aberto de 31,6 bilhões de parâmetros, baseado na arquitetura Mixture of Experts, foi publicado com foco em usos gerais. O lançamento chamou atenção por entregar bom desempenho em benchmarks apesar do tamanho enxuto. A abertura do código atrai pesquisadores e desenvolvedores que querem rodar o modelo localmente. Pode se tornar uma alternativa mais barata a modelos fechados em tarefas de raciocínio e geração de texto.",
+    "reasonEn": "A new open 31.6B parameter model, based on the Mixture of Experts architecture, was released for general use. It drew attention for delivering strong benchmark performance despite its compact size. The open code attracts researchers and developers who want to run it locally. It could become a cheaper alternative to closed models for reasoning and text generation.",
+    "score": 0.5,
+    "tags": [
+      "modelo",
+      "open-source",
+      "moe"
+    ],
+    "img": "img/eab7bb407606.jpg",
+    "ts": 1787489879,
+    "addedTs": 1787494454,
+    "urlHash": "eab7bb407606",
+    "titleHash": "39d6d2878903"
+  },
+  {
+    "title": "Prism Reviewer – Multi-agent AI code reviewer built with LangGraph and LiteLLM",
+    "titlePt": "Prism Reviewer: revisor de código multi-agente com LangGraph e LiteLLM",
+    "url": "https://github.com/marketplace/actions/prism-reviewer-ai",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um novo projeto open source cria um revisor de código baseado em múltiplos agentes de IA, usando LangGraph para orquestração e LiteLLM para trocar entre modelos. A ideia é combinar diferentes IAs para encontrar bugs, sugerir melhorias e discutir alternativas. Ajuda times de engenharia a acelerar code reviews sem depender de um único provedor. O lançamento atraiu atenção de desenvolvedores que querem revisões mais profundas.",
+    "reasonEn": "A new open-source project creates a multi-agent AI code reviewer, using LangGraph for orchestration and LiteLLM to switch between models. The idea is combining different AIs to find bugs, suggest improvements, and discuss alternatives. It helps engineering teams speed up code reviews without depending on a single provider. The launch drew attention from developers wanting deeper reviews.",
+    "score": 0.55,
+    "tags": [
+      "agentes",
+      "code-review",
+      "open-source"
+    ],
+    "img": "img/f2606abdd409.jpg",
+    "ts": 1787487744,
+    "addedTs": 1787494454,
+    "urlHash": "f2606abdd409",
+    "titleHash": "26d0736c368a"
+  },
+  {
     "title": "Show HN: Declarative, reproducible configuration materializer for AI agents",
     "titlePt": "Configuração reproduzível para agentes de IA",
     "url": "https://github.com/tooppoo/enozunu",
@@ -10785,71 +10851,5 @@
     "addedTs": 1787027194,
     "urlHash": "c101462c30cc",
     "titleHash": "d5b307a659f1"
-  },
-  {
-    "title": "The Hallucination Snowball: Modeling Error Propagation as State Transitions in Multi-Agent LLM Pipelines",
-    "titlePt": "A bola de neve das alucinações: propagação de erro em pipelines multi-agente",
-    "url": "https://arxiv.org/abs/2608.14588",
-    "source": "arXiv AI",
-    "sources": [
-      "arXiv AI"
-    ],
-    "reason": "O artigo modela como erros e alucinações se acumulam em pipelines de múltiplos agentes LLM, tratando a propagação como transições de estado. Mostra que pequenos erros em um agente podem crescer rapidamente conforme outros agentes confiam na saída anterior. Para quem constrói sistemas multi-agente, é alerta importante. Pode mudar como você projeta validações entre etapas.",
-    "reasonEn": "The paper models how errors and hallucinations accumulate in multi-agent LLM pipelines, treating propagation as state transitions. It shows that small errors in one agent can grow quickly as other agents trust the previous output. For those building multi-agent systems, it is an important warning. It may change how you design validation between steps.",
-    "score": 0.5,
-    "tags": [
-      "alucinação",
-      "agente",
-      "arquitetura"
-    ],
-    "img": "img/8cf1c1d3c301.jpg",
-    "ts": 1787025600,
-    "addedTs": 1787027194,
-    "urlHash": "8cf1c1d3c301",
-    "titleHash": "43ec27f18685"
-  },
-  {
-    "title": "Position: Medical AI Neglects Real Treatment Outcomes",
-    "titlePt": "Posição: IA médica ignora resultados reais de tratamento",
-    "url": "https://arxiv.org/abs/2608.14598",
-    "source": "arXiv AI",
-    "sources": [
-      "arXiv AI"
-    ],
-    "reason": "O artigo argumenta que boa parte da IA médica é avaliada em métricas laboratoriais e não em desfechos clínicos reais, como melhora do paciente. Os autores cobram benchmarks que meçam impacto terapêutico de verdade. Para o setor de saúde, é um chamado para repensar como validar modelos. Para pacientes e médicos, é alerta sobre confiança depositada em IA clínica.",
-    "reasonEn": "The paper argues that much of medical AI is evaluated on lab metrics, not real clinical outcomes like patient improvement. The authors call for benchmarks that measure actual therapeutic impact. For the health sector, it is a call to rethink how models are validated. For patients and doctors, it is a warning about trust placed in clinical AI.",
-    "score": 0.5,
-    "tags": [
-      "saúde",
-      "avaliação",
-      "ética"
-    ],
-    "img": "img/0664f28b1626.jpg",
-    "ts": 1787025600,
-    "addedTs": 1787027194,
-    "urlHash": "0664f28b1626",
-    "titleHash": "ef1ab36ff3af"
-  },
-  {
-    "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
-    "titlePt": "Robô de caixinha de areia com IA confunde os gatos e acha que trocaram de corpo",
-    "url": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "O robô de limpeza de caixinha de areia da Whisker, controlado por IA, está com um bug que faz o sistema identificar cada gato como se fosse o outro, como se tivessem trocado de corpo. O erro, relatado por usuários e destacado pelo The Verge, mostra os limites do reconhecimento visual em produtos de consumo. O problema afeta diretamente quem comprou o equipamento automatizado para gatos. É um caso curioso de IA dando errado em um produto do dia a dia.",
-    "reasonEn": "Whisker's AI-powered litter box cleaning robot has a bug that makes the system identify each cat as if it were the other, as if they had swapped bodies. The glitch, reported by users and highlighted by The Verge, shows the limits of visual recognition in consumer products. The problem directly affects anyone who bought the automated cat litter equipment. It is a curious case of AI going wrong in an everyday product.",
-    "score": 0.55,
-    "tags": [
-      "ia",
-      "bug",
-      "pet-tech"
-    ],
-    "img": "img/d189a5b52ecb.jpg",
-    "ts": 1787010026,
-    "addedTs": 1787027194,
-    "urlHash": "d189a5b52ecb",
-    "titleHash": "9d3d4bf6ff18"
   }
 ]
