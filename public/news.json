@@ -1,5 +1,68 @@
 [
   {
+    "title": "Who&#8217;s behind the new ‘stealth model’ Ox Alpha?",
+    "titlePt": "Quem está por trás do misterioso modelo Ox Alpha?",
+    "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "Um novo modelo de IA apelidado de Ox Alpha apareceu em testes públicos sem identificação clara de seus criadores. O mistério gerou especulação sobre quem está treinando o modelo e quais são seus objetivos. Para desenvolvedores e pesquisadores, isso é relevante porque novos modelos anônimos podem mudar o cenário competitivo ou levantar questões de segurança. A TechCrunch investiga possíveis conexões com laboratórios conhecidos.",
+    "reasonEn": "A new AI model nicknamed Ox Alpha showed up in public benchmarks without a clear creator attached. The mystery has sparked speculation about who is training it and what its goals are. For developers and researchers this matters because anonymous new models can shift the competitive landscape or raise safety questions. TechCrunch is investigating possible links to known labs.",
+    "score": 0.82,
+    "tags": [
+      "modelo",
+      "mistério"
+    ],
+    "img": "img/1538fb9c10b7.jpg",
+    "ts": 1787515296,
+    "addedTs": 1787540158,
+    "urlHash": "1538fb9c10b7",
+    "titleHash": "57f5798b789c"
+  },
+  {
+    "title": "Oneiric, AI-generated, open source [video]",
+    "titlePt": "Oneiric: ferramenta open source para gerar vídeos com IA",
+    "url": "https://www.youtube.com/watch?v=aAg9iDh9_BQ",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um projeto open source chamado Oneiric foi compartilhado no Hacker News, focado em gerar vídeos usando inteligência artificial. Para desenvolvedores e criadores, isso oferece uma alternativa gratuita frente a ferramentas pagas como Sora ou Runway. A proposta chama atenção por ser de código aberto, permitindo auditoria e personalização. Ainda é cedo para saber a qualidade final dos vídeos produzidos.",
+    "reasonEn": "An open source project called Oneiric was shared on Hacker News, focused on generating videos with AI. For developers and creators it offers a free alternative to paid tools like Sora or Runway. The open source angle stands out, letting users audit and customize the pipeline. It is still early to judge the final quality of the produced videos.",
+    "score": 0.7,
+    "tags": [
+      "open-source",
+      "vídeo"
+    ],
+    "img": "img/28b40929d8db.jpg",
+    "ts": 1787496914,
+    "addedTs": 1787540158,
+    "urlHash": "28b40929d8db",
+    "titleHash": "fb0fc5fec9f4"
+  },
+  {
+    "title": "Product Owner Interview Questions for the Age of AI",
+    "titlePt": "Perguntas de entrevista para Product Owner na era da IA",
+    "url": "https://age-of-product.com/product-owner-interview-questions/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Hacker News publicou um tópico com perguntas de entrevista para Product Owners adaptadas ao uso crescente de IA. É útil para quem está se candidatando a vagas de gestão de produto em empresas de tecnologia. Ajuda a entender como a IA mudou as expectativas do mercado. Não é urgente, mas vale ler antes de uma entrevista.",
+    "reasonEn": "Hacker News featured a thread with Product Owner interview questions adapted to the rise of AI. It is useful for anyone applying to product management roles at tech companies. It helps frame how AI has shifted market expectations. Not urgent, but worth reading before an interview.",
+    "score": 0.55,
+    "tags": [
+      "carreira",
+      "gestão"
+    ],
+    "img": "img/4bf630c19687.jpg",
+    "ts": 1787488275,
+    "addedTs": 1787540158,
+    "urlHash": "4bf630c19687",
+    "titleHash": "20fa6b5f204f"
+  },
+  {
     "title": "Show HN: Froging AI – image and video models in one workflow",
     "titlePt": "Froging AI une modelos de imagem e vídeo em um só fluxo",
     "url": "https://www.froging.ai",
@@ -10783,71 +10846,5 @@
     "addedTs": 1787034428,
     "urlHash": "0e2f9ef09896",
     "titleHash": "ca4d166e3733"
-  },
-  {
-    "title": "Large Language Models Show Metacognitive Sensitivity in Medical Reasoning",
-    "titlePt": "Modelos de linguagem mostram sensibilidade metacognitiva em raciocínio médico",
-    "url": "https://arxiv.org/abs/2608.14552",
-    "source": "arXiv AI",
-    "sources": [
-      "arXiv AI"
-    ],
-    "reason": "O estudo testa se LLMs conseguem perceber quando não sabem a resposta em perguntas médicas complexas. Os resultados sugerem que os modelos calibram sua confiança de forma razoável, mas ainda erram em casos críticos. Importante para clínicos que usam IA como apoio à decisão.",
-    "reasonEn": "The study tests whether LLMs can perceive when they do not know the answer in complex medical questions. The results suggest that models calibrate their confidence reasonably but still fail in critical cases. Important for clinicians using AI as decision support.",
-    "score": 0.6,
-    "tags": [
-      "saúde",
-      "pesquisa",
-      "llm"
-    ],
-    "img": "img/d777f0d1d66f.jpg",
-    "ts": 1787025600,
-    "addedTs": 1787034428,
-    "urlHash": "d777f0d1d66f",
-    "titleHash": "0b1aff5ffe6d"
-  },
-  {
-    "title": "The Unwritten Benchmark: A New Challenge for Multimodal Machine Learning in Abstract Perceptual Reasoning",
-    "titlePt": "O benchmark não escrito: novo desafio de raciocínio perceptual abstrato multimodal",
-    "url": "https://arxiv.org/abs/2608.14558",
-    "source": "arXiv AI",
-    "sources": [
-      "arXiv AI"
-    ],
-    "reason": "Pesquisadores propõem um novo benchmark para avaliar a capacidade de modelos multimodais de entender padrões visuais abstratos. O objetivo é testar raciocínio além do reconhecimento de objetos comum. Pode influenciar como futuros modelos são treinados e avaliados.",
-    "reasonEn": "Researchers propose a new benchmark to evaluate multimodal models' ability to understand abstract visual patterns. The goal is to test reasoning beyond common object recognition. It may influence how future models are trained and evaluated.",
-    "score": 0.5,
-    "tags": [
-      "benchmark",
-      "multimodal",
-      "pesquisa"
-    ],
-    "img": "img/a21f779c24c7.jpg",
-    "ts": 1787025600,
-    "addedTs": 1787034428,
-    "urlHash": "a21f779c24c7",
-    "titleHash": "d73158e11844"
-  },
-  {
-    "title": "Position: Evaluations of AI Moral Reasoning Still Miss Half of the Picture",
-    "titlePt": "Avaliações de raciocínio moral de IA ainda perdem metade do quadro",
-    "url": "https://arxiv.org/abs/2608.14566",
-    "source": "arXiv AI",
-    "sources": [
-      "arXiv AI"
-    ],
-    "reason": "Um artigo de posição argumentando que os testes atuais de ética em IA cobrem apenas parte dos dilemas morais reais. Os autores pedem benchmarks mais diversos culturalmente e situações menos óbvias. Relevante para quem desenvolve ou audita sistemas de IA com impacto social.",
-    "reasonEn": "A position paper arguing that current AI ethics tests cover only part of real moral dilemmas. The authors call for more culturally diverse benchmarks and less obvious scenarios. Relevant for those developing or auditing AI systems with social impact.",
-    "score": 0.5,
-    "tags": [
-      "ética",
-      "pesquisa",
-      "avaliação"
-    ],
-    "img": "img/fe9b085c32dd.jpg",
-    "ts": 1787025600,
-    "addedTs": 1787034428,
-    "urlHash": "fe9b085c32dd",
-    "titleHash": "26fa23bb7e8b"
   }
 ]
