@@ -1,5 +1,26 @@
 [
   {
+    "title": "Ask an AI expert: What exactly is the full stack?",
+    "titlePt": "Pergunte a um especialista: o que é o full stack?",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
+    "source": "Google AI",
+    "sources": [
+      "Google AI"
+    ],
+    "reason": "A série 'Ask an AI expert' do Google traz uma explicação acessível sobre o que significa ser full stack no contexto de produtos com inteligência artificial. O conteúdo é voltado a desenvolvedores que querem entender quais habilidades integrar em projetos com IA. Ajuda iniciantes a mapear o que estudar e serve como referência rápida para profissionais experientes. É leitura curta, útil para quem tem pouco tempo.",
+    "reasonEn": "Google's 'Ask an AI expert' series offers an accessible explanation of what full stack means in the context of AI products. The content targets developers who want to understand which skills to integrate into AI projects. It helps beginners map out what to study and serves as a quick reference for experienced professionals. It is short reading, useful for those short on time.",
+    "score": 0.5,
+    "tags": [
+      "carreira",
+      "ia"
+    ],
+    "img": "img/13020592cd32.jpg",
+    "ts": 1782748800,
+    "addedTs": 1787546168,
+    "urlHash": "13020592cd32",
+    "titleHash": "19324bab72a5"
+  },
+  {
     "title": "Who&#8217;s behind the new ‘stealth model’ Ox Alpha?",
     "titlePt": "Quem está por trás do misterioso modelo Ox Alpha?",
     "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
@@ -10824,27 +10845,5 @@
     "addedTs": 1787034428,
     "urlHash": "f4ddb8c16d28",
     "titleHash": "3fc0ef848953"
-  },
-  {
-    "title": "FLOPs vs Real Work: The Importance of Replication in AI Efficiency Assessment",
-    "titlePt": "FLOPs contra trabalho real: por que replicação importa em eficiência de IA",
-    "url": "https://arxiv.org/abs/2608.14550",
-    "source": "arXiv AI",
-    "sources": [
-      "arXiv AI"
-    ],
-    "reason": "O artigo argumenta que medir eficiência de modelos de IA apenas por FLOPs esconde o trabalho computacional real necessário para reproduzir resultados. Os autores defendem métricas mais honestas que considerem todo o pipeline, incluindo pré-processamento e ajustes. Relevante para pesquisadores e engenheiros que precisam comparar modelos.",
-    "reasonEn": "The paper argues that measuring AI model efficiency only by FLOPs hides the real computational work needed to reproduce results. The authors advocate for more honest metrics that consider the entire pipeline, including preprocessing and tuning. Relevant for researchers and engineers who need to compare models.",
-    "score": 0.5,
-    "tags": [
-      "pesquisa",
-      "eficiência",
-      "benchmark"
-    ],
-    "img": "img/0e2f9ef09896.jpg",
-    "ts": 1787025600,
-    "addedTs": 1787034428,
-    "urlHash": "0e2f9ef09896",
-    "titleHash": "ca4d166e3733"
   }
 ]
