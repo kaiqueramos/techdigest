@@ -1,5 +1,49 @@
 [
   {
+    "title": "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC",
+    "titlePt": "Desenvolvimento agentivo orientado por especificações",
+    "url": "https://arxiv.org/abs/2608.20341",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "Um artigo propõe o desenvolvimento agentivo orientado por especificações para o ciclo de vida de sistemas nativos de IA. A ideia é organizar requisitos, planejamento e execução por agentes. A abordagem interessa a equipes que estão reorganizando a engenharia de software com IA, mas o título não apresenta resultados.",
+    "reasonEn": "An article proposes specification-driven agentic development for the lifecycle of AI-native systems. The idea is to organize requirements, planning, and execution through agents. This matters to teams restructuring software engineering around AI, but the title provides no results.",
+    "score": 0.54,
+    "tags": [
+      "desenvolvimento",
+      "agentes",
+      "especificações"
+    ],
+    "img": "img/869c4764a031.jpg",
+    "ts": 1787544000,
+    "addedTs": 1787553483,
+    "urlHash": "869c4764a031",
+    "titleHash": "68657a3dd46d"
+  },
+  {
+    "title": "Who Delegates to AI? Evidence from 53,000 Agent Configurations",
+    "titlePt": "Quem delega tarefas à inteligência artificial?",
+    "url": "https://arxiv.org/abs/2608.20425",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "Um estudo analisa quem delega tarefas à IA com base em 53 mil configurações de agentes. A escala pode revelar padrões de autonomia em diferentes cenários. Os resultados seriam úteis a equipes que definem quando agentes devem agir, mas o título não informa quais padrões foram encontrados.",
+    "reasonEn": "A study examines who delegates tasks to AI using evidence from 53,000 agent configurations. That scale could reveal patterns of autonomy across different settings. The findings would help teams decide when agents should act, but the title does not state which patterns were found.",
+    "score": 0.57,
+    "tags": [
+      "agentes",
+      "delegação",
+      "dados"
+    ],
+    "img": "img/44cc6624880c.jpg",
+    "ts": 1787544000,
+    "addedTs": 1787553483,
+    "urlHash": "44cc6624880c",
+    "titleHash": "98f90df51ba1"
+  },
+  {
     "title": "Ask an AI expert: What exactly is the full stack?",
     "titlePt": "Pergunte a um especialista: o que é o full stack?",
     "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
@@ -10801,49 +10845,5 @@
     "addedTs": 1787041503,
     "urlHash": "0be6913362ae",
     "titleHash": "2b4afd9fd8de"
-  },
-  {
-    "title": "Private Scribe – 100% offline Whisper AI voice dictation for Windows",
-    "titlePt": "Private Scribe: ditado por voz com Whisper totalmente offline no Windows",
-    "url": "https://omnitender.gumroad.com/l/private-scribe",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O Private Scribe é um aplicativo para Windows que usa o modelo Whisper da OpenAI para transcrever áudio localmente, sem enviar dados para a nuvem. Isso é útil para profissionais que lidam com informações sensíveis, como médicos, advogados e jornalistas. A ferramenta promete alta precisão e velocidade em hardware comum.",
-    "reasonEn": "Private Scribe is a Windows app that uses OpenAI's Whisper model to transcribe audio locally without sending data to the cloud. It is useful for professionals handling sensitive information such as doctors, lawyers and journalists. The tool promises high accuracy and speed on common hardware.",
-    "score": 0.7,
-    "tags": [
-      "whisper",
-      "privacidade",
-      "windows"
-    ],
-    "img": "img/2720ded441bc.jpg",
-    "ts": 1787033596,
-    "addedTs": 1787034428,
-    "urlHash": "2720ded441bc",
-    "titleHash": "15a03a408b21"
-  },
-  {
-    "title": "A/B testing LLMs in production",
-    "titlePt": "Como fazer testes A/B com modelos de linguagem em produção",
-    "url": "https://www.together.ai/blog/a-b-test-models-in-production",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um guia prático para desenvolvedores que querem comparar diferentes LLMs em ambiente de produção sem quebrar a experiência dos usuários. O artigo discute métricas, armadilhas comuns e estratégias de rollout gradual. Leitura essencial para equipes que dependem de modelos de IA para gerar receita ou produtividade.",
-    "reasonEn": "A practical guide for developers who want to compare different LLMs in production without breaking the user experience. The article discusses metrics, common pitfalls and gradual rollout strategies. Essential reading for teams that rely on AI models to drive revenue or productivity.",
-    "score": 0.8,
-    "tags": [
-      "llm",
-      "testes",
-      "produção"
-    ],
-    "img": "img/f4ddb8c16d28.jpg",
-    "ts": 1787030903,
-    "addedTs": 1787034428,
-    "urlHash": "f4ddb8c16d28",
-    "titleHash": "3fc0ef848953"
   }
 ]
