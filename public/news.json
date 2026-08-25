@@ -1,5 +1,177 @@
 [
   {
+    "title": "Games as the Engine of AI Research",
+    "titlePt": "Jogos como motor de pesquisa em IA",
+    "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um texto do HackerNews defende que jogos continuam sendo um dos melhores laboratórios para treinar e avaliar sistemas de inteligência artificial. A ideia é que ambientes de jogos oferecem desafios claros, medíveis e progressivamente mais difíceis, ideais para testar novos algoritmos. Para pesquisadores e curiosos, isso ajuda a entender por que grandes laboratórios ainda investem em jogos. Não é uma notícia urgente, mas é uma boa reflexão sobre o futuro da pesquisa em IA.",
+    "reasonEn": "A HackerNews post argues that games remain one of the best laboratories for training and evaluating AI systems. The idea is that games offer clear, measurable, and progressively harder challenges that are ideal for testing new algorithms. For researchers and curious readers, it helps explain why big labs still invest in games. It is not urgent news, but a good reflection on the future of AI research.",
+    "score": 0.5,
+    "tags": [
+      "pesquisa",
+      "jogos"
+    ],
+    "img": "img/835a331a5b20.jpg",
+    "ts": 1787645764,
+    "addedTs": 1787646692,
+    "urlHash": "835a331a5b20",
+    "titleHash": "ec1e90390074"
+  },
+  {
+    "title": "Dutch lawyer fined €2,300 for using AI-hallucinated citation",
+    "titlePt": "Advogado holandês é multado por citação inventada por IA",
+    "url": "https://nltimes.nl/2026/08/24/dutch-lawyer-fined-eu2300-using-ai-hallucinated-citation",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um advogado nos Países Baixos foi multado em 2.300 depois de apresentar ao tribunal uma citação jurídica falsa, totalmente inventada por um chatbot de inteligência artificial. O caso mostra que ferramentas de IA ainda produzem informações erradas com aparência muito convincente. Serve de alerta para outros profissionais que usam IA no trabalho sem revisar o resultado. Indica que tribunais estão cada vez mais dispostos a punir o uso descuidado da tecnologia.",
+    "reasonEn": "A lawyer in the Netherlands was fined 2,300 after submitting to court a fake legal citation entirely invented by an AI chatbot. The case shows that AI tools still produce confidently worded but completely wrong information. It is a warning to other professionals who use AI at work without reviewing the output. It signals that courts are increasingly willing to punish careless use of the technology.",
+    "score": 0.85,
+    "tags": [
+      "regulação",
+      "ia",
+      "direito"
+    ],
+    "img": "img/2c65799cfcac.jpg",
+    "ts": 1787644538,
+    "addedTs": 1787646692,
+    "urlHash": "2c65799cfcac",
+    "titleHash": "9f2fa6b72cd2"
+  },
+  {
+    "title": "Do You Still Need to Read AI Code?",
+    "titlePt": "Você ainda precisa ler código gerado por IA?",
+    "url": "https://adamtornhill.substack.com/p/controlling-the-uncertainty-machine",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma discussão no HackerNews debate se ainda vale a pena revisar linha por linha o código escrito por assistentes de IA, dado o volume cada vez maior de código gerado. A questão é central para times de desenvolvimento, que precisam equilibrar velocidade e qualidade. Mostra que a revisão humana continua indispensável, mesmo com modelos mais avançados. Para desenvolvedores, é uma leitura recomendada.",
+    "reasonEn": "A HackerNews thread debates whether it is still worth reviewing AI-generated code line by line, given the growing volume of code produced. The question is central for development teams balancing speed and quality. It shows that human review remains essential even with more advanced models. For developers, it is a recommended read.",
+    "score": 0.7,
+    "tags": [
+      "desenvolvimento",
+      "código"
+    ],
+    "img": "img/4993adc7c135.jpg",
+    "ts": 1787643031,
+    "addedTs": 1787646692,
+    "urlHash": "4993adc7c135",
+    "titleHash": "eff76155621f"
+  },
+  {
+    "title": "DeepSeek V4 Flash Vision Intelligence, Performance and Price Analysis",
+    "titlePt": "DeepSeek V4 Flash: análise de visão, desempenho e preço",
+    "url": "https://artificialanalysis.ai/models/deepseek-v4-flash-vision",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A DeepSeek apresentou o V4 Flash, um novo modelo focado em visão computacional que promete bom equilíbrio entre capacidade e custo. A análise discute como ele se compara a rivais em tarefas multimodais. Para desenvolvedores e empresas, surge mais uma opção acessível no mercado de IA. É uma notícia relevante para quem escolhe modelos com base em custo e desempenho.",
+    "reasonEn": "DeepSeek introduced V4 Flash, a new vision-focused model that promises a good balance between capability and cost. The analysis discusses how it compares to rivals on multimodal tasks. For developers and companies, it adds another affordable option in the AI market. Relevant news for anyone choosing models based on cost and performance.",
+    "score": 0.85,
+    "tags": [
+      "modelo",
+      "lançamento",
+      "visão"
+    ],
+    "img": "img/2ccc8471d363.jpg",
+    "ts": 1787642223,
+    "addedTs": 1787646692,
+    "urlHash": "2ccc8471d363",
+    "titleHash": "e6d6c1757863"
+  },
+  {
+    "title": "I found an SSRF in Google's official AI tooling, and how Google reacted",
+    "titlePt": "Vulnerabilidade SSRF encontrada em ferramenta oficial de IA do Google",
+    "url": "https://news.ycombinator.com/item?id=49429926",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um pesquisador de segurança descobriu uma falha do tipo SSRF em uma ferramenta oficial de inteligência artificial do Google, que poderia permitir acesso indevido a sistemas internos. O Google foi avisado e corrigiu o problema após a divulgação. O caso mostra que até produtos grandes de empresas conhecidas podem ter brechas sérias. Para desenvolvedores que usam APIs de IA, é um lembrete importante para acompanhar avisos de segurança.",
+    "reasonEn": "A security researcher found an SSRF vulnerability in an official Google AI tool that could allow unauthorized access to internal systems. Google was notified and fixed the issue after disclosure. The case shows that even large products from well-known companies can have serious flaws. For developers using AI APIs, it is an important reminder to follow security advisories.",
+    "score": 0.8,
+    "tags": [
+      "segurança",
+      "google"
+    ],
+    "img": "img/a8d2a0941a0f.jpg",
+    "ts": 1787640377,
+    "addedTs": 1787646692,
+    "urlHash": "a8d2a0941a0f",
+    "titleHash": "1cf842e9a339"
+  },
+  {
+    "title": "All AI Data Centers Under Construction Could Emit as Much CO₂ as 24M Cars",
+    "titlePt": "Data centers de IA em construção podem emitir CO de 24 milhões de carros",
+    "url": "https://www.gadgetreview.com/all-ai-data-centers-under-construction-could-emit-as-much-co%e2%82%82-as-24-million-cars",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um estudo estima que todos os data centers de inteligência artificial atualmente em construção podem emitir, juntos, tanto CO quanto cerca de 24 milhões de carros. O número expõe o impacto ambiental crescente da infraestrutura de IA. Para empresas de tecnologia e usuários finais, levanta dúvidas sobre sustentabilidade e o custo real da tecnologia. É uma notícia importante para entender os trade-offs do crescimento da IA.",
+    "reasonEn": "A study estimates that all AI data centers currently under construction could together emit as much CO as around 24 million cars. The figure exposes the growing environmental impact of AI infrastructure. For tech companies and end users, it raises questions about sustainability and the real cost of the technology. Important news for understanding the trade-offs of AI growth.",
+    "score": 0.75,
+    "tags": [
+      "meio ambiente",
+      "infraestrutura"
+    ],
+    "img": "img/febf15d3760a.jpg",
+    "ts": 1787640183,
+    "addedTs": 1787646692,
+    "urlHash": "febf15d3760a",
+    "titleHash": "f8a13f63fd76"
+  },
+  {
+    "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+    "titlePt": "Como montar e publicar fluxos de IA com Gradio",
+    "url": "https://huggingface.co/blog/gradio-workflow-guide",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "A publicação mostra como criar, rodar e colocar em produção fluxos completos de IA usando o Gradio, da prototipagem à implantação. O conteúdo é prático, com exemplos e dicas para desenvolvedores que querem expor modelos rapidamente. É útil especialmente para quem trabalha com HuggingFace e modelos abertos. Não é notícia de grande repercussão, mas acelera o trabalho de muitos times pequenos.",
+    "reasonEn": "The post shows how to build, run and deploy complete AI workflows using Gradio, from prototyping to deployment. The content is hands-on, with examples and tips for developers who want to expose models quickly. It is especially useful for those working with HuggingFace and open models. Not headline news, but it speeds up the work of many small teams.",
+    "score": 0.5,
+    "tags": [
+      "gradio",
+      "deploy",
+      "tutorial"
+    ],
+    "img": "img/9b54a38fa1b1.jpg",
+    "ts": 1787616000,
+    "addedTs": 1787646692,
+    "urlHash": "9b54a38fa1b1",
+    "titleHash": "8566a8a44644"
+  },
+  {
+    "title": "How NVIDIA scales expertise with ChatGPT Work",
+    "titlePt": "Como a NVIDIA escala conhecimento interno com o ChatGPT Work",
+    "url": "https://openai.com/index/nvidia/chatgpt-work",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "A NVIDIA está usando o ChatGPT Work, versão empresarial do ChatGPT, para capturar e distribuir conhecimento técnico entre seus funcionários. A ideia é transformar a experiência de engenheiros em uma base consultável por IA. O caso interessa a empresas que pensam em adotar assistentes de IA internos. Mostra um exemplo concreto de ROI e produtividade com IA corporativa.",
+    "reasonEn": "NVIDIA is using ChatGPT Work, the enterprise version of ChatGPT, to capture and distribute technical knowledge across its employees. The idea is to turn engineers' expertise into an AI-queryable knowledge base. The case matters for companies considering internal AI assistants. It offers a concrete example of ROI and productivity with corporate AI.",
+    "score": 0.6,
+    "tags": [
+      "nvidia",
+      "chatgpt",
+      "empresa"
+    ],
+    "img": "img/baf07daff59f.jpg",
+    "ts": 1787011200,
+    "addedTs": 1787646692,
+    "urlHash": "baf07daff59f",
+    "titleHash": "232a1e3cc2cf"
+  },
+  {
     "title": "'Don't ask me to print your ChatGPT birthday card': Hitting back at AI 'slop'",
     "titlePt": "Não me peça para imprimir seu cartão de aniversário do ChatGPT: a revolta contra o 'lixo' de IA",
     "url": "https://www.bbc.co.uk/news/articles/cq89jpjeq7ko",
@@ -10686,181 +10858,5 @@
     "addedTs": 1787120869,
     "urlHash": "2987e3b3c79a",
     "titleHash": "15e21a08b330"
-  },
-  {
-    "title": "SecIT Bench A frontier benchmark for AI agents in IT and security workflows",
-    "titlePt": "SecIT Bench: novo benchmark para agentes de IA em segurança",
-    "url": "https://secitbench.cribl.io/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um novo benchmark chamado SecIT Bench foi criado para avaliar agentes de IA em fluxos de trabalho de TI e segurança. É relevante para equipes que desenvolvem ou implantam agentes autônomos em ambientes sensíveis. Ajuda a comparar o desempenho real de diferentes modelos em tarefas de segurança. Pode virar referência para quem compra ou constrói ferramentas de IA corporativa.",
-    "reasonEn": "A new benchmark called SecIT Bench has been created to evaluate AI agents in IT and security workflows. It is relevant for teams building or deploying autonomous agents in sensitive environments. It helps compare real performance of different models on security tasks. It may become a reference for those buying or building enterprise AI tools.",
-    "score": 0.5,
-    "tags": [
-      "benchmark",
-      "segurança",
-      "agentes"
-    ],
-    "img": "img/b368a455a97d.jpg",
-    "ts": 1787099282,
-    "addedTs": 1787100120,
-    "urlHash": "b368a455a97d",
-    "titleHash": "d0da114a3566"
-  },
-  {
-    "title": "OpenAI's overhead will rise 20 percent for some workloads as it hardens security",
-    "titlePt": "OpenAI aumenta custos em 20% ao reforçar segurança",
-    "url": "https://www.theregister.com/ai-and-ml/2026/08/19/openais-overhead-will-rise-20-percent-for-some-workloads-as-it-hardens-security/5289303",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A OpenAI comunicou que o custo de alguns workloads vai subir cerca de 20% por causa de novas medidas de segurança. Isso impacta diretamente empresas e desenvolvedores que dependem da API, que terão que repassar ou absorver o aumento. Faz parte do mesmo pacote de mudanças divulgado após o incidente com o Hugging Face. É relevante para quem planeja orçamento de IA em 2026.",
-    "reasonEn": "OpenAI has announced that some workloads will rise about 20 percent in cost due to new security hardening. This directly impacts companies and developers relying on the API, who will have to pass on or absorb the increase. It is part of the same security package announced after the Hugging Face incident. It matters for anyone planning AI budgets in 2026.",
-    "score": 0.55,
-    "tags": [
-      "openai",
-      "segurança",
-      "custos"
-    ],
-    "img": "img/261870febc48.jpg",
-    "ts": 1787098498,
-    "addedTs": 1787100120,
-    "urlHash": "261870febc48",
-    "titleHash": "4738005e1edd"
-  },
-  {
-    "title": "How to tame AI's voracious appetite for energy",
-    "titlePt": "Como domar o apetite voraz de energia da IA",
-    "url": "https://knowablemagazine.org/content/article/technology/2026/lowering-energy-use-artificial-intelligence-datacenters",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo discute os crescentes custos energéticos de treinar e rodar modelos de IA, que já pressionam redes elétricas em várias regiões. Cobre possíveis soluções, como data centers mais eficientes, modelos menores e uso de energia renovável. É leitura obrigatória para entender o impacto ambiental e econômico da IA. Afeta desde grandes hyperscalers até consumidores finais via tarifas.",
-    "reasonEn": "The article discusses the growing energy costs of training and running AI models, already straining power grids in several regions. It covers possible solutions such as more efficient data centers, smaller models and renewable energy use. It is required reading to understand AI's environmental and economic footprint. It affects everyone from hyperscalers to end users via utility bills.",
-    "score": 0.65,
-    "tags": [
-      "energia",
-      "infraestrutura",
-      "sustentabilidade"
-    ],
-    "img": "img/222f720d879e.jpg",
-    "ts": 1787098474,
-    "addedTs": 1787100120,
-    "urlHash": "222f720d879e",
-    "titleHash": "93e3251d6a2e"
-  },
-  {
-    "title": "Cerebras CS-4 rack systems juice chips for every last drop of AI performance",
-    "titlePt": "Cerebras CS-4 espreme cada gota de performance em IA",
-    "url": "https://www.theregister.com/systems/2026/08/19/cerebras-cs-4-rack-systems-juice-chips-for-every-last-drop-of-ai-performance/5289286",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Cerebras apresentou os novos sistemas de rack CS-4, que otimizam chips para entregar mais poder computacional por unidade de espaço e energia. O foco é maximizar throughput em cargas de IA, mirando concorrentes como NVIDIA. Interessa a equipes de infraestrutura e CTOs que comparam hardware para treinamento e inferência em larga escala.",
-    "reasonEn": "Cerebras has unveiled its new CS-4 rack systems, optimized to squeeze more compute per unit of space and energy. The focus is maximum throughput for AI workloads, targeting competitors like NVIDIA. It matters for infrastructure teams and CTOs comparing hardware for large-scale training and inference.",
-    "score": 0.5,
-    "tags": [
-      "hardware",
-      "cerebras",
-      "chips"
-    ],
-    "img": "img/335ee875e53c.jpg",
-    "ts": 1787098465,
-    "addedTs": 1787100120,
-    "urlHash": "335ee875e53c",
-    "titleHash": "aca4b24a020b"
-  },
-  {
-    "title": "Unitree Robotics IPO: \"Embodied AI\" Valuation Bubble?",
-    "titlePt": "IPO da Unitree Robotics: bolha de IA incorporada?",
-    "url": "https://www.cnn.com/2026/08/18/tech/china-unitree-ipo-intl-hnk",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Unitree Robotics, conhecida por seus robôs quadrúpedes, abriu capital e o mercado já discute se a reflete uma bolha de embodied AI. O caso é termômetro para o setor de robótica humanoide e para investidores de hardware de IA. Pode influenciar próximos IPOs do segmento. Vale acompanhar tanto para quem investe quanto para quem trabalha com robótica.",
-    "reasonEn": "Unitree Robotics, known for its quadruped robots, has gone public and the market is already debating whether the valuation reflects an embodied AI bubble. The case is a thermometer for the humanoid robotics sector and for AI hardware investors. It may influence upcoming IPOs in the segment. Worth following for investors and robotics professionals alike.",
-    "score": 0.55,
-    "tags": [
-      "robótica",
-      "ipo",
-      "investimento"
-    ],
-    "img": "img/31925967a839.jpg",
-    "ts": 1787095109,
-    "addedTs": 1787100120,
-    "urlHash": "31925967a839",
-    "titleHash": "662356b1da6e"
-  },
-  {
-    "title": "My AI Agents Ship Code While I Sleep. Nobody Reviews It",
-    "titlePt": "Agentes de IA enviam código enquanto você dorme",
-    "url": "https://goatsquadstudios.com/blog/how-i-work-with-ai-agents-autonomously",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O texto descreve um cenário cada vez mais comum: agentes de IA que programam e fazem deploy de código sem revisão humana. Traz alertas sobre qualidade, segurança e responsabilidade técnica. É leitura recomendada para engenheiros e líderes de engenharia pensando em fluxos agentic. Pode indicar o fim da revisão manual de PRs em algumas equipes.",
-    "reasonEn": "The piece describes an increasingly common scenario: AI agents that write and deploy code without human review. It raises warnings about quality, security and engineering accountability. Recommended reading for engineers and engineering leaders thinking about agentic workflows. It may signal the end of manual PR review in some teams.",
-    "score": 0.5,
-    "tags": [
-      "agentes",
-      "engenharia",
-      "devops"
-    ],
-    "img": "img/820084209f5e.jpg",
-    "ts": 1787094379,
-    "addedTs": 1787100120,
-    "urlHash": "820084209f5e",
-    "titleHash": "dfccb5459bab"
-  },
-  {
-    "title": "AI-drafted bills are swamping the House office that writes US laws",
-    "titlePt": "Projetos de lei escritos por IA inundam escritório da Câmara dos EUA",
-    "url": "https://gizmodo.com/its-absolutely-terrifying-ai-is-reportedly-slopping-up-the-bills-in-congress-2000799734",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Reportagem mostra que projetos de lei gerados por IA estão sobrecarregando o escritório legislativo da Câmara dos Representantes dos EUA. O volume já atrapalha o trabalho humano de redação e revisão de leis. É um sinal claro de como a IA generativa está impactando instituições democráticas. Afeta diretamente a qualidade das leis e a transparência do processo legislativo americano.",
-    "reasonEn": "The report shows that AI-drafted bills are overwhelming the US House of Representatives legislative drafting office. The volume is already hampering human work on writing and reviewing laws. It is a clear sign of how generative AI is impacting democratic institutions. It directly affects the quality of laws and the transparency of the American legislative process.",
-    "score": 0.7,
-    "tags": [
-      "regulação",
-      "legislação",
-      "ia"
-    ],
-    "img": "img/f8142d365422.jpg",
-    "ts": 1787094105,
-    "addedTs": 1787100120,
-    "urlHash": "f8142d365422",
-    "titleHash": "44ce9a8ca92a"
-  },
-  {
-    "title": "OpenAI's Second-Quarter Sales Show Tepid Growth Compared with Anthropic",
-    "titlePt": "Vendas da OpenAI no 2º trimestre crescem menos que as da Anthropic",
-    "url": "https://www.wsj.com/tech/ai/openais-second-quarter-sales-show-tepid-growth-compared-with-anthropic-5cb42998",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Dados do segundo trimestre mostram crescimento mais fraco da OpenAI frente à Anthropic, que continua acelerando. Indica que a corrida entre as duas deixou de ser disparada da OpenAI e está mais disputada. Importa para investidores, clientes corporativos e desenvolvedores que escolhem fornecedor de modelo. Pode pressionar preços e estratégia de produto da OpenAI.",
-    "reasonEn": "Second-quarter data show weaker growth at OpenAI versus the still-accelerating Anthropic. It suggests the race between the two is no longer an OpenAI runaway and is much more contested. It matters for investors, enterprise customers and developers choosing a model provider. It may pressure OpenAI pricing and product strategy.",
-    "score": 0.65,
-    "tags": [
-      "openai",
-      "anthropic",
-      "negócios"
-    ],
-    "img": "img/8fc6814ac871.jpg",
-    "ts": 1787093143,
-    "addedTs": 1787100120,
-    "urlHash": "8fc6814ac871",
-    "titleHash": "2b7a83dc2d46"
   }
 ]
