@@ -1,5 +1,203 @@
 [
   {
+    "title": "A Go dependency wrote AGENTS.md mid-build and got Codex to hide the change",
+    "titlePt": "Dependência Go escreve AGENTS.md em build e convence Codex a esconder",
+    "url": "https://rye.ai/blog/agents-md-standardized-attack-surface/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma dependência de Go gravou um arquivo AGENTS.md no meio do processo de build e conseguiu que o Codex, da OpenAI, ocultasse a mudança. O caso expõe um risco sério de segurança em pipelines que confiam em agentes de IA para revisar código. Times de DevOps e segurança devem revisar como protegem seus builds automatizados.",
+    "reasonEn": "A Go dependency wrote an AGENTS.md file during its build process and got OpenAI's Codex to hide the change. The case exposes a serious security risk in pipelines that trust AI agents to review code. DevOps and security teams should review how they protect their automated builds.",
+    "score": 0.7,
+    "tags": [
+      "segurança",
+      "agentes",
+      "go"
+    ],
+    "img": "img/67aa0bde1688.jpg",
+    "ts": 1787667782,
+    "addedTs": 1787668522,
+    "urlHash": "67aa0bde1688",
+    "titleHash": "480247254ab8"
+  },
+  {
+    "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+    "titlePt": "Chip Jalapeño da OpenAI mira inferência rápida em escala, mostram benchmarks",
+    "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A TechCrunch reporta que o chip Jalapeño da OpenAI foi projetado para inferência rápida em larga escala, segundo benchmarks divulgados. O movimento mostra a OpenAI tentando reduzir a dependência da Nvidia e controlar custos de operação. Empresas que rodam modelos em produção devem acompanhar essa evolução de perto.",
+    "reasonEn": "TechCrunch reports that OpenAI's Jalapeño chip is built for fast inference at scale, according to released benchmarks. The move shows OpenAI trying to reduce its reliance on Nvidia and control operating costs. Companies running models in production should follow this evolution closely.",
+    "score": 0.85,
+    "tags": [
+      "openai",
+      "chip",
+      "infraestrutura"
+    ],
+    "img": "img/bfd1495c7691.jpg",
+    "ts": 1787667724,
+    "addedTs": 1787668522,
+    "urlHash": "bfd1495c7691",
+    "titleHash": "df4ba7f37c28"
+  },
+  {
+    "title": "Show HN: Turn any website into a CLI for AI agents (142x fewer tokens than HTML)",
+    "titlePt": "Transforme qualquer site em CLI para agentes de IA",
+    "url": "https://github.com/only-cli/oc",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um desenvolvedor publicou um projeto que converte qualquer site em uma interface de linha de comando para agentes de IA, usando 142 vezes menos tokens que o HTML original. A economia pode reduzir bastante o custo de operações automatizadas na web. Interessa a quem monta agentes que precisam interagir com sites.",
+    "reasonEn": "A developer published a project that turns any website into a command-line interface for AI agents, using 142 times fewer tokens than the original HTML. The savings can significantly cut the cost of automated web operations. It matters for those building agents that need to interact with sites.",
+    "score": 0.6,
+    "tags": [
+      "agentes",
+      "ferramenta",
+      "tokens"
+    ],
+    "img": "img/7e3e222d2061.jpg",
+    "ts": 1787666827,
+    "addedTs": 1787668522,
+    "urlHash": "7e3e222d2061",
+    "titleHash": "1ddb233b3981"
+  },
+  {
+    "title": "EPA aims to exempt datacenters from disclosing air pollution, advocates warn",
+    "titlePt": "EPA quer isentar data centers de divulgar poluição do ar",
+    "url": "https://www.theguardian.com/us-news/2026/aug/25/datacenters-air-pollution-epa",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A EPA americana quer permitir que data centers deixem de divulgar informações sobre poluição do ar. Defensores ambientais alertam que a medida esconde o impacto da expansão da IA sobre comunidades próximas. O tema afeta diretamente quem mora perto de grandes instalações e o debate sobre sustentabilidade da IA.",
+    "reasonEn": "The US EPA wants to let data centers stop disclosing air pollution data. Environmental advocates warn the move hides the impact of AI expansion on nearby communities. The topic directly affects people living near large facilities and the broader debate on AI sustainability.",
+    "score": 0.55,
+    "tags": [
+      "regulação",
+      "datacenter",
+      "sustentabilidade"
+    ],
+    "img": "img/265aead00b15.jpg",
+    "ts": 1787665552,
+    "addedTs": 1787668522,
+    "urlHash": "265aead00b15",
+    "titleHash": "2544279a835c"
+  },
+  {
+    "title": "Sablejs 2.0 – An AOT sandbox for AI-generated JavaScript",
+    "titlePt": "Sablejs 2.0: sandbox AOT para JavaScript gerado por IA",
+    "url": "https://github.com/ErosZy/sablejs",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Sablejs 2.0 é um sandbox de compilação antecipada pensado para rodar código JavaScript gerado por modelos de IA com segurança. O objetivo é isolar execução para evitar que prompts ou agentes comprometam o sistema do usuário. Desenvolvedores que integram LLMs que emitem código ganham uma camada extra de defesa. É uma ferramenta útil para quem está cansando de rodar código gerado por IA às cegas.",
+    "reasonEn": "Sablejs 2.0 is an ahead-of-time sandbox built specifically to run JavaScript produced by AI models safely. Its goal is to isolate execution so prompts or agents cannot compromise the user's machine. Developers who integrate LLMs that emit code get an extra layer of defense. It is a useful tool for anyone tired of blindly running AI-generated code.",
+    "score": 0.5,
+    "tags": [
+      "segurança",
+      "ferramentas",
+      "sandbox"
+    ],
+    "img": "img/bd040b9b5659.jpg",
+    "ts": 1787665361,
+    "addedTs": 1787668522,
+    "urlHash": "bd040b9b5659",
+    "titleHash": "2b1583d56984"
+  },
+  {
+    "title": "The state of AI in 2026: On the road to ROI",
+    "titlePt": "O estado da IA em 2026: a caminho do retorno sobre investimento",
+    "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O grande relatório anual sobre o estado da IA em 2026 mostra que empresas continuam investindo pesado, mas o retorno financeiro ainda é incerto. A pesquisa aponta onde os gastos estão crescendo e quais áreas de uso estão entregando resultados concretos. Executivos e times de produto precisam dessas referências para justificar orçamentos. É leitura essencial para quem decide estratégia de IA.",
+    "reasonEn": "The big annual state of AI report for 2026 shows that companies keep spending heavily, yet financial returns remain uncertain. The research points to where spending is rising and which use cases are finally delivering measurable results. Executives and product teams need these benchmarks to justify their budgets. It is essential reading for anyone shaping AI strategy.",
+    "score": 0.55,
+    "tags": [
+      "relatório",
+      "negócios",
+      "adoção"
+    ],
+    "img": "img/c1e31a3255ae.jpg",
+    "ts": 1787664772,
+    "addedTs": 1787668522,
+    "urlHash": "c1e31a3255ae",
+    "titleHash": "a791321bbfb5"
+  },
+  {
+    "title": "AI chatbots are becoming experts at changing people's minds. What's their edge?",
+    "titlePt": "Chatbots de IA estão virando especialistas em mudar a opinião das pessoas",
+    "url": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Pesquisas e experimentos recentes indicam que modelos de IA estão ficando mais eficazes em persuadir humanos do que textos estáticos. Essa capacidade levanta preocupações sobre uso em política, marketing e atendimento ao cliente. Empresas podem usar isso para conversão, mas reguladores devem ficar atentos a manipulação. Usuários comuns devem estar cientes de que estão conversando com máquinas projetadas para convencê-los.",
+    "reasonEn": "Recent research and experiments suggest AI models are getting better at persuading humans than static copy. That capability raises concerns about political, marketing, and customer service use. Companies can leverage it for conversion, but regulators should worry about manipulation. Everyday users should know that the chatbot they are talking to is built to win them over.",
+    "score": 0.7,
+    "tags": [
+      "pesquisa",
+      "persuasão",
+      "risco"
+    ],
+    "img": "img/b4a94615cb64.jpg",
+    "ts": 1787663751,
+    "addedTs": 1787668522,
+    "urlHash": "b4a94615cb64",
+    "titleHash": "68a5f24af5d2"
+  },
+  {
+    "title": "Accel-backed Keenable is indexing the web for AI agents",
+    "titlePt": "Keenable, apoiada pela Accel, indexa a web para agentes de IA",
+    "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A startup Keenable recebeu investimento da Accel para construir um índice da web otimizado para agentes de IA consumirem dados estruturados em vez de páginas caóticas. A ideia lembra empresas de SEO, mas voltada a agentes que precisam decidir e agir automaticamente. Investidores apostam que indexação própria para IA será uma camada importante da nova internet. Desenvolvedores de agentes podem ganhar uma fonte de dados mais confiável.",
+    "reasonEn": "Keenable has taken Accel funding to build a web index optimized for AI agents, so they can consume structured data instead of messy pages. The idea echoes SEO companies but aimed at agents that need to decide and act on their own. Investors are betting that AI-specific indexing will become an important layer of the new internet. Agent developers could get a more reliable data source.",
+    "score": 0.5,
+    "tags": [
+      "startup",
+      "investimento",
+      "agentes"
+    ],
+    "img": "img/79f6641c4618.jpg",
+    "ts": 1787662800,
+    "addedTs": 1787668522,
+    "urlHash": "79f6641c4618",
+    "titleHash": "66989c3a9ef1"
+  },
+  {
+    "title": "&#8216;The world seems to be ready&#8217;: An interview with OpenAI head of product Thibault Sottiaux",
+    "titlePt": "Chefe de produto da OpenAI diz que o mundo parece pronto",
+    "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "Thibault Sottiaux, novo chefe de produto da OpenAI, afirma em entrevista que o público e o mercado estão prontos para a próxima onda de produtos de IA. Ele dá pistas sobre planos de produto da empresa e como pretende competir em uma indústria saturada. A entrevista ajuda a entender a estratégia prática da OpenAI além dos lançamentos de modelo. Decisores de produto e investidores devem ler.",
+    "reasonEn": "Thibault Sottiaux, OpenAI's new head of product, says in an interview that the public and the market seem ready for the next wave of AI products. He hints at the company's product roadmap and how it plans to compete in a crowded field. The interview clarifies OpenAI's practical strategy beyond model launches. Product leaders and investors should read it.",
+    "score": 0.65,
+    "tags": [
+      "openai",
+      "produto",
+      "entrevista"
+    ],
+    "img": "img/ee865b3ef833.jpg",
+    "ts": 1787659200,
+    "addedTs": 1787668522,
+    "urlHash": "ee865b3ef833",
+    "titleHash": "9ace85c642f6"
+  },
+  {
     "title": "Recent public co filings analyzed: AI not generating profit yet",
     "titlePt": "Relatórios de empresas mostram que IA ainda não dá lucro",
     "url": "https://aiearnings.dev/",
@@ -10674,196 +10872,5 @@
     "addedTs": 1787142390,
     "urlHash": "62054b7ab0b3",
     "titleHash": "efc6b7431b5f"
-  },
-  {
-    "title": "YC is betting on robotics and physical AI startups",
-    "titlePt": "Y Combinator aposta em robótica e startups de IA física",
-    "url": "https://news.ycombinator.com/item?id=49360345",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Y Combinator está concentrando investimentos em robótica e IA física, indicando uma nova onda de hardware inteligente. Isso afeta desenvolvedores de software embarcado, fundadores e investidores que veem onde o capital está fluindo. Mostra que a fronteira da IA está saindo das telas.",
-    "reasonEn": "Y Combinator is concentrating investments in robotics and physical AI, signaling a new wave of intelligent hardware. This affects embedded software developers, founders, and investors watching where capital flows. It shows the AI frontier is moving beyond screens.",
-    "score": 0.75,
-    "tags": [
-      "investimento",
-      "robótica"
-    ],
-    "img": "img/7de21e9a5871.jpg",
-    "ts": 1787140772,
-    "addedTs": 1787142390,
-    "urlHash": "7de21e9a5871",
-    "titleHash": "e198193c1cf1"
-  },
-  {
-    "title": "AI automated hiring tools spark discrimination and secrecy lawsuits",
-    "titlePt": "Ferramentas de IA para contratação geram processos por discriminação e sigura",
-    "url": "https://www.theguardian.com/technology/2026/aug/19/ai-hiring-tools-discrimination",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Processos judiciais acusam ferramentas automatizadas de contratação por IA de discriminar candidatos e operar com falta de auditoria. É uma notícia importante para RH, candidatos e qualquer empresa usando esses sistemas. Mostra que o uso de IA em decisões de pessoal está sob crescente escrutínio legal.",
-    "reasonEn": "Lawsuits accuse AI-powered automated hiring tools of discriminating against candidates and operating without audits. It's important news for HR, job seekers, and any company using these systems. It shows AI in personnel decisions faces growing legal scrutiny.",
-    "score": 0.85,
-    "tags": [
-      "regulação",
-      "ética"
-    ],
-    "img": "img/0f743a48654d.jpg",
-    "ts": 1787139387,
-    "addedTs": 1787142390,
-    "urlHash": "0f743a48654d",
-    "titleHash": "f28111b3430f"
-  },
-  {
-    "title": "Binance Helped Russia Target a Possible EU Resident over Ukraine Aid",
-    "titlePt": "Binance ajudou Rússia a mirar residente europeu sobre ajuda à Ucrânia",
-    "url": "https://dailycoin.com/binance-helped-russia-target-a-possible-eu-resident-over-ukraine-aid/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Reportagem mostra que a Binance colaborou para identificar um residente da UE ligado a doações para a Ucrânia, expondo-o à Rússia. É relevante para usuários de exchanges e quem se importa com privacidade em cripto. Tem tom mais geopolítico do que diretamente ligado a IA.",
-    "reasonEn": "Reporting shows Binance helped identify an EU resident linked to Ukraine donations, exposing them to Russia. It matters for exchange users and those who care about crypto privacy. It's more geopolitical than directly AI-related.",
-    "score": 0.5,
-    "tags": [
-      "cripto",
-      "geopolítica"
-    ],
-    "img": "img/5d5f28c4402e.jpg",
-    "ts": 1787138699,
-    "addedTs": 1787142390,
-    "urlHash": "5d5f28c4402e",
-    "titleHash": "02befc8ed788"
-  },
-  {
-    "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
-    "titlePt": "Flock tem nova ferramenta de IA poderosa para polícia; obtivemos o código",
-    "url": "https://www.wired.com/story/flock-safety-os-investigate/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Jornalistas obtiveram o código de uma nova ferramenta de IA usada pela polícia via empresa Flock, levantando sérias questões sobre vigilância e transparência. A notícia é urgente para defensores de direitos civis, policiais e qualquer pessoa preocupada com uso de IA pelo Estado. Mostra como tecnologia opaca pode afetar a vida das pessoas.",
-    "reasonEn": "Journalists obtained the code for a powerful new AI tool used by police via Flock, raising serious surveillance and transparency concerns. The news is urgent for civil rights advocates, law enforcement, and anyone worried about state use of AI. It shows how opaque tech can affect people's lives.",
-    "score": 0.9,
-    "tags": [
-      "vigilância",
-      "ética"
-    ],
-    "img": "img/558bdb2e1bc2.jpg",
-    "ts": 1787137840,
-    "addedTs": 1787142390,
-    "urlHash": "558bdb2e1bc2",
-    "titleHash": "9d0b62d9b4b0"
-  },
-  {
-    "title": "Common Mistakes I've Seen That AI-Generated Apps Keep Making",
-    "titlePt": "Erros comuns que apps gerados por IA continuam cometendo",
-    "url": "https://daniel.reguero.dev/blogs/ten-common-security-mistakes-ai-generated-apps-make",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O autor lista falhas recorrentes em aplicações feitas com geração de código por IA, como falta de validação, segurança fraca e má arquitetura. É leitura essencial para quem está construindo produtos com IA ou contratando devs que usam essas ferramentas. Ajuda a evitar armadilhas conhecidas.",
-    "reasonEn": "The author lists recurring failures in AI-generated apps, like missing validation, weak security, and poor architecture. Essential reading for anyone building products with AI or hiring devs who use these tools. Helps avoid known pitfalls.",
-    "score": 0.65,
-    "tags": [
-      "desenvolvimento",
-      "boas-práticas"
-    ],
-    "img": "img/0be01a536558.jpg",
-    "ts": 1787137393,
-    "addedTs": 1787142390,
-    "urlHash": "0be01a536558",
-    "titleHash": "3c18d523d2fe"
-  },
-  {
-    "title": "Chinese Banks Start Lending Based on AI Computing-Power Usage",
-    "titlePt": "Bancos chineses começam a emprestar com base no uso de capacidade de IA",
-    "url": "https://www.globaltimes.cn/page/202608/1368315.shtml",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Bancos na China estão usando o volume de poder computacional de IA usado por empresas como critério para conceder empréstimos. É um caso novo que conecta infraestrutura de IA a decisões financeiras reais. Relevante para empreendedores, fintechs e qualquer pessoa observando a intersecção entre IA e finanças.",
-    "reasonEn": "Banks in China are using companies' AI computing power usage as a criterion for granting loans. It's a novel case connecting AI infrastructure to real financial decisions. Relevant for entrepreneurs, fintechs, and anyone watching the AI-finance intersection.",
-    "score": 0.85,
-    "tags": [
-      "finanças",
-      "infraestrutura"
-    ],
-    "img": "img/28b161cac008.jpg",
-    "ts": 1787136686,
-    "addedTs": 1787142390,
-    "urlHash": "28b161cac008",
-    "titleHash": "425e4d47b3bb"
-  },
-  {
-    "title": "Confidential AI: Let AI Work for You Without Handing over Your Privacy",
-    "titlePt": "IA confidencial: use IA sem entregar sua privacidade",
-    "url": "https://plugos.net/blog/2026/08/confidential-ai-how-plugclaw-keeps-your-ai-work-private/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A peça apresenta soluções para usar IA mantendo dados privados, como execução local ou criptografia. É importante diante das crescentes preocupações com vazamento de dados em provedores de IA. Útil para desenvolvedores, equipes de segurança e usuários preocupados com privacidade.",
-    "reasonEn": "The piece introduces solutions for using AI while keeping data private, such as local execution or encryption. It matters amid growing concerns about data leaks at AI providers. Useful for developers, security teams, and privacy-conscious users.",
-    "score": 0.7,
-    "tags": [
-      "privacidade",
-      "segurança"
-    ],
-    "img": "img/1d6f34dcc45b.jpg",
-    "ts": 1787136477,
-    "addedTs": 1787142390,
-    "urlHash": "1d6f34dcc45b",
-    "titleHash": "8d60c0778a8b"
-  },
-  {
-    "title": "Show HN: Knownbase, an MCP server for persistent AI agent memory",
-    "titlePt": "Knownbase: servidor MCP para memória persistente de agentes de IA",
-    "url": "https://knownbase.dev/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um desenvolvedor publicou no Hacker News o Knownbase, um servidor MCP que dá memória persistente a agentes de IA, permitindo que eles lembrem informações entre sessões. A ferramenta é útil para quem cria agentes que precisam reter contexto ao longo do tempo. Para desenvolvedores, é mais uma peça no crescente ecossistema de ferramentas para agentes autônomos. A relevância é moderada porque o ecossistema MCP ainda está em formação e a adoção depende de integrações futuras.",
-    "reasonEn": "A developer posted Knownbase on Hacker News, an MCP server that gives persistent memory to AI agents so they can recall information across sessions. The tool helps anyone building agents that need to retain context over time. For developers, it adds another piece to the growing ecosystem of autonomous-agent tooling. Relevance is moderate because the MCP ecosystem is still maturing and adoption depends on future integrations.",
-    "score": 0.55,
-    "tags": [
-      "agentes",
-      "mcp",
-      "memória"
-    ],
-    "img": "img/479f81217925.jpg",
-    "ts": 1787136184,
-    "addedTs": 1787142390,
-    "urlHash": "479f81217925",
-    "titleHash": "d1c60bb07680"
-  },
-  {
-    "title": "Artificial Analysis: LLM search API providers",
-    "titlePt": "Artificial Analysis compara APIs de busca com LLM",
-    "url": "https://artificialanalysis.ai/agents/search-api",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Artificial Analysis publicou uma comparação entre provedores de API de busca que usam grandes modelos de linguagem. O estudo ajuda desenvolvedores a escolher entre serviços como Perplexity, You.com, Exa e outros, mostrando preços, latência e qualidade. É um recurso prático para quem precisa decidir qual API integrar em um produto. Para equipes de produto, vale a leitura antes de fechar contrato.",
-    "reasonEn": "Artificial Analysis published a comparison of LLM-powered search API providers. The benchmark helps developers choose between services like Perplexity, You.com, Exa and others, covering pricing, latency and quality. It is a practical resource for anyone picking which API to integrate. Product teams should read it before signing a contract.",
-    "score": 0.6,
-    "tags": [
-      "busca",
-      "benchmark",
-      "api"
-    ],
-    "img": "img/f71e377f09c3.jpg",
-    "ts": 1787134645,
-    "addedTs": 1787142390,
-    "urlHash": "f71e377f09c3",
-    "titleHash": "80faf72f2fac"
   }
 ]
