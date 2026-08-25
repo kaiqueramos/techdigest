@@ -1,5 +1,246 @@
 [
   {
+    "title": "Cloudflare OS: Open-Source Corp AI Platform Built on a Capability-Based Model",
+    "titlePt": "Cloudflare OS: plataforma de IA corporativa open source",
+    "url": "https://www.infoq.com/news/2026/08/cloudflare-os-ai-platform-secure/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Cloudflare anunciou o Cloudflare OS, uma plataforma de IA corporativa open source baseada em um modelo de capacidades. A proposta busca dar mais segurança e controle para empresas que constroem agentes e fluxos de IA. O lançamento pode competir diretamente com soluções fechadas de hyperscalers.",
+    "reasonEn": "Cloudflare announced Cloudflare OS, an open-source enterprise AI platform built on a capability-based model. The proposal aims to give companies more security and control when building AI agents and workflows. The launch could directly compete with closed solutions from hyperscalers.",
+    "score": 0.8,
+    "tags": [
+      "cloudflare",
+      "open-source",
+      "plataforma"
+    ],
+    "img": "img/5628b8905edb.jpg",
+    "ts": 1787631750,
+    "addedTs": 1787632218,
+    "urlHash": "5628b8905edb",
+    "titleHash": "7897c7bd95e6"
+  },
+  {
+    "title": "Code maintainability plummets in the AI coding era",
+    "titlePt": "Manutenibilidade de código despenca na era da IA",
+    "url": "https://leaddev.com/ai/code-maintainability-plummets-in-the-ai-coding-era",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Discussão viral no Hacker News aponta que a qualidade e a manutenibilidade do código gerado por IA estão caindo rapidamente. Desenvolvedores relatam mais dívidas técnicas, retrabalho e bugs sutis. É um alerta importante para líderes de engenharia que precisam revisar práticas.",
+    "reasonEn": "A viral Hacker News discussion points out that the quality and maintainability of AI-generated code are dropping fast. Developers report more technical debt, rework, and subtle bugs. It's an important warning for engineering leaders who need to review practices.",
+    "score": 0.85,
+    "tags": [
+      "engenharia",
+      "código",
+      "qualidade"
+    ],
+    "img": "img/36500b5a5d20.jpg",
+    "ts": 1787631701,
+    "addedTs": 1787632218,
+    "urlHash": "36500b5a5d20",
+    "titleHash": "a4baa5ae1346"
+  },
+  {
+    "title": "Supermicro Super AI Station (GB300, 20 Pflops FP4, 748GB Coherent Memory)",
+    "titlePt": "Supermicro lança Super AI Station com chip GB300",
+    "url": "https://www.supermicro.com/en/accelerators/nvidia/super-ai-station",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Supermicro apresentou uma estação de IA com chip GB300, entregando 20 Pflops em FP4 e 748 GB de memória coerente. O hardware mira estações de trabalho locais para treinamento e inferência pesada. Pode interessar a equipes que querem rodar modelos grandes sem depender só da nuvem.",
+    "reasonEn": "Supermicro unveiled an AI station with a GB300 chip, delivering 20 Pflops in FP4 and 748 GB of coherent memory. The hardware targets local workstations for heavy training and inference. It may interest teams that want to run large models without relying solely on the cloud.",
+    "score": 0.7,
+    "tags": [
+      "hardware",
+      "gpu",
+      "infra"
+    ],
+    "img": "img/89a7f100456c.jpg",
+    "ts": 1787630923,
+    "addedTs": 1787632218,
+    "urlHash": "89a7f100456c",
+    "titleHash": "94f69298b556"
+  },
+  {
+    "title": "AIREP: A Protocol for Per-Decision Evidence in AI Runtime Governance",
+    "titlePt": "AIREP: protocolo de evidência por decisão em IA",
+    "url": "https://arxiv.org/abs/2608.21363",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "O artigo apresenta o AIREP, um protocolo para registrar evidências a cada decisão tomada por sistemas de IA em tempo de execução. A proposta visa melhorar auditoria, governança e responsabilização. Importante para empresas em setores regulados.",
+    "reasonEn": "The paper presents AIREP, a protocol to record evidence for each decision made by AI systems at runtime. The proposal aims to improve auditing, governance, and accountability. Important for companies in regulated sectors.",
+    "score": 0.5,
+    "tags": [
+      "governança",
+      "regulação",
+      "pesquisa"
+    ],
+    "img": "img/b749ed6ae3af.jpg",
+    "ts": 1787630400,
+    "addedTs": 1787632218,
+    "urlHash": "b749ed6ae3af",
+    "titleHash": "6dc7bacb0091"
+  },
+  {
+    "title": "Reviewing Model Collapse and Countermeasures",
+    "titlePt": "Revisão sobre colapso de modelos e contramedidas",
+    "url": "https://arxiv.org/abs/2608.21366",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "O artigo faz uma revisão sobre o fenômeno do colapso de modelos, quando IAs treinadas em dados gerados por outras IAs perdem qualidade. Discute contramedidas e cenários de risco. Tema relevante para quem trabalha com dados sintéticos.",
+    "reasonEn": "The paper reviews the model collapse phenomenon, where AIs trained on data generated by other AIs lose quality. It discusses countermeasures and risk scenarios. A relevant topic for those working with synthetic data.",
+    "score": 0.5,
+    "tags": [
+      "pesquisa",
+      "modelos",
+      "dados"
+    ],
+    "img": "img/3285dfc4bc0e.jpg",
+    "ts": 1787630400,
+    "addedTs": 1787632218,
+    "urlHash": "3285dfc4bc0e",
+    "titleHash": "61a8ed281dcf"
+  },
+  {
+    "title": "There Is No Neutral Harness: Modern LLM Leaderboards Are Manufactured by Config-Fragile Items",
+    "titlePt": "Rankings de LLMs são fabricados por itens frágeis",
+    "url": "https://arxiv.org/abs/2608.21382",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "O artigo mostra que rankings modernos de LLMs não são neutros: itens sensíveis a configuração podem distorcer resultados drasticamente. Isso afeta decisões de compra e de pesquisa baseadas em benchmarks. Sinal de alerta importante para o ecossistema.",
+    "reasonEn": "The paper shows that modern LLM leaderboards aren't neutral: configuration-sensitive items can drastically distort results. This affects purchasing and research decisions based on benchmarks. An important warning sign for the ecosystem.",
+    "score": 0.75,
+    "tags": [
+      "benchmark",
+      "llm",
+      "pesquisa"
+    ],
+    "img": "img/f902f6817e96.jpg",
+    "ts": 1787630400,
+    "addedTs": 1787632218,
+    "urlHash": "f902f6817e96",
+    "titleHash": "1d04b7a23876"
+  },
+  {
+    "title": "Spyre-Accelerated Retrieval-Augmented Generation on IBM LinuxONE: A Cloud-Native Architecture for Secure, High-Throughput Enterprise AI Inference",
+    "titlePt": "RAG acelerado por Spyre em IBM LinuxONE",
+    "url": "https://arxiv.org/abs/2608.21393",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "O artigo descreve uma arquitetura nativa em nuvem para RAG corporativo usando o acelerador Spyre no IBM LinuxONE. O foco é inferência de IA segura e de alto throughput. Relevante para empresas que precisam de RAG em mainframes.",
+    "reasonEn": "The paper describes a cloud-native architecture for enterprise RAG using the Spyre accelerator on IBM LinuxONE. The focus is on secure, high-throughput AI inference. Relevant for companies that need RAG on mainframes.",
+    "score": 0.5,
+    "tags": [
+      "ibm",
+      "rag",
+      "enterprise"
+    ],
+    "img": "img/2ff0c62133d9.jpg",
+    "ts": 1787630400,
+    "addedTs": 1787632218,
+    "urlHash": "2ff0c62133d9",
+    "titleHash": "54d835a51758"
+  },
+  {
+    "title": "AI algorithm for room temperature superconductor, candidate detected",
+    "titlePt": "Algoritmo de IA descobre candidato a supercondutor à temperatura ambiente",
+    "url": "https://zenodo.org/records/22073633",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Cientistas relatam o uso de um algoritmo de inteligência artificial que identificou um material candidato a supercondutor à temperatura ambiente. Se confirmado em laboratório, seria uma das descobertas de materiais mais importantes em décadas, com impacto em energia, transporte e chips. Por enquanto é só um candidato, não confirmação. Ainda assim vale acompanhar de perto por causa do potencial transformador.",
+    "reasonEn": "Scientists report using an AI algorithm that identified a candidate room-temperature superconductor material. If confirmed in the lab, it would be one of the most important materials breakthroughs in decades, with impact on energy, transport and chips. For now it is just a candidate, not confirmation. Still worth watching closely because of the transformative potential.",
+    "score": 0.85,
+    "tags": [
+      "descoberta",
+      "ciência",
+      "materiais"
+    ],
+    "img": "img/4981037b11ba.jpg",
+    "ts": 1787629984,
+    "addedTs": 1787632218,
+    "urlHash": "4981037b11ba",
+    "titleHash": "19576f6aba41"
+  },
+  {
+    "title": "Nvidia Is Spending $6B to Build a Powerful U.S. Alternative to Chinese AI",
+    "titlePt": "Nvidia vai gastar 6 bilhões de dólares em alternativa americana à IA chinesa",
+    "url": "https://www.wsj.com/tech/ai/nvidia-is-spending-6-billion-to-build-a-powerful-u-s-alternative-to-chinese-ai-c51c38cc",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Nvidia anuncia investimento de cerca de 6 bilhões de dólares para construir uma alternativa poderosa nos Estados Unidos frente à IA chinesa. O movimento tem peso geopolítico e de mercado, afetando cadeias de chips, data centers e concorrentes como Huawei. Afeta diretamente investidores, parceiros de infraestrutura e qualquer empresa dependente de GPUs. Sinaliza aceleração da corrida tecnológica entre EUA e China.",
+    "reasonEn": "Nvidia announces about $6 billion in spending to build a powerful US alternative to Chinese AI. The move has geopolitical and market weight, affecting chip supply chains, data centers and rivals like Huawei. It directly affects investors, infrastructure partners and any company dependent on GPUs. It signals an acceleration of the US-China tech race.",
+    "score": 0.85,
+    "tags": [
+      "nvidia",
+      "geopolítica",
+      "infraestrutura"
+    ],
+    "img": "img/e72c4db2c478.jpg",
+    "ts": 1787627111,
+    "addedTs": 1787632218,
+    "urlHash": "e72c4db2c478",
+    "titleHash": "1458c13d8eb6"
+  },
+  {
+    "title": "Russian drone guided by AI kills civilians in Ukraine",
+    "titlePt": "Drone russo guiado por IA mata civis na Ucrânia",
+    "url": "https://www.aerotime.aero/articles/russian-drone-guided-entirely-by-ai-kills-civilians-in-ukraine",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Relatos indicam que um drone russo com algum grau de autonomia por inteligência artificial atingiu civis na Ucrânia, reacendendo o debate sobre armas com IA. O episódio levanta questões éticas e de direito internacional humanitário. É relevante para policymakers, executivos de defesa e qualquer pessoa acompanhando os limites do uso militar da IA. Também pressiona empresas de tecnologia a posicionarem-se sobre o uso de seus modelos em armas.",
+    "reasonEn": "Reports indicate a Russian drone with some AI-driven autonomy struck civilians in Ukraine, reigniting debate over AI-enabled weapons. The incident raises ethical and international humanitarian law questions. It matters for policymakers, defense executives and anyone tracking the limits of military AI use. It also pressures tech companies to take stances on using their models in weapons.",
+    "score": 0.8,
+    "tags": [
+      "guerra",
+      "drones",
+      "ética"
+    ],
+    "img": "img/20ea80c75167.jpg",
+    "ts": 1787620705,
+    "addedTs": 1787632218,
+    "urlHash": "20ea80c75167",
+    "titleHash": "89f19e0f5bfb"
+  },
+  {
+    "title": "Partnering with CodeAI to prepare the first AI generation",
+    "titlePt": "OpenAI firma parceria com CodeAI para preparar a primeira geração de IA",
+    "url": "https://openai.com/index/partnering-with-codeai",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "A OpenAI anuncia uma parceria com a iniciativa CodeAI voltada a preparar a chamada primeira geração nativa em inteligência artificial. O foco parece estar em educação e formação de jovens para um mundo onde IA é onipresente. Pode influenciar currículos, políticas educacionais e o mercado de cursos de tecnologia. Ainda há poucos detalhes concretos sobre a operação.",
+    "reasonEn": "OpenAI announces a partnership with the CodeAI initiative to prepare what it calls the first AI-native generation. The focus appears to be on educating and training young people for a world where AI is ubiquitous. It may influence curricula, education policies and the tech training market. Few concrete details about the operation are available yet.",
+    "score": 0.6,
+    "tags": [
+      "openai",
+      "educação"
+    ],
+    "img": "img/6d4ec902c728.jpg",
+    "ts": 1787050800,
+    "addedTs": 1787632218,
+    "urlHash": "6d4ec902c728",
+    "titleHash": "5f0e9d89b081"
+  },
+  {
     "title": "IBM Z and LinuxONE Dual-ISA Processor and AI Acceleration at Hot Chips 2026",
     "titlePt": "IBM apresenta processador com aceleração de IA no Hot Chips 2026",
     "url": "https://www.servethehome.com/ibm-z-and-linuxone-dual-isa-processor-and-ai-acceleration-at-hot-chips-2026/",
@@ -10615,246 +10856,5 @@
     "addedTs": 1787084023,
     "urlHash": "2e18cb99e92f",
     "titleHash": "a344391a112d"
-  },
-  {
-    "title": "Daily MCP Tool Drifts- 8,931 of 12,391 drifted with no version bump",
-    "titlePt": "Quase 9 mil ferramentas MCP drifted sem aviso de versão",
-    "url": "https://mcpindex.ai/ledger",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Uma análise diária identificou que 8.931 de 12.391 ferramentas do protocolo MCP sofreram drift de comportamento sem bump de versão, o que pode quebrar agentes de produção silenciosamente. O problema é grave porque times confiam em APIs estáveis para automações críticas. Mostra que o ecossistema MCP ainda precisa de governança. Afeta qualquer equipe que consome essas ferramentas em produção.",
-    "reasonEn": "A daily analysis found that 8,931 of 12,391 MCP protocol tools drifted in behavior without a version bump, which can silently break production agents. The issue is serious because teams rely on stable APIs for critical automations. It shows the MCP ecosystem still needs governance. It affects any team consuming these tools in production.",
-    "score": 0.55,
-    "tags": [
-      "mcp",
-      "devtools",
-      "estabilidade"
-    ],
-    "img": "img/945158e4e4d5.jpg",
-    "ts": 1787082017,
-    "addedTs": 1787084023,
-    "urlHash": "945158e4e4d5",
-    "titleHash": "716468ca4992"
-  },
-  {
-    "title": "Palantir Leads AI Data Deal with USA Today Sparking a Newsroom Revolt",
-    "titlePt": "Palantir lidera acordo de dados com USA Today e provoca revolta em redações",
-    "url": "https://www.forbes.com/sites/sandycarter/2026/08/15/palantir-leads-ai-data-deal-with-usa-today-sparking-a-newsroom-revolt/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Palantir fechou acordo com o USA Today para uso de dados e IA em redações, gerando reação negativa de jornalistas que temem perda de independência editorial. O caso é emblemático sobre como ferramentas de IA e dados compram influência em veículos de mídia. Jornalistas, leitores e anunciantes devem acompanhar de perto. Pode abrir precedente para outros contratos parecidos.",
-    "reasonEn": "Palantir closed a deal with USA Today for data and AI use in newsrooms, sparking backlash from journalists fearing loss of editorial independence. The case is emblematic of how AI and data tools buy influence in media outlets. Journalists, readers and advertisers should follow closely. It may set a precedent for similar contracts.",
-    "score": 0.7,
-    "tags": [
-      "mídia",
-      "deal",
-      "ética"
-    ],
-    "img": "img/eb07cd823ca2.jpg",
-    "ts": 1787081045,
-    "addedTs": 1787084023,
-    "urlHash": "eb07cd823ca2",
-    "titleHash": "b337ff14341d"
-  },
-  {
-    "title": "VCs Pour Billions into Physical AI as the Next Wave of AI Investing Takes Shape",
-    "titlePt": "VCs despejam bilhões na IA física como nova onda de investimentos",
-    "url": "https://news.crunchbase.com/venture/physical-ai-funding-startups-robotics-aerospace-h1-2026/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Investidores de venture capital estão redirecionando bilhões para startups de IA física, como robótica e automação industrial, sinalizando nova fase do setor. A notícia indica onde grandes cheques estão sendo apostados em 2025. Pode afetar fundadores buscando funding e empresas tradicionais de manufatura. Vale acompanhar para identificar tendências de mercado.",
-    "reasonEn": "Venture capitalists are redirecting billions into physical AI startups such as robotics and industrial automation, signaling a new phase for the sector. The news shows where large checks are being placed in 2025. It may affect founders seeking funding and traditional manufacturing firms. Worth following to spot market trends.",
-    "score": 0.6,
-    "tags": [
-      "investimento",
-      "robótica",
-      "vc"
-    ],
-    "img": "img/e59ca448573d.jpg",
-    "ts": 1787080885,
-    "addedTs": 1787084023,
-    "urlHash": "e59ca448573d",
-    "titleHash": "eefed951ad52"
-  },
-  {
-    "title": "Security checks for apps built with AI coding tools",
-    "titlePt": "Checagens de segurança para apps feitos com IA de coding",
-    "url": "https://lukatasolutions.com",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo discute verificações de segurança específicas para aplicações construídas com ferramentas de coding por IA, que tendem a introduzir vulnerabilidades sutis. O tema é crucial porque times estão acelerando deploys sem revisar código gerado. Mostra práticas para revisar saídas de modelos antes de ir para produção. Leitura obrigatória para qualquer equipe que usa Copilot, Cursor ou similares.",
-    "reasonEn": "The article discusses security checks specific to apps built with AI coding tools, which tend to introduce subtle vulnerabilities. The topic is crucial because teams are accelerating deploys without reviewing generated code. It shows practices to review model outputs before production. Required reading for any team using Copilot, Cursor or similar tools.",
-    "score": 0.65,
-    "tags": [
-      "segurança",
-      "devtools",
-      "ia generativa"
-    ],
-    "img": "img/6b84cf41f582.jpg",
-    "ts": 1787080420,
-    "addedTs": 1787084023,
-    "urlHash": "6b84cf41f582",
-    "titleHash": "74cd419f3699"
-  },
-  {
-    "title": "Africa Is Not Waiting for AI. We're Building the Infrastructure to Use It",
-    "titlePt": "África não espera pela IA: o continente está construindo sua própria infraestrutura",
-    "url": "https://medium.com/@SamuelMbugua254/africa-is-not-waiting-for-ai-were-building-the-infrastructure-to-use-it-dc5e92e3ca1c",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Empresas e governos africanos estão criando data centers, redes e políticas locais para usar IA sem depender de infraestrutura estrangeira. A discussão no Hacker News destaca que a África está montando a base de computação, energia e talentos necessária para seus próprios modelos e aplicações. Isso importa porque mostra que a corrida global de IA não está concentrada só em EUA e China. O movimento afeta startups, governos e desenvolvedores do continente e pode mudar o mapa de inovação.",
-    "reasonEn": "African companies and governments are building data centers, networks and local policies to use AI without depending on foreign infrastructure. The Hacker News discussion highlights how the continent is putting together computing, energy and talent for its own models and applications. It matters because it shows the global AI race is not only between the US and China. The move affects startups, governments and developers on the continent and may reshape the innovation map.",
-    "score": 0.55,
-    "tags": [
-      "infraestrutura",
-      "global",
-      "ia"
-    ],
-    "img": "img/8d6bb66a6649.jpg",
-    "ts": 1787080062,
-    "addedTs": 1787084023,
-    "urlHash": "8d6bb66a6649",
-    "titleHash": "ce0d1a4979de"
-  },
-  {
-    "title": "AI Is Upending One of Finance's Cushiest Jobs",
-    "titlePt": "IA está mudando uma das profissões mais confortáveis do mercado financeiro",
-    "url": "https://www.bloomberg.com/news/features/2026-06-05/ai-is-upending-traditional-financial-advisor-jobs",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A reportagem discute como ferramentas de IA estão automatizando tarefas antes feitas por profissionais bem pagos do mercado financeiro, como analistas e pesquisadores. Modelos de linguagem conseguem resumir relatórios, gerar códigos e analisar dados em segundos. Isso importa porque mostra que mesmo cargos de alto salário e prestígio estão na mira da automação. Profissionais do setor e estudantes que pensam em entrar nele precisam se preparar.",
-    "reasonEn": "The report explains how AI tools are automating tasks once done by well-paid finance professionals such as analysts and researchers. Language models can summarize reports, generate code and crunch data in seconds. It matters because it shows even high-paid, prestigious roles are in the automation firing line. Industry professionals and students eyeing the field need to prepare.",
-    "score": 0.75,
-    "tags": [
-      "finanças",
-      "trabalho",
-      "automação"
-    ],
-    "img": "img/7bac9aa8dcd1.jpg",
-    "ts": 1787079578,
-    "addedTs": 1787084023,
-    "urlHash": "7bac9aa8dcd1",
-    "titleHash": "f12b8075663d"
-  },
-  {
-    "title": "Pacing model development in an era of cyber-critical capabilities",
-    "titlePt": "Como dosar o desenvolvimento de modelos em uma era de capacidades cibernéticas críticas",
-    "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A OpenAI publicou uma política que define quando novos modelos com habilidades avançadas de hacking e cibersegurança devem ter o lançamento adiado ou monitorado de perto. A empresa propõe escalonar cautelosamente a publicação para reduzir riscos de uso malicioso. É parte de um debate maior sobre governança de IA poderosa. O texto afeta pesquisadores, governos e clientes corporativos que usam esses modelos.",
-    "reasonEn": "OpenAI published a policy laying out when new models with advanced hacking and cybersecurity abilities should have their release delayed or closely monitored. The company proposes scaling publication carefully to reduce misuse risk. It is part of a larger debate about governing powerful AI. It affects researchers, governments and corporate customers using these models.",
-    "score": 0.72,
-    "tags": [
-      "openai",
-      "política",
-      "segurança"
-    ],
-    "img": "img/9c25f4ae7a18.jpg",
-    "ts": 1787050800,
-    "addedTs": 1787084023,
-    "urlHash": "9c25f4ae7a18",
-    "titleHash": "b604f88ac7b0"
-  },
-  {
-    "title": "Apple&#8217;s camera-equipped AirPods appear in leaked video",
-    "titlePt": "AirPods com câmera da Apple aparecem em vídeo vazado",
-    "url": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "Um vídeo vazado mostra o suposto design dos novos AirPods com câmera da Apple, esperados para alimentar funções de IA visual. O componente seria pequeno e integrado ao estojo, levantando dúvidas sobre privacidade e gravação contínua. A Apple ainda não confirmou oficialmente. Consumidores e concorrentes estão de olho, pois pode abrir um novo mercado de wearables com câmera.",
-    "reasonEn": "A leaked video shows the supposed design of Apple's new camera-equipped AirPods, expected to power visual AI features. The component would be small and built into the case, raising questions about privacy and continuous recording. Apple has not officially confirmed it. Consumers and competitors are watching, as it could open a new market for camera wearables.",
-    "score": 0.65,
-    "tags": [
-      "apple",
-      "wearables",
-      "privacidade"
-    ],
-    "img": "img/abe15a101a64.jpg",
-    "ts": 1787043601,
-    "addedTs": 1787084023,
-    "urlHash": "abe15a101a64",
-    "titleHash": "562598a260a8"
-  },
-  {
-    "title": "ElevenLabs MCP in Claude",
-    "titlePt": "ElevenLabs MCP agora integrado ao Claude",
-    "url": "https://www.producthunt.com/products/elevenlabs-mcp-2",
-    "source": "ProductHunt",
-    "sources": [
-      "ProductHunt"
-    ],
-    "reason": "A ElevenLabs lançou um servidor MCP que se conecta diretamente ao Claude, permitindo gerar e processar áudio por voz dentro do assistente. A integração facilita para desenvolvedores criarem experiências com fala sem precisar montar pipelines complexos. Para quem usa o Claude no trabalho, isso abre caminho para assistentes que falam e ouvem de verdade.",
-    "reasonEn": "ElevenLabs launched an MCP server that connects directly to Claude, enabling voice generation and processing inside the assistant. The integration makes it easier for developers to build speech-driven experiences without complex pipelines. For Claude users at work, this opens the door to assistants that truly speak and listen.",
-    "score": 0.5,
-    "tags": [
-      "voz",
-      "lançamento",
-      "integração"
-    ],
-    "img": "img/acb389ae6cc9.jpg",
-    "ts": 1787077370,
-    "addedTs": 1787077447,
-    "urlHash": "acb389ae6cc9",
-    "titleHash": "e35cc24e5955"
-  },
-  {
-    "title": "How Much Memory Does Your Agent Actually Need?",
-    "titlePt": "Quanta memória seu agente de IA realmente precisa?",
-    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "O artigo da Hugging Face investiga o uso real de memória por agentes de IA em produção, separando mito de necessidade técnica. Mostra como otimizar contexto para economizar custos e melhorar desempenho em fluxos agênticos. Leitura recomendada para quem constrói agentes e quer evitar contas pesadas em API.",
-    "reasonEn": "The Hugging Face article investigates real memory usage by AI agents in production, separating myth from actual need. It shows how to optimize context to save costs and improve performance in agentic workflows. Recommended reading for anyone building agents who wants to avoid steep API bills.",
-    "score": 0.75,
-    "tags": [
-      "agentes",
-      "memória",
-      "performance"
-    ],
-    "img": "img/5ba78b757300.jpg",
-    "ts": 1787076578,
-    "addedTs": 1787077447,
-    "urlHash": "5ba78b757300",
-    "titleHash": "3b116a96af58"
-  },
-  {
-    "title": "David Chalmers asks: When we talk to AI, what are we talking to?",
-    "titlePt": "David Chalmers pergunta: ao falar com IA, com quem falamos?",
-    "url": "https://www.youtube.com/watch?v=uUjJOMcNU9w",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O filósofo David Chalmers discute se os sistemas de IA podem ter algum tipo de experiência ou consciência quando conversamos com eles. É uma conversa profunda sobre o que significa interagir com máquinas que simulam linguagem humana. Não tem aplicação prática imediata, mas muda a forma como pensamos sobre IAs no dia a dia.",
-    "reasonEn": "Philosopher David Chalmers discusses whether AI systems might have some kind of experience or consciousness when we talk to them. It's a deep conversation about what it means to interact with machines that simulate human language. No immediate practical use, but it shifts how we think about AIs in daily life.",
-    "score": 0.55,
-    "tags": [
-      "filosofia",
-      "consciência"
-    ],
-    "img": "img/14a52a5bd598.jpg",
-    "ts": 1787076153,
-    "addedTs": 1787077447,
-    "urlHash": "14a52a5bd598",
-    "titleHash": "7d287df7eee6"
   }
 ]
