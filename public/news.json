@@ -1,5 +1,291 @@
 [
   {
+    "title": "'Don't ask me to print your ChatGPT birthday card': Hitting back at AI 'slop'",
+    "titlePt": "Não me peça para imprimir seu cartão de aniversário do ChatGPT: a revolta contra o 'lixo' de IA",
+    "url": "https://www.bbc.co.uk/news/articles/cq89jpjeq7ko",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Pequenos negócios e artistas estão recusando pedidos para imprimir materiais gerados por IA, como cartões e convites personalizados. O movimento é uma reação direta ao que muitos chamam de 'lixo de IA', conteúdo barato e sem alma produzido em massa. Clientes estão sendo publicamente confrontados por donos de lojas que não querem mais perder tempo com esse tipo de pedido. A tendência revela uma resistência cultural crescente contra o uso descuidado de IA em produtos personalizados.",
+    "reasonEn": "Small businesses and artists are refusing requests to print AI-generated materials like personalized cards and invitations. The movement is a direct reaction to what many call 'AI slop', cheap and soulless mass-produced content. Customers are being publicly called out by shop owners who no longer want to waste time on such requests. The trend reveals growing cultural resistance to careless AI use in personalized products.",
+    "score": 0.7,
+    "tags": [
+      "cultura",
+      "conteúdo",
+      "sociedade"
+    ],
+    "img": "img/a186cb65c836.jpg",
+    "ts": 1787638288,
+    "addedTs": 1787639405,
+    "urlHash": "a186cb65c836",
+    "titleHash": "767c277526f9"
+  },
+  {
+    "title": "Show HN: CookWing, an AI chef that doesn't hallucinate quantities",
+    "titlePt": "CookWing: um chef de IA que não alucina quantidades",
+    "url": "https://play.google.com/store/apps/details?id=com.redwing.vibecooking&hl=en_US",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um desenvolvedor publicou no Hacker News o CookWing, um app de culinária com IA que promete não inventar quantidades de ingredientes. Diferente de outras ferramentas que alucinam medidas, o sistema parece usar receitas reais como base. Pode ser útil para quem quer receitas confiáveis sem precisar conferir tudo no Google. A proposta ataca um problema comum e frustrante dos chatbots culinários atuais.",
+    "reasonEn": "A developer has published on Hacker News CookWing, an AI cooking app that promises not to invent ingredient quantities. Unlike other tools that hallucinate measurements, the system appears to use real recipes as a base. It may be useful for those who want reliable recipes without having to double-check everything on Google. The proposal tackles a common and frustrating issue in current cooking chatbots.",
+    "score": 0.5,
+    "tags": [
+      "app",
+      "culinária",
+      "lançamento"
+    ],
+    "img": "img/55c00cca01b0.jpg",
+    "ts": 1787637225,
+    "addedTs": 1787639405,
+    "urlHash": "55c00cca01b0",
+    "titleHash": "15f635286f0f"
+  },
+  {
+    "title": "LLMPanel Deploy vLLM to RunPod or Vast.ai Without Kubernetes",
+    "titlePt": "LLMPanel: faça deploy de vLLM na RunPod ou Vast.ai sem Kubernetes",
+    "url": "https://llmpanel.io",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma nova ferramenta permite rodar o servidor vLLM em provedores de GPU na nuvem como RunPod e Vast.ai, sem precisar configurar um cluster Kubernetes. Para muitos desenvolvedores, o K8s é uma barreira enorme de complexidade que atrasa projetos. Essa abordagem simplificada reduz drasticamente o tempo de setup e os custos operacionais. É uma notícia prática e útil para qualquer engenheiro que queira colocar modelos em produção sem dor de cabeça.",
+    "reasonEn": "A new tool lets you run the vLLM server on cloud GPU providers like RunPod and Vast.ai without setting up a Kubernetes cluster. For many developers, K8s is a massive complexity barrier that delays projects. This simplified approach drastically reduces setup time and operational costs. It's practical and useful news for any engineer who wants to put models in production without headaches.",
+    "score": 0.85,
+    "tags": [
+      "devops",
+      "LLM",
+      "infra"
+    ],
+    "img": "img/6a6bde451473.jpg",
+    "ts": 1787636447,
+    "addedTs": 1787639405,
+    "urlHash": "6a6bde451473",
+    "titleHash": "e52146347f0a"
+  },
+  {
+    "title": "Surge in AI-assisted complaints putting extra strain on councils and schools",
+    "titlePt": "Surto de reclamações feitas com IA sobrecarrega prefeituras e escolas no Reino Unido",
+    "url": "https://www.bbc.co.uk/news/articles/c2dk6wzjw23o",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Autoridades locais e escolas britânicas relatam um aumento explosivo de reclamações geradas ou polidas por IA. Cidadãos estão usando chatbots para redigir queixas formais, multiplicando o volume de trabalho administrativo. O fenômeno consome recursos que deveriam ir para casos reais e urgentes, prejudicando o atendimento. A tendência levanta questões sobre regulação e limites para o uso de IA em interações com serviços públicos.",
+    "reasonEn": "British local authorities and schools are reporting an explosive increase in AI-generated or polished complaints. Citizens are using chatbots to draft formal grievances, multiplying administrative workload. The phenomenon consumes resources meant for real and urgent cases, harming service delivery. The trend raises questions about regulation and limits for AI use in interactions with public services.",
+    "score": 0.75,
+    "tags": [
+      "regulação",
+      "sociedade",
+      "setor público"
+    ],
+    "img": "img/8400e443a048.jpg",
+    "ts": 1787635884,
+    "addedTs": 1787639405,
+    "urlHash": "8400e443a048",
+    "titleHash": "86b97154ff98"
+  },
+  {
+    "title": "Show HN: When AI Decides What Matters",
+    "titlePt": "Quando a IA decide o que importa: experimento provocador de curadoria",
+    "url": "https://jasondoyle.ie/whitepapers/when-ai-decides-what-matters/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um Show HN apresenta uma ferramenta experimental que usa IA para decidir quais assuntos são relevantes no noticiário. A proposta levanta questões filosóficas e práticas sobre confiar em algoritmos para curadoria de informação. O projeto está em estágio inicial, com limitações óbvias. Ainda assim, é um experimento provocador que merece atenção pelo debate que abre.",
+    "reasonEn": "A Show HN presents an experimental tool that uses AI to decide which topics are relevant in the news. The proposal raises philosophical and practical questions about trusting algorithms for information curation. The project is at an early stage, with obvious limitations. Still, it's a thought-provoking experiment that deserves attention for the debate it opens.",
+    "score": 0.55,
+    "tags": [
+      "curadoria",
+      "mídia",
+      "experimento"
+    ],
+    "img": "img/1fd3009025d2.jpg",
+    "ts": 1787633815,
+    "addedTs": 1787639405,
+    "urlHash": "1fd3009025d2",
+    "titleHash": "6a612db7a141"
+  },
+  {
+    "title": "The AI Verification Bottleneck: Why Writing Code Is No Longer the Hard Part",
+    "titlePt": "O gargalo da verificação: escrever código já não é a parte difícil",
+    "url": "https://pragmaticbydefault.com/posts/ai-verification-bottleneck/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo argumenta que o maior desafio no desenvolvimento com IA deixou de ser escrever código e passou a ser verificar se ele está correto. À medida que os modelos ficam melhores em gerar, o tempo gasto em testes, revisões e validação cresce proporcionalmente. Para times de engenharia, isso muda completamente onde investir esforço e tooling. É leitura obrigatória para líderes técnicos que precisam repensar seus processos.",
+    "reasonEn": "The article argues that the biggest challenge in AI-assisted development is no longer writing code but verifying whether it's correct. As models get better at generating, time spent on testing, review, and validation grows proportionally. For engineering teams, this completely changes where to invest effort and tooling. It's a must-read for technical leaders who need to rethink their processes.",
+    "score": 0.85,
+    "tags": [
+      "engenharia",
+      "verificação",
+      "desenvolvimento"
+    ],
+    "img": "img/b3fd46bd5d88.jpg",
+    "ts": 1787632681,
+    "addedTs": 1787639405,
+    "urlHash": "b3fd46bd5d88",
+    "titleHash": "030c925d4b57"
+  },
+  {
+    "title": "Darkbloom (decentralized AI inference on Macs)-community security audit findings",
+    "titlePt": "Darkbloom: resultados de auditoria de segurança em inferência de IA descentralizada em Macs",
+    "url": "https://github.com/Layr-Labs/d-inference/issues/705",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O projeto Darkbloom, que roda inferência de IA de forma descentralizada em Macs, passou por uma auditoria comunitária de segurança. Os resultados estão sendo compartilhados publicamente, reforçando a transparência do projeto. Esse tipo de iniciativa é importante para validar arquiteturas alternativas de IA fora dos grandes datacenters. Desenvolvedores interessados em IA federada devem acompanhar.",
+    "reasonEn": "The Darkbloom project, which runs AI inference in a decentralized way on Macs, has gone through a community security audit. The results are being shared publicly, reinforcing the project's transparency. This kind of initiative is important to validate alternative AI architectures outside big datacenters. Developers interested in federated AI should follow along.",
+    "score": 0.55,
+    "tags": [
+      "segurança",
+      "descentralização",
+      "inferência"
+    ],
+    "img": "img/2daba8ad7f31.jpg",
+    "ts": 1787632549,
+    "addedTs": 1787639405,
+    "urlHash": "2daba8ad7f31",
+    "titleHash": "637e603bfa29"
+  },
+  {
+    "title": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
+    "titlePt": "KVBoost: reuso de cache chave-valor em nível de bloco para inferência de LLMs",
+    "url": "https://arxiv.org/abs/2608.21362",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "Um novo artigo propõe o KVBoost, técnica que reusa blocos do cache chave-valor durante a inferência de modelos de linguagem, reduzindo custo computacional. O método identifica blocos com baixa variação para evitar recálculos desnecessários. Isso pode melhorar latência e diminuir o consumo de GPU em produção. É relevante para engenheiros que otimizam deployments de LLM em larga escala.",
+    "reasonEn": "A new paper proposes KVBoost, a technique that reuses key-value cache chunks during language model inference, reducing computational cost. The method identifies blocks with low variation to avoid unnecessary recomputation. This can improve latency and lower GPU consumption in production. It's relevant for engineers optimizing LLM deployments at scale.",
+    "score": 0.65,
+    "tags": [
+      "LLM",
+      "otimização",
+      "pesquisa"
+    ],
+    "img": "img/1af13a997ccd.jpg",
+    "ts": 1787630400,
+    "addedTs": 1787639405,
+    "urlHash": "1af13a997ccd",
+    "titleHash": "7f3eb85b3f93"
+  },
+  {
+    "title": "SchemaRouter: Field-Aware Tool Routing for Efficient Heterogeneous Agentic RAG",
+    "titlePt": "SchemaRouter: roteamento de ferramentas por campo para RAG agêntico heterogêneo",
+    "url": "https://arxiv.org/abs/2608.21375",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "Um novo artigo apresenta o SchemaRouter, que roteia ferramentas em sistemas RAG agênticos considerando o esquema dos dados. A abordagem melhora a eficiência ao evitar chamadas desnecessárias. É útil para times que constroem agentes complexos com múltiplas fontes de dados. O artigo traz arquitetura prática e resultados mensuráveis.",
+    "reasonEn": "A new paper presents SchemaRouter, which routes tools in agentic RAG systems considering data schema. The approach improves efficiency by avoiding unnecessary calls. It's useful for teams building complex agents with multiple data sources. The paper offers practical architecture and measurable results.",
+    "score": 0.55,
+    "tags": [
+      "RAG",
+      "agentes",
+      "arquitetura"
+    ],
+    "img": "img/5b466bfd41a8.jpg",
+    "ts": 1787630400,
+    "addedTs": 1787639405,
+    "urlHash": "5b466bfd41a8",
+    "titleHash": "4c01feba5f8a"
+  },
+  {
+    "title": "Agentic AI for Safety-critical Multi-drone Systems: Challenges and Opportunities",
+    "titlePt": "IA agêntica para sistemas multi-drone em missões críticas de segurança",
+    "url": "https://arxiv.org/abs/2608.21444",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "O artigo discute desafios e oportunidades de usar IA agêntica em sistemas com múltiplos drones em missões críticas. A pesquisa levanta questões de segurança, coordenação e responsabilidade. É leitura relevante dado o avanço de drones autônomos em contextos civis e militares. Pode influenciar regulamentação futura.",
+    "reasonEn": "The paper discusses challenges and opportunities of using agentic AI in multi-drone systems for safety-critical missions. The research raises questions about safety, coordination, and accountability. It's relevant reading given the advance of autonomous drones in civilian and military contexts. May influence future regulation.",
+    "score": 0.55,
+    "tags": [
+      "drones",
+      "agentes",
+      "segurança"
+    ],
+    "img": "img/37abba032a5d.jpg",
+    "ts": 1787630400,
+    "addedTs": 1787639405,
+    "urlHash": "37abba032a5d",
+    "titleHash": "44efd3f3fe8f"
+  },
+  {
+    "title": "Thomson Reuters Standard for High Stakes AI",
+    "titlePt": "Thomson Reuters Lança Padrão para IA de Alto Risco",
+    "url": "https://www.thomsonreuters.com/en-us/posts/innovation/thomson-reuters-standard-for-high-stakes-ai/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Thomson Reuters anunciou um padrão corporativo voltado ao uso responsável de inteligência artificial em situações de alto risco, como decisões jurídicas, financeiras e regulatórias. A iniciativa busca criar critérios de avaliação e governança para empresas que implantam IA em processos críticos. É relevante para líderes de tecnologia, equipes jurídicas e equipes de conformidade. O movimento reflete a pressão crescente por auditoria em sistemas automatizados.",
+    "reasonEn": "Thomson Reuters announced a corporate standard for responsible AI use in high-stakes situations, such as legal, financial, and regulatory decisions. The initiative aims to create evaluation and governance criteria for companies deploying AI in critical processes. It is relevant to tech leaders, legal teams, and compliance staff. The move reflects growing pressure for auditing automated systems.",
+    "score": 0.5,
+    "tags": [
+      "regulação",
+      "governança",
+      "empresa"
+    ],
+    "img": "img/753d40691b7d.jpg",
+    "ts": 1787626461,
+    "addedTs": 1787639405,
+    "urlHash": "753d40691b7d",
+    "titleHash": "0082306135ac"
+  },
+  {
+    "title": "How Much Memory Does Your Agent Actually Need?",
+    "titlePt": "Quanto de Memória Seu Agente de IA Realmente Consome?",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "A Hugging Face publicou uma análise sobre o consumo real de memória de agentes de IA em execução, indo além das estimativas teóricas. O artigo mostra como diferentes arquiteturas de agentes impactam o uso de RAM e GPU na prática. É altamente relevante para desenvolvedores que implantam agentes em produção e enfrentam custos de infraestrutura. Ajuda a evitar desperdício de recursos e melhorar a estabilidade.",
+    "reasonEn": "Hugging Face published an analysis on the actual memory consumption of running AI agents, going beyond theoretical estimates. The article shows how different agent architectures impact RAM and GPU usage in practice. It is highly relevant for developers deploying agents in production who face infrastructure costs. It helps avoid resource waste and improve stability.",
+    "score": 0.55,
+    "tags": [
+      "agentes",
+      "infra",
+      "huggingface"
+    ],
+    "img": "img/5ba78b757300.jpg",
+    "ts": 1787076578,
+    "addedTs": 1787639405,
+    "urlHash": "5ba78b757300",
+    "titleHash": "3b116a96af58"
+  },
+  {
+    "title": "Pacing model development in an era of cyber-critical capabilities",
+    "titlePt": "OpenAI Propõe Ritmo Cauteloso para Modelos com Capacidades Ciber-Críticas",
+    "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "A OpenAI publicou um texto defendendo um ritmo cuidadoso de desenvolvimento de modelos à medida que se aproximam de capacidades que podem representar riscos cibernéticos sérios. A empresa argumenta que testes e controles devem acompanhar o avanço das capacidades. É relevante para formuladores de política, pesquisadores de segurança e qualquer pessoa interessada em governança de IA. A posição reforça o debate sobre regulamentação e responsabilidade de fronteira.",
+    "reasonEn": "OpenAI published a piece advocating for a careful development pace as models approach capabilities that could pose serious cyber risks. The company argues that testing and controls must keep up with capability advances. It is relevant to policymakers, safety researchers, and anyone interested in AI governance. The stance reinforces the debate over frontier regulation and accountability.",
+    "score": 0.65,
+    "tags": [
+      "openai",
+      "segurança",
+      "governança"
+    ],
+    "img": "img/9c25f4ae7a18.jpg",
+    "ts": 1787050800,
+    "addedTs": 1787639405,
+    "urlHash": "9c25f4ae7a18",
+    "titleHash": "b604f88ac7b0"
+  },
+  {
     "title": "Cloudflare OS: Open-Source Corp AI Platform Built on a Capability-Based Model",
     "titlePt": "Cloudflare OS: plataforma de IA corporativa open source",
     "url": "https://www.infoq.com/news/2026/08/cloudflare-os-ai-platform-secure/",
@@ -10576,285 +10862,5 @@
     "addedTs": 1787100120,
     "urlHash": "8fc6814ac871",
     "titleHash": "2b7a83dc2d46"
-  },
-  {
-    "title": "Google wins $10M bankruptcy auction for Spirit Airlines 100M emails, 500M chats",
-    "titlePt": "Google compra 100 milhões de e-mails da Spirit em leilão de falência",
-    "url": "https://247wallst.com/investing/2026/08/18/google-just-bought-100-million-emails-from-a-dead-airline-for-10-million/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O Google venceu um leilão de falência de cerca de 10 milhões de dólares e vai adquirir 100 milhões de e-mails e 500 milhões de chats de usuários da Spirit Airlines. Os dados são extremamente sensíveis e levantam preocupações sérias de privacidade. É um caso a ser acompanhado por juristas, profissionais de segurança e consumidores. Mostra como dados pessoais podem mudar de mãos em processos de falência.",
-    "reasonEn": "Google has won a roughly ten million dollar bankruptcy auction and will acquire 100 million emails and 500 million chats from Spirit Airlines customers. The data is highly sensitive and raises serious privacy concerns. It is a case to follow for legal experts, security professionals and consumers. It shows how personal data can change hands during bankruptcy proceedings.",
-    "score": 0.5,
-    "tags": [
-      "google",
-      "privacidade",
-      "dados"
-    ],
-    "img": "img/45e25ddc3df0.jpg",
-    "ts": 1787092878,
-    "addedTs": 1787100120,
-    "urlHash": "45e25ddc3df0",
-    "titleHash": "65abc23cf238"
-  },
-  {
-    "title": "Tail: A 0–5 scale for how much AI wrote this",
-    "titlePt": "Tail: escala de 0 a 5 para medir quanto a IA escreveu num texto",
-    "url": "https://beaucronin.com/tail/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O Tail é uma nova ferramenta que atribui uma nota de 0 a 5 indicando o quanto um texto parece ter sido escrito por inteligência artificial. O objetivo é ajudar leitores, professores e editores a identificar conteúdo gerado por máquinas. A ferramenta entra num mercado já lotado de detectores de IA, com resultados frequentemente imprecisos. Para quem publica ou consome conteúdo online, vale conhecer como mais uma opção disponível.",
-    "reasonEn": "Tail is a new tool that assigns a score from 0 to 5 indicating how much a text appears to have been written by AI. The goal is to help readers, teachers, and editors identify machine-generated content. The tool enters an already crowded market of AI detectors with frequently inaccurate results. For those publishing or consuming online content, it is worth knowing as another available option.",
-    "score": 0.5,
-    "tags": [
-      "detecção",
-      "ferramenta"
-    ],
-    "img": "img/817b948032e2.jpg",
-    "ts": 1787091095,
-    "addedTs": 1787100120,
-    "urlHash": "817b948032e2",
-    "titleHash": "427ff10ec27e"
-  },
-  {
-    "title": "How NVIDIA scales expertise with ChatGPT Work",
-    "titlePt": "Como a NVIDIA escala expertise com o ChatGPT Work",
-    "url": "https://openai.com/index/nvidia/chatgpt-work",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A NVIDIA está usando o ChatGPT Work para distribuir e escalar conhecimento interno entre seus funcionários. O case mostra como grandes empresas podem capturar a expertise de especialistas e disponibilizá-la via IA generativa. É um exemplo prático de transformação de produtividade em corporações de tecnologia. Para líderes de empresa e devs, dá pistas de como aplicar IA em ambientes corporativos.",
-    "reasonEn": "NVIDIA is using ChatGPT Work to distribute and scale internal knowledge among its employees. The case shows how large companies can capture expertise from specialists and make it available via generative AI. It is a practical example of productivity transformation in tech corporations. For business leaders and devs, it gives clues on how to apply AI in corporate environments.",
-    "score": 0.5,
-    "tags": [
-      "empresas",
-      "produtividade",
-      "nvidia"
-    ],
-    "img": "img/baf07daff59f.jpg",
-    "ts": 1787011200,
-    "addedTs": 1787100120,
-    "urlHash": "baf07daff59f",
-    "titleHash": "232a1e3cc2cf"
-  },
-  {
-    "title": "AI usage patterns in software teams",
-    "titlePt": "Padrões de uso de IA em times de software são tema de nova pesquisa",
-    "url": "https://linear.app/data",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Uma discussão no Hacker News apresenta dados sobre como equipes de desenvolvimento realmente usam inteligência artificial em seu dia a dia. A conversa aponta diferenças entre empresas grandes e pequenas, e identifica tarefas que mais se beneficiam: revisão de código, testes e geração de documentação. Ajuda gestores e desenvolvedores a calibrar expectativas sobre ganhos reais de produtividade. É leitura objetiva, sem promessas exageradas, útil para quem decide ferramentas.",
-    "reasonEn": "A Hacker News thread shares data on how software teams actually use AI day to day. The conversation highlights differences between large and small organizations and lists tasks that benefit most: code review, testing, and documentation. It helps managers and developers set realistic expectations about productivity gains. The piece is data-driven and avoids hype, which makes it useful for anyone making tooling decisions.",
-    "score": 0.65,
-    "tags": [
-      "pesquisa",
-      "desenvolvimento"
-    ],
-    "img": "img/75bb8d6c5587.jpg",
-    "ts": 1787090887,
-    "addedTs": 1787091191,
-    "urlHash": "75bb8d6c5587",
-    "titleHash": "541dbe50aa69"
-  },
-  {
-    "title": "Silicon Valley's AI boom is remaking American charity",
-    "titlePt": "Boom de IA no Vale do Silício redesenha cenário de caridade nos EUA",
-    "url": "https://www.economist.com/international/2026/08/13/silicon-valleys-ai-boom-is-remaking-american-charity",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O Hacker News destaca matéria sobre como o crescimento da inteligência artificial e a concentração de riqueza no Vale do Silício estão transformando o setor de doações americano. Bilionários de tecnologia direcionam recursos para causas ligadas a segurança de IA, alinhamento e pesquisa de longo prazo. O texto é relevante para entender o lobby e o financiamento em torno da IA. Mostra como novos filantropos moldam agendas específicas.",
-    "reasonEn": "A Hacker News story explores how the AI boom and concentrated wealth in Silicon Valley are transforming American philanthropy. Tech billionaires direct funds toward AI safety, alignment, and long-term research causes. The piece matters for understanding lobbying and the funding ecosystem around AI. It illustrates how new philanthropists shape specific agendas.",
-    "score": 0.5,
-    "tags": [
-      "sociedade",
-      "filantropia"
-    ],
-    "img": "img/2cf4c5382302.jpg",
-    "ts": 1787089858,
-    "addedTs": 1787091191,
-    "urlHash": "2cf4c5382302",
-    "titleHash": "679524925e9d"
-  },
-  {
-    "title": "Google Moves A2A Under Agentic AI Foundation",
-    "titlePt": "Google transfere protocolo A2A para fundação de IA agêntica",
-    "url": "https://techstrong.ai/articles/google-moves-a2a-under-agentic-ai-foundation/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O Google decidiu mover seu protocolo Agent-to-Agent, conhecido como A2A, para uma fundação independente dedicada a IA agêntica. A medida visa abrir o padrão para mais empresas e evitar que uma única gigante dite as regras de interoperabilidade entre agentes. Para desenvolvedores que constroem agentes, isso pode significar padrões mais estáveis e portáveis. É movimento relevante para o ecossistema de agentes autônomos.",
-    "reasonEn": "Google moved its Agent-to-Agent protocol, known as A2A, into an independent foundation focused on agentic AI. The goal is to open the standard to more companies and avoid one giant dictating interoperability rules for agents. For developers building agents, this could bring more stable and portable standards. It is a relevant move for the autonomous agent ecosystem.",
-    "score": 0.75,
-    "tags": [
-      "protocolo",
-      "agentes"
-    ],
-    "img": "img/f73e9302c4f8.jpg",
-    "ts": 1787089541,
-    "addedTs": 1787091191,
-    "urlHash": "f73e9302c4f8",
-    "titleHash": "42add045aea3"
-  },
-  {
-    "title": "AI detection tools are proliferating. Here's why they won't last.",
-    "titlePt": "Ferramentas de detecção de IA proliferam, mas não devem durar",
-    "url": "https://www.washingtonpost.com/opinions/2026/08/18/ai-detection-tools-are-proliferating-here-why-they-wont-last/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O texto no Hacker News argumenta que o boom de detectores automáticos de conteúdo gerado por IA tem futuro incerto pela própria evolução dos modelos. A cada nova geração, textos e imagens sintéticas ficam mais difíceis de distinguir dos humanos, esvaziando esses detectores rapidamente. Profissionais de verificação ainda dependem dessas ferramentas, mas devem tratá-las como auxiliares e não como verdades absolutas. É leitura estratégica para entender o mercado.",
-    "reasonEn": "The Hacker News piece argues that the boom in automatic AI content detectors has an uncertain future because models keep evolving. Each new generation produces text and images harder to distinguish from human output, quickly making these detectors obsolete. Verification professionals still rely on them, but should treat them as aids rather than definitive truth. Strategic reading to understand the market.",
-    "score": 0.55,
-    "tags": [
-      "detecção",
-      "mercado"
-    ],
-    "img": "img/289714a3de04.jpg",
-    "ts": 1787084971,
-    "addedTs": 1787091191,
-    "urlHash": "289714a3de04",
-    "titleHash": "02724c337d7e"
-  },
-  {
-    "title": "The Download: how people really use AI, and Flock&#8217;s design choices",
-    "titlePt": "Como as pessoas realmente usam IA e as escolhas de design da Flock",
-    "url": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
-    "source": "MIT Tech Review",
-    "sources": [
-      "MIT Tech Review"
-    ],
-    "reason": "O MIT Technology Review publicou sua coluna Download com dois destaques da semana. O primeiro é um estudo sobre o uso real da IA por pessoas comuns, revelando padrões inesperados de adoção. O segundo é uma análise das decisões de design da Flock, empresa de segurança pública. A leitura ajuda a entender para onde a tecnologia caminha no dia a dia.",
-    "reasonEn": "MIT Technology Review published its Download column with two highlights of the week. The first is a study on how regular people actually use AI, revealing unexpected adoption patterns. The second is an analysis of Flock's design decisions, a public safety company. The read helps understand where the technology is heading in everyday life.",
-    "score": 0.55,
-    "tags": [
-      "adoção",
-      "estudo",
-      "design"
-    ],
-    "img": "img/782f21dacaaa.jpg",
-    "ts": 1787055000,
-    "addedTs": 1787091191,
-    "urlHash": "782f21dacaaa",
-    "titleHash": "cca89a1f39a0"
-  },
-  {
-    "title": "OpenAI built a safer ChatGPT, just not for you",
-    "titlePt": "OpenAI construiu um ChatGPT mais seguro, mas não para você",
-    "url": "https://www.machinesociety.ai/p/openai-built-a-safer-chatgpt-but",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A reportagem revela que a OpenAI disponibilizou uma versão mais segura do ChatGPT, mas restringiu o acesso a certos grupos, levantando críticas sobre quem realmente se beneficia das melhorias de segurança. A discussão importa porque mostra como decisões de segurança podem virar produto premium. Desenvolvedores e usuários corporativos devem avaliar se suas contas terão a versão protegida.",
-    "reasonEn": "The report reveals OpenAI rolled out a safer ChatGPT version but restricted access to certain groups, raising criticism over who actually benefits from the safety improvements. The discussion matters because it shows how safety decisions can become a premium product. Developers and corporate users should assess whether their accounts will get the protected version.",
-    "score": 0.75,
-    "tags": [
-      "openai",
-      "segurança",
-      "chatgpt"
-    ],
-    "img": "img/062576c4d852.jpg",
-    "ts": 1787083797,
-    "addedTs": 1787084023,
-    "urlHash": "062576c4d852",
-    "titleHash": "b761ae605b13"
-  },
-  {
-    "title": "Blind Egyptian entrepreneur's AI app helps others 'see' the world",
-    "titlePt": "Aplicativo de IA ajuda cegos a 'enxergar' o mundo",
-    "url": "https://www.reuters.com/world/middle-east/blind-egyptian-entrepreneurs-ai-app-helps-others-see-world-2026-08-18/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um empreendedor egípcio cego criou um aplicativo de IA que descreve o ambiente para pessoas com deficiência visual, usando a câmera do celular. A história é relevante porque mostra aplicação social concreta da IA além de chatbots e produtividade. Pode inspirar outros desenvolvedores a focarem em acessibilidade. Também levanta debate sobre inclusão no design de produtos.",
-    "reasonEn": "A blind Egyptian entrepreneur created an AI app that describes the surroundings to visually impaired users via the phone camera. The story matters because it shows concrete social use of AI beyond chatbots and productivity. It may inspire other developers to focus on accessibility. It also raises debate on inclusion in product design.",
-    "score": 0.55,
-    "tags": [
-      "acessibilidade",
-      "aplicativo"
-    ],
-    "img": "img/343a7993386e.jpg",
-    "ts": 1787083408,
-    "addedTs": 1787084023,
-    "urlHash": "343a7993386e",
-    "titleHash": "aa73ba5282fa"
-  },
-  {
-    "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
-    "titlePt": "Conta de Robin Williams revive para combater abuso de IA",
-    "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "O legado do ator Robin Williams está sendo usado postumamente em uma campanha contra o uso indevido de imagens por IA, após sua filha autorizar a reativação da conta no Instagram. A ação destaca o problema dos deepfakes de pessoas falecidas e a luta por regulação. É um marco simbólico que pode pressionarores e empresas. Afeta diretamente criadores e herdeiros de famosos.",
-    "reasonEn": "Robin Williams's legacy is being used posthumously in a campaign against AI image abuse, after his daughter authorized reactivating his Instagram account. The move spotlights the problem of deepfakes of deceased people and the push for regulation. It is a symbolic milestone that may pressure lawmakers and companies. It directly affects creators and heirs of celebrities.",
-    "score": 0.5,
-    "tags": [
-      "regulação",
-      "deepfake",
-      "celebridade"
-    ],
-    "img": "img/068161fbb4e4.jpg",
-    "ts": 1787082506,
-    "addedTs": 1787084023,
-    "urlHash": "068161fbb4e4",
-    "titleHash": "2728ededb0a7"
-  },
-  {
-    "title": "OpenAI Is Slowing Down Its AI Training",
-    "titlePt": "OpenAI está desacelerando o treinamento de IA",
-    "url": "https://time.com/article/2026/08/18/openai-slowing-training/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A OpenAI estaria reduzindo o ritmo de treinamento de novos modelos, segundo relatos, o que pode indicar gargalos técnicos, computacionais ou estratégicos. A notícia interessa porque modelos cada vez maiores estão pressionando infraestrutura e energia. Investidores e concorrentes devem reagir a essa desaceleração. Desenvolvedores podem ver lançamentos de fronteira menos frequentes.",
-    "reasonEn": "OpenAI is reportedly slowing down the pace of training new models, which may signal technical, compute or strategic bottlenecks. The news matters because ever-larger models are straining infrastructure and energy. Investors and competitors should react to this slowdown. Developers may see frontier releases less often.",
-    "score": 0.7,
-    "tags": [
-      "openai",
-      "treinamento",
-      "infraestrutura"
-    ],
-    "img": "img/4fed69009fd0.jpg",
-    "ts": 1787082388,
-    "addedTs": 1787084023,
-    "urlHash": "4fed69009fd0",
-    "titleHash": "f7d73244f6bb"
-  },
-  {
-    "title": "Cargo Thefts Have Turned Violent in Pursuit of AI Hardware",
-    "titlePt": "Roubos de carga ficam violentos na corrida por hardware de IA",
-    "url": "https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-turning-violent-in-pursuit-of-ai-hardware/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Criminosos estão roubando cargas de GPUs e chips de IA de forma cada vez mais violenta nos Estados Unidos, exposto em reportagem do Hacker News. A tendência mostra que o valor estratégico do hardware de IA virou alvo de crime organizado. Empresas de logística e data centers precisam reforçar segurança. Desenvolvedores podem sentir atrasos em entregas de equipamentos.",
-    "reasonEn": "Criminals are stealing GPU and AI chip shipments in increasingly violent ways in the US, per a Hacker News report. The trend shows AI hardware's strategic value has made it a target for organized crime. Logistics firms and data centers must tighten security. Developers may see hardware delivery delays.",
-    "score": 0.65,
-    "tags": [
-      "hardware",
-      "segurança",
-      "cadeia de suprimentos"
-    ],
-    "img": "img/2e18cb99e92f.jpg",
-    "ts": 1787082348,
-    "addedTs": 1787084023,
-    "urlHash": "2e18cb99e92f",
-    "titleHash": "a344391a112d"
   }
 ]
