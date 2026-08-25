@@ -1,5 +1,259 @@
 [
   {
+    "title": "Show HN: Dribbling the AI Watermark Directly In-Prompt",
+    "titlePt": "Marca d'água de IA pode ser driblada diretamente no prompt",
+    "url": "https://www.explore-exploit.com/p/dribbling-the-ai-watermark-directly",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um desenvolvedor mostrou no HackerNews que é possível remover a marca d'água de textos gerados por IA usando um truque dentro do próprio prompt enviado ao modelo. Isso levanta dúvidas sérias sobre a eficácia das marcas d'água como mecanismo de identificação de conteúdo automatizado. Para quem trabalha com detecção de texto gerado por IA, é mais uma evidência de que essas técnicas são frágeis. Mostra que a indústria precisa buscar métodos mais robustos de identificação.",
+    "reasonEn": "A developer showed on HackerNews that it is possible to remove AI-generated text watermarks using a trick within the prompt sent to the model itself. This raises serious doubts about the effectiveness of watermarks as a mechanism for identifying automated content. For those working on detecting AI-generated text, it is more evidence that these techniques are fragile. It shows the industry needs to seek more robust identification methods.",
+    "score": 0.6,
+    "tags": [
+      "segurança",
+      "marca-dagua"
+    ],
+    "img": "img/ab51264f6096.jpg",
+    "ts": 1787682243,
+    "addedTs": 1787682360,
+    "urlHash": "ab51264f6096",
+    "titleHash": "59c4e160fbbd"
+  },
+  {
+    "title": "AI Firms Debate Putting Cyber Tests Online After Model Hacks",
+    "titlePt": "Empresas de IA debatem publicar testes de cibersegurança após hacks em modelos",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-25/ai-firms-debate-putting-cyber-tests-online-after-model-hacks-mt8wy555",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Depois de ataques bem-sucedidos a modelos de inteligência artificial, empresas do setor discutem se devem tornar públicos os testes de cibersegurança que realizam. A transparência poderia ajudar a comunidade a se defender melhor, mas também pode revelar falhas a atacantes. É um debate importante para definir padrões de segurança em IA a médio prazo. Desenvolvedores e equipes de segurança precisam acompanhar essa discussão de perto.",
+    "reasonEn": "After successful attacks on AI models, companies in the sector are discussing whether to make the cybersecurity tests they perform public. Transparency could help the community defend itself better, but could also reveal flaws to attackers. It is an important debate to define AI security standards in the medium term. Developers and security teams need to follow this discussion closely.",
+    "score": 0.75,
+    "tags": [
+      "segurança",
+      "padrões"
+    ],
+    "img": "img/628200beda8c.jpg",
+    "ts": 1787681226,
+    "addedTs": 1787682360,
+    "urlHash": "628200beda8c",
+    "titleHash": "4e47fc8b05be"
+  },
+  {
+    "title": "AI and education: A watershed moment for MIT",
+    "titlePt": "IA na educação: momento divisor de águas para o MIT",
+    "url": "https://orgchart.mit.edu/letters/ai-and-education-watershed-moment-mit",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um artigo no HackerNews descreve como o MIT vive um momento crítico em relação ao uso de inteligência artificial na educação. A instituição está repensando políticas, currículos e o papel do pensamento crítico frente a ferramentas automatizadas. Educadores, estudantes e administradores devem acompanhar esse debate, que pode servir de modelo para outras universidades. É um sinal claro de que o tema saiu da esfera técnica e virou questão institucional.",
+    "reasonEn": "An article on HackerNews describes how MIT is experiencing a critical moment regarding the use of artificial intelligence in education. The institution is rethinking policies, curricula, and the role of critical thinking in the face of automated tools. Educators, students, and administrators should follow this debate, which may serve as a model for other universities. It is a clear sign that the topic has left the technical sphere and become an institutional issue.",
+    "score": 0.6,
+    "tags": [
+      "educação",
+      "mit"
+    ],
+    "img": "img/efad4a1a798a.jpg",
+    "ts": 1787680795,
+    "addedTs": 1787682360,
+    "urlHash": "efad4a1a798a",
+    "titleHash": "ea84a5365678"
+  },
+  {
+    "title": "AI Contracts Are Quietly Becoming the Best Product Documentation",
+    "titlePt": "Contratos com IA viram silenciosamente a melhor documentação de produto",
+    "url": "https://abovethelaw.com/2026/08/ai-contracts-are-quietly-becoming-the-best-product-documentation/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um texto no HackerNews argumenta que contratos entre humanos e sistemas de IA estão se tornando a forma mais clara e executável de documentação de produto. A ideia central é que especificar comportamento desejado em cláusulas verificáveis supera especificações vagas e desatualizadas. Para gerentes de produto e engenheiros que lidam com requisitosambíguos, é uma provocação interessante. Ainda é uma tendência inicial, mas merece atenção.",
+    "reasonEn": "A post on HackerNews argues that contracts between humans and AI systems are becoming the clearest and most executable form of product documentation. The core idea is that specifying desired behavior in verifiable clauses surpasses vague and outdated specifications. For product managers and engineers dealing with ambiguous requirements, it is an interesting provocation. It is still an early trend, but deserves attention.",
+    "score": 0.5,
+    "tags": [
+      "documentação",
+      "contratos"
+    ],
+    "img": "img/626188db749b.jpg",
+    "ts": 1787680363,
+    "addedTs": 1787682360,
+    "urlHash": "626188db749b",
+    "titleHash": "307141fba45a"
+  },
+  {
+    "title": "Claude Cowork finally remembers what you told the app in chat",
+    "titlePt": "Claude Cowork agora lembra do que você disse em conversas anteriores",
+    "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A Anthropic atualizou o Claude Cowork para que ele finalmente se lembre de informações trocadas em conversas anteriores com o usuário. Isso resolve uma das maiores queixas dos usuários e melhora muito a continuidade do trabalho em projetos longos. Para quem usa Claude no dia a dia profissional, é uma melhoria prática e imediatamente relevante. Representa mais um passo rumo a agentes com memória persistente e contexto acumulável.",
+    "reasonEn": "Anthropic updated Claude Cowork so that it finally remembers information exchanged in previous conversations with the user. This resolves one of the biggest user complaints and greatly improves work continuity on long projects. For those who use Claude in their daily professional life, it is a practical and immediately relevant improvement. It represents another step towards agents with persistent memory and accumulable context.",
+    "score": 0.75,
+    "tags": [
+      "anthropic",
+      "memória"
+    ],
+    "img": "img/f1c8ae9706e4.jpg",
+    "ts": 1787680233,
+    "addedTs": 1787682360,
+    "urlHash": "f1c8ae9706e4",
+    "titleHash": "cff6084405a4"
+  },
+  {
+    "title": "Software Firms Deploy Bluster and Buybacks to Counter AI Fears",
+    "titlePt": "Empresas de software usam fanfarronice e recompra de ações para combater medo da IA",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-21/salesforce-servicenow-fight-ai-fears-with-buybacks-and-bluster",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Empresas de software estão usando declarações agressivas em earnings e programas de recompra de ações para acalmar investidores assustados com a potencial disrupção da inteligência artificial. É uma estratégia típica de relações com investidores em tempos de incerteza setorial. Para profissionais do mercado financeiro e tecnólogos que acompanham valuations, é uma notícia relevante. Mostra que o impacto da IA já está sendo sentido diretamente no bolso dos acionistas.",
+    "reasonEn": "Software companies are using aggressive earnings statements and share buyback programs to calm investors afraid of potential artificial intelligence disruption. It is a typical investor relations strategy in times of sector uncertainty. For financial market professionals and technologists tracking valuations, it is relevant news. It shows that the impact of AI is already being felt directly in shareholders' pockets.",
+    "score": 0.5,
+    "tags": [
+      "mercado",
+      "finanças"
+    ],
+    "img": "img/6b37c61bbcaf.jpg",
+    "ts": 1787678056,
+    "addedTs": 1787682360,
+    "urlHash": "6b37c61bbcaf",
+    "titleHash": "e43f01aa4c2f"
+  },
+  {
+    "title": "Nvidia's Groq 3 LPX accelerator enters full production at 3,500 tokens/SEC",
+    "titlePt": "Acelerador Groq 3 LPX da Nvidia entra em produção a 3.500 tokens por segundo",
+    "url": "https://siliconangle.com/2026/08/24/nvidias-dedicated-inference-accelerator-groq-3-lpx-enters-full-production-to-supercharge-ai-agents/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Nvidia iniciou a produção em escala do acelerador Groq 3 LPX, capaz de processar cerca de 3.500 tokens por segundo em inferência. Isso representa um salto significativo de desempenho para rodar modelos de IA em produção. Para desenvolvedores que operam modelos grandes em escala, é uma notícia relevante que pode reduzir custos e latência. Também pressiona a concorrência a acelerar lançamentos equivalentes.",
+    "reasonEn": "Nvidia started mass production of the Groq 3 LPX accelerator, capable of processing around 3,500 tokens per second in inference. This represents a significant performance leap for running AI models in production. For developers operating large models at scale, it is relevant news that can reduce costs and latency. It also pressures competitors to accelerate equivalent launches.",
+    "score": 0.7,
+    "tags": [
+      "hardware",
+      "nvidia"
+    ],
+    "img": "img/6f841e8ceb5c.jpg",
+    "ts": 1787677982,
+    "addedTs": 1787682360,
+    "urlHash": "6f841e8ceb5c",
+    "titleHash": "7a4bd2e147c9"
+  },
+  {
+    "title": "AI/LLM Usage Becoming a \"Denial of Service Attack\" on Open-Source Maintainers",
+    "titlePt": "Uso de LLMs está virando 'ataque de negação de serviço' para mantenedores open source",
+    "url": "https://www.phoronix.com/news/AI-DoS-Attack-Maintainers",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um post no HackerNews descreve como o uso indiscriminado de grandes modelos de linguagem está sobrecarregando mantenedores de projetos open source ao redor do mundo. Bots e usuários generan issues, pull requests e perguntas de baixa qualidade, consumindo o tempo limitado de voluntários. Para qualquer pessoa que mantém ou depende de software open source, é um alerta sério. A comunidade precisa urgentemente de soluções para filtrar contribuições automatizadas.",
+    "reasonEn": "A post on HackerNews describes how the indiscriminate use of large language models is overloading open source project maintainers around the world. Bots and users generate low-quality issues, pull requests, and questions, consuming volunteers' limited time. For anyone who maintains or depends on open source software, it is a serious warning. The community urgently needs solutions to filter automated contributions.",
+    "score": 0.85,
+    "tags": [
+      "open-source",
+      "llm"
+    ],
+    "img": "img/a11504bdd7e0.jpg",
+    "ts": 1787677954,
+    "addedTs": 1787682360,
+    "urlHash": "a11504bdd7e0",
+    "titleHash": "31dbc10dd1a5"
+  },
+  {
+    "title": "The AI-coding stack: a map for a landscape that won't sit still",
+    "titlePt": "O stack de codificação com IA: um mapa para um cenário em constante mudança",
+    "url": "https://mineti.dev/articles/the-ai-coding-stack/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um post no HackerNews tenta mapear o ecossistema de ferramentas de codificação com IA, mostrando como editores, agentes, terminais e IDEs se encaixam. É um recurso útil para desenvolvedores perdidos em meio a tantas opções concorrentes. Ajuda a decidir onde investir tempo de aprendizado e quais categorias ignorar. Vale guardar como referência e revisitar conforme o mercado evolui.",
+    "reasonEn": "A post on HackerNews tries to map the ecosystem of AI coding tools, showing how editors, agents, terminals, and IDEs fit together. It is a useful resource for developers lost amid so many competing options. It helps decide where to invest learning time and which categories to ignore. Worth keeping as a reference and revisiting as the market evolves.",
+    "score": 0.65,
+    "tags": [
+      "ferramentas",
+      "codificação"
+    ],
+    "img": "img/94f54c515fbd.jpg",
+    "ts": 1787677566,
+    "addedTs": 1787682360,
+    "urlHash": "94f54c515fbd",
+    "titleHash": "86fc534c035a"
+  },
+  {
+    "title": "Meta's custom transport protocol embraces packet chaos to boost AI throughput",
+    "titlePt": "Meta usa protocolo de transporte próprio com 'caos de pacotes' para turbinar IA",
+    "url": "https://www.sdxcentral.com/news/metas-custom-transport-protocol-embraces-packet-chaos-to-boost-ai-throughput/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Meta detalhou um protocolo de transporte customizado que tolera pacotes fora de ordem para aumentar a vazão em cargas de trabalho de inteligência artificial. A abordagem lembra técnicas de rede tolerantes a falhas aplicadas ao treinamento e inferência de modelos. Para engenheiros de infraestrutura e redes, é conteúdo técnico relevante e bem fundamentado. Pode influenciar futuras otimizações em datacenters de outras empresas.",
+    "reasonEn": "Meta detailed a custom transport protocol that tolerates out-of-order packets to increase throughput in artificial intelligence workloads. The approach is reminiscent of fault-tolerant network techniques applied to model training and inference. For infrastructure and network engineers, it is relevant and well-founded technical content. It may influence future optimizations in datacenters at other companies.",
+    "score": 0.6,
+    "tags": [
+      "rede",
+      "infraestrutura"
+    ],
+    "img": "img/cfc73f3e58d6.jpg",
+    "ts": 1787677370,
+    "addedTs": 1787682360,
+    "urlHash": "cfc73f3e58d6",
+    "titleHash": "736bc1ddb44f"
+  },
+  {
+    "title": "The AI Trade Is Becoming a Macro Trade",
+    "titlePt": "O trade de IA está se tornando um trade macro",
+    "url": "https://www.emergingtrajectories.com/lh/ai-trade-is-macro/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Analistas argumentam que os investimentos em inteligência artificial deixaram de ser apostas puramente tecnológicas e passaram a funcionar como posições macroeconômicas globais. À medida que gigantes como Nvidia, Microsoft e outras concentram poder no setor, fluxos de capital em IA passaram a influenciar índices amplos de mercado e ciclos econômicos. Para desenvolvedores e investidores, isso significa que exposição a IA hoje equivale quase a apostar no rumo geral da economia. O artigo explica as implicações para portfólios e riscos sistêmicos.",
+    "reasonEn": "Analysts argue that AI investments have moved beyond pure technology bets and now function as global macroeconomic positions. As giants like Nvidia, Microsoft, and others concentrate power in the sector, AI capital flows are moving broad market indices and economic cycles. For developers and investors, this means AI exposure today is nearly a bet on the overall direction of the economy. The article explains the implications for portfolios and systemic risks.",
+    "score": 0.5,
+    "tags": [
+      "mercado",
+      "investimento",
+      "macro"
+    ],
+    "img": "img/4ea34103c629.jpg",
+    "ts": 1787676957,
+    "addedTs": 1787682360,
+    "urlHash": "4ea34103c629",
+    "titleHash": "05e50aa6aa8a"
+  },
+  {
+    "title": "The Download: smarter AI in schools, and a robot &#8220;carnival&#8221; in Shanghai",
+    "titlePt": "IA mais inteligente nas escolas e 'carnaval' de robôs em Xangai",
+    "url": "https://www.technologyreview.com/2026/08/25/1142909/the-download-smarter-ai-in-schools-robot-carnival-shanghai/",
+    "source": "MIT Tech Review",
+    "sources": [
+      "MIT Tech Review"
+    ],
+    "reason": "A edição semanal do MIT Tech Review destaca dois temas principais. O primeiro é o uso crescente de inteligência artificial em escolas, com novas ferramentas adaptativas que personalizam o aprendizado de alunos. O segundo é um grande evento em Xangai que reuniu robôs humanoides em demonstrações públicas, mostrando a aposta da China em robótica avançada para serviços e indústria. Para desenvolvedores, o material aponta tendências de mercado e oportunidades em educação e robótica aplicada.",
+    "reasonEn": "MIT Tech Review's weekly edition highlights two main stories. The first is the growing use of AI in schools with new adaptive tools that personalize student learning. The second is a major event in Shanghai showcasing humanoid robots in public demos, showing China's bet on advanced robotics for services and industry. For developers, the material highlights market trends and opportunities in education and applied robotics.",
+    "score": 0.5,
+    "tags": [
+      "educação",
+      "robótica",
+      "china"
+    ],
+    "img": "img/96b393aaa249.jpg",
+    "ts": 1787659800,
+    "addedTs": 1787682360,
+    "urlHash": "96b393aaa249",
+    "titleHash": "f67f57216bb0"
+  },
+  {
     "title": "A primer and taxonomy for agent sandboxes",
     "titlePt": "Guia e taxonomia de sandboxes para agentes",
     "url": "https://nolabs.ai/blog/sandbox-primer",
@@ -10617,263 +10871,5 @@
     "addedTs": 1787163638,
     "urlHash": "a3a4700a96d1",
     "titleHash": "23580db7dc9c"
-  },
-  {
-    "title": "Etched AI valuation doubles to $21B in a month",
-    "titlePt": "Etched AI dobra valuation para US$ 21 bilhões em um mês",
-    "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A startup Etched AI, focada em chips especializados para inferência de modelos grandes, viu sua valuation dobrar para US$ 21 bilhões em apenas um mês. O movimento reflete o apetite dos investidores por hardware alternativo à Nvidia. A empresa está apostando em ASICs otimizados para transformers. Pode indicar uma nova onda de competição no mercado de chips de IA. Investidores e profissionais de infraestrutura devem ficar atentos a essa rodada.",
-    "reasonEn": "Startup Etched AI, focused on chips specialized for large model inference, saw its valuation double to $21 billion in just one month. The move reflects investor appetite for Nvidia-alternative hardware. The company is betting on ASICs optimized for transformers. It may signal a new wave of competition in the AI chip market. Investors and infrastructure professionals should pay attention to this round.",
-    "score": 0.85,
-    "tags": [
-      "hardware",
-      "investimento",
-      "chips"
-    ],
-    "img": "img/9f1fb4617b32.jpg",
-    "ts": 1787158845,
-    "addedTs": 1787163638,
-    "urlHash": "9f1fb4617b32",
-    "titleHash": "da0d748ce8f9"
-  },
-  {
-    "title": "Show HN: CrewCode – Open-source Mission Control for AI coding agents",
-    "titlePt": "CrewCode é um centro de comando open source para agentes de código",
-    "url": "https://github.com/OnPoint-Dev-Tools/crewcode",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "CrewCode é um projeto open source que funciona como centro de comando para coordenar múltiplos agentes de codificação de IA. A ferramenta ajuda times a organizar e monitorar agentes que escrevem código em paralelo. É útil para empresas que estão escalando o uso de coding agents. O fato de ser open source facilita adoção e auditoria. Desenvolvedores que usam ferramentas como Claude Code ou Aider podem se interessar.",
-    "reasonEn": "CrewCode is an open-source project that acts as a mission control to coordinate multiple AI coding agents. The tool helps teams organize and monitor agents writing code in parallel. It's useful for companies scaling the use of coding agents. Being open source makes adoption and auditing easier. Developers using tools like Claude Code or Aider may be interested.",
-    "score": 0.55,
-    "tags": [
-      "open-source",
-      "agentes",
-      "codificação"
-    ],
-    "img": "img/cdf8a3d75e81.jpg",
-    "ts": 1787158582,
-    "addedTs": 1787163638,
-    "urlHash": "cdf8a3d75e81",
-    "titleHash": "f264ca38c276"
-  },
-  {
-    "title": "Show HN: Intelix – AI agent that investigates and resolves production incidents",
-    "titlePt": "Intelix é um agente de IA que investiga incidentes de produção",
-    "url": "https://intelix.dev",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Intelix é um agente de IA mostrado no Hacker News que investiga e resolve incidentes em sistemas de produção automaticamente. A ferramenta promete reduzir o tempo de resposta a falhas e o trabalho de SREs. Pode ser integrada a stacks de observabilidade existentes como Datadog ou PagerDuty. É uma aplicação prática de agentes em DevOps. Vale avaliar para equipes de plantão que lidam com alertas frequentes.",
-    "reasonEn": "Intelix is an AI agent shown on Hacker News that investigates and resolves production incidents automatically. The tool promises to reduce incident response time and SRE workload. It can integrate with existing observability stacks like Datadog or PagerDuty. It's a practical application of agents in DevOps. Worth evaluating for on-call teams dealing with frequent alerts.",
-    "score": 0.55,
-    "tags": [
-      "agentes",
-      "devops",
-      "sre"
-    ],
-    "img": "img/51e209689f6c.jpg",
-    "ts": 1787158564,
-    "addedTs": 1787163638,
-    "urlHash": "51e209689f6c",
-    "titleHash": "9432c8182792"
-  },
-  {
-    "title": "Cerebras chips rival Nvidia GPUs for AI [video]",
-    "titlePt": "Chips da Cerebras rivalizam com GPUs da Nvidia em IA",
-    "url": "https://www.youtube.com/watch?v=qC_lCFTOJU0",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um vídeo demonstra benchmarks em que chips da Cerebras Systems conseguem rivalizar com GPUs da Nvidia em cargas de IA. A Cerebras é uma das concorrentes mais sérias no mercado de hardware alternativo para IA. O resultado pode pressionar a Nvidia a baixar preços ou acelerar inovações. Para compradores de infraestrutura, novas opções significam mais poder de negociação. É uma boa notícia para o ecossistema como um todo.",
-    "reasonEn": "A video shows benchmarks where Cerebras Systems chips rival Nvidia GPUs on AI workloads. Cerebras is one of the most serious competitors in the AI alternative hardware market. The result may pressure Nvidia to lower prices or accelerate innovations. For infrastructure buyers, new options mean more negotiating power. It's good news for the ecosystem as a whole.",
-    "score": 0.8,
-    "tags": [
-      "hardware",
-      "nvidia",
-      "chips"
-    ],
-    "img": "img/04c26d007b08.jpg",
-    "ts": 1787158283,
-    "addedTs": 1787163638,
-    "urlHash": "04c26d007b08",
-    "titleHash": "d997f5678227"
-  },
-  {
-    "title": "ChatGPT is getting a dedicated mode for teens",
-    "titlePt": "ChatGPT ganha modo dedicado para adolescentes",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "A OpenAI anunciou um modo dedicado para adolescentes no ChatGPT, com regras mais rígidas de proteção de menores. O novo modo vai limitar certos tipos de conteúdo e aplicar filtros adicionais para evitar interações inadequadas com jovens usuários. A medida atende a pressões regulatórias e de pais que querem mais segurança para filhos usando IA. A expectativa é que o recurso chegue aos poucos nas próximas semanas. Para famílias e educadores, é um passo relevante para tornar o uso do ChatGPT mais seguro para adolescentes.",
-    "reasonEn": "OpenAI announced a dedicated mode for teenagers in ChatGPT, with stricter rules for protecting minors. The new mode will limit certain types of content and apply additional filters to prevent inappropriate interactions with young users. The move responds to regulatory pressure and demands from parents who want more safety for their kids using AI. The feature is expected to roll out gradually over the coming weeks. For families and educators, it's a meaningful step toward making ChatGPT safer for teens.",
-    "score": 0.7,
-    "tags": [
-      "openai",
-      "segurança"
-    ],
-    "img": "img/ba537370f753.jpg",
-    "ts": 1787052593,
-    "addedTs": 1787163638,
-    "urlHash": "ba537370f753",
-    "titleHash": "55c800c1e456"
-  },
-  {
-    "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
-    "titlePt": "Reator nuclear da TerraPower mira data centers de IA",
-    "url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A TerraPower, empresa de Bill Gates, está desenvolvendo um reator nuclear avançado para alimentar data centers de inteligência artificial. O consumo de energia da IA explodiu e empresas buscam fontes firmes e limpas para garantir operação contínua. A notícia é relevante para o setor de infraestrutura e para qualquer pessoa preocupada com o impacto energético da IA. Pode acelerar a corrida por energia nuclear dedicada a data centers.",
-    "reasonEn": "TerraPower, Bill Gates' company, is developing an advanced nuclear reactor to power AI data centers. AI energy demand has exploded and firms want firm, clean sources for continuous operation. The story matters for the infrastructure sector and anyone worried about AI's energy footprint. It may accelerate the race for nuclear power dedicated to data centers.",
-    "score": 0.75,
-    "tags": [
-      "energia",
-      "infraestrutura"
-    ],
-    "img": "img/c86c5d5f5cf7.jpg",
-    "ts": 1787154293,
-    "addedTs": 1787156438,
-    "urlHash": "c86c5d5f5cf7",
-    "titleHash": "d121603ffaa9"
-  },
-  {
-    "title": "Amazon Prime Air drone delivery expanding to nearly 500 cities&towns this year",
-    "titlePt": "Amazon amplia entrega por drones para quase 500 cidades",
-    "url": "https://www.aboutamazon.com/news/transportation/amazon-prime-air-drone-delivery-expansion",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O Amazon Prime Air vai expandir o serviço de entrega por drones para quase 500 cidades e vilarejos ainda este ano. A Amazon vem testando essa tecnologia há anos e agora acelera a implantação. A notícia interessa a consumidores e ao setor de logística. Também levanta questões sobre regulação e impacto em empregos locais.",
-    "reasonEn": "Amazon Prime Air will expand drone delivery to nearly 500 cities and towns this year. Amazon has been testing this technology for years and is now scaling up. The news matters to consumers and the logistics sector. It also raises questions about regulation and local jobs.",
-    "score": 0.55,
-    "tags": [
-      "drones",
-      "logística"
-    ],
-    "img": "img/2efa6606bfaf.jpg",
-    "ts": 1787154253,
-    "addedTs": 1787156438,
-    "urlHash": "2efa6606bfaf",
-    "titleHash": "de5419cfc307"
-  },
-  {
-    "title": "Ornith 1.5 35B-A3B: SOTA 35B MoE model",
-    "titlePt": "Ornith 1.5 35B-A3B: novo modelo MoE de ponta",
-    "url": "https://huggingface.co/ornith-ai/Ornith-1.5-35B-A3B",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Foi lançado o Ornith 1.5, um modelo de arquitetura MoE (Mistura de Especialistas) com 35 bilhões de parâmetros, que reivindica resultados de ponta em sua categoria. Modelos abertos e eficientes como esse competem diretamente com alternativas fechadas e caras. A notícia interessa a desenvolvedores, pesquisadores e equipes que avaliam custo e desempenho. Pode reduzir a dependência de proveedores pagos.",
-    "reasonEn": "Ornith 1.5 was released, a Mixture-of-Experts model with 35 billion parameters claiming state-of-the-art results in its class. Open, efficient models like this compete directly with closed and expensive alternatives. It matters to developers, researchers, and teams weighing cost and performance. It may reduce reliance on paid providers.",
-    "score": 0.7,
-    "tags": [
-      "modelo",
-      "open-source"
-    ],
-    "img": "img/2d9dc85f5563.jpg",
-    "ts": 1787154121,
-    "addedTs": 1787156438,
-    "urlHash": "2d9dc85f5563",
-    "titleHash": "59315bf8b753"
-  },
-  {
-    "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
-    "titlePt": "Amazon libera Alexa+ com IA grátis no Fire TV",
-    "url": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A Amazon tornou a versão com inteligência artificial da Alexa, chamada Alexa+, gratuita para usuários de Fire TV, sem exigir assinatura Prime. A medida expande o alcance da nova Alexa e pressiona concorrentes como Google Assistant e Siri. É relevante para consumidores e para o mercado de assistentes em casas conectadas. Também mostra a Amazon interessada em volume de usuários mais do que em assinatura.",
-    "reasonEn": "Amazon made the AI-powered Alexa, called Alexa+, free for Fire TV users without requiring a Prime subscription. The move expands the reach of the new Alexa and pressures rivals like Google Assistant and Siri. It matters to consumers and the smart-home assistant market. It also shows Amazon prioritizing user reach over subscription revenue.",
-    "score": 0.6,
-    "tags": [
-      "amazon",
-      "consumidor"
-    ],
-    "img": "img/c1c7e913fcf6.jpg",
-    "ts": 1787151600,
-    "addedTs": 1787156438,
-    "urlHash": "c1c7e913fcf6",
-    "titleHash": "4ae0d51bd353"
-  },
-  {
-    "title": "The Download: AI’s self-improvement problem, and what’s driving the heat",
-    "titlePt": "O problema da autoaprimoramento da IA e o calor dos data centers",
-    "url": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
-    "source": "MIT Tech Review",
-    "sources": [
-      "MIT Tech Review"
-    ],
-    "reason": "A edição desta semana da newsletter The Download, da MIT Technology Review, aborda dois temas: o risco de modelos de IA que se aprimoram sem supervisão e o calor gerado pelos data centers que sustentam essa tecnologia. São dois dos debates mais importantes do momento em IA. A leitura é recomendada para quem quer entender os bastidores do setor. Os dois assuntos se complementam e ajudam a explicar pressões atuais sobre infraestrutura e segurança.",
-    "reasonEn": "This week's MIT Technology Review newsletter The Download covers two themes: the risk of AI models improving themselves without oversight, and the heat generated by data centers powering them. Both are among today's most important AI debates. The read is recommended for anyone wanting to understand the industry's undercurrents. The two topics complement each other and help explain current pressure on infrastructure and safety.",
-    "score": 0.55,
-    "tags": [
-      "segurança",
-      "infraestrutura"
-    ],
-    "img": "img/ab220d8f2021.jpg",
-    "ts": 1787141400,
-    "addedTs": 1787156438,
-    "urlHash": "ab220d8f2021",
-    "titleHash": "3169341c5729"
-  },
-  {
-    "title": "AI isn&#8217;t close to curing cancer. This startup says it knows what it will take.",
-    "titlePt": "Startup diz o que falta para a IA ajudar de verdade no tratamento de câncer",
-    "url": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "Uma startup afirma que a IA ainda está longe de curar câncer e defende que é preciso mudar a abordagem para ter resultados reais. A reportagem critica o exagero das promessas sobre IA na medicina e mostra a visão da empresa sobre o que poderia funcionar. Isso importa porque pacientes, investidores e desenvolvedores ouvem afirmações grandiosas sobre saúde e tecnologia. Quem acompanha novidades de health tech precisa colocar as expectativas na balança.",
-    "reasonEn": "A startup is pushing back on the hype that AI is close to curing cancer, arguing the field needs a different approach to deliver real results. The article flags that expectations around AI in medicine are overblown and outlines what the company thinks would actually work. This matters for patients, investors and developers who keep hearing grand promises about health tech. Readers should walk away with a more grounded view of what AI can realistically do in healthcare today.",
-    "score": 0.65,
-    "tags": [
-      "saúde",
-      "hype",
-      "startup"
-    ],
-    "img": "img/22f6c454e53f.jpg",
-    "ts": 1787140800,
-    "addedTs": 1787156438,
-    "urlHash": "22f6c454e53f",
-    "titleHash": "20ec9d76c805"
-  },
-  {
-    "title": "Replit expands access to software creation with GPT-5.6 Luna",
-    "titlePt": "Replit amplia acesso à criação de software com novo modelo GPT-5.6 Luna",
-    "url": "https://openai.com/index/replit",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A plataforma de programação Replit anunciou que está expandindo o acesso à criação de software com um novo modelo chamado GPT-5.6 Luna. A ideia é democratizar o desenvolvimento, permitindo que mais pessoas criem aplicativos sem conhecimento profundo de código. Desenvolvedores e curiosos devem ficar atentos, pois a novidade pode mudar a forma como softwares são feitos. Detalhes técnicos sobre o modelo em si ainda são limitados.",
-    "reasonEn": "The coding platform Replit announced it is expanding access to software creation with a new model called GPT-5.6 Luna. The goal is to democratize development so more people can build apps without deep coding knowledge. Developers and curious users should pay attention, as this could change how software gets built. Technical details on the model itself remain limited.",
-    "score": 0.5,
-    "tags": [
-      "lançamento",
-      "ferramenta",
-      "codificação"
-    ],
-    "img": "img/2f00013902a2.jpg",
-    "ts": 1787122800,
-    "addedTs": 1787156438,
-    "urlHash": "2f00013902a2",
-    "titleHash": "69fc5acda970"
   }
 ]
