@@ -1,5 +1,244 @@
 [
   {
+    "title": "IBM Z and LinuxONE Dual-ISA Processor and AI Acceleration at Hot Chips 2026",
+    "titlePt": "IBM apresenta processador com aceleração de IA no Hot Chips 2026",
+    "url": "https://www.servethehome.com/ibm-z-and-linuxone-dual-isa-processor-and-ai-acceleration-at-hot-chips-2026/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A IBM revelou no Hot Chips 2026 um novo processador para os mainframes Z e LinuxONE com arquitetura Dual-ISA e aceleração nativa de IA. A novidade é relevante para empresas que rodam cargas críticas e querem inferência local sem ir à nuvem. Para desenvolvedores, mostra como o hardware está se adaptando para incorporar IA diretamente no silício. É um movimento estratégico para manter o mainframe competitivo.",
+    "reasonEn": "IBM revealed at Hot Chips 2026 a new processor for Z and LinuxONE mainframes with Dual-ISA architecture and native AI acceleration. The news matters for enterprises running critical workloads that want local inference without going to the cloud. For developers, it shows how hardware is adapting to bake AI directly into silicon. It's a strategic move to keep mainframes competitive.",
+    "score": 0.7,
+    "tags": [
+      "hardware",
+      "ia",
+      "ibm"
+    ],
+    "img": "img/1ce5e00ca95b.jpg",
+    "ts": 1787625956,
+    "addedTs": 1787626287,
+    "urlHash": "1ce5e00ca95b",
+    "titleHash": "11630105bffa"
+  },
+  {
+    "title": "Is there a pending AI 'debt bomb' crisis? No. This isn't Enron 2.0",
+    "titlePt": "Há uma 'bomba de dívida' de IA prestes a explodir? Análise diz que não",
+    "url": "https://www.theguardian.com/technology/2026/aug/23/ai-debt-bomb-crisis",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um artigoa tese de que o setor de IA vive uma crise de dívida iminente, comparando-a com o caso Enron. A discussão importa para investidores e profissionais que acompanham o mercado, pois dá contexto sobre os riscos reais do setor. O argumento central é que, apesar do hype, os fundamentos são diferentes. Vale ler para não se deixar levar pelo pânico.",
+    "reasonEn": "An article pushes back on the thesis that the AI sector faces an imminent debt crisis, comparing it to Enron. The discussion matters for investors and market watchers because it provides context on real risks. The core argument is that despite the hype, the fundamentals differ. Worth reading to avoid panic.",
+    "score": 0.6,
+    "tags": [
+      "finanças",
+      "análise",
+      "mercado"
+    ],
+    "img": "img/d2bdda1c9026.jpg",
+    "ts": 1787625027,
+    "addedTs": 1787626287,
+    "urlHash": "d2bdda1c9026",
+    "titleHash": "309f833593c6"
+  },
+  {
+    "title": "Capture why AI wrote each commit, stored in Git-notes",
+    "titlePt": "Ferramenta registra nos Git-notes por que a IA gerou cada commit",
+    "url": "https://github.com/surajsrivastav/gitwhy",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um projeto do Hacker News propõe armazenar, nos próprios Git-notes, a justificativa de cada commit escrito por IA. Isso ajuda equipes a auditar código gerado automaticamente e entender a intenção por trás de cada mudança. Para desenvolvedores, resolve um problema crescente de rastreabilidade em times que usam IA. É uma solução simples e que aproveita infraestrutura já existente no Git.",
+    "reasonEn": "A Hacker News project proposes storing, in Git-notes themselves, the rationale for each AI-written commit. This helps teams audit auto-generated code and understand the intent behind each change. For developers, it solves a growing traceability problem in teams that use AI. It's a simple solution that leverages existing Git infrastructure.",
+    "score": 0.7,
+    "tags": [
+      "devtools",
+      "git",
+      "ia"
+    ],
+    "img": "img/7d48a2afbc11.jpg",
+    "ts": 1787624875,
+    "addedTs": 1787626287,
+    "urlHash": "7d48a2afbc11",
+    "titleHash": "a7b693e9cfa5"
+  },
+  {
+    "title": "Sellers on Shopee, TikTok call out auto-generated AI ads that mislead customers",
+    "titlePt": "Vendedores na Shopee e TikTok denunciam anúncios de IA que enganam clientes",
+    "url": "https://www.channelnewsasia.com/singapore/ai-generated-videos-shopee-tiktok-misleading-sellers-6336961",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Vendedores nas plataformas Shopee e TikTok estão reclamando que anúncios gerados automaticamente por IA estão enganando consumidores, prometendo produtos que não existem ou exagerando qualidades. O problema afeta diretamente lojistas honestos, que perdem vendas e reputação. Para desenvolvedores, mostra um risco real do uso sem curadoria de IA em e-commerce. Plataformas precisarão melhorar a moderação.",
+    "reasonEn": "Sellers on Shopee and TikTok are complaining that auto-generated AI ads are misleading customers, promising products that don't exist or exaggerating qualities. The problem directly affects honest merchants, who lose sales and reputation. For developers, it shows a real risk of uncurated AI use in e-commerce. Platforms will need to improve moderation.",
+    "score": 0.6,
+    "tags": [
+      "ecommerce",
+      "regulação",
+      "ia"
+    ],
+    "img": "img/030c1b4ac95d.jpg",
+    "ts": 1787624596,
+    "addedTs": 1787626287,
+    "urlHash": "030c1b4ac95d",
+    "titleHash": "1a10ffe00632"
+  },
+  {
+    "title": "Enterprise AI Operating System",
+    "titlePt": "Sistema operacional de IA para empresas é lançado",
+    "url": "https://devnavigator.com/2026/08/25/enterprise-ai-operating-system/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um novo sistema operacional voltado para uso corporativo com IA apareceu no Hacker News, prometendo unificar fluxos de trabalho com agentes. Para empresas, pode simplificar a integração de modelos em processos internos. Para desenvolvedores, é mais um framework em um mercado já saturado. Vale acompanhar, mas o título sozinho não dá detalhes técnicos suficientes.",
+    "reasonEn": "A new AI-focused operating system for enterprise use surfaced on Hacker News, promising to unify workflows with agents. For companies, it could simplify integrating models into internal processes. For developers, it's another framework in an already crowded market. Worth following, but the headline alone lacks technical detail.",
+    "score": 0.5,
+    "tags": [
+      "enterprise",
+      "agentes",
+      "lançamento"
+    ],
+    "img": "img/2be81c56b132.jpg",
+    "ts": 1787621144,
+    "addedTs": 1787626287,
+    "urlHash": "2be81c56b132",
+    "titleHash": "13379ac7479c"
+  },
+  {
+    "title": "Flex: Let the Model Write the Code",
+    "titlePt": "Flex: ferramenta deixa o modelo de IA escrever o código",
+    "url": "https://www.cmpnd.ai/blog/let-the-model-write-the-code.html",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Flex é uma nova ferramenta que permite que modelos de linguagem escrevam o código diretamente, indo além do tradicional autocomplete. Para desenvolvedores, automatiza tarefas repetitivas e pode acelerar protótipos. O lançamento entra em um mercado já competitivo com Cursor, Copilot e outros. Vale testar para ver se traz ganho real de produtividade.",
+    "reasonEn": "Flex is a new tool that lets language models write code directly, going beyond traditional autocomplete. For developers, it automates repetitive tasks and can speed up prototypes. The launch enters an already competitive market with Cursor, Copilot and others. Worth testing to see if it brings real productivity gains.",
+    "score": 0.5,
+    "tags": [
+      "devtools",
+      "codificação",
+      "ia"
+    ],
+    "img": "img/68ff4c87b7f5.jpg",
+    "ts": 1787619627,
+    "addedTs": 1787626287,
+    "urlHash": "68ff4c87b7f5",
+    "titleHash": "e9ac7ed0a3a6"
+  },
+  {
+    "title": "AI Skills for Real Engineers",
+    "titlePt": "Habilidades de IA para engenheiros de verdade",
+    "url": "https://blog.master.dev/introducing-ai-skills-for-real-engineers/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um post no Hacker News defende habilidades práticas de IA voltadas a profissionais de engenharia, fugindo do hype. É útil para desenvolvedores que querem separar o que realmente funciona do que é marketing. O conteúdo se alinha à tendência de profissionalização do uso de IA em times de engenharia. Vale conferir para ajustar a própria estratégia de aprendizado.",
+    "reasonEn": "A Hacker News post advocates practical AI skills aimed at real engineering professionals, cutting through the hype. It's useful for developers wanting to separate what actually works from marketing. The content aligns with the trend of professionalizing AI use in engineering teams. Worth reading to adjust your own learning strategy.",
+    "score": 0.5,
+    "tags": [
+      "carreira",
+      "engenharia",
+      "ia"
+    ],
+    "img": "img/e8bf0e84bcb8.jpg",
+    "ts": 1787614762,
+    "addedTs": 1787626287,
+    "urlHash": "e8bf0e84bcb8",
+    "titleHash": "ea128b0882d6"
+  },
+  {
+    "title": "The Download: kids outlearning AI, and space travel agents",
+    "titlePt": "MIT Tech Review: crianças superam IA e agentes de viagem espacial",
+    "url": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
+    "source": "MIT Tech Review",
+    "sources": [
+      "MIT Tech Review"
+    ],
+    "reason": "O boletim The Download da MIT Technology Review traz duas pautas: crianças que aprendem mais rápido do que modelos de IA em certas tarefas, e o uso de agentes de IA para planejar viagens espaciais. O primeiro ponto contraria narrativas exageradas sobre a supremacia da IA. O segundo mostra aplicações curiosas em nichos específicos. É conteúdo de leitura leve, mas com contrapontos interessantes.",
+    "reasonEn": "MIT Technology Review's The Download newsletter covers two topics: kids outlearning AI models at certain tasks, and AI agents used as space travel planners. The first point counters exaggerated narratives about AI supremacy. The second shows curious applications in specific niches. It's light reading with worthwhile counterpoints.",
+    "score": 0.5,
+    "tags": [
+      "educação",
+      "agentes",
+      "espaço"
+    ],
+    "img": "img/c090dee7d680.jpg",
+    "ts": 1787573400,
+    "addedTs": 1787626287,
+    "urlHash": "c090dee7d680",
+    "titleHash": "3c1b465c5c16"
+  },
+  {
+    "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+    "titlePt": "Listen Labs Capta US$ 69 Milhões Após Outdoor Viral para Contratar",
+    "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+    "source": "VentureBeat AI",
+    "sources": [
+      "VentureBeat AI"
+    ],
+    "reason": "A Listen Labs levantou US$ 69 milhões após uma campanha de outdoor que viralizou e ajudou a empresa a crescer. A startup usa IA para conduzir entrevistas automatizadas com clientes em larga escala. O aporte mostra interesse do mercado em ferramentas de pesquisa com IA. Pode interessar equipes de produto e marketing.",
+    "reasonEn": "Listen Labs raised $69 million after a viral billboard hiring campaign that helped the company grow. The startup uses AI to run automated customer interviews at scale. The funding shows market interest in AI-powered research tools. May interest product and marketing teams.",
+    "score": 0.55,
+    "tags": [
+      "investimento",
+      "pesquisa"
+    ],
+    "img": "img/2f6e8f891c0a.jpg",
+    "ts": 1768572060,
+    "addedTs": 1787626287,
+    "urlHash": "2f6e8f891c0a",
+    "titleHash": "146325c98ea5"
+  },
+  {
+    "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+    "titlePt": "Salesforce Lança Novo Agente de IA no Slack Contra Microsoft e Google",
+    "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+    "source": "VentureBeat AI",
+    "sources": [
+      "VentureBeat AI"
+    ],
+    "reason": "A Salesforce apresentou um novo agente de IA integrado ao Slack, chamado Slackbot, para competir com Microsoft e Google no mercado corporativo. O agente promete automatizar tarefas dentro do chat de trabalho. A movimentação mostra a briga intensa pelo espaço de IA em ambientes de produtividade. Afeta diretamente equipes que usam essas plataformas.",
+    "reasonEn": "Salesforce unveiled a new AI agent integrated into Slack, called Slackbot, to compete with Microsoft and Google in the corporate market. The agent promises to automate tasks within the work chat. The move shows the intense fight for AI space in productivity environments. Directly affects teams using these platforms.",
+    "score": 0.7,
+    "tags": [
+      "salesforce",
+      "produto"
+    ],
+    "img": "img/0d32aa6b6a8f.jpg",
+    "ts": 1768309200,
+    "addedTs": 1787626287,
+    "urlHash": "0d32aa6b6a8f",
+    "titleHash": "ec8a5cd62e43"
+  },
+  {
+    "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+    "titlePt": "Anthropic Lança Cowork: Agente Claude que Trabalha em Seus Arquivos",
+    "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+    "source": "VentureBeat AI",
+    "sources": [
+      "VentureBeat AI"
+    ],
+    "reason": "A Anthropic lançou o Cowork, um novo agente do Claude Desktop que opera diretamente sobre arquivos do usuário sem necessidade de programação. O agente consegue ler, editar e organizar documentos autonomamente. É um passo importante para tornar agentes úteis fora do código. Afeta desenvolvedores e profissionais que trabalham muito com arquivos.",
+    "reasonEn": "Anthropic launched Cowork, a new Claude Desktop agent that operates directly on user files without requiring programming. The agent can read, edit, and organize documents autonomously. It's an important step toward making agents useful beyond code. Affects developers and professionals who work heavily with files.",
+    "score": 0.85,
+    "tags": [
+      "anthropic",
+      "lançamento"
+    ],
+    "img": "img/157324a9612f.jpg",
+    "ts": 1768217400,
+    "addedTs": 1787626287,
+    "urlHash": "157324a9612f",
+    "titleHash": "68d569241672"
+  },
+  {
     "title": "Who will decide that level AI you have access to?",
     "titlePt": "Quem vai decidir qual nível de IA você terá acesso?",
     "url": "https://guustaaf.substack.com/p/governments-will-decide-what-level-ai-you-have-access-to",
@@ -10617,242 +10856,5 @@
     "addedTs": 1787077447,
     "urlHash": "14a52a5bd598",
     "titleHash": "7d287df7eee6"
-  },
-  {
-    "title": "3D Model Markets Are Being Flooded with AI Sellers, but No One's Buying",
-    "titlePt": "Mercados de modelos 3D inundados por vendedores de IA, sem compradores",
-    "url": "https://kotaku.com/3d-model-markets-are-being-flooded-with-ai-sellers-but-no-ones-buying-2000724790",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O mercado de modelos 3D está recebendo uma enxurrada de assets gerados por IA, mas compradores parecem desconfiar da qualidade e dos direitos de uso. Mostra que só gerar conteúdo com IA não basta: ainda é preciso curadoria, procedência e confiança. Afeta diretamente artistas 3D que veem seus preços caírem.",
-    "reasonEn": "The 3D model marketplace is being flooded with AI-generated assets, but buyers appear wary of quality and usage rights. It shows that generating content with AI isn't enough: curation, provenance and trust still matter. It directly affects 3D artists watching their prices drop.",
-    "score": 0.6,
-    "tags": [
-      "3d",
-      "mercado",
-      "ia-generativa"
-    ],
-    "img": "img/5483c6f980a7.jpg",
-    "ts": 1787076079,
-    "addedTs": 1787077447,
-    "urlHash": "5483c6f980a7",
-    "titleHash": "85d61945e207"
-  },
-  {
-    "title": "OpenAI institutes new safeguards after Hugging Face breach",
-    "titlePt": "OpenAI cria novas barreiras após violação na Hugging Face",
-    "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A OpenAI implementou novas medidas de segurança depois que uma falha expôs dados na Hugging Face, plataforma usada por desenvolvedores de IA em todo o mundo. O caso mostra como a cadeia de suprimentos de modelos é um alvo sensível para ataques. Empresas e devs que usam Hugging Face devem revisar suas integrações agora.",
-    "reasonEn": "OpenAI rolled out new safeguards after a security lapse exposed data on Hugging Face, a platform widely used by AI developers. The case shows how the model supply chain is a sensitive target for attacks. Companies and devs using Hugging Face should review their integrations now.",
-    "score": 0.85,
-    "tags": [
-      "segurança",
-      "openai"
-    ],
-    "img": "img/1d131bb25f34.jpg",
-    "ts": 1787076000,
-    "addedTs": 1787077447,
-    "urlHash": "1d131bb25f34",
-    "titleHash": "7003e9ee7177"
-  },
-  {
-    "title": "AI Watermarking, Nazi Enigmas, and Sherlock Holmes",
-    "titlePt": "Marcas d'água em IA, enigmas nazistas e Sherlock Holmes",
-    "url": "https://kolja.wawrowsky.com/posts/invisible-fingerprints/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O texto mistura a história da criptografia da Segunda Guerra Mundial com técnicas modernas de marca d'água em textos gerados por IA. É uma leitura curiosa que mostra como ideias clássicas de quebra de códigos voltam com força na era dos grandes modelos de linguagem. Útil para entender os limites das marcas d'água atuais.",
-    "reasonEn": "The piece mixes WWII cryptography history with modern watermarking techniques for AI-generated text. It's a curious read showing how classic codebreaking ideas are back in force in the LLM era. Useful to understand the limits of current watermarking schemes.",
-    "score": 0.5,
-    "tags": [
-      "marca-d'água",
-      "história",
-      "segurança"
-    ],
-    "img": "img/70fc08dd79bf.jpg",
-    "ts": 1787075393,
-    "addedTs": 1787077447,
-    "urlHash": "70fc08dd79bf",
-    "titleHash": "9b45a245bdc0"
-  },
-  {
-    "title": "Return of the Spec: Why AI agents are reviving the software specification",
-    "titlePt": "O retorno da especificação: agentes de IA estão ressuscitando o spec",
-    "url": "https://caines.ca/posts/2026-08-15-return-of-the-spec/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O texto defende que agentes de IA funcionam melhor quando recebem especificações de software bem escritas, em vez de instruções vagas. Mostra como práticas antigas de engenharia voltam por causa dos grandes modelos de linguagem. Leitura útil para líderes técnicos repensando seus fluxos de desenvolvimento.",
-    "reasonEn": "The piece argues AI agents work best when given well-written software specs instead of vague instructions. It shows how old engineering practices are returning because of large language models. Useful reading for tech leads rethinking their development workflows.",
-    "score": 0.7,
-    "tags": [
-      "especificação",
-      "agentes",
-      "engenharia"
-    ],
-    "img": "img/0b832f8def43.jpg",
-    "ts": 1787075363,
-    "addedTs": 1787077447,
-    "urlHash": "0b832f8def43",
-    "titleHash": "f45f90e71eb1"
-  },
-  {
-    "title": "Inference Costs per Agentic Workflow to Increase More Than Fivefold Through 2028",
-    "titlePt": "Custo de inferência por fluxo agêntico pode mais que quintuplicar até 2028",
-    "url": "https://www.gartner.com/en/newsroom/press-releases/2026-08-17-gartner-predicts-ai-inference-costs-per-agentic-workflow-will-increase-more-than-fivefold-through-2028",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um relatório projeta que o custo de rodar fluxos com agentes de IA pode crescer mais de cinco vezes até 2028. Isso significa que produtos baseados em agentes podem ficar muito mais caros para operar à medida que o uso escala. Empresas e desenvolvedores precisam planejar isso agora, não depois.",
-    "reasonEn": "A report projects that running AI agent workflows could cost more than five times as much by 2028. That means agent-based products may get much more expensive to operate as usage scales. Companies and developers need to plan for this now, not later.",
-    "score": 0.85,
-    "tags": [
-      "custos",
-      "agentes",
-      "previsão"
-    ],
-    "img": "img/c26d5834adc5.jpg",
-    "ts": 1787075149,
-    "addedTs": 1787077447,
-    "urlHash": "c26d5834adc5",
-    "titleHash": "0595f421ab62"
-  },
-  {
-    "title": "Contributors are AI-first now. Is your project?",
-    "titlePt": "Colaboradores já são IA-first. E o seu projeto?",
-    "url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O texto defende que projetos open source precisam se adaptar a contribuidores que usam IA como primeira ferramenta de trabalho. É uma discussão prática sobre como comunidades devem receber pull requests gerados por IA e manter a qualidade do código. Relevante para mantenedores de projetos e times open source.",
-    "reasonEn": "The piece argues open source projects need to adapt to contributors who use AI as their first working tool. It's a practical discussion on how communities should accept AI-generated pull requests and keep code quality. Relevant for project maintainers and open source teams.",
-    "score": 0.6,
-    "tags": [
-      "open-source",
-      "colaboração"
-    ],
-    "img": "img/a4ea241f976d.jpg",
-    "ts": 1787075137,
-    "addedTs": 1787077447,
-    "urlHash": "a4ea241f976d",
-    "titleHash": "01ea7120becb"
-  },
-  {
-    "title": "IP can't save you from AI",
-    "titlePt": "Propriedade intelectual não vai te proteger da IA",
-    "url": "https://pluralistic.net/2026/08/18/enron-corpus/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O texto argumenta que tentar blindar conteúdo com leis de propriedade intelectual não funciona bem contra sistemas de IA generativa. Mostra por que regulação e contratos práticos importam mais do que no novo cenário. Leitura para quem cria conteúdo e pensa em como se defender.",
-    "reasonEn": "The piece argues that trying to shield content with IP law doesn't work well against generative AI systems. It shows why regulation and practical contracts matter more than copyright in the new landscape. Reading for creators thinking about how to defend themselves.",
-    "score": 0.5,
-    "tags": [
-      "direitos",
-      "regulação"
-    ],
-    "img": "img/0c38f7cf6e05.jpg",
-    "ts": 1787074584,
-    "addedTs": 1787077447,
-    "urlHash": "0c38f7cf6e05",
-    "titleHash": "9392bc655f14"
-  },
-  {
-    "title": "One Person State – portable personal AI system",
-    "titlePt": "One Person State: sistema pessoal de IA portátil",
-    "url": "https://embassy.svit.la/p/one-person-state",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O projeto propõe um sistema pessoal de IA que roda em qualquer lugar, dando ao usuário controle total dos próprios dados. Combina a ideia de soberania digital com assistentes modernos de IA. Pode interessar quem preza por privacidade, mobilidade e independência de nuvens fechadas.",
-    "reasonEn": "The project proposes a personal AI system that runs anywhere, giving the user full control over their own data. It combines the idea of digital sovereignty with modern AI assistants. It may appeal to those who value privacy, mobility and independence from closed clouds.",
-    "score": 0.5,
-    "tags": [
-      "privacidade",
-      "pessoal"
-    ],
-    "img": "img/8ea0d6b68b14.jpg",
-    "ts": 1787073111,
-    "addedTs": 1787077447,
-    "urlHash": "8ea0d6b68b14",
-    "titleHash": "757e6f71ebc5"
-  },
-  {
-    "title": "A 24-Year-Old Blew Up a $45B AI Fund",
-    "titlePt": "Jovem de 24 anos comanda fundo de IA de US$ 45 bilhões",
-    "url": "https://rubbishtalk.com/finance/how-a-24-year-old-blew-up-a-45-billion-ai-fund/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um gestor de apenas 24 anos está à frente de um fundo bilionário focado em IA, mostrando que a nova geração já controla grandes somas no setor. O caso levanta dúvidas sobre governança e experiência em apostas tão pesadas em tecnologia. Importante para entender como o capital está sendo alocado em IA.",
-    "reasonEn": "A manager of just 24 years old is running a multi-billion-dollar AI fund, showing the new generation already controls huge sums in the sector. The case raises questions about governance and experience in such heavy bets on technology. Important to understand how capital is being deployed in AI.",
-    "score": 0.7,
-    "tags": [
-      "investimento",
-      "gestão"
-    ],
-    "img": "img/f4db3f883923.jpg",
-    "ts": 1787073036,
-    "addedTs": 1787077447,
-    "urlHash": "f4db3f883923",
-    "titleHash": "811f4fd1cc87"
-  },
-  {
-    "title": "Berlin artist makes people invisible to the city's first AI surveillance cameras",
-    "titlePt": "Artista de Berlim torna pessoas invisíveis às câmeras de vigilância com IA",
-    "url": "https://simonweckert.com/digitalcamouflage.html",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um artista de Berlim criou uma técnica visual que confunde sistemas de reconhecimento baseados em IA. A intervenção coincide com a instalação das primeiras câmeras de vigilância inteligentes da capital alemã. O episódio simboliza a corrida entre vigilância automatizada e contramedidas artísticas. Moradores, ativistas e reguladores europeus acompanham o desfecho.",
-    "reasonEn": "A Berlin artist created a visual technique that fools AI-based recognition systems. The intervention coincides with the installation of the city's first smart surveillance cameras. The episode symbolizes the arms race between automated surveillance and artistic countermeasures. Residents, activists, and European regulators are watching closely.",
-    "score": 0.6,
-    "tags": [
-      "privacidade",
-      "vigilância",
-      "europa"
-    ],
-    "img": "img/6aae9ee38fa8.jpg",
-    "ts": 1787069933,
-    "addedTs": 1787070063,
-    "urlHash": "6aae9ee38fa8",
-    "titleHash": "56185e530d08"
-  },
-  {
-    "title": "The Mathematics of Economic Self-Destruction: Inside the \"AI Layoff Trap\"",
-    "titlePt": "A matemática da autodestruição dentro da armadilha das demissões por IA",
-    "url": "https://sylvainsaurel.substack.com/p/the-mathematics-of-economic-self",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo analisa como empresas substituem funcionários por IA esperando economia imediata. Modelos matemáticos sugerem que demissões em massa podem gerar queda de consumo e recessão, prejudicando os próprios lucros. É uma leitura útil para quem planeja carreira ou toma decisões de investimento. Mostra que o hype da produtividade com IA pode esconder efeitos sistêmicos perigosos.",
-    "reasonEn": "The article analyzes how companies replace workers with AI expecting immediate savings. Mathematical models suggest that mass layoffs may trigger a consumption drop and recession, hurting those same profits. Useful reading for anyone planning a career or making investment decisions. It shows the AI productivity hype may hide dangerous systemic effects.",
-    "score": 0.6,
-    "tags": [
-      "economia",
-      "trabalho",
-      "análise"
-    ],
-    "img": "img/cc4940b4c11a.jpg",
-    "ts": 1787069121,
-    "addedTs": 1787070063,
-    "urlHash": "cc4940b4c11a",
-    "titleHash": "311fd2130306"
   }
 ]
