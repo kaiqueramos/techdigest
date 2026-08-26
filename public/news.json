@@ -1,5 +1,264 @@
 [
   {
+    "title": "Inside The Warehouse Where Amazon Scans and Destroys Books for AI Training",
+    "titlePt": "Por dentro do armazém onde a Amazon digitaliza e destrói livros para treinar IA",
+    "url": "https://www.404media.co/inside-the-warehouse-where-amazon-scans-and-destroys-books-for-ai-training/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Reportagem mostra como a Amazon está digitalizando livros físicos e depois destruindo os originais para alimentar seus modelos de IA com dados de treinamento. A prática levanta questões sérias sobre direitos autorais, descarte em massa de papel e o impacto sobre autores e editoras. É mais um capítulo da corrida da indústria por dados de texto e afeta diretamente o ecossistema editorial.",
+    "reasonEn": "A report shows how Amazon is scanning physical books and then destroying the originals to feed its AI models with training data. The practice raises serious questions about copyright, mass paper disposal, and the impact on authors and publishers. It's another chapter in the industry's race for text data and directly affects the publishing ecosystem.",
+    "score": 0.85,
+    "tags": [
+      "treinamento",
+      "direitos autorais",
+      "amazon"
+    ],
+    "img": "img/743bd5be09cf.jpg",
+    "ts": 1787754656,
+    "addedTs": 1787754951,
+    "urlHash": "743bd5be09cf",
+    "titleHash": "bc6087b1f2c5"
+  },
+  {
+    "title": "Orchestration is the new challenge for CX in the age of AI agents",
+    "titlePt": "Orquestração é o novo desafio da experiência do cliente na era dos agentes de IA",
+    "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+    "source": "VentureBeat AI",
+    "sources": [
+      "VentureBeat AI"
+    ],
+    "reason": "O artigo argumenta que, com agentes de IA cada vez mais presentes no atendimento, o gargalo real deixa de ser o modelo em si e passa a ser a orquestração entre sistemas legados, CRM e dados. Empresas precisam integrar agentes a fluxos complexos sem perder contexto nem segurança. É leitura útil para líderes de CX, operações e produto.",
+    "reasonEn": "The article argues that, with AI agents increasingly present in customer service, the real bottleneck shifts from the model itself to the orchestration across legacy systems, CRM, and data. Companies must integrate agents into complex flows without losing context or security. Useful reading for CX, operations, and product leaders.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "experiência do cliente"
+    ],
+    "img": "img/ca54be2f3548.jpg",
+    "ts": 1787754600,
+    "addedTs": 1787754951,
+    "urlHash": "ca54be2f3548",
+    "titleHash": "b4f0572babef"
+  },
+  {
+    "title": "Intel Crescent Island GPU Flexes 32 Xe3P Cores, 480GB LPDDR5X for Agentic AI",
+    "titlePt": "GPU Intel Crescent Island traz 32 núcleos Xe3P e 480 GB de memória para IA agêntica",
+    "url": "https://hothardware.com/news/intel-crescent-island-hot-chips-2026",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Intel apresentou a GPU Crescent Island, voltada para cargas de IA agêntica, com 32 núcleos Xe3P e 480 GB de memória LPDDR5X. O hardware mira em inferência de modelos grandes em data centers com baixo consumo. Sinaliza a tentativa da Intel de competir de verdade com Nvidia e AMD no mercado de IA. Profissionais de infraestrutura devem avaliar.",
+    "reasonEn": "Intel unveiled the Crescent Island GPU, aimed at agentic AI workloads, with 32 Xe3P cores and 480 GB of LPDDR5X memory. The hardware targets inference of large models in data centers with low power use. It signals Intel's serious attempt to compete with Nvidia and AMD in the AI market. Infrastructure professionals should evaluate it.",
+    "score": 0.65,
+    "tags": [
+      "hardware",
+      "intel",
+      "gpu"
+    ],
+    "img": "img/6fa23d38b569.jpg",
+    "ts": 1787753618,
+    "addedTs": 1787754951,
+    "urlHash": "6fa23d38b569",
+    "titleHash": "6d2ce85e0497"
+  },
+  {
+    "title": "Microsoft Paint and Photos add invisible watermarks to AI-generated content",
+    "titlePt": "Microsoft Paint e Fotos adicionam marcas d'água invisíveis a conteúdos gerados por IA",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-paint-and-photos-apps-add-invisible-watermark-to-ai-generated-content-developer-reverse-engineers-guid-embedding",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Microsoft passou a incluir marcas d'água invisíveis em imagens criadas ou editadas com IA dentro dos apps Paint e Fotos no Windows. O objetivo é ajudar a identificar a origem sintética do conteúdo e combater desinformação sem prejudicar a experiência visual. Usuários comuns serão impactados de forma transparente.",
+    "reasonEn": "Microsoft has begun adding invisible watermarks to images created or edited with AI within Windows Paint and Photos apps. The goal is to help identify the synthetic origin of content and fight disinformation without hurting the visual experience. Everyday users will be impacted transparently.",
+    "score": 0.7,
+    "tags": [
+      "microsoft",
+      "marca d'água",
+      "regulação"
+    ],
+    "img": "img/5cd8930b54c2.jpg",
+    "ts": 1787753227,
+    "addedTs": 1787754951,
+    "urlHash": "5cd8930b54c2",
+    "titleHash": "820e7d186fb7"
+  },
+  {
+    "title": "Frontier Reasoning Agents Fail on Interactive 2D Mazes",
+    "titlePt": "Agentes de raciocínio de ponta falham em labirintos 2D interativos",
+    "url": "https://multinet.ai/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um teste simples mostra que os principais agentes de IA com foco em raciocínio ainda se saem mal em labirintos 2D interativos. O resultado questiona o quanto esses modelos realmente 'planejam' ou apenas imitam padrões vistos em treino. É leitura útil para quem acompanha os limites reais da IA e não apenas benchmarks de marketing.",
+    "reasonEn": "A simple test shows that top reasoning-focused AI agents still perform poorly on interactive 2D mazes. The result questions how much these models truly 'plan' versus just mimic patterns seen in training. Useful reading for those tracking AI's real limits, not just marketing benchmarks.",
+    "score": 0.5,
+    "tags": [
+      "benchmark",
+      "raciocínio"
+    ],
+    "img": "img/f7507f9f05f0.jpg",
+    "ts": 1787752826,
+    "addedTs": 1787754951,
+    "urlHash": "f7507f9f05f0",
+    "titleHash": "04fd0bfe6b6e"
+  },
+  {
+    "title": "90% of executives say AI hasn't boosted productivity",
+    "titlePt": "90% dos executivos dizem que IA não aumentou a produtividade",
+    "url": "https://fortune.com/2026/08/22/executives-ai-productivity-layoffs-study/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma pesquisa mostra que 9 em cada 10 executivos não veem ganho de produtividade real com o uso de IA até agora. Os dados confrontam o discurso otimista das grandes empresas de tecnologia e levantam dúvidas sobre o ROI da corrida atual. Tem implicações em contratações, investimentos e estratégia de adoção. Leitura obrigatória para líderes e gestores.",
+    "reasonEn": "A survey shows that 9 in 10 executives don't see real productivity gains from AI so far. The data challenges the optimistic narrative pushed by big tech companies and raises questions about the ROI of the current race. It has implications for hiring, investments, and adoption strategy. Required reading for leaders and managers.",
+    "score": 0.85,
+    "tags": [
+      "produtividade",
+      "negócios",
+      "pesquisa"
+    ],
+    "img": "img/046e4738a504.jpg",
+    "ts": 1787752560,
+    "addedTs": 1787754951,
+    "urlHash": "046e4738a504",
+    "titleHash": "e0b6e1c7c39a"
+  },
+  {
+    "title": "Why Does the AI Industry Fear Pope Leo XIV?",
+    "titlePt": "Por que a indústria de IA teme o Papa Leão XIV?",
+    "url": "https://mrkt30.com/pope-leo-xiv-ai/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O novo papa já se posicionou sobre temas de tecnologia e ética, o que preocupa executivos de IA sobre possíveis pressões morais e regulações vindas do Vaticano. O artigo discute o histórico do pontífice e como ele pode influenciar debates sobre IA, dignidade humana e automação. Leitura relevante para acompanhar a intersecção entre religião, ética e tecnologia.",
+    "reasonEn": "The new pope has already taken positions on tech and ethics, which worries AI executives about possible moral pressure and regulations coming from the Vatican. The article discusses the pontiff's background and how he may influence debates on AI, human dignity, and automation. Relevant reading to track the intersection of religion, ethics, and technology.",
+    "score": 0.6,
+    "tags": [
+      "regulação",
+      "ética",
+      "religião"
+    ],
+    "img": "img/2a79f3f5f042.jpg",
+    "ts": 1787752253,
+    "addedTs": 1787754951,
+    "urlHash": "2a79f3f5f042",
+    "titleHash": "36269dce5781"
+  },
+  {
+    "title": "Wall Street Is Counting on Nvidia to Keep the AI Party Going",
+    "titlePt": "Wall Street conta com a Nvidia para manter a festa da IA",
+    "url": "https://www.wsj.com/finance/stocks/wall-street-is-counting-on-nvidia-to-keep-the-ai-party-going-7e7caf0c",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Investidores estão extremamente dependentes do desempenho da Nvidia para sustentar o crescimento do setor de IA como um todo. Resultados fracos podem derrubar não só a empresa, mas todo o ecossistema e empresas correlatas. É leitura importante para entender a fragilidade estrutural do atual ciclo de IA. Recomendado para leitores de finanças e tecnologia.",
+    "reasonEn": "Investors are extremely dependent on Nvidia's performance to sustain AI sector growth as a whole. Weak results could drag down not just the company, but the entire ecosystem and related companies. Important reading to understand the structural fragility of the current AI cycle. Recommended for finance and tech readers.",
+    "score": 0.75,
+    "tags": [
+      "finanças",
+      "nvidia",
+      "mercado"
+    ],
+    "img": "img/a0ba22664008.jpg",
+    "ts": 1787751874,
+    "addedTs": 1787754951,
+    "urlHash": "a0ba22664008",
+    "titleHash": "2ba3e4aed3b6"
+  },
+  {
+    "title": "China's MiniMax sees revenue nearly quadruple in first half as AI demand surges",
+    "titlePt": "MiniMax da China vê receita quase quadruplicar no primeiro semestre com alta da demanda por IA",
+    "url": "https://www.reuters.com/world/china/chinas-minimax-sees-revenue-nearly-quadruple-first-half-ai-demand-surges-2026-08-26/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A empresa chinesa MiniMax reportou que sua receita quase quadruplicou no primeiro semestre, impulsionada pela forte demanda por serviços de IA. Os números reforçam a aceleração do mercado chinês e a competitividade com gigantes ocidentais mesmo em meio a restrições de chips. Relevante para investidores e profissionais que acompanham o setor global.",
+    "reasonEn": "China's MiniMax reported that its revenue nearly quadrupled in the first half, driven by strong demand for AI services. The numbers reinforce the acceleration of the Chinese market and competitiveness with Western giants even amid chip restrictions. Relevant for investors and professionals tracking the global sector.",
+    "score": 0.7,
+    "tags": [
+      "finanças",
+      "china",
+      "receita"
+    ],
+    "img": "img/0244be1765b3.jpg",
+    "ts": 1787751028,
+    "addedTs": 1787754951,
+    "urlHash": "0244be1765b3",
+    "titleHash": "44ba04a467f1"
+  },
+  {
+    "title": "Robot brain builders are pushing out of their GPT-2 era",
+    "titlePt": "Construtores de cérebros robóticos saem da era GPT-2",
+    "url": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "Startups e laboratórios que criam modelos-base para robótica estão deixando para trás arquiteturas limitadas e apostando em sistemas generalistas capazes de controlar diversos tipos de robôs. O salto lembra a transição dos modelos de linguagem rumo a capacidades mais amplas. Para developers e empresas de automação, isso significa novos blocos de construção prontos para uso em produtos físicos.",
+    "reasonEn": "Startups and labs building foundation models for robotics are moving past limited architectures and betting on generalist systems that can control many kinds of robots. The jump mirrors the language-model shift toward broader capabilities. For developers and automation companies, this means ready-made building blocks for physical products.",
+    "score": 0.7,
+    "tags": [
+      "robótica",
+      "modelo-fundação"
+    ],
+    "img": "img/adcfa86139bf.jpg",
+    "ts": 1787751000,
+    "addedTs": 1787754951,
+    "urlHash": "adcfa86139bf",
+    "titleHash": "ca0f93073d4c"
+  },
+  {
+    "title": "QueryStory wants you to believe what AI is telling you",
+    "titlePt": "QueryStory quer que você acredite no que a IA diz",
+    "url": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A QueryStory é uma nova startup focada em verificar e contextualizar respostas geradas por IA, tentando resolver o problema da confiança cega em chatbots. A proposta é dar aos usuários ferramentas para auditar fontes e rastrear a origem das informações. Importa para qualquer time que dependa de LLMs em fluxos de produção, onde um erro pode virar prejuízo ou dano de reputação.",
+    "reasonEn": "QueryStory is a new startup focused on verifying and contextualizing AI-generated answers to fight blind trust. It offers tools to audit sources and trace where the information came from. It matters for any team relying on LLMs in production, where a wrong answer can mean losses or reputation damage.",
+    "score": 0.55,
+    "tags": [
+      "verificação",
+      "confiança"
+    ],
+    "img": "img/bb5854974104.jpg",
+    "ts": 1787749200,
+    "addedTs": 1787754951,
+    "urlHash": "bb5854974104",
+    "titleHash": "288d78f21a07"
+  },
+  {
+    "title": "Arga Labs is building a better way to train enterprise AI agents",
+    "titlePt": "Arga Labs cria forma melhor de treinar agentes de IA empresarial",
+    "url": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A Arga Labs está construindo uma abordagem mais eficiente para treinar agentes de IA voltados ao uso corporativo, com foco em fluxos de trabalho reais. O objetivo é reduzir o tempo e o custo de preparar agentes que operam dentro de sistemas empresariais. Pode interessar a CTOs e equipes que estão implantando automação em áreas como suporte, vendas e operações internas.",
+    "reasonEn": "Arga Labs is building a more efficient way to train AI agents for enterprise use, focused on real workflows. The goal is to cut the time and cost of preparing agents that operate inside corporate systems. It matters for CTOs and teams rolling out automation in support, sales, and internal operations.",
+    "score": 0.6,
+    "tags": [
+      "agentes",
+      "treinamento"
+    ],
+    "img": "img/209658f98324.jpg",
+    "ts": 1787748928,
+    "addedTs": 1787754951,
+    "urlHash": "209658f98324",
+    "titleHash": "a7f9764b4728"
+  },
+  {
     "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
     "titlePt": "Falso think tank dos EUA, financiado por Israel, usou IA para propaganda",
     "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
@@ -10607,268 +10866,5 @@
     "addedTs": 1787228924,
     "urlHash": "d0effe015763",
     "titleHash": "cf958eaf7c36"
-  },
-  {
-    "title": "Kingmakers: Crypto, AI, betting firms fuel record spending on the 2026 midterms",
-    "titlePt": "Cripto, IA e apostas turbinaram gastos nas eleições de meio de mandato nos EUA",
-    "url": "https://www.reuters.com/legal/legalindustry/new-kingmakers-crypto-ai-betting-firms-fuel-record-spending-2026-midterms-2026-08-20/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Uma reportagem mostra que empresas de cripto, IA e apostas lideram um volume recorde de doações para as eleições de meio de mandato de 2026 nos Estados Unidos. O dinheiro busca moldar regulação favorável a esses setores, especialmente em torno de IA. Mostra como a indústria de IA virou ator político de peso. Relevante para quem acompanha políticas de tecnologia.",
-    "reasonEn": "A report shows that crypto, AI, and betting companies are driving record spending into the 2026 U.S. midterm elections. The money aims to shape favorable regulation, especially around AI. It shows how the AI industry has become a major political player. Relevant for those tracking tech policy.",
-    "score": 0.5,
-    "tags": [
-      "política",
-      "regulação",
-      "eleições"
-    ],
-    "img": "img/29871c0b8c80.jpg",
-    "ts": 1787226762,
-    "addedTs": 1787228924,
-    "urlHash": "29871c0b8c80",
-    "titleHash": "9ce26ba0f980"
-  },
-  {
-    "title": "AI didn't erase the junior engineer's value, it increased it it",
-    "titlePt": "IA aumentou o valor do engenheiro júnior, não diminuiu",
-    "url": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um artigo defende que a IA não diminuiu a importância dos engenheiros juniores, mas aumentou, porque eles são mais rápidos para iterar com ferramentas de IA e aprender. A tese contraria o medo comum de substituição. Mostra que contexto e julgamento humano seguem essenciais. Boa leitura para líderes de engenharia repensarem seus times.",
-    "reasonEn": "An article argues that AI did not reduce the value of junior engineers, but increased it, since they iterate faster with AI tools and learn quickly. The thesis contradicts the common fear of replacement. It shows that human context and judgment remain essential. A good read for engineering leaders rethinking their teams.",
-    "score": 0.5,
-    "tags": [
-      "carreira",
-      "opinião"
-    ],
-    "img": "img/be37e52efb69.jpg",
-    "ts": 1787226140,
-    "addedTs": 1787228924,
-    "urlHash": "be37e52efb69",
-    "titleHash": "9656d794b78f"
-  },
-  {
-    "title": "The first AI agents hire human to ship ugc videos for you",
-    "titlePt": "Primeiros agentes de IA contratam humanos para produzir vídeos",
-    "url": "https://klaylab.com/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Uma startup diz ter criado os primeiros agentes de IA que contratam humanos para gravar vídeos sob demanda. O sistema automatiza briefing, pagamento e revisão de UGC, deixando a parte criativa para pessoas reais. Mistura automação e trabalho humano de forma curiosa. Mostra um modelo híbrido que pode crescer em marketing e conteúdo.",
-    "reasonEn": "A startup says it built the first AI agents that hire humans to film videos on demand. The system automates briefing, payment, and review of UGC, leaving the creative part to real people. It is a curious blend of automation and human labor. It hints at a hybrid model that may grow in marketing and content.",
-    "score": 0.55,
-    "tags": [
-      "agentes",
-      "ugc",
-      "negócios"
-    ],
-    "img": "img/63e0365022d2.jpg",
-    "ts": 1787224762,
-    "addedTs": 1787228924,
-    "urlHash": "63e0365022d2",
-    "titleHash": "58e60a869a11"
-  },
-  {
-    "title": "DDD matters more when AI writes your code",
-    "titlePt": "Domain-Driven Design fica mais importante com código gerado por IA",
-    "url": "https://threedots.tech/post/ddd-and-ai-coding/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo defende que Domain-Driven Design ganha ainda mais relevância quando o código é escrito por IA. Sem limites de domínio bem definidos, a IA gera soluções genéricas que não refletem o negócio. Investir em modelagem de domínio melhora a qualidade do código gerado. Leitura essencial para arquitetos e tech leads.",
-    "reasonEn": "The article argues that Domain-Driven Design becomes even more important when AI writes the code. Without well-defined domain boundaries, AI produces generic solutions that miss the business. Investing in domain modeling improves generated code quality. Essential reading for architects and tech leads.",
-    "score": 0.55,
-    "tags": [
-      "ddd",
-      "arquitetura",
-      "opinião"
-    ],
-    "img": "img/3916fb121c98.jpg",
-    "ts": 1787224348,
-    "addedTs": 1787228924,
-    "urlHash": "3916fb121c98",
-    "titleHash": "0bb988cd0973"
-  },
-  {
-    "title": "How to Outsmart AI When It's Tracking Your Workday",
-    "titlePt": "Como escapar do rastreamento de IA no trabalho",
-    "url": "https://www.wsj.com/lifestyle/workplace/how-to-outsmart-ai-when-its-tracking-your-workday-3ad6907e",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O texto mostra truques para identificar quando softwares de IA estão monitorando produtividade no trabalho e como reduzir esse rastreamento. Temas incluem keyloggers, análise de tela e métricas invasivas. Aumenta a consciência sobre vigilância corporativa baseada em IA. Útil para trabalhadores e gestores que pensam em ética digital.",
-    "reasonEn": "The piece shows tricks to spot when AI software is monitoring work productivity and how to reduce that tracking. Topics include keyloggers, screen analysis, and invasive metrics. It raises awareness of corporate AI surveillance. Useful for workers and managers thinking about digital ethics.",
-    "score": 0.55,
-    "tags": [
-      "trabalho",
-      "privacidade",
-      "ética"
-    ],
-    "img": "img/09de89e08c45.jpg",
-    "ts": 1787222979,
-    "addedTs": 1787228924,
-    "urlHash": "09de89e08c45",
-    "titleHash": "f4e172d24434"
-  },
-  {
-    "title": "AI fired an S.F. store employee. Will California crack down on 'robobosses'?",
-    "titlePt": "IA demitiu funcionária em São Francisco e Califórnia quer regular robopatrões",
-    "url": "https://www.sfchronicle.com/politics/article/andon-market-robobosses-bill-22393579.php",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Uma loja em São Francisco usou um sistema de IA para demitir uma funcionária, reacendendo o debate sobre automação de decisões de RH. Autoridades da Califórnia propõem legislação para limitar o poder de 'robopatrões'. O caso pode virar referência global sobre direitos do trabalhador frente a decisões automatizadas. Atinge qualquer empresa que use IA em RH.",
-    "reasonEn": "A store in San Francisco used an AI system to fire an employee, reigniting the debate over automated HR decisions. California authorities are pushing legislation to limit the power of 'robobosses.' The case may become a global reference on worker rights versus automated decisions. It affects any company using AI in HR.",
-    "score": 0.9,
-    "tags": [
-      "regulação",
-      "trabalho",
-      "rh"
-    ],
-    "img": "img/22b4caf44d17.jpg",
-    "ts": 1787222344,
-    "addedTs": 1787228924,
-    "urlHash": "22b4caf44d17",
-    "titleHash": "f32b9921c947"
-  },
-  {
-    "title": "Dutch data protection authority advises Twitch users to opt out from Amazon AI",
-    "titlePt": "Autoridade holandesa de dados pede que usuários do Twitch recusem a IA da Amazon",
-    "url": "https://www.autoriteitpersoonsgegevens.nl/en/current/ap-advises-twitch-users-opt-out-from-sharing-data-with-amazon-ai",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Autoridade Holandesa de Proteção de Dados (AP) recomendou que usuários do Twitch optem por não compartilhar seus dados com a Amazon, que usa essas informações para treinar e operar sistemas de inteligência artificial. A orientação explica como desativar a coleta nas configurações da plataforma e alerta para riscos de privacidade. A medida reflete a pressão crescente das autoridades europeias sobre big techs após a entrada em vigor da GDPR. Usuários europeus e qualquer pessoa preocupada com uso de dados por IA devem se atentar.",
-    "reasonEn": "The Dutch Data Protection Authority (AP) has recommended Twitch users opt out of letting Amazon use their data for AI training and features. The guidance walks through settings to disable the data sharing and warns about privacy risks. It reflects growing European pressure on big tech after GDPR enforcement intensified. European users and anyone concerned about AI data use should pay attention.",
-    "score": 0.7,
-    "tags": [
-      "privacidade",
-      "regulação",
-      "twitch"
-    ],
-    "img": "img/12112810c486.jpg",
-    "ts": 1787222174,
-    "addedTs": 1787228924,
-    "urlHash": "12112810c486",
-    "titleHash": "9294b3f90b9d"
-  },
-  {
-    "title": "Pine AI getting 75.4% (SoTA) on τ³-Voice Leaderboard",
-    "titlePt": "Pine AI atinge 75,4% (SoTA) no leaderboard ³-Voice",
-    "url": "http://taubench.com/leaderboard/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O Pine AI alcançou a melhor pontuação (state-of-the-art) no ranking ³-Voice, voltado para avaliação de modelos de voz. O resultado indica avanço significativo em compreensão e geração de fala por IA. É mais um sinal da corrida entre modelos de voz para aplicações em tempo real. Desenvolvedores que trabalham com assistentes de voz devem acompanhar.",
-    "reasonEn": "Pine AI reached the top score (state-of-the-art) on the ³-Voice leaderboard, which evaluates voice AI models. The result signals meaningful progress in speech understanding and generation. It is another marker in the race between voice models for real-time applications. Developers building voice assistants should keep an eye on this.",
-    "score": 0.6,
-    "tags": [
-      "voz",
-      "modelo",
-      "leaderboard"
-    ],
-    "img": "img/14a69b64250d.jpg",
-    "ts": 1787221446,
-    "addedTs": 1787228924,
-    "urlHash": "14a69b64250d",
-    "titleHash": "028cb7d81e7a"
-  },
-  {
-    "title": "Structural Predictions for the AI Era",
-    "titlePt": "Previsões estruturais para a era da IA",
-    "url": "https://www.newnex.io/news/12-structural-predictions-for-the-ai-era-ai-object-framework-aof",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo discute previsões estruturais sobre como a IA vai remodelar economias, mercados de trabalho e estruturas sociais nos próximos anos. A análise tenta separar hype de mudanças realmente duradouras. É leitura útil para quem precisa planejar carreira ou estratégia de produto. O conteúdo é opinativo e exige leitura crítica.",
-    "reasonEn": "The piece discusses structural predictions about how AI will reshape economies, labor markets, and social structures in coming years. It tries to separate hype from durable change. Useful reading for anyone planning a career or product roadmap. The content is opinionated and should be read critically.",
-    "score": 0.5,
-    "tags": [
-      "análise",
-      "economia",
-      "futuro"
-    ],
-    "img": "img/ef915211959e.jpg",
-    "ts": 1787221239,
-    "addedTs": 1787228924,
-    "urlHash": "ef915211959e",
-    "titleHash": "f030e049b30d"
-  },
-  {
-    "title": "Show HN: Fail CI when your stack runs end-of-life software",
-    "titlePt": "Ferramenta falha CI quando detecta software sem suporte",
-    "url": "https://github.com/endoflife-ai/eol-check",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um projeto open source publicado no Hacker News quebra o pipeline de integração contínua ao detectar software fora de suporte. Ajuda times a evitar vulnerabilidades em componentes legados. Importante para engenheiros DevOps e de segurança.",
-    "reasonEn": "An open source project published on Hacker News breaks the continuous integration pipeline when it detects unsupported software. It helps teams avoid vulnerabilities in legacy components. Important for DevOps and security engineers.",
-    "score": 0.7,
-    "tags": [
-      "devops",
-      "segurança",
-      "open source"
-    ],
-    "img": "img/72721162566b.jpg",
-    "ts": 1787221147,
-    "addedTs": 1787221225,
-    "urlHash": "72721162566b",
-    "titleHash": "f4c5af5030e8"
-  },
-  {
-    "title": "Splunk patches 9.1 CVSS RCE in MCP Server and 9 flaws in AI Toolkit",
-    "titlePt": "Splunk corrige RCE crítica de 9.1 no MCP Server e 9 falhas no AI Toolkit",
-    "url": "https://cyberupdates365.com/splunk-mcp-server-rce-patch/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Splunk emitiu patches para uma vulnerabilidade de execução remota de código com pontuação 9.1 em seu MCP Server e mais nove falhas no AI Toolkit. A falha crítica expõe sistemas a ataques remotos. Equipes que usam Splunk devem aplicar as correções imediatamente.",
-    "reasonEn": "Splunk released patches for a remote code execution vulnerability with a 9.1 score in its MCP Server and nine more flaws in its AI Toolkit. The critical flaw exposes systems to remote attacks. Teams using Splunk should apply the patches immediately.",
-    "score": 0.85,
-    "tags": [
-      "segurança",
-      "splunk",
-      "patch"
-    ],
-    "img": "img/c8164d70bf7a.jpg",
-    "ts": 1787220649,
-    "addedTs": 1787221225,
-    "urlHash": "c8164d70bf7a",
-    "titleHash": "9910b1d39c5f"
-  },
-  {
-    "title": "Show HN: Data enrichment with AI for Pandas DataFrame",
-    "titlePt": "Enriquecimento de dados com IA para Pandas DataFrame",
-    "url": "https://github.com/mljar/enrichment",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um projeto mostrado no Hacker News usa IA para enriquecer DataFrames do Pandas automaticamente. Pode acelerar fluxos de análise de dados em Python. Voltado para cientistas e engenheiros de dados que querem reduzir trabalho manual.",
-    "reasonEn": "A project shown on Hacker News uses AI to automatically enrich Pandas DataFrames. It can speed up data analysis workflows in Python. Aimed at data scientists and engineers who want to reduce manual work.",
-    "score": 0.5,
-    "tags": [
-      "dados",
-      "python",
-      "ai"
-    ],
-    "img": "img/db56ca1491d6.jpg",
-    "ts": 1787219321,
-    "addedTs": 1787221225,
-    "urlHash": "db56ca1491d6",
-    "titleHash": "ef73ad0855ce"
   }
 ]
