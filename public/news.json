@@ -1,5 +1,220 @@
 [
   {
+    "title": "Purchase API by Agentcard",
+    "titlePt": "Agentcard lança API de Compras para agentes",
+    "url": "https://www.producthunt.com/products/agent-card",
+    "source": "ProductHunt",
+    "sources": [
+      "ProductHunt"
+    ],
+    "reason": "A Agentcard apresentou uma Purchase API no Product Hunt, permitindo que agentes de IA concluam transações financeiras de forma programática. Para desenvolvedores que constroem agentes autônomos, isso resolve um gargalo crítico: pagar por serviços, APIs ou bens físicos. A novidade pode acelerar a próxima geração de agentes commerce-ready. Quem constrói produtos agentic deve acompanhar de perto.",
+    "reasonEn": "Agentcard introduced a Purchase API on Product Hunt, letting AI agents complete financial transactions programmatically. For developers building autonomous agents, this solves a critical bottleneck: paying for services, APIs, or physical goods. The release could accelerate the next generation of commerce-ready agents. Anyone building agentic products should watch it closely.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "api",
+      "pagamentos"
+    ],
+    "img": "img/06aed5d9f7c5.jpg",
+    "ts": 1787716814,
+    "addedTs": 1787718666,
+    "urlHash": "06aed5d9f7c5",
+    "titleHash": "4e286fe5a360"
+  },
+  {
+    "title": "AI Agents Push Humans Out of the Loop",
+    "titlePt": "Agentes de IA empurram humanos para fora do circuito",
+    "url": "https://arxiv.org/abs/2608.23642",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "O artigo argumenta que agentes autônomos de IA estão tirando humanos de decisões importantes, levantando questões sobre controle, responsabilidade e supervisão. Para qualquer pessoa construindo ou implantando agentes, é leitura obrigatória para repensar fluxos de aprovação. O tema toca diretamente o futuro do trabalho e da governança automatizada. Mesmo que você não leia o paper completo, a mensagem central importa agora.",
+    "reasonEn": "The paper argues that autonomous AI agents are pulling humans out of important decisions, raising concerns about control, accountability, and oversight. For anyone building or deploying agents, it's required reading to rethink approval flows. The topic directly touches the future of work and automated governance. Even if you don't read the full paper, the core message matters now.",
+    "score": 0.7,
+    "tags": [
+      "agentes",
+      "governança",
+      "ética"
+    ],
+    "img": "img/740fe0618351.jpg",
+    "ts": 1787716800,
+    "addedTs": 1787718666,
+    "urlHash": "740fe0618351",
+    "titleHash": "ddcd8f496896"
+  },
+  {
+    "title": "FLARE: A Systematic, Uncertainty-Aware Framework for Evidence-Based Adoption of Artificial Intelligence in Healthcare",
+    "titlePt": "FLARE: framework para adotar IA na saúde com evidência",
+    "url": "https://arxiv.org/abs/2608.23643",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "O framework FLARE propõe critérios sistemáticos e cientes de incerteza para adotar IA na área da saúde. Profissionais de saúde e desenvolvedores de software médico ganham um guia prático com etapas claras antes de colocar modelos em produção. Ajuda a evitar implantações prematuras ou não auditadas em contextos clínicos sensíveis. Vale ler para qualquer um que lide com IA aplicada à medicina.",
+    "reasonEn": "The FLARE framework proposes systematic, uncertainty-aware criteria for adopting AI in healthcare. Medical professionals and developers of clinical software gain a practical guide with clear steps before putting models into production. It helps avoid premature or unaudited deployments in sensitive clinical settings. Worth reading for anyone dealing with AI applied to medicine.",
+    "score": 0.5,
+    "tags": [
+      "saúde",
+      "framework",
+      "governança"
+    ],
+    "img": "img/90f759324383.jpg",
+    "ts": 1787716800,
+    "addedTs": 1787718666,
+    "urlHash": "90f759324383",
+    "titleHash": "f1081a8b9f33"
+  },
+  {
+    "title": "AgentRoom: Concurrent Multi-Agent Coding in a CRDT-Backed Shared Workspace",
+    "titlePt": "AgentRoom: codificação multi-agente concorrente em espaço CRDT",
+    "url": "https://arxiv.org/abs/2608.23740",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "O AgentRoom permite que múltiplos agentes de IA codifiquem juntos em um espaço de trabalho compartilhado com sincronização tipo CRDT. Para equipes que já usam agentes de codificação, isso resolve o problema clássico de conflito quando vários bots editam o mesmo arquivo. Tem potencial para acelerar fluxos agentic em engenharia de software. Vale testar por desenvolvedores interessados em programação com agentes.",
+    "reasonEn": "AgentRoom lets multiple AI agents code together in a shared workspace with CRDT-style synchronization. For teams already using coding agents, it solves the classic conflict problem when several bots edit the same file. It has potential to speed up agentic engineering workflows. Worth trying for developers interested in agent-driven programming.",
+    "score": 0.55,
+    "tags": [
+      "agentes",
+      "codificação",
+      "ferramenta"
+    ],
+    "img": "img/4f6448bf35b6.jpg",
+    "ts": 1787716800,
+    "addedTs": 1787718666,
+    "urlHash": "4f6448bf35b6",
+    "titleHash": "39f53af6092b"
+  },
+  {
+    "title": "Serving Masked Diffusion LLMs: Characterization and Design Principles from Real Hardware",
+    "titlePt": "Servindo LLMs de difusão mascarada em hardware real",
+    "url": "https://arxiv.org/abs/2608.23807",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "O artigo caracteriza como servir LLMs baseados em difusão mascarada em hardware real, propondo princípios de design de serviço. É leitura útil para engenheiros de infraestrutura que precisam entender arquiteturas alternativas além dos transformers autoregressivos. Ajuda a antecipar como otimizar essa nova classe de modelos em produção. Relevante para SREs e engenheiros de ML em plataformas.",
+    "reasonEn": "The paper characterizes how to serve masked diffusion LLMs on real hardware, proposing service design principles. It's useful reading for infrastructure engineers needing to understand alternative architectures beyond autoregressive transformers. It helps anticipate how to optimize this new class of models in production. Relevant for SREs and ML platform engineers.",
+    "score": 0.55,
+    "tags": [
+      "infraestrutura",
+      "llm",
+      "difusão"
+    ],
+    "img": "img/fede902dc6ec.jpg",
+    "ts": 1787716800,
+    "addedTs": 1787718666,
+    "urlHash": "fede902dc6ec",
+    "titleHash": "3eb42ca163a2"
+  },
+  {
+    "title": "Show HN: Hands-on Docker security labs, from CIS checks to AI context poisoning",
+    "titlePt": "Laboratórios práticos de segurança Docker, do CIS ao envenenamento por IA",
+    "url": "https://github.com/opscart/docker-security-practical-guide",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O projeto oferece laboratórios guiados para aprender segurança em Docker, começando em checagens CIS e indo até ataques de 'envenenamento de contexto' contra agentes de IA. É útil para quem roda containers em produção e quer treinar a equipe. Ajuda a fechar uma lacuna real entre teoria e prática.",
+    "reasonEn": "The project offers guided hands-on labs for Docker security, starting with CIS checks and going up to context-poisoning attacks against AI agents. It is useful for anyone running containers in production who wants to upskill their team, and helps bridge a real gap between theory and practice.",
+    "score": 0.55,
+    "tags": [
+      "segurança",
+      "devops"
+    ],
+    "img": "img/d217f651741e.jpg",
+    "ts": 1787716592,
+    "addedTs": 1787718666,
+    "urlHash": "d217f651741e",
+    "titleHash": "a38bc4812570"
+  },
+  {
+    "title": "India&#8217;s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+    "titlePt": "Ringg, IA de voz da Índia, recebe aporte da Peak XV",
+    "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A startup indiana Ringg, focada em IA de voz que vai além de simples chamadas telefônicas, levantou rodada com a Peak XV. O movimento mostra investidores apostando em agentes de voz voltados a empresas em mercados emergentes. Para desenvolvedores, indica onde pode aparecer a próxima onda de APIs de voz.",
+    "reasonEn": "Indian voice-AI startup Ringg, which goes beyond simple phone calls, has raised a round led by Peak XV. The deal shows investors betting on voice agents aimed at businesses in emerging markets. For developers, it hints at where the next wave of voice APIs may come from.",
+    "score": 0.6,
+    "tags": [
+      "investimento",
+      "voz"
+    ],
+    "img": "img/355d8aee33bd.jpg",
+    "ts": 1787715000,
+    "addedTs": 1787718666,
+    "urlHash": "355d8aee33bd",
+    "titleHash": "5f8e2ad37af8"
+  },
+  {
+    "title": "Students prefer Gemini over ChatGPT and Claude for AI essays in blind tests",
+    "titlePt": "Estudantes preferem Gemini a ChatGPT e Claude em redação",
+    "url": "https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Em testes cegos, estudantes avaliaram redações feitas por IA e escolheram o Gemini como favorito, à frente de ChatGPT e Claude. O resultado sugere que, para escrita longa, o modelo do Google tem ganhado terreno na percepção de qualidade. Mostra como a corrida de modelos continua disputada no uso educacional.",
+    "reasonEn": "In blind tests, students rated AI-written essays and picked Gemini over ChatGPT and Claude. The result suggests Google has gained ground in perceived writing quality. It shows the model race is still wide open in educational use cases.",
+    "score": 0.55,
+    "tags": [
+      "modelo",
+      "educação"
+    ],
+    "img": "img/54644652f137.jpg",
+    "ts": 1787714630,
+    "addedTs": 1787718666,
+    "urlHash": "54644652f137",
+    "titleHash": "caf74fbde1dc"
+  },
+  {
+    "title": "Darkbloom (AI inference on idle Macs) – security audit with PRs submitted",
+    "titlePt": "Darkbloom: inferência de IA em Macs ociosos passa por auditoria",
+    "url": "https://gist.github.com/mudiam/1ffc898333ac3d5bdc5d7fac96d33360",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Darkbloom distribui inferência de IA em Macs que estão parados, e agora passou por uma auditoria de segurança com PRs enviados ao projeto. É um caso interessante de 'edge computing' colaborativo usando hardware já instalado. Para devs, mostra um caminho possível para rodar modelos sem investir em GPUs dedicadas.",
+    "reasonEn": "Darkbloom spreads AI inference across idle Macs and has now gone through a security audit with PRs submitted upstream. It is an interesting case of collaborative edge computing on hardware people already own. For devs, it points to one way to run models without buying dedicated GPUs.",
+    "score": 0.6,
+    "tags": [
+      "infra",
+      "segurança"
+    ],
+    "img": "img/2c8107cfec16.jpg",
+    "ts": 1787713382,
+    "addedTs": 1787718666,
+    "urlHash": "2c8107cfec16",
+    "titleHash": "49c9b8132420"
+  },
+  {
+    "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+    "titlePt": "Modelos de embedding multi-vetor com Sentence Transformers",
+    "url": "https://huggingface.co/blog/multi-vector-encoder",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "A Hugging Face detalha como usar modelos de embedding multi-vetor (interação tardia) com a biblioteca Sentence Transformers. A técnica melhora a qualidade de busca semântica em troca de mais memória. É leitura útil para quem monta sistemas de RAG ou recomendação e quer mais precisão na recuperação.",
+    "reasonEn": "Hugging Face walks through using multi-vector late-interaction embedding models with the Sentence Transformers library. The technique improves semantic search quality at the cost of more memory. Useful reading for anyone building RAG or recommendation systems that need better recall.",
+    "score": 0.55,
+    "tags": [
+      "modelo",
+      "rag"
+    ],
+    "img": "img/d9524ab76177.jpg",
+    "ts": 1787011200,
+    "addedTs": 1787718666,
+    "urlHash": "d9524ab76177",
+    "titleHash": "ef48a71557fa"
+  },
+  {
     "title": "Big Tech's Frantic Race to Quell the Growing Backlash to AI",
     "titlePt": "Big Tech corre para conter a crescente reação contra a IA",
     "url": "https://www.wsj.com/tech/inside-big-techs-frantic-race-to-quell-the-growing-backlash-to-ai-2a717339",
@@ -10648,221 +10863,5 @@
     "addedTs": 1787200092,
     "urlHash": "c78b96a434fd",
     "titleHash": "e8fd77e18cbd"
-  },
-  {
-    "title": "Show HN: AI Resume Screening – Looking for feedback from recruiters",
-    "titlePt": "Triagem de currículos com IA busca feedback de recrutadores",
-    "url": "https://aiomniu.top/services/resume-screening",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Projeto aberto busca feedback de profissionais de RH sobre uma ferramenta que usa IA para fazer a triagem inicial de currículos. O sistema promete reduzir o tempo gasto com candidatos que claramente não se encaixam na vaga. Recrutadores e engenheiros de People Ops podem experimentar a solução e contribuir com melhorias. O criador afirma estar atento para evitar os vieses comuns nesse tipo de automação.",
-    "reasonEn": "An open project seeks feedback from HR professionals on a tool that uses AI to do initial resume screening. The system promises to reduce time spent with candidates who clearly do not fit the role. Recruiters and People Ops engineers can try the solution and contribute improvements. The creator claims to be careful to avoid the common biases in this kind of automation.",
-    "score": 0.5,
-    "tags": [
-      "rh",
-      "triagem",
-      "feedback"
-    ],
-    "img": "img/283648c4e9f9.jpg",
-    "ts": 1787192229,
-    "addedTs": 1787200092,
-    "urlHash": "283648c4e9f9",
-    "titleHash": "5b089e464d09"
-  },
-  {
-    "title": "Credentialism is coming for AI agents",
-    "titlePt": "Credencialismo está chegando aos agentes de IA",
-    "url": "https://betocmn.com/blog/credentialism-is-coming-for-ai-agents/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Artigo discute como agentes de IA vão precisar de sistemas de identidade e credenciais robustos para operar de forma confiável em ambientes com múltiplos agentes. Sem isso, fica difícil auditar ações e garantir responsabilidade pelos resultados. A tendência afeta diretamente desenvolvedores que constroem sistemas multi-agente em produção. O texto serve como alerta para planejar autenticação desde o início do projeto.",
-    "reasonEn": "The article discusses how AI agents will need strong identity and credential systems to operate reliably in multi-agent environments. Without this, auditing actions and ensuring accountability for results becomes hard. The trend directly affects developers building multi-agent systems in production. The text serves as a warning to plan authentication from the start of the project.",
-    "score": 0.7,
-    "tags": [
-      "agentes",
-      "segurança",
-      "identidade"
-    ],
-    "img": "img/d599a326cde6.jpg",
-    "ts": 1787189266,
-    "addedTs": 1787200092,
-    "urlHash": "d599a326cde6",
-    "titleHash": "8b6451476ab1"
-  },
-  {
-    "title": "AI-Powered Cyberattacks",
-    "titlePt": "Ataques cibernéticos agora movidos por IA",
-    "url": "https://www.opswat.com/blog/ai-powered-cyberattacks",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Discussão aborda como agentes de IA estão sendo usados para automatizar ataques, reconhecimento de alvos e exploração de vulnerabilidades em escala. O tema preocupa equipes de segurança e desenvolvedores que mantêm sistemas expostos na internet. O texto mostra exemplos recentes e possíveis estratégias de defesa. É leitura recomendada para qualquer profissional que lida com segurança da informação.",
-    "reasonEn": "The discussion addresses how AI agents are being used to automate attacks, target reconnaissance, and vulnerability exploitation at scale. The topic worries security teams and developers maintaining internet-exposed systems. The text shows recent examples and possible defense strategies. Recommended reading for any professional dealing with information security.",
-    "score": 0.7,
-    "tags": [
-      "segurança",
-      "ataque",
-      "cibersegurança"
-    ],
-    "img": "img/a3309f5a3c86.jpg",
-    "ts": 1787181919,
-    "addedTs": 1787200092,
-    "urlHash": "a3309f5a3c86",
-    "titleHash": "fbf2fb52408b"
-  },
-  {
-    "title": "How RingCentral builds AI-native work from engineering to ops",
-    "titlePt": "Como a RingCentral constrói trabalho nativo em IA da engenharia às operações",
-    "url": "https://openai.com/index/ringcentral",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A RingCentral compartilha como integrou IA em toda a sua operação, desde o desenvolvimento de software até o suporte ao cliente. O case mostra o uso de copilots internos, automação de processos internos e métricas de produtividade. Desenvolvedores e líderes de TI podem se inspirar nos exemplos práticos apresentados. É um estudo de caso útil para quem está planejando uma transformação digital em sua empresa.",
-    "reasonEn": "RingCentral shares how it integrated AI across its entire operation, from software development to customer support. The case shows the use of internal copilots, internal process automation, and productivity metrics. Developers and IT leaders can draw inspiration from the practical examples presented. It is a useful case study for those planning a digital transformation at their company.",
-    "score": 0.5,
-    "tags": [
-      "case-study",
-      "transformação-digital",
-      "automação"
-    ],
-    "img": "img/9bafa93fe08b.jpg",
-    "ts": 1786492800,
-    "addedTs": 1787200092,
-    "urlHash": "9bafa93fe08b",
-    "titleHash": "835090512f9b"
-  },
-  {
-    "title": "Newer Models, Same Advantage",
-    "titlePt": "Modelos mais novos, mesma vantagem relativa",
-    "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "Análise publicada no Hugging Face mostra que modelos mais recentes mantêm as mesmas vantagens comparativas em benchmarks, sem saltos dramáticos de desempenho. O texto discute as implicações dessa estabilidade para desenvolvedores que precisam escolher entre opções. Reforça a importância de testar em casos de uso reais antes de decidir qual modelo adotar. Leitura rápida e útil para quem está em dúvida sobre qual LLM escolher.",
-    "reasonEn": "An analysis published on Hugging Face shows that newer models maintain the same comparative advantages on benchmarks, without dramatic performance leaps. The text discusses the implications of this stability for developers needing to choose between options. It reinforces the importance of testing on real use cases before deciding which model to adopt. Quick and useful reading for those unsure which LLM to pick.",
-    "score": 0.7,
-    "tags": [
-      "benchmark",
-      "modelo",
-      "análise"
-    ],
-    "img": "img/c5c3971a8972.jpg",
-    "ts": 1784202588,
-    "addedTs": 1787200092,
-    "urlHash": "c5c3971a8972",
-    "titleHash": "c0e574730220"
-  },
-  {
-    "title": "Agentic AI has made CPUs the new performance bottleneck",
-    "titlePt": "IA agêntica transforma CPU no novo gargalo de performance",
-    "url": "https://spectrum.ieee.org/ai-cpu-comeback",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo mostra que a nova geração de agentes de IA esbarra no desempenho dos processadores tradicionais, e não mais nas GPUs. Com mais agentes rodando em paralelo, o custo de CPU virou fator limitante. Importa para engenheiros que planejam infraestrutura de IA em produção.",
-    "reasonEn": "The article shows that the new generation of AI agents is hitting CPU limits, not GPU ones. With more agents running in parallel, CPU cost has become the bottleneck. Matters for engineers planning production AI infrastructure.",
-    "score": 0.6,
-    "tags": [
-      "infra",
-      "agentes"
-    ],
-    "img": "img/fbd5c7f2369a.jpg",
-    "ts": 1787188445,
-    "addedTs": 1787194157,
-    "urlHash": "fbd5c7f2369a",
-    "titleHash": "5944035850ec"
-  },
-  {
-    "title": "Round Hill Music Sues Suno and Anthropic for $1B over AI Training Data",
-    "titlePt": "Round Hill Music processa Suno e Anthropic por US$ 1 bilhão",
-    "url": "https://www.gadgetreview.com/round-hill-music-sues-suno-and-anthropic-for-1-billion-over-ai-training-data",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A editora Round Hill Music entrou com ação de US$ 1 bilhão contra as startups de IA Suno e Anthropic, acusando-as de usar músicas protegidas para treinar seus modelos sem licença. É o mais alto valor já pedido em uma ação desse tipo e pode definir precedente para a indústria musical. Afeta empresas de IA generativa de música e donos de catálogos musicais.",
-    "reasonEn": "Music publisher Round Hill Music has filed a $1 billion lawsuit against AI startups Suno and Anthropic, accusing them of training on copyrighted music without licenses. It's the highest amount ever sought in such a case and could set a precedent. It affects generative music AI firms and rights holders.",
-    "score": 0.85,
-    "tags": [
-      "regulação",
-      "música"
-    ],
-    "img": "img/2b5e8aa22d92.jpg",
-    "ts": 1787186414,
-    "addedTs": 1787194157,
-    "urlHash": "2b5e8aa22d92",
-    "titleHash": "37a560ab1798"
-  },
-  {
-    "title": "US warns of AI-powered attacks on Siemens PLCs in critical infrastructure",
-    "titlePt": "EUA alertam sobre ataques de IA contra CLPs da Siemens",
-    "url": "https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Autoridades americanas emitiram alerta oficial sobre o uso de inteligência artificial para atacar controladores lógicos programáveis da Siemens usados em infraestruturas críticas, como energia e água. O aviso indica que agentes automatizados já conseguem identificar e explorar vulnerabilidades de forma autônoma. Profissionais de segurança, operadores de infraestrutura e fabricantes precisam revisar defesas imediatamente. Para desenvolvedores, é um sinal claro de que código malicioso gerado por IA deixou de ser teoria.",
-    "reasonEn": "US authorities issued an official warning about AI being used to attack Siemens PLCs used in critical infrastructure such as energy and water systems. The alert notes automated agents can now autonomously identify and exploit vulnerabilities. Security professionals, infrastructure operators, and vendors must review defenses now. For developers, it is a clear signal that AI-generated malicious code is no longer theoretical.",
-    "score": 0.9,
-    "tags": [
-      "segurança",
-      "infraestrutura",
-      "regulação"
-    ],
-    "img": "img/71fc6995d69e.jpg",
-    "ts": 1787184426,
-    "addedTs": 1787186493,
-    "urlHash": "71fc6995d69e",
-    "titleHash": "ead6f2b8bfd9"
-  },
-  {
-    "title": "\"Half-Day\": 0-Day in the Age of AI",
-    "titlePt": "Vulnerabilidades exploráveis em meio dia na era da IA",
-    "url": "https://margin.re/2026/08/introducing-the-half-day-0-day-in-the-age-of-ai/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Discussão sobre como a IA está comprimindo o tempo entre a descoberta de uma falha e sua exploração em produção, conceito chamado de meio dia. O tema é técnico e relevante para times que lidam com deploy contínuo e resposta a incidentes. Ajuda a calibrar políticas de patch e monitoramento. Ainda é debate, sem evento específico confirmado.",
-    "reasonEn": "A discussion on how AI is shrinking the gap between a vulnerability being disclosed and exploited in the wild, dubbed a half-day. The topic is technical and relevant for teams handling continuous deployment and incident response. It helps calibrate patching and monitoring policies. Still a debate rather than a confirmed event.",
-    "score": 0.7,
-    "tags": [
-      "segurança",
-      "vulnerabilidade"
-    ],
-    "img": "img/2abee6f5f923.jpg",
-    "ts": 1787180633,
-    "addedTs": 1787186493,
-    "urlHash": "2abee6f5f923",
-    "titleHash": "fe95cfa2219b"
-  },
-  {
-    "title": "Semantica, the Open Source Palantir for AI Agents",
-    "titlePt": "Semantica: Palantir aberto para agentes de IA",
-    "url": "https://github.com/semantica-agi/semantica",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Projeto de código aberto propõe ser o equivalente livre do Palantir, focado em servir de base de conhecimento para agentes de IA. Pode interessar equipes que precisam dar contexto estruturado a agentes sem depender de fornecedor único. Ainda é novidade, vale acompanhar a maturidade e a comunidade antes de apostar.",
-    "reasonEn": "An open-source project aims to be the free equivalent of Palantir, focused on serving as a knowledge base for AI agents. It may interest teams needing structured context for agents without vendor lock-in. Still new, so worth watching maturity and community before committing.",
-    "score": 0.6,
-    "tags": [
-      "open-source",
-      "agentes"
-    ],
-    "img": "img/1e09ecc78087.jpg",
-    "ts": 1787178528,
-    "addedTs": 1787186493,
-    "urlHash": "1e09ecc78087",
-    "titleHash": "7f795856e263"
   }
 ]
