@@ -1,5 +1,110 @@
 [
   {
+    "title": "Big Tech's Frantic Race to Quell the Growing Backlash to AI",
+    "titlePt": "Big Tech corre para conter a crescente reação contra a IA",
+    "url": "https://www.wsj.com/tech/inside-big-techs-frantic-race-to-quell-the-growing-backlash-to-ai-2a717339",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Grandes empresas de tecnologia estão acelerando sua comunicação para responder à reação pública cada vez maior contra produtos de inteligência artificial. A reportagem mostra uma disputa entre narrativa de inovação e preocupações com empregos, privacidade e desinformação. Empresas menores de IA dependem muito do tom que essas gigantes conseguem impor. Para qualquer pessoa na área, vale acompanhar o debate público sobre IA.",
+    "reasonEn": "Big Tech companies are speeding up their messaging to counter the growing public backlash against AI products. The report shows a clash between innovation narratives and concerns about jobs, privacy, and misinformation. Smaller AI companies depend heavily on the tone these giants manage to set. Anyone in the field should follow the public AI debate.",
+    "score": 0.7,
+    "tags": [
+      "big-tech",
+      "regulação"
+    ],
+    "img": "img/69747e23d77a.jpg",
+    "ts": 1787710222,
+    "addedTs": 1787713048,
+    "urlHash": "69747e23d77a",
+    "titleHash": "fd33baf4129e"
+  },
+  {
+    "title": "Hot Chips 2026: Samsung makes LPDDR5X smart with logic unit in memory",
+    "titlePt": "Hot Chips 2026: Samsung torna LPDDR5X inteligente com lógica na memória",
+    "url": "https://www.tomshardware.com/pc-components/dram/hot-chips-2026-samsung-makes-lpddr5x-smart-with-logic-unit-in-memory-lpddr5x-pim-is-3-01x-faster-than-lpddr5x-in-ai-inference-with-8x-the-bandwidth",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Na conferência Hot Chips 2026, a Samsung apresentou uma evolução da LPDDR5X que coloca uma unidade lógica diretamente dentro do chip de memória. A ideia é reduzir o tráfego de dados para o processador, acelerando cargas de IA. É um movimento estratégico da Samsung para concorrer com HBM em inferência. Desenvolvedores de modelos e fabricantes de hardware devem ficar atentos.",
+    "reasonEn": "At Hot Chips 2026, Samsung unveiled an evolution of LPDDR5X that places a logic unit directly inside the memory chip. The goal is to cut data traffic to the processor, speeding up AI workloads. It is a strategic move by Samsung to challenge HBM in inference. Model developers and hardware makers should pay attention.",
+    "score": 0.55,
+    "tags": [
+      "hardware",
+      "samsung"
+    ],
+    "img": "img/94fa9c5ff80d.jpg",
+    "ts": 1787701237,
+    "addedTs": 1787713048,
+    "urlHash": "94fa9c5ff80d",
+    "titleHash": "52da1612965f"
+  },
+  {
+    "title": "The AI Health Agent That Will Know Me for Life",
+    "titlePt": "O agente de IA de saúde que me conhecerá a vida inteira",
+    "url": "https://williamtp.substack.com/p/the-ai-health-agent-that-will-know",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo apresenta um agente de IA de saúde desenhado para acompanhar a mesma pessoa ao longo de toda a vida, acumulando histórico clínico contínuo. A proposta promete diagnósticos mais personalizados ao custo de dados médicos sensíveis centralizados. Toca em debates sobre privacidade, regulação e confiança. Pode interessar profissionais de saúde digital e pacientes atentos.",
+    "reasonEn": "The piece profiles an AI health agent designed to follow the same person across a lifetime, building a continuous medical history. It promises more personalized diagnoses at the cost of centralized sensitive health data. It touches debates around privacy, regulation, and trust. Relevant for digital health professionals and attentive patients.",
+    "score": 0.55,
+    "tags": [
+      "saúde",
+      "agente"
+    ],
+    "img": "img/96f24c59b0ad.jpg",
+    "ts": 1787701066,
+    "addedTs": 1787713048,
+    "urlHash": "96f24c59b0ad",
+    "titleHash": "fe3cd0c3af24"
+  },
+  {
+    "title": "AI Disruptors: How the Next Generation of Business Is Being Built",
+    "titlePt": "Disruptores de IA: como nasce a próxima geração de negócios",
+    "url": "https://www.digitalocean.com/blog/ai-disruptors",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo traça um panorama de startups e empresas que estão usando IA para reinventar setores inteiros, do jurídico ao varejo. Cita modelos de receita, novos cargos e redução de headcount tradicional. É uma boa leitura de visão geral para quem quer entender o momento do mercado. Conteúdo mais analítico do que novidade factual.",
+    "reasonEn": "The article maps startups and companies using AI to reinvent entire sectors, from legal to retail. It covers new revenue models, emerging roles, and traditional headcount cuts. A good overview read for anyone wanting to grasp the current market moment. More analytical than breaking news.",
+    "score": 0.5,
+    "tags": [
+      "negócios",
+      "ia"
+    ],
+    "img": "img/b5ddc6629f6a.jpg",
+    "ts": 1787700139,
+    "addedTs": 1787713048,
+    "urlHash": "b5ddc6629f6a",
+    "titleHash": "37b9bf61f773"
+  },
+  {
+    "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+    "titlePt": "Como Endpoints, Jobs e Buckets do Hugging Face Impulsionam o Papers with Code",
+    "url": "https://huggingface.co/blog/pwc-search",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "O blog do Hugging Face explica como três de seus serviços, Inference Endpoints, Jobs e Buckets, são usados pela plataforma Papers with Code para indexar e pesquisar artigos científicos com código. O artigo mostra a integração técnica entre as ferramentas e os benefícios de performance. É útil para desenvolvedores que querem entender melhor a infraestrutura por trás de plataformas de pesquisa em IA. Conteúdo prático e direto ao ponto.",
+    "reasonEn": "Hugging Face's blog explains how three of its services, Inference Endpoints, Jobs and Buckets, are used by the Papers with Code platform to index and search scientific articles with code. The article shows the technical integration between the tools and the performance benefits. It is useful for developers who want to better understand the infrastructure behind AI research platforms. Practical and direct content.",
+    "score": 0.5,
+    "tags": [
+      "huggingface",
+      "infraestrutura"
+    ],
+    "img": "img/966123ef613d.jpg",
+    "ts": 1787270400,
+    "addedTs": 1787713048,
+    "urlHash": "966123ef613d",
+    "titleHash": "f137c98c53ab"
+  },
+  {
     "title": "Robotics startup Generalist reaches $3B valuation, sources say",
     "titlePt": "Startup de robótica Generalist atinge valuation de 3 bilhões de dólares",
     "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
@@ -10759,113 +10864,5 @@
     "addedTs": 1787186493,
     "urlHash": "1e09ecc78087",
     "titleHash": "7f795856e263"
-  },
-  {
-    "title": "PINE64 halts their open-source hardware manufacturing until the AI bubble bursts",
-    "titlePt": "PINE64 paralisa fabricação até a bolha de IA estourar",
-    "url": "https://www.hackster.io/news/pine64-calls-time-on-the-linux-hardware-market-ceases-production-until-the-ai-bubble-bursts-a865c8345041",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Fabricante de hardware aberto PINE64 anunciou que vai suspender a produção até o mercado de inteligência artificial se estabilizar, alegando pressão de custos e priorização do setor. É um sinal claro de que a corrida por GPUs e componentes está afetando toda a cadeia, inclusive projetos pequenos. Para desenvolvedores e entusiastas, significa atrasos em dispositivos como laptops e celulares Linux. Também é um termômetro sobre quando a bolha pode começar a ceder.",
-    "reasonEn": "Open hardware maker PINE64 announced it will halt production until the AI market stabilizes, citing cost pressure and industry prioritization. It is a clear sign the GPU and component race is affecting the whole chain, including small projects. For developers and enthusiasts, expect delays on Linux laptops and phones. Also a thermometer for when the bubble might start deflating.",
-    "score": 0.65,
-    "tags": [
-      "hardware",
-      "bolha"
-    ],
-    "img": "img/a45deb3bead5.jpg",
-    "ts": 1787178014,
-    "addedTs": 1787186493,
-    "urlHash": "a45deb3bead5",
-    "titleHash": "5d6a79c22e89"
-  },
-  {
-    "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
-    "titlePt": "OpenAI tenta superar Anthropic em privacidade de clientes",
-    "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "OpenAI anunciou novos mecanismos de privacidade para clientes corporativos, mirando diretamente as ofertas de zero retenção de dados da Anthropic. A disputa mostra que privacidade virou campo competitivo entre os grandes modelos. Empresas que usam IA em processos sensíveis devem revisar os termos antes de escolher fornecedor. É movimento relevante para times jurídicos e de compliance.",
-    "reasonEn": "OpenAI announced new customer privacy protections for enterprise clients, directly targeting Anthropic's zero data retention offerings. The fight shows privacy has become a competitive field among top model providers. Companies using AI in sensitive workflows should review terms before picking a vendor. Relevant for legal and compliance teams.",
-    "score": 0.85,
-    "tags": [
-      "privacidade",
-      "openai",
-      "concorrência"
-    ],
-    "img": "img/9c6c713126af.jpg",
-    "ts": 1787177446,
-    "addedTs": 1787186493,
-    "urlHash": "9c6c713126af",
-    "titleHash": "567b4c5e7842"
-  },
-  {
-    "title": "Japan to require AI firms to disclose training data",
-    "titlePt": "Japão vai exigir que empresas de IA divulguem dados de treino",
-    "url": "https://www.japantimes.co.jp/news/2026/08/19/japan/ai-training-data-disclosure/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O Japão anunciou que vai obrigar empresas de inteligência artificial a revelar quais dados usaram para treinar seus modelos. A regra mira aumentar a transparência e combater violações de direitos autorais. Companhias como OpenAI, Google e Anthropic que operam no país terão que se adaptar. A medida pode inspirar legislações semelhantes em outros países e afetar diretamente desenvolvedores que usam modelos japoneses.",
-    "reasonEn": "Japan announced it will require AI companies to disclose which data they used to train their models. The rule aims to boost transparency and fight copyright violations. Major firms like OpenAI, Google, and Anthropic operating in the country will have to comply. The move could inspire similar legislation elsewhere and directly affect developers using Japanese-language models.",
-    "score": 0.85,
-    "tags": [
-      "regulação",
-      "Japão"
-    ],
-    "img": "img/3ecf06cbf21c.jpg",
-    "ts": 1787177572,
-    "addedTs": 1787177733,
-    "urlHash": "3ecf06cbf21c",
-    "titleHash": "76c90a03c51d"
-  },
-  {
-    "title": "Orion: The open-source agentic BI platform",
-    "titlePt": "Orion: plataforma de BI agêntico e open-source",
-    "url": "https://orion-agent.ai",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Foi lançado o Orion, uma plataforma de inteligência de negócios (BI) agêntica e de código aberto. A ferramenta permite que agentes de IA analisem dados empresariais de forma autônoma. É uma alternativa gratuita a soluções caras como Tableau e Power BI. Desenvolvedores e analistas de dados são o público-alvo principal.",
-    "reasonEn": "Orion was launched as an open-source agentic business intelligence platform. The tool lets AI agents autonomously analyze enterprise data. It positions itself as a free alternative to expensive solutions like Tableau and Power BI. Developers and data analysts are the main target audience.",
-    "score": 0.55,
-    "tags": [
-      "open-source",
-      "BI",
-      "lançamento"
-    ],
-    "img": "img/1d1039fbce3c.jpg",
-    "ts": 1787177412,
-    "addedTs": 1787177733,
-    "urlHash": "1d1039fbce3c",
-    "titleHash": "04f9d497bf6e"
-  },
-  {
-    "title": "Node.js AI use policy and guidelines",
-    "titlePt": "Node.js divulga política e diretrizes de uso de IA",
-    "url": "https://github.com/nodejs/node/blob/main/doc/contributing/ai-guidelines.md",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A fundação Node.js publicou sua política oficial sobre uso de inteligência artificial no projeto e na comunidade. O documento define o que é permitido e proibido em contribuições, código e comunicações. É um sinal de que projetos grandes de código aberto estão formalizando regras para IA. Desenvolvedores que contribuem ou mantêm pacotes no ecossistema Node devem ler.",
-    "reasonEn": "The Node.js foundation published its official policy on AI usage inside the project and community. The document defines what is allowed and forbidden in contributions, code, and communications. It signals that big open-source projects are formalizing AI rules. Developers contributing to or maintaining packages in the Node ecosystem should read it.",
-    "score": 0.6,
-    "tags": [
-      "Node.js",
-      "política",
-      "open-source"
-    ],
-    "img": "img/4c57249c4979.jpg",
-    "ts": 1787177004,
-    "addedTs": 1787177733,
-    "urlHash": "4c57249c4979",
-    "titleHash": "b1b86ede4911"
   }
 ]
