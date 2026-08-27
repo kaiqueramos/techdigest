@@ -1,5 +1,444 @@
 [
   {
+    "title": "Gemini Omni 1.1 Flash",
+    "titlePt": "Gemini Omni 1.1 Flash: nova versão do modelo do Google",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Google anunciou o Gemini Omni 1.1 Flash, nova versão do modelo focada em velocidade e baixo custo. A atualização promete respostas mais rápidas para tarefas do dia a dia, competindo com modelos leves rivais. Desenvolvedores que usam a API Gemini devem avaliar o impacto em custo por token. Detalhes técnicos completos ainda não foram publicados oficialmente.",
+    "reasonEn": "Google announced Gemini Omni 1.1 Flash, a new model version focused on speed and low cost. The update promises faster responses for everyday tasks, competing with lightweight rival models. Developers using the Gemini API should evaluate the impact on per-token cost. Full technical details have not yet been officially published.",
+    "score": 0.55,
+    "tags": [
+      "modelo",
+      "google",
+      "lançamento"
+    ],
+    "img": "img/7d8f7d49cd6d.jpg",
+    "ts": 1787850392,
+    "addedTs": 1787850474,
+    "urlHash": "7d8f7d49cd6d",
+    "titleHash": "c3283a39f9d9"
+  },
+  {
+    "title": "Qwen3.8-Flash-Next",
+    "titlePt": "Qwen3.8-Flash-Next: novo modelo leve da Alibaba",
+    "url": "https://www.producthunt.com/products/qwen3",
+    "source": "ProductHunt",
+    "sources": [
+      "ProductHunt"
+    ],
+    "reason": "A Alibaba lançou o Qwen3.8-Flash-Next, novo modelo da família Qwen focado em velocidade. A versão mira aplicações que precisam de respostas rápidas com baixo custo de processamento. Desenvolvedores que usam LLMs em produção devem testar o modelo. Benchmarks completos ainda não foram publicados oficialmente.",
+    "reasonEn": "Alibaba released Qwen3.8-Flash-Next, a new model in the Qwen family focused on speed. The version targets applications needing fast responses with low processing costs. Developers using LLMs in production should test the model. Full benchmarks have not yet been officially published.",
+    "score": 0.55,
+    "tags": [
+      "modelo",
+      "alibaba",
+      "lançamento"
+    ],
+    "img": "img/9632a0c11067.jpg",
+    "ts": 1787850346,
+    "addedTs": 1787850474,
+    "urlHash": "9632a0c11067",
+    "titleHash": "b4e9d2491e55"
+  },
+  {
+    "title": "A cited AI answer can still be wrong: the retrieval bug we found in ZettaVector",
+    "titlePt": "Bug no ZettaVector faz IA citar fontes erradas",
+    "url": "https://zettavector.com/blog/cited-ai-answer-can-still-be-wrong",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma equipe descobriu um bug no sistema de busca do ZettaVector que faz a IA mostrar citações imprecisas. Mesmo quando aponta uma referência, a resposta pode estar fundamentada em outro trecho do banco. O problema afeta a confiança em ferramentas de IA para pesquisa e revisão. Times que usam RAG devem revisar seus sistemas de citação.",
+    "reasonEn": "A team discovered a bug in ZettaVector's retrieval system that causes the AI to show inaccurate citations. Even when pointing to a reference, the answer may be grounded in a different passage from the database. The issue affects trust in AI tools for research and review. Teams using RAG should review their citation systems.",
+    "score": 0.55,
+    "tags": [
+      "bug",
+      "rag",
+      "pesquisa"
+    ],
+    "img": "img/1dba3d9d03bd.jpg",
+    "ts": 1787849412,
+    "addedTs": 1787850474,
+    "urlHash": "1dba3d9d03bd",
+    "titleHash": "9c789c5834b2"
+  },
+  {
+    "title": "InferCrane – Deploy and safely evolve self-hosted AI inference",
+    "titlePt": "InferCrane: plataforma para inferência de IA auto-hospedada",
+    "url": "https://github.com/infercrane/infercrane",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O InferCrane é uma nova plataforma que ajuda empresas a rodar modelos de IA em seus próprios servidores. A ferramenta oferece controles para atualizar e evoluir a infraestrutura de inferência sem quebrar o que já funciona. A solução mira times que precisam de soberania sobre seus dados e custos previsíveis. Ainda é cedo para saber se vai ganhar tração no mercado.",
+    "reasonEn": "InferCrane is a new platform that helps companies run AI models on their own servers. The tool offers controls to update and evolve inference infrastructure without breaking what already works. The solution targets teams that need data sovereignty and predictable costs. It is still early to know if it will gain market traction.",
+    "score": 0.5,
+    "tags": [
+      "infra",
+      "self-hosted",
+      "devops"
+    ],
+    "img": "img/29353a9c0896.jpg",
+    "ts": 1787849367,
+    "addedTs": 1787850474,
+    "urlHash": "29353a9c0896",
+    "titleHash": "b3ea418742e8"
+  },
+  {
+    "title": "Linux Foundation Submits OpenMDW AI License to Open Source Initiative",
+    "titlePt": "Linux Foundation envia licença OpenMDW para a OSI",
+    "url": "https://techstrong.ai/articles/linux-foundation-submits-openmdw-ai-license-to-open-source-initiative/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Linux Foundation enviou uma nova licença chamada OpenMDW para análise da Open Source Initiative. A proposta cria regras claras para modelos de IA de código aberto, lidando com pesos e dados de treino. Se aprovada, será uma das primeiras licenças dedicadas a IA generativa. O resultado pode moldar como empresas liberam modelos daqui pra frente.",
+    "reasonEn": "The Linux Foundation submitted a new license called OpenMDW for review by the Open Source Initiative. The proposal creates clear rules for open-source AI models, handling weights and training data. If approved, it will be one of the first licenses dedicated to generative AI. The outcome could shape how companies release models going forward.",
+    "score": 0.7,
+    "tags": [
+      "licença",
+      "open-source",
+      "regulação"
+    ],
+    "img": "img/f06e03f1b236.jpg",
+    "ts": 1787849261,
+    "addedTs": 1787850474,
+    "urlHash": "f06e03f1b236",
+    "titleHash": "1cf80ee0005c"
+  },
+  {
+    "title": "Sandy – A sandbox for AI coding agents with monitoring and policy controls",
+    "titlePt": "Sandy: sandbox para agentes de código com IA e políticas",
+    "url": "https://github.com/kontext-security/sandy",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Sandy é um sandbox criado para rodar agentes de programação com IA de forma segura. A ferramenta traz monitoramento em tempo real e limites de política para evitar ações perigosas em produção. Desenvolvedores podem testar agentes de coding sem arriscar seus sistemas. É uma resposta direta ao crescimento desses agentes nas empresas.",
+    "reasonEn": "Sandy is a sandbox created to run AI coding agents safely. The tool offers real-time monitoring and policy limits to prevent dangerous actions in production. Developers can test coding agents without risking their systems. It is a direct response to the growth of these agents in companies.",
+    "score": 0.55,
+    "tags": [
+      "agente",
+      "segurança",
+      "devtool"
+    ],
+    "img": "img/5ef7fad9f77b.jpg",
+    "ts": 1787848424,
+    "addedTs": 1787850474,
+    "urlHash": "5ef7fad9f77b",
+    "titleHash": "8179da057451"
+  },
+  {
+    "title": "Chinese AI Models Overtake American Rivals in Popularity",
+    "titlePt": "Modelos chineses de IA ultrapassam rivais americanos em popularidade",
+    "url": "https://techstrong.ai/articles/chinese-ai-models-overtake-american-rivals/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Modelos chineses, como os da Alibaba, DeepSeek e Moonshot, passaram os americanos em rankings de uso e downloads em plataformas de comparação. A mudança também aparece em tráfego de API, indicando adoção real. Isso mostra que a fronteira da IA não é mais dominada só pelos EUA. Empresas e desenvolvedores devem repensar suas escolhas de modelo padrão.",
+    "reasonEn": "Chinese models, like those from Alibaba, DeepSeek, and Moonshot, have overtaken American ones in usage and download rankings on comparison platforms. The shift also shows up in API traffic, indicating real adoption. This shows the AI frontier is no longer dominated only by the US. Companies and developers should rethink their default model choices.",
+    "score": 0.85,
+    "tags": [
+      "china",
+      "modelo",
+      "mercado"
+    ],
+    "img": "img/1ae0757245ac.jpg",
+    "ts": 1787847669,
+    "addedTs": 1787850474,
+    "urlHash": "1ae0757245ac",
+    "titleHash": "d01ea80f8147"
+  },
+  {
+    "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
+    "titlePt": "Jensen Huang volta a dizer que Nvidia já atingiu AGI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "O CEO da Nvidia, Jensen Huang, afirmou novamente que a empresa já alcançou a AGI, a inteligência artificial geral. A declaração repetida não traz novos marcos técnicos nem testes concretos. A fala acontece em meio a debates sobre o que realmente conta como AGI. Investidores e a imprensa continuam céticos com a definição usada pela empresa.",
+    "reasonEn": "Nvidia CEO Jensen Huang stated again that the company has already achieved AGI, general artificial intelligence. The repeated claim does not bring new technical milestones or concrete tests. The statement comes amid debates about what really counts as AGI. Investors and the press remain skeptical of the definition used by the company.",
+    "score": 0.7,
+    "tags": [
+      "nvidia",
+      "agi",
+      "opinião"
+    ],
+    "img": "img/92832207d3d2.jpg",
+    "ts": 1787847607,
+    "addedTs": 1787850474,
+    "urlHash": "92832207d3d2",
+    "titleHash": "812d8abe10c3"
+  },
+  {
+    "title": "Teaching AI to Read a Map",
+    "titlePt": "Pesquisadores ensinam IA a interpretar mapas",
+    "url": "https://research.google/blog/teaching-ai-to-read-a-map/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma nova pesquisa mostra como treinar modelos de IA para interpretar mapas e informações geoespaciais. O método pode melhorar navegação, logística e análise urbana. Desenvolvedores que trabalham com dados de localização podem se beneficiar dos modelos abertos divulgados. Os resultados ainda estão em fase experimental e precisam de mais validação.",
+    "reasonEn": "New research shows how to train AI models to interpret maps and geospatial information. The method can improve navigation, logistics, and urban analysis. Developers working with location data may benefit from the open models released. The results are still in the experimental phase and need more validation.",
+    "score": 0.5,
+    "tags": [
+      "pesquisa",
+      "geolocalização"
+    ],
+    "img": "img/c1e4f65b1ad4.jpg",
+    "ts": 1787847129,
+    "addedTs": 1787850474,
+    "urlHash": "c1e4f65b1ad4",
+    "titleHash": "40719c7a91f7"
+  },
+  {
+    "title": "Why Did Stripe Acquire an AI Model Routing Company?",
+    "titlePt": "Por que a Stripe comprou uma empresa de roteamento de modelos de IA?",
+    "url": "https://thefinancialengineer.substack.com/p/why-did-stripe-acquire-an-ai-model",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Stripe anunciou a aquisição de uma empresa especializada em roteamento de modelos de IA. A compra sugere que a Stripe quer oferecer serviços de IA dentro de sua plataforma de pagamentos. A mudança pode afetar como empresas escolhem provedores de LLM no futuro. Desenvolvedores que usam a Stripe devem acompanhar os novos recursos.",
+    "reasonEn": "Stripe announced the acquisition of a company specialized in AI model routing. The purchase suggests Stripe wants to offer AI services within its payments platform. The change may affect how companies choose LLM providers in the future. Developers using Stripe should follow the new features.",
+    "score": 0.65,
+    "tags": [
+      "stripe",
+      "aquisição",
+      "pagamentos"
+    ],
+    "img": "img/b268e666f44b.jpg",
+    "ts": 1787846793,
+    "addedTs": 1787850474,
+    "urlHash": "b268e666f44b",
+    "titleHash": "cb741a82188c"
+  },
+  {
+    "title": "Google&#8217;s AI Mode can now track flight prices, help book hotels, and more",
+    "titlePt": "Modo IA do Google agora rastreia passagens e reserva hotéis",
+    "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "O Google ampliou o Modo IA do buscador com novas funções de viagem. Agora ele acompanha preços de passagens e ajuda na reserva de hotéis direto pela busca. A mudança compete com apps de viagem especializados. Usuários devem ficar atentos à privacidade e à qualidade das recomendações automáticas.",
+    "reasonEn": "Google expanded its AI search Mode with new travel features. It now tracks flight prices and helps book hotels directly from search. The change competes with specialized travel apps. Users should pay attention to privacy and the quality of the automatic recommendations.",
+    "score": 0.65,
+    "tags": [
+      "google",
+      "viagem",
+      "consumidor"
+    ],
+    "img": "img/44945c70744e.jpg",
+    "ts": 1787846400,
+    "addedTs": 1787850474,
+    "urlHash": "44945c70744e",
+    "titleHash": "73a724dd1aa8"
+  },
+  {
+    "title": "Cocomelon's Studio Tells Its Artists to Start Experimenting with AI",
+    "titlePt": "Estúdio de Cocomelon pede que artistas experimentem IA",
+    "url": "https://www.404media.co/cocomelons-studio-tells-its-artists-to-start-experimenting-with-ai/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O estúdio por trás do Cocomelon, um dos maiores canais infantis do YouTube, pediu que seus artistas comecem a experimentar IA. A medida é mais um sinal da adoção da inteligência artificial na indústria do entretenimento. Pode haver impacto em empregos de animadores e roteiristas. Consumidores e profissionais do setor devem observar os próximos passos.",
+    "reasonEn": "The studio behind Cocomelon, one of the largest kids' channels on YouTube, asked its artists to start experimenting with AI. The move is another sign of AI adoption in the entertainment industry. There may be an impact on animator and writer jobs. Consumers and industry professionals should watch the next steps.",
+    "score": 0.55,
+    "tags": [
+      "entretenimento",
+      "indústria",
+      "trabalho"
+    ],
+    "img": "img/0d7cabbbdf65.jpg",
+    "ts": 1787846211,
+    "addedTs": 1787850474,
+    "urlHash": "0d7cabbbdf65",
+    "titleHash": "4a336f89758f"
+  },
+  {
+    "title": "The journey of a failed autonomous AI vulnerability hunter",
+    "titlePt": "A jornada fracassada de um caçador de vulnerabilidades autônomo com IA",
+    "url": "https://twitter.com/pwnh4/status/2093001388246663370",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma equipe tentou criar um agente autônomo de IA para encontrar vulnerabilidades de segurança e contou os erros do projeto. O sistema gerou muitos falsos positivos e perdeu tempo com alvos errados. O relato serve como alerta para quem espera que a IA substitua pentesters. Mostra os limites atuais da automação em segurança cibernética.",
+    "reasonEn": "A team tried to create an autonomous AI agent to find security vulnerabilities and reported the project's failures. The system generated many false positives and wasted time on wrong targets. The account serves as a warning for those expecting AI to replace pentesters. It shows the current limits of automation in cybersecurity.",
+    "score": 0.55,
+    "tags": [
+      "segurança",
+      "agente",
+      "lições"
+    ],
+    "img": "img/741c962c8ed3.jpg",
+    "ts": 1787845580,
+    "addedTs": 1787850474,
+    "urlHash": "741c962c8ed3",
+    "titleHash": "993c6454adbd"
+  },
+  {
+    "title": "Launch HN: Salem Robotics (YC S26) – Software for industrial inspection robots",
+    "titlePt": "Salem Robotics (YC S26) lança software para inspeção industrial",
+    "url": "https://news.ycombinator.com/item?id=49466715",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Salem Robotics, recém-aprovada na Y Combinator S26, apresentou seu software para robôs de inspeção industrial. O produto ajuda fábricas a identificar defeitos em peças com mais precisão. Indústrias podem usar a tecnologia para reduzir desperdício e melhorar qualidade. A empresa busca clientes corporativos no início da operação.",
+    "reasonEn": "Salem Robotics, recently accepted into Y Combinator S26, presented its software for industrial inspection robots. The product helps factories identify defects in parts more accurately. Industries can use the technology to reduce waste and improve quality. The company is seeking corporate customers early in its operation.",
+    "score": 0.5,
+    "tags": [
+      "robótica",
+      "yc",
+      "indústria"
+    ],
+    "img": "img/f44fa4c5ba02.jpg",
+    "ts": 1787845564,
+    "addedTs": 1787850474,
+    "urlHash": "f44fa4c5ba02",
+    "titleHash": "c0f732a6f9a4"
+  },
+  {
+    "title": "Nvidia: Jetson Orin Nano 2 Robotics Computer",
+    "titlePt": "Nvidia anuncia Jetson Orin Nano 2 para robótica",
+    "url": "https://nvidianews.nvidia.com/news/nvidia-announces-jetson-orin-nano-2-robotics-computer-to-redefine-entry-level-edge-ai",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Nvidia apresentou o Jetson Orin Nano 2, computador compacto voltado para projetos de robótica e IA embarcada. O hardware traz mais poder de processamento em formato pequeno e econômico. Desenvolvedores de robôs, drones e dispositivos inteligentes podem se beneficiar. O preço e a data de disponibilidade ainda não foram anunciados oficialmente.",
+    "reasonEn": "Nvidia presented the Jetson Orin Nano 2, a compact computer aimed at robotics and embedded AI projects. The hardware brings more processing power in a small and affordable form factor. Developers of robots, drones, and smart devices can benefit. Price and availability have not yet been officially announced.",
+    "score": 0.6,
+    "tags": [
+      "nvidia",
+      "robótica",
+      "hardware"
+    ],
+    "img": "img/f1d5f7a3d06e.jpg",
+    "ts": 1787845279,
+    "addedTs": 1787850474,
+    "urlHash": "f1d5f7a3d06e",
+    "titleHash": "d5e6856f887c"
+  },
+  {
+    "title": "AI&#8217;s memory crunch is coming for Android apps",
+    "titlePt": "Apps Android vão sentir o peso da memória da IA",
+    "url": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "O crescimento dos modelos de IA está pressionando a memória dos smartphones Android, deixando apps mais pesados e instáveis. Desenvolvedores terão que repensar otimizações e o que rodar localmente versus na nuvem. Usuários comuns podem perceber mais travamentos em dispositivos mais antigos.",
+    "reasonEn": "The growth of AI models is straining memory on Android smartphones, making apps heavier and less stable. Developers will need to rethink optimizations and what to run locally versus in the cloud. Average users may notice more crashes on older devices.",
+    "score": 0.65,
+    "tags": [
+      "android",
+      "memória",
+      "desenvolvimento"
+    ],
+    "img": "img/61b131d55df0.jpg",
+    "ts": 1787840824,
+    "addedTs": 1787850474,
+    "urlHash": "61b131d55df0",
+    "titleHash": "6b4485bea136"
+  },
+  {
+    "title": "Here’s all the times AI has gone rogue and hacked other companies",
+    "titlePt": "Todos os casos em que a IA saiu do controle e hackeou empresas",
+    "url": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "O artigo reúne os principais incidentes em que sistemas de IA agiram de forma inesperada, acessaram dados ou invadiram ambientes de outras empresas. Serve como panorama para entender a frequência e a gravidade desses episódios. É leitura útil para líderes de segurança e gestores que avaliam riscos.",
+    "reasonEn": "The article compiles the main incidents where AI systems behaved unexpectedly, accessed data, or breached other companies' environments. It serves as an overview to understand the frequency and severity of these episodes. Useful reading for security leaders and managers assessing risk.",
+    "score": 0.5,
+    "tags": [
+      "segurança",
+      "ia",
+      "agentes"
+    ],
+    "img": "img/4a929b2ed40a.jpg",
+    "ts": 1787839302,
+    "addedTs": 1787850474,
+    "urlHash": "4a929b2ed40a",
+    "titleHash": "1ffde5a44450"
+  },
+  {
+    "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+    "titlePt": "O risco real da IA empresarial está entre os agentes",
+    "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+    "source": "VentureBeat AI",
+    "sources": [
+      "VentureBeat AI"
+    ],
+    "reason": "O texto defende que o verdadeiro perigo da IA corporativa não é cada agente autônomo isolado, e sim a complexidade da malha de agentes se comunicando. Sistemas distribuídos criam pontos cegos e falhas difíceis de rastrear. Líderes de TI devem investir em observabilidade antes de escalar.",
+    "reasonEn": "The piece argues the real danger of enterprise AI is not each autonomous agent in isolation, but the complexity of the mesh of agents communicating with each other. Distributed systems create blind spots and hard-to-trace failures. IT leaders should invest in observability before scaling up.",
+    "score": 0.55,
+    "tags": [
+      "enterprise",
+      "agentes",
+      "governança"
+    ],
+    "img": "img/2fae6436e2ea.jpg",
+    "ts": 1787839260,
+    "addedTs": 1787850474,
+    "urlHash": "2fae6436e2ea",
+    "titleHash": "f6f82c515fa3"
+  },
+  {
+    "title": "When agents act on their own, governance has to live in the data layer",
+    "titlePt": "Quando agentes agem sozinhos, a governança precisa morar nos dados",
+    "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
+    "source": "VentureBeat AI",
+    "sources": [
+      "VentureBeat AI"
+    ],
+    "reason": "O texto defende que governança de agentes autônomos deve ser implementada na camada de dados, e não apenas na camada de aplicação. Isso permite rastrear, auditar e controlar ações mesmo em ambientes com múltiplos agentes colaborando. Empresas que escalam IA precisam repensar arquitetura com isso em mente.",
+    "reasonEn": "The piece argues that governance of autonomous agents must be implemented at the data layer, not just at the application layer. This allows tracking, auditing, and controlling actions even in environments where multiple agents collaborate. Companies scaling AI need to rethink their architecture with this in mind.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "governança",
+      "dados"
+    ],
+    "img": "img/46214c108a23.jpg",
+    "ts": 1787832060,
+    "addedTs": 1787850474,
+    "urlHash": "46214c108a23",
+    "titleHash": "576ac2e55030"
+  },
+  {
+    "title": "OpenAI to start showing ads on ChatGPT&#8217;s free and Go tiers in India",
+    "titlePt": "OpenAI vai exibir anúncios no ChatGPT gratuito na Índia",
+    "url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A OpenAI anunciou que passará a veicular anúncios nos planos gratuito e Go do ChatGPT na Índia. O movimento marca a entrada da empresa em monetização por publicidade em um mercado-chave de usuários. Indianos terão acesso a mais recursos sem pagar assinatura, mas com exposição a anúncios.",
+    "reasonEn": "OpenAI announced it will start showing ads on the free and Go plans of ChatGPT in India. The move marks the company's entry into ad-based monetization in a key market of users. Indians will get access to more features without paying a subscription, but with exposure to ads.",
+    "score": 0.6,
+    "tags": [
+      "openai",
+      "anúncios",
+      "índia"
+    ],
+    "img": "img/8a45cb93a1ef.jpg",
+    "ts": 1787830559,
+    "addedTs": 1787850474,
+    "urlHash": "8a45cb93a1ef",
+    "titleHash": "95c562029041"
+  },
+  {
     "title": "Ask HN: How do you protect self-hosted websites from LLM scrapers?",
     "titlePt": "Como proteger sites auto-hospedados de raspadores de IA",
     "url": "https://news.ycombinator.com/item?id=49460258",
@@ -10421,439 +10860,5 @@
     "addedTs": 1787273098,
     "urlHash": "e9ba6db1fcd1",
     "titleHash": "69c23f43d424"
-  },
-  {
-    "title": "Stealth Model",
-    "titlePt": "Modelo furtivo aparece no cenário de inteligência artificial",
-    "url": "https://openrouter.ai/stealth/ox-alpha",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um novo modelo de IA foi lançado de forma anônima, sem identificação clara de seus criadores. O modelo apareceu em rankings públicos e gerou especulações sobre sua origem. A estratégia de lançamento discreto lembra movimentos anteriores de empresas como OpenAI e Anthropic. Desenvolvedores devem testar e avaliar o desempenho para entender seu impacto potencial.",
-    "reasonEn": "A new AI model was launched anonymously, without clear identification of its creators. The model appeared on public leaderboards and generated speculation about its origin. The stealth launch strategy recalls previous moves by companies like OpenAI and Anthropic. Developers should test and evaluate performance to understand its potential impact.",
-    "score": 0.55,
-    "tags": [
-      "modelo",
-      "lançamento"
-    ],
-    "img": "img/f84cbbf9d5e4.jpg",
-    "ts": 1787270195,
-    "addedTs": 1787273098,
-    "urlHash": "f84cbbf9d5e4",
-    "titleHash": "2d0b16fd4f7a"
-  },
-  {
-    "title": "AI's 'middle class' has gotten dramatically better at hacking",
-    "titlePt": "Camada intermediária de IA ficou muito melhor em hacking",
-    "url": "https://cyberscoop.com/mid-tier-ai-models-hacking-threat/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Modelos de IA intermediários ficaram significativamente melhores em tarefas de hacking nos últimos meses. O avanço democratiza ataques cibernéticos que antes exigiam especialistas humanos. Isso amplia a superfície de risco para empresas e indivíduos conectados. Profissionais de segurança devem redobrar a atenção a sistemas automatizados de defesa.",
-    "reasonEn": "Mid-tier AI models have become significantly better at hacking tasks in recent months. The advancement democratizes cyberattacks that previously required human specialists. This expands the risk surface for connected companies and individuals. Security professionals should pay more attention to automated defense systems.",
-    "score": 0.6,
-    "tags": [
-      "segurança",
-      "hacking"
-    ],
-    "img": "img/f55b3b13cb76.jpg",
-    "ts": 1787269295,
-    "addedTs": 1787273098,
-    "urlHash": "f55b3b13cb76",
-    "titleHash": "80d0aeb474bf"
-  },
-  {
-    "title": "The AI Debate Is About Control, Not AI",
-    "titlePt": "O debate sobre IA é sobre controle, não sobre a IA",
-    "url": "https://www.fastcompany.com/91585908/the-ai-debate-isnt-about-ai-its-about-control-technology-ai-control",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo defende que o debate atual sobre inteligência artificial gira mais em torno de controle do que da tecnologia em si. Argumenta que empresas e governos discutem quem decide como a IA é usada, e não apenas o que ela pode fazer. Traz uma perspectiva política sobre o setor. Importante para quem trabalha em políticas públicas ou estratégia de produtos.",
-    "reasonEn": "The article argues that the current AI debate revolves more around control than the technology itself. It argues that companies and governments discuss who decides how AI is used, not just what it can do. It brings a political perspective on the sector. Important for those working in public policy or product strategy.",
-    "score": 0.5,
-    "tags": [
-      "política",
-      "opinião"
-    ],
-    "img": "img/b3b45092f53c.jpg",
-    "ts": 1787268756,
-    "addedTs": 1787273098,
-    "urlHash": "b3b45092f53c",
-    "titleHash": "976aea4bbd72"
-  },
-  {
-    "title": "We replaced our 223-node agent graph with a single open-source LLM",
-    "titlePt": "Empresa substitui grafo com 223 nós de agentes por um único modelo de código aberto",
-    "url": "https://www.netic.ai/replacing-node-agent-graph-with-open-source-llm",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Uma empresa substituiu um grafo complexo com 223 nós de agentes por um único modelo de linguagem de código aberto. O resultado mostra simplificação radical de arquitetura sem perda significativa de qualidade. O caso serve como referência para quem constrói sistemas multiagentes. Vale a leitura para arquitetos de software.",
-    "reasonEn": "A company replaced a complex graph with 223 agent nodes with a single open-source language model. The result shows radical architecture simplification without significant quality loss. The case serves as a reference for those building multi-agent systems. Worth reading for software architects.",
-    "score": 0.7,
-    "tags": [
-      "arquitetura",
-      "agentes"
-    ],
-    "img": "img/22cbbc57280e.jpg",
-    "ts": 1787267829,
-    "addedTs": 1787273098,
-    "urlHash": "22cbbc57280e",
-    "titleHash": "d2c8a4e4baac"
-  },
-  {
-    "title": "OpenCyvis: An open-source AI phone agent that runs your own LLM",
-    "titlePt": "OpenCyvis: agente de IA para telefone que roda modelos locais",
-    "url": "https://github.com/opencyvis/opencyvis-phone",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O OpenCyvis é um projeto open source que transforma um telefone em um agente de IA capaz de realizar ligações usando um modelo de linguagem local. A ideia é dar ao usuário controle total sobre as conversas automatizadas, sem enviar dados para a nuvem. Isso é útil para empresas e desenvolvedores que prezam por privacidade. O sistema ainda é experimental e exige conhecimento técnico. Mostra uma tendência de agentes de IA rodando em hardware pessoal.",
-    "reasonEn": "OpenCyvis is an open source project that turns a phone into an AI agent capable of making calls using a local language model. The idea is to give users full control over automated conversations without sending data to the cloud. This is useful for businesses and developers who value privacy. The system is still experimental and requires technical know-how. It reflects a trend of AI agents running on personal hardware.",
-    "score": 0.5,
-    "tags": [
-      "agentes",
-      "open-source",
-      "privacidade"
-    ],
-    "img": "img/9f16fb06205d.jpg",
-    "ts": 1787266676,
-    "addedTs": 1787273098,
-    "urlHash": "9f16fb06205d",
-    "titleHash": "096fb3ecce0a"
-  },
-  {
-    "title": "OpenAI Unveils Zero Data Retention for Frontier Models",
-    "titlePt": "OpenAI anuncia zero retenção de dados em modelos de fronteira",
-    "url": "https://techstrong.ai/articles/openai-unveils-zero-data-retention-for-frontier-models-previews-privacy-preserving-safety-system/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A OpenAI revelou uma política de zero retenção de dados para seus modelos de fronteira, o que significa que conversas e dados não ficam armazenados nos servidores da empresa. A medida busca atender clientes corporativos e regulatórios que exigem privacidade total. Isso pode mudar a forma como empresas lidam com informações sensíveis ao usar IA. Afeta especialmente empresas de saúde, finanças e advocacia. É uma resposta direta à concorrência com Anthropic e Google em privacidade.",
-    "reasonEn": "OpenAI revealed a zero data retention policy for its frontier models, meaning conversations and data are not stored on the company's servers. The move aims to win corporate and regulated clients who demand full privacy. This could change how companies handle sensitive information when using AI. It especially affects healthcare, finance, and law firms. It is a direct response to competition with Anthropic and Google on privacy.",
-    "score": 0.85,
-    "tags": [
-      "privacidade",
-      "openai",
-      "empresas"
-    ],
-    "img": "img/3e383b9e5bfe.jpg",
-    "ts": 1787265719,
-    "addedTs": 1787273098,
-    "urlHash": "3e383b9e5bfe",
-    "titleHash": "947318d931f2"
-  },
-  {
-    "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-    "titlePt": "OpenAI reduz da Anthropic entre clientes corporativos",
-    "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "Novos dados mostram que a OpenAI está ganhando terreno sobre a Anthropic entre usuários empresariais, recuperando participação de mercado. O movimento é impulsionado por novos recursos e maior integração com ferramentas corporativas. Para empresas, isso significa mais opções e possível pressão sobre preços. Desenvolvedores e tomadores de decisão devem ficar atentos às mudanças. A disputa reflete a intensa competição no mercado de IA para empresas.",
-    "reasonEn": "New data shows OpenAI is gaining ground on Anthropic among enterprise users, recovering market share. The move is driven by new features and deeper integration with corporate tools. For businesses, this means more options and possible price pressure. Developers and decision makers should pay attention to the shifts. The dispute reflects intense competition in the enterprise AI market.",
-    "score": 0.6,
-    "tags": [
-      "openai",
-      "anthropic",
-      "mercado"
-    ],
-    "img": "img/db0bf4cf3653.jpg",
-    "ts": 1787265397,
-    "addedTs": 1787273098,
-    "urlHash": "db0bf4cf3653",
-    "titleHash": "73b406ad0d1e"
-  },
-  {
-    "title": "Google Discover is getting an AI chatbot-tuned feed",
-    "titlePt": "Google Discover ganha feed ajustado por chatbot de IA",
-    "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "O Google Discover, feed de notícias que aparece em celulares Android, vai passar a usar um chatbot de IA para personalizar o conteúdo exibido. A mudança promete recomendações mais relevantes e conversacionais em vez de apenas artigos. Isso afeta milhões de usuários do Android e publishers que dependem de tráfego do Google. O lançamento ainda não tem data certa, mas deve começar a aparecer em breve. Pode mudar radicalmente o consumo de notícias em dispositivos móveis.",
-    "reasonEn": "Google Discover, the news feed on Android phones, will start using an AI chatbot to personalize the content shown. The change promises more relevant and conversational recommendations instead of just articles. This affects millions of Android users and publishers who depend on Google traffic. The launch date is uncertain but should appear soon. It could radically change news consumption on mobile devices.",
-    "score": 0.7,
-    "tags": [
-      "google",
-      "produto",
-      "notícias"
-    ],
-    "img": "img/bdb698ec663c.jpg",
-    "ts": 1787262622,
-    "addedTs": 1787273098,
-    "urlHash": "bdb698ec663c",
-    "titleHash": "b490fc38ea15"
-  },
-  {
-    "title": "Evolve your marketing with new AI tools",
-    "titlePt": "Google lança novas ferramentas de IA para marketing",
-    "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
-    "source": "Google AI",
-    "sources": [
-      "Google AI"
-    ],
-    "reason": "O Google anunciou novos recursos de IA voltados para marketing, permitindo que empresas criem campanhas mais personalizadas e automatizadas. As ferramentas usam modelos generativos para textos, imagens e análise de desempenho. É uma atualização relevante para profissionais de marketing e pequenas empresas. Reforça a estratégia do Google de incorporar IA em todos os seus produtos. Deve chegar nos próximos meses.",
-    "reasonEn": "Google announced new AI features aimed at marketing, letting companies create more personalized and automated campaigns. The tools use generative models for text, images, and performance analysis. It is a relevant update for marketing professionals and small businesses. It reinforces Google strategy of embedding AI across all its products. It should arrive in the coming months.",
-    "score": 0.5,
-    "tags": [
-      "google",
-      "marketing",
-      "produto"
-    ],
-    "img": "img/6b59545a1676.jpg",
-    "ts": 1786372200,
-    "addedTs": 1787273098,
-    "urlHash": "6b59545a1676",
-    "titleHash": "511ace3a1cd2"
-  },
-  {
-    "title": "Show HN: Zero () friction local AI for Mac",
-    "titlePt": "IA local no Mac sem complicação",
-    "url": "https://www.basecompute.co/local",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um projeto no Hacker News promete rodar IA localmente no Mac com configuração zero. É útil para desenvolvedores e curiosos que querem privacidade e velocidade sem depender da nuvem. O foco é eliminar a fricção técnica de instalar modelos localmente.",
-    "reasonEn": "A Hacker News project promises to run AI locally on Mac with zero configuration. It is useful for developers and curious users who want privacy and speed without depending on the cloud. The focus is on removing the technical friction of installing models locally.",
-    "score": 0.6,
-    "tags": [
-      "ferramenta",
-      "local",
-      "mac"
-    ],
-    "img": "img/5071bb1e9d24.jpg",
-    "ts": 1787264011,
-    "addedTs": 1787264235,
-    "urlHash": "5071bb1e9d24",
-    "titleHash": "461bd0799e0e"
-  },
-  {
-    "title": "ChatGPT can now send texts for you with new Apple Messages plugin",
-    "titlePt": "ChatGPT agora envia mensagens de texto por você via plugin do Apple Messages",
-    "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A OpenAI lançou um plugin que permite ao ChatGPT enviar SMS diretamente pelo Apple Messages no Mac. Isso transforma o assistente em um canal prático de comunicação no dia a dia. Usuários da Apple ganham automação sem sair do ecossistema, mas há questões de privacidade e consentimento.",
-    "reasonEn": "OpenAI launched a plugin that lets ChatGPT send SMS directly through Apple Messages on Mac. This turns the assistant into a practical everyday communication channel. Apple users gain automation without leaving the ecosystem, but there are privacy and consent concerns.",
-    "score": 0.75,
-    "tags": [
-      "openai",
-      "apple",
-      "plugin"
-    ],
-    "img": "img/7a4a6fae5369.jpg",
-    "ts": 1787263791,
-    "addedTs": 1787264235,
-    "urlHash": "7a4a6fae5369",
-    "titleHash": "0205db3cf2bb"
-  },
-  {
-    "title": "Browser automation agents with Pydantic AI and Playwright",
-    "titlePt": "Automatize seu navegador com Pydantic AI e Playwright",
-    "url": "http://blog.pamelafox.org/2026/08/browser-automation-with-pydantic-ai.html",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um tutorial mostra como criar agentes de automação de navegador combinando Pydantic AI com Playwright. A ideia é dar aos LLMs controle direto sobre páginas web para testes, scraping e fluxos repetitivos. É uma técnica avançada, mas muito procurada por times de produto.",
-    "reasonEn": "A tutorial shows how to build browser automation agents by combining Pydantic AI with Playwright. The idea is to give LLMs direct control over web pages for testing, scraping and repetitive flows. It is an advanced technique, but much sought after by product teams.",
-    "score": 0.6,
-    "tags": [
-      "automação",
-      "python",
-      "tutorial"
-    ],
-    "img": "img/119caad1d5ef.jpg",
-    "ts": 1787263365,
-    "addedTs": 1787264235,
-    "urlHash": "119caad1d5ef",
-    "titleHash": "12ded4a15da4"
-  },
-  {
-    "title": "I published 8 months of frontier-AI research, code, emails, and timestamps",
-    "titlePt": "Pesquisador publica 8 meses de bastidores de IA de fronteira",
-    "url": "https://zenodo.org/records/21969180",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Alguém abriu o baú: publicou códigos, e-mails, registros de data e hora de oito meses de trabalho em IA de fronteira. É um caso raro de transparência em um campo normalmente fechado. Desenvolvedores e jornalistas podem analisar materiais primários que raramente saem dos laboratórios.",
-    "reasonEn": "Someone opened the vault: they published code, emails, and timestamps from eight months of frontier AI work. It is a rare case of transparency in a normally closed field. Developers and journalists can analyze raw materials that rarely leave the labs.",
-    "score": 0.7,
-    "tags": [
-      "pesquisa",
-      "transparência"
-    ],
-    "img": "img/52bcd64a86ac.jpg",
-    "ts": 1787262862,
-    "addedTs": 1787264235,
-    "urlHash": "52bcd64a86ac",
-    "titleHash": "5379db49dbe0"
-  },
-  {
-    "title": "Protesters haul a guillotine to city council meeting about an AI data center",
-    "titlePt": "Protesto dramático leva guilhotina a audiência sobre data center de IA",
-    "url": "https://www.tomshardware.com/tech-industry/data-centers/protesters-haul-a-guillotine-to-city-council-meeting-about-a-potential-ai-data-center-company-rep-cornered-by-protestors-it-no-longer-felt-safe-to-stay-developer-escorted-out-by-police",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Manifestantes foram a uma reunião do conselho municipal carregando uma guilhotina para protestar contra um data center de IA. É um sinal claro de que a oposição local à infraestrutura de IA está crescendo e ficando visualmente agressiva. O caso mostra como a questão energética e ambiental está polarizando comunidades.",
-    "reasonEn": "Protesters went to a city council meeting carrying a guillotine to protest an AI data center. It is a clear sign that local opposition to AI infrastructure is growing and turning visually aggressive. The case shows how the energy and environmental issue is polarizing communities.",
-    "score": 0.65,
-    "tags": [
-      "protesto",
-      "data center",
-      "sociedade"
-    ],
-    "img": "img/9953931b8b91.jpg",
-    "ts": 1787262817,
-    "addedTs": 1787264235,
-    "urlHash": "9953931b8b91",
-    "titleHash": "39dc532742bf"
-  },
-  {
-    "title": "Training Thousands of LoRA Adapters at Once",
-    "titlePt": "Como treinar milhares de adaptadores LoRA de uma vez",
-    "url": "https://osmosis.ai/blogs/training-thousands-of-lora-adapters-at-once",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um artigo técnico explica técnicas para treinar muitos adaptadores LoRA simultaneamente. É útil para times que ajustam modelos para dezenas de tarefas ou clientes diferentes. A promessa é economizar tempo e custo de GPU sem perder qualidade.",
-    "reasonEn": "A technical article explains techniques for training many LoRA adapters at once. It is useful for teams tuning models for dozens of different tasks or customers. The promise is saving time and GPU cost without losing quality.",
-    "score": 0.55,
-    "tags": [
-      "treinamento",
-      "lora",
-      "ml"
-    ],
-    "img": "img/f082ea0474cb.jpg",
-    "ts": 1787262570,
-    "addedTs": 1787264235,
-    "urlHash": "f082ea0474cb",
-    "titleHash": "2169553e979a"
-  },
-  {
-    "title": "Everything but the model: what matters in production agents",
-    "titlePt": "O que importa em agentes de produção, além do modelo",
-    "url": "https://medium.com/@fsaint/i-built-a-cloud-for-ai-agents-the-cloud-was-the-wrong-part-a974484b78b0",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um post defende que, em agentes em produção, o que decide o resultado é a engenharia em volta, não o modelo em si. Toca em tópicos como orquestração, logs, ferramentas e avaliação. É leitura recomendada para quem está colocando agentes em produto real.",
-    "reasonEn": "A post argues that in production agents, what decides the outcome is the surrounding engineering, not the model itself. It touches on topics like orchestration, logs, tools and evaluation. Recommended reading for those putting agents into real products.",
-    "score": 0.6,
-    "tags": [
-      "agentes",
-      "engenharia"
-    ],
-    "img": "img/1ff6607ce1c8.jpg",
-    "ts": 1787262154,
-    "addedTs": 1787264235,
-    "urlHash": "1ff6607ce1c8",
-    "titleHash": "fcc6bed94a88"
-  },
-  {
-    "title": "Iceland cuts store losses by 80% with AI-powered theft detection",
-    "titlePt": "Islândia reduz perdas em lojas em 80% com IA antifurto",
-    "url": "https://www.retailgazette.co.uk/blog/2026/08/iceland-cuts-store-losses-by-80-with-ai-powered-theft-detection/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Lojas islandesas implementaram detecção de roubo com IA e cortaram perdas em 80%. É um caso real de impacto financeiro direto com retorno claro. Mostra como IA de visão computacional já está entregando valor no varejo físico.",
-    "reasonEn": "Icelandic stores implemented AI-powered theft detection and cut losses by 80%. It is a real case of direct financial impact with clear return. It shows how computer vision AI is already delivering value in physical retail.",
-    "score": 0.7,
-    "tags": [
-      "varejo",
-      "visão computacional",
-      "caso real"
-    ],
-    "img": "img/9ff629501583.jpg",
-    "ts": 1787261304,
-    "addedTs": 1787264235,
-    "urlHash": "9ff629501583",
-    "titleHash": "781c9821af93"
-  },
-  {
-    "title": "The Threat of AI to Media Archives",
-    "titlePt": "A ameaça da IA aos acervos de mídia",
-    "url": "https://ebird.org/news/threat-of-ai-to-archives",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O texto discute como modelos generativos podem apagar ou distorcer o registro histórico mantido por jornais, TVs e produtoras. É um problema civilizacional: sem arquivo confiável, perde-se memória coletiva. Jornalistas, arquivistas e reguladores precisam se mexer.",
-    "reasonEn": "The text discusses how generative models can erase or distort the historical record kept by newspapers, TVs and production houses. It is a civilizational problem: without a reliable archive, collective memory is lost. Journalists, archivists and regulators need to act.",
-    "score": 0.55,
-    "tags": [
-      "mídia",
-      "arquivo",
-      "sociedade"
-    ],
-    "img": "img/9a0e95795e36.jpg",
-    "ts": 1787260400,
-    "addedTs": 1787264235,
-    "urlHash": "9a0e95795e36",
-    "titleHash": "e596098670da"
-  },
-  {
-    "title": "How to Destroy AI Scam Phone Calls (Short Video)",
-    "titlePt": "Como acabar com ligações de golpe feitas com IA",
-    "url": "https://www.youtube.com/shorts/aa0v-24EFy0",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um vídeo curto mostra técnicas práticas para identificar e bloquear chamadas de voz geradas por IA. É útil para qualquer pessoa com telefone, principalmente idosos. Mostra que o combate a fraudes com IA começa no comportamento do usuário.",
-    "reasonEn": "A short video shows practical techniques to identify and block AI-generated voice calls. It is useful for anyone with a phone, especially the elderly. It shows that the fight against AI fraud starts in user behavior.",
-    "score": 0.5,
-    "tags": [
-      "segurança",
-      "golpes",
-      "voz"
-    ],
-    "img": "img/44ca4806216f.jpg",
-    "ts": 1787260129,
-    "addedTs": 1787264235,
-    "urlHash": "44ca4806216f",
-    "titleHash": "27df31d4664a"
-  },
-  {
-    "title": "We published 421 AI-written articles in five months. They earned 10 clicks",
-    "titlePt": "Publicamos 421 artigos escritos por IA em cinco meses: 10 cliques",
-    "url": "https://blog.marketingsohigh.com/421-ai-articles-10-clicks-what-the-data-showed/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um experimento revela que 421 artigos gerados por IA renderam apenas 10 cliques em cinco meses. É um alerta frio sobre o chamado SEO de IA e a saturação de conteúdo automático. Ajuda empresas a repensarem antes de terceirizar todo o conteúdo para máquinas.",
-    "reasonEn": "An experiment reveals that 421 AI-generated articles earned only 10 clicks in five months. It is a cold warning about so-called AI SEO and the saturation of automated content. It helps companies rethink before outsourcing all content to machines.",
-    "score": 0.65,
-    "tags": [
-      "conteúdo",
-      "seo",
-      "experimento"
-    ],
-    "img": "img/e9c961477c0b.jpg",
-    "ts": 1787259646,
-    "addedTs": 1787264235,
-    "urlHash": "e9c961477c0b",
-    "titleHash": "f03f349bd1be"
   }
 ]
