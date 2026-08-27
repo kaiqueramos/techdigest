@@ -1,5 +1,180 @@
 [
   {
+    "title": "Ask HN: How do you protect self-hosted websites from LLM scrapers?",
+    "titlePt": "Como proteger sites auto-hospedados de raspadores de IA",
+    "url": "https://news.ycombinator.com/item?id=49460258",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um tópico no Hacker News discute formas de bloquear bots de IA que coletam conteúdo de sites auto-hospedados. A discussão traz dicas práticas como bloqueio por user-agent, arquivos robots.txt e rate limiting. É relevante para desenvolvedores e administradores que publicam conteúdo próprio e não querem vê-lo sendo usado sem permissão para treinar modelos.",
+    "reasonEn": "A Hacker News thread discusses ways to block AI bots scraping self-hosted websites. Practical tips include user-agent filtering, robots.txt tweaks and rate limiting. Relevant for developers and admins who publish their own content and don't want it used for training without consent.",
+    "score": 0.55,
+    "tags": [
+      "segurança",
+      "raspagem",
+      "desenvolvedores"
+    ],
+    "img": "img/fddee93cd996.jpg",
+    "ts": 1787809392,
+    "addedTs": 1787809972,
+    "urlHash": "fddee93cd996",
+    "titleHash": "2ebe92914c92"
+  },
+  {
+    "title": "Interviewing in the Age of AI",
+    "titlePt": "Entrevistas de emprego na era da IA",
+    "url": "https://www.dein.fr/posts/2026-05-28-interviewing-in-the-age-of-ai",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Discussão no Hacker News aborda como entrevistas técnicas estão mudando com o uso de IA por candidatos e empresas. Temas como checagem de autenticidade e novas formas de avaliação aparecem. É leitura útil para quem está contratando ou buscando emprego em tecnologia.",
+    "reasonEn": "A Hacker News discussion covers how tech interviews are changing as both candidates and companies use AI. Topics include authenticity checks and new evaluation methods. Useful reading for anyone hiring or job hunting in tech.",
+    "score": 0.5,
+    "tags": [
+      "carreira",
+      "recrutamento"
+    ],
+    "img": "img/54c793f971fc.jpg",
+    "ts": 1787803296,
+    "addedTs": 1787809972,
+    "urlHash": "54c793f971fc",
+    "titleHash": "bdee44ea5709"
+  },
+  {
+    "title": "First patient to undergo live AI-assisted brain surgery has tumour removed",
+    "titlePt": "Primeira cirurgia cerebral ao vivo assistida por IA remove tumor",
+    "url": "https://www.bbc.com/news/articles/cjwg5n7y68xo",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Médicos realizaram a primeira cirurgia cerebral ao vivo com assistência de inteligência artificial e conseguiram remover um tumor com sucesso. O sistema de IA ajudou a guiar o procedimento em tempo real, mostrando um avanço concreto no uso da tecnologia em saúde. O caso é relevante porque marca a chegada da IA a ambientes cirúrgicos críticos. Pode acelerar a adoção em outros hospitais e abrir debate regulatório.",
+    "reasonEn": "Doctors performed the first live AI-assisted brain surgery and successfully removed a tumor. The AI system helped guide the procedure in real time, showing a concrete advance in medical AI. The case matters because it marks AI entering critical surgical environments. It could speed up adoption in other hospitals and spark regulatory debate.",
+    "score": 0.8,
+    "tags": [
+      "saúde",
+      "aplicação",
+      "marco"
+    ],
+    "img": "img/34f3da53eb1b.jpg",
+    "ts": 1787801221,
+    "addedTs": 1787809972,
+    "urlHash": "34f3da53eb1b",
+    "titleHash": "bfa68c03081e"
+  },
+  {
+    "title": "How researchers are teaching AI to learn like a child",
+    "titlePt": "Pesquisadores ensinam IA a aprender como uma criança",
+    "url": "https://www.science.org/content/article/how-researchers-are-teaching-ai-learn-child",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Pesquisadores estão explorando formas de treinar modelos de IA inspirados no desenvolvimento infantil, em vez de usar apenas grandes volumes de dados. A abordagem aposta que imitar a curiosidade e o aprendizado incremental humano pode gerar modelos mais eficientes. Pode mudar como futuros agentes aprendem novas tarefas com poucos exemplos. O tema interessa a desenvolvedores que trabalham com agentes e personalização.",
+    "reasonEn": "Researchers are exploring ways to train AI models inspired by child development, instead of relying only on massive datasets. The approach bets that mimicking human curiosity and incremental learning can yield more efficient models. It could change how future agents learn new tasks with few examples. The topic interests developers building agents and personalization features.",
+    "score": 0.5,
+    "tags": [
+      "pesquisa",
+      "treinamento",
+      "agentes"
+    ],
+    "img": "img/1a90ff06e4f3.jpg",
+    "ts": 1787799291,
+    "addedTs": 1787809972,
+    "urlHash": "1a90ff06e4f3",
+    "titleHash": "287f357c4ab6"
+  },
+  {
+    "title": "AI Lessons from Driving 200M Autonomous Miles",
+    "titlePt": "Lições de IA após 200 milhões de milhas autônomas",
+    "url": "https://waymo.com/blog/2026/08/10ailessons/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Engenheiros compartilham o que aprenderam ao acumular 200 milhões de milhas dirigindo de forma autônoma. O texto cobre falhas comuns, casos de borda e ajustes em modelos de percepção e planejamento. É leitura útil para qualquer pessoa interessada em IA aplicada a robótica e veículos. Mostra que dirigir de verdade é bem diferente de testes em simulador.",
+    "reasonEn": "Engineers share what they learned after accumulating 200 million autonomous driving miles. The text covers common failures, edge cases, and tuning of perception and planning models. It is useful reading for anyone interested in AI applied to robotics and vehicles. It shows real driving is very different from simulator testing.",
+    "score": 0.55,
+    "tags": [
+      "robótica",
+      "autônomos",
+      "lições"
+    ],
+    "img": "img/6a1bf7ad225a.jpg",
+    "ts": 1787795788,
+    "addedTs": 1787809972,
+    "urlHash": "6a1bf7ad225a",
+    "titleHash": "93a5d5df738a"
+  },
+  {
+    "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+    "titlePt": "CEO demite devs para abrir espaço para IA; devs criam CEO de IA open source",
+    "url": "https://github.com/SenteLabsAI/OpenExecutive",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um CEO decidiu substituir desenvolvedores por inteligência artificial e, em resposta, os próprios devs criaram um CEO de IA open source para mostrar o absurdo da decisão. A história viralizou e virou símbolo do debate sobre automação no trabalho técnico. Mostra tanto o hype quanto o contra-ataque da comunidade. Para desenvolvedores, é um sinal de alerta sobre pressão por produtividade com IA.",
+    "reasonEn": "A CEO decided to replace developers with AI, and in response the devs built an open-source AI CEO to show the absurdity of the decision. The story went viral and became a symbol of the automation debate in technical work. It shows both the hype and the community's pushback. For developers, it is a warning sign about AI-driven productivity pressure.",
+    "score": 0.7,
+    "tags": [
+      "trabalho",
+      "open-source",
+      "humor"
+    ],
+    "img": "img/cb7e4bbf99b4.jpg",
+    "ts": 1787795182,
+    "addedTs": 1787809972,
+    "urlHash": "cb7e4bbf99b4",
+    "titleHash": "607d711b5a0e"
+  },
+  {
+    "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
+    "titlePt": "Startup viral Instinct levanta 350 milhões e vale 2,5 bilhões",
+    "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A Instinct, startup de IA em rápido crescimento, levantou 350 milhões de dólares em uma rodada que avaluate a empresa em 2,5 bilhões. O aporte reforça o apetite do mercado por infraestrutura e aplicações virais de IA. Para desenvolvedores, vale acompanhar porque clientes e produtos da empresa podem afetar ferramentas usadas no dia a dia. O salto de valuation mostra o quanto capital continua fluindo para o setor.",
+    "reasonEn": "Fast-growing AI startup Instinct raised 350 million dollars in a round valuing it at 2.5 billion. The funding reinforces market appetite for AI infrastructure and viral applications. Developers should watch because the company's products and customers may affect tools used daily. The valuation jump shows how much capital keeps flowing into the sector.",
+    "score": 0.75,
+    "tags": [
+      "investimento",
+      "startup",
+      "valuation"
+    ],
+    "img": "img/745d673f45eb.jpg",
+    "ts": 1787790297,
+    "addedTs": 1787809972,
+    "urlHash": "745d673f45eb",
+    "titleHash": "81075ea73a5f"
+  },
+  {
+    "title": "Amazon just tripled its order of Nvidia chips over &#8216;surging demand&#8217;",
+    "titlePt": "Amazon triplica pedido de chips da Nvidia por demanda crescente",
+    "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A Amazon teria triplicado seu pedido de chips Nvidia para data centers diante da forte demanda por serviços de IA. O movimento confirma a corrida por capacidade de computação entre as grandes nuvens. Para desenvolvedores, isso pode significar preços e disponibilidade de GPU mais pressionados nos próximos meses. Também indica que a Amazon segue agressiva em IA generativa.",
+    "reasonEn": "Amazon has reportedly tripled its order of Nvidia chips for data centers amid surging AI demand. The move confirms the compute race among the major cloud providers. For developers, this could mean tighter GPU prices and availability in coming months. It also shows Amazon staying aggressive in generative AI.",
+    "score": 0.75,
+    "tags": [
+      "infraestrutura",
+      "nvidia",
+      "nuvem"
+    ],
+    "img": "img/d949d26fe875.jpg",
+    "ts": 1787788038,
+    "addedTs": 1787809972,
+    "urlHash": "d949d26fe875",
+    "titleHash": "b147a6917040"
+  },
+  {
     "title": "Agents Should Be Durable, Not Long-Lived",
     "titlePt": "Agentes devem ser duráveis, não longevos",
     "url": "https://julin.ai/2026/08/26/durable-agents/",
@@ -10680,181 +10855,5 @@
     "addedTs": 1787264235,
     "urlHash": "e9c961477c0b",
     "titleHash": "f03f349bd1be"
-  },
-  {
-    "title": "Show HN: Molecule.dev is an AI-first composable package ecosystem",
-    "titlePt": "Molecule.dev: ecossistema de pacotes componível e focado em IA",
-    "url": "https://github.com/molecule-dev/molecule",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O Molecule.dev é um novo ecossistema de pacotes projetado desde o início para ser composto por IA, permitindo que agentes montem funcionalidades automaticamente. O projeto foi publicado no Show HN, ganhando atenção da comunidade de desenvolvedores. Pode acelerar fluxos de trabalho de desenvolvimento e mudar a forma como bibliotecas são criadas e consumidas. Ainda é um lançamento inicial, então a maturidade do ecossistema precisa ser avaliada.",
-    "reasonEn": "Molecule.dev is a new package ecosystem designed from the ground up to be AI-composable, letting agents assemble functionality automatically. The project was posted on Show HN and caught attention from the developer community. It could speed up development workflows and reshape how libraries are built and consumed. It is still an early launch, so the ecosystem's maturity remains to be seen.",
-    "score": 0.55,
-    "tags": [
-      "lançamento",
-      "devtools",
-      "agentes"
-    ],
-    "img": "img/16fb10f606d3.jpg",
-    "ts": 1787259607,
-    "addedTs": 1787264235,
-    "urlHash": "16fb10f606d3",
-    "titleHash": "ef997dc978d9"
-  },
-  {
-    "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-    "titlePt": "Stampli reduz em 68% o tempo de lançamento com ChatGPT Work",
-    "url": "https://openai.com/index/stampli",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A Stampli, fintech de gestão de contas a pagar, relata que reduziu o tempo de lançamento de novos produtos em 68% ao integrar o ChatGPT Work ao fluxo de desenvolvimento. O case mostra ganhos reais de produtividade com IA em ambiente corporativo. É um exemplo concreto que pode inspirar outras empresas. Útil para líderes técnicos avaliando ROI de IA generativa.",
-    "reasonEn": "Stampli, an accounts-payable fintech, reports cutting product launch time by 68% after integrating ChatGPT Work into its development flow. The case shows real productivity gains with AI in a corporate setting. It is a concrete example that can inspire other companies. It is useful for technical leaders evaluating generative AI ROI.",
-    "score": 0.6,
-    "tags": [
-      "caso",
-      "produtividade",
-      "empresas"
-    ],
-    "img": "img/ad89fb510e3c.jpg",
-    "ts": 1787184000,
-    "addedTs": 1787264235,
-    "urlHash": "ad89fb510e3c",
-    "titleHash": "1c05c306f4bb"
-  },
-  {
-    "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-    "titlePt": "Agentes de voz multilíngues com Magpie TTS da NVIDIA",
-    "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "A NVIDIA publicou o Magpie TTS em pesos abertos, permitindo criar agentes de voz multilíngues de baixa latência com controle total de implantação. O modelo facilita a construção de aplicações de voz sem depender de APIs fechadas. É relevante para desenvolvedores que precisam de TTS flexível e on-premise. Aumenta a oferta de alternativas abertas no mercado de voz.",
-    "reasonEn": "NVIDIA released Magpie TTS with open weights, enabling low-latency multilingual voice agents with full deployment control. The model makes it easier to build voice applications without relying on closed APIs. It is relevant for developers needing flexible on-premise TTS. It expands the open alternatives in the voice market.",
-    "score": 0.55,
-    "tags": [
-      "lançamento",
-      "voz",
-      "open-source"
-    ],
-    "img": "img/5890b1cfd4cc.jpg",
-    "ts": 1786379136,
-    "addedTs": 1787264235,
-    "urlHash": "5890b1cfd4cc",
-    "titleHash": "eb7bc34091a0"
-  },
-  {
-    "title": "AI-Driven Development Means Test-Driven Development",
-    "titlePt": "Desenvolvimento com IA significa voltar ao Test-Driven Development",
-    "url": "https://meiert.com/blog/ai-and-tdd/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo discute como, na era do código gerado por IA, a disciplina do desenvolvimento orientado a testes volta ao centro das atenções. Sem testes sólidos, o código gerado por modelos grandes é difícil de auditar, revisar e confiar. Desenvolvedores e líderes de engenharia são os mais afetados, pois precisam decidir se vão cobrar cobertura de testes rigorosa. É uma leitura prática para quem gerencia times que usam assistentes de código.",
-    "reasonEn": "The article discusses how, in the era of AI-generated code, the discipline of test-driven development is back at center stage. Without solid tests, code produced by large models is hard to audit, review and trust. Developers and engineering leaders are the most affected, since they must decide whether to demand rigorous test coverage. It's a practical read for anyone managing teams that use coding assistants.",
-    "score": 0.6,
-    "tags": [
-      "engenharia",
-      "testes",
-      "ia-código"
-    ],
-    "img": "img/345e894e09e5.jpg",
-    "ts": 1787256827,
-    "addedTs": 1787257100,
-    "urlHash": "345e894e09e5",
-    "titleHash": "cbe0c0cbf42b"
-  },
-  {
-    "title": "System prompts are an archive of how we use AI",
-    "titlePt": "Prompts de sistema são um arquivo de como usamos IA",
-    "url": "https://salable.substack.com/p/system-prompts-are-an-archive-of",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O texto trata os prompts de sistema como espécie de registro arqueológico de como humanos vêm instruindo modelos de IA. Cada prompt vira um instantâneo dos hábitos, valores e vieses de quem configurou a ferramenta. Profissionais que constroem produtos com IA ganham uma lente nova para auditar seus sistemas. A discussão é conceitual, mas útil para times que querem entender melhor seus próprios assistentes.",
-    "reasonEn": "The piece treats system prompts as a kind of archaeological record of how humans have been instructing AI models. Each prompt becomes a snapshot of the habits, values and biases of whoever configured the tool. Professionals building AI products get a new lens to audit their systems. The discussion is conceptual but useful for teams that want to better understand their own assistants.",
-    "score": 0.5,
-    "tags": [
-      "prompt",
-      "design",
-      "reflexão"
-    ],
-    "img": "img/11e8bb6d7134.jpg",
-    "ts": 1787256587,
-    "addedTs": 1787257100,
-    "urlHash": "11e8bb6d7134",
-    "titleHash": "c234196b3201"
-  },
-  {
-    "title": "Staggering 90% of biomedical papers now show signs of AI help",
-    "titlePt": "90% dos artigos biomédicos já mostram sinais de ajuda de IA, diz estudo",
-    "url": "https://www.nature.com/articles/d41586-026-02551-z",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um estudo recente estima que nove em cada dez artigos biomédicos já apresentam indícios de uso de ferramentas de IA, de edição a geração de texto. O volume levanta preocupações sobre integridade científica, revisão por pares e confiança em evidências clínicas. Pesquisadores, editores de journals e reguladores são os mais afetados. Para qualquer pessoa que consome ciência, vale acompanhar como os journals vão responder.",
-    "reasonEn": "A recent study estimates that nine in ten biomedical papers already show traces of AI tool use, from editing to text generation. The volume raises concerns about scientific integrity, peer review and trust in clinical evidence. Researchers, journal editors and regulators are most affected. For anyone who consumes science, it's worth watching how journals respond.",
-    "score": 0.85,
-    "tags": [
-      "estudo",
-      "ciência",
-      "regulação"
-    ],
-    "img": "img/c3359823899c.jpg",
-    "ts": 1787256426,
-    "addedTs": 1787257100,
-    "urlHash": "c3359823899c",
-    "titleHash": "2c030af73c75"
-  },
-  {
-    "title": "WooblaDub: AI dubbing that preserves the original picture, music and ambience",
-    "titlePt": "WooblaDub: dublagem com IA que preserva imagem, música e ambiente originais",
-    "url": "https://woobladub.com/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A ferramenta usa IA para dublar vídeos em outros idiomas mantendo a trilha sonora, efeitos e enquadramento originais. O foco é em criadores de conteúdo e produtoras que querem localizar material sem refazer a mixagem. Produtores e editores de vídeo são os principais afetados. Pode economizar tempo e custo em pipelines de internacionalização.",
-    "reasonEn": "The tool uses AI to dub videos into other languages while keeping the original soundtrack, effects and framing intact. The focus is on content creators and production companies that want to localize material without remixing. Producers and video editors are the main ones affected. It may save time and cost in internationalization pipelines.",
-    "score": 0.5,
-    "tags": [
-      "vídeo",
-      "localização",
-      "ia-criativa"
-    ],
-    "img": "img/118ab115b596.jpg",
-    "ts": 1787254472,
-    "addedTs": 1787257100,
-    "urlHash": "118ab115b596",
-    "titleHash": "7e7eca2e4da1"
-  },
-  {
-    "title": "With Val Kilmer's AI Twin, Is Gen AI Forcing Hollywood to the Edge?",
-    "titlePt": "Com o gêmeo digital de Val Kilmer, a IA generativa está empurrando Hollywood para o limite?",
-    "url": "https://www.akamai.com/blog/cloud/val-kilmer-ai-twin-gen-ai-forcing-hollywood-edge",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A peça discute o uso cada vez mais frequente de gêmeos digitais de atores, como o de Val Kilmer, em produções cinematográficas. A técnica levanta dúvidas sobre direitos de imagem,consentimento e o futuro do trabalho de atores. Estúdios, agências e profissionais do audiovisual são os mais afetados. Vale acompanhar porque pode redefinir contratos em Hollywood.",
-    "reasonEn": "The piece discusses the increasingly common use of digital twins of actors, like Val Kilmer's, in film productions. The technique raises questions about image rights, consent and the future of actors' work. Studios, agencies and audiovisual professionals are the most affected. It's worth following because it may redefine contracts in Hollywood.",
-    "score": 0.55,
-    "tags": [
-      "hollywood",
-      "deepfake",
-      "direitos"
-    ],
-    "img": "img/ab28be693706.jpg",
-    "ts": 1787254389,
-    "addedTs": 1787257100,
-    "urlHash": "ab28be693706",
-    "titleHash": "3c96253c41ad"
   }
 ]
