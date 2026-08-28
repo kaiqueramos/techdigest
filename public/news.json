@@ -1,5 +1,196 @@
 [
   {
+    "title": "A new class of memory-based AI (MIRaS) published this week",
+    "titlePt": "Nova classe de IA baseada em memória (MIRaS) é publicada",
+    "url": "https://academic.oup.com/nar/article/54/16/gkag833/8769250",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Pesquisa apresenta uma nova arquitetura de IA centrada em memória, chamada MIRaS. Relevante para quem acompanha alternativas a transformers tradicionais. Detalhes técnicos ainda carecem de validação ampla da comunidade acadêmica e da indústria.",
+    "reasonEn": "Research presents a new memory-centered AI architecture called MIRaS. Relevant for those following alternatives to traditional transformers. Technical details still lack broad academic and industry validation.",
+    "score": 0.5,
+    "tags": [
+      "pesquisa",
+      "memória"
+    ],
+    "img": "img/c826de449bb1.jpg",
+    "ts": 1787922815,
+    "addedTs": 1787924276,
+    "urlHash": "c826de449bb1",
+    "titleHash": "3629403995e1"
+  },
+  {
+    "title": "Locus – A small, deterministic safety barrier for AI coding agents",
+    "titlePt": "Locus: barreira de segurança determinística para agentes de codificação",
+    "url": "https://github.com/ahmadshady747-create/LOCUS",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Nova ferramenta que limita de forma determinística o que agentes de IA podem fazer durante tarefas de programação. Importante para empresas que adotam agentes autônomos em código de produção. Sinaliza amadurecimento do ecossistema de segurança para IA.",
+    "reasonEn": "New tool that deterministically limits what AI agents can do during coding tasks. Important for companies adopting autonomous agents in production code. Signals maturation of the AI safety ecosystem.",
+    "score": 0.5,
+    "tags": [
+      "segurança",
+      "agentes"
+    ],
+    "img": "img/0b15399105ec.jpg",
+    "ts": 1787922654,
+    "addedTs": 1787924276,
+    "urlHash": "0b15399105ec",
+    "titleHash": "f32e8539163f"
+  },
+  {
+    "title": "Anthropic gets its first court win over the Pentagon’s supply chain risk label",
+    "titlePt": "Anthropic vence na Justiça contra rótulo de risco do Pentágono",
+    "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "Tribunal federal dos Estados Unidos considerou ilegal o rótulo de risco da cadeia de suprimentos aplicado pelo Pentágono à Anthropic. Vitória relevante para a empresa e para o setor de IA em relação a regulações governamentais. Pode abrir precedente para outros fornecedores de modelos.",
+    "reasonEn": "A US federal court ruled as illegal the supply chain risk label applied by the Pentagon to Anthropic. Relevant victory for the company and the AI sector regarding government regulations. Could set precedent for other model providers.",
+    "score": 0.7,
+    "tags": [
+      "regulação",
+      "anthropic"
+    ],
+    "img": "img/ca50f3998f6e.jpg",
+    "ts": 1787921172,
+    "addedTs": 1787924276,
+    "urlHash": "ca50f3998f6e",
+    "titleHash": "fbd6e926d34b"
+  },
+  {
+    "title": "Hot Chips 2026: Cerebras lays out the future of wafer-scale AI",
+    "titlePt": "Cerebras apresenta futuro da IA em escala de wafer na Hot Chips 2026",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/hot-chips-2026-cerebras-lays-out-the-future-of-wafer-scale-ai-nexus-system-architecture-triples-rack-scale-performance-cs-6-wafer-to-incorporate-stacked-dram",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Cerebras detalhou seus planos para chips em escala de wafer durante a conferência Hot Chips 2026. Importante para entender alternativas de hardware à Nvidia com alto paralelismo. Sinaliza concorrência crescente no segmento de infraestrutura para IA.",
+    "reasonEn": "Cerebras detailed plans for wafer-scale chips during the Hot Chips 2026 conference. Important for understanding Nvidia hardware alternatives with high parallelism. Signals growing competition in the AI infrastructure segment.",
+    "score": 0.5,
+    "tags": [
+      "hardware",
+      "chips"
+    ],
+    "img": "img/702c84071a56.jpg",
+    "ts": 1787921063,
+    "addedTs": 1787924276,
+    "urlHash": "702c84071a56",
+    "titleHash": "91e310a33b45"
+  },
+  {
+    "title": "Why AI doesn't make companies more productive",
+    "titlePt": "Por que a IA não está tornando empresas mais produtivas",
+    "url": "https://www.computerworld.com/article/4215022/why-ai-doesnt-make-companies-more-productive.html",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Análise crítica argumenta que a IA não está gerando os ganhos de produtividade esperados em muitas empresas. Importante para executivos e líderes que estão investindo pesado em IA. Contradiz narrativas mais otimistas comuns no mercado.",
+    "reasonEn": "Critical analysis argues AI is not generating the expected productivity gains in many companies. Important for executives and leaders investing heavily in AI. Contradicts the more optimistic narratives common in the market.",
+    "score": 0.5,
+    "tags": [
+      "produtividade",
+      "análise"
+    ],
+    "img": "img/8069b3b7dae0.jpg",
+    "ts": 1787920270,
+    "addedTs": 1787924276,
+    "urlHash": "8069b3b7dae0",
+    "titleHash": "cece44ab0ec8"
+  },
+  {
+    "title": "Anthropic proposes plumbing spec to link AI agents to lab kit and robots",
+    "titlePt": "Anthropic propõe padrão para conectar agentes a robôs e laboratórios",
+    "url": "https://www.theregister.com/ai-and-ml/2026/08/28/anthropic-proposes-plumbing-spec-to-link-ai-agents-to-lab-kit-and-robots/5293135",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Anthropic propôs uma especificação aberta para integrar agentes de IA a equipamentos de laboratório, instrumentos científicos e robótica. Movimento de padronização relevante para todo o setor. Pode acelerar a integração de IA em ambientes científicos e industriais.",
+    "reasonEn": "Anthropic proposed an open specification to integrate AI agents with lab equipment, scientific instruments, and robotics. Relevant standardization move for the whole sector. Could accelerate AI integration in scientific and industrial environments.",
+    "score": 0.5,
+    "tags": [
+      "anthropic",
+      "robótica",
+      "padrão"
+    ],
+    "img": "img/9bb26c771f02.jpg",
+    "ts": 1787919986,
+    "addedTs": 1787924276,
+    "urlHash": "9bb26c771f02",
+    "titleHash": "9bd69157dbcf"
+  },
+  {
+    "title": "Do Not Trust, Continuously Verify (Your AI Agents)",
+    "titlePt": "Não confie, verifique continuamente seus agentes de IA",
+    "url": "https://nochan.net/b/Internet-Crap/20260714-Do-Not-Trust--Continuously-Verify/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Artigo defende a adoção de verificação contínua e zero-trust para agentes de IA autônomos. Conceito de segurança relevante para times implantando agentes em produção. Diretriz útil, embora ainda sem padrões consolidados na indústria.",
+    "reasonEn": "Article argues for continuous verification and zero-trust for autonomous AI agents. Relevant security concept for teams deploying agents in production. Useful guideline, although still without consolidated industry standards.",
+    "score": 0.5,
+    "tags": [
+      "segurança",
+      "agentes"
+    ],
+    "img": "img/e615263a5d2c.jpg",
+    "ts": 1787919932,
+    "addedTs": 1787924276,
+    "urlHash": "e615263a5d2c",
+    "titleHash": "11f2348d650a"
+  },
+  {
+    "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+    "titlePt": "Executivo da Meta vai para OpenAI em meio a escrutínio na Índia",
+    "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "Mais um executivo sênior da Meta se muda para a OpenAI, em um momento de crescente pressão regulatória da Meta na Índia. Sinaliza a contínua disputa por talentos em IA entre big techs. Pode indicar tendências de reorganização no setor.",
+    "reasonEn": "Another senior Meta executive moves to OpenAI amid growing regulatory pressure on Meta in India. Signals the ongoing AI talent war between big techs. May indicate reorganization trends in the sector.",
+    "score": 0.5,
+    "tags": [
+      "executivos",
+      "meta"
+    ],
+    "img": "img/1b0375ab2430.jpg",
+    "ts": 1787919666,
+    "addedTs": 1787924276,
+    "urlHash": "1b0375ab2430",
+    "titleHash": "7738d2f9b270"
+  },
+  {
+    "title": "Adobe is adding more AI to Photoshop",
+    "titlePt": "Adobe Adiciona Mais Recursos de IA ao Photoshop",
+    "url": "https://www.theverge.com/tech/985491/adobe-photoshop-ai-assisted-editor-markup",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "A Adobe anunciou novos recursos de inteligência artificial integrados ao Photoshop para edição de imagens. As ferramentas devem acelerar fluxos de trabalho de designers e criadores. Profissionais visuais e desenvolvedores de conteúdo devem ficar atentos às mudanças.",
+    "reasonEn": "Adobe announced new AI features integrated into Photoshop for image editing. The tools should speed up workflows for designers and creators. Visual professionals and content developers should pay attention to the changes.",
+    "score": 0.5,
+    "tags": [
+      "adobe",
+      "photoshop",
+      "criatividade"
+    ],
+    "img": "img/adc17ded0689.jpg",
+    "ts": 1787836098,
+    "addedTs": 1787924276,
+    "urlHash": "adc17ded0689",
+    "titleHash": "a6c11daf1daa"
+  },
+  {
     "title": "Awareness Local: local-first memory for AI coding agents (96% R5 on LongMemEval)",
     "titlePt": "Memória local para agentes de codificação atinge 96% em benchmark",
     "url": "https://github.com/everest-an/Awareness-Market",
@@ -10168,699 +10359,5 @@
     "addedTs": 1787322317,
     "urlHash": "6ac7852311e2",
     "titleHash": "411118dd2a4f"
-  },
-  {
-    "title": "Locus: Deterministic AST safety firewall for AI agents in pure Rust (<0.05ms)",
-    "titlePt": "Locus: firewall de segurança para agentes de IA em Rust puro",
-    "url": "https://github.com/ahmadshady747-create/LOCUS",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Locus é um firewall determinístico para agentes de IA, escrito em Rust puro, com latência abaixo de 0,05 milissegundos. Usa análise estática de árvore sintática para bloquear ações perigosas antes que saiam do agente. Ferramenta útil para quem desenvolve agentes de IA que precisam de garantias rígidas de segurança.",
-    "reasonEn": "Locus is a deterministic firewall for AI agents, written in pure Rust, with latency under 0.05 milliseconds. It uses AST static analysis to block dangerous actions before they leave the agent. A useful tool for developers of AI agents who need strict safety guarantees.",
-    "score": 0.7,
-    "tags": [
-      "segurança",
-      "agentes",
-      "rust"
-    ],
-    "img": "img/0b15399105ec.jpg",
-    "ts": 1787315063,
-    "addedTs": 1787315262,
-    "urlHash": "0b15399105ec",
-    "titleHash": "d3841aa66ab5"
-  },
-  {
-    "title": "ChatGPT-Taught Experts Are Crippling Agentic AI",
-    "titlePt": "Especialistas treinados pelo ChatGPT estão prejudicando a IA agêntica",
-    "url": "https://msukhareva.substack.com/p/how-chatgpt-taught-experts-are-crippling",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo argumenta que profissionais que aprenderam a programar com ajuda do ChatGPT estão limitando o avanço dos agentes de IA. A dependência da ferramenta pode reduzir a capacidade de resolver problemas complexos de forma autônoma. Impacta empresas que desenvolvem soluções agênticas e formam equipes técnicas.",
-    "reasonEn": "The article argues that professionals who learned to code with ChatGPT's help are limiting the advancement of agentic AI. Dependency on the tool may reduce the ability to solve complex problems autonomously. It impacts companies developing agentic solutions and training technical teams.",
-    "score": 0.55,
-    "tags": [
-      "agentes",
-      "educação"
-    ],
-    "img": "img/87227f6e6db2.jpg",
-    "ts": 1787314615,
-    "addedTs": 1787315262,
-    "urlHash": "87227f6e6db2",
-    "titleHash": "2945f3c4af3b"
-  },
-  {
-    "title": "We burned 11.7B tokens to find the best cyber AI model",
-    "titlePt": "Foram queimados 11,7 bilhões de tokens para descobrir o melhor modelo de IA em cibersegurança",
-    "url": "https://www.aikido.dev/blog/ai-model-benchmarks-aug-21-2026",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Uma equipe rodou 11,7 bilhões de tokens para comparar modelos de IA aplicados à cibersegurança, em tarefas reais de defesa e ataque. O resultado aponta qual modelo se sai melhor em cenários ofensivos e defensivos. É referência importante para equipes de segurança que precisam escolher ferramentas de IA.",
-    "reasonEn": "A team ran 11.7 billion tokens to compare AI models applied to cybersecurity, in real defense and attack tasks. The result points to which model performs best in offensive and defensive scenarios. It's an important reference for security teams needing to choose AI tools.",
-    "score": 0.85,
-    "tags": [
-      "benchmark",
-      "segurança",
-      "cibersegurança"
-    ],
-    "img": "img/7c5c3421e06a.jpg",
-    "ts": 1787314147,
-    "addedTs": 1787315262,
-    "urlHash": "7c5c3421e06a",
-    "titleHash": "b02e3f387aba"
-  },
-  {
-    "title": "Vertical AI Founders, You Are Going Through 3 Existential Crises",
-    "titlePt": "Fundadores de IA vertical: vocês estão passando por três crises existenciais",
-    "url": "https://medium.com/@MirArshadTalpur/vertical-ai-founders-you-are-going-through-3-existential-crises-and-most-of-you-dont-know-it-b3d86a386d37",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O texto aponta três crises existenciais que fundadores de startups de IA vertical estão enfrentando neste momento. Mistura pressão de mercado, saturação de investidores e amadurecimento dos clientes corporativos. Leitura útil para empreendedores e investidores que precisam repensar estratégia.",
-    "reasonEn": "The text points out three existential crises that vertical AI startup founders are facing right now. It mixes market pressure, investor saturation and corporate customer maturation. Useful reading for entrepreneurs and investors who need to rethink strategy.",
-    "score": 0.5,
-    "tags": [
-      "negócios",
-      "startups"
-    ],
-    "img": "img/ee71315dbd09.jpg",
-    "ts": 1787313888,
-    "addedTs": 1787315262,
-    "urlHash": "ee71315dbd09",
-    "titleHash": "0fd4095021bc"
-  },
-  {
-    "title": "AI reshapes India's IT services sector contracts as clients demand more for less",
-    "titlePt": "IA remodela contratos de TI na Índia com clientes pedindo mais por menos",
-    "url": "https://www.reuters.com/world/india/ai-reshapes-indias-it-services-sector-contracts-clients-demand-more-less-2026-08-20/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A inteligência artificial está mudando os contratos de serviços de TI na Índia. Clientes exigem mais entregas, por menos dinheiro, automatizando tarefas antes feitas por humanos. É um sinal claro do impacto da IA em grandes operações de terceirização, com efeito global em TI.",
-    "reasonEn": "Artificial intelligence is changing IT services contracts in India. Clients demand more deliverables for less money, automating tasks previously done by humans. It's a clear sign of AI's impact on large outsourcing operations, with a global effect on IT.",
-    "score": 0.8,
-    "tags": [
-      "negócios",
-      "contratos",
-      "índia"
-    ],
-    "img": "img/0351e80224f5.jpg",
-    "ts": 1787313853,
-    "addedTs": 1787315262,
-    "urlHash": "0351e80224f5",
-    "titleHash": "1aeaee314984"
-  },
-  {
-    "title": "First library for ads shown on ChatGPT",
-    "titlePt": "Primeira biblioteca para anúncios exibidos no ChatGPT",
-    "url": "https://llmpulse.ai/chatgpt-ads-library",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Foi lançada a primeira biblioteca dedicada a anúncios que aparecem dentro do ChatGPT. Permite acompanhar, medir e possivelmente veicular anúncios nesse novo canal. Importante para desenvolvedores e profissionais de marketing que precisam lidar com publicidade em plataformas de IA conversacional.",
-    "reasonEn": "The first library dedicated to ads appearing inside ChatGPT has been launched. It allows tracking, measuring and possibly serving ads on this new channel. Important for developers and marketing professionals who need to deal with advertising on conversational AI platforms.",
-    "score": 0.6,
-    "tags": [
-      "publicidade",
-      "chatgpt"
-    ],
-    "img": "img/79b874c9fac4.jpg",
-    "ts": 1787313620,
-    "addedTs": 1787315262,
-    "urlHash": "79b874c9fac4",
-    "titleHash": "b275197d6393"
-  },
-  {
-    "title": "Delta Use AI to Cut Costs Set Diff Ticket Price–CEO Says Profits Could Rise 50%",
-    "titlePt": "Delta usa IA para cortar custos e precificar passagens; lucro pode subir 50%",
-    "url": "https://viewfromthewing.com/delta-will-use-ai-to-cut-jobs-and-set-a-different-ticket-price-for-every-passenger-ceo-says-profits-could-rise-50/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A companhia aérea Delta está usando inteligência artificial para reduzir custos e adotar tarifas dinâmicas por passageiro, ajustadas em tempo real. O CEO afirma que os lucros podem crescer até cinquenta por cento com a estratégia. É um caso emblemático de como a IA muda indústrias tradicionais.",
-    "reasonEn": "Airline Delta is using artificial intelligence to cut costs and adopt dynamic per-passenger fares, adjusted in real time. The CEO says profits could grow up to fifty percent with the strategy. It's an emblematic case of how AI changes traditional industries.",
-    "score": 0.7,
-    "tags": [
-      "aviação",
-      "negócios"
-    ],
-    "img": "img/81b12cb5ea79.jpg",
-    "ts": 1787312828,
-    "addedTs": 1787315262,
-    "urlHash": "81b12cb5ea79",
-    "titleHash": "fae59a4f96bb"
-  },
-  {
-    "title": "AI(.)DIY – Open-source AI workspace with agents, MCP and Linux in the browser",
-    "titlePt": "IA faça você mesmo: espaço de trabalho de código aberto com agentes e Linux no navegador",
-    "url": "https://github.com/Cubinghackerz/ai.diy",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Lançado um espaço de trabalho de código aberto para inteligência artificial, com suporte a agentes, protocolo MCP e Linux rodando direto no navegador. Tenta democratizar o acesso a IA sem instalar nada localmente. Pode ser útil para desenvolvedores e curiosos que querem testar modelos rapidamente.",
-    "reasonEn": "An open-source workspace for artificial intelligence has been launched, with support for agents, the MCP protocol, and Linux running directly in the browser. It tries to democratize access to AI without installing anything locally. It may be useful for developers and curious users wanting to test models quickly.",
-    "score": 0.55,
-    "tags": [
-      "código-aberto",
-      "agentes"
-    ],
-    "img": "img/6ac13290ffea.jpg",
-    "ts": 1787311547,
-    "addedTs": 1787315262,
-    "urlHash": "6ac13290ffea",
-    "titleHash": "df1c7bc0f3a9"
-  },
-  {
-    "title": "Microsoft gives Task Manager another task: Watching AI workloads",
-    "titlePt": "Microsoft dá ao Gerenciador de Tarefas mais uma função: monitorar cargas de IA",
-    "url": "https://www.theregister.com/os-platforms/2026/08/20/microsoft-gives-task-manager-another-task-watching-ai-workloads/5290448",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Microsoft está adicionando ao Gerenciador de Tarefas do Windows a capacidade de acompanhar cargas de trabalho de inteligência artificial em execução. Usuários poderão ver uso de GPU, memória e energia de processos de IA diretamente na ferramenta nativa do sistema. Mudança relevante para desenvolvedores e usuários avançados.",
-    "reasonEn": "Microsoft is adding to Windows Task Manager the ability to monitor running artificial intelligence workloads. Users will be able to see GPU, memory and energy usage for AI processes directly in the system's native tool. A relevant change for developers and advanced users.",
-    "score": 0.65,
-    "tags": [
-      "microsoft",
-      "windows",
-      "monitoramento"
-    ],
-    "img": "img/048289528009.jpg",
-    "ts": 1787310963,
-    "addedTs": 1787315262,
-    "urlHash": "048289528009",
-    "titleHash": "ac8cbcf1353f"
-  },
-  {
-    "title": "Show HN: ContextForge – context engineering platform for AI-assisted development",
-    "titlePt": "ContextForge: plataforma de engenharia de contexto para desenvolvimento com IA",
-    "url": "https://github.com/waterflane/ContextForge",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "ContextForge é uma plataforma dedicada à engenharia de contexto para programação assistida por inteligência artificial. Ajuda a organizar e alimentar as informações que entram nos modelos durante o desenvolvimento de software. Voltada para desenvolvedores que querem respostas mais precisas de assistentes de código.",
-    "reasonEn": "ContextForge is a platform dedicated to context engineering for AI-assisted programming. It helps organize and feed the information that goes into models during software development. Aimed at developers who want more accurate responses from coding assistants.",
-    "score": 0.5,
-    "tags": [
-      "desenvolvimento",
-      "agentes"
-    ],
-    "img": "img/fb58f405e778.jpg",
-    "ts": 1787310848,
-    "addedTs": 1787315262,
-    "urlHash": "fb58f405e778",
-    "titleHash": "53e00dd30038"
-  },
-  {
-    "title": "Anti India Influence Machine: Troll Farms, Fake News, Algorithms and AI",
-    "titlePt": "Máquina de influência anti-Índia: fazendas de trolls, notícias falsas, algoritmos e IA",
-    "url": "https://blog.himanshuanand.com/2026/08/the-anti-india-influence-machine-troll-farms-fake-news-newsrooms-algorithms-and-ai/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A reportagem investiga operações coordenadas de influência contra a Índia, com uso de fazendas de trolls, notícias falsas, algoritmos e inteligência artificial. Revela infraestrutura de desinformação operando em escala internacional. Tema importante para quem acompanha geopolítica digital e segurança da informação.",
-    "reasonEn": "The report investigates coordinated influence operations against India, using troll farms, fake news, algorithms and artificial intelligence. It reveals disinformation infrastructure operating on an international scale. An important topic for those tracking digital geopolitics and information security.",
-    "score": 0.5,
-    "tags": [
-      "geopolítica",
-      "desinformação"
-    ],
-    "img": "img/04da807290de.jpg",
-    "ts": 1787309064,
-    "addedTs": 1787315262,
-    "urlHash": "04da807290de",
-    "titleHash": "553dcad09395"
-  },
-  {
-    "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-    "titlePt": "Meta volta com o Muse Glimmer: local, agêntico, multimodal e código aberto",
-    "url": "https://huggingface.co/blog/muse-glimmer",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "A Meta lançou o Muse Glimmer, um novo modelo de IA com pesos abertos. O modelo roda localmente, é multimodal e foi desenhado para uso agêntico em sistemas autônomos. A proposta reforça a estratégia da Meta de apostar em modelos abertos como diferencial. É relevante para desenvolvedores que querem alternativas gratuitas e privadas aos modelos em nuvem.",
-    "reasonEn": "Meta launched Muse Glimmer, a new AI model with open weights. The model runs locally, is multimodal, and was designed for agentic use in autonomous systems. The proposal reinforces Meta's strategy of betting on open models as a differentiator. It is relevant for developers who want free and private alternatives to cloud models.",
-    "score": 0.7,
-    "tags": [
-      "modelo",
-      "lançamento",
-      "código-aberto"
-    ],
-    "img": "img/dfb586131bf3.jpg",
-    "ts": 1786320000,
-    "addedTs": 1787315262,
-    "urlHash": "dfb586131bf3",
-    "titleHash": "12900bac2723"
-  },
-  {
-    "title": "The Brains Who Powered China's Surprising AI Leap",
-    "titlePt": "Os cérebros por trás do salto inesperado da IA chinesa",
-    "url": "https://www.wsj.com/tech/ai/ai-china-scientists-race-us-cd9732e3",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A matéria revela os pesquisadores e instituições chinesas que impulsionaram o salto recente em IA. Ajuda a entender quem está por trás de modelos como DeepSeek e o que isso significa para a competição global. Vale a leitura para contextualizar o cenário internacional de IA.",
-    "reasonEn": "The story uncovers the Chinese researchers and institutions driving the recent AI leap. It helps understand who is behind models like DeepSeek and what that means for global competition. Worth reading to contextualize the international AI landscape.",
-    "score": 0.7,
-    "tags": [
-      "china",
-      "pesquisa",
-      "geopolítica"
-    ],
-    "img": "img/f05679b2d459.jpg",
-    "ts": 1787305875,
-    "addedTs": 1787307629,
-    "urlHash": "f05679b2d459",
-    "titleHash": "7a9a7599843f"
-  },
-  {
-    "title": "DeepSeek-V4-Flash-Vision-Exp Is Now Live on the DeepSeek API Platform",
-    "titlePt": "DeepSeek-V4-Flash-Vision-Exp chega à API da DeepSeek",
-    "url": "https://twitter.com/deepseek_ai/status/2090730032574631962",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A DeepSeek lançou a versão experimental de um modelo de visão mais leve, o V4-Flash-Vision-Exp, disponível via API. Para desenvolvedores, isso pode significar custos menores em tarefas de visão computacional. É uma novidade concreta de modelo que merece atenção de quem trabalha com multimodal.",
-    "reasonEn": "DeepSeek released an experimental lighter vision model, V4-Flash-Vision-Exp, available via API. For developers, this could mean lower costs on computer vision tasks. A concrete model release worth attention from anyone working with multimodal AI.",
-    "score": 0.8,
-    "tags": [
-      "modelo",
-      "deepseek",
-      "visão"
-    ],
-    "img": "img/bdfe905d8f49.jpg",
-    "ts": 1787305074,
-    "addedTs": 1787307629,
-    "urlHash": "bdfe905d8f49",
-    "titleHash": "57452cde1eba"
-  },
-  {
-    "title": "Anthropic Plans to Change Data Retention Policy for Advanced AI",
-    "titlePt": "Anthropic planeja mudar política de retenção de dados",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-plans-to-change-data-retention-policy-for-advanced-ai",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Anthropic anunciou mudanças em quanto tempo mantém dados de usuários dos modelos avançados, o que afeta diretamente privacidade e uso corporativo. Desenvolvedores que enviam dados sensíveis precisam reavaliar termos. É uma notícia importante para qualquer empresa integrando Claude.",
-    "reasonEn": "Anthropic announced changes to how long it retains data from advanced model users, directly affecting privacy and corporate use. Developers sending sensitive data need to reassess terms. Important news for any company integrating Claude.",
-    "score": 0.8,
-    "tags": [
-      "anthropic",
-      "privacidade",
-      "regulação"
-    ],
-    "img": "img/deb13a9f37c8.jpg",
-    "ts": 1787302990,
-    "addedTs": 1787307629,
-    "urlHash": "deb13a9f37c8",
-    "titleHash": "2a48dca6a53c"
-  },
-  {
-    "title": "When AI designs a drug, who gets the credit?",
-    "titlePt": "Quando a IA desenha um remédio, quem leva o crédito?",
-    "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
-    "source": "MIT Tech Review",
-    "sources": [
-      "MIT Tech Review"
-    ],
-    "reason": "A MIT Technology Review discute quem deve receber autoria e propriedade intelectual quando um fármaco é criado com IA. O tema envolve patentes, bioética e indústria farmacêutica, com impacto direto em futuras descobertas. Vale a leitura para quem trabalha em pesquisa, direito ou saúde digital.",
-    "reasonEn": "MIT Technology Review discusses who should receive authorship and IP when a drug is created with AI. The topic touches patents, bioethics, and pharma, with direct impact on future discoveries. Worth reading for those in research, law, or digital health.",
-    "score": 0.5,
-    "tags": [
-      "saúde",
-      "propriedade-intelectual"
-    ],
-    "img": "img/7d948202e470.jpg",
-    "ts": 1787302800,
-    "addedTs": 1787307629,
-    "urlHash": "7d948202e470",
-    "titleHash": "2aa1a6e3a25c"
-  },
-  {
-    "title": "White House tech strategy leaves open-weight AI off its critical list",
-    "titlePt": "Casa Branca deixa IA open-weight fora da lista crítica",
-    "url": "https://thenextweb.com/news/white-house-strategy-open-weight-ai-critical-technology-list",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A estratégia tecnológica dos EUA não classificou modelos de IA de peso aberto como infraestrutura crítica, diferente de semicondutores e outros setores. Isso impacta como empresas lidam com compliance e o futuro regulatório do open source. Importante para gestores e desenvolvedores que seguem o tema.",
-    "reasonEn": "The US tech strategy did not classify open-weight AI models as critical infrastructure, unlike semiconductors and other sectors. This affects how companies handle compliance and the regulatory future of open source. Important for managers and developers following the topic.",
-    "score": 0.7,
-    "tags": [
-      "regulação",
-      "open-source",
-      "política"
-    ],
-    "img": "img/ddd133907d96.jpg",
-    "ts": 1787302126,
-    "addedTs": 1787307629,
-    "urlHash": "ddd133907d96",
-    "titleHash": "8a0a88dab383"
-  },
-  {
-    "title": "Bounded Agents: Delegation Security for Multi-Agent AI Systems",
-    "titlePt": "Bounded Agents: segurança de delegação em sistemas multi-agente",
-    "url": "https://arxiv.org/abs/2608.15888",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O trabalho propõe um modelo de segurança para controlar o que agentes podem fazer ao delegar tarefas entre si. Com sistemas multi-agente ganhando tração, o tema é cada vez mais relevante. Leitura recomendada para quem constrói pipelines com agentes autônomos.",
-    "reasonEn": "The paper proposes a security model for controlling what agents can do when delegating tasks among themselves. With multi-agent systems gaining traction, the topic is increasingly relevant. Recommended reading for anyone building autonomous agent pipelines.",
-    "score": 0.5,
-    "tags": [
-      "agentes",
-      "segurança"
-    ],
-    "img": "img/6114ae4ad7f2.jpg",
-    "ts": 1787301137,
-    "addedTs": 1787307629,
-    "urlHash": "6114ae4ad7f2",
-    "titleHash": "a7641020b7a9"
-  },
-  {
-    "title": "Only one type of lawyer will survive the AI wipeout",
-    "titlePt": "Apenas um tipo de advogado sobreviverá à onda da IA",
-    "url": "https://www.afr.com/work-and-careers/workplace/judges-may-be-the-only-survivors-of-law-s-ai-carnage-futurist-20260819-p60pla",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um post no HackerNews argumenta que só advogados com forte domínio técnico e de estratégia vão sobreviver à automação do setor jurídico. Tarefas repetitivas como revisão de contratos e pesquisa de jurisprudência já estão sendo absorvidas por IA. O texto provoca debate sobre o futuro da profissão. Interessa diretamente a advogados, estudantes de direito e gestores.",
-    "reasonEn": "A HackerNews post argues that only lawyers with strong technical and strategic mastery will survive automation in the legal sector. Repetitive tasks like contract review and case law research are already being absorbed by AI. The text sparks debate about the future of the profession. It directly interests lawyers, law students, and managers.",
-    "score": 0.5,
-    "tags": [
-      "direito",
-      "mercado"
-    ],
-    "img": "img/622728366f8c.jpg",
-    "ts": 1787298948,
-    "addedTs": 1787300921,
-    "urlHash": "622728366f8c",
-    "titleHash": "8b9034b8b3ff"
-  },
-  {
-    "title": "Claude Opus 4.6 returned nothing 900/900 times. Should agents retry?",
-    "titlePt": "Claude Opus 4.6 retornou vazio em 900 de 900 tentativas",
-    "url": "https://zenodo.org/records/21696066",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um desenvolvedor reportou que o Claude Opus 4.6 da Anthropic devolveu resposta vazia em 900 chamadas consecutivas, levantando dúvidas sobre quando agentes devem tentar de novo. O caso é relevante para quem constrói sistemas agentic em produção e depende de retries confiáveis. Mostra como falhas silenciosas de modelo podem quebrar pipelines inteiros. É um alerta prático sobre resiliência.",
-    "reasonEn": "A developer reported that Anthropic's Claude Opus 4.6 returned empty responses in 900 consecutive calls, raising questions about when agents should retry. The case is relevant for those building agentic systems in production that depend on reliable retries. It shows how silent model failures can break entire pipelines. It is a practical alert about resilience.",
-    "score": 0.55,
-    "tags": [
-      "anthropic",
-      "agentes",
-      "bug"
-    ],
-    "img": "img/cd3a27ed1784.jpg",
-    "ts": 1787297592,
-    "addedTs": 1787300921,
-    "urlHash": "cd3a27ed1784",
-    "titleHash": "35cd4c3deb6f"
-  },
-  {
-    "title": "Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents",
-    "titlePt": "Argentic: pedágio Lightning para agentes de IA que fazem scraping",
-    "url": "https://Argentic.network",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O Argentic é um projeto da comunidade Hacker News que implementa o protocolo L402 sobre a rede Lightning para cobrar de agentes de IA que raspam dados na web. A ideia é transformar o acesso a conteúdo em um micropagamento automático entre máquinas. Isso importa para criadores de conteúdo que querem monetizar APIs e para desenvolvedores que constroem agentes autônomos. Ainda é experimental, mas indica uma direção para a economia de agentes.",
-    "reasonEn": "Argentic is a Hacker News community project implementing the L402 protocol over the Lightning Network to charge AI agents that scrape data on the web. The idea turns access to content into automatic machine-to-machine micropayments. This matters for content creators wanting to monetize APIs and for developers building autonomous agents. Still experimental, but it points toward a future agent economy.",
-    "score": 0.55,
-    "tags": [
-      "agentes",
-      "pagamentos",
-      "bitcoin"
-    ],
-    "img": "img/32e6db757723.jpg",
-    "ts": 1787293456,
-    "addedTs": 1787293825,
-    "urlHash": "32e6db757723",
-    "titleHash": "077ced6ac8e4"
-  },
-  {
-    "title": "AWS Bedrock AgentCore enforces user context to prevent hijacked AI agents",
-    "titlePt": "AWS Bedrock AgentCore reforça contexto do usuário para evitar agentes sequestrados",
-    "url": "https://techupdate24.com/aws-bedrock-agentcore-hijacked-ai-security/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A AWS anunciou o AgentCore no Bedrock, um recurso que valida o contexto do usuário em cada chamada para impedir que agentes de IA sejam sequestrados por instruções maliciosas. A medida é importante porque ataques de injeção de prompt em agentes autônomos são uma vulnerabilidade crescente. Desenvolvedores que usam Bedrock ganham uma camada extra de segurança sem código adicional. É leitura obrigatória para quem implanta agentes em produção.",
-    "reasonEn": "AWS announced AgentCore on Bedrock, a feature that validates user context on each call to prevent AI agents from being hijacked by malicious instructions. This matters because prompt injection attacks on autonomous agents are a growing vulnerability. Developers using Bedrock get an extra security layer with no additional code. It is mandatory reading for anyone deploying agents in production.",
-    "score": 0.8,
-    "tags": [
-      "aws",
-      "segurança",
-      "agentes"
-    ],
-    "img": "img/df1a460505ac.jpg",
-    "ts": 1787291789,
-    "addedTs": 1787293825,
-    "urlHash": "df1a460505ac",
-    "titleHash": "d6755f256478"
-  },
-  {
-    "title": "Show HN: Just describe your idea and let AI build a playable game for you",
-    "titlePt": "Mostre HN: descreva sua ideia e a IA cria um jogo jogável",
-    "url": "https://run.ceo/coder/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um projeto no Hacker News permite ao usuário descrever um jogo em texto e a inteligência artificial gera uma versão jogável automaticamente. A ferramenta usa modelos generativos para criar lógica, arte e interação em tempo real. É interessante para prototipagem rápida e para quem quer testar ideias sem programar. Ainda é experimental e a qualidade dos jogos varia, mas mostra o estado da arte em geração interativa.",
-    "reasonEn": "A Hacker News project lets the user describe a game in text and artificial intelligence automatically generates a playable version. The tool uses generative models to create logic, art and interaction in real time. It is interesting for rapid prototyping and for those who want to test ideas without coding. Still experimental and game quality varies, but it shows the state of the art in interactive generation.",
-    "score": 0.5,
-    "tags": [
-      "jogos",
-      "geração",
-      "prototipagem"
-    ],
-    "img": "img/5798fdd2d550.jpg",
-    "ts": 1787288656,
-    "addedTs": 1787293825,
-    "urlHash": "5798fdd2d550",
-    "titleHash": "a05f615457ee"
-  },
-  {
-    "title": "Show HN: I built a permission layer for AI agents, then spent a day breaking it",
-    "titlePt": "Desenvolvedor cria camada de permissões para agentes de IA e testa seus limites",
-    "url": "https://news.ycombinator.com/item?id=49383441",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um projeto mostrado no Hacker News propõe uma camada de permissões dedicada a agentes de IA, controlando o que eles podem acessar e executar. O autor passou um dia tentando quebrar o próprio sistema, registrando falhas e ajustes. A discussão ajuda a comunidade a entender pontos frágeis de segurança em agentes autônomos. É leitura rápida e prática para quem trabalha com automações.",
-    "reasonEn": "A Hacker News project proposes a permission layer dedicated to AI agents, controlling what they can access and execute. The author spent a day trying to break his own system, documenting failures and fixes. The discussion helps the community understand fragile security points in autonomous agents. It is quick, practical reading for anyone working with automations.",
-    "score": 0.65,
-    "tags": [
-      "show hn",
-      "agentes",
-      "segurança"
-    ],
-    "img": "img/82428d275e0b.jpg",
-    "ts": 1787283161,
-    "addedTs": 1787293825,
-    "urlHash": "82428d275e0b",
-    "titleHash": "d40aa92f3d9a"
-  },
-  {
-    "title": "Seedance 2.5 vs. Wan 3.0 for a 30-second AI video workflow",
-    "titlePt": "Seedance 2.5 vs. Wan 3.0: comparativo para vídeos curtos com IA",
-    "url": "https://seevido.com/model/seedance-2-5/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um desenvolvedor comparou os modelos Seedance 2.5 e Wan 3.0 em um fluxo de trabalho para gerar vídeos de 30 segundos com IA. O post mostra prós, contras e custos de cada opção em cenários reais. É útil para criadores e equipes que precisam decidir qual ferramenta adotar. Ajuda a evitar perda de tempo testando modelos às cegas.",
-    "reasonEn": "A developer compared Seedance 2.5 and Wan 3.0 in a workflow for generating 30-second AI videos. The post shows pros, cons, and costs of each option in real scenarios. It is useful for creators and teams deciding which tool to adopt. It helps avoid wasting time testing models blindly.",
-    "score": 0.6,
-    "tags": [
-      "vídeo",
-      "comparativo",
-      "ferramentas"
-    ],
-    "img": "img/4a7487531bfe.jpg",
-    "ts": 1787282884,
-    "addedTs": 1787293825,
-    "urlHash": "4a7487531bfe",
-    "titleHash": "cb5e047ece62"
-  },
-  {
-    "title": "Show HN: An autonomous AI agent running one project for two months in public",
-    "titlePt": "Agente autônomo de IA mantém um projeto rodando por dois meses",
-    "url": "https://aitoolsinsiderhq.com/log/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um projeto no Hacker News mostra um agente de IA operando sozinho em uma iniciativa de longo prazo, com atualizações públicas. O autor registra decisões, erros e aprendizados durante o período. Serve como estudo de caso real sobre os limites e capacidades atuais dos agentes. Vale acompanhar para quem estuda automação contínua.",
-    "reasonEn": "A Hacker News project shows an autonomous AI agent operating alone on a long-running initiative, with public updates. The author documents decisions, errors, and lessons over the period. It serves as a real case study on current agent capabilities and limits. Worth following for anyone studying continuous automation.",
-    "score": 0.55,
-    "tags": [
-      "show hn",
-      "agentes",
-      "autônomos"
-    ],
-    "img": "img/c3defaf39e04.jpg",
-    "ts": 1787282506,
-    "addedTs": 1787293825,
-    "urlHash": "c3defaf39e04",
-    "titleHash": "b64c3c30379a"
-  },
-  {
-    "title": "Meta's app for creating generative AI minigames is now available in the US",
-    "titlePt": "App da Meta para criar minigames com IA generativa chega aos EUA",
-    "url": "https://www.engadget.com/2241098/meta-pocket-app-for-creating-generative-ai-minigames-available-in-us/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Meta lançou nos Estados Unidos um aplicativo que permite criar minigames usando IA generativa. Usuários descrevem ideias e a ferramenta transforma em jogos jogáveis no celular. Isso democratiza o desenvolvimento de jogos simples, mesmo para quem não programa. Pode atrair criadores casuais e impactar o mercado de jogos indie.",
-    "reasonEn": "Meta launched an app in the United States that lets users create minigames using generative AI. Users describe ideas and the tool turns them into playable games on mobile. This democratizes simple game development, even for those who don't code. It may attract casual creators and impact the indie game market.",
-    "score": 0.65,
-    "tags": [
-      "lançamento",
-      "meta",
-      "jogos"
-    ],
-    "img": "img/96ab9f13eb1f.jpg",
-    "ts": 1787286024,
-    "addedTs": 1787286541,
-    "urlHash": "96ab9f13eb1f",
-    "titleHash": "a6dd52f30b51"
-  },
-  {
-    "title": "Apple Music to Label AI-Generated Songs",
-    "titlePt": "Apple Music vai rotular músicas geradas por inteligência artificial",
-    "url": "https://www.macrumors.com/2026/08/20/apple-music-to-label-ai-generated-songs/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Apple anunciou que vai identificar claramente faixas criadas com inteligência artificial no Apple Music. A medida busca dar transparência aos ouvintes e evitar confusão com obras humanas. Artistas e distribuidores terão que declarar o uso de IA, o que pode impactar gravadoras e produtores independentes.",
-    "reasonEn": "Apple announced it will clearly label tracks created with artificial intelligence on Apple Music. The move aims to give transparency to listeners and avoid confusion with human works. Artists and distributors will have to declare AI use, which may affect labels and independent producers.",
-    "score": 0.65,
-    "tags": [
-      "música",
-      "regulação",
-      "rotulagem"
-    ],
-    "img": "img/d8a4b5353566.jpg",
-    "ts": 1787283541,
-    "addedTs": 1787286541,
-    "urlHash": "d8a4b5353566",
-    "titleHash": "f6df6920eeae"
-  },
-  {
-    "title": "Can Reddit survive in the AI era?",
-    "titlePt": "O Reddit consegue sobreviver na era da inteligência artificial",
-    "url": "https://www.economist.com/business/2026/08/20/can-reddit-survive-in-the-ai-era",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo discute como o Reddit, base de dados humanos valiosa, está sendo afetado pelo crescimento da IA. Plataformas de IA usam seu conteúdo para treinar modelos, enquanto o site enfrenta queda de tráfego vinda de mecanismos de busca com IA. Usuários, moderadores e investidores são diretamente impactados por essa disputa.",
-    "reasonEn": "The article discusses how Reddit, a valuable human data base, is being affected by the rise of AI. AI platforms use its content to train models while the site faces traffic drops coming from AI-powered search engines. Users, moderators and investors are directly impacted by this dispute.",
-    "score": 0.6,
-    "tags": [
-      "plataforma",
-      "dados",
-      "redes sociais"
-    ],
-    "img": "img/0670776f0659.jpg",
-    "ts": 1787282921,
-    "addedTs": 1787286541,
-    "urlHash": "0670776f0659",
-    "titleHash": "520ac7b8df2d"
-  },
-  {
-    "title": "Google Is Buying All of Spirit Airlines' Data to Feed Its AI Models",
-    "titlePt": "Google compra dados da Spirit Airlines para alimentar seus modelos de IA",
-    "url": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O Google fechou acordo para adquirir grandes volumes de dados da companhia aérea Spirit Airlines para treinar seus modelos de inteligência artificial. A movimentação mostra a disputa cada vez mais agressiva por dados corporativos de qualidade. Passageiros, funcionários da aérea e reguladores de privacidade devem acompanhar o caso de perto.",
-    "reasonEn": "Google struck a deal to acquire large volumes of data from Spirit Airlines to train its artificial intelligence models. The move shows the increasingly aggressive race for quality corporate data. Passengers, airline employees and privacy regulators should follow the case closely.",
-    "score": 0.55,
-    "tags": [
-      "google",
-      "dados",
-      "aeração"
-    ],
-    "img": "img/cb3b611319c0.jpg",
-    "ts": 1787281369,
-    "addedTs": 1787286541,
-    "urlHash": "cb3b611319c0",
-    "titleHash": "9692cb72a282"
-  },
-  {
-    "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-    "titlePt": "Empresas de IA destroem livros físicos raros durante treinamento",
-    "url": "https://annas-archive.gl/blog/physical-destruction.html",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo denuncia que algoritmos de empresas de IA estariam danificando livros antigos raros durante digitalização para conjuntos de dados. Isso acende um alerta sobre preservação do patrimônio bibliográfico e responsabilidade das big techs. Bibliotecários, pesquisadores e editores são diretamente afetados pela perda de obras únicas. A discussão importa porque levanta regulação e ética na coleta de dados.",
-    "reasonEn": "The piece reports that AI companies' algorithms are reportedly damaging rare old books while digitizing them for training datasets. This raises alarms about preserving bibliographic heritage and the responsibility of big tech. Librarians, researchers, and publishers are directly affected by the loss of unique works. The discussion matters because it touches on regulation and ethics in data collection.",
-    "score": 0.65,
-    "tags": [
-      "ética",
-      "dados",
-      "preservação"
-    ],
-    "img": "img/8e75bf392f17.jpg",
-    "ts": 1787279867,
-    "addedTs": 1787280904,
-    "urlHash": "8e75bf392f17",
-    "titleHash": "6bbc27fbe9a8"
-  },
-  {
-    "title": "Beatport Bans AI-Produced Tracks from Platform",
-    "titlePt": "Beatport proíbe faixas produzidas por IA em sua plataforma",
-    "url": "https://thequietus.com/news/beatport-bans-ai-produced-tracks-from-platform/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Beatport, maior loja de música eletrônica do mundo, decidiu banir faixas inteiramente geradas por IA. Isso reflete a pressão da indústria musical sobre procedência e autoria das obras. Produtores eletrônicos que usam IA precisam buscar alternativas de distribuição. A medida pode servir de precedente para outras plataformas digitais de áudio.",
-    "reasonEn": "Beatport, the world's largest electronic music store, has decided to ban tracks fully generated by AI. This reflects the music industry's pressure on the origin and authorship of works. Electronic producers using AI will need to find alternative distribution channels. The move may set a precedent for other digital audio platforms.",
-    "score": 0.55,
-    "tags": [
-      "música",
-      "regulação",
-      "indústria"
-    ],
-    "img": "img/a69f39ce4ff2.jpg",
-    "ts": 1787279326,
-    "addedTs": 1787280904,
-    "urlHash": "a69f39ce4ff2",
-    "titleHash": "ef499c191b1c"
   }
 ]
