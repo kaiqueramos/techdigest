@@ -1,5 +1,244 @@
 [
   {
+    "title": "Cut Claude Code Bill by Routing to DeepSeek or Grok",
+    "titlePt": "Reduza a conta do Claude Code roteando para DeepSeek ou Grok",
+    "url": "https://news.ycombinator.com/item?id=49488963",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Quem usa Claude Code enfrenta contas altas porque o modelo premium é caro em loops longos. O artigo mostra como configurar um roteador que manda tarefas mais baratas para DeepSeek ou Grok automaticamente. Pode cortar custos de IA no desenvolvimento sem perder qualidade nos passos mais sensíveis. Vale a leitura para qualquer equipe queimando orçamento com agentes.",
+    "reasonEn": "Claude Code users face high bills because the premium model is expensive in long loops. The article shows how to set up a router that sends cheaper tasks to DeepSeek or Grok automatically. It can cut AI development costs without losing quality on sensitive steps. Worth reading for any team burning budget on agents.",
+    "score": 0.85,
+    "tags": [
+      "custos",
+      "ferramenta",
+      "agentes"
+    ],
+    "img": "img/6867d4a1a554.jpg",
+    "ts": 1788002282,
+    "addedTs": 1788004784,
+    "urlHash": "6867d4a1a554",
+    "titleHash": "1453df39dd58"
+  },
+  {
+    "title": "Chain-aware (A2A) authorization using OPA as a sidecar pattern",
+    "titlePt": "Autorização A2A com consciência de cadeia usando OPA como sidecar",
+    "url": "https://news.ycombinator.com/item?id=49488952",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Padrão técnico para controlar permissões entre agentes A2A usando Open Policy Agent rodando como sidecar. Importante para arquitetos que montam sistemas multi-agente e precisam de governança centralizada. Texto denso, indicado para quem já lida com OPA.",
+    "reasonEn": "A technical pattern to control permissions between A2A agents using Open Policy Agent as a sidecar. Important for architects building multi-agent systems who need centralized governance. Dense text, aimed at people already familiar with OPA.",
+    "score": 0.55,
+    "tags": [
+      "segurança",
+      "agentes",
+      "arquitetura"
+    ],
+    "img": "img/08dbb8abf01f.jpg",
+    "ts": 1788002155,
+    "addedTs": 1788004784,
+    "urlHash": "08dbb8abf01f",
+    "titleHash": "a97e1975b28e"
+  },
+  {
+    "title": "Did AI write this? It's getting harder to tell",
+    "titlePt": "Foi a IA que escreveu? Está cada vez mais difícil saber",
+    "url": "https://www.ft.com/content/f100c90b-c138-4125-aaa7-853b77690db9",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Detectores de texto gerado por IA estão ficando menos confiáveis diante de modelos melhores. O texto discute o que isso significa para escolas, jornalismo e empresas que precisam verificar autenticidade. Para quem trabalha com conteúdo ou precisa contratar redatores, o tema afeta decisões diárias. Vale ler para entender o novo normal da verificação.",
+    "reasonEn": "AI text detectors are becoming less reliable as models improve. The piece discusses what this means for schools, journalism and companies that need to verify authenticity. For anyone working with content or hiring writers, this affects daily decisions. Worth reading to understand the new normal of verification.",
+    "score": 0.8,
+    "tags": [
+      "detecção",
+      "conteúdo",
+      "política"
+    ],
+    "img": "img/9d8a40ce00f6.jpg",
+    "ts": 1788001326,
+    "addedTs": 1788004784,
+    "urlHash": "9d8a40ce00f6",
+    "titleHash": "01702b78c942"
+  },
+  {
+    "title": "DHH: On AI",
+    "titlePt": "DHH opina sobre IA e o futuro do desenvolvimento",
+    "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "David Heinemeier Hansson, criador do Rails, compartilha sua visão sobre IA e programação. Costuma ser polêmico e provoca debate nas comunidades de devs. Útil para entender uma perspectiva crítica do Vale do Silício, mesmo que você discorde.",
+    "reasonEn": "David Heinemeier Hansson, creator of Rails, shares his take on AI and programming. Usually controversial and sparks debate in dev communities. Useful to understand a critical Silicon Valley perspective, even if you disagree.",
+    "score": 0.5,
+    "tags": [
+      "opinião",
+      "desenvolvimento"
+    ],
+    "img": "img/19355694799b.jpg",
+    "ts": 1787999386,
+    "addedTs": 1788004784,
+    "urlHash": "19355694799b",
+    "titleHash": "3d90a0c7f4ac"
+  },
+  {
+    "title": "Make AI Companies Criminally Liable for Preventable Harm",
+    "titlePt": "Tornar empresas de IA criminalmente responsáveis por danos evitáveis",
+    "url": "https://www.techpolicy.press/make-ai-companies-criminally-liable-for-preventable-harm/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Proposta para responsabilizar juridicamente fornecedores de IA quando falhas claras causarem prejuízo. Toca em temas como segurança de agentes, alucinações em medicina e deepfakes. Pode moldar os próximos regulamentos e impactar diretamente startups e big techs de IA. Vale acompanhar porque o debate regulatório avança rápido.",
+    "reasonEn": "A proposal to legally hold AI providers accountable when clear failures cause harm. It touches on agent safety, medical hallucinations and deepfakes. It may shape upcoming regulation and directly impact AI startups and big tech. Worth following because the regulatory debate is moving fast.",
+    "score": 0.7,
+    "tags": [
+      "regulação",
+      "política",
+      "segurança"
+    ],
+    "img": "img/16a2ba669d1b.jpg",
+    "ts": 1787998826,
+    "addedTs": 1788004784,
+    "urlHash": "16a2ba669d1b",
+    "titleHash": "84c0a8d94ed3"
+  },
+  {
+    "title": "Tinker: GLM 5.3 Fine-Tuning",
+    "titlePt": "Tinker: ajuste fino do modelo GLM 5.3",
+    "url": "https://tinker-docs.thinkingmachines.ai/tinker/models/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Serviço de fine-tuning para o modelo GLM 5.3, oferecendo infraestrutura para treinar variantes customizadas. Pode interessar times chineses ou que preferem modelos abertos chineses por custo. Pouca informação pública ainda sobre qualidade final dos modelos resultantes.",
+    "reasonEn": "A fine-tuning service for the GLM 5.3 model, offering infrastructure to train custom variants. May interest Chinese teams or those preferring Chinese open models for cost reasons. Little public info yet on the quality of the resulting models.",
+    "score": 0.5,
+    "tags": [
+      "modelo",
+      "fine-tuning"
+    ],
+    "img": "img/0dc61a86f372.jpg",
+    "ts": 1787998368,
+    "addedTs": 1788004784,
+    "urlHash": "0dc61a86f372",
+    "titleHash": "cec8a8dc77f6"
+  },
+  {
+    "title": "A Collectivist, Economic Vision for AI",
+    "titlePt": "Uma visão coletivista e econômica para a IA",
+    "url": "https://cacm.acm.org/research/a-collectivist-economic-vision-for-ai/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Texto de opinião propondo que o valor da IA deve ser compartilhado coletivamente, em vez de concentrado em poucas corporações. Apresenta argumentos sobre produtividade, desigualdade e bem-estar social. Para quem pensa em impacto de longo prazo da IA, é uma leitura provocadora.",
+    "reasonEn": "An opinion piece proposing that AI value should be shared collectively rather than concentrated in a few corporations. It lays out arguments on productivity, inequality and social welfare. For anyone thinking about AI's long-term impact, it is a provocative read.",
+    "score": 0.5,
+    "tags": [
+      "opinião",
+      "economia",
+      "política"
+    ],
+    "img": "img/475733b01d4c.jpg",
+    "ts": 1787996085,
+    "addedTs": 1788004784,
+    "urlHash": "475733b01d4c",
+    "titleHash": "638f5299e3ff"
+  },
+  {
+    "title": "We Ran Code Inside Fortune 500s Using Files They Published for AI Agents",
+    "titlePt": "Executamos código dentro de empresas da Fortune 500 usando arquivos que elas publicaram para agentes de IA",
+    "url": "https://medium.com/@alonhertz1/data-became-code-we-ran-code-inside-fortune-500s-using-files-they-published-for-ai-agents-0cd67ffbbffc",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Pesquisadores descobriram que arquivos de configuração publicados por grandes corporações para uso de agentes de IA continham credenciais e segredos expostos. Isso permitiu executar código nos ambientes internos dessas empresas. É um alerta sério sobre segurança em fluxos com agentes autônomos. Qualquer time publicando contexto para IA precisa revisar urgentemente.",
+    "reasonEn": "Researchers discovered that configuration files published by large corporations for AI agent use contained exposed credentials and secrets. This allowed them to run code inside those companies' internal environments. It is a serious warning about security in autonomous agent flows. Any team publishing context for AI must urgently review it.",
+    "score": 0.9,
+    "tags": [
+      "segurança",
+      "agentes",
+      "vazamento"
+    ],
+    "img": "img/9c96b682f3ce.jpg",
+    "ts": 1787995397,
+    "addedTs": 1788004784,
+    "urlHash": "9c96b682f3ce",
+    "titleHash": "8dcceb758f17"
+  },
+  {
+    "title": "Some GitHub bounty repos are honeypots that farm free work from AI agents",
+    "titlePt": "Repositórios de bug bounty no GitHub são armadilhas que exploram agentes de IA",
+    "url": "https://oactodev.github.io/ninety-quid/report/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Pesquisadores identificaram que vários repositórios públicos de bounty no GitHub são honeypots que usam tarefas bem definidas para extrair trabalho gratuito de agentes autônomos. Os contribuidores humanos recebem pouco crédito enquanto os donos acumulam PRs. É leitura essencial para quem monta sistemas que varrem GitHub automaticamente.",
+    "reasonEn": "Researchers identified that several public GitHub bounty repos are honeypots that use well-defined tasks to extract free work from autonomous agents. Human contributors receive little credit while repo owners accumulate pull requests. Essential reading for anyone building systems that automatically scan GitHub.",
+    "score": 0.75,
+    "tags": [
+      "segurança",
+      "agentes",
+      "código aberto"
+    ],
+    "img": "img/ba4ec8602bf4.jpg",
+    "ts": 1787992104,
+    "addedTs": 1788004784,
+    "urlHash": "ba4ec8602bf4",
+    "titleHash": "65072d266250"
+  },
+  {
+    "title": "I built a financial visibility layer for multi-model AI applications",
+    "titlePt": "Camada de visibilidade financeira para aplicações com múltiplos modelos de IA",
+    "url": "https://credlier.com/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Ferramenta que agrega custos, latência e uso por modelo dentro de uma aplicação com vários LLMs. Útil para times que já gastam muito com IA e querem entender onde o dinheiro vai. Resolve uma dor real, mas precisa de integrações com provedores específicos para ser útil.",
+    "reasonEn": "A tool that aggregates cost, latency and usage per model inside a multi-LLM application. Useful for teams already spending heavily on AI who want to understand where the money goes. Solves a real pain point, but needs provider-specific integrations to be truly useful.",
+    "score": 0.5,
+    "tags": [
+      "custos",
+      "observabilidade"
+    ],
+    "img": "img/d9ea93bb32b3.jpg",
+    "ts": 1787991576,
+    "addedTs": 1788004784,
+    "urlHash": "d9ea93bb32b3",
+    "titleHash": "363f1dd750e0"
+  },
+  {
+    "title": "Show HN: Kith – AI clinical notes for therapists from ambient session audio",
+    "titlePt": "Kith: notas clínicas de IA para terapeutas a partir do áudio da sessão",
+    "url": "https://www.kith.space",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Aplicativo que escuta sessões de terapia em tempo real e gera prontuários estruturados para o profissional. Pode reduzir drasticamente o tempo gasto com documentação em clínicas pequenas. Traz questões delicadas sobre privacidade, consentimento e precisão médica que merecem atenção.",
+    "reasonEn": "An app that listens to therapy sessions in real time and generates structured notes for the clinician. It can dramatically cut documentation time in small clinics. It raises delicate questions about privacy, consent and medical accuracy that deserve attention.",
+    "score": 0.6,
+    "tags": [
+      "saúde",
+      "agentes",
+      "privacidade"
+    ],
+    "img": "img/3733c474d4d4.jpg",
+    "ts": 1787991363,
+    "addedTs": 1788004784,
+    "urlHash": "3733c474d4d4",
+    "titleHash": "1ac0ccee30be"
+  },
+  {
     "title": "Microsoft's Guidance on AI Agents Shared Responsibility Model",
     "titlePt": "Orientação da Microsoft sobre responsabilidade compartilhada em agentes de IA",
     "url": "https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility-ai-agent",
@@ -9577,135 +9816,5 @@
     "addedTs": 1787401219,
     "urlHash": "0e34ef926ae7",
     "titleHash": "dad004366116"
-  },
-  {
-    "title": "Is \"AI slop\" now the default response to every new project?",
-    "titlePt": "'AI slop' virou a resposta padrão para todo novo projeto?",
-    "url": "https://news.ycombinator.com/item?id=49397791",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Thread no HackerNews discute como o conteúdo gerado por IA de baixa qualidade se tornou o padrão em muitas áreas. Profissionais estão cansados de receber entregas ruins e questionam o uso indiscriminado. Importa para quem avalia produtos e decide o que usar ou contratar.",
-    "reasonEn": "A HackerNews thread discusses how low-quality AI generated content has become the default in many areas. Professionals are tired of receiving bad deliverables and question the indiscriminate use. Matters for those evaluating products and deciding what to adopt.",
-    "score": 0.5,
-    "tags": [
-      "opinião",
-      "qualidade"
-    ],
-    "img": "img/ec9eda023dec.jpg",
-    "ts": 1787387700,
-    "addedTs": 1787393617,
-    "urlHash": "ec9eda023dec",
-    "titleHash": "f64f450241f7"
-  },
-  {
-    "title": "Older Americans leaving workforce poses challenges for AI plans",
-    "titlePt": "Aposentadoria precoce nos EUA desafia planos de IA",
-    "url": "https://www.spglobal.com/market-intelligence/en/news-insights/articles/2026/8/older-americans-leaving-workforce-poses-challenges-for-ai-plans-105150367",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Reportagem mostra que mais americanos mais velhos estão deixando o mercado de trabalho, reduzindo a mão de obra disponível para treinar e operar sistemas de IA. Empresas que dependem de trabalhadores experientes podem ter problemas. Tendência relevante para estratégia de longo prazo.",
-    "reasonEn": "A report shows more older Americans are leaving the workforce, reducing the labor pool available to train and operate AI systems. Companies depending on experienced workers may run into problems. A trend relevant to long-term strategy.",
-    "score": 0.55,
-    "tags": [
-      "trabalho",
-      "economia"
-    ],
-    "img": "img/8344d4cebde0.jpg",
-    "ts": 1787387090,
-    "addedTs": 1787393617,
-    "urlHash": "8344d4cebde0",
-    "titleHash": "45075332d2ef"
-  },
-  {
-    "title": "Show HN: Learn Leap, an AI tutor that teaches from your own material",
-    "titlePt": "Learn Leap: tutor de IA que ensina com seu próprio material",
-    "url": "https://learnleap.xyz",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O Learn Leap é um tutor de IA que aprende a partir de materiais enviados pelo próprio usuário, permitindo ensino personalizado. Pode ser útil para estudantes e profissionais que querem treinar a ferramenta com seus próprios documentos. A eficácia depende de quão bem o modelo se adapta ao material de cada pessoa.",
-    "reasonEn": "Learn Leap is an AI tutor that learns from materials uploaded by the user itself, enabling personalized teaching. It could help students and professionals who want to train the tool with their own documents. Effectiveness depends on how well the model adapts to each person's material.",
-    "score": 0.5,
-    "tags": [
-      "educação",
-      "tutor",
-      "lançamento"
-    ],
-    "img": "img/9d774903692b.jpg",
-    "ts": 1787386076,
-    "addedTs": 1787386722,
-    "urlHash": "9d774903692b",
-    "titleHash": "b694247fb01a"
-  },
-  {
-    "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
-    "titlePt": "Inteligência por watt: medindo eficiência da IA local",
-    "url": "https://arxiv.org/abs/2511.07885",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo propõe a métrica 'inteligência por watt' para comparar o quão eficiente cada modelo de IA é quando rodado localmente, em vez de na nuvem. É um conceito útil para quem roda modelos em hardware próprio e precisa balancear desempenho e consumo de energia. Ajuda a escolher hardware e modelos de forma mais informada.",
-    "reasonEn": "The article proposes the metric 'intelligence per watt' to compare how efficient each AI model is when run locally instead of in the cloud. It's a useful concept for anyone running models on their own hardware and needing to balance performance and energy use. It helps choose hardware and models more wisely.",
-    "score": 0.5,
-    "tags": [
-      "benchmark",
-      "local",
-      "eficiência"
-    ],
-    "img": "img/eb8b9dad9035.jpg",
-    "ts": 1787378089,
-    "addedTs": 1787386722,
-    "urlHash": "eb8b9dad9035",
-    "titleHash": "b339b0f06cb1"
-  },
-  {
-    "title": "Show HN: Front end skill pack for AI agents, with machine-enforced quality gates",
-    "titlePt": "Pacote de skills front-end para agentes de IA com qualidade automatizada",
-    "url": "https://krishna-modi12.github.io/frontend-design-pro/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um Show HN apresenta um pacote de habilidades front-end para agentes de IA acompanhado de portões de qualidade automatizados que checam o código gerado. Pode acelerar times que delegam trabalho de UI para agentes, desde que as verificações sejam confiáveis. Vale acompanhar se a comunidade adotar e validar a abordagem.",
-    "reasonEn": "A Show HN presents a front-end skill pack for AI agents along with automated quality gates that check the generated code. It can speed up teams delegating UI work to agents, as long as the checks are trustworthy. Worth following to see if the community adopts and validates the approach.",
-    "score": 0.5,
-    "tags": [
-      "agentes",
-      "frontend",
-      "qualidade"
-    ],
-    "img": "img/3d06f8aedf94.jpg",
-    "ts": 1787377939,
-    "addedTs": 1787386722,
-    "urlHash": "3d06f8aedf94",
-    "titleHash": "3454bea40421"
-  },
-  {
-    "title": "Ask HN: What is the evidence for a stock market bubble in AI?",
-    "titlePt": "Existe mesmo uma bolha de IA no mercado de ações?",
-    "url": "https://news.ycombinator.com/item?id=49397022",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Discussão no Hacker News pede evidências de uma bolha financeira em IA. O debate é relevante para investidores e profissionais atentos ao impacto econômico do setor, mas não traz dados novos ou conclusões definitivas. Vale como termômetro do sentimento do mercado.",
-    "reasonEn": "A Hacker News thread asks for evidence of an AI stock market bubble. Relevant for investors and anyone watching the sector's economic impact, but it offers no fresh data or firm conclusions. Useful as a sentiment gauge.",
-    "score": 0.5,
-    "tags": [
-      "bolha",
-      "mercado",
-      "finanças"
-    ],
-    "img": "img/dbc23ba130d8.jpg",
-    "ts": 1787378868,
-    "addedTs": 1787379798,
-    "urlHash": "dbc23ba130d8",
-    "titleHash": "3be9053cb384"
   }
 ]
