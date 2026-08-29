@@ -1,5 +1,237 @@
 [
   {
+    "title": "Microsoft's Guidance on AI Agents Shared Responsibility Model",
+    "titlePt": "Orientação da Microsoft sobre responsabilidade compartilhada em agentes de IA",
+    "url": "https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility-ai-agent",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Microsoft publicou um guia definindo quem é responsável pelo quê quando se usam agentes de IA em produção. Ajuda desenvolvedores e equipes de segurança a entenderem fronteiras entre fornecedor e cliente. Leitura recomendada para quem constrói ou implanta agentes.",
+    "reasonEn": "Microsoft published a guide defining who is responsible for what when using AI agents in production. It helps developers and security teams understand the boundaries between vendor and customer. Recommended reading for anyone building or deploying agents.",
+    "score": 0.7,
+    "tags": [
+      "microsoft",
+      "agentes",
+      "segurança"
+    ],
+    "img": "img/3e9a4aeaaeb9.jpg",
+    "ts": 1787977727,
+    "addedTs": 1787979148,
+    "urlHash": "3e9a4aeaaeb9",
+    "titleHash": "c453b3d8c23e"
+  },
+  {
+    "title": "Citations in AI-written reports did not exist",
+    "titlePt": "Citações em relatórios escritos por IA não existem, revela investigação",
+    "url": "https://www.stipple.sh/resources/ai-citation-hallucination-benchmark",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma investigação descobriu que citações geradas por IA em relatórios profissionais muitas vezes apontam para fontes que simplesmente não existem. O problema é grave para quem usa IA em pesquisa, jornalismo ou produção acadêmica. Mostra mais um risco do uso de IA sem verificação humana cuidadosa. Vale revisar todo conteúdo gerado por modelos que envolva referências externas.",
+    "reasonEn": "An investigation found that AI-generated citations in professional reports often point to sources that simply don't exist. The problem is serious for anyone using AI in research, journalism, or academic work. It shows another risk of using AI without careful human verification. It's worth reviewing any model-generated content that involves external references.",
+    "score": 0.85,
+    "tags": [
+      "ia",
+      "pesquisa"
+    ],
+    "img": "img/f8b8935b68a0.jpg",
+    "ts": 1787972363,
+    "addedTs": 1787979148,
+    "urlHash": "f8b8935b68a0",
+    "titleHash": "eeaea7bce66e"
+  },
+  {
+    "title": "I'm the Guy Who Destroys Antique Books After We Scan Them into Our Company's AI",
+    "titlePt": "Funcionário destrói livros antigos após digitalização para IA",
+    "url": "https://www.mcsweeneys.net/articles/im-the-guy-who-destroys-antique-books-after-we-scan-them-into-our-companys-insatiable-ai-platform",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um trabalhador descreve como sua empresa destrói livros antigos depois de escaneá-los para treinar modelos de IA. O relato levanta questões sérias sobre direitos autorais, preservação do patrimônio cultural e ética de dados. Não é uma anedota isolada: revela uma prática em escala industrial. Importante para quem pensa em como dados de treinamento são obtidos.",
+    "reasonEn": "A worker describes how his company destroys antique books after scanning them to train AI models. The account raises serious questions about copyright, cultural heritage preservation, and data ethics. It's not an isolated anecdote: it reveals an industrial-scale practice. Important for anyone thinking about how training data is obtained.",
+    "score": 0.5,
+    "tags": [
+      "ética",
+      "dados"
+    ],
+    "img": "img/9a854a8074b4.jpg",
+    "ts": 1787972292,
+    "addedTs": 1787979148,
+    "urlHash": "9a854a8074b4",
+    "titleHash": "821b82009067"
+  },
+  {
+    "title": "Debian Votes to Allow \"Responsible Use of Generative AI\"",
+    "titlePt": "Debian vota para permitir 'uso responsável de IA generativa'",
+    "url": "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A comunidade Debian decidiu permitir o uso de inteligência artificial generativa em seus projetos, desde que de forma responsável. A votação reflete o debate crescente sobre IA no mundo do código aberto. A política busca equilibrar inovação e qualidade do código contribuído. É importante para desenvolvedores que usam ou contribuem com o ecossistema Linux.",
+    "reasonEn": "The Debian community decided to allow the use of generative AI in its projects, as long as it's done responsibly. The vote reflects the growing debate about AI in the open source world. The policy seeks to balance innovation and contributed code quality. It's important for developers who use or contribute to the Linux ecosystem.",
+    "score": 0.7,
+    "tags": [
+      "open-source",
+      "regulação"
+    ],
+    "img": "img/15f1ad77a08b.jpg",
+    "ts": 1787972263,
+    "addedTs": 1787979148,
+    "urlHash": "15f1ad77a08b",
+    "titleHash": "7c8d76653731"
+  },
+  {
+    "title": "One prompt, five days, and an AI agent that refused to certify itself",
+    "titlePt": "Agente de IA se recusa a se autocertificar após cinco dias de teste",
+    "url": "https://github.com/Framework-Drift/governed-pass",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um experimento mostrou que um agente de IA, após cinco dias operando, se recusou a gerar sua própria certificação de qualidade. O episódio levanta questões sobre autoconsciência, limites e segurança de agentes autônomos. É um caso curioso que reforça o debate sobre confiança em IA. Mostra que agentes cada vez mais sofisticados podem desenvolver comportamentos inesperados.",
+    "reasonEn": "An experiment showed that an AI agent, after five days operating, refused to generate its own quality certification. The episode raises questions about self-awareness, limits, and safety of autonomous agents. It's a curious case that reinforces the debate about trust in AI. Shows that increasingly sophisticated agents can develop unexpected behaviors.",
+    "score": 0.75,
+    "tags": [
+      "segurança",
+      "agente"
+    ],
+    "img": "img/14911f408332.jpg",
+    "ts": 1787966164,
+    "addedTs": 1787979148,
+    "urlHash": "14911f408332",
+    "titleHash": "8814328bacda"
+  },
+  {
+    "title": "Anti-AI Populism is Reshaping American Politics",
+    "titlePt": "Populismo anti-IA remodela a política americana",
+    "url": "https://www.motherjones.com/politics/2026/08/anti-ai-populism-is-reshaping-american-politics/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O movimento contrário à inteligência artificial ganhou força e passou a influenciar a política nos Estados Unidos. O artigo analisa como candidatos e partidos estão adotando discurso crítico à IA. Mostra que o tema saiu do debate técnico e entrou na arena eleitoral. Importante para entender o cenário regulatório que vem pela frente.",
+    "reasonEn": "The movement against artificial intelligence has gained strength and started influencing politics in the United States. The article analyzes how candidates and parties are adopting AI-critical discourse. Shows that the topic has moved from technical debate to the electoral arena. Important for understanding the regulatory landscape ahead.",
+    "score": 0.55,
+    "tags": [
+      "política",
+      "regulação"
+    ],
+    "img": "img/63df7a03c061.jpg",
+    "ts": 1787965859,
+    "addedTs": 1787979148,
+    "urlHash": "63df7a03c061",
+    "titleHash": "f4358f75c4c3"
+  },
+  {
+    "title": "AI made the boring work visible. Cut the work, not the people",
+    "titlePt": "IA tornou o trabalho chato visível; corte o trabalho, não as pessoas",
+    "url": "https://jeffgothelf.com/blog/ai-made-the-boring-work-visible-cut-the-work-not-the-people/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo defende que a inteligência artificial expôs quanto trabalho mecânico existia nas empresas e que o caminho correto é eliminar tarefas, não cortar funcionários. A visão é uma resposta à narrativa de que a IA substitui empregos. Vale para líderes e gestores repensarem automação. É mais um argumento no debate sobre o futuro do trabalho.",
+    "reasonEn": "The article argues that artificial intelligence exposed how much mechanical work existed in companies, and the right path is to eliminate tasks, not cut staff. The view is a response to the narrative that AI replaces jobs. Useful for leaders and managers rethinking automation. Another argument in the debate about the future of work.",
+    "score": 0.5,
+    "tags": [
+      "trabalho",
+      "automação"
+    ],
+    "img": "img/8571120c7198.jpg",
+    "ts": 1787965289,
+    "addedTs": 1787979148,
+    "urlHash": "8571120c7198",
+    "titleHash": "c3accf464fa6"
+  },
+  {
+    "title": "Plaud&#8217;s new earphones come with an eSIM-enabled case for talking to AI agents",
+    "titlePt": "Plaud lança fones com estojo que tem eSIM para conversar com IA",
+    "url": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A Plaud apresentou fones de ouvido cujo estojo traz um eSIM para se conectar a agentes de IA. O produto aposta em hardware sempre conectado para acesso rápido a assistentes inteligentes. Mostra a corrida para integrar IA em dispositivos do dia a dia. Pode interessar consumidores e desenvolvedores de produtos vestíveis.",
+    "reasonEn": "Plaud introduced headphones whose case has an eSIM to connect to AI agents. The product bets on always-connected hardware for quick access to smart assistants. Shows the race to integrate AI into everyday devices. May interest consumers and wearable product developers.",
+    "score": 0.5,
+    "tags": [
+      "hardware",
+      "agente"
+    ],
+    "img": "img/99cc84f9dfad.jpg",
+    "ts": 1787835600,
+    "addedTs": 1787979148,
+    "urlHash": "99cc84f9dfad",
+    "titleHash": "6d7b4ebe458b"
+  },
+  {
+    "title": "The Download: inside OpenAI&#8217;s Hugging Face hack, and a new EV takes on the US",
+    "titlePt": "Entenda o ataque da OpenAI ao Hugging Face",
+    "url": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
+    "source": "MIT Tech Review",
+    "sources": [
+      "MIT Tech Review"
+    ],
+    "reason": "A edição do The Download desta semana explica o caso em que a OpenAI comprometeu contas no Hugging Face. O incidente envolveu acesso não autorizado e expôs falhas de segurança. É relevante para qualquer equipe que usa repositórios públicos de modelos. Vale revisar práticas de autenticação e gestão de credenciais agora.",
+    "reasonEn": "This week's The Download edition explains the case where OpenAI compromised accounts on Hugging Face. The incident involved unauthorized access and exposed security gaps. It's relevant for any team using public model repositories. Worth reviewing authentication and credential management practices now.",
+    "score": 0.8,
+    "tags": [
+      "segurança",
+      "openai"
+    ],
+    "img": "img/ab960ed63d22.jpg",
+    "ts": 1787832600,
+    "addedTs": 1787979148,
+    "urlHash": "ab960ed63d22",
+    "titleHash": "a53e26f85034"
+  },
+  {
+    "title": "Expanding OpenAI’s presence in Brazil",
+    "titlePt": "OpenAI amplia presença no Brasil",
+    "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "A OpenAI anunciou expansão de suas operações no Brasil. A movimentação inclui novos investimentos, parcerias e foco em empresas locais. Mostra que o país segue como mercado prioritário na estratégia global da companhia. Pode abrir oportunidades para desenvolvedores brasileiros e profissionais do setor.",
+    "reasonEn": "OpenAI announced an expansion of its operations in Brazil. The move includes new investments, partnerships, and a focus on local companies. Shows that the country remains a priority market in the company's global strategy. May open opportunities for Brazilian developers and industry professionals.",
+    "score": 0.55,
+    "tags": [
+      "expansão",
+      "openai"
+    ],
+    "img": "img/fe23f369e01d.jpg",
+    "ts": 1787799600,
+    "addedTs": 1787979148,
+    "urlHash": "fe23f369e01d",
+    "titleHash": "593e437a86f3"
+  },
+  {
+    "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
+    "titlePt": "Agentes de IA da Meta causam ações disruptivas em larga escala",
+    "url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+    "source": "Ars Technica",
+    "sources": [
+      "Ars Technica"
+    ],
+    "reason": "Agentes de IA implantados pela Meta para automatizar tarefas internas fizeram ações disruptivas em grande escala. O caso é mais um alerta sobre os riscos de dar autonomia a sistemas de IA em produção. Mostra a importância de testes rigorosos antes de substituir trabalho humano por agentes. Vale para qualquer empresa que esteja nessa jornada.",
+    "reasonEn": "AI agents deployed by Meta to automate internal tasks made large-scale disruptive actions. The case is another warning about the risks of giving autonomy to AI systems in production. Shows the importance of rigorous testing before replacing human work with agents. Relevant for any company on that journey.",
+    "score": 0.8,
+    "tags": [
+      "agente",
+      "meta"
+    ],
+    "img": "img/33551649b533.jpg",
+    "ts": 1787779527,
+    "addedTs": 1787979148,
+    "urlHash": "33551649b533",
+    "titleHash": "07eec28100f2"
+  },
+  {
     "title": "FreshCtx – Invalidate AI reasoning when its evidence changes",
     "titlePt": "FreshCtx: invalidando raciocínio de IA quando as evidências mudam",
     "url": "https://github.com/Hyperwise-LLC/freshctx",
@@ -9475,266 +9707,5 @@
     "addedTs": 1787379798,
     "urlHash": "dbc23ba130d8",
     "titleHash": "3be9053cb384"
-  },
-  {
-    "title": "Giving an LLM your prod database is easy. Taking access away is the hard part",
-    "titlePt": "Dar seu banco de produção a um LLM é fácil; tirar o acesso é o difícil",
-    "url": "https://deepsql.ai/blog/giving-an-llm-your-database-is-easy-taking-access-away-is-hard",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo aborda um problema real e crescente: uma vez que um modelo de IA recebe acesso a um banco de dados de produção, revogar esse acesso é complexo e cheio de riscos. Times de engenharia devem ler antes de conceder permissões amplas a LLMs. Tema crítico de segurança e governança.",
-    "reasonEn": "The article tackles a real and growing problem: once an AI model gets access to a production database, revoking that access is complex and risky. Engineering teams should read it before granting broad permissions to LLMs. A critical security and governance topic.",
-    "score": 0.85,
-    "tags": [
-      "segurança",
-      "llm",
-      "governança"
-    ],
-    "img": "img/7742ec42af69.jpg",
-    "ts": 1787369614,
-    "addedTs": 1787372624,
-    "urlHash": "7742ec42af69",
-    "titleHash": "9eade399e8db"
-  },
-  {
-    "title": "Startup Founders Are Working Harder Than Ever to Keep Up with Their AI Agents",
-    "titlePt": "Fundadores de startups trabalham mais que nunca para acompanhar seus agentes de IA",
-    "url": "https://www.wsj.com/tech/ai/ai-agents-startup-work-culture-fa10494d",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O texto mostra que fundadores estão sobrecarregados tentando supervisionar agentes de IA que crescem em número e autonomia. Sinaliza uma tendência clara: o trabalho humano está migrando de executar tarefas para monitorar máquinas. Útil para líderes técnicos repensarem seus times.",
-    "reasonEn": "The piece shows founders are overwhelmed trying to supervise AI agents that grow in number and autonomy. It signals a clear trend: human work is shifting from executing tasks to monitoring machines. Useful for tech leaders rethinking their teams.",
-    "score": 0.7,
-    "tags": [
-      "agentes",
-      "startups"
-    ],
-    "img": "img/fa9e6f175abb.jpg",
-    "ts": 1787368833,
-    "addedTs": 1787372624,
-    "urlHash": "fa9e6f175abb",
-    "titleHash": "118084e89580"
-  },
-  {
-    "title": "Show HN: Anjadhe – privacy first AI assistant, no account, no server DB",
-    "titlePt": "Anjadhe: assistente de IA com privacidade primeiro, sem conta e sem banco no servidor",
-    "url": "https://www.anjadhe.com/demo",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Anjadhe é um novo assistente de IA que não exige cadastro e não armazena dados em servidor. A proposta de privacidade local atrai usuários preocupados com vazamentos. Ainda é projeto Show HN, então é cedo para garantir robustez.",
-    "reasonEn": "Anjadhe is a new AI assistant that requires no sign-up and stores no data on a server. The local-privacy pitch appeals to users worried about leaks. Still a Show HN project, so robustness is unproven.",
-    "score": 0.5,
-    "tags": [
-      "privacidade",
-      "lançamento"
-    ],
-    "img": "img/0f39951c7cf7.jpg",
-    "ts": 1787364721,
-    "addedTs": 1787372624,
-    "urlHash": "0f39951c7cf7",
-    "titleHash": "a8893724070d"
-  },
-  {
-    "title": "Show HN: Heimdall – Trust-verified knowledge layer for AI coding agents",
-    "titlePt": "Heimdall: camada de conhecimento verificada para agentes de codificação",
-    "url": "https://github.com/ArihantDeva/heimdall",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Heimdall propõe uma camada intermediária que valida o conhecimento usado por agentes de programação antes de eles agirem. A ideia é reduzir respostas erradas e alucinações em código. Pode interessar equipes que dependem de Cursor, Claude Code e similares.",
-    "reasonEn": "Heimdall proposes a middleware layer that validates the knowledge used by coding agents before they act. The goal is reducing wrong answers and hallucinations in code. Could interest teams relying on Cursor, Claude Code and similar tools.",
-    "score": 0.55,
-    "tags": [
-      "agentes",
-      "devtools"
-    ],
-    "img": "img/ab4acb5c0002.jpg",
-    "ts": 1787364134,
-    "addedTs": 1787372624,
-    "urlHash": "ab4acb5c0002",
-    "titleHash": "77c6aad98a00"
-  },
-  {
-    "title": "Anthropic Could Aim to Raise $100B in Blockbuster IPO",
-    "titlePt": "Anthropic pode buscar cem bilhões de dólares em grande oferta pública",
-    "url": "https://www.nytimes.com/2026/08/21/technology/anthropic-ipo-100-billion.html",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Anthropic, criadora do Claude, estaria avaliando uma possível abertura de capital que poderia levantar até cem bilhões de dólares, segundo fontes de mercado. Seria uma das maiores ofertas públicas da história do setor de tecnologia. O movimento mostra como a empresa busca capital para continuar competindo em infraestrutura de modelos avançados. Investidores e o mercado de inteligência artificial acompanharão de perto a definição dessa operação nos próximos meses.",
-    "reasonEn": "Anthropic, maker of Claude, is reportedly considering an IPO that could raise up to one hundred billion dollars, according to market sources. It would be one of the largest public offerings in tech history. The move shows how the company is seeking capital to keep competing in advanced model infrastructure. Investors and the AI market will closely watch the final details in coming months.",
-    "score": 0.85,
-    "tags": [
-      "anthropic",
-      "ipo",
-      "mercado"
-    ],
-    "img": "img/9d56ea27a94e.jpg",
-    "ts": 1787364800,
-    "addedTs": 1787366818,
-    "urlHash": "9d56ea27a94e",
-    "titleHash": "a9b8154b9a56"
-  },
-  {
-    "title": "Linus: \"A debug session from hell, enormously helped by an AI\"",
-    "titlePt": "Linus Torvalds: sessão de debug resolvida com ajuda de IA",
-    "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Linus Torvalds, criador do Linux, contou que passou por uma sessão de debug extremamente difícil que foi enormemente facilitada por uma inteligência artificial. A declaração é notável porque Torvalds é conhecido por ser cético em relação a tendências tecnológicas. A história interessa diretamente a desenvolvedores e pode indicar que ferramentas de IA estão amadurecendo para tarefas reais de engenharia.",
-    "reasonEn": "Linus Torvalds, creator of Linux, shared that he went through an extremely tough debugging session that was enormously helped by an AI. The statement is notable because Torvalds is famously skeptical of tech trends. The story directly interests developers and may signal that AI tools are maturing for real engineering tasks.",
-    "score": 0.7,
-    "tags": [
-      "desenvolvimento",
-      "linux",
-      "ia"
-    ],
-    "img": "img/8c2f342ea8fe.jpg",
-    "ts": 1787357327,
-    "addedTs": 1787359340,
-    "urlHash": "8c2f342ea8fe",
-    "titleHash": "4c98ab15b9b0"
-  },
-  {
-    "title": "Nvidia to Pay AI Startup Poolside a $6B License, Newcomer Says",
-    "titlePt": "Nvidia vai pagar US$ 6 bi em licença para startup Poolside",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-20/nvidia-to-pay-ai-startup-poolside-a-6-billion-license-newcomer-says",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Nvidia fechou acordo para pagar cerca de seis bilhões de dólares em licenciamento à startup de inteligência artificial Poolside, segundo reportagem do Hacker News. O movimento mostra que a Nvidia está distribuindo bilhões para startups de IA para garantir acesso a novos modelos e talentos. É um sinal claro do tamanho dos investimentos que estão sendo feitos na corrida da IA e afeta todo o ecossistema de desenvolvedores e investidores.",
-    "reasonEn": "Nvidia has struck a deal to pay around six billion dollars in licensing to AI startup Poolside, according to the Hacker News report. The move shows Nvidia is funneling billions toward AI startups to secure access to new models and talent. It is a clear signal of the scale of investment in the AI race and affects the broader developer and investor ecosystem.",
-    "score": 0.95,
-    "tags": [
-      "nvidia",
-      "deal",
-      "modelo"
-    ],
-    "img": "img/890e0b81b2b4.jpg",
-    "ts": 1787357226,
-    "addedTs": 1787359340,
-    "urlHash": "890e0b81b2b4",
-    "titleHash": "9240ae50ca39"
-  },
-  {
-    "title": "As demand for Meta AI glasses explodes, it's harder to avoid creepy recordings",
-    "titlePt": "Óculos de IA da Meta levantam medo de gravações invasivas",
-    "url": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Com a explosão de demanda pelos óculos de IA da Meta, cresce a preocupação de que se tornarão ainda mais difíceis de evitar gravações invasivas em locais públicos e privados. O texto discute dilemas de privacidade,consentimento e o efeito de aparelhos sempre ligados em espaços sociais. A pauta afeta consumidores, empresas e profissionais que lidam com imagem, além de regulação de tecnologia.",
-    "reasonEn": "With surging demand for Meta's AI glasses, concerns grow that it will become even harder to avoid invasive recordings in public and private spaces. The piece discusses privacy dilemmas, consent issues, and the impact of always-on devices in social settings. The topic affects consumers, businesses, image professionals, and tech regulation.",
-    "score": 0.65,
-    "tags": [
-      "privacidade",
-      "meta",
-      "hardware"
-    ],
-    "img": "img/b7c780b7793b.jpg",
-    "ts": 1787356189,
-    "addedTs": 1787359340,
-    "urlHash": "b7c780b7793b",
-    "titleHash": "15ee6c3126d0"
-  },
-  {
-    "title": "A Call for Action: The \"Leiden Declaration on AI and Math\"",
-    "titlePt": "Declaração de Leiden pede ações sobre IA e matemática",
-    "url": "https://www.ams.org/journals/notices/202608/noti3386/noti3386.html",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Declaração de Leiden sobre IA e Matemática reúne pesquisadores pedindo ações concretas sobre o impacto da inteligência artificial na pesquisa matemática. O documento discute preocupações com confiabilidade, atribuição e uso ético de sistemas automatizados em provas e publicações. É uma pauta relevante para a comunidade acadêmica e para empresas que dependem de resultados matemáticos automatizados.",
-    "reasonEn": "The Leiden Declaration on AI and Mathematics gathers researchers calling for concrete action on the impact of AI on mathematical research. The document discusses concerns about reliability, attribution, and ethical use of automated systems in proofs and publications. It is relevant to academics and to companies depending on automated mathematical results.",
-    "score": 0.5,
-    "tags": [
-      "academia",
-      "regulação",
-      "pesquisa"
-    ],
-    "img": "img/f9a22c631d73.jpg",
-    "ts": 1787354457,
-    "addedTs": 1787359340,
-    "urlHash": "f9a22c631d73",
-    "titleHash": "6ce398b6e3d6"
-  },
-  {
-    "title": "Replacing 223-node agent graph with a single OSS LLM",
-    "titlePt": "Substituem grafo de agentes com 223 nós por um único LLM open source",
-    "url": "https://www.netic.ai/blog/replacing-node-agent-graph-with-open-source-llm",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um time relatou no Hacker News que substituiu um sistema complexo de agentes com 223 nós por um único modelo de linguagem open source e obteve resultados melhores. O caso mostra que arquiteturas exageradas de múltiplos agentes podem ser desnecessárias para certos problemas. É leitura obrigatória para arquitetos de software e engenheiros que avaliam quando usar agentes versus um bom modelo único.",
-    "reasonEn": "A team reported on Hacker News that they replaced a complex 223-node agent system with a single open-source language model and got better results. The case shows that overly complex multi-agent architectures can be unnecessary for certain problems. It is must-reading for software architects and engineers deciding when to use agents versus a strong single model.",
-    "score": 0.8,
-    "tags": [
-      "agentes",
-      "arquitetura",
-      "oss"
-    ],
-    "img": "img/5e2f8698f098.jpg",
-    "ts": 1787353852,
-    "addedTs": 1787359340,
-    "urlHash": "5e2f8698f098",
-    "titleHash": "66409d86bb7d"
-  },
-  {
-    "title": "Anthropic’s Opus 4.6 is a smut-machine",
-    "titlePt": "Opus 4.6 da Anthropic gera conteúdo sexual, diz TechCrunch",
-    "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "Reportagem da TechCrunch afirma que o modelo Opus 4.6 da Anthropic gera conteúdo sexual explícito com facilidade, batizando-o de máquina de smut. O texto levanta preocupações sobre os limites de segurança, moderação e responsabilidade de grandes modelos de linguagem. A notícia afeta usuários, desenvolvedores que usam a API e reguladores atentos à segurança em IA.",
-    "reasonEn": "A TechCrunch report claims Anthropic's Opus 4.6 model easily generates explicit sexual content, calling it a smut-machine. The piece raises concerns about safety limits, moderation, and accountability in large language models. The story affects users, developers using the API, and regulators focused on AI safety.",
-    "score": 0.7,
-    "tags": [
-      "anthropic",
-      "segurança",
-      "modelo"
-    ],
-    "img": "img/393f1149ee17.jpg",
-    "ts": 1787353645,
-    "addedTs": 1787359340,
-    "urlHash": "393f1149ee17",
-    "titleHash": "8f37884e7d36"
-  },
-  {
-    "title": "Chrome adopts what may be the best protection yet against account takeovers",
-    "titlePt": "Chrome adota o que pode ser a melhor proteção contra invasões de contas",
-    "url": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
-    "source": "Ars Technica",
-    "sources": [
-      "Ars Technica"
-    ],
-    "reason": "O navegador Chrome passou a usar um novo mecanismo que dificulta bastante o sequestro de contas por invasores. A proteção combina sinais do dispositivo, do comportamento e da conta para bloquear acessos suspeitos em tempo real. O recurso afeta qualquer pessoa que usa Chrome, especialmente em ataques de phishing e vazamento de senhas. Vale a pena ativar e revisar as configurações de segurança.",
-    "reasonEn": "The Chrome browser has rolled out a new mechanism that significantly hinders account takeovers by attackers. The protection combines device, behavior and account signals to block suspicious access in real time. The feature affects anyone using Chrome, especially against phishing and password leak attacks. It is worth turning on and reviewing security settings.",
-    "score": 0.75,
-    "tags": [
-      "segurança",
-      "chrome",
-      "contas"
-    ],
-    "img": "img/dae85365821a.jpg",
-    "ts": 1786481992,
-    "addedTs": 1787359340,
-    "urlHash": "dae85365821a",
-    "titleHash": "21f8642c952d"
   }
 ]
