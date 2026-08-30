@@ -1,5 +1,111 @@
 [
   {
+    "title": "OpenAI acquires Mac Minis, Mac Studios for AI training",
+    "titlePt": "OpenAI compra Macs Mini e Studio para treinar IA",
+    "url": "https://cryptobriefing.com/openai-acquires-thousands-of-mac-minis-mac-studios-for-ai-training-the/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A OpenAI está adquirindo milhares de Macs Mini e Mac Studio da Apple para usar como infraestrutura de treinamento de modelos. A escolha chama atenção porque mostra que mesmo gigantes da IA recorrem a hardware de consumo quando precisam escalar rápido. Para desenvolvedores, isso indica demanda forte por essas máquinas e possíveis gargalos de estoque. É uma movimentação relevante do ponto de vista de infraestrutura.",
+    "reasonEn": "OpenAI is acquiring thousands of Apple Mac Mini and Mac Studio units to use as AI training infrastructure. The choice stands out because it shows that even AI giants turn to consumer hardware when they need to scale fast. For developers, this signals strong demand for these machines and possible supply bottlenecks. It's a relevant infrastructure move worth knowing about.",
+    "score": 0.7,
+    "tags": [
+      "openai",
+      "infraestrutura",
+      "apple"
+    ],
+    "img": "img/b82470da9351.jpg",
+    "ts": 1788126500,
+    "addedTs": 1788128084,
+    "urlHash": "b82470da9351",
+    "titleHash": "2b3624582305"
+  },
+  {
+    "title": "Debian community allows contributors to use AI",
+    "titlePt": "Comunidade Debian libera uso de IA por contribuidores",
+    "url": "https://www.theregister.com/ai-and-ml/2026/08/30/debian-votes-to-let-contributors-code-with-ai/5293421",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A comunidade do Debian decidiu formalizar regras permitindo que contribuidores usem ferramentas de IA em partes do trabalho do projeto. A medida busca equilibrar produtividade com responsabilidade sobre o código gerado. Para desenvolvedores open source, isso abre precedente importante sobre como projetos grandes lidam com IA. Ainda há dúvidas sobre limites práticos e revisão humana.",
+    "reasonEn": "The Debian community formalized rules allowing contributors to use AI tools in parts of the project's work. The move aims to balance productivity with responsibility over generated code. For open source developers, this sets an important precedent on how large projects handle AI. Practical limits and human review remain open questions.",
+    "score": 0.55,
+    "tags": [
+      "open-source",
+      "política"
+    ],
+    "img": "img/ba15b64c9539.jpg",
+    "ts": 1788124457,
+    "addedTs": 1788128084,
+    "urlHash": "ba15b64c9539",
+    "titleHash": "eb562a4b8693"
+  },
+  {
+    "title": "Continuous Diffusion Language Models (CDLM's)",
+    "titlePt": "Modelos de linguagem por difusão contínua (CDLM)",
+    "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O trabalho apresenta CDLMs, uma abordagem que combina difusão com modelagem de linguagem para gerar texto de forma diferente dos transformers tradicionais. A promessa é potencialmente mais velocidade e controle sobre a geração. Para engenheiros de ML, é um artigo técnico interessante, mas ainda distante de aplicação prática imediata. Vale acompanhar como linha de pesquisa.",
+    "reasonEn": "The paper introduces CDLMs, an approach combining diffusion with language modeling to generate text differently from traditional transformers. The promise is potentially faster generation and finer control. For ML engineers it's an interesting technical read, but still far from immediate practical use. Worth tracking as a research direction.",
+    "score": 0.5,
+    "tags": [
+      "pesquisa",
+      "modelo"
+    ],
+    "img": "img/109065e30fac.jpg",
+    "ts": 1788122813,
+    "addedTs": 1788128084,
+    "urlHash": "109065e30fac",
+    "titleHash": "65e6805f862c"
+  },
+  {
+    "title": "The XGBoost Vector-Leaf Model",
+    "titlePt": "O modelo XGBoost com folhas vetoriais",
+    "url": "https://xgboost.ai/2026/08/25/introducing-the-xgboost-vector-leaf-model",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo propõe uma modificação no XGBoost usando vetores nas folhas em vez de escalares, o que pode melhorar expressividade sem grande custo computacional. Para quem usa gradient boosting em produção, é uma otimização concreta a testar. O impacto depende do tipo de dado, mas é leitura curta e prática. Pode interessar a equipes de dados que já dependem de XGBoost.",
+    "reasonEn": "The paper proposes modifying XGBoost to use vectors in leaves instead of scalars, potentially improving expressiveness without major compute cost. For teams using gradient boosting in production, this is a concrete optimization to try. Impact depends on the data, but it's a short, practical read. Relevant for data teams already relying on XGBoost.",
+    "score": 0.5,
+    "tags": [
+      "ml",
+      "pesquisa"
+    ],
+    "img": "img/fd4e4e7e21af.jpg",
+    "ts": 1788120198,
+    "addedTs": 1788128084,
+    "urlHash": "fd4e4e7e21af",
+    "titleHash": "e2cb3d99f63e"
+  },
+  {
+    "title": "We tested how AI chatbots would handle foreign propaganda",
+    "titlePt": "Testamos como chatbots de IA reagem à propaganda estrangeira",
+    "url": "https://www.npr.org/2026/08/30/nx-s1-5876436/chatbots-search-propaganda",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O estudo submeteu grandes chatbots a simulações de propaganda estrangeira para ver se eles amplificam, neutralizam ou falham em detectar tentativas de manipulação. Os resultados mostram vulnerabilidades reais em todos os modelos testados. Para qualquer pessoa que use IA como fonte de informação, é alerta importante sobre confiança cega. Mostra que a moderação ainda tem lacunas sérias.",
+    "reasonEn": "The study put major chatbots through foreign propaganda simulations to see whether they amplify, neutralize, or fail to detect manipulation attempts. The results show real vulnerabilities across all tested models. For anyone using AI as an information source, it's a warning against blind trust. It shows moderation still has serious gaps.",
+    "score": 0.55,
+    "tags": [
+      "segurança",
+      "estudo"
+    ],
+    "img": "img/fa3182fce451.jpg",
+    "ts": 1788117158,
+    "addedTs": 1788128084,
+    "urlHash": "fa3182fce451",
+    "titleHash": "3ff68ede35eb"
+  },
+  {
     "title": "Show HN: Cogram Studio – CAD and BIM workspace for humans and agents",
     "titlePt": "Cogram Studio: espaço de CAD e BIM para humanos e agentes",
     "url": "https://studio.cogram.com/",
@@ -9321,27 +9427,5 @@
     "addedTs": 1787532233,
     "urlHash": "fa5da6284439",
     "titleHash": "975ba19ac441"
-  },
-  {
-    "title": "Woe Is Em: The Sad Lifecycle of an AI Tell",
-    "titlePt": "A triste vida do travessão usado por IAs",
-    "url": "https://stevekrause.org/blog/2026/08/woe-is-em-the-sad-lifecycle-of-an-ai-tell/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Uma análise técnica mostra que o travessão (em-dash) virou uma espécie de marca registrada de textos gerados por inteligência artificial, repetido por todos os modelos atuais. O artigo explica como esse padrão aparece em diferentes modelos e por que é tão difícil eliminá-lo durante o treinamento. O tema é relevante para editores, professores e qualquer pessoa que precise distinguir texto humano de texto de máquina. Mostra também como os modelos de IA compartilham vieses estilísticos sutis.",
-    "reasonEn": "A technical analysis shows that the em-dash has become a kind of signature of AI-generated text, repeated across current models. The article explains how this pattern emerges across models and why it is hard to remove during training. The topic is relevant for editors, teachers, and anyone who needs to distinguish human from machine text. It also shows how AI models share subtle stylistic biases.",
-    "score": 0.6,
-    "tags": [
-      "escrita",
-      "ia",
-      "estilo"
-    ],
-    "img": "img/2903bb0c87c3.jpg",
-    "ts": 1787496816,
-    "addedTs": 1787515929,
-    "urlHash": "2903bb0c87c3",
-    "titleHash": "0bd2297e3167"
   }
 ]
