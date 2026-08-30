@@ -1,5 +1,222 @@
 [
   {
+    "title": "Show HN: Cogram Studio – CAD and BIM workspace for humans and agents",
+    "titlePt": "Cogram Studio: espaço de CAD e BIM para humanos e agentes",
+    "url": "https://studio.cogram.com/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um projeto Show HN apresenta o Cogram Studio, um ambiente de trabalho de CAD e BIM projetado para uso tanto por humanos quanto por agentes de IA. A ferramenta tenta preencher a lacuna entre projetos de engenharia tradicionais e fluxos de trabalho automatizados. Arquitetos, engenheiros e desenvolvedores que constroem ferramentas de projeto podem se beneficiar com a integração entre IA e software técnico. Ainda é um projeto inicial, mas indica uma tendência de agentes atuando em ferramentas profissionais pesadas.",
+    "reasonEn": "A Show HN project introduces Cogram Studio, a CAD and BIM workspace designed for use by both humans and AI agents. The tool attempts to bridge the gap between traditional engineering projects and automated workflows. Architects, engineers, and developers building design tools may benefit from this AI integration with heavy professional software. It is still an early-stage project, but signals a trend of agents operating within professional tooling.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "ferramentas",
+      "engenharia"
+    ],
+    "img": "img/43d1a7f7155e.jpg",
+    "ts": 1788115779,
+    "addedTs": 1788116194,
+    "urlHash": "43d1a7f7155e",
+    "titleHash": "4734af644bfd"
+  },
+  {
+    "title": "Experiments with AI – Structure of Third Party Agentic Apps",
+    "titlePt": "Experimentos com IA: estrutura de apps agênticos de terceiros",
+    "url": "https://karankurani.com/writing/post/w_20260722063839_af741a/experiments-with-ai-structure-of-third-party-agentic-apps/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um pesquisador publica uma análise sobre a estrutura interna de aplicações agênticas desenvolvidas por terceiros. O estudo ajuda a entender padrões de arquitetura usados por times que criam agentes autônomos. Desenvolvedores e arquitetos de software podem usar os resultados para comparar suas próprias decisões de design. É leitura útil para quem trabalha com IA aplicada a produtos reais.",
+    "reasonEn": "A researcher publishes an analysis of the internal structure of third-party agentic applications. The study helps understand architectural patterns used by teams building autonomous agents. Software developers and architects can use the findings to compare their own design decisions. It is useful reading for those working with AI applied to real products.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "arquitetura",
+      "pesquisa"
+    ],
+    "img": "img/06291568402c.jpg",
+    "ts": 1788114116,
+    "addedTs": 1788116194,
+    "urlHash": "06291568402c",
+    "titleHash": "cef05eea602d"
+  },
+  {
+    "title": "Superhuman AI coding still makes software worse",
+    "titlePt": "Codificação sobre-humana com IA ainda piora o software",
+    "url": "https://www.williamangel.net/blog/2026/08/29/superhuman-AI-coding-still-makes-software-worse.html",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um texto argumenta que, mesmo quando desenvolvedores são muito habilidosos, usar IA para programar pode resultar em software pior a longo prazo. A discussão aborda problemas como acumulação de débitos técnicos e perda de compreensão do código. É leitura importante para líderes de engenharia e desenvolvedores que estão integrando IA em seus fluxos. O argumento é uma contraponto útil ao hype atual.",
+    "reasonEn": "An article argues that even when developers are highly skilled, using AI to code can result in worse software in the long run. The discussion addresses issues like accumulating technical debt and losing code comprehension. It is important reading for engineering leaders and developers integrating AI into their workflows. The argument is a useful counterpoint to current hype.",
+    "score": 0.7,
+    "tags": [
+      "desenvolvimento",
+      "qualidade",
+      "ia-código"
+    ],
+    "img": "img/fcf73cf19f09.jpg",
+    "ts": 1788110924,
+    "addedTs": 1788116194,
+    "urlHash": "fcf73cf19f09",
+    "titleHash": "04094b91883c"
+  },
+  {
+    "title": "Semantic invariance testing for AI (Contradish)",
+    "titlePt": "Teste de invariância semântica para IA pela Contradish",
+    "url": "https://contradish.com/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Contradish apresentou uma abordagem de testes chamada invariância semântica, voltada para validar sistemas de IA. A ideia é verificar se o modelo mantém respostas consistentes quando a entrada muda de forma irrelevante. É relevante para engenheiros de ML e equipes que precisam garantir confiabilidade de LLMs. A ferramenta é de código aberto e pode ser integrada a pipelines de CI.",
+    "reasonEn": "Contradish presented a testing approach called semantic invariance, aimed at validating AI systems. The idea is to check whether the model maintains consistent responses when the input changes in irrelevant ways. It is relevant for ML engineers and teams that need to ensure LLM reliability. The tool is open source and can be integrated into CI pipelines.",
+    "score": 0.5,
+    "tags": [
+      "testes",
+      "ml",
+      "qualidade"
+    ],
+    "img": "img/ccc2dc674b3b.jpg",
+    "ts": 1788109480,
+    "addedTs": 1788116194,
+    "urlHash": "ccc2dc674b3b",
+    "titleHash": "82fad3e5c864"
+  },
+  {
+    "title": "Show HN: Simurg open-source web search for AI agents that aborts hallucinations",
+    "titlePt": "Simurg: busca web open source para agentes de IA que corta alucinações",
+    "url": "https://github.com/doofzoff/SIMURG",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Simurg é um mecanismo de busca web de código aberto criado para agentes de IA, com foco em reduzir alucinações. O projeto promete oferecer resultados verificáveis que agentes podem usar com mais confiança. Desenvolvedores que constroem agentes autônomos podem se beneficiar, já que alucinações são um problema persistente. É lançamento relevante para o ecossistema de agentes.",
+    "reasonEn": "Simurg is an open-source web search engine built for AI agents, focused on reducing hallucinations. The project promises verifiable results that agents can use more confidently. Developers building autonomous agents may benefit, since hallucinations are a persistent problem. It is a relevant launch for the agent ecosystem.",
+    "score": 0.7,
+    "tags": [
+      "agentes",
+      "open-source",
+      "alucinação"
+    ],
+    "img": "img/13688744e952.jpg",
+    "ts": 1788109443,
+    "addedTs": 1788116194,
+    "urlHash": "13688744e952",
+    "titleHash": "4f9b3862ed14"
+  },
+  {
+    "title": "Creation, validation, obsolescence: AI-driven labor market displacement",
+    "titlePt": "Criação, validação, obsolescência: deslocamento do mercado de trabalho por IA",
+    "url": "https://www.frontiersin.org/journals/human-dynamics/articles/10.3389/fhumd.2026.1815037/full",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo discute como a IA está reorganizando o mercado de trabalho em três fases: criação de novas funções, validação do trabalho humano e obsolescência de certas habilidades. A análise combina dados e tendências para projetar impactos sociais. É leitura relevante para profissionais que planejam suas carreiras em meio à automação. Gestores e líderes de RH também podem usar o conteúdo para planejamento.",
+    "reasonEn": "The article discusses how AI is reorganizing the job market in three phases: creation of new roles, validation of human work, and obsolescence of certain skills. The analysis combines data and trends to project social impacts. It is relevant reading for professionals planning their careers amid automation. Managers and HR leaders can also use the content for planning.",
+    "score": 0.6,
+    "tags": [
+      "mercado-de-trabalho",
+      "sociedade"
+    ],
+    "img": "img/9803f2cbb950.jpg",
+    "ts": 1788109254,
+    "addedTs": 1788116194,
+    "urlHash": "9803f2cbb950",
+    "titleHash": "6e8c25b31e77"
+  },
+  {
+    "title": "Fears of AI-induced armageddon are overdone",
+    "titlePt": "Medos de armageddon induzido por IA são exagerados",
+    "url": "https://www.economist.com/by-invitation/2026/08/23/fears-of-ai-induced-armageddon-are-overdone",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto argumenta que os cenários catastróficos sobre IA frequentemente divulgados são exagerados e carecem de base técnica. O autor defende uma visão mais equilibrada sobre riscos reais e hipotéticos. É leitura útil para quem está cansado do alarmismo e quer uma perspectiva. Importante para líderes que precisam tomar decisões sem pânico.",
+    "reasonEn": "The article argues that catastrophic scenarios about AI frequently circulated are exaggerated and lack technical grounding. The author defends a more balanced view of real and hypothetical risks. It is useful reading for those tired of alarmism and wanting a calm perspective. Important for leaders who must make decisions without panic.",
+    "score": 0.5,
+    "tags": [
+      "segurança",
+      "opinião"
+    ],
+    "img": "img/74fd4f2e6119.jpg",
+    "ts": 1788108097,
+    "addedTs": 1788116194,
+    "urlHash": "74fd4f2e6119",
+    "titleHash": "62ad1aa9ca0b"
+  },
+  {
+    "title": "Show HN: Claude Skills Starter Kit – 198 modular skills for AI agents",
+    "titlePt": "Kit inicial de Claude Skills: 198 habilidades modulares para agentes",
+    "url": "https://github.com/yevhens-hue/claude-skills-starter-kit",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um projeto Show HN oferece um kit com 198 habilidades modulares para agentes que usam Claude. O pacote facilita a construção de agentes com capacidades prontas para uso, evitando retrabalho. É voltado para desenvolvedores que trabalham com Claude e querem acelerar a prototipagem. A iniciativa mostra o amadurecimento do ecossistema de agentes baseados em LLM.",
+    "reasonEn": "A Show HN project offers a starter kit with 198 modular skills for agents using Claude. The package makes it easier to build agents with ready-to-use capabilities, avoiding rework. It targets developers working with Claude who want to accelerate prototyping. The initiative shows the maturation of the LLM-based agent ecosystem.",
+    "score": 0.6,
+    "tags": [
+      "claude",
+      "agentes",
+      "kit"
+    ],
+    "img": "img/2524d549aef1.jpg",
+    "ts": 1788107984,
+    "addedTs": 1788116194,
+    "urlHash": "2524d549aef1",
+    "titleHash": "b0f4aea30042"
+  },
+  {
+    "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+    "titlePt": "Caterpillar leva à IA lições aprendidas automatizando a mineração",
+    "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A Caterpillar anunciou que está aplicando à implantação de IA a experiência acumulada automatizando operações de mineração. A empresa vê paralelos entre os dois processos de transformação operacional. É um caso relevante de adoção corporativa de IA em ambiente industrial. Líderes de transformação digital podem se inspirar no caso.",
+    "reasonEn": "Caterpillar announced it is applying its accumulated experience in automating mining operations to AI deployment. The company sees parallels between the two operational transformation processes. It is a relevant case of corporate AI adoption in an industrial environment. Digital transformation leaders can draw inspiration from the case.",
+    "score": 0.5,
+    "tags": [
+      "indústria",
+      "automação"
+    ],
+    "img": "img/80d0eae02fda.jpg",
+    "ts": 1788102000,
+    "addedTs": 1788116194,
+    "urlHash": "80d0eae02fda",
+    "titleHash": "19d3439f0783"
+  },
+  {
+    "title": "Terabytes of credentials leaked in massive supply-chain attack",
+    "titlePt": "Terabytes de credenciais vazam em mega ataque à cadeia de suprimentos",
+    "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+    "source": "Ars Technica",
+    "sources": [
+      "Ars Technica"
+    ],
+    "reason": "Um ataque massivo à cadeia de suprimentos expôs terabytes de credenciais, atingindo desenvolvedores e empresas que dependem de pacotes de software. O vazamento inclui tokens, senhas e chaves de API, permitindo invasores acessarem sistemas internos sem detecção. O incidente lembra a urgência de auditar dependências, rotacionar segredos e monitorar anomalias em pipelines de CI/CD. Qualquer equipe que instala pacotes de terceiros precisa revisar imediatamente suas práticas de segurança.",
+    "reasonEn": "A massive supply-chain attack leaked terabytes of credentials, hitting developers and companies that depend on software packages. The leak includes tokens, passwords, and API keys, letting attackers access internal systems undetected. The incident highlights the urgency of auditing dependencies, rotating secrets, and monitoring anomalies in CI/CD pipelines. Any team installing third-party packages needs to review their security practices right away.",
+    "score": 0.85,
+    "tags": [
+      "segurança",
+      "supply-chain",
+      "vazamento"
+    ],
+    "img": "img/50a8f76b8fcc.jpg",
+    "ts": 1786571001,
+    "addedTs": 1788116194,
+    "urlHash": "50a8f76b8fcc",
+    "titleHash": "bbb82acdc987"
+  },
+  {
     "title": "Show HN: Open SAR-COP – AI-generated common operating picture for disasters",
     "titlePt": "Open SAR-COP: imagem operacional gerada por IA para desastres",
     "url": "https://open-sar-cop.github.io",
@@ -9126,201 +9343,5 @@
     "addedTs": 1787515929,
     "urlHash": "2903bb0c87c3",
     "titleHash": "0bd2297e3167"
-  },
-  {
-    "title": "Show HN: Writing-eval, local deterministic style checks for AI-written drafts",
-    "titlePt": "Writing-eval: checagens locais de estilo para textos de IA",
-    "url": "https://github.com/majesticlabs-dev/writing-eval",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Uma ferramenta local e determinística para detectar traços de IA em rascunhos. Roda sem precisar enviar dados para a nuvem, preservando privacidade. Pode ser integrada a fluxos de revisão para garantir qualidade. Boa opção para equipes de conteúdo preocupadas com originalidade.",
-    "reasonEn": "A local, deterministic tool to flag AI tells in drafts. It runs without sending data to the cloud, preserving privacy. Can plug into review workflows to enforce quality. A solid option for content teams worried about originality.",
-    "score": 0.5,
-    "tags": [
-      "ia",
-      "ferramenta",
-      "escrita"
-    ],
-    "img": "img/3be1728906d7.jpg",
-    "ts": 1787495476,
-    "addedTs": 1787508974,
-    "urlHash": "3be1728906d7",
-    "titleHash": "b415998363c2"
-  },
-  {
-    "title": "Terabytes of credentials leaked in massive supply-chain attack",
-    "titlePt": "Terabytes de credenciais vazam em mega ataque à cadeia de suprimentos",
-    "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
-    "source": "Ars Technica",
-    "sources": [
-      "Ars Technica"
-    ],
-    "reason": "Um ataque à cadeia de suprimentos expôs terabytes de credenciais, afetando serviços. Vazamentos desse tamanho costumam alimentar credential stuffing e invasões em massa. Desenvolvedores e times de segurança precisam rotacionar segredos e revisar dependências imediatamente. É uma das maiores notícias de segurança do ciclo.",
-    "reasonEn": "A supply-chain attack exposed terabytes of credentials, hitting countless services. Leaks of this scale typically fuel credential stuffing and mass intrusions. Developers and security teams must rotate secrets and audit dependencies right now. It is one of the biggest security stories of the cycle.",
-    "score": 0.7,
-    "tags": [
-      "segurança",
-      "vazamento"
-    ],
-    "img": "img/50a8f76b8fcc.jpg",
-    "ts": 1786571001,
-    "addedTs": 1787508974,
-    "urlHash": "50a8f76b8fcc",
-    "titleHash": "bbb82acdc987"
-  },
-  {
-    "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
-    "titlePt": "Entendemos melhor como a OpenAI invadiu o Hugging Face",
-    "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
-    "source": "Ars Technica",
-    "sources": [
-      "Ars Technica"
-    ],
-    "reason": "Análise técnica revela como a OpenAI acessou sistemas internos do Hugging Face, possivelmente para espionagem competitiva. Levanta questões sérias sobre confiança entre laboratórios de IA. Pode influenciar como empresas lidam com segredos de modelos e arquitetura interna. Desenvolvedores devem repensar o que compartilham em plataformas públicas de IA.",
-    "reasonEn": "Technical analysis reveals how OpenAI accessed internal Hugging Face systems, likely for competitive intelligence. It raises serious questions about trust between AI labs. Could change how firms handle model and architecture secrets. Developers should rethink what they share on public AI platforms.",
-    "score": 0.65,
-    "tags": [
-      "segurança",
-      "openai",
-      "hugging-face"
-    ],
-    "img": "img/4a4d812ef5a7.jpg",
-    "ts": 1785274599,
-    "addedTs": 1787508974,
-    "urlHash": "4a4d812ef5a7",
-    "titleHash": "bf9ebc27f19f"
-  },
-  {
-    "title": "Flock camera backlash adds fuel to midterm anti-AI frenzy",
-    "titlePt": "Câmeras Flock viram alvo da revolta contra a IA nas eleições",
-    "url": "https://www.axios.com/2026/08/23/flock-cameras-data-centers-ai-midterms-2026-tech",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "As câmeras de vigilância Flock, que usam reconhecimento por IA, estão no centro de uma nova onda de críticas políticas antes das eleições de meio de mandato nos EUA. Moradores e legisladores acusam a empresa de vigilância em massa disfarçada. O caso pode virar precedente para regular câmeras inteligentes em cidades. Afeta diretamente empresas de segurança, prefeituras e qualquer pessoa filmada em espaços público.",
-    "reasonEn": "Flock AI-powered surveillance cameras are now at the center of a political backlash ahead of the US midterms. Residents and lawmakers accuse the company of running mass surveillance under the radar. The case could set a precedent for regulating smart cameras in cities. It hits security firms, local governments, and anyone captured in public spaces.",
-    "score": 0.65,
-    "tags": [
-      "regulação",
-      "privacidade",
-      "surveillance"
-    ],
-    "img": "img/227f01cb94e0.jpg",
-    "ts": 1787497397,
-    "addedTs": 1787501682,
-    "urlHash": "227f01cb94e0",
-    "titleHash": "ee2f86fa5995"
-  },
-  {
-    "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
-    "titlePt": "É legal treinar IA em livros protegidos por direitos autorais? A resposta é complicada",
-    "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "O TechCrunch analisa o cenário jurídico do uso de livros protegidos para treinar modelos de IA. A questão mistura decisões judiciais recentes, contratos e interpretações divergentes entre países. Editoras e autores pedem indenização, enquanto empresas de IA defendem uso justo. O desfecho pode mudar o que se pode usar como dado de treinamento e o preço final dos modelos.",
-    "reasonEn": "TechCrunch breaks down the legal mess of training AI on copyrighted books. The story weaves in recent court rulings, contracts, and conflicting international interpretations. Publishers and authors are demanding compensation, while AI firms lean on fair use. The outcome will shape what counts as training data and how much models end up costing.",
-    "score": 0.85,
-    "tags": [
-      "regulação",
-      "direitos autorais",
-      "modelo"
-    ],
-    "img": "img/736c2f98ab12.jpg",
-    "ts": 1787497200,
-    "addedTs": 1787501682,
-    "urlHash": "736c2f98ab12",
-    "titleHash": "aee9d03e497f"
-  },
-  {
-    "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-    "titlePt": "Quatro modelos de IA foram usados para desbloquear um tablet: GLM-5.3 venceu em um dia",
-    "url": "https://ericpardee.github.io/fire-hd-ownership/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um pesquisador gastou 266 dólares e testou quatro modelos de IA, incluindo o chinês GLM-5.3, para conseguir controle total sobre um tablet. O GLM-5.3 terminou o trabalho em apenas um dia, mostrando a velocidade da IA chinesa em tarefas de exploração. O experimento levanta alerta sobre o uso de modelos públicos em ataques cibernéticos. Afeta fabricantes de dispositivos, equipes de segurança e reguladores.",
-    "reasonEn": "A researcher spent $266 and ran four AI models, including China's GLM-5.3, to fully own a tablet. GLM-5.3 finished the job in a single day, highlighting how fast Chinese models can be at exploitation work. The experiment sounds an alarm about public models being weaponized for cyberattacks. Device makers, security teams, and regulators should pay attention.",
-    "score": 0.55,
-    "tags": [
-      "segurança",
-      "modelo",
-      "china"
-    ],
-    "img": "img/217d546d8e6d.jpg",
-    "ts": 1787494989,
-    "addedTs": 1787501682,
-    "urlHash": "217d546d8e6d",
-    "titleHash": "152251c0935f"
-  },
-  {
-    "title": "OpenAI leader warns of threat of 'persistent' AI cyber-attacks",
-    "titlePt": "Líder da OpenAI alerta para ameaça de ataques cibernéticos persistentes feitos por IA",
-    "url": "https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um alto executivo da OpenAI afirmou que ataques cibernéticos movidos por IA estão ficando persistentes e mais difíceis de detectar. O alerta fala em campanhas longas, automatizadas e adaptativas, capazes de driblar defesas tradicionais. A mensagem é um chamado de atenção para empresas e governos investirem em defesas baseadas em IA. Quem opera infraestrutura crítica precisa revisar planos de resposta.",
-    "reasonEn": "A senior OpenAI leader warned that AI-driven cyberattacks are becoming persistent and much harder to spot. The alert describes long, automated, adaptive campaigns that can slip past traditional defenses. The message is a clear call for companies and governments to invest in AI-based defenses. Anyone running critical infrastructure should revisit incident response plans.",
-    "score": 0.8,
-    "tags": [
-      "segurança",
-      "openai",
-      "alerta"
-    ],
-    "img": "img/2e4bce29fb19.jpg",
-    "ts": 1787494607,
-    "addedTs": 1787501682,
-    "urlHash": "2e4bce29fb19",
-    "titleHash": "968e00dd9189"
-  },
-  {
-    "title": "Ask HN: Will AI trigger mass IP protectionism in software?",
-    "titlePt": "A IA vai provocar um protecionismo massivo de propriedade intelectual no software?",
-    "url": "https://news.ycombinator.com/item?id=49408691",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um tópico no Ask HN discute se a IA generativa vai acelerar uma corrida global por leis mais duras de propriedade intelectual em software. Os participantes citam exemplos de países reagindo a código gerado por IA com novas restrições. A conversa ainda é especulativa, mas mostra preocupação real de desenvolvedores e empresas. Vale acompanhar porque pode moldar o futuro do código aberto.",
-    "reasonEn": "An Ask HN thread debates whether generative AI will trigger a global wave of stricter software IP laws. Participants share examples of countries already tightening rules on AI-generated code. The talk is speculative, but the anxiety among developers and firms is real. Worth following because it could reshape the open-source landscape.",
-    "score": 0.5,
-    "tags": [
-      "regulação",
-      "código aberto"
-    ],
-    "img": "img/bb202a61cc7b.jpg",
-    "ts": 1787491499,
-    "addedTs": 1787501682,
-    "urlHash": "bb202a61cc7b",
-    "titleHash": "0cdc8f19518b"
-  },
-  {
-    "title": "5 ways AI Mode in Search helps you enjoy the real world",
-    "titlePt": "Cinco formas como o AI Mode do Google Search aproxima você do mundo real",
-    "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-    "source": "Google AI",
-    "sources": [
-      "Google AI"
-    ],
-    "reason": "O Google detalhou cinco recursos do AI Mode no Search pensados para ajudar usuários a agir no mundo físico, como planejar viagens e decidir compras locais. A aposta é transformar a busca num assistente que resolve tarefas, e não só entrega links. Para usuários comuns e empresas, isso muda a forma de aparecer nos resultados. É uma mudança estratégica relevante para SEO e marketing digital.",
-    "reasonEn": "Google outlined five AI Mode features in Search meant to help users act in the real world, from trip planning to local purchase choices. The bet is to turn search into a task-completing assistant, not just a link list. For everyday users and businesses, it changes how to surface in results. A strategic shift with SEO and digital marketing impact.",
-    "score": 0.55,
-    "tags": [
-      "google",
-      "busca",
-      "lançamento"
-    ],
-    "img": "img/dc323d8334b7.jpg",
-    "ts": 1785243600,
-    "addedTs": 1787501682,
-    "urlHash": "dc323d8334b7",
-    "titleHash": "a7db83a2df3e"
   }
 ]
