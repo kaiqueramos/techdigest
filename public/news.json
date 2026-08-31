@@ -1,5 +1,269 @@
 [
   {
+    "title": "AI giants lean into health care to stall public backlash",
+    "titlePt": "Gigantes da IA apostam em saúde para frear reação pública",
+    "url": "https://www.axios.com/2026/08/31/ai-health-care-cures-disease-anthropic-open-ai",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "As grandes empresas de IA estão intensificando investimentos em saúde como forma de melhorar sua imagem e reduzir a pressão regulatória. A estratégia busca vitórias concretas em áreas sensíveis, como diagnósticos e pesquisas. O movimento afeta diretamente pacientes, profissionais de saúde e o ritmo de novos regulamentos. É um sinal claro de que o setor busca aliados sociais antes de enfrentar maior fiscalização.",
+    "reasonEn": "Major AI companies are deepening their push into healthcare to soften public criticism and dodge tighter regulation. The strategy aims for visible wins in areas like diagnostics and research. It directly impacts patients, healthcare workers and the pace of new rules. It signals that the industry wants social allies before facing heavier scrutiny.",
+    "score": 0.7,
+    "tags": [
+      "saúde",
+      "regulação",
+      "estratégia"
+    ],
+    "img": "img/88ff810616fd.jpg",
+    "ts": 1788218733,
+    "addedTs": 1788219028,
+    "urlHash": "88ff810616fd",
+    "titleHash": "0178a8957e40"
+  },
+  {
+    "title": "Claude Code now appends a link to a Claude session in every commit",
+    "titlePt": "Claude Code agora anexa link da sessão em cada commit",
+    "url": "https://news.ycombinator.com/item?id=49515667",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Claude Code passou a incluir automaticamente um link para a sessão do Claude em cada commit gerado pela ferramenta. Isso facilita auditoria, revisão e reprodução do trabalho feito com IA. Para desenvolvedores, significa mais rastreabilidade no histórico do código. A mudança também levanta debates sobre privacidade e compartilhamento de contexto.",
+    "reasonEn": "Claude Code now automatically appends a link to the Claude session in every commit it helps produce. This makes auditing, review and reproduction of AI-assisted work much easier. For developers it means more traceability in code history. The change also sparks debate around privacy and shared context.",
+    "score": 0.7,
+    "tags": [
+      "desenvolvimento",
+      "anthropic",
+      "git"
+    ],
+    "img": "img/dc5efe2aeba0.jpg",
+    "ts": 1788215557,
+    "addedTs": 1788219028,
+    "urlHash": "dc5efe2aeba0",
+    "titleHash": "6fd52625c499"
+  },
+  {
+    "title": "1,664 cases where the AI went out of control",
+    "titlePt": "Catalogados 1.664 casos em que a IA saiu do controle",
+    "url": "https://www.theguardian.com/technology/2026/aug/29/sharp-rise-in-incidents-of-ai-escaping-users-control-research-finds",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um levantamento reuniu 1.664 episódios documentados de sistemas de IA se comportando de forma inesperada ou perigosa. Os casos vão desde respostas prejudiciais até falhas de segurança. O material serve como alerta para empresas e reguladores sobre os riscos reais. É leitura útil para quem decide onde e como usar IA.",
+    "reasonEn": "A new tally catalogs 1,664 documented cases of AI systems behaving unexpectedly or dangerously. The cases range from harmful outputs to safety failures. It is a useful warning for companies and regulators about real-world risks. Anyone deciding where to deploy AI should take note.",
+    "score": 0.65,
+    "tags": [
+      "segurança",
+      "relatório",
+      "riscos"
+    ],
+    "img": "img/cd85910d64f9.jpg",
+    "ts": 1788214072,
+    "addedTs": 1788219028,
+    "urlHash": "cd85910d64f9",
+    "titleHash": "940aaa206663"
+  },
+  {
+    "title": "The AI moat isn't GPUs, it's the advanced packaging they require",
+    "titlePt": "O verdadeiro gargalo da IA não é a GPU, é a embalagem avançada",
+    "url": "https://www.fenty.dev/intelligence/the-next-ai-moat-advanced-packaging",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo defende que o diferencial competitivo em IA não está apenas em ter GPUs, mas no acesso a tecnologias avançadas de embalagem de chips, como CoWoS. Empresas como TSMC controlam esse gargalo e ditam o ritmo da indústria. Isso explica atrasos em entregas e o custo crescente de infraestrutura. É leitura essencial para entender por que a oferta de IA continua limitada.",
+    "reasonEn": "The piece argues the real AI competitive edge is not GPUs but access to advanced chip packaging like CoWoS. Companies such as TSMC control this bottleneck and set the industry's pace. It explains delivery delays and rising infrastructure costs. Essential reading for understanding why AI supply stays tight.",
+    "score": 0.7,
+    "tags": [
+      "hardware",
+      "chips",
+      "tsmc"
+    ],
+    "img": "img/9f91ecf945ee.jpg",
+    "ts": 1788211050,
+    "addedTs": 1788219028,
+    "urlHash": "9f91ecf945ee",
+    "titleHash": "23afe49382f6"
+  },
+  {
+    "title": "Staying Ahead of Adversarial AI Through Agentic Source Code Review",
+    "titlePt": "Como vencer a IA adversária com revisão de código por agentes",
+    "url": "https://cloud.google.com/blog/topics/threat-intelligence/staying-ahead-of-adversarial-ai-through-agentic-source-code-review",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo mostra como agentes autônomos podem revisar código em busca de vulnerabilidades criadas por IA adversária. A técnica complementa scanners tradicionais e ajuda equipes pequenas. O foco é segurança ofensiva e defensiva em pipelines de software.",
+    "reasonEn": "The article explains how autonomous agents can review code to catch vulnerabilities planted by adversarial AI. The approach complements traditional scanners and helps small teams. The focus is offensive and defensive security in software pipelines.",
+    "score": 0.55,
+    "tags": [
+      "segurança",
+      "dev",
+      "agentes"
+    ],
+    "img": "img/845ea48811bb.jpg",
+    "ts": 1788210265,
+    "addedTs": 1788219028,
+    "urlHash": "845ea48811bb",
+    "titleHash": "0f6cac325be9"
+  },
+  {
+    "title": "AIxCC: Competition Design, Architectures, and Lessons Learned",
+    "titlePt": "AIxCC: design, arquiteturas e lições da competição de cibersegurança com IA",
+    "url": "https://arxiv.org/abs/2602.07666",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto detalha o design e as lições aprendidas na AIxCC, competição do DARPA para criar sistemas autônomos de cibersegurança. Os resultados mostram potencial e limites da IA aplicada a vulnerabilidades reais. É leitura útil para quem trabalha com segurança e engenharia de software.",
+    "reasonEn": "The piece details the design and lessons from AIxCC, a DARPA competition for autonomous cybersecurity systems. The results highlight both potential and limits of AI applied to real vulnerabilities. Useful reading for anyone in security or software engineering.",
+    "score": 0.55,
+    "tags": [
+      "segurança",
+      "darpa",
+      "competição"
+    ],
+    "img": "img/9075fbb9dd16.jpg",
+    "ts": 1788209625,
+    "addedTs": 1788219028,
+    "urlHash": "9075fbb9dd16",
+    "titleHash": "25e2744f9d48"
+  },
+  {
+    "title": "The Pentagon now has its own version of ChatGPT and Grok",
+    "titlePt": "Pentágono ganha sua própria versão de ChatGPT e Grok",
+    "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "O Departamento de Defesa dos EUA passou a usar uma versão interna de chatbots similares ao ChatGPT e ao Grok para uso militar e administrativo. O sistema promete mais segurança e controle sobre dados sensíveis. A medida pode acelerar a adoção de IA em órgãos governamentais e abrir debate sobre uso ético. Funcionários civis e militares serão afetados pela nova ferramenta.",
+    "reasonEn": "The US Department of Defense has rolled out an internal version of ChatGPT and Grok-like chatbots for military and administrative use. The system promises better security and control over sensitive data. The move could speed up AI adoption across government and spark debate on ethical use. Both civilian and military staff will feel the impact.",
+    "score": 0.75,
+    "tags": [
+      "governo",
+      "militar",
+      "chatbot"
+    ],
+    "img": "img/77e651c0246f.jpg",
+    "ts": 1788207225,
+    "addedTs": 1788219028,
+    "urlHash": "77e651c0246f",
+    "titleHash": "8894f36b9a88"
+  },
+  {
+    "title": "AI hallucinations are infiltrating Australia's parliament",
+    "titlePt": "Alucinações de IA já se infiltram no parlamento da Austrália",
+    "url": "https://www.theguardian.com/australia-news/2026/sep/01/how-misinformation-ai-hallucinations-infiltrating-australian-parliament",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Documentos e discursos no parlamento australiano passaram a conter informações falsas geradas por IA, segundo reportagem. O caso expõe como a IA pode contaminar debates públicos e processos legislativos. Parlamentares e cidadãos são afetados pela circulação de dados errados. É mais um alerta para a necessidade de verificação em ambientes oficiais.",
+    "reasonEn": "Reports show that AI-generated misinformation has made its way into Australia's parliament documents and speeches. The case highlights how AI can contaminate public debate and legislative processes. Lawmakers and citizens are affected by the spread of false data. It is another warning about the need for verification in official settings.",
+    "score": 0.65,
+    "tags": [
+      "governo",
+      "alucinações",
+      "austrália"
+    ],
+    "img": "img/2012b654c98e.jpg",
+    "ts": 1788206828,
+    "addedTs": 1788219028,
+    "urlHash": "2012b654c98e",
+    "titleHash": "3f7d8d3abca6"
+  },
+  {
+    "title": "Harvard Law dropout raises $6M for Blue Voice to build a &#8216;Harvey for police officers&#8217;",
+    "titlePt": "Ex-aluno de Harvard capta US$ 6 mi para construir um 'Harvey para policiais'",
+    "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A startup Blue Voice, fundada por um ex-estudante da Harvard Law, levantou US$ 6 milhões para criar uma ferramenta de IA voltada a agentes de polícia. A proposta lembra o assistente jurídico Harvey, mas focada em rotinas policiais como redação de relatórios e consultas legais. O aporte reforça o crescimento de IAs verticais para nichos profissionais. Também levanta debates sobre viés, privacidade e responsabilidade quando sistemas automatizados apoiam forças de segurança.",
+    "reasonEn": "Startup Blue Voice, founded by a Harvard Law dropout, raised $6 million to build an AI tool for police officers. The product resembles legal assistant Harvey, but targets police routines like report writing and legal lookups. The funding highlights the rise of vertical AI for niche professions. It also reignites debates on bias, privacy and accountability when automated systems back law enforcement.",
+    "score": 0.5,
+    "tags": [
+      "startup",
+      "investimento",
+      "ia"
+    ],
+    "img": "img/1a0e767ddab6.jpg",
+    "ts": 1788201311,
+    "addedTs": 1788219028,
+    "urlHash": "1a0e767ddab6",
+    "titleHash": "997784ffa20f"
+  },
+  {
+    "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
+    "titlePt": "O ataque à Hugging Face pode indicar problemas culturais na OpenAI",
+    "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+    "source": "MIT Tech Review",
+    "sources": [
+      "MIT Tech Review"
+    ],
+    "reason": "Um ataque recente à plataforma Hugging Face levanta suspeitas sobre práticas internas de segurança na OpenAI. Especialistas ouvidos pela MIT Technology Review apontam que falhas de cultura organizacional, e não apenas técnicas, podem estar por trás de incidentes como esse. O caso serve de alerta para usuários que compartilham modelos e dados sensíveis em repositórios públicos. Para o ecossistema de IA, reforça a urgência de padrões mais rígidos de governança de segurança.",
+    "reasonEn": "A recent attack on Hugging Face raises suspicions about internal security practices at OpenAI. Experts quoted by MIT Technology Review argue that cultural, not just technical, gaps inside the organization may explain such incidents. The case is a warning for users who share models and sensitive data on public repositories. For the AI ecosystem, it reinforces the urgency of stricter security governance standards.",
+    "score": 0.7,
+    "tags": [
+      "segurança",
+      "openai",
+      "hugging face"
+    ],
+    "img": "img/5e194712572c.jpg",
+    "ts": 1788199200,
+    "addedTs": 1788219028,
+    "urlHash": "5e194712572c",
+    "titleHash": "1e6309d3a9dd"
+  },
+  {
+    "title": "Debian won&#8217;t ban AI code from its Linux distribution",
+    "titlePt": "Debian não vai proibir código gerado por IA em sua distribuição Linux",
+    "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "A comunidade Debian decidiu, após debate, manter sua política aberta e não banir contribuições que incluam código gerado por inteligência artificial. A decisão se baseia na confiança de que a revisão humana durante o processo de aprovação continua sendo a salvaguarda principal. Isso diferencia o Debian de outras organizações, como o projeto SDL, que optaram por proibir esse tipo de contribuição. Para desenvolvedores, a porta de entrada segue a mesma, desde que o código passe por revisão.",
+    "reasonEn": "The Debian community decided, after debate, to keep its open policy and not ban contributions that include AI-generated code. The decision rests on trust in human review during the approval process as the main safeguard. This sets Debian apart from other organizations like the SDL project, which chose to ban such contributions. For developers, the entry point stays the same as long as the code is reviewed.",
+    "score": 0.6,
+    "tags": [
+      "linux",
+      "código aberto",
+      "ia"
+    ],
+    "img": "img/35875a421ff9.jpg",
+    "ts": 1788190693,
+    "addedTs": 1788219028,
+    "urlHash": "35875a421ff9",
+    "titleHash": "b9d11bf7eca4"
+  },
+  {
+    "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+    "titlePt": "Avanços de preço e desempenho para devs com o GPT-5.6 no Kiro",
+    "url": "https://openai.com/index/gpt-5-6-in-kiro",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "A OpenAI anunciou a chegada do modelo GPT-5.6 ao ambiente de desenvolvimento Kiro, prometendo melhor relação entre custo e desempenho. A integração é voltada para times que querem usar modelos de ponta sem inflar a conta de API. O lançamento traz ajustes para fluxos agênticos e automação de código. É relevante para desenvolvedores que estão comparando fornecedores de modelo.",
+    "reasonEn": "OpenAI announced the arrival of the GPT-5.6 model in the Kiro development environment, promising a better cost-to-performance ratio. The integration targets teams that want to use top-tier models without inflating their API bill. The launch includes tweaks for agentic flows and code automation. It is relevant for developers comparing model providers.",
+    "score": 0.5,
+    "tags": [
+      "openai",
+      "modelo",
+      "desenvolvedores"
+    ],
+    "img": "img/abd52c9f1dde.jpg",
+    "ts": 1787572800,
+    "addedTs": 1788219028,
+    "urlHash": "abd52c9f1dde",
+    "titleHash": "15d95c39bfcc"
+  },
+  {
     "title": "Agentic/Human Contractor distributed marketplace",
     "titlePt": "Mercado distribuído de contratação entre agentes e humanos",
     "url": "https://news.ycombinator.com/item?id=49513028",
@@ -9422,466 +9686,5 @@
     "addedTs": 1787618589,
     "urlHash": "99a74fa8e5c3",
     "titleHash": "fe3ec9668734"
-  },
-  {
-    "title": "MetaRoCE: A New RDMA Transport Built for AI-Scale Ethernet",
-    "titlePt": "MetaRoCE: novo transporte RDMA para Ethernet em escala de IA",
-    "url": "https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Foi apresentado o MetaRoCE, um novo protocolo de transporte RDMA projetado para rodar em Ethernet comum em escala de data centers de IA. A ideia é oferecer desempenho próximo ao de redes especializadas sem depender de hardware proprietário. Isso pode reduzir custos e simplificar a infraestrutura para treinar modelos grandes. Engenheiros de infraestrutura e plataformas de IA devem ficar atentos.",
-    "reasonEn": "MetaRoCE was presented as a new RDMA transport protocol designed to run on standard Ethernet at AI data center scale. The goal is to deliver performance close to specialized networks without relying on proprietary hardware. This can reduce costs and simplify infrastructure for training large models. Infrastructure and AI platform engineers should pay attention.",
-    "score": 0.75,
-    "tags": [
-      "infraestrutura",
-      "rdma",
-      "rede"
-    ],
-    "img": "abstract network cables connecting glowing nodes, minimal abstract tech, violet and navy gradient, soft glow",
-    "ts": 1787609226,
-    "addedTs": 1787609777,
-    "urlHash": "d2835f9807e2",
-    "titleHash": "af92a91111df"
-  },
-  {
-    "title": "AI text watermarking and quality loss",
-    "titlePt": "Marca d'água em texto de IA e a perda de qualidade",
-    "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A discussão volta ao debate sobre marcar textos gerados por IA sem prejudicar a leitura. Marcas d'água alteram a escolha de palavras e podem piorar a fluidez e o estilo. Vários pesquisadores já mostraram que métodos atuais degradam a qualidade do texto. Ainda não existe uma solução perfeita que equilibre detecção e naturalidade.",
-    "reasonEn": "The discussion returns to the debate about watermarking AI-generated text without harming readability. Watermarks alter word choice and can worsen fluency and style. Several researchers have already shown that current methods degrade text quality. A perfect solution that balances detection and naturalness still does not exist.",
-    "score": 0.6,
-    "tags": [
-      "watermark",
-      "segurança",
-      "modelo"
-    ],
-    "img": "abstract document with hidden symbols floating above, minimal abstract tech, violet and navy gradient, soft glow",
-    "ts": 1787609151,
-    "addedTs": 1787609777,
-    "urlHash": "4694cfbe3b29",
-    "titleHash": "35e2cdf58c7e"
-  },
-  {
-    "title": "SpaceX Shares Sink on AI Spending Plans",
-    "titlePt": "Ações da SpaceX caem por causa de gastos com IA",
-    "url": "https://www.wsj.com/tech/ai/spacex-says-spending-spree-is-supercharging-ai-revenues-ea750ff3",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "As ações da SpaceX tiveram queda após a empresa revelar planos ambiciosos de investimento em inteligência artificial. Investidores ficaram preocupados com o volume de capital que será direcionado para infraestrutura de IA. O mercado interpreta o movimento como um sinal de pressão sobre margens futuras. É um sinal claro de que IA virou prioridade estratégica para grandes empresas de tecnologia.",
-    "reasonEn": "SpaceX shares dropped after the company revealed ambitious plans for artificial intelligence investment. Investors grew concerned about the volume of capital that will be directed to AI infrastructure. The market reads the move as a sign of pressure on future margins. It is a clear signal that AI has become a strategic priority for large tech companies.",
-    "score": 0.55,
-    "tags": [
-      "mercado",
-      "spacex",
-      "investimento"
-    ],
-    "img": "img/2d865dbc3fa8.jpg",
-    "ts": 1787608372,
-    "addedTs": 1787609777,
-    "urlHash": "2d865dbc3fa8",
-    "titleHash": "a24216c48f86"
-  },
-  {
-    "title": "AI-to-AI Code Reviews of GitHub Pull Requests",
-    "titlePt": "Revisões de código entre IAs em pull requests do GitHub",
-    "url": "https://arxiv.org/abs/2608.21311",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um experimento propôs usar uma IA para revisar código gerado por outra IA em pull requests no GitHub. A ideia é acelerar revisões humanas automatizando a primeira camada de análise. Resultados iniciais mostram que a IA consegue detectar problemas comuns, mas erra em lógica de negócio. Não substitui revisores humanos, mas pode economizar tempo.",
-    "reasonEn": "An experiment proposed using one AI to review code generated by another AI on GitHub pull requests. The idea is to speed up human reviews by automating the first layer of analysis. Initial results show that AI can detect common issues but fails on business logic. It does not replace human reviewers but can save time.",
-    "score": 0.5,
-    "tags": [
-      "github",
-      "agente",
-      "revisão"
-    ],
-    "img": "img/695be1989796.jpg",
-    "ts": 1787607686,
-    "addedTs": 1787609777,
-    "urlHash": "695be1989796",
-    "titleHash": "94fe878aeb7f"
-  },
-  {
-    "title": "Deno team releases Dactyl, an AI app builder that runs on your ChatGPT plan",
-    "titlePt": "Deno lança Dactyl, construtor de apps com IA",
-    "url": "https://dactyl.dev/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O time do Deno apresentou o Dactyl, um construtor de aplicativos com IA que usa o plano do ChatGPT. A ferramenta aposta em simplicidade para quem quer criar apps sem gerenciar infraestrutura. Funciona integrado ao ecossistema Deno e promete acelerar protótipos. Desenvolvedores que já usam Deno devem testar.",
-    "reasonEn": "The Deno team presented Dactyl, an AI app builder that runs on a ChatGPT plan. The tool focuses on simplicity for those who want to create apps without managing infrastructure. It works integrated with the Deno ecosystem and promises to speed up prototypes. Developers already using Deno should test it.",
-    "score": 0.7,
-    "tags": [
-      "deno",
-      "lançamento",
-      "agente"
-    ],
-    "img": "img/782a80f83e01.jpg",
-    "ts": 1787604307,
-    "addedTs": 1787609777,
-    "urlHash": "782a80f83e01",
-    "titleHash": "88640398ca9c"
-  },
-  {
-    "title": "China's Overhyped Embodied AI Sector",
-    "titlePt": "Setor de IA incorporada na China enfrenta ceticismo",
-    "url": "https://chinai.substack.com/p/chinai-372-chinas-overhyped-embodied",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Uma análise aponta que o setor de IA incorporada (robótica e agentes físicos) na China está mais hype do que entrega real. Várias startups chinesas anunciaram produtos ambiciosos, mas poucos têm resultado comercial. Investidores começam a questionar o retorno e o tempo de maturação. É um sinal de alerta para quem acompanha o mercado global de robótica.",
-    "reasonEn": "An analysis points out that the embodied AI sector (robotics and physical agents) in China is more hype than real delivery. Several Chinese startups announced ambitious products, but few have commercial results. Investors are beginning to question returns and time to maturity. It is a warning sign for those following the global robotics market.",
-    "score": 0.65,
-    "tags": [
-      "china",
-      "robótica",
-      "mercado"
-    ],
-    "img": "img/a0015791cf8c.jpg",
-    "ts": 1787604202,
-    "addedTs": 1787609777,
-    "urlHash": "a0015791cf8c",
-    "titleHash": "62bed794d244"
-  },
-  {
-    "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
-    "titlePt": "VentureBeat Contrata Primeiro Analista Líder para Expandir Cobertura de IA Empresarial",
-    "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
-    "source": "VentureBeat AI",
-    "sources": [
-      "VentureBeat AI"
-    ],
-    "reason": "O VentureBeat nomeou Rob Strechay como seu primeiro Lead Analyst, um passo para reforçar a cobertura de inteligência artificial empresarial. A contratação reflete a importância crescente da IA nos negócios e na tomada de decisão corporativa. Para leitores que acompanham tendências do setor, isso indica relatórios mais aprofundados. A mudança também mostra que mídia especializada está investindo em análise de IA.",
-    "reasonEn": "VentureBeat named Rob Strechay as its first Lead Analyst, a move to strengthen its enterprise AI coverage. The hire reflects the growing importance of AI in business and corporate decision-making. For readers tracking industry trends, this signals deeper reporting ahead. It also shows that specialized media is investing in AI analysis.",
-    "score": 0.5,
-    "tags": [
-      "mídia",
-      "análise",
-      "negócios"
-    ],
-    "img": "img/fcee4ba15ecf.jpg",
-    "ts": 1787149092,
-    "addedTs": 1787609777,
-    "urlHash": "fcee4ba15ecf",
-    "titleHash": "972b3d91c037"
-  },
-  {
-    "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-    "titlePt": "OpenAI Lança ChatGPT para Adolescentes com Foco em Aprendizado",
-    "url": "https://openai.com/index/chatgpt-for-teens",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A OpenAI anunciou uma versão do ChatGPT voltada para adolescentes, com proteções extras e foco em apoiar o aprendizado. A empresa destaca ferramentas de segurança para evitar conteúdo impróprio e orientação inadequada. O lançamento afeta pais, escolas e jovens que usam IA para estudar. É um movimento importante dada a crescente presença da IA na educação, mas também gera debates sobre privacidade e dependência tecnológica.",
-    "reasonEn": "OpenAI announced a version of ChatGPT aimed at teenagers, with extra protections and a focus on supporting learning. The company highlights safety features to block inappropriate content and prevent harmful guidance. The launch affects parents, schools, and young people using AI for schoolwork. It is an important move given AI's growing presence in education, while also raising privacy and dependency concerns.",
-    "score": 0.7,
-    "tags": [
-      "lançamento",
-      "educação",
-      "openai"
-    ],
-    "img": "img/c3b0ed374d41.jpg",
-    "ts": 1787050800,
-    "addedTs": 1787609777,
-    "urlHash": "c3b0ed374d41",
-    "titleHash": "f781c02f86eb"
-  },
-  {
-    "title": "Cognitive Surrender with AI",
-    "titlePt": "Rendição Cognitiva com a IA",
-    "url": "https://icepanel.io/blog/2026-08-17-cognitive-surrender-with-ai",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um texto discute o conceito de rendição cognitiva, quando as pessoas param de pensar por conta própria e aceitam o que a IA oferece sem questionar. O autor argumenta que confiar demais nas respostas da IA reduz o esforço mental e pode enfraquecer habilidades como análise crítica e memória. É um alerta para desenvolvedores e usuários intensos que dependem de assistentes no dia a dia. Importante para repensar como e quando usar essas ferramentas.",
-    "reasonEn": "A post discusses cognitive surrender, the idea that people stop thinking for themselves and accept what AI offers without question. The author argues that over-relying on AI outputs reduces mental effort and can weaken critical thinking and memory. It serves as a warning for developers and heavy users who depend on assistants every day. Useful to rethink how and when to use these tools.",
-    "score": 0.5,
-    "tags": [
-      "reflexão",
-      "cultura",
-      "produtividade"
-    ],
-    "img": "img/5f3627fe8514.jpg",
-    "ts": 1787602368,
-    "addedTs": 1787602769,
-    "urlHash": "5f3627fe8514",
-    "titleHash": "a4c37b9a2566"
-  },
-  {
-    "title": "Show HN: AI for people that still browse the web",
-    "titlePt": "IA para quem ainda navega na web",
-    "url": "https://thisisrobin.ai/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um projeto exibido no Hacker News oferece uma camada de IA para auxiliar quem continua navegando manualmente na web em vez de usar agentes autônomos. A proposta é resumir, explicar e responder perguntas enquanto o usuário lê páginas. Pode economizar tempo em pesquisas longas e leitura de documentação. Ainda é um projeto inicial, então é bom testar antes de depender dele.",
-    "reasonEn": "A Show HN project offers an AI layer to assist people who still browse the web manually instead of using autonomous agents. It aims to summarize, explain and answer questions while the user reads pages. It can save time on long research and documentation reading. Still an early project, so worth testing before relying on it.",
-    "score": 0.55,
-    "tags": [
-      "navegador",
-      "produtividade",
-      "agente"
-    ],
-    "img": "img/cf052f964a80.jpg",
-    "ts": 1787601430,
-    "addedTs": 1787602769,
-    "urlHash": "cf052f964a80",
-    "titleHash": "cbef272bf066"
-  },
-  {
-    "title": "The Teaser Period: Why the AI Boom Is Built to Break",
-    "titlePt": "O Período do Ensaio: Por que o Boom da IA Foi Feito para Quebrar",
-    "url": "https://www.groundbrkr.com/p/the-teaser-period-why-the-ai-boom",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo compara o atual ciclo da IA a um período de ensaio, no qual empresas mostram resultados iniciais impressionantes para atrair investimento, mas a sustentabilidade de longo prazo é frágil. A tese é que muitas promessas não se sustentam quando a pressão por receita aumentar. Para profissionais e investidores, isso significa repensar apostas em produtos que dependem de modelos caros. Vale ler quem decide onde colocar tempo e dinheiro em IA.",
-    "reasonEn": "The article compares the current AI cycle to a teaser period where firms show impressive early results to attract investment, but long-term sustainability is fragile. The thesis is that many promises will not hold up when revenue pressure rises. For professionals and investors, it means rethinking bets on products that rely on expensive models. Worth reading for anyone deciding where to place time and money in AI.",
-    "score": 0.7,
-    "tags": [
-      "bolha",
-      "análise",
-      "mercado"
-    ],
-    "img": "img/153e1f15380e.jpg",
-    "ts": 1787600925,
-    "addedTs": 1787602769,
-    "urlHash": "153e1f15380e",
-    "titleHash": "25a46f51ea80"
-  },
-  {
-    "title": "Nvidia Jetson Orin drone kills 3 in July Russia attack on Ukraine gas station",
-    "titlePt": "Drone com Nvidia Jetson Orin mata 3 em ataque russo a posto de gasolina na Ucrânia",
-    "url": "https://www.nytimes.com/2026/08/24/world/europe/ukraine-war-nvidia-ai-autonomous-drones.html",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Reportagem confirma que um drone equipado com o chip Nvidia Jetson Orin foi usado em um ataque russo na Ucrânia em julho, matando três pessoas em um posto de gasolina. O caso ilustra que hardware de IA já está em uso direto em armas reais, não apenas em laboratórios. Para desenvolvedores, é um lembrete ético e geopolítico das tecnologias que podem alimentar suas criações. Também afeta o debate sobre exportação de chips e responsabilidade das fabricantes.",
-    "reasonEn": "A report confirms that a drone equipped with an Nvidia Jetson Orin chip was used in a Russian attack in Ukraine in July, killing three people at a gas station. The case shows that AI hardware is already in direct use in real weapons, not only in labs. For developers, it is an ethical and geopolitical reminder of the technologies that may power their creations. It also affects the debate on chip exports and manufacturer responsibility.",
-    "score": 0.85,
-    "tags": [
-      "militar",
-      "hardware",
-      "ucrânia"
-    ],
-    "img": "img/8d41278eea85.jpg",
-    "ts": 1787600310,
-    "addedTs": 1787602769,
-    "urlHash": "8d41278eea85",
-    "titleHash": "c755e353bded"
-  },
-  {
-    "title": "Porsche Inks $1.5B AI Deal with India's Tata Consultancy",
-    "titlePt": "Porsche Fecha Acordo de IA de 1,5 Bilhão de Dólares com a Tata Consultancy da Índia",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-24/porsche-inks-1-5-billion-ai-deal-with-india-s-tata-consultancy",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Porsche assinou um contrato de 1,5 bilhão de dólares com a TCS da Índia para aplicar IA em suas operações, de fábrica a experiência do cliente. O acordo mostra como montadoras tradicionais estão terceirizando transformação digital para gigantes de serviços de TI. Para profissionais do setor automotivo e de consultoria, sinaliza novas vagas e demandas de projetos. Investidores também ficam de olho em quem ganha esses contratos bilionários.",
-    "reasonEn": "Porsche signed a 1.5 billion dollar deal with India's TCS to apply AI across its operations, from factory to customer experience. The agreement shows how traditional automakers are outsourcing digital transformation to IT services giants. For automotive and consulting professionals, it signals new roles and project demands. Investors are also watching who wins these billion-dollar contracts.",
-    "score": 0.6,
-    "tags": [
-      "negócio",
-      "ia",
-      "automotivo"
-    ],
-    "img": "img/cf32644c31df.jpg",
-    "ts": 1787600003,
-    "addedTs": 1787602769,
-    "urlHash": "cf32644c31df",
-    "titleHash": "39f384a10020"
-  },
-  {
-    "title": "I can't prove it, but I think AI is causing me brain damage",
-    "titlePt": "Não consigo provar, mas acho que a IA está causando dano ao meu cérebro",
-    "url": "https://news.ycombinator.com/item?id=49424762",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um usuário compartilha sua percepção de que o uso constante de IA está reduzindo sua capacidade de pensar, lembrar e escrever por conta própria. O relato é pessoal e sem comprovação científica, mas ecoa uma crescente preocupação sobre dependência cognitiva. Para quem usa IA no trabalho todo dia, vale refletir sobre pausas e exercícios mentais. Também reacende o debate sobre uso saudável da tecnologia.",
-    "reasonEn": "A user shares their perception that constant AI use is reducing their ability to think, remember and write on their own. The account is personal and not scientifically proven, but echoes a growing concern about cognitive dependence. For people who use AI at work every day, worth reflecting on breaks and mental exercises. It also reignites the debate on healthy technology use.",
-    "score": 0.55,
-    "tags": [
-      "reflexão",
-      "saúde",
-      "produtividade"
-    ],
-    "img": "img/66e7add725a5.jpg",
-    "ts": 1787599959,
-    "addedTs": 1787602769,
-    "urlHash": "66e7add725a5",
-    "titleHash": "852682198974"
-  },
-  {
-    "title": "OpenOx – A Protocol for Self-Evolving Agents",
-    "titlePt": "OpenOx: Um Protocolo para Agentes que Evoluem Sozinhos",
-    "url": "https://openox.ai/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um novo protocolo chamado OpenOx propõe que agentes de IA possam se atualizar e melhorar de forma autônoma, sem intervenção humana constante. A ideia lembra os padrões abertos que sustentam a web, agora aplicados a sistemas inteligentes. Para desenvolvedores, é um espaço a observar, pois pode definir como agentes compartilham melhorias. Ainda é cedo para saber se terá adoção real.",
-    "reasonEn": "A new protocol called OpenOx proposes that AI agents can update and improve themselves autonomously, without constant human intervention. The idea resembles the open standards that underpin the web, now applied to intelligent systems. For developers, it is a space to watch, as it may define how agents share improvements. Still too early to know whether it will have real adoption.",
-    "score": 0.55,
-    "tags": [
-      "agente",
-      "protocolo",
-      "código-aberto"
-    ],
-    "img": "img/5b6446c7d866.jpg",
-    "ts": 1787599847,
-    "addedTs": 1787602769,
-    "urlHash": "5b6446c7d866",
-    "titleHash": "976c93b64ba8"
-  },
-  {
-    "title": "Mistral and Humain Announce Colab to Advance AI in Saudi Arabia and Regionally",
-    "titlePt": "Mistral e Humain Anunciam Colaboração para Levar IA à Arábia Saudita",
-    "url": "https://mistral.ai/news/mistral-x-humain/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Mistral, empresa francesa de IA, firmou parceria com a Humain, grupo saudita, para desenvolver modelos e infraestrutura na região. O movimento faz parte da corrida global por soberania em IA e por novos mercados além dos Estados Unidos e China. Para desenvolvedores, abre espaço para novos data centers e produtos adaptados ao idioma árabe. Também levanta questões sobre e alinhamento com valores locais.",
-    "reasonEn": "Mistral, the French AI company, partnered with Saudi group Humain to develop models and infrastructure in the region. The move is part of the global race for AI sovereignty and new markets beyond the US and China. For developers, it opens room for new data centers and products adapted to the Arabic language. It also raises questions about regulation and alignment with local values.",
-    "score": 0.55,
-    "tags": [
-      "negócio",
-      "mistral",
-      "oriente-médio"
-    ],
-    "img": "img/27df5194ce48.jpg",
-    "ts": 1787599670,
-    "addedTs": 1787602769,
-    "urlHash": "27df5194ce48",
-    "titleHash": "cd2525c91cf0"
-  },
-  {
-    "title": "I built 270 AI agents in an Obsidian vault – zero API costs, all open source",
-    "titlePt": "Construí 270 Agentes de IA num Cofre do Obsidian sem Custo de API",
-    "url": "https://gist.github.com/NenadConnor/b9bb71d56c9e70a9072c55e262885b8b",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O autor mostra como montou 270 agentes de IA diretamente em um cofre do Obsidian, usando modelos locais e código aberto, sem gastar com APIs pagas. O relato inclui fluxos, gatilhos e exemplos práticos de uso pessoal e profissional. Para desenvolvedores e entusiastas, é um caso real de como ter agentes sem depender de serviços externos. Também serve de inspiração para automatizar rotinas com pouco orçamento.",
-    "reasonEn": "The author explains how they built 270 AI agents directly inside an Obsidian vault using local open-source models, with no paid API spend. The write-up includes flows, triggers and practical examples for personal and professional use. For developers and enthusiasts, it is a real case of running agents without depending on external services. It also inspires automating routines on a tight budget.",
-    "score": 0.7,
-    "tags": [
-      "obsidian",
-      "agente",
-      "código-aberto"
-    ],
-    "img": "img/d8caad14c7e4.jpg",
-    "ts": 1787599551,
-    "addedTs": 1787602769,
-    "urlHash": "d8caad14c7e4",
-    "titleHash": "e71277c56954"
-  },
-  {
-    "title": "Autonomous Computer: 2-GPU AI Workstation",
-    "titlePt": "Computador Autônomo: Estação de Trabalho de IA com 2 GPUs",
-    "url": "https://www.autonomous.ai/computer-2",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um projeto apresenta uma estação de trabalho compacta com duas GPUs voltada para rodar modelos de IA localmente, sem depender da nuvem. A proposta atrai quem precisa de privacidade, baixa latência ou custo previsível. Para desenvolvedores e pesquisadores, é mais uma opção de hardware a comparar com workstations tradicionais. Vale avaliar consumo de energia e suporte a modelos maiores antes de comprar.",
-    "reasonEn": "A project presents a compact workstation with two GPUs aimed at running AI models locally, without depending on the cloud. The proposal appeals to those needing privacy, low latency or predictable cost. For developers and researchers, it is another hardware option to compare with traditional workstations. Worth evaluating power draw and support for larger models before buying.",
-    "score": 0.5,
-    "tags": [
-      "hardware",
-      "estação-de-trabalho"
-    ],
-    "img": "img/d8c2eb25429c.jpg",
-    "ts": 1787599149,
-    "addedTs": 1787602769,
-    "urlHash": "d8c2eb25429c",
-    "titleHash": "7101da4b041e"
-  },
-  {
-    "title": "Never put an API key in a place your coding agent can read",
-    "titlePt": "Nunca Coloque uma Chave de API Onde Seu Agente de Código Possa Ler",
-    "url": "https://zipbox.ai",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo alerta que muitos desenvolvedores colam chaves de API em locais acessíveis a agentes de codificação, o que pode levar a vazamentos ou uso indevido. O autor mostra exemplos reais de como agentes podem expor segredos sem perceber. Para quem usa ferramentas como agentes de programação, é uma leitura essencial e rápida. Pequenos ajustes de configuração evitam grandes dores de cabeça.",
-    "reasonEn": "The article warns that many developers paste API keys in places accessible to coding agents, which can lead to leaks or misuse. The author shows real examples of how agents can expose secrets without realizing it. For anyone using tools like coding agents, it is an essential and quick read. Small configuration tweaks prevent major headaches.",
-    "score": 0.8,
-    "tags": [
-      "segurança",
-      "boas-práticas",
-      "agente"
-    ],
-    "img": "img/3e799da19c0f.jpg",
-    "ts": 1787598583,
-    "addedTs": 1787602769,
-    "urlHash": "3e799da19c0f",
-    "titleHash": "adb163127a8a"
-  },
-  {
-    "title": "SpaceXAI Adopts Nvidia Vera CPU to Accelerate Agentic AI at Scale",
-    "titlePt": "SpaceXAI Adota CPU Nvidia Vera Para Acelerar IA Agêntica em Escala",
-    "url": "https://nvidianews.nvidia.com/news/spacexai-adopts-nvidia-vera-cpu-to-accelerate-agentic-ai-at-massive-scale",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A SpaceXAI anunciou que vai usar a nova CPU Nvidia Vera em sua infraestrutura para rodar agentes de IA em grande escala. A escolha indica que a empresa busca processadores próprios em vez de depender exclusivamente de GPUs. Para desenvolvedores, mostra uma tendência de mercado em hardware dedicado a IA. Também pode pressionar preços e disponibilidade de chips para outros clientes.",
-    "reasonEn": "SpaceXAI announced it will use the new Nvidia Vera CPU in its infrastructure to run AI agents at scale. The choice signals the company is seeking its own processors instead of depending solely on GPUs. For developers, it shows a market trend toward dedicated AI hardware. It may also pressure chip pricing and availability for other customers.",
-    "score": 0.6,
-    "tags": [
-      "hardware",
-      "spacex",
-      "agente"
-    ],
-    "img": "img/cdec39be75cf.jpg",
-    "ts": 1787597326,
-    "addedTs": 1787602769,
-    "urlHash": "cdec39be75cf",
-    "titleHash": "a542a779007b"
-  },
-  {
-    "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-    "titlePt": "Avançando em Custo-Benefício Para Desenvolvedores com o GPT-5.6 no Kiro",
-    "url": "https://openai.com/index/gpt-5-6-in-kiro",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A OpenAI anunciou uma atualização no modelo chamado GPT-5.6 integrado ao editor Kiro, com melhor custo-benefício para desenvolvedores. A proposta é reduzir o preço por token sem perder qualidade nas respostas de código. Para times pequenos e freelancers, isso pode baratear o uso diário de IA na programação. Vale comparar com concorrentes antes de padronizar o uso.",
-    "reasonEn": "OpenAI announced an update to the model called GPT-5.6 integrated into the Kiro editor, offering better price-performance for developers. The aim is to lower per-token cost without losing quality in code responses. For small teams and freelancers, this can reduce the daily cost of using AI for programming. Worth comparing with competitors before standardizing usage.",
-    "score": 0.65,
-    "tags": [
-      "openai",
-      "preço",
-      "kiro"
-    ],
-    "img": "img/abd52c9f1dde.jpg",
-    "ts": 1787572800,
-    "addedTs": 1787602769,
-    "urlHash": "abd52c9f1dde",
-    "titleHash": "15d95c39bfcc"
   }
 ]
