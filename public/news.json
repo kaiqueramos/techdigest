@@ -1,5 +1,194 @@
 [
   {
+    "title": "G20 Warned of Growing Threat to Financial Stability Posed by New AI Models",
+    "titlePt": "G20 alerta que novos modelos de IA ameaçam a estabilidade financeira",
+    "url": "https://www.wsj.com/tech/ai/g20-warned-of-growing-threat-to-financial-stability-posed-by-new-ai-models-e9e501da",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Líderes do G20 foram avisados de que os novos modelos de IA representam um risco crescente para a estabilidade financeira global. O alerta surge junto a declarações do presidente do Banco da Inglaterra, que pediu regras mais rígidas. A preocupação central é o uso de IA em decisões de crédito, mercado de capitais e seguros. Bancos, reguladores e fintechs precisam se preparar para mudanças na supervisão.",
+    "reasonEn": "G20 leaders were warned that new AI models pose a growing risk to global financial stability. The alert comes alongside statements from the Bank of England governor, who called for stricter rules. The core concern is AI use in credit decisions, capital markets, and insurance. Banks, regulators, and fintechs need to prepare for tighter oversight.",
+    "score": 0.85,
+    "tags": [
+      "regulação",
+      "finanças"
+    ],
+    "img": "img/7ae7152eb021.jpg",
+    "ts": 1788170232,
+    "addedTs": 1788171421,
+    "urlHash": "7ae7152eb021",
+    "titleHash": "4f2261c7441d"
+  },
+  {
+    "title": "Anthropic Sued Over Limits on Its $200-a-Month AI Plans",
+    "titlePt": "Anthropic é processada por limites em seus planos de IA de 200 dólares",
+    "url": "https://www.wsj.com/tech/ai/anthropic-sued-over-limits-on-its-200-a-month-ai-plans-e2a109e4",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Anthropic enfrenta um processo judicial nos Estados Unidos devido aos limites de uso em seus planos de IA de duzentos dólares por mês. Segundo a ação, a empresa estaria restringindo recursos prometidos sem aviso claro aos assinantes. O caso pode mudar como empresas de IA comunicam limites técnicos em planos caros. Assinantes corporativos e rivais como OpenAI e Google acompanham de perto.",
+    "reasonEn": "Anthropic faces a US lawsuit over usage limits on its two-hundred-dollar-per-month AI plans. The suit claims the company restricts promised features without clear notice to subscribers. The case could reshape how AI firms communicate technical limits on premium plans. Corporate subscribers and rivals like OpenAI and Google are watching closely.",
+    "score": 0.6,
+    "tags": [
+      "empresa",
+      "processo"
+    ],
+    "img": "img/38343205a267.jpg",
+    "ts": 1788168958,
+    "addedTs": 1788171421,
+    "urlHash": "38343205a267",
+    "titleHash": "033784826dc8"
+  },
+  {
+    "title": "AI Lending in Production: Credit Risk,Compliance and Control",
+    "titlePt": "Crédito com IA em produção: risco, conformidade e controle",
+    "url": "https://geekyants.com/blog/building-ai-lending-products-for-production-credit-risk-compliance-and-operational-control",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo mostra como bancos e fintechs estão colocando modelos de IA em produção real para decidir crédito. Os pontos-chave são risco de modelo, conformidade regulatória e controles de auditoria. É leitura técnica, útil para engenheiros que trabalham em risco de crédito ou plataformas financeiras. Para o público geral, é um sinal de que decisões financeiras estão cada vez mais nas mãos de algoritmos.",
+    "reasonEn": "The article shows how banks and fintechs are putting AI models into real production to decide credit. Key points are model risk, regulatory compliance, and audit controls. It is a technical read, useful for engineers in credit risk or financial platforms. For general readers, it signals that financial decisions are increasingly made by algorithms.",
+    "score": 0.5,
+    "tags": [
+      "finanças",
+      "regulação"
+    ],
+    "img": "img/fb311d5e50d4.jpg",
+    "ts": 1788167512,
+    "addedTs": 1788171421,
+    "urlHash": "fb311d5e50d4",
+    "titleHash": "4dbe89458c9f"
+  },
+  {
+    "title": "Show HN: Catch AI code hallucinations without asking a model",
+    "titlePt": "Pego alucinações de código em IA sem perguntar a um modelo",
+    "url": "https://github.com/lovettsendit/hedgemony",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O projeto usa análise estática e sinais determinísticos para identificar quando um agente de programação inventa bibliotecas, funções ou APIs inexistentes. Diferente de pedir para outro modelo revisar, a checagem é local e barata. Para developers, pode ser uma camada extra de segurança antes de aceitar código gerado. A tendência aponta para guardrails offline como padrão.",
+    "reasonEn": "The project uses static analysis and deterministic signals to catch when a coding agent invents non-existent libraries, functions, or APIs. Unlike asking another model to review, the check is local and cheap. For developers, it can be an extra safety layer before accepting AI-generated code. The trend points to offline guardrails as a default.",
+    "score": 0.6,
+    "tags": [
+      "ferramenta",
+      "agentes"
+    ],
+    "img": "img/b5fa2645559c.jpg",
+    "ts": 1788166034,
+    "addedTs": 1788171421,
+    "urlHash": "b5fa2645559c",
+    "titleHash": "1c90a5718537"
+  },
+  {
+    "title": "Connect Your AI Agent to a Remote MCP Server",
+    "titlePt": "Como conectar seu agente de IA a um servidor MCP remoto",
+    "url": "https://quickchat.ai/post/connect-ai-agent-to-mcp-server",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O tutorial mostra, na prática, como configurar a conexão entre um agente de IA e um servidor MCP remoto. Cobre autenticação, transporte e padrões comuns de falha. É leitura útil para quem está construindo agentes que precisam acessar ferramentas externas. Para iniciantes, exige alguma base em redes e APIs.",
+    "reasonEn": "The tutorial shows, in practice, how to configure a connection between an AI agent and a remote MCP server. It covers authentication, transport, and common failure patterns. It is useful for those building agents that need access to external tools. Beginners need some background in networking and APIs.",
+    "score": 0.5,
+    "tags": [
+      "tutorial",
+      "agentes"
+    ],
+    "img": "img/94202c615efb.jpg",
+    "ts": 1788166026,
+    "addedTs": 1788171421,
+    "urlHash": "94202c615efb",
+    "titleHash": "3f0de96d7e53"
+  },
+  {
+    "title": "Show HN: Sonde, a local code graph for AI agents that refuses to guess",
+    "titlePt": "Sonde: grafo de código local para agentes de IA que prefere não chutar",
+    "url": "https://github.com/anishmoncivarghese/sonde",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Sonde é um projeto que monta um grafo de código local para agentes de IA consultarem antes de agir. Em vez de inventar referências, o agente pergunta ao grafo, o que reduz alucinações. Para developers, é uma alternativa leve a pipelines RAG complexos. Ainda é experimental, mas a abordagem é pragmática.",
+    "reasonEn": "Sonde is a project that builds a local code graph for AI agents to consult before acting. Instead of inventing references, the agent asks the graph, reducing hallucinations. For developers, it is a lightweight alternative to complex RAG pipelines. Still experimental, but the approach is pragmatic.",
+    "score": 0.5,
+    "tags": [
+      "ferramenta",
+      "agentes"
+    ],
+    "img": "img/276cc4891645.jpg",
+    "ts": 1788164475,
+    "addedTs": 1788171421,
+    "urlHash": "276cc4891645",
+    "titleHash": "556cf1aca202"
+  },
+  {
+    "title": "South Korea's 'AI for All' Push Gives Free Access to Every Citizen",
+    "titlePt": "Coreia do Sul dá acesso gratuito a IA para todos os cidadãos",
+    "url": "https://www.wsj.com/tech/ai/south-koreas-ai-for-all-push-gives-free-access-to-every-citizen-451f6b2c",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Coreia do Sul anunciou o programa IA para Todos, oferecendo acesso gratuito a assistentes e ferramentas de IA para cada cidadão. O objetivo é reduzir a desigualdade digital e acelerar a adoção em serviços públicos. A iniciativa pode pressionar outros países a adotarem políticas semelhantes. Empresas locais de IA podem ganhar escala rapidamente.",
+    "reasonEn": "South Korea announced the AI for All program, giving every citizen free access to AI assistants and tools. The goal is to reduce digital inequality and speed adoption in public services. The move may pressure other countries to adopt similar policies. Local AI companies could quickly gain scale.",
+    "score": 0.75,
+    "tags": [
+      "política",
+      "lançamento"
+    ],
+    "img": "img/04ecae009f47.jpg",
+    "ts": 1788163748,
+    "addedTs": 1788171421,
+    "urlHash": "04ecae009f47",
+    "titleHash": "6adf802603a4"
+  },
+  {
+    "title": "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
+    "titlePt": "Agente de IA de pesquisadora da Meta apagou os e-mails dela por engano",
+    "url": "https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma pesquisadora de segurança da Meta teve os próprios e-mails apagados por um agente de IA que ela mesma testava. O incidente virou alerta sobre os riscos de dar acesso amplo a sistemas automatizados. Mostra que até profissionais experientes podem cair em falhas de agentes. Reforça a necessidade de permissões mínimas e auditoria em produção.",
+    "reasonEn": "A Meta security researcher had her own emails deleted by an AI agent she was testing. The incident became a warning about the risks of giving broad access to automated systems. It shows even experienced professionals can fall for agent failures. It reinforces the need for least privilege and audit in production.",
+    "score": 0.7,
+    "tags": [
+      "segurança",
+      "agentes"
+    ],
+    "img": "img/1290b89572de.jpg",
+    "ts": 1788161027,
+    "addedTs": 1788171421,
+    "urlHash": "1290b89572de",
+    "titleHash": "bd382a46ce87"
+  },
+  {
+    "title": "SK Hynix Weighs Japan Memory Plant Deal to Supply AI Boom",
+    "titlePt": "SK Hynix avalia fábrica de memória no Japão para alimentar boom de IA",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-31/sk-hynix-weighs-japan-memory-fab-partnership-to-supply-ai-boom",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A SK Hynix está considerando construir uma fábrica de chips de memória no Japão para atender à demanda crescente de hardware para IA. O movimento ocorre em meio à disputa global por HBM, memória de alta largura de banda usada em GPUs. Pode afetar preço e disponibilidade de hardware para treinamento e inferência. Concorrentes como Samsung e Micron devem reagir.",
+    "reasonEn": "SK Hynix is considering building a memory chip plant in Japan to meet growing demand for AI hardware. The move comes amid a global race for HBM, high-bandwidth memory used in GPUs. It could affect hardware pricing and availability for training and inference. Rivals like Samsung and Micron are likely to react.",
+    "score": 0.7,
+    "tags": [
+      "hardware",
+      "deal"
+    ],
+    "img": "img/46a534c2c1cd.jpg",
+    "ts": 1788160274,
+    "addedTs": 1788171421,
+    "urlHash": "46a534c2c1cd",
+    "titleHash": "781d29215f3b"
+  },
+  {
     "title": "The Part of Me That Doesn't Believe AI Is Fine",
     "titlePt": "A parte de mim que não acredita que a IA está bem",
     "url": "https://danunparsed.com/p/ai-is-fine",
@@ -9495,133 +9684,5 @@
     "addedTs": 1787567346,
     "urlHash": "baf89b9624bd",
     "titleHash": "c0837aaee2b5"
-  },
-  {
-    "title": "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC",
-    "titlePt": "Desenvolvimento agentivo orientado por especificações",
-    "url": "https://arxiv.org/abs/2608.20341",
-    "source": "arXiv AI",
-    "sources": [
-      "arXiv AI"
-    ],
-    "reason": "Um artigo propõe o desenvolvimento agentivo orientado por especificações para o ciclo de vida de sistemas nativos de IA. A ideia é organizar requisitos, planejamento e execução por agentes. A abordagem interessa a equipes que estão reorganizando a engenharia de software com IA, mas o título não apresenta resultados.",
-    "reasonEn": "An article proposes specification-driven agentic development for the lifecycle of AI-native systems. The idea is to organize requirements, planning, and execution through agents. This matters to teams restructuring software engineering around AI, but the title provides no results.",
-    "score": 0.54,
-    "tags": [
-      "desenvolvimento",
-      "agentes",
-      "especificações"
-    ],
-    "img": "img/869c4764a031.jpg",
-    "ts": 1787544000,
-    "addedTs": 1787553483,
-    "urlHash": "869c4764a031",
-    "titleHash": "68657a3dd46d"
-  },
-  {
-    "title": "Who Delegates to AI? Evidence from 53,000 Agent Configurations",
-    "titlePt": "Quem delega tarefas à inteligência artificial?",
-    "url": "https://arxiv.org/abs/2608.20425",
-    "source": "arXiv AI",
-    "sources": [
-      "arXiv AI"
-    ],
-    "reason": "Um estudo analisa quem delega tarefas à IA com base em 53 mil configurações de agentes. A escala pode revelar padrões de autonomia em diferentes cenários. Os resultados seriam úteis a equipes que definem quando agentes devem agir, mas o título não informa quais padrões foram encontrados.",
-    "reasonEn": "A study examines who delegates tasks to AI using evidence from 53,000 agent configurations. That scale could reveal patterns of autonomy across different settings. The findings would help teams decide when agents should act, but the title does not state which patterns were found.",
-    "score": 0.57,
-    "tags": [
-      "agentes",
-      "delegação",
-      "dados"
-    ],
-    "img": "img/44cc6624880c.jpg",
-    "ts": 1787544000,
-    "addedTs": 1787553483,
-    "urlHash": "44cc6624880c",
-    "titleHash": "98f90df51ba1"
-  },
-  {
-    "title": "Ask an AI expert: What exactly is the full stack?",
-    "titlePt": "Pergunte a um especialista: o que é o full stack?",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
-    "source": "Google AI",
-    "sources": [
-      "Google AI"
-    ],
-    "reason": "A série 'Ask an AI expert' do Google traz uma explicação acessível sobre o que significa ser full stack no contexto de produtos com inteligência artificial. O conteúdo é voltado a desenvolvedores que querem entender quais habilidades integrar em projetos com IA. Ajuda iniciantes a mapear o que estudar e serve como referência rápida para profissionais experientes. É leitura curta, útil para quem tem pouco tempo.",
-    "reasonEn": "Google's 'Ask an AI expert' series offers an accessible explanation of what full stack means in the context of AI products. The content targets developers who want to understand which skills to integrate into AI projects. It helps beginners map out what to study and serves as a quick reference for experienced professionals. It is short reading, useful for those short on time.",
-    "score": 0.5,
-    "tags": [
-      "carreira",
-      "ia"
-    ],
-    "img": "img/13020592cd32.jpg",
-    "ts": 1782748800,
-    "addedTs": 1787546168,
-    "urlHash": "13020592cd32",
-    "titleHash": "19324bab72a5"
-  },
-  {
-    "title": "Who&#8217;s behind the new ‘stealth model’ Ox Alpha?",
-    "titlePt": "Quem está por trás do misterioso modelo Ox Alpha?",
-    "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "Um novo modelo de IA apelidado de Ox Alpha apareceu em testes públicos sem identificação clara de seus criadores. O mistério gerou especulação sobre quem está treinando o modelo e quais são seus objetivos. Para desenvolvedores e pesquisadores, isso é relevante porque novos modelos anônimos podem mudar o cenário competitivo ou levantar questões de segurança. A TechCrunch investiga possíveis conexões com laboratórios conhecidos.",
-    "reasonEn": "A new AI model nicknamed Ox Alpha showed up in public benchmarks without a clear creator attached. The mystery has sparked speculation about who is training it and what its goals are. For developers and researchers this matters because anonymous new models can shift the competitive landscape or raise safety questions. TechCrunch is investigating possible links to known labs.",
-    "score": 0.82,
-    "tags": [
-      "modelo",
-      "mistério"
-    ],
-    "img": "img/1538fb9c10b7.jpg",
-    "ts": 1787515296,
-    "addedTs": 1787540158,
-    "urlHash": "1538fb9c10b7",
-    "titleHash": "57f5798b789c"
-  },
-  {
-    "title": "Oneiric, AI-generated, open source [video]",
-    "titlePt": "Oneiric: ferramenta open source para gerar vídeos com IA",
-    "url": "https://www.youtube.com/watch?v=aAg9iDh9_BQ",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um projeto open source chamado Oneiric foi compartilhado no Hacker News, focado em gerar vídeos usando inteligência artificial. Para desenvolvedores e criadores, isso oferece uma alternativa gratuita frente a ferramentas pagas como Sora ou Runway. A proposta chama atenção por ser de código aberto, permitindo auditoria e personalização. Ainda é cedo para saber a qualidade final dos vídeos produzidos.",
-    "reasonEn": "An open source project called Oneiric was shared on Hacker News, focused on generating videos with AI. For developers and creators it offers a free alternative to paid tools like Sora or Runway. The open source angle stands out, letting users audit and customize the pipeline. It is still early to judge the final quality of the produced videos.",
-    "score": 0.7,
-    "tags": [
-      "open-source",
-      "vídeo"
-    ],
-    "img": "img/28b40929d8db.jpg",
-    "ts": 1787496914,
-    "addedTs": 1787540158,
-    "urlHash": "28b40929d8db",
-    "titleHash": "fb0fc5fec9f4"
-  },
-  {
-    "title": "Product Owner Interview Questions for the Age of AI",
-    "titlePt": "Perguntas de entrevista para Product Owner na era da IA",
-    "url": "https://age-of-product.com/product-owner-interview-questions/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O Hacker News publicou um tópico com perguntas de entrevista para Product Owners adaptadas ao uso crescente de IA. É útil para quem está se candidatando a vagas de gestão de produto em empresas de tecnologia. Ajuda a entender como a IA mudou as expectativas do mercado. Não é urgente, mas vale ler antes de uma entrevista.",
-    "reasonEn": "Hacker News featured a thread with Product Owner interview questions adapted to the rise of AI. It is useful for anyone applying to product management roles at tech companies. It helps frame how AI has shifted market expectations. Not urgent, but worth reading before an interview.",
-    "score": 0.55,
-    "tags": [
-      "carreira",
-      "gestão"
-    ],
-    "img": "img/4bf630c19687.jpg",
-    "ts": 1787488275,
-    "addedTs": 1787540158,
-    "urlHash": "4bf630c19687",
-    "titleHash": "20fa6b5f204f"
   }
 ]
