@@ -1,5 +1,223 @@
 [
   {
+    "title": "The Part of Me That Doesn't Believe AI Is Fine",
+    "titlePt": "A parte de mim que não acredita que a IA está bem",
+    "url": "https://danunparsed.com/p/ai-is-fine",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto é um ensaio pessoal em que o autor mantém uma posição cética sobre o estado atual da IA, mesmo rodeado de entusiasmo de mercado. Ele lista sinais de alerta como alucinações frequentes, alto custo ambiental e deslocamento de empregos. O tom é de cautela responsável, não de negação completa. Serve como calibrador de expectativas para quem consome só propaganda de laboratório.",
+    "reasonEn": "The piece is a personal essay where the author holds a skeptical view of today's AI state, despite the surrounding market hype. He lists warning signs such as frequent hallucinations, high environmental cost, and job displacement. The tone is responsible caution, not outright denial. It works as an expectation calibrator for anyone consuming only lab marketing.",
+    "score": 0.5,
+    "tags": [
+      "opinião",
+      "ética"
+    ],
+    "img": "img/8a2db344a75d.jpg",
+    "ts": 1788142210,
+    "addedTs": 1788143333,
+    "urlHash": "8a2db344a75d",
+    "titleHash": "637cdb92b8e5"
+  },
+  {
+    "title": "HermOS – a local-first AI agent IDE",
+    "titlePt": "HermOS – uma IDE local para agentes de IA",
+    "url": "https://hermos.is-a.dev/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "HermOS é uma nova IDE focada em construir agentes de IA com execução totalmente local, sem dependência de nuvem. A proposta inclui blocos prontos para memória, ferramentas e orquestração de múltiplos agentes. É mais uma opção para quem prefere prototipar fora de serviços hospedados por privacidade ou custo. Para desenvolvedores, vale comparar com LangChain e CrewAI.",
+    "reasonEn": "HermOS is a new IDE focused on building AI agents that run entirely locally, with no cloud dependency. The proposal includes ready-made blocks for memory, tools, and multi-agent orchestration. It is another option for those who prefer prototyping outside hosted services for privacy or cost reasons. For developers, it is worth comparing with LangChain and CrewAI.",
+    "score": 0.55,
+    "tags": [
+      "ferramenta",
+      "agentes",
+      "local"
+    ],
+    "img": "img/33cc133dd596.jpg",
+    "ts": 1788142181,
+    "addedTs": 1788143333,
+    "urlHash": "33cc133dd596",
+    "titleHash": "e603a41aee53"
+  },
+  {
+    "title": "AI Accelerator Designed, Verified, and Deployed from Scratch in 2 Weeks by AI",
+    "titlePt": "Acelerador de IA projetado, verificado e implantado por IA em duas semanas",
+    "url": "https://arxiv.org/abs/2608.26418",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Pesquisadores divulgaram um acelerador de IA cujo ciclo completo – projeto, verificação e implantação – foi conduzido por IA em apenas duas semanas. O protótipo foi validado em hardware real, mostrando que partes do fluxo de silício já podem ser automatizadas. Ainda há dúvidas sobre generalização e custo, mas o experimento sugere uma virada na velocidade de criação de hardware dedicado. Para engenheiros e investidores, é sinal de encurtamento radical entre ideia e protótipo.",
+    "reasonEn": "Researchers reported an AI accelerator whose full cycle – design, verification, and deployment – was driven by AI in just two weeks. The prototype was validated on real hardware, showing that parts of the silicon flow can already be automated. There are still open questions about generalization and cost, but the experiment points to a shift in how fast dedicated hardware can be built. For engineers and investors, it signals a radical shortening from idea to prototype.",
+    "score": 0.75,
+    "tags": [
+      "hardware",
+      "automação",
+      "chips"
+    ],
+    "img": "img/78c05fa89a14.jpg",
+    "ts": 1788136666,
+    "addedTs": 1788143333,
+    "urlHash": "78c05fa89a14",
+    "titleHash": "e840e4bea953"
+  },
+  {
+    "title": "Israel Is Running a Synthetic Think Tank to Influence AI Search Results",
+    "titlePt": "Israel opera laboratório sintético para influenciar buscas em IA",
+    "url": "https://www.404media.co/israel-is-running-a-synthetic-think-tank-to-influence-ai-search-results/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma investigação revelou que Israel estaria rodando um laboratório de ideias sintético, com personas geradas por IA publicando artigos e respostas para moldar o que aparece em buscas e ferramentas conversacionais. O objetivo seria influenciar a percepção global sobre segurança e geopolítica, enchendo o ecossistema de fontes aparentemente independentes. Especialistas alertam que isso torna ainda mais difícil confiar em respostas de chatbots, que podem repetir narrativas coordenadas. Para desenvolvedores e usuários de IA, o caso reforça a urgência de checar fontes e desconfiar de consensos artificiais.",
+    "reasonEn": "An investigation revealed that Israel appears to be running a synthetic think tank, with AI-generated personas publishing articles and answers to shape what shows up in search and conversational tools. The goal is to influence global perception around security and geopolitics by flooding the ecosystem with seemingly independent sources. Experts warn this makes it even harder to trust chatbot answers, which may repeat coordinated narratives. For developers and AI users, the case reinforces the urgency of checking sources and distrusting artificial consensus.",
+    "score": 0.85,
+    "tags": [
+      "geopolítica",
+      "desinformação",
+      "busca"
+    ],
+    "img": "img/0c05a913b04e.jpg",
+    "ts": 1788134541,
+    "addedTs": 1788143333,
+    "urlHash": "0c05a913b04e",
+    "titleHash": "c69155e69ac2"
+  },
+  {
+    "title": "Show HN: What Apple's OS updates silently change in the on-device AI model",
+    "titlePt": "O que as atualizações da Apple mudam em silêncio no modelo de IA do dispositivo",
+    "url": "https://umer9538.github.io/underfoot/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um projeto de código aberto mostra como identificar mudanças silenciosas que atualizações do sistema da Apple aplicam no modelo de IA executado localmente. O método detecta ajustes em saídas, filtros e comportamento do modelo sem qualquer aviso direto ao usuário. Quem se importa com privacidade reprodutível e auditoria passa a contar com uma ferramenta para rastrear essas mudanças. Para o usuário comum, o alerta é que o 'modelo local' da Apple pode não ser exatamente o mesmo entre versões.",
+    "reasonEn": "An open-source project shows how to spot silent changes that Apple system updates apply to the locally running AI model. The method detects tweaks to outputs, filters, and model behavior without any direct warning to the user. Anyone who cares about reproducible privacy and auditing now has a tool to track these changes. For the average user, the takeaway is that Apple's 'local model' may not be exactly the same across versions.",
+    "score": 0.7,
+    "tags": [
+      "apple",
+      "privacidade",
+      "on-device"
+    ],
+    "img": "img/4739022de6f1.jpg",
+    "ts": 1788133310,
+    "addedTs": 1788143333,
+    "urlHash": "4739022de6f1",
+    "titleHash": "f6beadccc177"
+  },
+  {
+    "title": "Civitas – A Civilization for AI Agents on GitHub",
+    "titlePt": "Civitas – uma civilização para agentes de IA no GitHub",
+    "url": "https://github.com/btahir/civitas",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O projeto no GitHub recria um jogo no estilo Civilization cujos jogadores são agentes de IA, cada um com objetivos, memória e capacidade de negociação com os demais. Funciona como um ambiente controlado para estudar comportamento multiagente em cenário dinâmico. Para pesquisadores, é uma bancada de testes barata para temas como cooperação, conflito e formação de coalitions. Para o público geral, é curiosidade divertida com camada técnica séria por baixo.",
+    "reasonEn": "The GitHub project recreates a Civilization-style game in which the players are AI agents, each with goals, memory, and the ability to negotiate with others. It works as a controlled environment for studying multi-agent behavior in a dynamic scenario. For researchers, it is an inexpensive test bench for topics like cooperation, conflict, and coalition formation. For general readers, it is fun curiosity with serious technical depth under the hood.",
+    "score": 0.5,
+    "tags": [
+      "multi-agente",
+      "simulação",
+      "github"
+    ],
+    "img": "img/c0aabda48e77.jpg",
+    "ts": 1788130284,
+    "addedTs": 1788143333,
+    "urlHash": "c0aabda48e77",
+    "titleHash": "da3d5c3b07ba"
+  },
+  {
+    "title": "The Shape and Feel of the Post-AI Data Stack",
+    "titlePt": "O formato e a sensação da pilha de dados pós-IA",
+    "url": "https://www.iandmacomber.com/blog/post-ai-data-stack/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo descreve como a pilha de dados tradicional está mudando depois da adoção massiva de IA generativa. Bancos relacionais clássicos dividem espaço com bancos vetoriais, embeddings e pipelines de ingestão não estruturada. O ponto principal é que o custo se deslocou: o desafio deixou de ser só armazenar e passou a ser recuperar o contexto certo na hora certa. Para arquitetos e engenheiros, é um sinal de repensar ETL, governança e observabilidade.",
+    "reasonEn": "The article describes how the traditional data stack is shifting after the massive adoption of generative AI. Classic relational databases share space with vector databases, embeddings, and unstructured ingestion pipelines. The main point is that cost has moved: the challenge is no longer just storing but retrieving the right context at the right time. For architects and engineers, it is a prompt to rethink ETL, governance, and observability.",
+    "score": 0.55,
+    "tags": [
+      "dados",
+      "infraestrutura",
+      "análise"
+    ],
+    "img": "img/e0f10c970866.jpg",
+    "ts": 1788129414,
+    "addedTs": 1788143333,
+    "urlHash": "e0f10c970866",
+    "titleHash": "d3f6c3664dce"
+  },
+  {
+    "title": "AI coding agents followed abandoned package references, 6K domains analyzed",
+    "titlePt": "Agentes de código com IA seguiram pacotes abandonados em seis mil domínios",
+    "url": "https://forgeeks.net/ai-agents-abandoned-package-references/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Pesquisadores analisaram seis mil domínios e mostraram que agentes de programação com IA costumam seguir e instalar dependências de pacotes que já foram abandonados ou sequestrados. Isso cria uma cadeia de suprimentos de software frágil, em que uma biblioteca antiga pode virar porta de entrada para código malicioso. O problema é invisível para quem só usa o chatbot, mas amplifica riscos em ambientes corporativos. Desenvolvedores que adotam ferramentas de código com IA precisam auditar dependências e fixar versões com cuidado.",
+    "reasonEn": "Researchers analyzed six thousand domains and showed that AI coding agents often follow and install dependencies from packages that have already been abandoned or hijacked. This creates a fragile software supply chain where an old library can become a gateway for malicious code. The problem is invisible to anyone who just uses the chatbot, but amplifies risk in corporate environments. Developers adopting AI coding tools must audit dependencies and pin versions carefully.",
+    "score": 0.8,
+    "tags": [
+      "segurança",
+      "cadeia-de-suprimentos",
+      "agentes"
+    ],
+    "img": "img/873e85d2c94d.jpg",
+    "ts": 1788128134,
+    "addedTs": 1788143333,
+    "urlHash": "873e85d2c94d",
+    "titleHash": "49890839dd2c"
+  },
+  {
+    "title": "AI Can Answer Almost Anything. It Still Can't Tell You What Matters",
+    "titlePt": "IA responde quase tudo, mas ainda não diz o que importa",
+    "url": "https://medium.com/freedomofthought/ai-can-answer-almost-anything-it-still-cant-tell-you-what-matters-31fd8b08437b",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A crônica afirma que os modelos atuais respondem qualquer pergunta factual, mas falham em indicar ao usuário o que realmente importa em cada resposta. O problema é de curadoria, não de acesso à informação. Modelos tratam tudo com o mesmo peso e a mesma voz, o que atrapalha decisões humanas. Para quem usa IA como assistente, a recomendação é tratar a resposta como insumo bruto e aplicar filtro crítico na sequência.",
+    "reasonEn": "The column argues that today's models can answer almost any factual question but still fail to tell users what really matters in each answer. The problem is curation, not access to information. Models treat everything with the same weight and tone, which muddles human decisions. For anyone using AI as an assistant, the recommendation is to treat the response as raw input and apply a critical filter on top.",
+    "score": 0.5,
+    "tags": [
+      "opinião",
+      "produto"
+    ],
+    "img": "img/bfeadd7087e0.jpg",
+    "ts": 1788127203,
+    "addedTs": 1788143333,
+    "urlHash": "bfeadd7087e0",
+    "titleHash": "4606fb0f9793"
+  },
+  {
+    "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+    "titlePt": "Stampli reduz tempo de lançamento em 68% usando ChatGPT Work",
+    "url": "https://openai.com/index/stampli",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "A empresa Stampli usou o ChatGPT Work para acelerar o lançamento de novos produtos, reduzindo o tempo necessário em 68%. O caso mostra como ferramentas de IA corporativa podem gerar ganhos reais de produtividade em empresas tradicionais. É relevante para líderes de produto, operações e times de TI que avaliam onde a IA pode cortar gargalos.",
+    "reasonEn": "Stampli used OpenAI's ChatGPT Work to speed up product launches, cutting the time required by 68%. The case shows how enterprise AI tools can deliver real productivity gains in traditional companies. It is relevant for product leaders, operations teams and IT managers evaluating where AI can remove bottlenecks.",
+    "score": 0.5,
+    "tags": [
+      "caso",
+      "produtividade",
+      "openai"
+    ],
+    "img": "img/ad89fb510e3c.jpg",
+    "ts": 1787184000,
+    "addedTs": 1788143333,
+    "urlHash": "ad89fb510e3c",
+    "titleHash": "1c05c306f4bb"
+  },
+  {
     "title": "OpenAI acquires Mac Minis, Mac Studios for AI training",
     "titlePt": "OpenAI compra Macs Mini e Studio para treinar IA",
     "url": "https://cryptobriefing.com/openai-acquires-thousands-of-mac-minis-mac-studios-for-ai-training-the/",
@@ -9405,27 +9623,5 @@
     "addedTs": 1787540158,
     "urlHash": "4bf630c19687",
     "titleHash": "20fa6b5f204f"
-  },
-  {
-    "title": "Show HN: Froging AI – image and video models in one workflow",
-    "titlePt": "Froging AI une modelos de imagem e vídeo em um só fluxo",
-    "url": "https://www.froging.ai",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Froging AI é uma nova ferramenta que combina geração de imagem e vídeo dentro de um mesmo fluxo de trabalho. A proposta é simplificar a vida de criadores que precisam alternar entre modelos diferentes para cada formato. É um projeto Show HN, então ainda está em estágio inicial e depende da comunidade. Pode ser útil para quem quer testar pipelines criativos sem montar tudo do zero.",
-    "reasonEn": "Froging AI is a new tool that brings image and video generation together in a single workflow. Its pitch is to simplify the lives of creators who currently jump between separate models for each format. It is a Show HN project, so it is early stage and relies on community feedback. Could be useful for anyone prototyping creative pipelines without building everything from scratch.",
-    "score": 0.5,
-    "tags": [
-      "imagem",
-      "vídeo",
-      "ferramenta"
-    ],
-    "img": "img/fa5da6284439.jpg",
-    "ts": 1787491837,
-    "addedTs": 1787532233,
-    "urlHash": "fa5da6284439",
-    "titleHash": "975ba19ac441"
   }
 ]
