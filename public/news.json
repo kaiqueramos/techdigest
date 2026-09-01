@@ -1,5 +1,269 @@
 [
   {
+    "title": "The hard parts of AI-assisted science",
+    "titlePt": "Os pontos difíceis da ciência assistida por IA",
+    "url": "https://allenai.org/blog/swedish-autodiscovery-recap",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo discute os gargalos reais do uso de IA em pesquisa científica, indo além da hype. Tópicos incluem dados ruidosos, validação e erros que modelos cometem em raciocínio experimental. É leitura útil para pesquisadores e engenheiros que precisam usar IA em projetos sérios. Mostra onde a tecnologia ainda falha.",
+    "reasonEn": "The article discusses the real bottlenecks of using AI in scientific research, going beyond the hype. Topics include noisy data, validation and errors that models make in experimental reasoning. It is useful reading for researchers and engineers who need to use AI in serious projects. It shows where the technology still fails.",
+    "score": 0.65,
+    "tags": [
+      "pesquisa",
+      "modelo",
+      "limitações"
+    ],
+    "img": "img/ea3c303b8f1e.jpg",
+    "ts": 1788272423,
+    "addedTs": 1788272691,
+    "urlHash": "ea3c303b8f1e",
+    "titleHash": "3b434e7a697d"
+  },
+  {
+    "title": "'Digital Camouflage' Shirt Confuses AI-Powered Surveillance Cameras",
+    "titlePt": "Camiseta com camuflagem digital confunde câmeras de vigilância com IA",
+    "url": "https://www.404media.co/this-digital-camouflage-shirt-confuses-ai-powered-surveillance-cameras/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Pesquisadores criaram uma camiseta estampada que engana câmeras de vigilância equipadas com IA de detecção de pessoas. A ideia é oferecer uma forma simples de preservar privacidade em espaços públicos. Mostra como sistemas visuais podem ser enganados por padrões bem desenhados. Tema relevante para quem se importa com vigilância e privacidad",
+    "reasonEn": "Researchers created a printed t-shirt that tricks AI-powered person detection surveillance cameras. The idea is to offer a simple way to preserve privacy in public spaces. It shows how vision systems can be fooled by well-designed patterns. Relevant for those concerned about surveillance and privacy",
+    "score": 0.55,
+    "tags": [
+      "privacidade",
+      "visão",
+      "vigilância"
+    ],
+    "img": "img/e86ca36267a7.jpg",
+    "ts": 1788271898,
+    "addedTs": 1788272691,
+    "urlHash": "e86ca36267a7",
+    "titleHash": "6f2eb1f78398"
+  },
+  {
+    "title": "Alabama AG Launches Investigation into OpenAI for AI Data Breach",
+    "titlePt": "Procurador-geral do Alabama abre investigação sobre violação de dados da OpenAI",
+    "url": "https://www.alabamaag.gov/attorney-general-marshall-launches-investigation-into-openai-and-sam-altman-for-massive-artificial-intelligence-data-breach/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O procurador-geral do Alabama abriu uma investigação formal contra a OpenAI por possível violação de dados. O caso amplia a pressão regulatória sobre a empresa e pode anteceder ações de outros estados americanos. Afeta usuários corporativos que confiam dados sensíveis à plataforma. Vale acompanhar desdobramentos.",
+    "reasonEn": "The Alabama attorney general has opened a formal investigation into OpenAI over an alleged data breach. The case increases regulatory pressure on the company and may precede actions by other US states. It affects enterprise users who entrust sensitive data to the platform. Worth following developments.",
+    "score": 0.85,
+    "tags": [
+      "regulação",
+      "openai",
+      "privacidade"
+    ],
+    "img": "img/47869e35bd7d.jpg",
+    "ts": 1788271874,
+    "addedTs": 1788272691,
+    "urlHash": "47869e35bd7d",
+    "titleHash": "53080465667f"
+  },
+  {
+    "title": "Google's failed attempt to license Hollywood IP for its AI tools",
+    "titlePt": "Google fracassa em licenciar IPs de Hollywood para seus IAs",
+    "url": "https://www.latimes.com/entertainment-arts/business/story/2026-08-31/how-google-is-courting-hollywood-to-use-its-ai-tools",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Google tentou fechar acordos de licenciamento com estúdios de Hollywood para treinar suas ferramentas de IA, sem sucesso. A falha mostra a resistência de grandes detentores de conteúdo em alimentar modelos generativos. Importante porque define como futuros treinamentos podem acontecer. Afeta a estratégia de mídia da gigante de buscas.",
+    "reasonEn": "Google tried and failed to land licensing deals with Hollywood studios to train its AI tools. The failure shows the resistance of large rights holders to feed generative models. It matters because it shapes how future training may happen. It affects the search giant's media strategy.",
+    "score": 0.7,
+    "tags": [
+      "google",
+      "mídia",
+      "treinamento"
+    ],
+    "img": "img/f2d942b1050f.jpg",
+    "ts": 1788271421,
+    "addedTs": 1788272691,
+    "urlHash": "f2d942b1050f",
+    "titleHash": "854d2ad45760"
+  },
+  {
+    "title": "Managing AI agents is still a full-time job",
+    "titlePt": "Gerenciar agentes de IA ainda é trabalho de tempo integral",
+    "url": "https://freedom.to/blog/ai-agent-burnout/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A discussão mostra que operar agentes de IA em produção exige monitoramento constante, ajustes de prompt e depuração de loops. Times acham que adotam um agente e ele se vira sozinho, mas na prática vira mais um papel de SRE. Leitura recomendada para quem planeja escalar agentes internos. Reduz ilusões e economiza tempo.",
+    "reasonEn": "The discussion shows that running AI agents in production requires constant monitoring, prompt tuning and loop debugging. Teams think they adopt an agent and it runs itself, but in practice it becomes another SRE role. Recommended reading for those planning to scale internal agents. It lowers expectations and saves time.",
+    "score": 0.65,
+    "tags": [
+      "agentes",
+      "operação",
+      "opinião"
+    ],
+    "img": "img/9b2d77793edb.jpg",
+    "ts": 1788271293,
+    "addedTs": 1788272691,
+    "urlHash": "9b2d77793edb",
+    "titleHash": "775e6d62d7d6"
+  },
+  {
+    "title": "Making the AI-powered case for legacy modernization",
+    "titlePt": "MIT Tech Review defende modernização de legado com IA",
+    "url": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
+    "source": "MIT Tech Review",
+    "sources": [
+      "MIT Tech Review"
+    ],
+    "reason": "A MIT Technology Review publica um argumento favorável a usar IA para modernizar sistemas legados, em vez de reescrever do zero. Mostra casos em que copilots aceleram migração de mainframes e ERPs antigos. Importante para CTOs e arquitetos com pilhas envelhecidas. É uma visão pragmática, não hype.",
+    "reasonEn": "MIT Technology Review publishes an argument in favor of using AI to modernize legacy systems instead of rewriting from scratch. It shows cases where copilots accelerate migration of old mainframes and ERPs. Important for CTOs and architects with aging stacks. It is a pragmatic view, not hype.",
+    "score": 0.5,
+    "tags": [
+      "legado",
+      "empresa",
+      "estratégia"
+    ],
+    "img": "img/67778102be91.jpg",
+    "ts": 1788271200,
+    "addedTs": 1788272691,
+    "urlHash": "67778102be91",
+    "titleHash": "9bbaec274784"
+  },
+  {
+    "title": "The Thinking Wattage of AI Agents vs. the Human Brain",
+    "titlePt": "Comparação entre o 'watts mentais' de agentes de IA e do cérebro humano",
+    "url": "https://codeandlife.com/2026/08/31/thinking-wattage-ai-agents-vs-human-brain/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um texto compara o consumo computacional e a capacidade efetiva de raciocínio de agentes de IA com o cérebro humano. Argumenta que a analogia ajuda a dimensionar custo vs benefício de pipelines agentic. Útil para gestores que precisam justificar gastos com IA. Evita comparações exageradas com AGI.",
+    "reasonEn": "A text compares the computational consumption and effective reasoning capacity of AI agents with the human brain. It argues the analogy helps size cost versus benefit of agentic pipelines. Useful for managers justifying AI spending. It avoids exaggerated AGI comparisons.",
+    "score": 0.55,
+    "tags": [
+      "agentes",
+      "custo",
+      "análise"
+    ],
+    "img": "img/40733bcd774b.jpg",
+    "ts": 1788270736,
+    "addedTs": 1788272691,
+    "urlHash": "40733bcd774b",
+    "titleHash": "064857d00bc5"
+  },
+  {
+    "title": "Professional AI's Dual Trust Problem",
+    "titlePt": "O duplo problema de confiança da IA profissional",
+    "url": "https://balkin.blogspot.com/2026/09/professional-ais-dual-trust-problem.html",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo aborda como ferramentas profissionais de IA enfrentam um problema duplo: usuários não confiam no resultado e, quando confiam, não verificam. Mostra casos reais em medicina e direito. Leitura importante para quem vende ou implanta IA em ambientes regulados. Ajuda a desenhar melhores salvaguardas.",
+    "reasonEn": "The article addresses how professional AI tools face a double trust problem: users do not trust the output and, when they do, they do not verify it. It shows real cases in medicine and law. Important reading for those selling or deploying AI in regulated environments. It helps design better safeguards.",
+    "score": 0.55,
+    "tags": [
+      "confiança",
+      "profissional",
+      "análise"
+    ],
+    "img": "img/3a0d566bef0e.jpg",
+    "ts": 1788270274,
+    "addedTs": 1788272691,
+    "urlHash": "3a0d566bef0e",
+    "titleHash": "9de0957d3374"
+  },
+  {
+    "title": "Show HN: OSS, K8s-native AI platform for distributed multi-model inference",
+    "titlePt": "Plataforma de IA open source nativa de Kubernetes",
+    "url": "https://github.com/axem-solutions/shaide",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um projeto open source promete rodar inferência multi-modelo distribuída de forma nativa em Kubernetes. O foco é simplicidade operacional para times que já vivem no ecossistema K8s. Pode atrair empresas que evitam lock-in com um único provedor de modelo. Vale avaliar para quem escala inferência em produção.",
+    "reasonEn": "An open source project promises distributed multi-model inference natively on Kubernetes. The focus is operational simplicity for teams already in the K8s ecosystem. It may attract companies avoiding lock-in with a single model provider. Worth evaluating for those scaling inference in production.",
+    "score": 0.55,
+    "tags": [
+      "open-source",
+      "kubernetes",
+      "infra"
+    ],
+    "img": "img/222ba839dd65.jpg",
+    "ts": 1788270024,
+    "addedTs": 1788272691,
+    "urlHash": "222ba839dd65",
+    "titleHash": "28081008067e"
+  },
+  {
+    "title": "Having Fun with Vercel's AI SDK and AI Gateway",
+    "titlePt": "Brincando com o AI SDK e o AI Gateway da Vercel",
+    "url": "https://blog.master.dev/having-fun-with-vercels-ai-sdk-and-ai-gateway/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Vercel publicou conteúdo mostrando como usar seu SDK de IA e o AI Gateway para integrar múltiplos modelos em aplicações. O material demonstra fluxos práticos e truques que desenvolvedores podem aplicar para reduzir custos e simplificar a troca entre provedores de IA. É útil para quem constrói produtos que dependem de diferentes LLMs. Mesmo quem não usa Vercel pode aproveitar os padrões de integração apresentados.",
+    "reasonEn": "Vercel shared practical content on using its AI SDK and AI Gateway to integrate multiple AI models into applications. The post shows hands-on flows and tricks developers can use to cut costs and simplify switching between AI providers. It's useful for anyone building products that depend on different LLMs. Even non-Vercel users can learn from the integration patterns shown.",
+    "score": 0.55,
+    "tags": [
+      "vercel",
+      "sdk",
+      "desenvolvedores"
+    ],
+    "img": "img/efc57e386d10.jpg",
+    "ts": 1788268471,
+    "addedTs": 1788272691,
+    "urlHash": "efc57e386d10",
+    "titleHash": "b1aedd0b0b73"
+  },
+  {
+    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+    "titlePt": "Quantization-Aware Healing: um modelo 4 bits que supera o original em precisão completa",
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "A Hugging Face apresenta o Quantization-Aware Healing, técnica que recupera o desempenho perdido durante a compressão de modelos para 4 bits. O resultado surpreende: o modelo comprimido supera o modelo original em precisão completa em alguns testes. Isso tem impacto direto em custo de inferência, especialmente em hardware limitado. É leitura relevante para engenheiros de ML e equipes de produto.",
+    "reasonEn": "Hugging Face presents Quantization-Aware Healing, a technique that recovers performance lost during model compression to 4 bits. The result is surprising: the compressed model actually outperforms the full-precision original in some tests. This directly impacts inference cost, especially on limited hardware. It's relevant reading for ML engineers and product teams.",
+    "score": 0.65,
+    "tags": [
+      "huggingface",
+      "quantização",
+      "otimização"
+    ],
+    "img": "img/f1c76f23a788.jpg",
+    "ts": 1787657964,
+    "addedTs": 1788272691,
+    "urlHash": "f1c76f23a788",
+    "titleHash": "d7e28cb6be0e"
+  },
+  {
+    "title": "Disrupting a new covert influence campaign from Russia",
+    "titlePt": "OpenAI desarticula nova campanha de influência clandestina da Rússia",
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "A OpenAI anunciou ter identificado e bloqueado uma operação russa que usava seus modelos para produzir e espalhar conteúdo político disfarçado. A empresa removeu contas e explicou como a campanha operava. O caso reforça a vigilância contra usos maliciosos de IA generativa. Desenvolvedores de aplicações com LLMs devem se preocupar com abuso e moderação de conteúdo.",
+    "reasonEn": "OpenAI announced it identified and blocked a Russian operation that used its models to produce and spread disguised political content. The company removed accounts and explained how the campaign worked. The case highlights vigilance against malicious uses of generative AI. Developers building LLM applications should care about abuse and content moderation.",
+    "score": 0.85,
+    "tags": [
+      "openai",
+      "segurança",
+      "desinformação"
+    ],
+    "img": "img/62003111f3b5.jpg",
+    "ts": 1787616000,
+    "addedTs": 1788272691,
+    "urlHash": "62003111f3b5",
+    "titleHash": "cee49873339b"
+  },
+  {
     "title": "Kilo Code for JetBrains",
     "titlePt": "Kilo Code chega às IDEs da JetBrains",
     "url": "https://www.producthunt.com/products/kilocode",
@@ -8272,656 +8536,5 @@
     "addedTs": 1787668522,
     "urlHash": "ee865b3ef833",
     "titleHash": "9ace85c642f6"
-  },
-  {
-    "title": "Recent public co filings analyzed: AI not generating profit yet",
-    "titlePt": "Relatórios de empresas mostram que IA ainda não dá lucro",
-    "url": "https://aiearnings.dev/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Análise de balanços públicos recentes mostra que empresas investem pesado em IA, mas o retorno financeiro ainda não apareceu nos números. Isso importa porque começa a pressionar o argumento de que IA será rentável rapidamente. Investidores e gestores devem prestar atenção.",
-    "reasonEn": "Analysis of recent public company filings shows heavy AI investment without clear profit so far. This matters because it puts pressure on the narrative that AI will pay off quickly. Investors and managers should pay attention.",
-    "score": 0.8,
-    "tags": [
-      "mercado",
-      "ia",
-      "negócios"
-    ],
-    "img": "img/597afe2a8cda.jpg",
-    "ts": 1787660699,
-    "addedTs": 1787660971,
-    "urlHash": "597afe2a8cda",
-    "titleHash": "dec0ddd9ef5c"
-  },
-  {
-    "title": "When AI Writes the Code, Verification Is the New Implementation",
-    "titlePt": "Quando a IA escreve o código, verificar virou a parte difícil",
-    "url": "https://sarpex.com/2026/08-verification-is-the-new-implementation",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Discussão no HackerNews sobre como, com IA gerando código, a verificação virou o gargalo real do desenvolvimento. Importa porque muda onde os engenheiros devem gastar tempo. Times de desenvolvimento precisam repensar processos.",
-    "reasonEn": "A HackerNews discussion arguing that when AI writes the code, verification becomes the real bottleneck. It matters because it shifts where engineers should spend their time. Dev teams need to rethink processes.",
-    "score": 0.85,
-    "tags": [
-      "desenvolvimento",
-      "ia",
-      "engenharia"
-    ],
-    "img": "img/dd8e0a803748.jpg",
-    "ts": 1787660116,
-    "addedTs": 1787660971,
-    "urlHash": "dd8e0a803748",
-    "titleHash": "7e599656cc64"
-  },
-  {
-    "title": "Run manual QA test cases in a real browser with an AI agent",
-    "titlePt": "Agente de IA roda testes manuais em navegador real",
-    "url": "https://github.com/broxhq/qpilot",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Projeto no HackerNews mostra um agente de IA capaz de executar casos de teste de qualidade manualmente em um navegador de verdade. Pode ajudar equipes de QA a economizar tempo. Ainda é experimental.",
-    "reasonEn": "A HackerNews project shows an AI agent running manual QA test cases in a real browser. It could help QA teams save time. Still experimental.",
-    "score": 0.6,
-    "tags": [
-      "qa",
-      "automação",
-      "agentes"
-    ],
-    "img": "img/80835d210b39.jpg",
-    "ts": 1787659627,
-    "addedTs": 1787660971,
-    "urlHash": "80835d210b39",
-    "titleHash": "4889882d38b1"
-  },
-  {
-    "title": "Show HN: Prelo – a WordPress-style admin for AI-built sites",
-    "titlePt": "Prelo: painel estilo WordPress para sites feitos por IA",
-    "url": "https://www.prelo.dev/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Projeto no HackerNews que oferece um painel administrativo simples para sites gerados por IA. Pode atrair quem quer manter sites sem mexer no código. Nada revolucionário.",
-    "reasonEn": "A HackerNews project offering a WordPress-style admin panel for AI-built sites. Useful for non-technical site owners. Nothing revolutionary.",
-    "score": 0.5,
-    "tags": [
-      "webdev",
-      "agentes"
-    ],
-    "img": "img/050cb5728614.jpg",
-    "ts": 1787659573,
-    "addedTs": 1787660971,
-    "urlHash": "050cb5728614",
-    "titleHash": "7ec491776d75"
-  },
-  {
-    "title": "Show HN: Neither HTML nor Markdown is enough: a way out of the AI doc dilemma",
-    "titlePt": "Nem HTML nem Markdown: uma saída para o dilema de documentos com IA",
-    "url": "https://news.ycombinator.com/item?id=49432443",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Discussão no HackerNews sobre as limitações de HTML e Markdown quando IA precisa gerar e entender documentos. Propõe uma nova abordagem. Relevante para quem trabalha com agentes e documentação automatizada.",
-    "reasonEn": "A HackerNews discussion on the limits of HTML and Markdown when AI generates and reads documents. Proposes a new approach. Relevant for those working with agents and automated docs.",
-    "score": 0.55,
-    "tags": [
-      "documentos",
-      "agentes"
-    ],
-    "img": "img/d1cc155f68c5.jpg",
-    "ts": 1787659323,
-    "addedTs": 1787660971,
-    "urlHash": "d1cc155f68c5",
-    "titleHash": "1f4c62419aeb"
-  },
-  {
-    "title": "Show HN: Unlose – Windows VSS snapshots before your AI agent deletes your files",
-    "titlePt": "Unlose: snapshots do Windows antes do agente de IA apagar tudo",
-    "url": "https://github.com/unlose-app/unlose",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Ferramenta que tira snapshots do sistema Windows usando o recurso VSS antes que um agente de IA apague arquivos. Mostra um problema real e prático do uso de agentes. Útil para quem experimenta com agentes em ambiente Windows.",
-    "reasonEn": "A tool that takes Windows VSS snapshots before an AI agent deletes files. Highlights a real practical problem with AI agents. Useful for anyone experimenting with agents on Windows.",
-    "score": 0.6,
-    "tags": [
-      "agentes",
-      "segurança",
-      "windows"
-    ],
-    "img": "img/d1130e00c075.jpg",
-    "ts": 1787659264,
-    "addedTs": 1787660971,
-    "urlHash": "d1130e00c075",
-    "titleHash": "92b7bbb04e7b"
-  },
-  {
-    "title": "Aito v2: a predictive database over linked data, with vectors, graphs and SQL",
-    "titlePt": "Aito v2: banco preditivo com vetores, grafos e SQL",
-    "url": "https://aito.ai/blog/aito-v2-public-beta/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Lançamento no HackerNews do Aito v2, um banco de dados preditivo que combina vetores, grafos e SQL sobre dados ligados. Pode interessar engenheiros que trabalham com IA e dados. Promete unificar diferentes modelos de dados.",
-    "reasonEn": "A HackerNews launch of Aito v2, a predictive database combining vectors, graphs and SQL over linked data. Could interest engineers working with AI and data. Aims to unify different data models.",
-    "score": 0.65,
-    "tags": [
-      "banco de dados",
-      "ia",
-      "lançamento"
-    ],
-    "img": "img/c3e322119f00.jpg",
-    "ts": 1787658561,
-    "addedTs": 1787660971,
-    "urlHash": "c3e322119f00",
-    "titleHash": "03cd11b52908"
-  },
-  {
-    "title": "We built a structured entity graph for an AI agent. Then we removed most of it",
-    "titlePt": "Grafo de entidades para agente de IA: construímos e depois removemos",
-    "url": "https://blog.getcassis.com/context-engineering-for-analytics-agents/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Relato no HackerNews sobre como um time montou um grafo estruturado de entidades para um agente de IA e depois descobriu que a maior parte não era necessária. Lição útil para quem projeta arquiteturas com agentes.",
-    "reasonEn": "A HackerNews write-up about building a structured entity graph for an AI agent, then realizing most of it was unnecessary. Useful lesson for those designing agent architectures.",
-    "score": 0.5,
-    "tags": [
-      "agentes",
-      "arquitetura"
-    ],
-    "img": "img/89b103f03402.jpg",
-    "ts": 1787658179,
-    "addedTs": 1787660971,
-    "urlHash": "89b103f03402",
-    "titleHash": "087a5b8a0387"
-  },
-  {
-    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-    "titlePt": "Modelo 4 bits comprimido supera a versão original completa",
-    "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "Pesquisa publicada na HuggingFace mostra um modelo 4 bits que, após ajuste, supera seu original em precisão total. Importa porque modelos menores e mais baratos podem rodar em hardware comum. Boas notícias para custos e eficiência.",
-    "reasonEn": "Research on HuggingFace shows a 4-bit model that, after healing, outperforms its full-precision original. Matters because smaller, cheaper models can run on common hardware. Good news for cost and efficiency.",
-    "score": 0.75,
-    "tags": [
-      "modelo",
-      "pesquisa",
-      "eficiência"
-    ],
-    "img": "img/f1c76f23a788.jpg",
-    "ts": 1787657964,
-    "addedTs": 1787660971,
-    "urlHash": "f1c76f23a788",
-    "titleHash": "d7e28cb6be0e"
-  },
-  {
-    "title": "SEC reportedly subpoenas Wall St banks over AI hedge fund Situational Awareness",
-    "titlePt": "SEC investiga bancos de Wall Street sobre fundo de hedge com IA",
-    "url": "https://www.cnbc.com/2026/08/25/sec-situational-awareness-hedge-fund-subpoenas.html",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Reportagem afirma que a SEC intimou grandes bancos por causa de um fundo de hedge baseado em IA chamado Situational Awareness. Importa porque quer entender o uso de IA em finanças. Mercado financeiro deve acompanhar.",
-    "reasonEn": "Reports say the SEC subpoenaed Wall Street banks over an AI hedge fund called Situational Awareness. Matters because regulators want to understand AI use in finance. The financial market should pay attention.",
-    "score": 0.8,
-    "tags": [
-      "regulação",
-      "finanças",
-      "ia"
-    ],
-    "img": "img/42b62ae2d3fa.jpg",
-    "ts": 1787656826,
-    "addedTs": 1787660971,
-    "urlHash": "42b62ae2d3fa",
-    "titleHash": "3a618921537c"
-  },
-  {
-    "title": "America's immigration policy is driving away future AI leaders",
-    "titlePt": "Política migratória dos EUA afasta futuros líderes de IA",
-    "url": "https://restofworld.org/2026/us-immigration-rules-ai-talent-china/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Reportagem discute como as restrições de visto nos Estados Unidos estão fazendo pesquisadores e engenheiros de IA escolherem outros países. Vários talentos estão migrando para Canadá, Reino Unido e Europa em busca de ambientes mais acolhedores. A tendência preocupa universidades e empresas de tecnologia americanas, que perdem mão de obra altamente especializada. O tema afeta diretamente empresas que dependem de pesquisadores estrangeiros e o ritmo da inovação nos EUA.",
-    "reasonEn": "A report discusses how US visa restrictions are pushing AI researchers and engineers to choose other countries. Many talents are moving to Canada, the UK and Europe in search of more welcoming environments. The trend worries American universities and tech companies, which are losing highly specialized workers. The topic directly affects companies that depend on foreign researchers and the pace of innovation in the US.",
-    "score": 0.7,
-    "tags": [
-      "imigração",
-      "política",
-      "talento"
-    ],
-    "img": "img/5fa23260b3e7.jpg",
-    "ts": 1787656465,
-    "addedTs": 1787660971,
-    "urlHash": "5fa23260b3e7",
-    "titleHash": "b99953d5d4f9"
-  },
-  {
-    "title": "ChatGPT Ads expands across Europe",
-    "titlePt": "Anúncios do ChatGPT se expandem pela Europa",
-    "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A OpenAI confirmou que os anúncios dentro do ChatGPT estão sendo expandidos para mais países europeus. Usuários europeus passarão a ver propagandas integradas às respostas do assistente. A medida faz parte da estratégia da empresa para monetizar o produto gratuito e aumentar receita. A mudança pode afetar a experiência de milhões de pessoas que utilizam a versão gratuita na região.",
-    "reasonEn": "OpenAI confirmed that ads inside ChatGPT are being expanded to more European countries. European users will start seeing ads integrated into the assistant's responses. The move is part of the company's strategy to monetize the free product and increase revenue. The change may affect the experience of millions of people using the free version in the region.",
-    "score": 0.8,
-    "tags": [
-      "openai",
-      "monetização",
-      "europa"
-    ],
-    "img": "img/8393c843a171.jpg",
-    "ts": 1787090400,
-    "addedTs": 1787660971,
-    "urlHash": "8393c843a171",
-    "titleHash": "0f8eb8943ec6"
-  },
-  {
-    "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-    "titlePt": "Gravar, treinar e deployar em um só lugar com Hugging Face",
-    "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "O post mostra como integrar Strands Agents, LeRobot e Hugging Face Storage Buckets para registrar dados, treinar modelos e fazer deploy em um único fluxo. A solução facilita o trabalho de times que desenvolvem agentes e robôs, evitando alternar entre várias ferramentas. Inclui exemplos práticos de uso. Voltado a desenvolvedores que querem simplificar pipelines de IA.",
-    "reasonEn": "The post shows how to integrate Strands Agents, LeRobot, and Hugging Face Storage Buckets to record data, train models, and deploy in a single flow. The solution makes life easier for teams developing agents and robots, avoiding switching between multiple tools. It includes practical usage examples. Aimed at developers who want to simplify AI pipelines.",
-    "score": 0.5,
-    "tags": [
-      "huggingface",
-      "deploy",
-      "robótica"
-    ],
-    "img": "img/353217afc4f7.jpg",
-    "ts": 1786641364,
-    "addedTs": 1787660971,
-    "urlHash": "353217afc4f7",
-    "titleHash": "e93aba9f974a"
-  },
-  {
-    "title": "The builder’s guide to GPT‑5.6",
-    "titlePt": "Guia do desenvolvedor para o GPT-5.6",
-    "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A OpenAI publicou um guia completo para desenvolvedores que querem construir aplicações com o GPT-5.6. O material cobre recursos, APIs, boas práticas e exemplos de uso do novo modelo. É a referência oficial para quem deseja migrar projetos para a versão mais recente. Desenvolvedores devem ler antes de atualizar integrações em produção.",
-    "reasonEn": "OpenAI published a complete guide for developers who want to build applications with GPT-5.6. The material covers features, APIs, best practices, and usage examples of the new model. It is the official reference for those wanting to migrate projects to the latest version. Developers should read it before updating production integrations.",
-    "score": 0.8,
-    "tags": [
-      "openai",
-      "gpt-5",
-      "desenvolvimento"
-    ],
-    "img": "img/6f8368ac763b.jpg",
-    "ts": 1786618800,
-    "addedTs": 1787660971,
-    "urlHash": "6f8368ac763b",
-    "titleHash": "a2b1a6dc2df5"
-  },
-  {
-    "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
-    "titlePt": "Google apoia iniciativa para tornar o Reino Unido polo de IA",
-    "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
-    "source": "Google AI",
-    "sources": [
-      "Google AI"
-    ],
-    "reason": "O Google anunciou um programa para apoiar o Reino Unido na construção de uma geração de empreendedores e profissionais de IA. A iniciativa inclui treinamentos, ferramentas e parcerias com empresas locais. A empresa busca fortalecer sua posição no mercado britânico em meio à concorrência global. Pode beneficiar desenvolvedores e pequenas empresas britânicas que adotam IA.",
-    "reasonEn": "Google announced a program to support the UK in building a generation of AI entrepreneurs and professionals. The initiative includes training, tools, and partnerships with local companies. The company seeks to strengthen its position in the British market amid global competition. It may benefit British developers and small businesses adopting AI.",
-    "score": 0.5,
-    "tags": [
-      "google",
-      "reino-unido",
-      "iniciativa"
-    ],
-    "img": "img/2987e3b3c79a.jpg",
-    "ts": 1782799200,
-    "addedTs": 1787660971,
-    "urlHash": "2987e3b3c79a",
-    "titleHash": "15e21a08b330"
-  },
-  {
-    "title": "Show HN: SkillPreflight – score AI agent skills before installing them",
-    "titlePt": "SkillPreflight: avalie habilidades de agentes de IA antes de instalar",
-    "url": "https://github.com/agent-contracts/skill-preflight",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Ferramenta que pontua 'skills' de agentes de IA antes do usuário instalar, evitando surpresas ruins. Resolve um problema real em um ecossistema ainda desorganizado. Vale para quem trabalha com agentes de IA e quer evitar dor de cabeça.",
-    "reasonEn": "A tool that scores AI agent skills before installation, avoiding bad surprises. It solves a real problem in an unorganized ecosystem. Worth checking for anyone working with AI agents who wants to avoid headaches.",
-    "score": 0.6,
-    "tags": [
-      "agentes",
-      "segurança",
-      "ferramenta"
-    ],
-    "img": "img/45fb725f0965.jpg",
-    "ts": 1787652493,
-    "addedTs": 1787653356,
-    "urlHash": "45fb725f0965",
-    "titleHash": "ddc233b9f85d"
-  },
-  {
-    "title": "Intel Crescent Island 160GB to 480GB LPDDR5X AI GPU at Hot Chips 2026",
-    "titlePt": "Intel apresenta GPU Crescent Island de até 480GB LPDDR5X para IA",
-    "url": "https://www.servethehome.com/intel-crescent-island-160gb-to-480gb-lpddr5x-ai-gpu-at-hot-chips-2026/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Intel revelou na Hot Chips 2026 sua nova GPU Crescent Island voltada para IA, com memória LPDDR5X generosa. É um movimento direto contra Nvidia e AMD no segmento de IA. Quem planeja infraestrutura de IA precisa acompanhar essa nova concorrente.",
-    "reasonEn": "Intel revealed its new Crescent Island GPU at Hot Chips 2026, aimed at AI with generous LPDDR5X memory. It is a direct move against Nvidia and AMD in the AI segment. Anyone planning AI infrastructure should track this new competitor.",
-    "score": 0.85,
-    "tags": [
-      "hardware",
-      "intel",
-      "gpu"
-    ],
-    "img": "img/b67760a63fc8.jpg",
-    "ts": 1787651578,
-    "addedTs": 1787653356,
-    "urlHash": "b67760a63fc8",
-    "titleHash": "137146561936"
-  },
-  {
-    "title": "Nvidia Has Become a Banker to the AI Boom, Putting It on Dangerous Ground",
-    "titlePt": "Nvidia virou banqueiro do boom de IA, em terreno perigoso",
-    "url": "https://www.wsj.com/tech/ai/nvidia-has-become-a-banker-to-the-ai-boom-putting-it-on-dangerous-ground-94c03545",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A análise mostra que a Nvidia passou a financiar e investir em startups de IA, indo além de vender chips. Isso concentra risco financeiro enorme numa única empresa. Investidores e líderes de tecnologia precisam entender as implicações dessa nova posição.",
-    "reasonEn": "The analysis shows Nvidia has moved into financing and investing in AI startups, going beyond selling chips. That concentrates huge financial risk in a single company. Investors and tech leaders need to understand what this new position implies.",
-    "score": 0.8,
-    "tags": [
-      "nvidia",
-      "finanças",
-      "análise"
-    ],
-    "img": "img/573d50875777.jpg",
-    "ts": 1787651422,
-    "addedTs": 1787653356,
-    "urlHash": "573d50875777",
-    "titleHash": "e7373de19d17"
-  },
-  {
-    "title": "Highest AI benchmarks ≠ adoption stonks",
-    "titlePt": "Melhores benchmarks de IA não garantem adoção no mercado",
-    "url": "https://pran.sh/blog/reliable-model-wins",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O texto critica a cultura de leaderboards, mostrando que modelos com notas altas em testes nem sempre são adotados. É uma leitura útil para quem escolhe ferramentas de IA com base em marketing técnico. Ajuda a tomar decisões mais realistas.",
-    "reasonEn": "The piece critiques the leaderboard culture, showing that models with top benchmark scores are not always adopted. A useful read for anyone choosing AI tools based on technical marketing. Helps make more realistic decisions.",
-    "score": 0.6,
-    "tags": [
-      "benchmarks",
-      "análise"
-    ],
-    "img": "img/f3e099ff02a3.jpg",
-    "ts": 1787650549,
-    "addedTs": 1787653356,
-    "urlHash": "f3e099ff02a3",
-    "titleHash": "051d78a0dd75"
-  },
-  {
-    "title": "Ox Alpha – A mysterious new AI model",
-    "titlePt": "Ox Alpha - misterioso novo modelo de IA aparece no cenário",
-    "url": "https://oxalpha.com",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um modelo de IA chamado Ox Alpha apareceu com pouca informação pública, gerando especulação. Pode ser lançamento de laboratório chinês ou novo player. Vale acompanhar quem está de olho em novos modelos de fronteira.",
-    "reasonEn": "An AI model called Ox Alpha has appeared with little public information, sparking speculation. It may be a Chinese lab launch or a new player. Worth watching for anyone tracking new frontier models.",
-    "score": 0.7,
-    "tags": [
-      "modelo",
-      "lançamento"
-    ],
-    "img": "img/3b3c7735b3a0.jpg",
-    "ts": 1787650313,
-    "addedTs": 1787653356,
-    "urlHash": "3b3c7735b3a0",
-    "titleHash": "09c384cf6129"
-  },
-  {
-    "title": "Sam Altman on AI: 'We've not had the iPhone moment'",
-    "titlePt": "Sam Altman: 'Ainda não tivemos o momento iPhone da IA'",
-    "url": "https://www.youtube.com/watch?v=dktlHZOSn5o",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O CEO da OpenAI afirmou que a IA ainda não teve seu momento transformador massivo, comparando ao iPhone. É uma declaração forte de quem está no centro da indústria. Ajuda a calibrar expectativas sobre o ritmo da revolução da IA.",
-    "reasonEn": "OpenAI's CEO said AI has not yet had its mass transformative moment, comparing it to the iPhone. A strong statement from someone at the center of the industry. It helps calibrate expectations about the pace of the AI revolution.",
-    "score": 0.75,
-    "tags": [
-      "openai",
-      "indústria"
-    ],
-    "img": "img/77cf547fec45.jpg",
-    "ts": 1787650182,
-    "addedTs": 1787653356,
-    "urlHash": "77cf547fec45",
-    "titleHash": "52bba37b487d"
-  },
-  {
-    "title": "Trump's tariffs risk higher prices for AI, video games, cellphones: experts",
-    "titlePt": "Tarifas de Trump devem encarecer IA, videogames e celulares",
-    "url": "https://www.cbc.ca/news/business/trump-tariff-ai-9.7318970",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Especialistas alertam que as tarifas americanas vão aumentar preços de hardware essencial para IA, como chips e servidores. Isso afeta custos para empresas e consumidores finais. Quem planeja compras de tecnologia em 2026 deve se preparar para reajustes.",
-    "reasonEn": "Experts warn that US tariffs will raise prices of AI-essential hardware, such as chips and servers. That impacts costs for businesses and end consumers. Anyone planning tech purchases in 2026 should brace for price hikes.",
-    "score": 0.65,
-    "tags": [
-      "tarifas",
-      "economia",
-      "hardware"
-    ],
-    "img": "img/d56797e58918.jpg",
-    "ts": 1787649738,
-    "addedTs": 1787653356,
-    "urlHash": "d56797e58918",
-    "titleHash": "8d1c24e7e840"
-  },
-  {
-    "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
-    "titlePt": "OpenAI é intimada pelo procurador-geral do Alabama após invasão no Hugging Face",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "O procurador-geral do Alabama emitiu intimação à OpenAI relacionada ao vazamento de dados do Hugging Face. É mais um capítulo da pressão regulatória sobre grandes empresas de IA. Mostra que incidentes de segurança viram casos jurídicos rapidamente.",
-    "reasonEn": "The Alabama Attorney General has subpoenaed OpenAI in connection with the Hugging Face data breach. It is another chapter of regulatory pressure on major AI companies. It shows that security incidents quickly become legal cases.",
-    "score": 0.85,
-    "tags": [
-      "openai",
-      "regulação",
-      "segurança"
-    ],
-    "img": "img/6c2861183e87.jpg",
-    "ts": 1787649303,
-    "addedTs": 1787653356,
-    "urlHash": "6c2861183e87",
-    "titleHash": "e812fae1ff94"
-  },
-  {
-    "title": "Jensen Huang: Land power and shell – The next critical resource for AI factories",
-    "titlePt": "Jensen Huang: terra, energia e refrigeração são os novos recursos críticos para IA",
-    "url": "https://twitter.com/JensenHuang/status/2089331487342829862",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O CEO da Nvidia afirma que os gargalos das fábricas de IA agora são terrenos, energia e sistemas de refrigeração, não chips. Isso muda o mapa de quem pode construir data centers. Empresas e governos precisam repensar estratégia de infraestrutura.",
-    "reasonEn": "Nvidia's CEO says the bottlenecks for AI factories are now land, power, and cooling, not chips. That reshapes who can build data centers. Companies and governments need to rethink infrastructure strategy.",
-    "score": 0.7,
-    "tags": [
-      "nvidia",
-      "infraestrutura",
-      "energia"
-    ],
-    "img": "img/563062b3138d.jpg",
-    "ts": 1787649197,
-    "addedTs": 1787653356,
-    "urlHash": "563062b3138d",
-    "titleHash": "0227d024b0c8"
-  },
-  {
-    "title": "Xiaomi, AI Cube prototype: Multi-chip local LLM powerhouse",
-    "titlePt": "Xiaomi mostra protótipo AI Cube com múltiplos chips para LLM local",
-    "url": "https://me.mashable.com/tech/75268/xiaomi-reveals-ai-cube-prototype-multi-chip-local-llm-powerhouse-takes-aim-at-apples-macs",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Xiaomi apresentou um protótipo de hardware compacto capaz de rodar LLMs localmente usando múltiplos chips. Mostra tendência de produtos voltados para IA on-device. Interessante para acompanhar a corrida de hardware fora dos EUA.",
-    "reasonEn": "Xiaomi showed a compact hardware prototype capable of running LLMs locally using multiple chips. It shows a trend toward on-device AI products. Interesting to track the hardware race outside the US.",
-    "score": 0.55,
-    "tags": [
-      "hardware",
-      "xiaomi",
-      "local"
-    ],
-    "img": "img/d07518841142.jpg",
-    "ts": 1787648912,
-    "addedTs": 1787653356,
-    "urlHash": "d07518841142",
-    "titleHash": "87dc9e5e3ef6"
-  },
-  {
-    "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
-    "titlePt": "Passei um dia em um 'carnaval' de robôs em Xangai",
-    "url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
-    "source": "MIT Tech Review",
-    "sources": [
-      "MIT Tech Review"
-    ],
-    "reason": "Reportagem em primeira pessoa mostra um evento de robótica em Xangai com demonstrações impressionantes. Dá um termômetro real do estágio da robótica chinesa hoje. Leitura leve, mas útil para entender o ritmo do setor.",
-    "reasonEn": "A first-person report covers a robotics event in Shanghai with impressive demonstrations. It gives a real read on the state of Chinese robotics today. Light read, but useful for understanding the pace of the industry.",
-    "score": 0.6,
-    "tags": [
-      "robótica",
-      "china"
-    ],
-    "img": "img/ab5c691f4b17.jpg",
-    "ts": 1787648400,
-    "addedTs": 1787653356,
-    "urlHash": "ab5c691f4b17",
-    "titleHash": "d7aee195725c"
-  },
-  {
-    "title": "We're lying to Claude in almost every session",
-    "titlePt": "Estamos mentindo para o Claude em quase todas as sessões",
-    "url": "https://github.com/Piebald-AI/claude-code-system-prompts/blob/main/system-prompts/system-prompt-autonomous-operation-guidelines.md",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Discussão interessante sobre como usuários frequentemente 'mentem' para o Claude com contexto parcial para conseguir melhores respostas. Mostra que ainda não dominamos como conversar com IA. Reflexão útil para usuários e designers de prompt.",
-    "reasonEn": "An interesting discussion about how users often 'lie' to Claude with partial context to get better answers. It shows we still haven't mastered how to talk to AI. Useful reflection for users and prompt designers.",
-    "score": 0.5,
-    "tags": [
-      "comportamento",
-      "produtividade"
-    ],
-    "img": "img/5051bee9f12b.jpg",
-    "ts": 1787647341,
-    "addedTs": 1787653356,
-    "urlHash": "5051bee9f12b",
-    "titleHash": "c5548f7221c8"
-  },
-  {
-    "title": "Terminal-bench: benchmarks for AI agents in terminal environments",
-    "titlePt": "Terminal-bench: benchmark para agentes de IA em ambientes de terminal",
-    "url": "https://www.tbench.ai/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Novo benchmark focado em medir agentes de IA em tarefas reais de linha de comando. Ajuda a comparar agentes que prometem operar como devs sêniores. Ferramenta prática para quem está escolhendo ou construindo agentes.",
-    "reasonEn": "A new benchmark focused on measuring AI agents in real command-line tasks. It helps compare agents claiming to operate like senior developers. A practical tool for anyone choosing or building agents.",
-    "score": 0.55,
-    "tags": [
-      "benchmarks",
-      "agentes",
-      "devtools"
-    ],
-    "img": "img/3be95230c580.jpg",
-    "ts": 1787647120,
-    "addedTs": 1787653356,
-    "urlHash": "3be95230c580",
-    "titleHash": "249b273eafaa"
-  },
-  {
-    "title": "Has AI Gone Rogue?",
-    "titlePt": "A IA ficou descontrolada?",
-    "url": "https://calnewport.com/has-ai-gone-rogue/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Discussão recente sobre comportamento emergente e imprevisível de sistemas de IA atuais. Traz reflexão importante sobre segurança e alinhamento. Vale a leitura para quem se preocupa com o futuro da tecnologia.",
-    "reasonEn": "A recent discussion on the emergent and unpredictable behavior of today's AI systems. It brings important reflection on safety and alignment. Worth reading for anyone concerned about the future of the technology.",
-    "score": 0.75,
-    "tags": [
-      "segurança",
-      "alinhamento"
-    ],
-    "img": "img/336b47f66a39.jpg",
-    "ts": 1787646591,
-    "addedTs": 1787653356,
-    "urlHash": "336b47f66a39",
-    "titleHash": "dfe5cbc47e97"
-  },
-  {
-    "title": "Disrupting a new covert influence campaign from Russia",
-    "titlePt": "OpenAI desarticula nova campanha secreta de influência russa",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A OpenAI divulgou que identificou e bloqueou uma nova campanha de influência russa que usava seus modelos para gerar conteúdo político coordenado em múltiplos idiomas. A operação buscava manipular opiniões sobre guerra, eleições e política externa. É mais um sinal da corrida entre plataformas de IA e atores estatais por desinformação. Importante para profissionais de segurança, políticas e qualquer pessoa que se importa com integridade da informação.",
-    "reasonEn": "OpenAI disclosed it identified and disrupted a new Russian influence campaign that used its models to generate coordinated political content in multiple languages. The operation aimed to manipulate opinions on war, elections and foreign policy. It is another signal of the race between AI platforms and state actors over disinformation. Important for security professionals, policymakers and anyone who cares about information integrity.",
-    "score": 0.85,
-    "tags": [
-      "segurança",
-      "openai",
-      "desinformação"
-    ],
-    "img": "img/62003111f3b5.jpg",
-    "ts": 1787616000,
-    "addedTs": 1787653356,
-    "urlHash": "62003111f3b5",
-    "titleHash": "cee49873339b"
   }
 ]
