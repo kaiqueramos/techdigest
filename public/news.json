@@ -1,5 +1,242 @@
 [
   {
+    "title": "AI is making back-office work extinct",
+    "titlePt": "IA está extinguindo trabalho administrativo, dizem no Hacker News",
+    "url": "https://www.whitecollardream.com/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Discussão no Hacker News aborda como ferramentas de IA estão eliminando cargos administrativos e de back-office em diversas empresas. Vários comentários relatam casos concretos de substituição de tarefas antes feitas por pessoas. O tema é relevante para profissionais de operações e RH, mas trata-se de uma discussão, não de notícia nova.",
+    "reasonEn": "Hacker News discussion about how AI tools are eliminating administrative and back-office roles across various companies. Multiple comments report concrete cases of tasks previously done by humans being replaced. The topic is relevant for operations and HR professionals, but this is a discussion rather than breaking news.",
+    "score": 0.5,
+    "tags": [
+      "trabalho",
+      "automação"
+    ],
+    "img": "img/cf4e14e243a6.jpg",
+    "ts": 1788299011,
+    "addedTs": 1788300752,
+    "urlHash": "cf4e14e243a6",
+    "titleHash": "9c0f0f3463df"
+  },
+  {
+    "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+    "titlePt": "BenchMIRT questiona o que os benchmarks de IA realmente medem",
+    "url": "https://huggingface.co/blog/allenai/benchmirt",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "Pesquisa publicada no Hugging Face propõe o BenchMIRT, um método para investigar o que os benchmarks de grandes modelos de linguagem estão de fato avaliando. Os autores argumentam que muitos testes populares misturam várias habilidades e podem dar falsa sensação de progresso. É útil para desenvolvedores e pesquisadores que decidem em quais testes confiar.",
+    "reasonEn": "Research published on Hugging Face proposes BenchMIRT, a method for investigating what large language model benchmarks actually evaluate. The authors argue many popular tests mix multiple skills and can give a false sense of progress. Useful for developers and researchers deciding which tests to trust.",
+    "score": 0.6,
+    "tags": [
+      "pesquisa",
+      "benchmarks"
+    ],
+    "img": "img/ad90e6779ea3.jpg",
+    "ts": 1788298747,
+    "addedTs": 1788300752,
+    "urlHash": "ad90e6779ea3",
+    "titleHash": "b9d6424cec27"
+  },
+  {
+    "title": "In-memory security gate for autonomous AI agent tools",
+    "titlePt": "Barreira de segurança em memória para ferramentas de agentes de IA",
+    "url": "https://bartholomew.info",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Projeto no Hacker News propõe uma camada de segurança em memória que intercepta chamadas de ferramentas usadas por agentes de IA autônomos. A ideia é evitar que um agente comprometido execute ações perigosas no sistema hospedeiro. É relevante para quem implementa agentes em produção, ainda que o projeto esteja em estágio inicial.",
+    "reasonEn": "A Hacker News project proposes an in-memory security layer that intercepts tool calls made by autonomous AI agents. The goal is to prevent a compromised agent from performing dangerous actions on the host system. Relevant for those deploying agents in production, though the project is still early-stage.",
+    "score": 0.5,
+    "tags": [
+      "segurança",
+      "agentes"
+    ],
+    "img": "img/9d6df47a226a.jpg",
+    "ts": 1788298567,
+    "addedTs": 1788300752,
+    "urlHash": "9d6df47a226a",
+    "titleHash": "d2b8a284a655"
+  },
+  {
+    "title": "Open AI&#8217;s Astra model is on the way—and very good at breaking into computer systems",
+    "titlePt": "Modelo Astra da OpenAI está chegando — e é muito bom em invadir sistemas",
+    "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "Reportagem da TechCrunch revela que o novo modelo Astra, da OpenAI, está prestes a ser lançado e se destacou em testes internos por sua habilidade de quebrar sistemas computacionais. A empresa avalia a capacidade como preocupante a ponto de exigir restrições adicionais de uso. Desenvolvedores e empresas devem acompanhar de perto o lançamento e os termos de acesso.",
+    "reasonEn": "TechCrunch report reveals that OpenAI's new Astra model is nearing release and stood out in internal tests for its ability to break into computer systems. The company rates the capability as concerning enough to require additional usage restrictions. Developers and companies should closely follow the launch and access terms.",
+    "score": 0.8,
+    "tags": [
+      "openai",
+      "segurança",
+      "modelo"
+    ],
+    "img": "img/c53867e1e8c8.jpg",
+    "ts": 1788296784,
+    "addedTs": 1788300752,
+    "urlHash": "c53867e1e8c8",
+    "titleHash": "2be3c4a3f0df"
+  },
+  {
+    "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
+    "titlePt": "OpenAI adiou desenvolvimento de novo modelo após invasão no Hugging Face",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "A OpenAI teria adiado o desenvolvimento de um novo modelo após tomar conhecimento do ataque hacker que atingiu o Hugging Face. A medida teria sido tomada para revisar dependências e garantir que o treinamento não foi comprometido. O caso é relevante para times de segurança e para quem depende da cadeia de suprimentos de IA.",
+    "reasonEn": "OpenAI reportedly delayed development of a new model after learning of the hack that hit Hugging Face. The move would have been taken to review dependencies and ensure training had not been compromised. The case is relevant for security teams and anyone relying on the AI supply chain.",
+    "score": 0.7,
+    "tags": [
+      "openai",
+      "segurança"
+    ],
+    "img": "img/a101021e89ae.jpg",
+    "ts": 1788295549,
+    "addedTs": 1788300752,
+    "urlHash": "a101021e89ae",
+    "titleHash": "532237aa281c"
+  },
+  {
+    "title": "Cutting an AI agent's network access mid-run, measured at 127 ms",
+    "titlePt": "Bloquear acesso de rede de agente de IA no meio da execução custa 127 ms",
+    "url": "https://medium.com/data-science-collective/your-coding-agent-has-your-aws-keys-and-an-open-internet-connection-b4f3f7dfc15f",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Projeto mostra que cortar o acesso de rede de um agente de IA no meio de uma execução adiciona em média 127 ms de latência, viabilizando mecanismos de segurança que interrompem agentes comprometidos sem grande impacto de performance. É dado concreto e útil para quem implementa controles de segurança em sistemas com agentes. Serve como referência quantitativa para discussões antes vagas sobre o tema.",
+    "reasonEn": "A project shows that cutting an AI agent's network access mid-run adds about 127 ms of latency, making feasible security mechanisms that interrupt compromised agents without major performance impact. It's concrete data, useful for those implementing security controls in agent systems. Serves as a quantitative reference for previously vague discussions on the topic.",
+    "score": 0.5,
+    "tags": [
+      "segurança",
+      "agentes",
+      "performance"
+    ],
+    "img": "img/c61ddd3812e0.jpg",
+    "ts": 1788295285,
+    "addedTs": 1788300752,
+    "urlHash": "c61ddd3812e0",
+    "titleHash": "2f1a4b1f755b"
+  },
+  {
+    "title": "Dwarf Fortress creator: industry in shambles over AI and layoffs",
+    "titlePt": "Criador de Dwarf Fortress diz que setor de jogos está em frangalhos por IA e demissões",
+    "url": "https://news.ycombinator.com/item?id=49527773",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Tarn Adams, criador de Dwarf Fortress, concedeu entrevista apontando que a indústria de jogos está em frangalhos por causa do uso de IA e de demissões em massa. As declarações refletem tensão vivida por desenvolvedores em vários estúdios. É um sinal importante do clima do setor vindo de uma figura bastante respeitada.",
+    "reasonEn": "Tarn Adams, creator of Dwarf Fortress, gave an interview saying the gaming industry is in shambles due to AI use and mass layoffs. His statements reflect tension experienced by developers at several studios. It's an important signal of the industry's climate, coming from a highly respected figure.",
+    "score": 0.5,
+    "tags": [
+      "games",
+      "indústria"
+    ],
+    "img": "img/6ffdeae48607.jpg",
+    "ts": 1788294754,
+    "addedTs": 1788300752,
+    "urlHash": "6ffdeae48607",
+    "titleHash": "1f8aaaabcabc"
+  },
+  {
+    "title": "How AI plotted an interstellar journey to Alpha Centauri",
+    "titlePt": "Como a IA planejou uma viagem interestelar até Alpha Centauri",
+    "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
+    "source": "MIT Tech Review",
+    "sources": [
+      "MIT Tech Review"
+    ],
+    "reason": "Pesquisadores usaram inteligência artificial para traçar uma rota viável até Alpha Centauri, o sistema estelar mais próximo do Sol. A IA simulou trajetórias considerando combustível, tempo e obstáculos espaciais em muito menos tempo do que métodos tradicionais. O resultado pode acelerar o planejamento de missões interestelares reais. É um marco para a exploração espacial apoiada por IA.",
+    "reasonEn": "Researchers used artificial intelligence to plot a viable route to Alpha Centauri, the closest star system to the Sun. The AI simulated trajectories considering fuel, time, and space obstacles much faster than traditional methods. The result could accelerate planning of real interstellar missions. It marks a milestone for AI-assisted space exploration.",
+    "score": 0.65,
+    "tags": [
+      "ciência",
+      "espaço",
+      "pesquisa"
+    ],
+    "img": "img/7ad6c276e7f3.jpg",
+    "ts": 1788289836,
+    "addedTs": 1788300752,
+    "urlHash": "7ad6c276e7f3",
+    "titleHash": "c3364370281a"
+  },
+  {
+    "title": "The rise of AI &#8216;civilizations&#8217; and the fall of corporate responsibility",
+    "titlePt": "A ascensão das 'civilizações' de IA e a queda da responsabilidade corporativa",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "O artigo discute como empresas de IA estão criando ecossistemas autônomos tão vastos que se assemelham a civilizações digitais. Os autores alertam para a perda de responsabilidade corporativa à medida que esses sistemas ganham independência. Argumentam que e usuários precisam cobrar transparência antes que os danos sejam irreversíveis. É uma reflexão sobre governança e poder concentrado em poucas empresas.",
+    "reasonEn": "The article discusses how AI companies are building autonomous ecosystems so vast they resemble digital civilizations. The authors warn that corporate responsibility is eroding as these systems gain independence. They argue that regulators and users must demand transparency before harm becomes irreversible. It is a reflection on governance and power concentrated in a few companies.",
+    "score": 0.55,
+    "tags": [
+      "opinião",
+      "regulação",
+      "governança"
+    ],
+    "img": "img/78f5b18132c5.jpg",
+    "ts": 1788289374,
+    "addedTs": 1788300752,
+    "urlHash": "78f5b18132c5",
+    "titleHash": "1f0aa4bf52a7"
+  },
+  {
+    "title": "Apple accuses OpenAI of destroying evidence",
+    "titlePt": "Apple acusa OpenAI de destruir evidências em processo judicial",
+    "url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "A Apple acusou a OpenAI de ter destruído provas relevantes em uma disputa legal entre as duas empresas. O caso pode ter consequências graves, incluindo sanções financeiras ou limitações no uso de informações em tribunal. A briga ilustra como a concorrência no setor de IA está ficando mais agressiva. Desenvolvedores e parceiros das duas companhias devem acompanhar o desfecho.",
+    "reasonEn": "Apple accused OpenAI of destroying relevant evidence in a legal dispute between the two companies. The case could bring serious consequences, including financial sanctions or limits on what information can be used in court. The clash shows how competition in the AI sector is becoming more aggressive. Developers and partners of both companies should follow the outcome.",
+    "score": 0.85,
+    "tags": [
+      "legal",
+      "openai",
+      "apple"
+    ],
+    "img": "img/7680bcf78a62.jpg",
+    "ts": 1788286766,
+    "addedTs": 1788300752,
+    "urlHash": "7680bcf78a62",
+    "titleHash": "1afac9ef45e4"
+  },
+  {
+    "title": "Nvidia&#8217;s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
+    "titlePt": "DLSS 5 da Nvidia chega em 3 de setembro e exige GPUs potentes",
+    "url": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "A Nvidia confirmou que o DLSS 5 será liberado em 3 de setembro, prometendo salto grande na qualidade visual de jogos. A tecnologia exige placas de vídeo robustas, o que pode deixar usuários com hardware mais antigo de fora. Desenvolvedores de jogos já podem se preparar para integrar a novidade. A medida reforça o ciclo de atualização de hardware da empresa.",
+    "reasonEn": "Nvidia confirmed that DLSS 5 will launch on September 3, promising a big leap in game visual quality. The technology requires powerful GPUs, which may leave users with older hardware out. Game developers can already prepare to integrate the new feature. The move reinforces the company's hardware upgrade cycle.",
+    "score": 0.6,
+    "tags": [
+      "nvidia",
+      "games",
+      "hardware"
+    ],
+    "img": "img/a9cc7a6dadeb.jpg",
+    "ts": 1788268872,
+    "addedTs": 1788300752,
+    "urlHash": "a9cc7a6dadeb",
+    "titleHash": "0d4f4cf5a4f0"
+  },
+  {
     "title": "X suspended 6 of our 7 openly-labeled AI accounts for \"inauthentic behaviors\"",
     "titlePt": "X suspende seis de sete contas de IA mesmo identificadas claramente",
     "url": "https://areyto.media/x-suspensions",
@@ -7841,259 +8078,5 @@
     "addedTs": 1787696237,
     "urlHash": "23ccd9ff0c11",
     "titleHash": "bf4a80cff43b"
-  },
-  {
-    "title": "Feral – one local brain with memory for your devices and apps",
-    "titlePt": "Feral: cérebro local com memória para seus dispositivos",
-    "url": "https://github.com/FERAL-AI/FERAL-AI",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Feral é um projeto que oferece um cérebro de IA local com memória persistente para rodar em dispositivos e aplicativos. A proposta é rodar inteligência artificial no próprio hardware, sem depender da nuvem. Isso resolve problemas de privacidade, custo e latência. Interessa a desenvolvedores e usuários que querem IA offline e personalizada.",
-    "reasonEn": "Feral is a project that offers a local AI brain with persistent memory to run on devices and apps. The proposal is to run AI on your own hardware, without depending on the cloud. This solves privacy, cost, and latency issues. It appeals to developers and users who want offline and personalized AI.",
-    "score": 0.6,
-    "tags": [
-      "local",
-      "privacidade"
-    ],
-    "img": "img/be8891b87710.jpg",
-    "ts": 1787688671,
-    "addedTs": 1787689131,
-    "urlHash": "be8891b87710",
-    "titleHash": "e068fdb69df7"
-  },
-  {
-    "title": "AI is supercharging hacks of everyday utilities",
-    "titlePt": "IA turbina ataques hackers contra serviços essenciais",
-    "url": "https://www.axios.com/2026/08/25/ai-critical-infrastructure-cyberattacks",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um novo relatório mostra que hackers estão usando IA para atacar infraestruturas de serviços públicos, como água e energia. Os ataques ficaram mais rápidos e sofisticados com o uso de modelos generativos. Governos e empresas de utilidade pública estão em alerta. O tema afeta diretamente a segurança de cidades inteiras e merece atenção de profissionais de TI e gestores públicos.",
-    "reasonEn": "A new report shows that hackers are using AI to attack public utility infrastructure, such as water and energy. Attacks have become faster and more sophisticated with generative models. Governments and public utility companies are on alert. The topic directly affects the security of entire cities and deserves attention from IT professionals and public managers.",
-    "score": 0.8,
-    "tags": [
-      "segurança",
-      "infraestrutura"
-    ],
-    "img": "img/3c1fdde17a35.jpg",
-    "ts": 1787687457,
-    "addedTs": 1787689131,
-    "urlHash": "3c1fdde17a35",
-    "titleHash": "0bed151dd864"
-  },
-  {
-    "title": "Show HN: MiniMax H3 – Turn text and images into AI video clips",
-    "titlePt": "Ferramenta transforma texto e imagens em vídeos curtos com IA",
-    "url": "https://minimax3.com/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um projeto do tipo Show HN permite gerar clipes de vídeo a partir de texto e imagens usando inteligência artificial. Ferramentas de geração de vídeo estão cada vez mais acessíveis, e esta é mais uma opção para criadores. O lançamento entra em um mercado competitivo com outras soluções conhecidas. Pode interessar a criadores de conteúdo e profissionais de marketing.",
-    "reasonEn": "A Show HN project lets you generate video clips from text and images using artificial intelligence. Video generation tools are becoming more accessible, and this is another option for creators. The launch enters a competitive market with other well-known solutions. It may interest content creators and marketing professionals.",
-    "score": 0.5,
-    "tags": [
-      "vídeo",
-      "geração"
-    ],
-    "img": "img/0df6206ec380.jpg",
-    "ts": 1787687115,
-    "addedTs": 1787689131,
-    "urlHash": "0df6206ec380",
-    "titleHash": "4792f47f22b3"
-  },
-  {
-    "title": "ThinkRail (JetBrains incubator) – A Web-Based GUI for Pi Coding Agent",
-    "titlePt": "JetBrains incubadora lança interface gráfica para agente de código",
-    "url": "https://thinkrail.ai/blog/introducing-thinkrail/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A incubadora da JetBrains apresentou uma interface web para o agente de codificação Pi, chamada ThinkRail. A ferramenta facilita o uso de agentes de IA para programação sem depender do terminal. Reflete a tendência de tornar agentes de codificação mais acessíveis a desenvolvedores menos técnicos. Pode interessar times que preferem interfaces visuais.",
-    "reasonEn": "JetBrains' incubator has presented a web interface for the Pi coding agent, called ThinkRail. The tool makes it easier to use AI agents for programming without depending on the terminal. It reflects the trend of making coding agents more accessible to less technical developers. It may interest teams that prefer visual interfaces.",
-    "score": 0.5,
-    "tags": [
-      "jetbrains",
-      "agentes"
-    ],
-    "img": "img/a356d18473c2.jpg",
-    "ts": 1787686762,
-    "addedTs": 1787689131,
-    "urlHash": "a356d18473c2",
-    "titleHash": "34a5ca4827ae"
-  },
-  {
-    "title": "OpenAI's Head of Data Centers Has Left the Company",
-    "titlePt": "Chefe de data centers da OpenAI deixa a empresa",
-    "url": "https://www.wsj.com/tech/ai/openais-head-of-data-centers-has-left-company-6d24fd83",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O responsável pela infraestrutura de data centers da OpenAI pediu demissão, em uma saída relevante para a empresa. A OpenAI depende fortemente de capacidade de computação para treinar e rodar seus modelos. A saída pode indicar reestruturação interna ou busca por novos desafios profissionais. É notícia relevante para quem acompanha o setor e investimentos em IA.",
-    "reasonEn": "The head of data center infrastructure at OpenAI has resigned, a significant departure for the company. OpenAI depends heavily on computing capacity to train and run its models. The exit may indicate internal restructuring or a search for new professional challenges. It's relevant news for those following the sector and AI investments.",
-    "score": 0.8,
-    "tags": [
-      "openai",
-      "infraestrutura"
-    ],
-    "img": "img/9d9bc2e3a765.jpg",
-    "ts": 1787686659,
-    "addedTs": 1787689131,
-    "urlHash": "9d9bc2e3a765",
-    "titleHash": "325ed37328e9"
-  },
-  {
-    "title": "Now Introducing Gemini Enterprise for Legal",
-    "titlePt": "Google lança Gemini Enterprise para o setor jurídico",
-    "url": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-for-legal",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O Google anunciou o Gemini Enterprise for Legal, uma versão do seu modelo voltada para escritórios de advocacia e departamentos jurídicos. A ferramenta promete ajudar em análise de contratos, pesquisa e redação de peças. Faz parte da estratégia de verticalização da IA do Google por setor. Pode interessar a profissionais do direito e empresas de tecnologia jurídica.",
-    "reasonEn": "Google has announced Gemini Enterprise for Legal, a version of its model aimed at law firms and legal departments. The tool promises to help with contract analysis, research, and brief drafting. It's part of Google's AI verticalization strategy by sector. It may interest legal professionals and legal tech companies.",
-    "score": 0.5,
-    "tags": [
-      "google",
-      "jurídico"
-    ],
-    "img": "img/b15398341cc1.jpg",
-    "ts": 1787685757,
-    "addedTs": 1787689131,
-    "urlHash": "b15398341cc1",
-    "titleHash": "e77b9d959557"
-  },
-  {
-    "title": "I Built a Reddit-Like Forum for Agents. They Designed a Self-Learning Language",
-    "titlePt": "Fórum para agentes de IA registra emergência de linguagem própria",
-    "url": "https://www.reddit.com/r/aiagents/comments/1vxjnpf/i_built_a_redditlike_forum_for_ai_agents_they/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um pesquisador construiu um fórum estilo Reddit onde agentes de IA interagem entre si sem intervenção humana. Os agentes começaram a desenvolver uma linguagem própria para se comunicar, sinal de comportamento emergente. O experimento levanta questões sobre autonomia e segurança em sistemas multiagente. É leitura relevante para quem pesquisa IA, segurança e comportamento emergente.",
-    "reasonEn": "A researcher built a Reddit-like forum where AI agents interact with each other without human intervention. The agents started to develop their own language to communicate, a sign of emergent behavior. The experiment raises questions about autonomy and safety in multi-agent systems. It's relevant reading for those researching AI, safety, and emergent behavior.",
-    "score": 0.7,
-    "tags": [
-      "pesquisa",
-      "agentes"
-    ],
-    "img": "img/5fe8c9485753.jpg",
-    "ts": 1787685204,
-    "addedTs": 1787689131,
-    "urlHash": "5fe8c9485753",
-    "titleHash": "44ea801e1c73"
-  },
-  {
-    "title": "JetBrains Releases Junie Local, Its Coding Agent On-Device to Macs",
-    "titlePt": "JetBrains lança Junie Local: agente de código no Mac sem nuvem",
-    "url": "https://techstrong.ai/articles/jetbrains-releases-junie-local-bringing-its-coding-agent-fully-on-device-to-macs/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A JetBrains lançou o Junie Local, versão do seu agente de codificação que roda diretamente em Macs. A ferramenta dispensa conexão com a nuvem, trazendo benefícios de privacidade e latência. É uma resposta a produtos similares que dependem de servidores externos. Interessa a desenvolvedores que valorizam execução local e controle sobre seus dados.",
-    "reasonEn": "JetBrains has launched Junie Local, a version of its coding agent that runs directly on Macs. The tool eliminates the need for cloud connection, bringing privacy and latency benefits. It's a response to similar products that depend on external servers. It interests developers who value local execution and data control.",
-    "score": 0.7,
-    "tags": [
-      "jetbrains",
-      "local"
-    ],
-    "img": "img/302d4c55dd2f.jpg",
-    "ts": 1787684667,
-    "addedTs": 1787689131,
-    "urlHash": "302d4c55dd2f",
-    "titleHash": "90d464dc4254"
-  },
-  {
-    "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-    "titlePt": "Stability AI capta US$ 76 milhões em nova rodada de financiamento",
-    "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A Stability AI, criadora do Stable Diffusion, levantou US$ 76 milhões em uma nova rodada de financiamento. O aporte é menor do que rodadas anteriores, mas mostra que a empresa segue relevante no setor. O dinheiro deve ser usado para novos modelos e expansão de infraestrutura. É notícia importante para o ecossistema de IA generativa de imagens e para investidores do setor.",
-    "reasonEn": "Stability AI, creator of Stable Diffusion, has raised $76 million in a new funding round. The investment is smaller than previous rounds, but shows the company remains relevant in the sector. The money will likely be used for new models and infrastructure expansion. It's important news for the generative image AI ecosystem and for sector investors.",
-    "score": 0.8,
-    "tags": [
-      "financiamento",
-      "imagem"
-    ],
-    "img": "img/a14ffe864c76.jpg",
-    "ts": 1787684627,
-    "addedTs": 1787689131,
-    "urlHash": "a14ffe864c76",
-    "titleHash": "33103ebc0b11"
-  },
-  {
-    "title": "Examining the AI Bear Thesis",
-    "titlePt": "Análise examina a tese de baixa para o mercado de IA",
-    "url": "https://ldstn.substack.com/p/a-critical-examination-of-the-ai",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo examina argumentos céticos sobre o futuro da IA, incluindo possíveis bolhas de investimento e limitações técnicas atuais. A discussão é relevante porque o setor recebeu aportes bilionários nos últimos anos e depende de narrativa de crescimento. A análise equilibra otimismo e pessimismo com base em dados de mercado. Interessa a investidores, executivos e profissionais que acompanham tecnologia.",
-    "reasonEn": "The article examines skeptical arguments about AI's future, including possible investment bubbles and current technical limitations. The discussion is relevant because the sector has received billions in funding in recent years and depends on a growth narrative. The analysis balances optimism and pessimism based on market data. It interests investors, executives, and professionals following technology.",
-    "score": 0.6,
-    "tags": [
-      "mercado",
-      "análise"
-    ],
-    "img": "img/bc71ce5d4e25.jpg",
-    "ts": 1787683287,
-    "addedTs": 1787689131,
-    "urlHash": "bc71ce5d4e25",
-    "titleHash": "d9b9d80e7688"
-  },
-  {
-    "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
-    "titlePt": "OpenAI apresenta plugin Admin para ChatGPT Work e Codex",
-    "url": "https://openai.com/index/introducing-admin-plugin",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A OpenAI anunciou um novo plugin administrativo para os produtos ChatGPT Work e Codex, voltado ao gerenciamento corporativo do uso da IA. A ferramenta deve ajudar empresas a controlar acesso, licenças e políticas internas em ambientes de trabalho. O lançamento amplia a oferta da empresa para o mercado corporativo. Desenvolvedores que integram Codex em fluxos profissionais devem acompanhar a novidade.",
-    "reasonEn": "OpenAI announced a new admin plugin for ChatGPT Work and Codex products, aimed at corporate AI management. The tool is expected to help companies control access, licenses, and internal policies in workplace environments. The release expands the company's offering for the enterprise market. Developers integrating Codex into professional workflows should follow this news.",
-    "score": 0.55,
-    "tags": [
-      "openai",
-      "admin",
-      "codex"
-    ],
-    "img": "img/33eae878317d.jpg",
-    "ts": 1787616000,
-    "addedTs": 1787689131,
-    "urlHash": "33eae878317d",
-    "titleHash": "c9bebf7bc75c"
-  },
-  {
-    "title": "Replit expands access to software creation with GPT-5.6 Luna",
-    "titlePt": "Replit amplia acesso à criação de software com GPT-5.6 Luna",
-    "url": "https://openai.com/index/replit",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A Replit anunciou a expansão do acesso ao seu ambiente de criação de software com um novo modelo chamado GPT-5.6 Luna. A proposta é permitir que mais usuários criem aplicações usando IA diretamente na plataforma. O movimento intensifica a competição no mercado de ferramentas de programação assistida por IA. Desenvolvedores devem testar a novidade para avaliar ganhos de produtividade.",
-    "reasonEn": "Replit announced expanded access to its software creation environment powered by a new model called GPT-5.6 Luna. The proposal is to let more users build applications using AI directly on the platform. The move intensifies competition in the AI-assisted coding tools market. Developers should test the new feature to evaluate productivity gains.",
-    "score": 0.5,
-    "tags": [
-      "replit",
-      "codificação",
-      "lançamento"
-    ],
-    "img": "img/2f00013902a2.jpg",
-    "ts": 1787122800,
-    "addedTs": 1787689131,
-    "urlHash": "2f00013902a2",
-    "titleHash": "69fc5acda970"
   }
 ]
