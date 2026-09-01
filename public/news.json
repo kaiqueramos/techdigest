@@ -1,5 +1,312 @@
 [
   {
+    "title": "Kilo Code for JetBrains",
+    "titlePt": "Kilo Code chega às IDEs da JetBrains",
+    "url": "https://www.producthunt.com/products/kilocode",
+    "source": "ProductHunt",
+    "sources": [
+      "ProductHunt"
+    ],
+    "reason": "O Kilo Code é uma extensão de codificação com IA que agora funciona nas IDEs da JetBrains, como IntelliJ e PyCharm. Para desenvolvedores que já usam essas ferramentas, oferece geração e edição de código assistida por IA direto no editor. É mais uma opção no mercado lotado de assistentes de código, mas a integração nativa pode ser útil para quem prefere não trocar de ambiente.",
+    "reasonEn": "Kilo Code is an AI coding extension that now works inside JetBrains IDEs like IntelliJ and PyCharm. For developers already using those tools, it brings AI-assisted code generation and editing directly into the editor. It is yet another option in a crowded market of coding assistants, but the native integration may appeal to those who do not want to switch environments.",
+    "score": 0.5,
+    "tags": [
+      "ides",
+      "codificação",
+      "lançamento"
+    ],
+    "img": "img/73a644cbcf6e.jpg",
+    "ts": 1788253250,
+    "addedTs": 1788253273,
+    "urlHash": "73a644cbcf6e",
+    "titleHash": "4c8001d94cc3"
+  },
+  {
+    "title": "Computable GPU Index (CGI)",
+    "titlePt": "Computable GPU Index: comparador de preços de GPUs",
+    "url": "https://www.producthunt.com/products/computable-gpu-index-cgi",
+    "source": "ProductHunt",
+    "sources": [
+      "ProductHunt"
+    ],
+    "reason": "O Computable GPU Index é um novo banco de dados que reúne preços e especificações de GPUs voltadas para IA. Para equipes que precisam comprar hardware, centralizar essas informações em um só lugar economiza horas de pesquisa. Pode virar referência para quem planeja infraestrutura de treinamento ou inferência.",
+    "reasonEn": "Computable GPU Index is a new database that aggregates prices and specs of AI-oriented GPUs. For teams needing to buy hardware, centralizing this information in one place saves hours of research. It could become a reference for anyone planning training or inference infrastructure.",
+    "score": 0.65,
+    "tags": [
+      "gpus",
+      "infraestrutura",
+      "preço"
+    ],
+    "img": "img/8224473dcf08.jpg",
+    "ts": 1788253237,
+    "addedTs": 1788253273,
+    "urlHash": "8224473dcf08",
+    "titleHash": "aa6bf9d8ccb5"
+  },
+  {
+    "title": "Show HN: ChooseCompute – Clean NAS and hard drive database for AI",
+    "titlePt": "ChooseCompute: banco de dados de NAS e discos para IA",
+    "url": "https://choosecompute.com/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O ChooseCompute reúne informações sobre NAS e discos rígidos usados em cargas de trabalho de IA. Para quem monta servidores locais, ter um catálogo confiável evita escolhas ruins e perda de dinheiro. É especialmente útil para desenvolvedores independentes e pequenas equipes que compram hardware próprio.",
+    "reasonEn": "ChooseCompile gathers information about NAS and hard drives used in AI workloads. For anyone building local servers, a reliable catalog avoids bad choices and wasted money. It is especially useful for indie developers and small teams buying their own hardware.",
+    "score": 0.55,
+    "tags": [
+      "hardware",
+      "armazenamento",
+      "ia"
+    ],
+    "img": "img/37534920a9f0.jpg",
+    "ts": 1788252361,
+    "addedTs": 1788253273,
+    "urlHash": "37534920a9f0",
+    "titleHash": "cbbe1482a24d"
+  },
+  {
+    "title": "Reducing Java memory usage by 43% with joint JVM and container tuning",
+    "titlePt": "Como reduzir 43% do uso de memória em Java",
+    "url": "https://www.cloudpilot.ai/blog/java-workload-optimization/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo mostra que ajustar a JVM junto com os limites do contêiner pode cortar quase metade do consumo de memória em aplicações Java. É uma otimização valiosa especialmente em ambientes Kubernetes, onde memória custa caro. Desenvolvedores Java que pagam conta de nuvem devem ler com atenção.",
+    "reasonEn": "The article shows that tuning the JVM together with container limits can cut Java memory consumption by nearly half. It is a valuable optimization, especially in Kubernetes environments where memory is expensive. Java developers paying cloud bills should read it carefully.",
+    "score": 0.75,
+    "tags": [
+      "java",
+      "performance",
+      "otimização"
+    ],
+    "img": "img/ee6b8e8fa0d0.jpg",
+    "ts": 1788251995,
+    "addedTs": 1788253273,
+    "urlHash": "ee6b8e8fa0d0",
+    "titleHash": "796fec7e6c96"
+  },
+  {
+    "title": "Anthropic sued over alleged theft of 'thousands' of songs",
+    "titlePt": "Anthropic é processada por suposto roubo de milhares de músicas",
+    "url": "https://www.theguardian.com/business/2026/aug/31/aanthropic-sued-alleged-theft-songs-ai-train-claude",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Editoras musicais acusam a Anthropic de ter usado milhares de canções sem autorização para treinar seus modelos de IA. O processo pode abrir precedente importante sobre direitos autorais na indústria de IA generativa. Afeta diretamente desenvolvedores que usam Claude e investidores que acompanham o setor.",
+    "reasonEn": "Music publishers accuse Anthropic of using thousands of songs without permission to train its AI models. The lawsuit could set an important precedent for copyright in the generative AI industry. It directly affects developers using Claude and investors watching the sector.",
+    "score": 0.92,
+    "tags": [
+      "regulação",
+      "direitos autorais",
+      "anthropic"
+    ],
+    "img": "img/cdbff28ee576.jpg",
+    "ts": 1788251591,
+    "addedTs": 1788253273,
+    "urlHash": "cdbff28ee576",
+    "titleHash": "b696158d5565"
+  },
+  {
+    "title": "AI Agents Are Fundamentally Restructuring the Software Paradigm",
+    "titlePt": "Agentes de IA estão mudando o paradigma de software",
+    "url": "https://arxiv.org/abs/2606.05608",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo defende que agentes de IA representam uma mudança estrutural na forma como software é construído e usado. Argumenta que apps tradicionais baseados em menus darão lugar a interfaces conversacionais e autônomas. Visão provocativa, ainda que com pouca evidência concreta de adoção em massa.",
+    "reasonEn": "The article argues that AI agents represent a structural shift in how software is built and used. It contends that traditional menu-based apps will give way to conversational and autonomous interfaces. A provocative view, though with little concrete evidence of mass adoption.",
+    "score": 0.55,
+    "tags": [
+      "agentes",
+      "opinião"
+    ],
+    "img": "img/c1eb56fdf047.jpg",
+    "ts": 1788245660,
+    "addedTs": 1788253273,
+    "urlHash": "c1eb56fdf047",
+    "titleHash": "344235be5ddd"
+  },
+  {
+    "title": "Kodai – Secure your local workspace and manage secrets away from AI",
+    "titlePt": "Kodai: proteja seu workspace local da IA",
+    "url": "https://github.com/kodai-tech-official/kodai-tech",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Kodai é uma ferramenta para esconder segredos e arquivos sensíveis de ferramentas de IA locais. Resolve um problema real: muitos devs percebem que copiam código com chaves de API para assistentes sem pensar. Boa pedida para quem se preocupa com vazamento de credenciais.",
+    "reasonEn": "Kodai is a tool to hide secrets and sensitive files from local AI tools. It solves a real problem: many developers unknowingly copy code containing API keys into assistants. A good fit for anyone worried about credential leaks.",
+    "score": 0.55,
+    "tags": [
+      "segurança",
+      "privacidade",
+      "devtools"
+    ],
+    "img": "img/de90fbe88761.jpg",
+    "ts": 1788245519,
+    "addedTs": 1788253273,
+    "urlHash": "de90fbe88761",
+    "titleHash": "a234a2e767ed"
+  },
+  {
+    "title": "DeepSeek-V4-Flash-Vision-Exp",
+    "titlePt": "DeepSeek lança modelo V4-Flash-Vision experimental",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A DeepSeek disponibilizou um novo modelo experimental focado em visão, chamado V4-Flash-Vision-Exp. É mais uma opção aberta no ecossistema de modelos multimodais, competindo com pesos abertos da Alibaba e Meta. Desenvolvedores que precisam de visão computacional barata devem testar e comparar.",
+    "reasonEn": "DeepSeek released a new experimental vision-focused model called V4-Flash-Vision-Exp. It is another open option in the multimodal model ecosystem, competing with open weights from Alibaba and Meta. Developers needing affordable computer vision should test and compare.",
+    "score": 0.75,
+    "tags": [
+      "modelo",
+      "deepseek",
+      "visão"
+    ],
+    "img": "img/20c9f9de702f.jpg",
+    "ts": 1788244786,
+    "addedTs": 1788253273,
+    "urlHash": "20c9f9de702f",
+    "titleHash": "daa3cbec28f0"
+  },
+  {
+    "title": "What AI code review misses: SSRF and more",
+    "titlePt": "O que revisão de código com IA não pega: SSRF e além",
+    "url": "https://zeroquarry.com/research/security-vulnerabilities-in-ai-reviewed-code/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo mostra falhas reais que revisores de código baseados em IA deixam passar, com foco em vulnerabilidades de SSRF. É um alerta importante: confiar cegamente em code review automatizado pode criar falsa sensação de segurança. Leitura obrigatória para times que adotaram ou pretendem adotar essas ferramentas.",
+    "reasonEn": "The article shows real failures that AI-based code reviewers miss, focusing on SSRF vulnerabilities. It is an important warning: blindly trusting automated code review can create a false sense of security. Required reading for teams that have adopted or plan to adopt these tools.",
+    "score": 0.8,
+    "tags": [
+      "segurança",
+      "revisão de código",
+      "ssrf"
+    ],
+    "img": "img/90585f7e7e68.jpg",
+    "ts": 1788244524,
+    "addedTs": 1788253273,
+    "urlHash": "90585f7e7e68",
+    "titleHash": "a20837ffd458"
+  },
+  {
+    "title": "Instagram puts new limits on undisclosed AI profiles",
+    "titlePt": "Instagram limita perfis de IA não declarados",
+    "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "O Instagram começou a impor novos limites a contas que usam IA sem se identificarem como tal. A medida busca reduzir a proliferação de perfis automatizados que se passam por pessoas reais na plataforma. A mudança afeta criadores, marcas e qualquer um que opere contas automatizadas. É parte de um esforço maior das redes sociais para aumentar transparência sobre o uso de IA.",
+    "reasonEn": "Instagram has begun enforcing new limits on accounts that use AI without disclosing it. The move aims to reduce the spread of automated profiles pretending to be real people. The change affects creators, brands, and anyone running automated accounts. It is part of a broader social media push for transparency about AI use.",
+    "score": 0.55,
+    "tags": [
+      "redes sociais",
+      "regulação",
+      "transparência"
+    ],
+    "img": "img/ba23b444bdf6.jpg",
+    "ts": 1788203819,
+    "addedTs": 1788253273,
+    "urlHash": "ba23b444bdf6",
+    "titleHash": "5113e555fde9"
+  },
+  {
+    "title": "OpenAI supports California’s bill to advance youth AI safety",
+    "titlePt": "OpenAI apoia projeto de lei da Califórnia para segurança de jovens em IA",
+    "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "A OpenAI declarou apoio a um projeto de lei da Califórnia que busca aumentar a segurança de crianças e adolescentes no uso de inteligência artificial. A medida pode incluir restrições a chatbots e exigências de verificação de idade. A posição marca mais um passo da empresa em direção a políticas de proteção infantil. Desenvolvedores de produtos voltados a jovens devem ficar atentos.",
+    "reasonEn": "OpenAI has voiced support for a California bill aimed at boosting safety for children and teens using artificial intelligence. The measure may include chatbot restrictions and age verification requirements. The stance marks another step by the company toward child protection policies. Developers building products for young users should pay attention.",
+    "score": 0.7,
+    "tags": [
+      "regulação",
+      "segurança",
+      "OpenAI"
+    ],
+    "img": "img/4862f3d2c68f.jpg",
+    "ts": 1788159600,
+    "addedTs": 1788253273,
+    "urlHash": "4862f3d2c68f",
+    "titleHash": "81d4bbca466f"
+  },
+  {
+    "title": "Polimill builds Japan's next-generation public AI infrastructure",
+    "titlePt": "Polimill constrói infraestrutura pública de IA no Japão",
+    "url": "https://openai.com/index/polimill",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "A Polimill anunciou um projeto para construir a próxima geração de infraestrutura pública de inteligência artificial no Japão. A iniciativa busca oferecer capacidade de IA soberana para órgãos governamentais e serviços públicos. Pode reduzir a dependência japonesa de proveedores estrangeiros. Relevante para quem acompanha geopolítica e infraestrutura de IA.",
+    "reasonEn": "Polimill announced a project to build Japan's next-generation public AI infrastructure. The initiative aims to provide sovereign AI capacity for government agencies and public services. It may reduce Japanese dependence on foreign providers. Relevant for those tracking AI geopolitics and infrastructure.",
+    "score": 0.5,
+    "tags": [
+      "infraestrutura",
+      "Japão",
+      "política pública"
+    ],
+    "img": "img/0b5a688ac445.jpg",
+    "ts": 1788159600,
+    "addedTs": 1788253273,
+    "urlHash": "0b5a688ac445",
+    "titleHash": "3ff54e1261cc"
+  },
+  {
+    "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+    "titlePt": "Conecte, rode e publique fluxos de IA no Gradio",
+    "url": "https://huggingface.co/blog/gradio-workflow-guide",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "O tutorial do Hugging Face mostra como construir fluxos de trabalho de IA no Gradio conectando componentes, executando modelos e implantando aplicações. A abordagem é prática e útil para desenvolvedores que querem prototipar interfaces rapidamente. O Gradio simplifica a criação de demos interativas para modelos de IA. Boa leitura para quem trabalha com prototipagem rápida.",
+    "reasonEn": "The Hugging Face tutorial shows how to build AI workflows in Gradio by wiring components, running models, and deploying apps. The approach is hands-on and useful for developers wanting to prototype interfaces quickly. Gradio simplifies creating interactive demos for AI models. Worth reading for anyone doing rapid prototyping.",
+    "score": 0.6,
+    "tags": [
+      "tutorial",
+      "Gradio",
+      "Hugging Face"
+    ],
+    "img": "img/9b54a38fa1b1.jpg",
+    "ts": 1787616000,
+    "addedTs": 1788253273,
+    "urlHash": "9b54a38fa1b1",
+    "titleHash": "8566a8a44644"
+  },
+  {
+    "title": "How Much Memory Does Your Agent Actually Need?",
+    "titlePt": "Quanta memória seu agente realmente precisa?",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "O Hugging Face publica uma análise sobre como dimensionar corretamente a memória de agentes de IA. O conteúdo ajuda desenvolvedores a entender o consumo real de recursos ao rodar agentes em produção. Inclui dicas práticas para otimizar o uso de memória sem sacrificar desempenho. Leitura útil para quem constrói ou mantém agentes em produção.",
+    "reasonEn": "Hugging Face published an analysis on how to correctly size memory for AI agents. The content helps developers understand real resource consumption when running agents in production. It includes practical tips for optimizing memory use without sacrificing performance. Useful reading for anyone building or maintaining agents in production.",
+    "score": 0.75,
+    "tags": [
+      "agentes",
+      "memória",
+      "Hugging Face"
+    ],
+    "img": "img/5ba78b757300.jpg",
+    "ts": 1787076578,
+    "addedTs": 1788253273,
+    "urlHash": "5ba78b757300",
+    "titleHash": "3b116a96af58"
+  },
+  {
     "title": "OpenAI to Cut Off AI Models for SpaceX-Owned Cursor",
     "titlePt": "OpenAI supostamente cortará acesso da Cursor a seus modelos",
     "url": "https://www.reuters.com/business/media-telecom/openai-end-partnership-with-spacexs-cursor-2026-08-29/",
@@ -8616,943 +8923,5 @@
     "addedTs": 1787653356,
     "urlHash": "62003111f3b5",
     "titleHash": "cee49873339b"
-  },
-  {
-    "title": "Games as the Engine of AI Research",
-    "titlePt": "Jogos como motor de pesquisa em IA",
-    "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um texto do HackerNews defende que jogos continuam sendo um dos melhores laboratórios para treinar e avaliar sistemas de inteligência artificial. A ideia é que ambientes de jogos oferecem desafios claros, medíveis e progressivamente mais difíceis, ideais para testar novos algoritmos. Para pesquisadores e curiosos, isso ajuda a entender por que grandes laboratórios ainda investem em jogos. Não é uma notícia urgente, mas é uma boa reflexão sobre o futuro da pesquisa em IA.",
-    "reasonEn": "A HackerNews post argues that games remain one of the best laboratories for training and evaluating AI systems. The idea is that games offer clear, measurable, and progressively harder challenges that are ideal for testing new algorithms. For researchers and curious readers, it helps explain why big labs still invest in games. It is not urgent news, but a good reflection on the future of AI research.",
-    "score": 0.5,
-    "tags": [
-      "pesquisa",
-      "jogos"
-    ],
-    "img": "img/835a331a5b20.jpg",
-    "ts": 1787645764,
-    "addedTs": 1787646692,
-    "urlHash": "835a331a5b20",
-    "titleHash": "ec1e90390074"
-  },
-  {
-    "title": "Dutch lawyer fined €2,300 for using AI-hallucinated citation",
-    "titlePt": "Advogado holandês é multado por citação inventada por IA",
-    "url": "https://nltimes.nl/2026/08/24/dutch-lawyer-fined-eu2300-using-ai-hallucinated-citation",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um advogado nos Países Baixos foi multado em 2.300 depois de apresentar ao tribunal uma citação jurídica falsa, totalmente inventada por um chatbot de inteligência artificial. O caso mostra que ferramentas de IA ainda produzem informações erradas com aparência muito convincente. Serve de alerta para outros profissionais que usam IA no trabalho sem revisar o resultado. Indica que tribunais estão cada vez mais dispostos a punir o uso descuidado da tecnologia.",
-    "reasonEn": "A lawyer in the Netherlands was fined 2,300 after submitting to court a fake legal citation entirely invented by an AI chatbot. The case shows that AI tools still produce confidently worded but completely wrong information. It is a warning to other professionals who use AI at work without reviewing the output. It signals that courts are increasingly willing to punish careless use of the technology.",
-    "score": 0.85,
-    "tags": [
-      "regulação",
-      "ia",
-      "direito"
-    ],
-    "img": "img/2c65799cfcac.jpg",
-    "ts": 1787644538,
-    "addedTs": 1787646692,
-    "urlHash": "2c65799cfcac",
-    "titleHash": "9f2fa6b72cd2"
-  },
-  {
-    "title": "Do You Still Need to Read AI Code?",
-    "titlePt": "Você ainda precisa ler código gerado por IA?",
-    "url": "https://adamtornhill.substack.com/p/controlling-the-uncertainty-machine",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Uma discussão no HackerNews debate se ainda vale a pena revisar linha por linha o código escrito por assistentes de IA, dado o volume cada vez maior de código gerado. A questão é central para times de desenvolvimento, que precisam equilibrar velocidade e qualidade. Mostra que a revisão humana continua indispensável, mesmo com modelos mais avançados. Para desenvolvedores, é uma leitura recomendada.",
-    "reasonEn": "A HackerNews thread debates whether it is still worth reviewing AI-generated code line by line, given the growing volume of code produced. The question is central for development teams balancing speed and quality. It shows that human review remains essential even with more advanced models. For developers, it is a recommended read.",
-    "score": 0.7,
-    "tags": [
-      "desenvolvimento",
-      "código"
-    ],
-    "img": "img/4993adc7c135.jpg",
-    "ts": 1787643031,
-    "addedTs": 1787646692,
-    "urlHash": "4993adc7c135",
-    "titleHash": "eff76155621f"
-  },
-  {
-    "title": "DeepSeek V4 Flash Vision Intelligence, Performance and Price Analysis",
-    "titlePt": "DeepSeek V4 Flash: análise de visão, desempenho e preço",
-    "url": "https://artificialanalysis.ai/models/deepseek-v4-flash-vision",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A DeepSeek apresentou o V4 Flash, um novo modelo focado em visão computacional que promete bom equilíbrio entre capacidade e custo. A análise discute como ele se compara a rivais em tarefas multimodais. Para desenvolvedores e empresas, surge mais uma opção acessível no mercado de IA. É uma notícia relevante para quem escolhe modelos com base em custo e desempenho.",
-    "reasonEn": "DeepSeek introduced V4 Flash, a new vision-focused model that promises a good balance between capability and cost. The analysis discusses how it compares to rivals on multimodal tasks. For developers and companies, it adds another affordable option in the AI market. Relevant news for anyone choosing models based on cost and performance.",
-    "score": 0.85,
-    "tags": [
-      "modelo",
-      "lançamento",
-      "visão"
-    ],
-    "img": "img/2ccc8471d363.jpg",
-    "ts": 1787642223,
-    "addedTs": 1787646692,
-    "urlHash": "2ccc8471d363",
-    "titleHash": "e6d6c1757863"
-  },
-  {
-    "title": "I found an SSRF in Google's official AI tooling, and how Google reacted",
-    "titlePt": "Vulnerabilidade SSRF encontrada em ferramenta oficial de IA do Google",
-    "url": "https://news.ycombinator.com/item?id=49429926",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um pesquisador de segurança descobriu uma falha do tipo SSRF em uma ferramenta oficial de inteligência artificial do Google, que poderia permitir acesso indevido a sistemas internos. O Google foi avisado e corrigiu o problema após a divulgação. O caso mostra que até produtos grandes de empresas conhecidas podem ter brechas sérias. Para desenvolvedores que usam APIs de IA, é um lembrete importante para acompanhar avisos de segurança.",
-    "reasonEn": "A security researcher found an SSRF vulnerability in an official Google AI tool that could allow unauthorized access to internal systems. Google was notified and fixed the issue after disclosure. The case shows that even large products from well-known companies can have serious flaws. For developers using AI APIs, it is an important reminder to follow security advisories.",
-    "score": 0.8,
-    "tags": [
-      "segurança",
-      "google"
-    ],
-    "img": "img/a8d2a0941a0f.jpg",
-    "ts": 1787640377,
-    "addedTs": 1787646692,
-    "urlHash": "a8d2a0941a0f",
-    "titleHash": "1cf842e9a339"
-  },
-  {
-    "title": "All AI Data Centers Under Construction Could Emit as Much CO₂ as 24M Cars",
-    "titlePt": "Data centers de IA em construção podem emitir CO de 24 milhões de carros",
-    "url": "https://www.gadgetreview.com/all-ai-data-centers-under-construction-could-emit-as-much-co%e2%82%82-as-24-million-cars",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um estudo estima que todos os data centers de inteligência artificial atualmente em construção podem emitir, juntos, tanto CO quanto cerca de 24 milhões de carros. O número expõe o impacto ambiental crescente da infraestrutura de IA. Para empresas de tecnologia e usuários finais, levanta dúvidas sobre sustentabilidade e o custo real da tecnologia. É uma notícia importante para entender os trade-offs do crescimento da IA.",
-    "reasonEn": "A study estimates that all AI data centers currently under construction could together emit as much CO as around 24 million cars. The figure exposes the growing environmental impact of AI infrastructure. For tech companies and end users, it raises questions about sustainability and the real cost of the technology. Important news for understanding the trade-offs of AI growth.",
-    "score": 0.75,
-    "tags": [
-      "meio ambiente",
-      "infraestrutura"
-    ],
-    "img": "img/febf15d3760a.jpg",
-    "ts": 1787640183,
-    "addedTs": 1787646692,
-    "urlHash": "febf15d3760a",
-    "titleHash": "f8a13f63fd76"
-  },
-  {
-    "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-    "titlePt": "Como montar e publicar fluxos de IA com Gradio",
-    "url": "https://huggingface.co/blog/gradio-workflow-guide",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "A publicação mostra como criar, rodar e colocar em produção fluxos completos de IA usando o Gradio, da prototipagem à implantação. O conteúdo é prático, com exemplos e dicas para desenvolvedores que querem expor modelos rapidamente. É útil especialmente para quem trabalha com HuggingFace e modelos abertos. Não é notícia de grande repercussão, mas acelera o trabalho de muitos times pequenos.",
-    "reasonEn": "The post shows how to build, run and deploy complete AI workflows using Gradio, from prototyping to deployment. The content is hands-on, with examples and tips for developers who want to expose models quickly. It is especially useful for those working with HuggingFace and open models. Not headline news, but it speeds up the work of many small teams.",
-    "score": 0.5,
-    "tags": [
-      "gradio",
-      "deploy",
-      "tutorial"
-    ],
-    "img": "img/9b54a38fa1b1.jpg",
-    "ts": 1787616000,
-    "addedTs": 1787646692,
-    "urlHash": "9b54a38fa1b1",
-    "titleHash": "8566a8a44644"
-  },
-  {
-    "title": "How NVIDIA scales expertise with ChatGPT Work",
-    "titlePt": "Como a NVIDIA escala conhecimento interno com o ChatGPT Work",
-    "url": "https://openai.com/index/nvidia/chatgpt-work",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A NVIDIA está usando o ChatGPT Work, versão empresarial do ChatGPT, para capturar e distribuir conhecimento técnico entre seus funcionários. A ideia é transformar a experiência de engenheiros em uma base consultável por IA. O caso interessa a empresas que pensam em adotar assistentes de IA internos. Mostra um exemplo concreto de ROI e produtividade com IA corporativa.",
-    "reasonEn": "NVIDIA is using ChatGPT Work, the enterprise version of ChatGPT, to capture and distribute technical knowledge across its employees. The idea is to turn engineers' expertise into an AI-queryable knowledge base. The case matters for companies considering internal AI assistants. It offers a concrete example of ROI and productivity with corporate AI.",
-    "score": 0.6,
-    "tags": [
-      "nvidia",
-      "chatgpt",
-      "empresa"
-    ],
-    "img": "img/baf07daff59f.jpg",
-    "ts": 1787011200,
-    "addedTs": 1787646692,
-    "urlHash": "baf07daff59f",
-    "titleHash": "232a1e3cc2cf"
-  },
-  {
-    "title": "'Don't ask me to print your ChatGPT birthday card': Hitting back at AI 'slop'",
-    "titlePt": "Não me peça para imprimir seu cartão de aniversário do ChatGPT: a revolta contra o 'lixo' de IA",
-    "url": "https://www.bbc.co.uk/news/articles/cq89jpjeq7ko",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Pequenos negócios e artistas estão recusando pedidos para imprimir materiais gerados por IA, como cartões e convites personalizados. O movimento é uma reação direta ao que muitos chamam de 'lixo de IA', conteúdo barato e sem alma produzido em massa. Clientes estão sendo publicamente confrontados por donos de lojas que não querem mais perder tempo com esse tipo de pedido. A tendência revela uma resistência cultural crescente contra o uso descuidado de IA em produtos personalizados.",
-    "reasonEn": "Small businesses and artists are refusing requests to print AI-generated materials like personalized cards and invitations. The movement is a direct reaction to what many call 'AI slop', cheap and soulless mass-produced content. Customers are being publicly called out by shop owners who no longer want to waste time on such requests. The trend reveals growing cultural resistance to careless AI use in personalized products.",
-    "score": 0.7,
-    "tags": [
-      "cultura",
-      "conteúdo",
-      "sociedade"
-    ],
-    "img": "img/a186cb65c836.jpg",
-    "ts": 1787638288,
-    "addedTs": 1787639405,
-    "urlHash": "a186cb65c836",
-    "titleHash": "767c277526f9"
-  },
-  {
-    "title": "Show HN: CookWing, an AI chef that doesn't hallucinate quantities",
-    "titlePt": "CookWing: um chef de IA que não alucina quantidades",
-    "url": "https://play.google.com/store/apps/details?id=com.redwing.vibecooking&hl=en_US",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um desenvolvedor publicou no Hacker News o CookWing, um app de culinária com IA que promete não inventar quantidades de ingredientes. Diferente de outras ferramentas que alucinam medidas, o sistema parece usar receitas reais como base. Pode ser útil para quem quer receitas confiáveis sem precisar conferir tudo no Google. A proposta ataca um problema comum e frustrante dos chatbots culinários atuais.",
-    "reasonEn": "A developer has published on Hacker News CookWing, an AI cooking app that promises not to invent ingredient quantities. Unlike other tools that hallucinate measurements, the system appears to use real recipes as a base. It may be useful for those who want reliable recipes without having to double-check everything on Google. The proposal tackles a common and frustrating issue in current cooking chatbots.",
-    "score": 0.5,
-    "tags": [
-      "app",
-      "culinária",
-      "lançamento"
-    ],
-    "img": "img/55c00cca01b0.jpg",
-    "ts": 1787637225,
-    "addedTs": 1787639405,
-    "urlHash": "55c00cca01b0",
-    "titleHash": "15f635286f0f"
-  },
-  {
-    "title": "LLMPanel Deploy vLLM to RunPod or Vast.ai Without Kubernetes",
-    "titlePt": "LLMPanel: faça deploy de vLLM na RunPod ou Vast.ai sem Kubernetes",
-    "url": "https://llmpanel.io",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Uma nova ferramenta permite rodar o servidor vLLM em provedores de GPU na nuvem como RunPod e Vast.ai, sem precisar configurar um cluster Kubernetes. Para muitos desenvolvedores, o K8s é uma barreira enorme de complexidade que atrasa projetos. Essa abordagem simplificada reduz drasticamente o tempo de setup e os custos operacionais. É uma notícia prática e útil para qualquer engenheiro que queira colocar modelos em produção sem dor de cabeça.",
-    "reasonEn": "A new tool lets you run the vLLM server on cloud GPU providers like RunPod and Vast.ai without setting up a Kubernetes cluster. For many developers, K8s is a massive complexity barrier that delays projects. This simplified approach drastically reduces setup time and operational costs. It's practical and useful news for any engineer who wants to put models in production without headaches.",
-    "score": 0.85,
-    "tags": [
-      "devops",
-      "LLM",
-      "infra"
-    ],
-    "img": "img/6a6bde451473.jpg",
-    "ts": 1787636447,
-    "addedTs": 1787639405,
-    "urlHash": "6a6bde451473",
-    "titleHash": "e52146347f0a"
-  },
-  {
-    "title": "Surge in AI-assisted complaints putting extra strain on councils and schools",
-    "titlePt": "Surto de reclamações feitas com IA sobrecarrega prefeituras e escolas no Reino Unido",
-    "url": "https://www.bbc.co.uk/news/articles/c2dk6wzjw23o",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Autoridades locais e escolas britânicas relatam um aumento explosivo de reclamações geradas ou polidas por IA. Cidadãos estão usando chatbots para redigir queixas formais, multiplicando o volume de trabalho administrativo. O fenômeno consome recursos que deveriam ir para casos reais e urgentes, prejudicando o atendimento. A tendência levanta questões sobre regulação e limites para o uso de IA em interações com serviços públicos.",
-    "reasonEn": "British local authorities and schools are reporting an explosive increase in AI-generated or polished complaints. Citizens are using chatbots to draft formal grievances, multiplying administrative workload. The phenomenon consumes resources meant for real and urgent cases, harming service delivery. The trend raises questions about regulation and limits for AI use in interactions with public services.",
-    "score": 0.75,
-    "tags": [
-      "regulação",
-      "sociedade",
-      "setor público"
-    ],
-    "img": "img/8400e443a048.jpg",
-    "ts": 1787635884,
-    "addedTs": 1787639405,
-    "urlHash": "8400e443a048",
-    "titleHash": "86b97154ff98"
-  },
-  {
-    "title": "Show HN: When AI Decides What Matters",
-    "titlePt": "Quando a IA decide o que importa: experimento provocador de curadoria",
-    "url": "https://jasondoyle.ie/whitepapers/when-ai-decides-what-matters/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um Show HN apresenta uma ferramenta experimental que usa IA para decidir quais assuntos são relevantes no noticiário. A proposta levanta questões filosóficas e práticas sobre confiar em algoritmos para curadoria de informação. O projeto está em estágio inicial, com limitações óbvias. Ainda assim, é um experimento provocador que merece atenção pelo debate que abre.",
-    "reasonEn": "A Show HN presents an experimental tool that uses AI to decide which topics are relevant in the news. The proposal raises philosophical and practical questions about trusting algorithms for information curation. The project is at an early stage, with obvious limitations. Still, it's a thought-provoking experiment that deserves attention for the debate it opens.",
-    "score": 0.55,
-    "tags": [
-      "curadoria",
-      "mídia",
-      "experimento"
-    ],
-    "img": "img/1fd3009025d2.jpg",
-    "ts": 1787633815,
-    "addedTs": 1787639405,
-    "urlHash": "1fd3009025d2",
-    "titleHash": "6a612db7a141"
-  },
-  {
-    "title": "The AI Verification Bottleneck: Why Writing Code Is No Longer the Hard Part",
-    "titlePt": "O gargalo da verificação: escrever código já não é a parte difícil",
-    "url": "https://pragmaticbydefault.com/posts/ai-verification-bottleneck/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo argumenta que o maior desafio no desenvolvimento com IA deixou de ser escrever código e passou a ser verificar se ele está correto. À medida que os modelos ficam melhores em gerar, o tempo gasto em testes, revisões e validação cresce proporcionalmente. Para times de engenharia, isso muda completamente onde investir esforço e tooling. É leitura obrigatória para líderes técnicos que precisam repensar seus processos.",
-    "reasonEn": "The article argues that the biggest challenge in AI-assisted development is no longer writing code but verifying whether it's correct. As models get better at generating, time spent on testing, review, and validation grows proportionally. For engineering teams, this completely changes where to invest effort and tooling. It's a must-read for technical leaders who need to rethink their processes.",
-    "score": 0.85,
-    "tags": [
-      "engenharia",
-      "verificação",
-      "desenvolvimento"
-    ],
-    "img": "img/b3fd46bd5d88.jpg",
-    "ts": 1787632681,
-    "addedTs": 1787639405,
-    "urlHash": "b3fd46bd5d88",
-    "titleHash": "030c925d4b57"
-  },
-  {
-    "title": "Darkbloom (decentralized AI inference on Macs)-community security audit findings",
-    "titlePt": "Darkbloom: resultados de auditoria de segurança em inferência de IA descentralizada em Macs",
-    "url": "https://github.com/Layr-Labs/d-inference/issues/705",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O projeto Darkbloom, que roda inferência de IA de forma descentralizada em Macs, passou por uma auditoria comunitária de segurança. Os resultados estão sendo compartilhados publicamente, reforçando a transparência do projeto. Esse tipo de iniciativa é importante para validar arquiteturas alternativas de IA fora dos grandes datacenters. Desenvolvedores interessados em IA federada devem acompanhar.",
-    "reasonEn": "The Darkbloom project, which runs AI inference in a decentralized way on Macs, has gone through a community security audit. The results are being shared publicly, reinforcing the project's transparency. This kind of initiative is important to validate alternative AI architectures outside big datacenters. Developers interested in federated AI should follow along.",
-    "score": 0.55,
-    "tags": [
-      "segurança",
-      "descentralização",
-      "inferência"
-    ],
-    "img": "img/2daba8ad7f31.jpg",
-    "ts": 1787632549,
-    "addedTs": 1787639405,
-    "urlHash": "2daba8ad7f31",
-    "titleHash": "637e603bfa29"
-  },
-  {
-    "title": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
-    "titlePt": "KVBoost: reuso de cache chave-valor em nível de bloco para inferência de LLMs",
-    "url": "https://arxiv.org/abs/2608.21362",
-    "source": "arXiv AI",
-    "sources": [
-      "arXiv AI"
-    ],
-    "reason": "Um novo artigo propõe o KVBoost, técnica que reusa blocos do cache chave-valor durante a inferência de modelos de linguagem, reduzindo custo computacional. O método identifica blocos com baixa variação para evitar recálculos desnecessários. Isso pode melhorar latência e diminuir o consumo de GPU em produção. É relevante para engenheiros que otimizam deployments de LLM em larga escala.",
-    "reasonEn": "A new paper proposes KVBoost, a technique that reuses key-value cache chunks during language model inference, reducing computational cost. The method identifies blocks with low variation to avoid unnecessary recomputation. This can improve latency and lower GPU consumption in production. It's relevant for engineers optimizing LLM deployments at scale.",
-    "score": 0.65,
-    "tags": [
-      "LLM",
-      "otimização",
-      "pesquisa"
-    ],
-    "img": "img/1af13a997ccd.jpg",
-    "ts": 1787630400,
-    "addedTs": 1787639405,
-    "urlHash": "1af13a997ccd",
-    "titleHash": "7f3eb85b3f93"
-  },
-  {
-    "title": "SchemaRouter: Field-Aware Tool Routing for Efficient Heterogeneous Agentic RAG",
-    "titlePt": "SchemaRouter: roteamento de ferramentas por campo para RAG agêntico heterogêneo",
-    "url": "https://arxiv.org/abs/2608.21375",
-    "source": "arXiv AI",
-    "sources": [
-      "arXiv AI"
-    ],
-    "reason": "Um novo artigo apresenta o SchemaRouter, que roteia ferramentas em sistemas RAG agênticos considerando o esquema dos dados. A abordagem melhora a eficiência ao evitar chamadas desnecessárias. É útil para times que constroem agentes complexos com múltiplas fontes de dados. O artigo traz arquitetura prática e resultados mensuráveis.",
-    "reasonEn": "A new paper presents SchemaRouter, which routes tools in agentic RAG systems considering data schema. The approach improves efficiency by avoiding unnecessary calls. It's useful for teams building complex agents with multiple data sources. The paper offers practical architecture and measurable results.",
-    "score": 0.55,
-    "tags": [
-      "RAG",
-      "agentes",
-      "arquitetura"
-    ],
-    "img": "img/5b466bfd41a8.jpg",
-    "ts": 1787630400,
-    "addedTs": 1787639405,
-    "urlHash": "5b466bfd41a8",
-    "titleHash": "4c01feba5f8a"
-  },
-  {
-    "title": "Agentic AI for Safety-critical Multi-drone Systems: Challenges and Opportunities",
-    "titlePt": "IA agêntica para sistemas multi-drone em missões críticas de segurança",
-    "url": "https://arxiv.org/abs/2608.21444",
-    "source": "arXiv AI",
-    "sources": [
-      "arXiv AI"
-    ],
-    "reason": "O artigo discute desafios e oportunidades de usar IA agêntica em sistemas com múltiplos drones em missões críticas. A pesquisa levanta questões de segurança, coordenação e responsabilidade. É leitura relevante dado o avanço de drones autônomos em contextos civis e militares. Pode influenciar regulamentação futura.",
-    "reasonEn": "The paper discusses challenges and opportunities of using agentic AI in multi-drone systems for safety-critical missions. The research raises questions about safety, coordination, and accountability. It's relevant reading given the advance of autonomous drones in civilian and military contexts. May influence future regulation.",
-    "score": 0.55,
-    "tags": [
-      "drones",
-      "agentes",
-      "segurança"
-    ],
-    "img": "img/37abba032a5d.jpg",
-    "ts": 1787630400,
-    "addedTs": 1787639405,
-    "urlHash": "37abba032a5d",
-    "titleHash": "44efd3f3fe8f"
-  },
-  {
-    "title": "Thomson Reuters Standard for High Stakes AI",
-    "titlePt": "Thomson Reuters Lança Padrão para IA de Alto Risco",
-    "url": "https://www.thomsonreuters.com/en-us/posts/innovation/thomson-reuters-standard-for-high-stakes-ai/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Thomson Reuters anunciou um padrão corporativo voltado ao uso responsável de inteligência artificial em situações de alto risco, como decisões jurídicas, financeiras e regulatórias. A iniciativa busca criar critérios de avaliação e governança para empresas que implantam IA em processos críticos. É relevante para líderes de tecnologia, equipes jurídicas e equipes de conformidade. O movimento reflete a pressão crescente por auditoria em sistemas automatizados.",
-    "reasonEn": "Thomson Reuters announced a corporate standard for responsible AI use in high-stakes situations, such as legal, financial, and regulatory decisions. The initiative aims to create evaluation and governance criteria for companies deploying AI in critical processes. It is relevant to tech leaders, legal teams, and compliance staff. The move reflects growing pressure for auditing automated systems.",
-    "score": 0.5,
-    "tags": [
-      "regulação",
-      "governança",
-      "empresa"
-    ],
-    "img": "img/753d40691b7d.jpg",
-    "ts": 1787626461,
-    "addedTs": 1787639405,
-    "urlHash": "753d40691b7d",
-    "titleHash": "0082306135ac"
-  },
-  {
-    "title": "How Much Memory Does Your Agent Actually Need?",
-    "titlePt": "Quanto de Memória Seu Agente de IA Realmente Consome?",
-    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "A Hugging Face publicou uma análise sobre o consumo real de memória de agentes de IA em execução, indo além das estimativas teóricas. O artigo mostra como diferentes arquiteturas de agentes impactam o uso de RAM e GPU na prática. É altamente relevante para desenvolvedores que implantam agentes em produção e enfrentam custos de infraestrutura. Ajuda a evitar desperdício de recursos e melhorar a estabilidade.",
-    "reasonEn": "Hugging Face published an analysis on the actual memory consumption of running AI agents, going beyond theoretical estimates. The article shows how different agent architectures impact RAM and GPU usage in practice. It is highly relevant for developers deploying agents in production who face infrastructure costs. It helps avoid resource waste and improve stability.",
-    "score": 0.55,
-    "tags": [
-      "agentes",
-      "infra",
-      "huggingface"
-    ],
-    "img": "img/5ba78b757300.jpg",
-    "ts": 1787076578,
-    "addedTs": 1787639405,
-    "urlHash": "5ba78b757300",
-    "titleHash": "3b116a96af58"
-  },
-  {
-    "title": "Pacing model development in an era of cyber-critical capabilities",
-    "titlePt": "OpenAI Propõe Ritmo Cauteloso para Modelos com Capacidades Ciber-Críticas",
-    "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A OpenAI publicou um texto defendendo um ritmo cuidadoso de desenvolvimento de modelos à medida que se aproximam de capacidades que podem representar riscos cibernéticos sérios. A empresa argumenta que testes e controles devem acompanhar o avanço das capacidades. É relevante para formuladores de política, pesquisadores de segurança e qualquer pessoa interessada em governança de IA. A posição reforça o debate sobre regulamentação e responsabilidade de fronteira.",
-    "reasonEn": "OpenAI published a piece advocating for a careful development pace as models approach capabilities that could pose serious cyber risks. The company argues that testing and controls must keep up with capability advances. It is relevant to policymakers, safety researchers, and anyone interested in AI governance. The stance reinforces the debate over frontier regulation and accountability.",
-    "score": 0.65,
-    "tags": [
-      "openai",
-      "segurança",
-      "governança"
-    ],
-    "img": "img/9c25f4ae7a18.jpg",
-    "ts": 1787050800,
-    "addedTs": 1787639405,
-    "urlHash": "9c25f4ae7a18",
-    "titleHash": "b604f88ac7b0"
-  },
-  {
-    "title": "Cloudflare OS: Open-Source Corp AI Platform Built on a Capability-Based Model",
-    "titlePt": "Cloudflare OS: plataforma de IA corporativa open source",
-    "url": "https://www.infoq.com/news/2026/08/cloudflare-os-ai-platform-secure/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Cloudflare anunciou o Cloudflare OS, uma plataforma de IA corporativa open source baseada em um modelo de capacidades. A proposta busca dar mais segurança e controle para empresas que constroem agentes e fluxos de IA. O lançamento pode competir diretamente com soluções fechadas de hyperscalers.",
-    "reasonEn": "Cloudflare announced Cloudflare OS, an open-source enterprise AI platform built on a capability-based model. The proposal aims to give companies more security and control when building AI agents and workflows. The launch could directly compete with closed solutions from hyperscalers.",
-    "score": 0.8,
-    "tags": [
-      "cloudflare",
-      "open-source",
-      "plataforma"
-    ],
-    "img": "img/5628b8905edb.jpg",
-    "ts": 1787631750,
-    "addedTs": 1787632218,
-    "urlHash": "5628b8905edb",
-    "titleHash": "7897c7bd95e6"
-  },
-  {
-    "title": "Code maintainability plummets in the AI coding era",
-    "titlePt": "Manutenibilidade de código despenca na era da IA",
-    "url": "https://leaddev.com/ai/code-maintainability-plummets-in-the-ai-coding-era",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Discussão viral no Hacker News aponta que a qualidade e a manutenibilidade do código gerado por IA estão caindo rapidamente. Desenvolvedores relatam mais dívidas técnicas, retrabalho e bugs sutis. É um alerta importante para líderes de engenharia que precisam revisar práticas.",
-    "reasonEn": "A viral Hacker News discussion points out that the quality and maintainability of AI-generated code are dropping fast. Developers report more technical debt, rework, and subtle bugs. It's an important warning for engineering leaders who need to review practices.",
-    "score": 0.85,
-    "tags": [
-      "engenharia",
-      "código",
-      "qualidade"
-    ],
-    "img": "img/36500b5a5d20.jpg",
-    "ts": 1787631701,
-    "addedTs": 1787632218,
-    "urlHash": "36500b5a5d20",
-    "titleHash": "a4baa5ae1346"
-  },
-  {
-    "title": "Supermicro Super AI Station (GB300, 20 Pflops FP4, 748GB Coherent Memory)",
-    "titlePt": "Supermicro lança Super AI Station com chip GB300",
-    "url": "https://www.supermicro.com/en/accelerators/nvidia/super-ai-station",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Supermicro apresentou uma estação de IA com chip GB300, entregando 20 Pflops em FP4 e 748 GB de memória coerente. O hardware mira estações de trabalho locais para treinamento e inferência pesada. Pode interessar a equipes que querem rodar modelos grandes sem depender só da nuvem.",
-    "reasonEn": "Supermicro unveiled an AI station with a GB300 chip, delivering 20 Pflops in FP4 and 748 GB of coherent memory. The hardware targets local workstations for heavy training and inference. It may interest teams that want to run large models without relying solely on the cloud.",
-    "score": 0.7,
-    "tags": [
-      "hardware",
-      "gpu",
-      "infra"
-    ],
-    "img": "img/89a7f100456c.jpg",
-    "ts": 1787630923,
-    "addedTs": 1787632218,
-    "urlHash": "89a7f100456c",
-    "titleHash": "94f69298b556"
-  },
-  {
-    "title": "AIREP: A Protocol for Per-Decision Evidence in AI Runtime Governance",
-    "titlePt": "AIREP: protocolo de evidência por decisão em IA",
-    "url": "https://arxiv.org/abs/2608.21363",
-    "source": "arXiv AI",
-    "sources": [
-      "arXiv AI"
-    ],
-    "reason": "O artigo apresenta o AIREP, um protocolo para registrar evidências a cada decisão tomada por sistemas de IA em tempo de execução. A proposta visa melhorar auditoria, governança e responsabilização. Importante para empresas em setores regulados.",
-    "reasonEn": "The paper presents AIREP, a protocol to record evidence for each decision made by AI systems at runtime. The proposal aims to improve auditing, governance, and accountability. Important for companies in regulated sectors.",
-    "score": 0.5,
-    "tags": [
-      "governança",
-      "regulação",
-      "pesquisa"
-    ],
-    "img": "img/b749ed6ae3af.jpg",
-    "ts": 1787630400,
-    "addedTs": 1787632218,
-    "urlHash": "b749ed6ae3af",
-    "titleHash": "6dc7bacb0091"
-  },
-  {
-    "title": "Reviewing Model Collapse and Countermeasures",
-    "titlePt": "Revisão sobre colapso de modelos e contramedidas",
-    "url": "https://arxiv.org/abs/2608.21366",
-    "source": "arXiv AI",
-    "sources": [
-      "arXiv AI"
-    ],
-    "reason": "O artigo faz uma revisão sobre o fenômeno do colapso de modelos, quando IAs treinadas em dados gerados por outras IAs perdem qualidade. Discute contramedidas e cenários de risco. Tema relevante para quem trabalha com dados sintéticos.",
-    "reasonEn": "The paper reviews the model collapse phenomenon, where AIs trained on data generated by other AIs lose quality. It discusses countermeasures and risk scenarios. A relevant topic for those working with synthetic data.",
-    "score": 0.5,
-    "tags": [
-      "pesquisa",
-      "modelos",
-      "dados"
-    ],
-    "img": "img/3285dfc4bc0e.jpg",
-    "ts": 1787630400,
-    "addedTs": 1787632218,
-    "urlHash": "3285dfc4bc0e",
-    "titleHash": "61a8ed281dcf"
-  },
-  {
-    "title": "There Is No Neutral Harness: Modern LLM Leaderboards Are Manufactured by Config-Fragile Items",
-    "titlePt": "Rankings de LLMs são fabricados por itens frágeis",
-    "url": "https://arxiv.org/abs/2608.21382",
-    "source": "arXiv AI",
-    "sources": [
-      "arXiv AI"
-    ],
-    "reason": "O artigo mostra que rankings modernos de LLMs não são neutros: itens sensíveis a configuração podem distorcer resultados drasticamente. Isso afeta decisões de compra e de pesquisa baseadas em benchmarks. Sinal de alerta importante para o ecossistema.",
-    "reasonEn": "The paper shows that modern LLM leaderboards aren't neutral: configuration-sensitive items can drastically distort results. This affects purchasing and research decisions based on benchmarks. An important warning sign for the ecosystem.",
-    "score": 0.75,
-    "tags": [
-      "benchmark",
-      "llm",
-      "pesquisa"
-    ],
-    "img": "img/f902f6817e96.jpg",
-    "ts": 1787630400,
-    "addedTs": 1787632218,
-    "urlHash": "f902f6817e96",
-    "titleHash": "1d04b7a23876"
-  },
-  {
-    "title": "Spyre-Accelerated Retrieval-Augmented Generation on IBM LinuxONE: A Cloud-Native Architecture for Secure, High-Throughput Enterprise AI Inference",
-    "titlePt": "RAG acelerado por Spyre em IBM LinuxONE",
-    "url": "https://arxiv.org/abs/2608.21393",
-    "source": "arXiv AI",
-    "sources": [
-      "arXiv AI"
-    ],
-    "reason": "O artigo descreve uma arquitetura nativa em nuvem para RAG corporativo usando o acelerador Spyre no IBM LinuxONE. O foco é inferência de IA segura e de alto throughput. Relevante para empresas que precisam de RAG em mainframes.",
-    "reasonEn": "The paper describes a cloud-native architecture for enterprise RAG using the Spyre accelerator on IBM LinuxONE. The focus is on secure, high-throughput AI inference. Relevant for companies that need RAG on mainframes.",
-    "score": 0.5,
-    "tags": [
-      "ibm",
-      "rag",
-      "enterprise"
-    ],
-    "img": "img/2ff0c62133d9.jpg",
-    "ts": 1787630400,
-    "addedTs": 1787632218,
-    "urlHash": "2ff0c62133d9",
-    "titleHash": "54d835a51758"
-  },
-  {
-    "title": "AI algorithm for room temperature superconductor, candidate detected",
-    "titlePt": "Algoritmo de IA descobre candidato a supercondutor à temperatura ambiente",
-    "url": "https://zenodo.org/records/22073633",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Cientistas relatam o uso de um algoritmo de inteligência artificial que identificou um material candidato a supercondutor à temperatura ambiente. Se confirmado em laboratório, seria uma das descobertas de materiais mais importantes em décadas, com impacto em energia, transporte e chips. Por enquanto é só um candidato, não confirmação. Ainda assim vale acompanhar de perto por causa do potencial transformador.",
-    "reasonEn": "Scientists report using an AI algorithm that identified a candidate room-temperature superconductor material. If confirmed in the lab, it would be one of the most important materials breakthroughs in decades, with impact on energy, transport and chips. For now it is just a candidate, not confirmation. Still worth watching closely because of the transformative potential.",
-    "score": 0.85,
-    "tags": [
-      "descoberta",
-      "ciência",
-      "materiais"
-    ],
-    "img": "img/4981037b11ba.jpg",
-    "ts": 1787629984,
-    "addedTs": 1787632218,
-    "urlHash": "4981037b11ba",
-    "titleHash": "19576f6aba41"
-  },
-  {
-    "title": "Nvidia Is Spending $6B to Build a Powerful U.S. Alternative to Chinese AI",
-    "titlePt": "Nvidia vai gastar 6 bilhões de dólares em alternativa americana à IA chinesa",
-    "url": "https://www.wsj.com/tech/ai/nvidia-is-spending-6-billion-to-build-a-powerful-u-s-alternative-to-chinese-ai-c51c38cc",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Nvidia anuncia investimento de cerca de 6 bilhões de dólares para construir uma alternativa poderosa nos Estados Unidos frente à IA chinesa. O movimento tem peso geopolítico e de mercado, afetando cadeias de chips, data centers e concorrentes como Huawei. Afeta diretamente investidores, parceiros de infraestrutura e qualquer empresa dependente de GPUs. Sinaliza aceleração da corrida tecnológica entre EUA e China.",
-    "reasonEn": "Nvidia announces about $6 billion in spending to build a powerful US alternative to Chinese AI. The move has geopolitical and market weight, affecting chip supply chains, data centers and rivals like Huawei. It directly affects investors, infrastructure partners and any company dependent on GPUs. It signals an acceleration of the US-China tech race.",
-    "score": 0.85,
-    "tags": [
-      "nvidia",
-      "geopolítica",
-      "infraestrutura"
-    ],
-    "img": "img/e72c4db2c478.jpg",
-    "ts": 1787627111,
-    "addedTs": 1787632218,
-    "urlHash": "e72c4db2c478",
-    "titleHash": "1458c13d8eb6"
-  },
-  {
-    "title": "Russian drone guided by AI kills civilians in Ukraine",
-    "titlePt": "Drone russo guiado por IA mata civis na Ucrânia",
-    "url": "https://www.aerotime.aero/articles/russian-drone-guided-entirely-by-ai-kills-civilians-in-ukraine",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Relatos indicam que um drone russo com algum grau de autonomia por inteligência artificial atingiu civis na Ucrânia, reacendendo o debate sobre armas com IA. O episódio levanta questões éticas e de direito internacional humanitário. É relevante para policymakers, executivos de defesa e qualquer pessoa acompanhando os limites do uso militar da IA. Também pressiona empresas de tecnologia a posicionarem-se sobre o uso de seus modelos em armas.",
-    "reasonEn": "Reports indicate a Russian drone with some AI-driven autonomy struck civilians in Ukraine, reigniting debate over AI-enabled weapons. The incident raises ethical and international humanitarian law questions. It matters for policymakers, defense executives and anyone tracking the limits of military AI use. It also pressures tech companies to take stances on using their models in weapons.",
-    "score": 0.8,
-    "tags": [
-      "guerra",
-      "drones",
-      "ética"
-    ],
-    "img": "img/20ea80c75167.jpg",
-    "ts": 1787620705,
-    "addedTs": 1787632218,
-    "urlHash": "20ea80c75167",
-    "titleHash": "89f19e0f5bfb"
-  },
-  {
-    "title": "Partnering with CodeAI to prepare the first AI generation",
-    "titlePt": "OpenAI firma parceria com CodeAI para preparar a primeira geração de IA",
-    "url": "https://openai.com/index/partnering-with-codeai",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A OpenAI anuncia uma parceria com a iniciativa CodeAI voltada a preparar a chamada primeira geração nativa em inteligência artificial. O foco parece estar em educação e formação de jovens para um mundo onde IA é onipresente. Pode influenciar currículos, políticas educacionais e o mercado de cursos de tecnologia. Ainda há poucos detalhes concretos sobre a operação.",
-    "reasonEn": "OpenAI announces a partnership with the CodeAI initiative to prepare what it calls the first AI-native generation. The focus appears to be on educating and training young people for a world where AI is ubiquitous. It may influence curricula, education policies and the tech training market. Few concrete details about the operation are available yet.",
-    "score": 0.6,
-    "tags": [
-      "openai",
-      "educação"
-    ],
-    "img": "img/6d4ec902c728.jpg",
-    "ts": 1787050800,
-    "addedTs": 1787632218,
-    "urlHash": "6d4ec902c728",
-    "titleHash": "5f0e9d89b081"
-  },
-  {
-    "title": "IBM Z and LinuxONE Dual-ISA Processor and AI Acceleration at Hot Chips 2026",
-    "titlePt": "IBM apresenta processador com aceleração de IA no Hot Chips 2026",
-    "url": "https://www.servethehome.com/ibm-z-and-linuxone-dual-isa-processor-and-ai-acceleration-at-hot-chips-2026/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A IBM revelou no Hot Chips 2026 um novo processador para os mainframes Z e LinuxONE com arquitetura Dual-ISA e aceleração nativa de IA. A novidade é relevante para empresas que rodam cargas críticas e querem inferência local sem ir à nuvem. Para desenvolvedores, mostra como o hardware está se adaptando para incorporar IA diretamente no silício. É um movimento estratégico para manter o mainframe competitivo.",
-    "reasonEn": "IBM revealed at Hot Chips 2026 a new processor for Z and LinuxONE mainframes with Dual-ISA architecture and native AI acceleration. The news matters for enterprises running critical workloads that want local inference without going to the cloud. For developers, it shows how hardware is adapting to bake AI directly into silicon. It's a strategic move to keep mainframes competitive.",
-    "score": 0.7,
-    "tags": [
-      "hardware",
-      "ia",
-      "ibm"
-    ],
-    "img": "img/1ce5e00ca95b.jpg",
-    "ts": 1787625956,
-    "addedTs": 1787626287,
-    "urlHash": "1ce5e00ca95b",
-    "titleHash": "11630105bffa"
-  },
-  {
-    "title": "Is there a pending AI 'debt bomb' crisis? No. This isn't Enron 2.0",
-    "titlePt": "Há uma 'bomba de dívida' de IA prestes a explodir? Análise diz que não",
-    "url": "https://www.theguardian.com/technology/2026/aug/23/ai-debt-bomb-crisis",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um artigoa tese de que o setor de IA vive uma crise de dívida iminente, comparando-a com o caso Enron. A discussão importa para investidores e profissionais que acompanham o mercado, pois dá contexto sobre os riscos reais do setor. O argumento central é que, apesar do hype, os fundamentos são diferentes. Vale ler para não se deixar levar pelo pânico.",
-    "reasonEn": "An article pushes back on the thesis that the AI sector faces an imminent debt crisis, comparing it to Enron. The discussion matters for investors and market watchers because it provides context on real risks. The core argument is that despite the hype, the fundamentals differ. Worth reading to avoid panic.",
-    "score": 0.6,
-    "tags": [
-      "finanças",
-      "análise",
-      "mercado"
-    ],
-    "img": "img/d2bdda1c9026.jpg",
-    "ts": 1787625027,
-    "addedTs": 1787626287,
-    "urlHash": "d2bdda1c9026",
-    "titleHash": "309f833593c6"
-  },
-  {
-    "title": "Capture why AI wrote each commit, stored in Git-notes",
-    "titlePt": "Ferramenta registra nos Git-notes por que a IA gerou cada commit",
-    "url": "https://github.com/surajsrivastav/gitwhy",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um projeto do Hacker News propõe armazenar, nos próprios Git-notes, a justificativa de cada commit escrito por IA. Isso ajuda equipes a auditar código gerado automaticamente e entender a intenção por trás de cada mudança. Para desenvolvedores, resolve um problema crescente de rastreabilidade em times que usam IA. É uma solução simples e que aproveita infraestrutura já existente no Git.",
-    "reasonEn": "A Hacker News project proposes storing, in Git-notes themselves, the rationale for each AI-written commit. This helps teams audit auto-generated code and understand the intent behind each change. For developers, it solves a growing traceability problem in teams that use AI. It's a simple solution that leverages existing Git infrastructure.",
-    "score": 0.7,
-    "tags": [
-      "devtools",
-      "git",
-      "ia"
-    ],
-    "img": "img/7d48a2afbc11.jpg",
-    "ts": 1787624875,
-    "addedTs": 1787626287,
-    "urlHash": "7d48a2afbc11",
-    "titleHash": "a7b693e9cfa5"
-  },
-  {
-    "title": "Sellers on Shopee, TikTok call out auto-generated AI ads that mislead customers",
-    "titlePt": "Vendedores na Shopee e TikTok denunciam anúncios de IA que enganam clientes",
-    "url": "https://www.channelnewsasia.com/singapore/ai-generated-videos-shopee-tiktok-misleading-sellers-6336961",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Vendedores nas plataformas Shopee e TikTok estão reclamando que anúncios gerados automaticamente por IA estão enganando consumidores, prometendo produtos que não existem ou exagerando qualidades. O problema afeta diretamente lojistas honestos, que perdem vendas e reputação. Para desenvolvedores, mostra um risco real do uso sem curadoria de IA em e-commerce. Plataformas precisarão melhorar a moderação.",
-    "reasonEn": "Sellers on Shopee and TikTok are complaining that auto-generated AI ads are misleading customers, promising products that don't exist or exaggerating qualities. The problem directly affects honest merchants, who lose sales and reputation. For developers, it shows a real risk of uncurated AI use in e-commerce. Platforms will need to improve moderation.",
-    "score": 0.6,
-    "tags": [
-      "ecommerce",
-      "regulação",
-      "ia"
-    ],
-    "img": "img/030c1b4ac95d.jpg",
-    "ts": 1787624596,
-    "addedTs": 1787626287,
-    "urlHash": "030c1b4ac95d",
-    "titleHash": "1a10ffe00632"
-  },
-  {
-    "title": "Enterprise AI Operating System",
-    "titlePt": "Sistema operacional de IA para empresas é lançado",
-    "url": "https://devnavigator.com/2026/08/25/enterprise-ai-operating-system/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um novo sistema operacional voltado para uso corporativo com IA apareceu no Hacker News, prometendo unificar fluxos de trabalho com agentes. Para empresas, pode simplificar a integração de modelos em processos internos. Para desenvolvedores, é mais um framework em um mercado já saturado. Vale acompanhar, mas o título sozinho não dá detalhes técnicos suficientes.",
-    "reasonEn": "A new AI-focused operating system for enterprise use surfaced on Hacker News, promising to unify workflows with agents. For companies, it could simplify integrating models into internal processes. For developers, it's another framework in an already crowded market. Worth following, but the headline alone lacks technical detail.",
-    "score": 0.5,
-    "tags": [
-      "enterprise",
-      "agentes",
-      "lançamento"
-    ],
-    "img": "img/2be81c56b132.jpg",
-    "ts": 1787621144,
-    "addedTs": 1787626287,
-    "urlHash": "2be81c56b132",
-    "titleHash": "13379ac7479c"
-  },
-  {
-    "title": "Flex: Let the Model Write the Code",
-    "titlePt": "Flex: ferramenta deixa o modelo de IA escrever o código",
-    "url": "https://www.cmpnd.ai/blog/let-the-model-write-the-code.html",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Flex é uma nova ferramenta que permite que modelos de linguagem escrevam o código diretamente, indo além do tradicional autocomplete. Para desenvolvedores, automatiza tarefas repetitivas e pode acelerar protótipos. O lançamento entra em um mercado já competitivo com Cursor, Copilot e outros. Vale testar para ver se traz ganho real de produtividade.",
-    "reasonEn": "Flex is a new tool that lets language models write code directly, going beyond traditional autocomplete. For developers, it automates repetitive tasks and can speed up prototypes. The launch enters an already competitive market with Cursor, Copilot and others. Worth testing to see if it brings real productivity gains.",
-    "score": 0.5,
-    "tags": [
-      "devtools",
-      "codificação",
-      "ia"
-    ],
-    "img": "img/68ff4c87b7f5.jpg",
-    "ts": 1787619627,
-    "addedTs": 1787626287,
-    "urlHash": "68ff4c87b7f5",
-    "titleHash": "e9ac7ed0a3a6"
-  },
-  {
-    "title": "AI Skills for Real Engineers",
-    "titlePt": "Habilidades de IA para engenheiros de verdade",
-    "url": "https://blog.master.dev/introducing-ai-skills-for-real-engineers/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um post no Hacker News defende habilidades práticas de IA voltadas a profissionais de engenharia, fugindo do hype. É útil para desenvolvedores que querem separar o que realmente funciona do que é marketing. O conteúdo se alinha à tendência de profissionalização do uso de IA em times de engenharia. Vale conferir para ajustar a própria estratégia de aprendizado.",
-    "reasonEn": "A Hacker News post advocates practical AI skills aimed at real engineering professionals, cutting through the hype. It's useful for developers wanting to separate what actually works from marketing. The content aligns with the trend of professionalizing AI use in engineering teams. Worth reading to adjust your own learning strategy.",
-    "score": 0.5,
-    "tags": [
-      "carreira",
-      "engenharia",
-      "ia"
-    ],
-    "img": "img/e8bf0e84bcb8.jpg",
-    "ts": 1787614762,
-    "addedTs": 1787626287,
-    "urlHash": "e8bf0e84bcb8",
-    "titleHash": "ea128b0882d6"
-  },
-  {
-    "title": "The Download: kids outlearning AI, and space travel agents",
-    "titlePt": "MIT Tech Review: crianças superam IA e agentes de viagem espacial",
-    "url": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
-    "source": "MIT Tech Review",
-    "sources": [
-      "MIT Tech Review"
-    ],
-    "reason": "O boletim The Download da MIT Technology Review traz duas pautas: crianças que aprendem mais rápido do que modelos de IA em certas tarefas, e o uso de agentes de IA para planejar viagens espaciais. O primeiro ponto contraria narrativas exageradas sobre a supremacia da IA. O segundo mostra aplicações curiosas em nichos específicos. É conteúdo de leitura leve, mas com contrapontos interessantes.",
-    "reasonEn": "MIT Technology Review's The Download newsletter covers two topics: kids outlearning AI models at certain tasks, and AI agents used as space travel planners. The first point counters exaggerated narratives about AI supremacy. The second shows curious applications in specific niches. It's light reading with worthwhile counterpoints.",
-    "score": 0.5,
-    "tags": [
-      "educação",
-      "agentes",
-      "espaço"
-    ],
-    "img": "img/c090dee7d680.jpg",
-    "ts": 1787573400,
-    "addedTs": 1787626287,
-    "urlHash": "c090dee7d680",
-    "titleHash": "3c1b465c5c16"
-  },
-  {
-    "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-    "titlePt": "Listen Labs Capta US$ 69 Milhões Após Outdoor Viral para Contratar",
-    "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-    "source": "VentureBeat AI",
-    "sources": [
-      "VentureBeat AI"
-    ],
-    "reason": "A Listen Labs levantou US$ 69 milhões após uma campanha de outdoor que viralizou e ajudou a empresa a crescer. A startup usa IA para conduzir entrevistas automatizadas com clientes em larga escala. O aporte mostra interesse do mercado em ferramentas de pesquisa com IA. Pode interessar equipes de produto e marketing.",
-    "reasonEn": "Listen Labs raised $69 million after a viral billboard hiring campaign that helped the company grow. The startup uses AI to run automated customer interviews at scale. The funding shows market interest in AI-powered research tools. May interest product and marketing teams.",
-    "score": 0.55,
-    "tags": [
-      "investimento",
-      "pesquisa"
-    ],
-    "img": "img/2f6e8f891c0a.jpg",
-    "ts": 1768572060,
-    "addedTs": 1787626287,
-    "urlHash": "2f6e8f891c0a",
-    "titleHash": "146325c98ea5"
-  },
-  {
-    "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-    "titlePt": "Salesforce Lança Novo Agente de IA no Slack Contra Microsoft e Google",
-    "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-    "source": "VentureBeat AI",
-    "sources": [
-      "VentureBeat AI"
-    ],
-    "reason": "A Salesforce apresentou um novo agente de IA integrado ao Slack, chamado Slackbot, para competir com Microsoft e Google no mercado corporativo. O agente promete automatizar tarefas dentro do chat de trabalho. A movimentação mostra a briga intensa pelo espaço de IA em ambientes de produtividade. Afeta diretamente equipes que usam essas plataformas.",
-    "reasonEn": "Salesforce unveiled a new AI agent integrated into Slack, called Slackbot, to compete with Microsoft and Google in the corporate market. The agent promises to automate tasks within the work chat. The move shows the intense fight for AI space in productivity environments. Directly affects teams using these platforms.",
-    "score": 0.7,
-    "tags": [
-      "salesforce",
-      "produto"
-    ],
-    "img": "img/0d32aa6b6a8f.jpg",
-    "ts": 1768309200,
-    "addedTs": 1787626287,
-    "urlHash": "0d32aa6b6a8f",
-    "titleHash": "ec8a5cd62e43"
-  },
-  {
-    "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
-    "titlePt": "Anthropic Lança Cowork: Agente Claude que Trabalha em Seus Arquivos",
-    "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-    "source": "VentureBeat AI",
-    "sources": [
-      "VentureBeat AI"
-    ],
-    "reason": "A Anthropic lançou o Cowork, um novo agente do Claude Desktop que opera diretamente sobre arquivos do usuário sem necessidade de programação. O agente consegue ler, editar e organizar documentos autonomamente. É um passo importante para tornar agentes úteis fora do código. Afeta desenvolvedores e profissionais que trabalham muito com arquivos.",
-    "reasonEn": "Anthropic launched Cowork, a new Claude Desktop agent that operates directly on user files without requiring programming. The agent can read, edit, and organize documents autonomously. It's an important step toward making agents useful beyond code. Affects developers and professionals who work heavily with files.",
-    "score": 0.85,
-    "tags": [
-      "anthropic",
-      "lançamento"
-    ],
-    "img": "img/157324a9612f.jpg",
-    "ts": 1768217400,
-    "addedTs": 1787626287,
-    "urlHash": "157324a9612f",
-    "titleHash": "68d569241672"
   }
 ]
