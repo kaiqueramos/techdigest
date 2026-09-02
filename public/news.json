@@ -1,5 +1,225 @@
 [
   {
+    "title": "Heides, deterministic code harness giving AI agents senses and judgment",
+    "titlePt": "Heides: ferramenta que dá sentidos e julgamento a agentes de IA",
+    "url": "https://github.com/AbduljabbarBXR/heides",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Heides é um novo framework de código determinístico criado para dar a agentes de IA algo parecido com sentidos e julgamento na hora de executar código. A ideia é reduzir o comportamento imprevisível que esses agentes costumam ter. Desenvolvedores que constroem automações com LLMs podem se interessar, mas o impacto prático ainda precisa ser comprovado. Vale acompanhar como projeto, não como notícia urgente.",
+    "reasonEn": "Heides is a new deterministic code harness designed to give AI agents a sense of perception and judgment when running code. The goal is to reduce the unpredictable behavior common in autonomous agents. Developers building LLM automations may find it interesting, but real-world impact is still unproven. Worth watching as a project, not as urgent news.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "framework",
+      "devtools"
+    ],
+    "img": "img/1aee4e9f0b51.jpg",
+    "ts": 1788357405,
+    "addedTs": 1788357512,
+    "urlHash": "1aee4e9f0b51",
+    "titleHash": "dc4fe94961aa"
+  },
+  {
+    "title": "Open protocol for AI agents to discover, negotiate, and pay each other",
+    "titlePt": "Protocolo aberto para agentes de IA descobrirem e pagarem uns aos outros",
+    "url": "https://github.com/bizswarm44-coder/aether-protocol",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um novo protocolo aberto propõe padronizar como agentes de IA se descobrem, negociam serviços e realizam pagamentos entre si. É um passo rumo a uma economia automatizada entre máquinas. Desenvolvedores e empresas interessadas em automação entre agentes devem ficar atentos. Ainda é conceito, sem sinal claro de adoção em massa.",
+    "reasonEn": "A new open protocol aims to standardize how AI agents discover each other, trade services, and pay one another. It is a move toward a machine-to-machine automated economy. Developers and businesses interested in agent-to-agent automation should keep an eye on it. Still conceptual, with no clear mass adoption yet.",
+    "score": 0.55,
+    "tags": [
+      "agentes",
+      "protocolo",
+      "pagamento"
+    ],
+    "img": "img/f7ebeb6c68df.jpg",
+    "ts": 1788357395,
+    "addedTs": 1788357512,
+    "urlHash": "f7ebeb6c68df",
+    "titleHash": "0397a703540d"
+  },
+  {
+    "title": "Using AI to modernize or migrate code",
+    "titlePt": "Usando IA para modernizar ou migrar código legado",
+    "url": "https://www.kdab.com/using-ai-to-modernize-or-migrate-code/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo discute o uso prático de modelos de IA para modernizar bases de código antigas ou migrar entre linguagens e plataformas. Aponta ganhos de produtividade, mas também riscos quando o resultado não é bem revisado. Equipes de engenharia lidando com sistemas legados podem se beneficiar. Não é novidade absoluta, mas traz lições úteis.",
+    "reasonEn": "The article discusses using AI models to modernize legacy codebases or migrate between languages and platforms. It highlights productivity gains but also risks when output is not properly reviewed. Engineering teams dealing with legacy systems can benefit. Not brand new, but offers useful lessons.",
+    "score": 0.55,
+    "tags": [
+      "modernização",
+      "engenharia",
+      "ia"
+    ],
+    "img": "img/4c1cb5c0ecc2.jpg",
+    "ts": 1788357194,
+    "addedTs": 1788357512,
+    "urlHash": "4c1cb5c0ecc2",
+    "titleHash": "0f636d29aace"
+  },
+  {
+    "title": "Who pays when an AI agent causes damage: the contracts, the policies and the gap",
+    "titlePt": "Quem paga quando um agente de IA causa danos: contratos e brechas legais",
+    "url": "https://tokenstead.ai/guides/ai-agent-liability-insurance-gap-2026",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo discute a responsabilidade legal e contratual quando agentes autônomos de IA causam prejuízos. Mostra que as políticas atuais ainda têm lacunas sérias sobre quem responde financeiramente. Empresas que adotam agentes precisam revisar contratos e seguros. Tema relevante para qualquer time que automatiza decisões com IA.",
+    "reasonEn": "The piece discusses legal and contractual responsibility when autonomous AI agents cause damage. It shows current policies still have serious gaps on who pays. Companies adopting agents must review contracts and insurance. A relevant topic for any team automating decisions with AI.",
+    "score": 0.75,
+    "tags": [
+      "regulação",
+      "agentes",
+      "responsabilidade"
+    ],
+    "img": "img/6d11c3348b10.jpg",
+    "ts": 1788356797,
+    "addedTs": 1788357512,
+    "urlHash": "6d11c3348b10",
+    "titleHash": "2b8502db269d"
+  },
+  {
+    "title": "Six curl CVEs after OpenAI and Anthropic came back with zero",
+    "titlePt": "Seis CVEs no curl após OpenAI e Anthropic devolverem zero correções",
+    "url": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O projeto curl reportou seis vulnerabilidades, mas grandes empresas de IA como OpenAI e Anthropic não enviaram nenhuma correção de volta. Isso expõe um problema real de segurança na cadeia de suprimentos de software usado por sistemas de IA. Desenvolvedores devem atualizar o curl e revisar dependências. Mostra como empresas de IA ainda tratam mal contribuições upstream.",
+    "reasonEn": "The curl project reported six vulnerabilities, but big AI companies like OpenAI and Anthropic contributed zero fixes back. This exposes a real supply chain security problem in software used by AI systems. Developers should update curl and review dependencies. It shows how AI firms still poorly support upstream contributions.",
+    "score": 0.65,
+    "tags": [
+      "segurança",
+      "cve",
+      "opensource"
+    ],
+    "img": "img/b9a7dc4a09e4.jpg",
+    "ts": 1788356594,
+    "addedTs": 1788357512,
+    "urlHash": "b9a7dc4a09e4",
+    "titleHash": "8e35d0d24609"
+  },
+  {
+    "title": "Mistral now trains on user input by default, except on enterprise tier",
+    "titlePt": "Mistral agora treina com dados dos usuários por padrão",
+    "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Mistral ativou por padrão o uso de dados enviados pelos usuários para treinar seus modelos, exceto no plano enterprise. Isso significa que quem usa a versão gratuita está contribuindo automaticamente para o treinamento. É uma mudança relevante de privacidade. Usuários devem desativar a opção ou migrar para enterprise se não concordarem.",
+    "reasonEn": "Mistral turned on by default the use of user-submitted data to train its models, except on the enterprise tier. This means free tier users are automatically contributing to training. It is a relevant privacy change. Users should opt out or move to enterprise if they disagree.",
+    "score": 0.85,
+    "tags": [
+      "mistral",
+      "privacidade",
+      "treinamento"
+    ],
+    "img": "img/6da48b386c4a.jpg",
+    "ts": 1788352239,
+    "addedTs": 1788357512,
+    "urlHash": "6da48b386c4a",
+    "titleHash": "4531766d9c3c"
+  },
+  {
+    "title": "AI Slop Is Ruining Cute Animals on the Internet",
+    "titlePt": "Slop de IA está arruinando animais fofos na internet",
+    "url": "https://www.wired.com/story/ai-slop-is-ruining-the-internets-cute-animal-economy/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo denuncia que conteúdo gerado por IA está poluindo feeds com imagens falsas de animais, confundindo usuários e prejudicando a percepção de conteúdo real. Toca em desinformação visual e impacto em comunidades de amantes de animais. Tema relevante para criadores e plataformas. Mostra mais um efeito colateral dos modelos generativos.",
+    "reasonEn": "The piece denounces that AI-generated content is polluting feeds with fake animal images, confusing users and harming real content perception. It touches on visual misinformation and impacts on animal-loving communities. Relevant for creators and platforms. Shows another side effect of generative models.",
+    "score": 0.5,
+    "tags": [
+      "desinformação",
+      "imagens",
+      "conteúdo"
+    ],
+    "img": "img/1097f553904e.jpg",
+    "ts": 1788351571,
+    "addedTs": 1788357512,
+    "urlHash": "1097f553904e",
+    "titleHash": "bef0b1b6ffe5"
+  },
+  {
+    "title": "AI Agent Memory Design: What Works and What Doesn't",
+    "titlePt": "Design de memória para agentes de IA: o que funciona e o que não funciona",
+    "url": "https://machinelearningmastery.com/ai-agent-memory-design-what-works-and-what-doesnt/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo revisa padrões de memória em agentes de IA, comparando o que ajuda na retenção de contexto com o que gera ruído e custo. Inclui técnicas como memórias de curto e longo prazo, sumarização e recuperação. Material útil para quem desenvolve agentes sérios. Mais profundo que tutoriais comuns.",
+    "reasonEn": "The article reviews memory patterns in AI agents, comparing what helps retain context with what creates noise and cost. It covers short and long-term memory, summarization, and retrieval techniques. Useful material for those building serious agents. Deeper than typical tutorials.",
+    "score": 0.7,
+    "tags": [
+      "agentes",
+      "memória",
+      "arquitetura"
+    ],
+    "img": "img/71d029bf29d9.jpg",
+    "ts": 1788351200,
+    "addedTs": 1788357512,
+    "urlHash": "71d029bf29d9",
+    "titleHash": "7fe4c146cba1"
+  },
+  {
+    "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
+    "titlePt": "OpenAI enfrenta mais 30 processos ligados ao massacre de Tumbler Ridge",
+    "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A OpenAI foi notificada de 30 novas ações judiciais que associam o ChatGPT ao tiroteio em Tumbler Ridge, no Canadá. As famílias acusam a empresa de liberar conteúdo perigoso para menores e falhar nos sistemas de proteção. O caso pode forçar novas regras para chatbots e ampliar o debate sobre responsabilidade de modelos generativos. Desenvolvedores de produtos com IA devem acompanhar, pois decisões judiciais podem virar precedente regulatório.",
+    "reasonEn": "OpenAI has been hit with 30 more lawsuits connecting ChatGPT to the Tumbler Ridge shooting in Canada. The families accuse the company of releasing harmful content to minors and failing on its safety systems. The case could force new rules for chatbots and broaden the debate on liability for generative models. Developers shipping AI products should watch closely, as court decisions could set a regulatory precedent.",
+    "score": 0.9,
+    "tags": [
+      "regulação",
+      "segurança",
+      "openai"
+    ],
+    "img": "img/e6bc571c24cb.jpg",
+    "ts": 1788350982,
+    "addedTs": 1788357512,
+    "urlHash": "e6bc571c24cb",
+    "titleHash": "78244bfea122"
+  },
+  {
+    "title": "Google needs Hollywood more than the studios need AI",
+    "titlePt": "Google precisa de Hollywood mais do que Hollywood precisa de IA",
+    "url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "The Verge argumenta que o Google é quem mais depende de Hollywood para treinar seus modelos de vídeo generativo, não o contrário. O texto mostra que estúdios enxergam a IA como ameaça criativa e estão cautelosos em licenciar conteúdo. O cenário afeta diretamente desenvolvedores de apps de vídeo, negociações de direitos e o futuro de obras geradas por IA.",
+    "reasonEn": "The Verge argues Google is the party that most needs Hollywood to train its generative video models, not the other way around. The piece shows studios see AI as a creative threat and are cautious about licensing content. The scenario directly affects video app developers, rights negotiations, and the future of AI-generated works.",
+    "score": 0.55,
+    "tags": [
+      "google",
+      "entretenimento",
+      "direitos"
+    ],
+    "img": "img/d90573234ae3.jpg",
+    "ts": 1788303029,
+    "addedTs": 1788357512,
+    "urlHash": "d90573234ae3",
+    "titleHash": "1ca130ca7744"
+  },
+  {
     "title": "Mayor says 'large chunks' of Wellington council Deloitte report written by AI",
     "titlePt": "Prefeito diz que partes do relatório do conselho de Wellington foram escritas por IA",
     "url": "https://www.rnz.co.nz/news/regions/1229348/mayor-says-large-chunks-of-wellington-council-deloitte-report-written-by-ai",
@@ -6989,508 +7209,5 @@
     "addedTs": 1787754951,
     "urlHash": "209658f98324",
     "titleHash": "a7f9764b4728"
-  },
-  {
-    "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
-    "titlePt": "Falso think tank dos EUA, financiado por Israel, usou IA para propaganda",
-    "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um grupo se passou por um think tank americano independente, mas era financiado por Israel e usou ferramentas de IA para espalhar propaganda nas redes sociais. A operação mirava debates sobre política externa dos EUA. É um caso importante sobre desinformação automatizada e interferência estrangeira. Jornalistas, pesquisadores e formuladores de políticas devem acompanhar.",
-    "reasonEn": "A group posed as an independent American think tank, but it was funded by Israel and used AI tools to spread propaganda on social media. The operation targeted US foreign policy debates. It's an important case about automated disinformation and foreign interference. Journalists, researchers and policymakers should follow it.",
-    "score": 0.85,
-    "tags": [
-      "regulação",
-      "desinformação",
-      "geopolítica"
-    ],
-    "img": "img/fb586a988ac8.jpg",
-    "ts": 1787746279,
-    "addedTs": 1787747586,
-    "urlHash": "fb586a988ac8",
-    "titleHash": "a09c7879b9c1"
-  },
-  {
-    "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
-    "titlePt": "Startup Legato sai do stealth com US$ 12 mi e óculos auditivos com IA",
-    "url": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A Legato, startup de tecnologia auditiva, levantou US$ 12 milhões e mostrou seus óculos com IA que prometem ajudar pessoas com deficiência auditiva. O produto combina hardware vestível com modelos de IA para processar som em tempo real. É notícia concreta para quem acompanha saúde digital e hardware de IA.",
-    "reasonEn": "Legato, a hearing tech startup, raised $12 million and showed off its AI-powered glasses aimed at helping people with hearing impairment. The product combines wearable hardware with AI models to process sound in real time. Concrete news for those following digital health and AI hardware.",
-    "score": 0.55,
-    "tags": [
-      "investimento",
-      "hardware",
-      "saúde"
-    ],
-    "img": "Smart glasses silhouette with sound waves, minimal abstract tech, violet and navy gradient, soft glow",
-    "ts": 1787745600,
-    "addedTs": 1787747586,
-    "urlHash": "be2b47efe7b1",
-    "titleHash": "f2e8c4854472"
-  },
-  {
-    "title": "Sevren: A new European AI lab developing open-source AI technologies",
-    "titlePt": "Sevren: novo laboratório europeu de IA open-source",
-    "url": "https://sevren.ai/news.html",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Sevren surge como um novo laboratório europeu focado em desenvolver tecnologias de IA de código aberto. O movimento reforça a tendência de soberania tecnológica europeia frente aos gigantes americanos e chineses. Vale acompanhar para quem acompanha o ecossistema open-source de IA.",
-    "reasonEn": "Sevren emerges as a new European lab focused on developing open-source AI technologies. The move reinforces the trend of European technological sovereignty against American and Chinese giants. Worth following for those tracking the open-source AI ecosystem.",
-    "score": 0.55,
-    "tags": [
-      "open-source",
-      "lançamento",
-      "europa"
-    ],
-    "img": "European map outline forming a circuit node, minimal abstract tech, violet and navy gradient, soft glow",
-    "ts": 1787744167,
-    "addedTs": 1787747586,
-    "urlHash": "f6986d1ab38c",
-    "titleHash": "bd97c6ea0de4"
-  },
-  {
-    "title": "As Ubuntu embraces AI, Debian discusses banning all AI-generated code",
-    "titlePt": "Enquanto Ubuntu abraça IA, Debian discute banir código gerado por IA",
-    "url": "https://www.xda-developers.com/as-ubuntu-embraces-ai-debian-discusses-banning-all-ai-generated-code/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Canonical, mantenedora do Ubuntu, segue integrando recursos de IA em sua distribuição. Enquanto isso, a comunidade Debian está debatendo proibir todo código gerado por IA no projeto. É um embate interessante sobre qualidade, autoria e responsabilidade em projetos de software livre. Relevante para desenvolvedores e mantenedores.",
-    "reasonEn": "Canonical, which maintains Ubuntu, keeps integrating AI features into its distribution. Meanwhile, the Debian community is debating banning all AI-generated code from the project. It's an interesting clash about quality, authorship and responsibility in free software projects. Relevant for developers and maintainers.",
-    "score": 0.55,
-    "tags": [
-      "software-livre",
-      "regulação",
-      "desenvolvimento"
-    ],
-    "img": "Two opposing shields with code symbols, minimal abstract tech, violet and navy gradient, soft glow",
-    "ts": 1787743659,
-    "addedTs": 1787747586,
-    "urlHash": "13daff5cc23c",
-    "titleHash": "27e8d5b31193"
-  },
-  {
-    "title": "Moonshot AI wants 30% of what US clouds earn from Kimi K3",
-    "titlePt": "Moonshot AI quer 30% do que nuvens dos EUA ganham com o Kimi K3",
-    "url": "https://thenextweb.com/news/moonshot-k3-revenue-sharing-us-clouds",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A chinesa Moonshot AI propôs um modelo de negócio agressivo: receber 30% da receita que provedores de nuvem americanos obtiverem ao hospedar e vender acesso ao seu modelo Kimi K3. É uma tentativa incomum de capturar valor da infraestrutura dos EUA. Pode mexer com a dinâmica de modelos chineses e provedores globais.",
-    "reasonEn": "Chinese company Moonshot AI proposed an aggressive business model: take 30% of the revenue that American cloud providers earn when hosting and selling access to its Kimi K3 model. It's an unusual attempt to capture value from US infrastructure. It could shake up the dynamic between Chinese models and global providers.",
-    "score": 0.55,
-    "tags": [
-      "negócios",
-      "china",
-      "modelo"
-    ],
-    "img": "Cloud server stack with split revenue arrows, minimal abstract tech, violet and navy gradient, soft glow",
-    "ts": 1787743478,
-    "addedTs": 1787747586,
-    "urlHash": "c7ea416884a4",
-    "titleHash": "5ed42d446be9"
-  },
-  {
-    "title": "LinkedIn's 'Seems Like AI Slop' button drops views by 40%",
-    "titlePt": "Botão 'parece IA genérica' do LinkedIn derruba visualizações em 40%",
-    "url": "https://finance.yahoo.com/technology/ai/articles/linkedin-seems-ai-slop-button-195000046.html",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O LinkedIn ativou um botão para o usuário marcar conteúdo como 'parece slop de IA'. Publicações marcadas tiveram queda de cerca de 40% nas visualizações. É um sinal claro de que plataformas estão começando a penalizar conteúdo genérico gerado por IA. Vale para criadores de conteúdo e profissionais de marketing.",
-    "reasonEn": "LinkedIn activated a button letting users flag content as 'looks like AI slop'. Posts flagged saw about a 40% drop in views. It's a clear sign that platforms are starting to penalize generic AI-generated content. Relevant for content creators and marketers.",
-    "score": 0.6,
-    "tags": [
-      "plataforma",
-      "conteúdo",
-      "métricas"
-    ],
-    "img": "Downward trending graph with a thumbs-down icon, minimal abstract tech, violet and navy gradient, soft glow",
-    "ts": 1787742948,
-    "addedTs": 1787747586,
-    "urlHash": "fd58e310ab81",
-    "titleHash": "d14d0929a758"
-  },
-  {
-    "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
-    "titlePt": "Runable capta 21 milhões de dólares para agentes de IA que ajudam empresas a crescer",
-    "url": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A startup Runable anunciou uma rodada de financiamento de 21 milhões de dólares. A aposta é que agentes de inteligência artificial consigam não só criar, mas também expandir negócios. A empresa pretende usar os recursos para melhorar seus produtos e ganhar mercado. O movimento mostra o interesse crescente de investidores em startups focadas em agentes autônomos. Para desenvolvedores e fundadores, é mais um sinal de que o setor de IA continua aquecido.",
-    "reasonEn": "Startup Runable announced a 21 million dollar funding round. The bet is that AI agents can not only build but also grow businesses. The company plans to use the funds to improve its products and gain market share. The move shows growing investor interest in startups focused on autonomous agents. For developers and founders, it is another sign that the AI sector remains hot.",
-    "score": 0.55,
-    "tags": [
-      "agentes",
-      "investimento",
-      "startup"
-    ],
-    "img": "rocket trajectory, startup badge, minimal abstract tech, violet and navy gradient, soft glow",
-    "ts": 1787742000,
-    "addedTs": 1787747586,
-    "urlHash": "55000dbc066e",
-    "titleHash": "7c9e46988040"
-  },
-  {
-    "title": "Google Gemini is getting a dedicated student hub",
-    "titlePt": "Google Gemini ganha espaço dedicado para estudantes",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "O Google está lançando um hub específico para estudantes dentro do Gemini, seu assistente de IA. A ideia é concentrar recursos educacionais e ferramentas adaptadas ao uso acadêmico. O movimento acompanha a crescente adoção de IA por alunos e professores em escolas e universidades. Estudantes e educadores devem ficar atentos às novidades, já que o hub pode mudar a forma como tarefas e pesquisas são feitas. Para desenvolvedores, é também um indicador de como a IA está sendo moldada para nichos.",
-    "reasonEn": "Google is launching a dedicated hub for students inside Gemini, its AI assistant. The idea is to centralize educational resources and tools adapted for academic use. The move follows the growing adoption of AI by students and teachers in schools and universities. Students and educators should pay attention to the updates, since the hub could change the way assignments and research are done. For developers, it is also an indicator of how AI is being shaped for specific niches.",
-    "score": 0.55,
-    "tags": [
-      "gemini",
-      "educação",
-      "lançamento"
-    ],
-    "img": "graduation cap, learning hub, minimal abstract tech, violet and navy gradient, soft glow",
-    "ts": 1787165563,
-    "addedTs": 1787747586,
-    "urlHash": "3ce595e677a9",
-    "titleHash": "f406f09a0900"
-  },
-  {
-    "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-    "titlePt": "OpenAI e Anthropic entram em guerra de preços enquanto rivais chineses ganham espaço",
-    "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
-    "source": "Ars Technica",
-    "sources": [
-      "Ars Technica"
-    ],
-    "reason": "A OpenAI e a Anthropic estão reduzindo preços de seus modelos de IA para competir entre si. Ao mesmo tempo, empresas chinesas como DeepSeek estão ganhando terreno no mercado global. A disputa pode baratear o acesso à IA avançada para empresas e desenvolvedores. Para usuários finais, a tendência costuma significar planos mais baratos ou mais recursos pelo mesmo valor. É um cenário competitivo que deve moldar os próximos meses do setor.",
-    "reasonEn": "OpenAI and Anthropic are cutting prices on their AI models to compete with each other. At the same time, Chinese companies like DeepSeek are gaining ground in the global market. The dispute could lower access costs to advanced AI for companies and developers. For end users, the trend usually means cheaper plans or more features for the same price. It is a competitive scenario that should shape the coming months of the sector.",
-    "score": 0.7,
-    "tags": [
-      "preço",
-      "competição",
-      "modelo"
-    ],
-    "img": "price tag collision, AI rivalry, minimal abstract tech, violet and navy gradient, soft glow",
-    "ts": 1786717634,
-    "addedTs": 1787747586,
-    "urlHash": "0778f93b3ef2",
-    "titleHash": "69efe2998c89"
-  },
-  {
-    "title": "State of Open Models: Summer 2026 Observations",
-    "titlePt": "HuggingFace publica panorama dos modelos abertos no verão de 2026",
-    "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "A HuggingFace publicou uma nova edição do relatório State of Open Models, com observações sobre o cenário de modelos abertos no verão de 2026. O documento traz dados sobre desempenho, adoção e tendências do ecossistema aberto de IA. É leitura útil para desenvolvedores que querem escolher modelos para seus projetos. Também ajuda a entender quem está liderando o espaço aberto e onde estão as oportunidades. Quem trabalha com IA deve guardar esse tipo de panorama como referência.",
-    "reasonEn": "HuggingFace has published a new edition of the State of Open Models report, with observations on the open model landscape in summer 2026. The document brings data on performance, adoption and trends in the open AI ecosystem. It is useful reading for developers who want to choose models for their projects. It also helps understand who is leading the open space and where the opportunities are. Anyone working with AI should keep this kind of overview as a reference.",
-    "score": 0.55,
-    "tags": [
-      "modelo-aberto",
-      "relatório",
-      "huggingface"
-    ],
-    "img": "open source gears, model landscape, minimal abstract tech, violet and navy gradient, soft glow",
-    "ts": 1786665600,
-    "addedTs": 1787747586,
-    "urlHash": "bc290ba394fd",
-    "titleHash": "243f0ba61cd4"
-  },
-  {
-    "title": "Apple Updates Mini and Studio, AI Computers, OpenAI Jalapeño",
-    "titlePt": "Apple atualiza Mac Mini e Studio, e surge o codinome OpenAI Jalapeño",
-    "url": "https://stratechery.com/2026/apple-updates-mini-and-studio-ai-computers-openai-jalapeno/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Rodada de notícias que mistura hardware da Apple e rumores sobre um possível novo modelo da OpenAI chamado Jalapeño. Os updates da Apple interessam quem compra Macs, mas ainda faltam detalhes concretos. O codinome interno da OpenAI é especulação, mas pode antecipar o próximo lançamento da empresa.",
-    "reasonEn": "A news roundup mixing Apple hardware updates and rumors about a potential new OpenAI model codenamed Jalapeño. The Apple updates matter to Mac buyers, but concrete details are still lacking. The OpenAI codename is speculation, yet it may hint at the company's next release.",
-    "score": 0.55,
-    "tags": [
-      "hardware",
-      "openai",
-      "apple"
-    ],
-    "img": "img/dc23cbcd073a.jpg",
-    "ts": 1787739833,
-    "addedTs": 1787739926,
-    "urlHash": "dc23cbcd073a",
-    "titleHash": "a5dd7ed6fe80"
-  },
-  {
-    "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-    "titlePt": "Z.ai confirma que Ox Alpha é novo modelo GLM e abrirá os pesos",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A chinesa Z.ai confirmou oficialmente que o misterioso modelo Ox Alpha faz parte da série GLM e que pretende liberar os pesos publicamente. Isso é relevante porque coloca mais um modelo aberto forte no mercado, competindo com DeepSeek. Desenvolvedores de IA ganham mais uma opção open-weight de alto nível.",
-    "reasonEn": "Chinese lab Z.ai officially confirmed that the mysterious Ox Alpha model belongs to the GLM family and that it plans to release the weights publicly. This matters because it adds another strong open-weight model to the market, competing with DeepSeek. AI developers gain another high-tier open-weight option.",
-    "score": 0.85,
-    "tags": [
-      "modelo",
-      "open-source",
-      "china"
-    ],
-    "img": "img/a9c204e117f9.jpg",
-    "ts": 1787738695,
-    "addedTs": 1787739926,
-    "urlHash": "a9c204e117f9",
-    "titleHash": "a23f04149125"
-  },
-  {
-    "title": "Dataset: AI agent security failures, 1000 incidents classified",
-    "titlePt": "Dataset cataloga mil falhas de segurança em agentes de IA",
-    "url": "https://huggingface.co/datasets/gemmozero/ai-agent-security-incidents",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Pesquisadores publicaram um dataset com mil incidentes de segurança envolvendo agentes de IA, todos classificados. É um recurso útil para quem constrói ou audita sistemas agênticos e quer entender os riscos reais. Profissionais que adotam agentes em produção deveriam olhar esses dados.",
-    "reasonEn": "Researchers released a dataset of one thousand classified security incidents involving AI agents. It is a useful resource for those building or auditing agentic systems who want to understand real-world risks. Professionals deploying agents in production should review this data.",
-    "score": 0.7,
-    "tags": [
-      "segurança",
-      "dataset",
-      "agentes"
-    ],
-    "img": "img/ae5c5a61f8ed.jpg",
-    "ts": 1787738233,
-    "addedTs": 1787739926,
-    "urlHash": "ae5c5a61f8ed",
-    "titleHash": "ccd92ce5093a"
-  },
-  {
-    "title": "Is DeepSeek-V4-Flash Overtaking American AI Models?",
-    "titlePt": "DeepSeek-V4-Flash está ultrapassando modelos americanos?",
-    "url": "https://mrkt30.com/deepseek-v4-flash-overtaking-american-ai-models/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Discussão sobre o quanto o novo modelo DeepSeek-V4-Flash se compara a modelos americanos líderes. Mostra a velocidade com que a China está fechando a distância em IA generativa. Vale ler para quem precisa decidir entre provedores ou acompanhar o cenário competitivo global.",
-    "reasonEn": "A discussion on how the new DeepSeek-V4-Flash compares to leading American models. It shows how quickly China is closing the gap in generative AI. Worth reading for those deciding between providers or tracking the global competitive landscape.",
-    "score": 0.65,
-    "tags": [
-      "deepseek",
-      "china",
-      "modelo"
-    ],
-    "img": "img/3db85bd2df24.jpg",
-    "ts": 1787737623,
-    "addedTs": 1787739926,
-    "urlHash": "3db85bd2df24",
-    "titleHash": "38ff155598e9"
-  },
-  {
-    "title": "Fourteen months micromanaging AI coding agents",
-    "titlePt": "Quatorze meses microgerenciando agentes de código de IA",
-    "url": "https://allende.nz/notes/fourteen-months-micromanaging-ai-coding-agents/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Relato em primeira pessoa de um desenvolvedor que passou catorze meses trabalhando de perto com agentes de programação de IA. Tende a ser leitura útil para quem considera adotar essas ferramentas em projetos sérios. Mostra prós, contras e armadilhas reais do fluxo de trabalho agêntico.",
-    "reasonEn": "A first-person account from a developer who spent fourteen months working closely with AI coding agents. It is likely useful reading for anyone considering adopting these tools in serious projects. It shows real pros, cons and pitfalls of the agentic workflow.",
-    "score": 0.7,
-    "tags": [
-      "desenvolvimento",
-      "agentes",
-      "experiência"
-    ],
-    "img": "img/3ac2eb8aa810.jpg",
-    "ts": 1787737379,
-    "addedTs": 1787739926,
-    "urlHash": "3ac2eb8aa810",
-    "titleHash": "b4dbe9051e74"
-  },
-  {
-    "title": "Raised on AI",
-    "titlePt": "Criados com IA: a geração que cresce com chatbots",
-    "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
-    "source": "MIT Tech Review",
-    "sources": [
-      "MIT Tech Review"
-    ],
-    "reason": "Reportagem do MIT Tech Review sobre crianças e adolescentes que crescem cercados por chatbots e IAs generativas como companheiros ou tutores. Toca em impactos cognitivos, sociais e educacionais de longo prazo. Tema relevante para pais, educadores e formuladores de políticas.",
-    "reasonEn": "An MIT Tech Review piece on children and teenagers growing up surrounded by chatbots and generative AI as companions or tutors. It touches on long-term cognitive, social and educational impacts. Relevant for parents, educators and policymakers.",
-    "score": 0.55,
-    "tags": [
-      "sociedade",
-      "educação"
-    ],
-    "img": "img/ffbaae684dd5.jpg",
-    "ts": 1787734800,
-    "addedTs": 1787739926,
-    "urlHash": "ffbaae684dd5",
-    "titleHash": "5e341f154723"
-  },
-  {
-    "title": "AI models flub these intelligence tests. Can you fare any better?",
-    "titlePt": "Modelos de IA erram testes de inteligência. E você?",
-    "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
-    "source": "MIT Tech Review",
-    "sources": [
-      "MIT Tech Review"
-    ],
-    "reason": "Matéria que propõe desafios de lógica e raciocínio nos quais modelos atuais de IA ainda tropeçam, convidando o leitor a tentar também. Serve para calibrar expectativas sobre o que IA realmente sabe versus o que parece saber. Leitura rápida e divertida para qualquer profissional curioso.",
-    "reasonEn": "A piece offering logic and reasoning puzzles where current AI models still stumble, inviting the reader to try them too. It helps calibrate expectations about what AI really knows versus what it appears to know. A quick, fun read for any curious professional.",
-    "score": 0.55,
-    "tags": [
-      "pesquisa",
-      "benchmarks"
-    ],
-    "img": "img/ed3fcbbbde77.jpg",
-    "ts": 1787734800,
-    "addedTs": 1787739926,
-    "urlHash": "ed3fcbbbde77",
-    "titleHash": "0b474048ed41"
-  },
-  {
-    "title": "Bill Gates says we've passed AI's danger thresholds. Now what?",
-    "titlePt": "Bill Gates afirma que já passamos dos limiares perigosos da IA",
-    "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Bill Gates declarou que a humanidade já cruzou alguns limiares de risco em IA e questionou o que fazer agora. A fala ganha peso pelo histórico dele como figura influente em tecnologia e filantropia. Importante para líderes, formuladores de políticas e qualquer pessoa acompanhando o debate sobre segurança em IA.",
-    "reasonEn": "Bill Gates stated that humanity has already crossed several AI risk thresholds and questioned what to do next. His remarks carry weight given his history as an influential tech and philanthropy figure. Important for leaders, policymakers and anyone following the AI safety debate.",
-    "score": 0.8,
-    "tags": [
-      "segurança",
-      "opinião"
-    ],
-    "img": "img/19637493f6c5.jpg",
-    "ts": 1787733154,
-    "addedTs": 1787739926,
-    "urlHash": "19637493f6c5",
-    "titleHash": "54f870723a51"
-  },
-  {
-    "title": "Drive-By Agent Hijacking: One Website Visit, Persistent Model Poisoning",
-    "titlePt": "Drive-By Agent Hijacking: envenena modelo com uma visita a site",
-    "url": "https://www.cyera.com/research/nemoclaw-one-website-visit-to-hijack-your-ai-agent",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Pesquisadores mostraram que basta visitar um site malicioso para envenenar persistentemente um agente de IA que esteja rodando no navegador, comprometendo modelos e ações futuras. É uma vulnerabilidade grave e de fácil exploração, que afeta qualquer pessoa usando agentes web. Leitura obrigatória para quem integra agentes a fluxos reais.",
-    "reasonEn": "Researchers showed that merely visiting a malicious website can persistently poison an AI agent running in the browser, compromising models and future actions. It is a severe, easily exploitable vulnerability affecting anyone using web agents. Required reading for those integrating agents into real workflows.",
-    "score": 0.85,
-    "tags": [
-      "segurança",
-      "agentes",
-      "vulnerabilidade"
-    ],
-    "img": "img/be7f6a7890f6.jpg",
-    "ts": 1787732278,
-    "addedTs": 1787739926,
-    "urlHash": "be7f6a7890f6",
-    "titleHash": "fb9974a74736"
-  },
-  {
-    "title": "How We Used AI to Bring MongoDB to DynamoDB",
-    "titlePt": "Como usamos IA para migrar do MongoDB para o DynamoDB",
-    "url": "https://www.mongodb.com/company/blog/technical/how-we-used-ai-bring-mongodb-to-dynamodb",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um time técnico publicou um relato de migração do banco MongoDB para o DynamoDB da AWS usando agentes de IA para automatizar partes do trabalho. O artigo mostra ganhos reais de produtividade, mas também alerta para os cuidados com revisão humana. É útil para engenheiros avaliando migrar bancos ou já usando IA em tarefas de infraestrutura. Não é propaganda: vem com lições sobre o que deu errado.",
-    "reasonEn": "An engineering team published a case study on migrating from MongoDB to AWS DynamoDB using AI agents to automate parts of the work. It highlights real productivity gains and the importance of caution with human review. Useful reading for engineers considering database migrations or already using AI for infrastructure tasks. Includes honest lessons on what went wrong.",
-    "score": 0.5,
-    "tags": [
-      "migração",
-      "banco de dados",
-      "agentes"
-    ],
-    "img": "img/b6556fb19324.jpg",
-    "ts": 1787730972,
-    "addedTs": 1787739926,
-    "urlHash": "b6556fb19324",
-    "titleHash": "eaa066fb9735"
-  },
-  {
-    "title": "ByteDance Launches AI Office Product \"Doubao Work\"",
-    "titlePt": "ByteDance lança produto de escritório com IA chamado Doubao Work",
-    "url": "https://www.ithome.com/0/993/865.htm",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A dona do TikTok apresentou o Doubao Work, um pacote de escritório com IA voltado para produtividade em empresas, competindo com Microsoft Copilot e Google Workspace. O produto usa os modelos próprios da ByteDance e integra documentos, planilhas e chat. A movimentação mostra a pressão da empresa chinesa para expandir além do consumidor e entrar no mercado corporativo global. Empresas e desenvolvedores que atendem clientes na Ásia precisam acompanhar.",
-    "reasonEn": "TikTok parent ByteDance unveiled Doubao Work, an AI-powered office suite targeting enterprise productivity and competing with Microsoft Copilot and Google Workspace. It uses ByteDance's own models and integrates documents, spreadsheets, and chat. The move shows the Chinese giant pushing beyond consumer apps into the global enterprise market. Companies and developers serving Asian clients should keep an eye on it.",
-    "score": 0.6,
-    "tags": [
-      "produto",
-      "byteDance",
-      "escritório"
-    ],
-    "img": "img/add8adcb25c2.jpg",
-    "ts": 1787730530,
-    "addedTs": 1787739926,
-    "urlHash": "add8adcb25c2",
-    "titleHash": "2f6e2322603f"
-  },
-  {
-    "title": "Bill Gates says world has \"no plan\" on AI in new essay",
-    "titlePt": "Bill Gates diz que o mundo 'não tem plano' para IA em novo ensaio",
-    "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Em um ensaio recente, Bill Gates afirmou que governos e empresas não têm um plano coordenado para lidar com os avanços rápidos da IA. Ele defende mais investimento em educação, saúde e segurança, e menos corrida cega por modelos maiores. O texto é importante porque vem de uma figura influente que costuma moldar debates sobre tecnologia. Leitores que pensam em estratégia de longo prazo vão se beneficiar ao conhecer os pontos dele.",
-    "reasonEn": "In a recent essay, Bill Gates argued that governments and companies lack a coordinated plan to handle rapid AI advances. He calls for more investment in education, health, and safety, and less of a blind race for ever-larger models. The piece matters because Gates often sets the tone for tech policy debates. Readers thinking about long-term strategy should know his points.",
-    "score": 0.8,
-    "tags": [
-      "regulação",
-      "bill gates",
-      "estratégia"
-    ],
-    "img": "img/8a8c8dde8aad.jpg",
-    "ts": 1787730222,
-    "addedTs": 1787739926,
-    "urlHash": "8a8c8dde8aad",
-    "titleHash": "3e5262fbd250"
-  },
-  {
-    "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
-    "titlePt": "OpenAI diz que seu chip Jalapeño pode acelerar respostas de IA",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "A OpenAI apresentou seu chip próprio chamado Jalapeño e afirmou que ele entrega respostas de IA mais rápidas do que chips concorrentes. É um movimento estratégico para reduzir dependência da Nvidia e controlar custos de inferência em larga escala. Para desenvolvedores, pode significar APIs mais rápidas e baratas. Para a indústria, marca a entrada da OpenAI na corrida de hardware que já envolve Google, Amazon e Microsoft.",
-    "reasonEn": "OpenAI unveiled its in-house chip called Jalapeño, claiming faster AI responses than competing chips. The move aims to reduce dependence on Nvidia and control inference costs at scale. For developers, this could mean faster and cheaper APIs. For the industry, it signals OpenAI joining the hardware race already underway at Google, Amazon, and Microsoft.",
-    "score": 0.85,
-    "tags": [
-      "hardware",
-      "openai",
-      "chip"
-    ],
-    "img": "img/cd36e34ebecc.jpg",
-    "ts": 1787666993,
-    "addedTs": 1787739926,
-    "urlHash": "cd36e34ebecc",
-    "titleHash": "11663c48aeb6"
   }
 ]
