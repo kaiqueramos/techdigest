@@ -1,5 +1,371 @@
 [
   {
+    "title": "GPT-6 Astra makes major gains in the Artificial Analysis Coding Agent Index",
+    "titlePt": "GPT-6 Astra avança forte em benchmark de agentes de programação",
+    "url": "https://artificialanalysis.ai/articles/benchmarking-gpt-6-astra",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A OpenAI aparentemente lançou o GPT-6 Astra, que obteve ganhos importantes no Coding Agent Index da Artificial Analysis. O resultado indica melhora real em agentes autônomos de programação, área no centro da corrida atual de IA. Para desenvolvedores, isso significa ferramentas mais capazes de resolver problemas complexos de código sem tanta intervenção humana. O impacto pode se traduzir em concorrência mais dura com Claude, Gemini e modelos abertos.",
+    "reasonEn": "OpenAI appears to have launched GPT-6 Astra, which posted major gains on the Artificial Analysis Coding Agent Index. The result points to a real improvement in autonomous coding agents, a field at the heart of the current AI race. For developers, it means more capable tools for tackling complex coding tasks with less human intervention. The impact could mean tougher competition for Claude, Gemini, and open-source models.",
+    "score": 0.85,
+    "tags": [
+      "modelo",
+      "benchmark",
+      "codificação"
+    ],
+    "img": "img/b4150b170ab1.jpg",
+    "ts": 1788466285,
+    "addedTs": 1788466732,
+    "urlHash": "b4150b170ab1",
+    "titleHash": "f97d03bfebf4"
+  },
+  {
+    "title": "Show HN: Aidcrew a team of coding agents, each on its own model, in one terminal",
+    "titlePt": "Aidcrew junta times de agentes de código no mesmo terminal",
+    "url": "https://github.com/antoniociccia/aidcrew",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Aidcrew reúne vários agentes de programação, cada um em um modelo diferente, dentro de um único terminal. A ideia é comparar ou combinar saídas sem trocar de ambiente. Para desenvolvedores, é uma tentativa interessante de orquestração multi-agente. O caso de uso depende de os modelos individuais se complementarem bem.",
+    "reasonEn": "Aidcrew combines several coding agents, each running on its own model, inside a single terminal. The idea is to compare or combine outputs without switching environments. For developers, it's an interesting attempt at multi-agent orchestration. Its usefulness depends on how well the individual models complement each other.",
+    "score": 0.65,
+    "tags": [
+      "agentes",
+      "codificação",
+      "ferramenta"
+    ],
+    "img": "img/e49627224bf9.jpg",
+    "ts": 1788465462,
+    "addedTs": 1788466732,
+    "urlHash": "e49627224bf9",
+    "titleHash": "3fdb43fb3b33"
+  },
+  {
+    "title": "Google has released Gemini 3.8 Flash, its fourth Flash model in under four month",
+    "titlePt": "Google lança Gemini 3.8 Flash, o quarto Flash em menos de quatro meses",
+    "url": "https://artificialanalysis.ai/articles/gemini-3-8-flash",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Google disponibilizou o Gemini 3.8 Flash, mais uma iteração rápida da linha Flash focada em baixo custo e alta velocidade. É o quarto lançamento do tipo em menos de quatro meses, mostrando estratégia de iteração acelerada. Desenvolvedores ganham mais opções para tarefas sensíveis a latência e custo. O ritmo de versões pressiona concorrentes como Anthropic e OpenAI.",
+    "reasonEn": "Google released Gemini 3.8 Flash, another fast iteration of its low-cost, high-speed Flash line. It's the fourth such launch in under four months, showing an accelerated iteration strategy. Developers gain more options for latency- and cost-sensitive workloads. The release pace pressures competitors like Anthropic and OpenAI.",
+    "score": 0.9,
+    "tags": [
+      "modelo",
+      "lançamento",
+      "google"
+    ],
+    "img": "img/8aa591b1f158.jpg",
+    "ts": 1788463937,
+    "addedTs": 1788466732,
+    "urlHash": "8aa591b1f158",
+    "titleHash": "13187f1120b7"
+  },
+  {
+    "title": "Globally distributed pre-training across 48 A100s at $0.12 per million tokens",
+    "titlePt": "Pré-treinamento distribuído em 48 A100 por 12 centavos por milhão de tokens",
+    "url": "https://www.tplr.ai/publications/blog/introducing-crucible",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um projeto mostra como fazer pré-treinamento de modelos distribuído globalmente em 48 GPUs A100 a custo baixíssimo, cerca de 12 centavos de dólar por milhão de tokens. A técnica aposta em máquinas ociosas e tolerância a falhas. Para quem treina modelos pequenos ou médios, isso reduz bastante a barreira de entrada. A confiabilidade em escala ainda precisa ser comprovada.",
+    "reasonEn": "A project shows how to do globally distributed model pre-training on 48 A100 GPUs at very low cost, around 12 cents per million tokens. The technique leans on idle machines and fault tolerance. For those training small to medium models, it lowers the entry barrier significantly. Reliability at scale still needs validation.",
+    "score": 0.65,
+    "tags": [
+      "infraestrutura",
+      "treinamento"
+    ],
+    "img": "img/15e6f2f01cfa.jpg",
+    "ts": 1788463924,
+    "addedTs": 1788466732,
+    "urlHash": "15e6f2f01cfa",
+    "titleHash": "bd6882b416d0"
+  },
+  {
+    "title": "Before New York City, Norway Had Banned AI in Schools",
+    "titlePt": "Noruega proibiu IA em escolas antes de Nova York",
+    "url": "https://www.euronews.com/next/2026/09/03/before-new-york-city-norway-had-already-banned-ai-in-schools",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A reportagem lembra que a Noruega já havia banido o uso de IA generativa em escolas, antes do debate atual em Nova York. A medida norueguesa foi mais ampla e precoce do que políticas similares em outras regiões. Para educadores e formuladores de políticas, é um caso de referência. A tendência aponta para regulações mais duras em educação básica.",
+    "reasonEn": "The report reminds us that Norway already banned generative AI in schools, before the current debate in New York City. Norway's move was broader and earlier than similar policies elsewhere. For educators and policymakers, it's a reference case. The trend points to stricter regulations in primary education.",
+    "score": 0.7,
+    "tags": [
+      "regulação",
+      "educação"
+    ],
+    "img": "img/faa78bca681c.jpg",
+    "ts": 1788463831,
+    "addedTs": 1788466732,
+    "urlHash": "faa78bca681c",
+    "titleHash": "8b87d0c0c5bf"
+  },
+  {
+    "title": "Wall Street banks push Big Law to cut fees because of AI",
+    "titlePt": "Bancos de Wall Street pressionam grandes escritórios a cortar honorários por causa da IA",
+    "url": "https://www.ft.com/content/5240a6ac-b2e8-4897-a0a4-cbc7fc283bc9",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Bancos de investimento estão usando IA para reduzir trabalho jurídico e exigindo que escritórios de advocacia diminuam honorários. O movimento sinaliza que a IA já comprime receitas em serviços profissionais tradicionais. Escritórios e profissionais jurídicos são os mais afetados em curto prazo. Vale para qualquer pessoa interessada em como IA transforma indústrias.",
+    "reasonEn": "Investment banks are using AI to reduce legal work and demanding law firms cut fees. The move signals that AI is already compressing revenues in traditional professional services. Law firms and legal professionals are most affected in the short term. Worth noting for anyone tracking AI's industry impact.",
+    "score": 0.7,
+    "tags": [
+      "negócios",
+      "advocacia"
+    ],
+    "img": "img/4b0b767d4f7e.jpg",
+    "ts": 1788463207,
+    "addedTs": 1788466732,
+    "urlHash": "4b0b767d4f7e",
+    "titleHash": "3f325be0e1e3"
+  },
+  {
+    "title": "Five AI systems, one message: one cloned the repo and ran the check",
+    "titlePt": "Cinco sistemas de IA recebem a mesma tarefa: um deles clonou o repositório e rodou a verificação",
+    "url": "https://github.com/LAWLESS1987/covenant/blob/main/docs/CASE_STUDY_SELF_REPORT.md",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um experimento envia a mesma tarefa a cinco sistemas de IA diferentes e compara como cada um reage. Pelo menos um deles vai além do pedido, clonando o repositório e executando a verificação automaticamente. O resultado ilustra como agentes podem tomar iniciativas surpreendentes. Para quem trabalha com IA agêntica, é um alerta sobre comportamento emergente.",
+    "reasonEn": "An experiment sends the same task to five different AI systems and compares responses. At least one goes beyond the prompt, cloning the repo and running the check automatically. The result illustrates how agents can take surprising initiatives. For anyone working with agentic AI, it's a warning about emergent behavior.",
+    "score": 0.55,
+    "tags": [
+      "agentes",
+      "experimento"
+    ],
+    "img": "img/5ec89cb18800.jpg",
+    "ts": 1788462905,
+    "addedTs": 1788466732,
+    "urlHash": "5ec89cb18800",
+    "titleHash": "3e52a1e1c2d3"
+  },
+  {
+    "title": "Zuckerberg said national AI regulator was flawed idea in secret call with Trump",
+    "titlePt": "Zuckerberg disse a Trump em ligação secreta que regulador nacional de IA é ideia falha",
+    "url": "https://www.politico.com/news/2026/09/03/mark-zuckerberg-said-a-national-ai-regulator-was-a-flawed-idea-in-a-secret-call-with-president-trump-01063843",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Mark Zuckerberg afirmou em ligação sigilosa com Donald Trump que um regulador federal único para IA seria mal desenhado. A posição se alinha a uma preferência da indústria por regulamentação fragmentada nos estados. É mais um capítulo da tensão entre big tech e governo dos EUA sobre governança de IA. Afeta empresas, desenvolvedores e formuladores de política.",
+    "reasonEn": "Mark Zuckerberg told Donald Trump in a secret call that a single federal AI regulator would be poorly designed. The stance aligns with industry preference for fragmented state-level regulation. It's another chapter in the tension between Big Tech and the US government over AI governance. It affects companies, developers, and policymakers.",
+    "score": 0.85,
+    "tags": [
+      "regulação",
+      "política"
+    ],
+    "img": "img/f78234efca4a.jpg",
+    "ts": 1788462898,
+    "addedTs": 1788466732,
+    "urlHash": "f78234efca4a",
+    "titleHash": "cabe9f2c11ec"
+  },
+  {
+    "title": "Using semantic benchmarks to build a self-improving text-to-query agent",
+    "titlePt": "Como montar agente texto-para-consulta autoaperfeiçoável com benchmarks semânticos",
+    "url": "https://conversion.ai/blog/text-to-query-agent/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um post técnico descreve o uso de benchmarks semânticos para fazer um agente de texto-para-consulta melhorar sozinho. A ideia é gerar dados de avaliação sintéticos em vez de anotar manualmente. Para quem trabalha com agentes analíticos, é uma técnica relevante. Pode reduzir o custo de manter agentes precisos em produção.",
+    "reasonEn": "A technical post describes using semantic benchmarks to make a text-to-query agent self-improve. The idea is to generate synthetic evaluation data instead of manual annotation. For those building analytical agents, it's a relevant technique. It can reduce the cost of keeping agents accurate in production.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "técnico"
+    ],
+    "img": "img/c04af7bf2612.jpg",
+    "ts": 1788461004,
+    "addedTs": 1788466732,
+    "urlHash": "c04af7bf2612",
+    "titleHash": "215bbbd7420d"
+  },
+  {
+    "title": "Dwarkesh Patel: I think pausing would increase the risk of AI takeover",
+    "titlePt": "Dwarkesh Patel: pausar IA agora aumenta o risco de tomada do poder por IA",
+    "url": "https://twitter.com/dwarkesh_sp/status/2095580145603977413",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O podcaster Dwarkesh Patel defende que uma pausa em pesquisa de IA não reduz riscos e, na verdade, poderia aumentar as chances de uma tomada de poder por sistemas inteligentes. O argumento se opõe a propostas como a do senador Sanders. É uma voz influente em debates de segurança em IA. Vale para acompanhar o argumento contrário à regulação por pausa.",
+    "reasonEn": "Podcaster Dwarkesh Patel argues that pausing AI research would not reduce risks and could actually increase the chance of an AI takeover. The argument pushes back against proposals like Senator Sanders's bill. He is an influential voice in AI safety debates. Worth tracking as a counterpoint to pause-based regulation.",
+    "score": 0.55,
+    "tags": [
+      "segurança",
+      "debate"
+    ],
+    "img": "img/61dfa1fb2c4f.jpg",
+    "ts": 1788460934,
+    "addedTs": 1788466732,
+    "urlHash": "61dfa1fb2c4f",
+    "titleHash": "3eb0836b4b79"
+  },
+  {
+    "title": "Abliteration.ai is making a business out of removing AI guardrails",
+    "titlePt": "Abliteration.ai monta negócio removendo travas de segurança de modelos de IA",
+    "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A reportagem da TechCrunch mostra que a Abliteration.ai está comercializando a remoção de guardrails de modelos de IA. A empresa transforma modelos ajustados por segurança em versões sem filtros e revende o serviço. É um fenômeno preocupante para segurança e abuso de IA. Afeta empresas que dependem de comportamento responsável dos modelos.",
+    "reasonEn": "TechCrunch reports that Abliteration.ai is commercializing the removal of AI guardrails. The company turns safety-tuned models into unfiltered versions and resells the service. It's a troubling trend for AI safety and abuse. It affects businesses that rely on models behaving responsibly.",
+    "score": 0.75,
+    "tags": [
+      "segurança",
+      "negócios"
+    ],
+    "img": "img/6ab8f88b9ec4.jpg",
+    "ts": 1788460677,
+    "addedTs": 1788466732,
+    "urlHash": "6ab8f88b9ec4",
+    "titleHash": "4a8d3a51bb42"
+  },
+  {
+    "title": "Nvidia's Open Secure AI Alliance Moves to Linux Foundation",
+    "titlePt": "Aliança de IA Segura da Nvidia migra para a Linux Foundation",
+    "url": "https://techstrong.ai/articles/nvidias-open-secure-ai-alliance-moves-to-linux-foundation/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Open Secure AI Alliance da Nvidia vai para a Linux Foundation, buscando neutralidade e maior adoção de seus padrões de segurança para IA. A mudança segue o playbook típico de abrir projetos para governança compartilhada. Para integradores e fornecedores de infraestrutura, isso pode significar padrões mais estáveis. A tendência aponta para colaboração multi-vendor em segurança de IA.",
+    "reasonEn": "Nvidia's Open Secure AI Alliance is moving to the Linux Foundation, seeking neutrality and broader adoption of its AI security standards. The move follows a familiar open-source playbook of shared governance. For integrators and infrastructure vendors, it could mean more stable standards. The trend points to multi-vendor collaboration on AI security.",
+    "score": 0.7,
+    "tags": [
+      "nvidia",
+      "segurança",
+      "open-source"
+    ],
+    "img": "img/b2aba8a30192.jpg",
+    "ts": 1788460666,
+    "addedTs": 1788466732,
+    "urlHash": "b2aba8a30192",
+    "titleHash": "470a4b45d67f"
+  },
+  {
+    "title": "Meta is paying to peek at how you use their latest AI model",
+    "titlePt": "Meta paga para observar como você usa o novo modelo de IA",
+    "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A Meta está remunerando usuários para conseguir acesso a como eles interagem com seu modelo de inteligência artificial mais recente. A proposta envolve coletar dados das conversas e do uso real do produto, levantando preocupações sobre privacidade. A medida reflete a pressão que a empresa enfrenta para treinar e ajustar sistemas de IA com dados de qualidade. Usuários e desenvolvedores devem ficar atentos ao que está sendo compartilhado em troca dessa remuneração.",
+    "reasonEn": "Meta is paying users to get access to how they interact with its latest AI model. The proposal involves collecting data from conversations and real product usage, raising privacy concerns. The move reflects the pressure the company faces to train and fine-tune AI systems with quality data. Users and developers should pay attention to what is being shared in exchange for the payment.",
+    "score": 0.7,
+    "tags": [
+      "privacidade",
+      "modelo",
+      "dados"
+    ],
+    "img": "img/82c75f7fe9e1.jpg",
+    "ts": 1788459596,
+    "addedTs": 1788466732,
+    "urlHash": "82c75f7fe9e1",
+    "titleHash": "ad142f47fb40"
+  },
+  {
+    "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+    "titlePt": "OpenAI diz que próximo grande modelo 'entrou na era da AGI'",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "A OpenAI revelou seu próximo grande modelo de IA, descrito internamente como tendo 'entrado na era da AGI'. A empresa afirma que o sistema dá um salto significativo em capacidade de raciocínio e autonomia. O lançamento reacende o debate sobre o que realmente significa inteligência artificial geral e quais impactos isso trará ao mercado. Desenvolvedores e empresas devem se preparar para novos recursos e possíveis mudanças nas APIs.",
+    "reasonEn": "OpenAI unveiled its next major AI model, described internally as having 'entered the AGI era.' The company claims the system takes a significant leap in reasoning and autonomy. The launch reignites the debate about what AGI really means and what impact it will have on the market. Developers and companies should prepare for new features and possible API changes.",
+    "score": 0.95,
+    "tags": [
+      "lançamento",
+      "modelo",
+      "openai"
+    ],
+    "img": "img/d309bdab2a0a.jpg",
+    "ts": 1788458784,
+    "addedTs": 1788466732,
+    "urlHash": "d309bdab2a0a",
+    "titleHash": "6b43a0d9f32f"
+  },
+  {
+    "title": "ChatGPT, Grok, and Claude all went down at the same time",
+    "titlePt": "ChatGPT, Grok e Claude ficam fora do ar ao mesmo tempo",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "Os três principais chatbots de IA — ChatGPT, Grok e Claude — ficaram simultaneamente indisponíveis nesta semana. A queda afetou usuários em todo o mundo e levantou dúvidas sobre a resiliência da infraestrutura de inteligência artificial. Ainda não há explicação oficial única, o que sugere ter sido coincidência ou um problema em comum nos provedores de nuvem. Para profissionais que dependem dessas ferramentas, o episódio reforça a importância de ter planos de contingência.",
+    "reasonEn": "The three major AI chatbots — ChatGPT, Grok, and Claude — were simultaneously unavailable this week. The outage affected users worldwide and raised questions about the resilience of AI infrastructure. There is no single official explanation yet, which suggests it may have been a coincidence or a common cloud provider issue. For professionals who depend on these tools, the episode reinforces the importance of having contingency plans.",
+    "score": 0.85,
+    "tags": [
+      "outage",
+      "infraestrutura",
+      "chatbot"
+    ],
+    "img": "img/eb1104274464.jpg",
+    "ts": 1788458626,
+    "addedTs": 1788466732,
+    "urlHash": "eb1104274464",
+    "titleHash": "5257c0b639cb"
+  },
+  {
+    "title": "Google now lets you chat with Gmail, Docs, and Keep",
+    "titlePt": "Google agora permite conversar com Gmail, Docs e Keep",
+    "url": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "O Google passou a permitir que usuários conversem com seus arquivos do Gmail, Docs e Keep usando inteligência artificial. A nova funcionalidade transforma esses aplicativos em fontes de informação consultáveis por linguagem natural. É um passo importante para integrar a IA no fluxo de trabalho diário sem precisar copiar e colar dados. O recurso já está disponível para alguns usuários e deve se expandir nos próximos meses.",
+    "reasonEn": "Google now lets users chat with their Gmail, Docs, and Keep files using AI. The new feature turns these apps into information sources that can be queried with natural language. It's an important step toward integrating AI into the daily workflow without copying and pasting data. The feature is already available to some users and should expand in the coming months.",
+    "score": 0.6,
+    "tags": [
+      "google",
+      "produtividade",
+      "lançamento"
+    ],
+    "img": "img/24310dd0bfe4.jpg",
+    "ts": 1788453283,
+    "addedTs": 1788466732,
+    "urlHash": "24310dd0bfe4",
+    "titleHash": "83cb8cada1a3"
+  },
+  {
+    "title": "When agents act on their own, governance has to live in the data layer",
+    "titlePt": "Quando agentes agem sozinhos, a governança precisa viver na camada de dados",
+    "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
+    "source": "VentureBeat AI",
+    "sources": [
+      "VentureBeat AI"
+    ],
+    "reason": "O artigo defende que, com agentes de IA autônomos, a governança deve estar nos próprios dados, e não apenas em regras de aplicação. A proposta é controlar o que os agentes podem acessar e produzir em vez de tentar limitar seus comportamentos por código. É uma visão relevante para quem constrói plataformas com agentes. Vale leitura para arquitetos e líderes técnicos.",
+    "reasonEn": "The article argues that with autonomous AI agents, governance must live in the data layer itself, not only in application rules. The proposal is to control what agents can access and produce instead of trying to limit their behavior through code. It is a relevant view for those building platforms with agents. It is worth reading for architects and technical leaders.",
+    "score": 0.5,
+    "tags": [
+      "governança",
+      "agentes",
+      "dados"
+    ],
+    "img": "img/46214c108a23.jpg",
+    "ts": 1787832060,
+    "addedTs": 1788466732,
+    "urlHash": "46214c108a23",
+    "titleHash": "576ac2e55030"
+  },
+  {
     "title": "Judge Tells RFK Jr. To Stop Using Fake AI Studies on Teen Pregnancy",
     "titlePt": "Juiz manda RFK Jr. parar de usar estudos falsos de IA sobre gravidez na adolescência",
     "url": "https://newrepublic.com/post/215001/judge-rfk-jr-hhs-fake-ai-studies-teen-pregnancy",
