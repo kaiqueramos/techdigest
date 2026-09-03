@@ -1,5 +1,174 @@
 [
   {
+    "title": "MemHub – Persistent shared memory for AI coding agents",
+    "titlePt": "MemHub dá memória persistente a agentes de código com IA",
+    "url": "https://memhub.simplex.lat",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "MemHub é uma nova ferramenta que oferece memória persistente e compartilhada para agentes de codificação com IA. Resolve um problema comum: agentes que perdem contexto entre sessões ou entre membros do time. Para desenvolvedores que usam agentes como Claude Code, pode aumentar bastante a produtividade.",
+    "reasonEn": "MemHub is a new tool that gives persistent shared memory to AI coding agents. It solves a common problem: agents losing context between sessions or across team members. For developers using agents like Claude Code, it can significantly boost productivity.",
+    "score": 0.5,
+    "tags": [
+      "ferramenta",
+      "agentes"
+    ],
+    "img": "img/c95ec4fda28e.jpg",
+    "ts": 1788399811,
+    "addedTs": 1788401405,
+    "urlHash": "c95ec4fda28e",
+    "titleHash": "7c82542307ac"
+  },
+  {
+    "title": "Go grandmaster Shin defeats AI KataGo in historic human victory",
+    "titlePt": "Grande mestre de Go vence IA KataGo em vitória humana histórica",
+    "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O grande mestre Shin Jinseo derrotou a IA KataGo em uma partida oficial recente. É a primeira vitória humana significativa contra uma IA de ponta em Go nos últimos anos. Mostra que ainda há espaço para estratégia humana criativa contra máquinas em jogos complexos.",
+    "reasonEn": "Grandmaster Shin Jinseo defeated AI KataGo in a recent official match. It's the first significant human win against a top Go AI in recent years. It shows there's still room for creative human strategy against machines in complex games.",
+    "score": 0.75,
+    "tags": [
+      "ia",
+      "jogo"
+    ],
+    "img": "img/5e8d258a0f86.jpg",
+    "ts": 1788397882,
+    "addedTs": 1788401405,
+    "urlHash": "5e8d258a0f86",
+    "titleHash": "f7377c942c06"
+  },
+  {
+    "title": "Why Google Bid $10M for a Failed Airline's Data",
+    "titlePt": "Por que o Google pagou 10 milhões de dólares pelos dados de uma aérea falida",
+    "url": "https://time.com/article/2026/08/25/google-spirit-airlines-ai-data-RL/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Google fez uma oferta de 10 milhões de dólares pelos dados de uma companhia aérea que faliu. Especula-se que os dados sirvam para treinar modelos de IA em logística, otimização de rotas e aviação. Para o setor, revela quanto dados de nichos específicos podem valer.",
+    "reasonEn": "Google bid $10 million for the data of a defunct airline. It's speculated the data will be used to train AI models in logistics, route optimization, and aviation. For the sector, it reveals how valuable niche data can be.",
+    "score": 0.55,
+    "tags": [
+      "google",
+      "dados"
+    ],
+    "img": "img/8576d2f29708.jpg",
+    "ts": 1788396761,
+    "addedTs": 1788401405,
+    "urlHash": "8576d2f29708",
+    "titleHash": "f2c413352b9e"
+  },
+  {
+    "title": "Show HN: DeltaCode – Pure AST beat Qwen's zvec-grep on our test (92% vs 48%)",
+    "titlePt": "DeltaCode supera ferramenta da Qwen em testes de código",
+    "url": "https://github.com/aitrailblazer/deltacode-engine",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "DeltaCode é uma ferramenta baseada em árvore sintática abstrata que atingiu 92% de acerto em testes internos, contra 48% da ferramenta da Qwen. Mostra que abordagens clássicas de análise estática ainda podem vencer modelos grandes em tarefas específicas de código. Interessante para engenheiros que cuidam de revisão de código.",
+    "reasonEn": "DeltaCode is an AST-based tool that hit 92% accuracy in internal tests versus Qwen's 48%. It shows that classical static analysis can still beat large models on specific code tasks. Interesting for engineers handling code review.",
+    "score": 0.5,
+    "tags": [
+      "ferramenta",
+      "desenvolvimento"
+    ],
+    "img": "img/60f93346e85c.jpg",
+    "ts": 1788395574,
+    "addedTs": 1788401405,
+    "urlHash": "60f93346e85c",
+    "titleHash": "992d1d7b94a5"
+  },
+  {
+    "title": "Qwen3.8-Max-0902 takes second slot on Code Arena beating Claude Opus 5 max",
+    "titlePt": "Qwen3.8-Max assume segundo lugar no Code Arena",
+    "url": "https://arena.ai/leaderboard/code/webdev",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O modelo Qwen3.8-Max-0902 da Alibaba alcançou o segundo lugar no ranking Code Arena, ultrapassando o Claude Opus 5 max em tarefas de programação. Mostra a força crescente dos modelos chineses na corrida de IA. Para developers, indica novas opções competitivas de assistentes de código.",
+    "reasonEn": "Alibaba's Qwen3.8-Max-0902 model took second place on the Code Arena ranking, surpassing Claude Opus 5 max on programming tasks. It shows the growing strength of Chinese models in the AI race. For developers, it signals new competitive options for coding assistants.",
+    "score": 0.55,
+    "tags": [
+      "modelo",
+      "ranking"
+    ],
+    "img": "img/0a5ec39062ba.jpg",
+    "ts": 1788393894,
+    "addedTs": 1788401405,
+    "urlHash": "0a5ec39062ba",
+    "titleHash": "2552467c723a"
+  },
+  {
+    "title": "Amazon’s AI assistant can now spot fake emails from the company",
+    "titlePt": "Assistente de IA da Amazon agora detecta e-mails falsos da empresa",
+    "url": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "A Amazon atualizou seu assistente de IA para identificar e-mails fraudulentos que fingem ser da própria empresa. O recurso usa modelos de linguagem para analisar remetente, conteúdo e padrões de phishing. Ajuda consumidores e funcionários a evitar golpes cada vez mais sofisticados.",
+    "reasonEn": "Amazon updated its AI assistant to identify fraudulent emails pretending to be from the company itself. The feature uses language models to analyze sender, content, and phishing patterns. It helps consumers and employees avoid increasingly sophisticated scams.",
+    "score": 0.5,
+    "tags": [
+      "amazon",
+      "segurança"
+    ],
+    "img": "img/07dde70d40fe.jpg",
+    "ts": 1788371576,
+    "addedTs": 1788401405,
+    "urlHash": "07dde70d40fe",
+    "titleHash": "75dd0a227074"
+  },
+  {
+    "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+    "titlePt": "ChatGPT agora conecta prontuários eletrônicos e dados de saúde",
+    "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "A OpenAI anunciou que organizações de saúde podem conectar prontuários eletrônicos e outros dados do setor ao ChatGPT. A integração busca facilitar consultas e análises clínicas com IA, respeitando regulamentações de saúde. É uma novidade relevante para hospitais, clínicas e desenvolvedores de soluções em saúde digital.",
+    "reasonEn": "OpenAI announced that healthcare organizations can connect electronic health records and other industry data to ChatGPT. The integration aims to facilitate clinical queries and analyses with AI, respecting health regulations. It's a relevant novelty for hospitals, clinics, and digital health developers.",
+    "score": 0.6,
+    "tags": [
+      "saúde",
+      "lançamento",
+      "openai"
+    ],
+    "img": "img/c0364833b410.jpg",
+    "ts": 1788264000,
+    "addedTs": 1788401405,
+    "urlHash": "c0364833b410",
+    "titleHash": "e88a9c2bdd0c"
+  },
+  {
+    "title": "Orchestration is the new challenge for CX in the age of AI agents",
+    "titlePt": "Orquestração é o novo desafio do atendimento na era dos agentes",
+    "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+    "source": "VentureBeat AI",
+    "sources": [
+      "VentureBeat AI"
+    ],
+    "reason": "O texto da VentureBeat discute como a chegada dos agentes de IA muda o desafio central do atendimento ao cliente, que deixa de ser apenas automação e passa a ser orquestração entre agentes e humanos. O autor defende que empresas precisam repensar governança e integração. Ajuda líderes de CX a se prepararem para a próxima onda.",
+    "reasonEn": "VentureBeat's article discusses how the arrival of AI agents changes the central challenge of customer experience, moving beyond automation to orchestration between agents and humans. The author argues that companies need to rethink governance and integration. It helps CX leaders prepare for the next wave.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "negócios"
+    ],
+    "img": "img/ca54be2f3548.jpg",
+    "ts": 1787754600,
+    "addedTs": 1788401405,
+    "urlHash": "ca54be2f3548",
+    "titleHash": "b4f0572babef"
+  },
+  {
     "title": "Workplace surveillance is on the rise, spurred by AI",
     "titlePt": "Vigilância no trabalho cresce com IA, alerta reportagem",
     "url": "https://knowablemagazine.org/content/article/society/2026/surveillance-at-work-is-increasing",
