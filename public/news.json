@@ -1,5 +1,111 @@
 [
   {
+    "title": "Scaling AI: The Communication Wall",
+    "titlePt": "Escalar IA esbarra no muro da comunicação",
+    "url": "https://www.aaravwattal.com/blog/c2c-interconnect/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo discute um muro de comunicação que aparece ao escalar projetos de inteligência artificial. À medida que os times crescem, alinhar expectativas entre produto, engenharia e negócio fica mais difícil. O autor sugere práticas para reduzir atrito entre essas áreas. Leitura recomendada para líderes técnicos e gerentes de produto.",
+    "reasonEn": "The article discusses a communication wall that appears when scaling AI projects. As teams grow, aligning expectations across product, engineering and business becomes harder. The author suggests practices to reduce friction between these areas. Recommended reading for tech leads and product managers.",
+    "score": 0.5,
+    "tags": [
+      "gestão",
+      "escala"
+    ],
+    "img": "img/f7d3bc3b12bc.jpg",
+    "ts": 1788474432,
+    "addedTs": 1788478948,
+    "urlHash": "f7d3bc3b12bc",
+    "titleHash": "a49505be861a"
+  },
+  {
+    "title": "How workers feel about AI in 2026",
+    "titlePt": "Como os trabalhadores veem a IA em 2026",
+    "url": "https://www.glassdoor.com/blog/how-workers-feel-about-ai-2026/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma pesquisa recente mostra como profissionais estão encarando a IA em 2026. Os dados indicam crescente ceticismo e preocupação com substituição, principalmente em cargos administrativos. Já profissionais técnicos relatam ganho real de produtividade. Os números ajudam empresas a calibrar a adoção interna e o diálogo com times.",
+    "reasonEn": "A recent survey shows how workers view AI in 2026. The data points to growing skepticism and concern about replacement, especially in administrative roles. Meanwhile, technical professionals report real productivity gains. The numbers help companies calibrate internal adoption and team conversations.",
+    "score": 0.7,
+    "tags": [
+      "trabalho",
+      "pesquisa"
+    ],
+    "img": "img/c5d0d048b21a.jpg",
+    "ts": 1788474339,
+    "addedTs": 1788478948,
+    "urlHash": "c5d0d048b21a",
+    "titleHash": "67504442bc1a"
+  },
+  {
+    "title": "Nobody's model supplier is neutral infrastructure",
+    "titlePt": "Nenhum fornecedor de modelos é infraestrutura neutra",
+    "url": "https://taskpool.ai/blog/nvidia-hugging-face-acquisition",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo defende que nenhum fornecedor de modelos de IA deve ser tratado como infraestrutura neutra. Toda escolha carrega vieses, custos ocultos e dependência estratégica do comprador. A comparação é com o mercado de nuvem, onde provedores também ditam regras. Leitura essencial para CTOs e equipes de procurement tecnológico.",
+    "reasonEn": "The article argues that no AI model provider should be treated as neutral infrastructure. Every choice carries biases, hidden costs and strategic dependency for the buyer. It draws a parallel with the cloud market, where providers also set the rules. Essential reading for CTOs and tech procurement teams.",
+    "score": 0.5,
+    "tags": [
+      "opinião",
+      "provedores"
+    ],
+    "img": "img/ba3b198f77e4.jpg",
+    "ts": 1788474288,
+    "addedTs": 1788478948,
+    "urlHash": "ba3b198f77e4",
+    "titleHash": "de5264427b79"
+  },
+  {
+    "title": "Watermarks Track AI Generated Content [video]",
+    "titlePt": "Marca d'água invisível rastreia conteúdo gerado por IA",
+    "url": "https://www.youtube.com/watch?v=kVXp6UNVPTo",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um vídeo mostra como marcas d'água invisíveis podem rastrear conteúdo gerado por inteligência artificial. A tecnologia permite identificar a origem de textos, imagens e vídeos sintéticos sem alterar a aparência. É uma das apostas do setor para combater desinformação. Ainda enfrenta limitações de escala e adoção.",
+    "reasonEn": "A video shows how invisible watermarks can track AI-generated content. The technology identifies the origin of synthetic texts, images and videos without altering their appearance. It is one of the industry's bets to fight disinformation. It still faces scale and adoption limits.",
+    "score": 0.5,
+    "tags": [
+      "watermark",
+      "detecção"
+    ],
+    "img": "img/23c148f364b3.jpg",
+    "ts": 1788471857,
+    "addedTs": 1788478948,
+    "urlHash": "23c148f364b3",
+    "titleHash": "be0138175296"
+  },
+  {
+    "title": "Safety overview: GPT-6 Astra",
+    "titlePt": "Visão geral de segurança: GPT-6 Astra da OpenAI",
+    "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "A OpenAI publicou um documento de visão geral de segurança para o novo modelo GPT-6 Astra. O texto detalha como a empresa lidou com riscos, testes vermelhos e comportamento de fronteira do modelo. É leitura obrigatória para quem se importa com segurança em IA. Ajuda desenvolvedores a entender limites e garantias da nova geração. Sinaliza o nível de transparência da OpenAI para um modelo sensível.",
+    "reasonEn": "OpenAI published a safety overview document for its new GPT-6 Astra model. The text details how the company handled risks, red teaming, and frontier behavior of the model. It is required reading for anyone who cares about AI safety. It helps developers understand the limits and guarantees of the new generation. It signals OpenAI's transparency level for a sensitive model.",
+    "score": 0.6,
+    "tags": [
+      "openai",
+      "segurança",
+      "modelo"
+    ],
+    "img": "img/39210f987919.jpg",
+    "ts": 1788393600,
+    "addedTs": 1788478948,
+    "urlHash": "39210f987919",
+    "titleHash": "7aba23e64f6d"
+  },
+  {
     "title": "GPT-6 Astra makes major gains in the Artificial Analysis Coding Agent Index",
     "titlePt": "GPT-6 Astra avança forte em benchmark de agentes de programação",
     "url": "https://artificialanalysis.ai/articles/benchmarking-gpt-6-astra",
