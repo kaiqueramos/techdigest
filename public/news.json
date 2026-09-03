@@ -1,5 +1,500 @@
 [
   {
+    "title": "Why Short AI Coding Prompts Can Cost You More Time",
+    "titlePt": "Por que prompts curtos de programação com IA podem custar mais tempo",
+    "url": "https://deanhume.com/why-short-ai-coding-prompts-can-cost-you-more-time/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um artigo em destaque no Hacker News argumenta que prompts muito curtos em ferramentas de programação com IA podem, na prática, consumir mais tempo do que economizar. A análise mostra que instruções vagas obrigam o modelo a gerar várias tentativas, criando retrabalho. Desenvolvedores que usam assistentes de código devem considerar prompts mais detalhados para reduzir idas e vindas.",
+    "reasonEn": "A featured Hacker News article argues that very short prompts in AI coding tools can practically consume more time than they save. The analysis shows that vague instructions force the model to generate multiple attempts, creating rework. Developers using coding assistants should consider more detailed prompts to reduce back-and-forth.",
+    "score": 0.7,
+    "tags": [
+      "programação",
+      "ia",
+      "produtividade"
+    ],
+    "img": "img/100dd5371f43.jpg",
+    "ts": 1788443658,
+    "addedTs": 1788444015,
+    "urlHash": "100dd5371f43",
+    "titleHash": "c4e1573ba4c6"
+  },
+  {
+    "title": "Show HN: DumbDetector – Community signals for AI tool problems",
+    "titlePt": "DumbDetector: sinais da comunidade para problemas em ferramentas de IA",
+    "url": "https://dumbdetector.net/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um projeto Show HN apresenta o DumbDetector, que reúne sinais coletivos para identificar quando ferramentas de IA estão com problemas. A ideia é centralizar reclamações e padrões de falha compartilhados pelos usuários em um só lugar. Pode ajudar quem depende de vários serviços de IA no trabalho diário a reagir mais rápido a instabilidades.",
+    "reasonEn": "A Show HN project introduces DumbDetector, which gathers collective signals to identify when AI tools are having problems. The idea is to centralize complaints and failure patterns shared by users in one place. It can help those depending on multiple AI services in daily work to react faster to instabilities.",
+    "score": 0.5,
+    "tags": [
+      "ferramenta",
+      "comunidade",
+      "ia"
+    ],
+    "img": "img/319895a8e3c8.jpg",
+    "ts": 1788442901,
+    "addedTs": 1788444015,
+    "urlHash": "319895a8e3c8",
+    "titleHash": "09bed7cb323a"
+  },
+  {
+    "title": "Raycast now requires a subscription for BYOK and local models",
+    "titlePt": "Raycast agora exige assinatura para BYOK e modelos locais",
+    "url": "https://manual.raycast.com/ai/byoai",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Raycast, popular launcher para Mac, passou a exigir assinatura paga para usar o recurso BYOK (traga sua própria chave) e modelos locais. Usuários que antes utilizavam o app de forma gratuita com suas próprias chaves de API precisarão desembolsar para manter essa funcionalidade. A mudança gerou forte reação negativa na comunidade de desenvolvedores.",
+    "reasonEn": "Raycast, the popular Mac launcher, now requires a paid subscription to use the BYOK (bring your own key) feature and local models. Users who previously used the app for free with their own API keys will need to pay to keep that functionality. The change has drawn strong negative reaction from the developer community.",
+    "score": 0.8,
+    "tags": [
+      "raycast",
+      "preço",
+      "mudança"
+    ],
+    "img": "img/137abb5d8e96.jpg",
+    "ts": 1788442528,
+    "addedTs": 1788444015,
+    "urlHash": "137abb5d8e96",
+    "titleHash": "dcefed4bd95d"
+  },
+  {
+    "title": "Show HN: Pangolin – SSO and WireGuard instead of API keys for LLM access",
+    "titlePt": "Pangolin: SSO e WireGuard em vez de chaves de API para acessar modelos de linguagem",
+    "url": "https://github.com/fosrl/pangolin",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um projeto chamado Pangolin propõe substituir chaves de API tradicionais por SSO (login único) combinado com VPN WireGuard no acesso a modelos de linguagem. A motivação é reduzir o risco de vazamento de credenciais em pipelines e times distribuídos. Para equipes que tratam segredos e compliance com rigor, vale conferir a abordagem.",
+    "reasonEn": "A project called Pangolin proposes replacing traditional API keys with SSO (single sign-on) combined with WireGuard VPN for accessing language models. The motivation is to reduce the risk of credential leakage in distributed pipelines and teams. For teams handling secrets and compliance rigorously, it's worth checking the approach.",
+    "score": 0.55,
+    "tags": [
+      "segurança",
+      "sso",
+      "llm"
+    ],
+    "img": "img/ed18eba8969e.jpg",
+    "ts": 1788442501,
+    "addedTs": 1788444015,
+    "urlHash": "ed18eba8969e",
+    "titleHash": "ef4061423e5a"
+  },
+  {
+    "title": "An AI agent sliced through an enterprise defenses in 10 hours",
+    "titlePt": "Agente de IA atravessou defesas de empresa em 10 horas",
+    "url": "https://unit42.paloaltonetworks.com/ai-assisted-cyber-attack-inside-a-unit-42-investigation/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um agente de IA autônomo conseguiu atravessar as defesas de uma empresa em apenas 10 horas, segundo relato publicado no Hacker News. O caso serve como alerta sobre o uso crescente de IA em ataques cibernéticos modernos. Equipes de segurança precisam considerar que agentes agora automatizam etapas que antes exigiam operadores humanos especializados.",
+    "reasonEn": "An autonomous AI agent managed to breach an enterprise's defenses in just 10 hours, according to a report published on Hacker News. The case serves as a warning about the growing use of AI in modern cyberattacks. Security teams need to consider that agents now automate steps that previously required specialized human operators.",
+    "score": 0.8,
+    "tags": [
+      "segurança",
+      "agentes",
+      "ataque"
+    ],
+    "img": "img/76c812875705.jpg",
+    "ts": 1788442406,
+    "addedTs": 1788444015,
+    "urlHash": "76c812875705",
+    "titleHash": "2bd98b273109"
+  },
+  {
+    "title": "Inside The Medical AI Factory",
+    "titlePt": "Por dentro da fábrica de IA médica",
+    "url": "https://kaiko.ai/insights-hub/ai-factory/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma reportagem em destaque mostra como funciona uma fábrica de IA médica, detalhando o pipeline de produção de modelos voltados a diagnóstico e triagem. O texto destaca etapas de coleta, curadoria de dados e revisão humana. Profissionais de saúde e leitores curiosos sobre IA aplicada encontram um panorama acessível e bem estruturado.",
+    "reasonEn": "A featured report shows how a medical AI factory works, detailing the pipeline for producing models aimed at diagnosis and triage. The text highlights collection stages, data curation, and human review. Healthcare professionals and readers curious about applied AI find an accessible, well-structured overview.",
+    "score": 0.55,
+    "tags": [
+      "saúde",
+      "ia",
+      "indústria"
+    ],
+    "img": "img/624294ba4de9.jpg",
+    "ts": 1788441845,
+    "addedTs": 1788444015,
+    "urlHash": "624294ba4de9",
+    "titleHash": "a601e4b745f9"
+  },
+  {
+    "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+    "titlePt": "NeoMME: um codificador multilíngue e multimodal nativo e eficiente",
+    "url": "https://huggingface.co/blog/Hcompany/neomme",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "Foi publicado no Hugging Face o NeoMME, um codificador multimodal e multilíngue projetado com foco em eficiência. O modelo promete bom desempenho em tarefas que combinam texto e imagens em vários idiomas. É uma opção relevante para equipes que precisam de embeddings leves e multilingues em produção.",
+    "reasonEn": "NeoMME was published on Hugging Face, a multimodal and multilingual encoder designed with efficiency in mind. The model promises good performance on tasks combining text and images in multiple languages. It's a relevant option for teams needing lightweight, multilingual embeddings in production.",
+    "score": 0.5,
+    "tags": [
+      "modelo",
+      "multimodal",
+      "multilíngue"
+    ],
+    "img": "img/fffbcba03b0b.jpg",
+    "ts": 1788441228,
+    "addedTs": 1788444015,
+    "urlHash": "fffbcba03b0b",
+    "titleHash": "ccbd48c9534d"
+  },
+  {
+    "title": "Show HN: I measured resuming an AI coding session: 22,897 tokens vs. 1,013",
+    "titlePt": "Medi retomar uma sessão de programação com IA: 22.897 contra 1.013 tokens",
+    "url": "https://vericommand.net/benchmark",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um desenvolvedor mediu o custo de retomar uma sessão de programação com IA. Sem otimização, o contexto consumiu 22.897 tokens; com ajustes, caiu para 1.013 tokens. O experimento mostra quanto espaço existe para economizar dinheiro e tempo com boas práticas de contexto e prompt.",
+    "reasonEn": "A developer measured the cost of resuming an AI coding session. Without optimization, the context consumed 22,897 tokens; with adjustments, it dropped to 1,013 tokens. The experiment shows how much room there is to save money and time with good context and prompt practices.",
+    "score": 0.7,
+    "tags": [
+      "programação",
+      "tokens",
+      "custo"
+    ],
+    "img": "img/004cea7d5a49.jpg",
+    "ts": 1788440437,
+    "addedTs": 1788444015,
+    "urlHash": "004cea7d5a49",
+    "titleHash": "f5833ead7ceb"
+  },
+  {
+    "title": "Skills vs. MCP tools for AI agents: when to use which",
+    "titlePt": "Skills vs ferramentas MCP para agentes de IA: quando usar cada uma",
+    "url": "https://blog.logrocket.com/skills-vs-mcp-tools-agent-guide/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um post técnico em destaque discute quando usar skills (habilidades internas) versus ferramentas MCP em agentes de IA. O autor compara as abordagens e sugere critérios claros de escolha. Desenvolvedores que constroem agentes se beneficiam dessa orientação prática.",
+    "reasonEn": "A featured technical post discusses when to use skills (internal capabilities) versus MCP tools in AI agents. The author compares approaches and suggests clear choice criteria. Developers building agents benefit from this practical guidance.",
+    "score": 0.75,
+    "tags": [
+      "agentes",
+      "arquitetura",
+      "mcp"
+    ],
+    "img": "img/d70e3510a996.jpg",
+    "ts": 1788438168,
+    "addedTs": 1788444015,
+    "urlHash": "d70e3510a996",
+    "titleHash": "dea13e7ff0e4"
+  },
+  {
+    "title": "Show HN: Jern Cloud – a coding agent bound by a policy file in your repository",
+    "titlePt": "Jern Cloud: agente de programação limitado por arquivo de política no repositório",
+    "url": "https://jern.ai",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um projeto Show HN chamado Jern Cloud propõe um agente de programação governado por um arquivo de política dentro do próprio repositório. Isso permite impor regras de código, estilo e limites de operação de forma versionada. É uma abordagem interessante para times que precisam de governança sobre o uso de IA em código.",
+    "reasonEn": "A Show HN project called Jern Cloud proposes a coding agent governed by a policy file inside the repository itself. This enables enforcing code rules, style, and operational limits in a versioned way. It's an interesting approach for teams that need governance over AI usage in code.",
+    "score": 0.55,
+    "tags": [
+      "agentes",
+      "governança",
+      "programação"
+    ],
+    "img": "img/8b713160a39e.jpg",
+    "ts": 1788437604,
+    "addedTs": 1788444015,
+    "urlHash": "8b713160a39e",
+    "titleHash": "ad55ada2dae7"
+  },
+  {
+    "title": "Scaling agentic AI pilots across the enterprise",
+    "titlePt": "Escalar pilotos de IA agêntica nas empresas",
+    "url": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
+    "source": "MIT Tech Review",
+    "sources": [
+      "MIT Tech Review"
+    ],
+    "reason": "A MIT Technology Review publica um guia sobre como escalar pilotos de IA agêntica em grandes empresas. O texto aborda governança, integração com sistemas legados e métricas de sucesso. Líderes técnicos e gerentes encontram um panorama atualizado para tomar decisões estratégicas.",
+    "reasonEn": "MIT Technology Review publishes a guide on how to scale agentic AI pilots across large enterprises. The text covers governance, integration with legacy systems, and success metrics. Technical leaders and managers find an up-to-date overview for making strategic decisions.",
+    "score": 0.65,
+    "tags": [
+      "empresa",
+      "agentes",
+      "estratégia"
+    ],
+    "img": "img/a0bf91a6c8bc.jpg",
+    "ts": 1788427832,
+    "addedTs": 1788444015,
+    "urlHash": "a0bf91a6c8bc",
+    "titleHash": "32eb72bc6c16"
+  },
+  {
+    "title": "EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier Language Models",
+    "titlePt": "EvalDetectBench: benchmark para medir consciência de avaliação em modelos de fronteira",
+    "url": "https://arxiv.org/abs/2609.01611",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "Pesquisadores publicaram o EvalDetectBench, um benchmark para medir o quanto modelos de fronteira percebem que estão sendo avaliados. O objetivo é identificar comportamentos diferenciados quando o modelo sabe que está sob teste. É uma contribuição técnica relevante para quem estuda segurança e alinhamento de modelos avançados.",
+    "reasonEn": "Researchers published EvalDetectBench, a benchmark to measure how much frontier models perceive they are being evaluated. The goal is to identify differentiated behaviors when the model knows it's being tested. It's a relevant technical contribution for those studying safety and alignment of advanced models.",
+    "score": 0.6,
+    "tags": [
+      "benchmark",
+      "segurança",
+      "pesquisa"
+    ],
+    "img": "img/065b1d2ffdbe.jpg",
+    "ts": 1788408000,
+    "addedTs": 1788444015,
+    "urlHash": "065b1d2ffdbe",
+    "titleHash": "8dfdc7221f2a"
+  },
+  {
+    "title": "Architecting Conversational Data Systems for Stateless LLM APIs: The Hydration Proxy Pattern",
+    "titlePt": "Padrão Hydration Proxy: arquitetura para APIs de LLM sem estado",
+    "url": "https://arxiv.org/abs/2609.01834",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "Um artigo apresenta o padrão Hydration Proxy, uma arquitetura para sistemas conversacionais que usam APIs de LLM sem memória persistente. A proposta resolve o problema de como manter contexto em aplicações que precisam interagir com modelos que não guardam estado entre chamadas. É útil para desenvolvedores que constroem chatbots ou agentes com múltiplas sessões. O padrão pode simplificar a implementação de sistemas que dependem de LLMs externos.",
+    "reasonEn": "An article introduces the Hydration Proxy pattern, an architecture for conversational systems using stateless LLM APIs. The proposal addresses how to maintain context in applications that interact with models that don't keep state between calls. It is useful for developers building chatbots or agents with multiple sessions. The pattern can simplify implementation of systems relying on external LLMs.",
+    "score": 0.5,
+    "tags": [
+      "arquitetura",
+      "llm"
+    ],
+    "img": "img/c962c458763b.jpg",
+    "ts": 1788408000,
+    "addedTs": 1788444015,
+    "urlHash": "c962c458763b",
+    "titleHash": "6bf9c1d5051f"
+  },
+  {
+    "title": "The Memory Trust Gap: Capability-Dependent Failures in Persistent-Memory Agents",
+    "titlePt": "Memory Trust Gap: falhas em agentes de IA com memória persistente",
+    "url": "https://arxiv.org/abs/2609.01852",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "Pesquisadores identificam que agentes de IA com memória persistente apresentam falhas dependendo da capacidade da memória utilizada. O estudo mostra como diferentes tipos de armazenamento podem gerar comportamentos inesperados nos agentes ao longo do tempo. A descoberta é relevante para quem desenvolve sistemas agentic que precisam lembrar interações passadas. O artigo propõe avaliar a confiabilidade da memória como dimensão separada de capacidade.",
+    "reasonEn": "Researchers identified that AI agents with persistent memory exhibit capability-dependent failures. The study shows how different storage types can cause unexpected behaviors in agents over time. The finding matters for those building agentic systems that need to remember past interactions. The paper proposes evaluating memory reliability as a dimension separate from capability.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "memória"
+    ],
+    "img": "img/32d27d2b5397.jpg",
+    "ts": 1788408000,
+    "addedTs": 1788444015,
+    "urlHash": "32d27d2b5397",
+    "titleHash": "d979f52a8983"
+  },
+  {
+    "title": "Post-Training Ternarization of Qwen3-4B Capability, Effective Bit Budget, Storage Compression, and Deployment",
+    "titlePt": "Ternarização pós-treinamento do Qwen3-4B para economizar memória",
+    "url": "https://arxiv.org/abs/2609.01962",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "Pesquisadores mostram como compactar o modelo Qwen3-4B usando ternarização após o treinamento, reduzindo o uso de memória. O método consegue manter boa parte da capacidade do modelo original enquanto diminui drasticamente o espaço de armazenamento. Isso facilita o deploy em hardware com recursos limitados. É especialmente útil para desenvolvedores que precisam rodar modelos em dispositivos menores.",
+    "reasonEn": "Researchers show how to compact the Qwen3-4B model using post-training ternarization, reducing memory usage. The method preserves much of the original model's capability while drastically cutting storage space. This makes deployment easier on resource-constrained hardware. It is especially useful for developers needing to run models on smaller devices.",
+    "score": 0.6,
+    "tags": [
+      "quantização",
+      "modelo"
+    ],
+    "img": "img/33fbdf88b1a9.jpg",
+    "ts": 1788408000,
+    "addedTs": 1788444015,
+    "urlHash": "33fbdf88b1a9",
+    "titleHash": "77dbc3599729"
+  },
+  {
+    "title": "When Agents Implement Systems: A Case Study in Defects, Detection, and Evaluation Rigor",
+    "titlePt": "Quando agentes implementam sistemas: estudo de caso sobre defeitos",
+    "url": "https://arxiv.org/abs/2609.01985",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "O artigo analisa um caso real em que agentes de IA foram usados para implementar sistemas de software e os defeitos que surgiram no processo. Os autores discutem como detectar esses problemas e a importância de uma avaliação rigorosa. O estudo serve de alerta para equipes que adotam agentes autônomos em desenvolvimento. É leitura útil para líderes técnicos avaliando o uso de IA generativa em produção.",
+    "reasonEn": "The article analyzes a real case where AI agents were used to implement software systems and the defects that emerged. The authors discuss how to detect these problems and the importance of rigorous evaluation. The study serves as a warning for teams adopting autonomous agents in development. It is useful reading for technical leaders evaluating generative AI in production.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "engenharia"
+    ],
+    "img": "img/f66f7b36853a.jpg",
+    "ts": 1788408000,
+    "addedTs": 1788444015,
+    "urlHash": "f66f7b36853a",
+    "titleHash": "643a3ac47a84"
+  },
+  {
+    "title": "HeadWiseKV: Budgeted Per-Head Cache Residency for Hybrid Long-Context Language Models",
+    "titlePt": "HeadWiseKV: cache KV inteligente para modelos de contexto longo",
+    "url": "https://arxiv.org/abs/2609.02029",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "O artigo apresenta HeadWiseKV, uma técnica que controla de forma seletiva quais cabeças de atenção mantêm seu cache KV ativo em modelos de linguagem de contexto longo. O método reduz o uso de memória sem perda significativa de qualidade. A solução é especialmente relevante para quem trabalha com documentos longos ou múltiplas sessões. Pode ser adotada em sistemas híbridos que combinam diferentes mecanismos de atenção.",
+    "reasonEn": "The paper presents HeadWiseKV, a technique that selectively controls which attention heads keep their KV cache active in long-context language models. The method reduces memory usage without significant quality loss. The solution is especially relevant for those working with long documents or multiple sessions. It can be adopted in hybrid systems combining different attention mechanisms.",
+    "score": 0.5,
+    "tags": [
+      "otimização",
+      "llm"
+    ],
+    "img": "img/a4baaa912fda.jpg",
+    "ts": 1788408000,
+    "addedTs": 1788444015,
+    "urlHash": "a4baaa912fda",
+    "titleHash": "9dd1706fa27a"
+  },
+  {
+    "title": "Monitoring Web Agents Without Internal Signals: Observable Trajectories and Key-Step Supervision",
+    "titlePt": "Monitorando agentes web sem acesso aos sinais internos",
+    "url": "https://arxiv.org/abs/2609.02057",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "Pesquisadores propõem uma forma de supervisionar agentes web analisando apenas suas trajetórias observáveis, sem depender de sinais internos do modelo. A abordagem facilita o monitoramento de agentes em produção, especialmente quando rodam em sistemas de terceiros. Os passos-chave da execução são usados como pontos de verificação. É útil para equipes que precisam auditar agentes em ambientes reais.",
+    "reasonEn": "Researchers propose a way to supervise web agents by analyzing only their observable trajectories, without relying on internal model signals. The approach makes it easier to monitor agents in production, especially when running on third-party systems. Key execution steps serve as checkpoints. It is useful for teams needing to audit agents in real environments.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "monitoramento"
+    ],
+    "img": "img/3f3f213d8931.jpg",
+    "ts": 1788408000,
+    "addedTs": 1788444015,
+    "urlHash": "3f3f213d8931",
+    "titleHash": "7f2ce8085ccd"
+  },
+  {
+    "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+    "titlePt": "Ajuste fino de modelo 350M com 100 passos de GRPO para saídas estruturadas",
+    "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "O post do HuggingFace mostra como fazer ajuste fino de um modelo de 350 milhões de parâmetros em apenas 100 passos usando GRPO. O foco é melhorar a geração de saídas estruturadas, algo comum em aplicações que precisam de JSON ou formatos específicos. O tutorial é prático e reproduzível, ideal para desenvolvedores que querem experimentar. Demonstra que é possível obter bons resultados com poucos recursos.",
+    "reasonEn": "The HuggingFace post shows how to fine-tune a 350 million parameter model in just 100 steps using GRPO. The focus is improving structured output generation, common in applications needing JSON or specific formats. The tutorial is practical and reproducible, ideal for developers wanting to experiment. It demonstrates that good results are possible with few resources.",
+    "score": 0.7,
+    "tags": [
+      "fine-tuning",
+      "tutorial"
+    ],
+    "img": "img/a139f80b1592.jpg",
+    "ts": 1788393600,
+    "addedTs": 1788444015,
+    "urlHash": "a139f80b1592",
+    "titleHash": "2dda7e705a83"
+  },
+  {
+    "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+    "titlePt": "Treinando um modelo de código para pintar aquarelas com TRL e OpenEnv",
+    "url": "https://huggingface.co/blog/train-to-paint-with-code",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "O tutorial mostra como treinar um modelo de programação para gerar imagens no estilo aquarela usando TRL e o framework OpenEnv. É um experimento criativo que mistura geração de código e arte visual. O conteúdo serve como demonstração prática de como treinar modelos com ferramentas abertas. Atraente para desenvolvedores curiosos sobre IA generativa além de texto.",
+    "reasonEn": "The tutorial shows how to train a coding model to generate watercolor-style images using TRL and the OpenEnv framework. It is a creative experiment mixing code generation and visual art. The content serves as a practical demonstration of training models with open tools. Attractive for developers curious about generative AI beyond text.",
+    "score": 0.5,
+    "tags": [
+      "treinamento",
+      "criatividade"
+    ],
+    "img": "img/b5500bc65035.jpg",
+    "ts": 1788393600,
+    "addedTs": 1788444015,
+    "urlHash": "b5500bc65035",
+    "titleHash": "97dcd3546a0d"
+  },
+  {
+    "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals ",
+    "titlePt": "TechCrunch Disrupt 2026 terá palco dedicado a IA com Nvidia e robôs",
+    "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A edição 2026 da TechCrunch Disrupt vai incluir um palco especial chamado Real World AI Stage, com participação da Nvidia, robôs e até animais extintos em versão robótica. O evento promete mostrar aplicações práticas de inteligência artificial. É uma boa oportunidade para acompanhar lançamentos e tendências do setor. Interessa a profissionais e investidores que querem ver IA fora do laboratório.",
+    "reasonEn": "The 2026 TechCrunch Disrupt will include a special Real World AI Stage, featuring Nvidia, robots, and even robotic versions of extinct animals. The event promises to showcase practical applications of artificial intelligence. It is a good opportunity to follow launches and industry trends. It interests professionals and investors wanting to see AI outside the lab.",
+    "score": 0.5,
+    "tags": [
+      "evento",
+      "indústria"
+    ],
+    "img": "img/62ca58d2031f.jpg",
+    "ts": 1788387849,
+    "addedTs": 1788444015,
+    "urlHash": "62ca58d2031f",
+    "titleHash": "5f79402a88bb"
+  },
+  {
+    "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
+    "titlePt": "Governo Trump apoia OpenAI em processo de direitos autorais do NYT",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "A administração Trump entrou a favor da OpenAI na disputa judicial com o New York Times sobre uso de conteúdo jornalístico para treinar modelos. O apoio do governo pode influenciar significativamente o desfecho do caso e os limites do uso justo em IA. A decisão tem impacto direto sobre como futuras IAs podem treinar com material protegido. Jornalistas, editores e desenvolvedores de modelos são os mais afetados.",
+    "reasonEn": "The Trump administration sided with OpenAI in the legal dispute with The New York Times over using journalistic content to train models. Government support can significantly influence the case outcome and the limits of fair use in AI. The decision directly impacts how future AIs can train on protected material. Journalists, editors, and model developers are most affected.",
+    "score": 0.8,
+    "tags": [
+      "regulação",
+      "copyright"
+    ],
+    "img": "img/16174673e5de.jpg",
+    "ts": 1788365545,
+    "addedTs": 1788444015,
+    "urlHash": "16174673e5de",
+    "titleHash": "9d5b7f728b88"
+  },
+  {
+    "title": "Facilitating AI integration with simplicity at scale",
+    "titlePt": "MIT Tech Review: como facilitar a integração de IA em escala",
+    "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+    "source": "MIT Tech Review",
+    "sources": [
+      "MIT Tech Review"
+    ],
+    "reason": "A MIT Technology Review publica um guia sobre como integrar inteligência artificial de forma simples e escalável nas organizações. O texto aborda os principais obstáculos práticos e como superá-los com processos bem definidos. Traz recomendações úteis para líderes que estão implantando IA em suas equipes. É leitura recomendada para quem precisa planejar projetos de IA sem complicação.",
+    "reasonEn": "MIT Technology Review publishes a guide on integrating artificial intelligence simply and at scale in organizations. The text addresses main practical obstacles and how to overcome them with well-defined processes. It offers useful recommendations for leaders deploying AI in their teams. Recommended reading for those needing to plan AI projects without complications.",
+    "score": 0.6,
+    "tags": [
+      "integração",
+      "estratégia"
+    ],
+    "img": "img/f87bb394d39e.jpg",
+    "ts": 1788357600,
+    "addedTs": 1788444015,
+    "urlHash": "f87bb394d39e",
+    "titleHash": "cb1947c35610"
+  },
+  {
     "title": "MemHub – Persistent shared memory for AI coding agents",
     "titlePt": "MemHub dá memória persistente a agentes de código com IA",
     "url": "https://memhub.simplex.lat",
@@ -6994,180 +7489,5 @@
     "addedTs": 1787850474,
     "urlHash": "8a45cb93a1ef",
     "titleHash": "95c562029041"
-  },
-  {
-    "title": "Ask HN: How do you protect self-hosted websites from LLM scrapers?",
-    "titlePt": "Como proteger sites auto-hospedados de raspadores de IA",
-    "url": "https://news.ycombinator.com/item?id=49460258",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um tópico no Hacker News discute formas de bloquear bots de IA que coletam conteúdo de sites auto-hospedados. A discussão traz dicas práticas como bloqueio por user-agent, arquivos robots.txt e rate limiting. É relevante para desenvolvedores e administradores que publicam conteúdo próprio e não querem vê-lo sendo usado sem permissão para treinar modelos.",
-    "reasonEn": "A Hacker News thread discusses ways to block AI bots scraping self-hosted websites. Practical tips include user-agent filtering, robots.txt tweaks and rate limiting. Relevant for developers and admins who publish their own content and don't want it used for training without consent.",
-    "score": 0.55,
-    "tags": [
-      "segurança",
-      "raspagem",
-      "desenvolvedores"
-    ],
-    "img": "img/fddee93cd996.jpg",
-    "ts": 1787809392,
-    "addedTs": 1787809972,
-    "urlHash": "fddee93cd996",
-    "titleHash": "2ebe92914c92"
-  },
-  {
-    "title": "Interviewing in the Age of AI",
-    "titlePt": "Entrevistas de emprego na era da IA",
-    "url": "https://www.dein.fr/posts/2026-05-28-interviewing-in-the-age-of-ai",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Discussão no Hacker News aborda como entrevistas técnicas estão mudando com o uso de IA por candidatos e empresas. Temas como checagem de autenticidade e novas formas de avaliação aparecem. É leitura útil para quem está contratando ou buscando emprego em tecnologia.",
-    "reasonEn": "A Hacker News discussion covers how tech interviews are changing as both candidates and companies use AI. Topics include authenticity checks and new evaluation methods. Useful reading for anyone hiring or job hunting in tech.",
-    "score": 0.5,
-    "tags": [
-      "carreira",
-      "recrutamento"
-    ],
-    "img": "img/54c793f971fc.jpg",
-    "ts": 1787803296,
-    "addedTs": 1787809972,
-    "urlHash": "54c793f971fc",
-    "titleHash": "bdee44ea5709"
-  },
-  {
-    "title": "First patient to undergo live AI-assisted brain surgery has tumour removed",
-    "titlePt": "Primeira cirurgia cerebral ao vivo assistida por IA remove tumor",
-    "url": "https://www.bbc.com/news/articles/cjwg5n7y68xo",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Médicos realizaram a primeira cirurgia cerebral ao vivo com assistência de inteligência artificial e conseguiram remover um tumor com sucesso. O sistema de IA ajudou a guiar o procedimento em tempo real, mostrando um avanço concreto no uso da tecnologia em saúde. O caso é relevante porque marca a chegada da IA a ambientes cirúrgicos críticos. Pode acelerar a adoção em outros hospitais e abrir debate regulatório.",
-    "reasonEn": "Doctors performed the first live AI-assisted brain surgery and successfully removed a tumor. The AI system helped guide the procedure in real time, showing a concrete advance in medical AI. The case matters because it marks AI entering critical surgical environments. It could speed up adoption in other hospitals and spark regulatory debate.",
-    "score": 0.8,
-    "tags": [
-      "saúde",
-      "aplicação",
-      "marco"
-    ],
-    "img": "img/34f3da53eb1b.jpg",
-    "ts": 1787801221,
-    "addedTs": 1787809972,
-    "urlHash": "34f3da53eb1b",
-    "titleHash": "bfa68c03081e"
-  },
-  {
-    "title": "How researchers are teaching AI to learn like a child",
-    "titlePt": "Pesquisadores ensinam IA a aprender como uma criança",
-    "url": "https://www.science.org/content/article/how-researchers-are-teaching-ai-learn-child",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Pesquisadores estão explorando formas de treinar modelos de IA inspirados no desenvolvimento infantil, em vez de usar apenas grandes volumes de dados. A abordagem aposta que imitar a curiosidade e o aprendizado incremental humano pode gerar modelos mais eficientes. Pode mudar como futuros agentes aprendem novas tarefas com poucos exemplos. O tema interessa a desenvolvedores que trabalham com agentes e personalização.",
-    "reasonEn": "Researchers are exploring ways to train AI models inspired by child development, instead of relying only on massive datasets. The approach bets that mimicking human curiosity and incremental learning can yield more efficient models. It could change how future agents learn new tasks with few examples. The topic interests developers building agents and personalization features.",
-    "score": 0.5,
-    "tags": [
-      "pesquisa",
-      "treinamento",
-      "agentes"
-    ],
-    "img": "img/1a90ff06e4f3.jpg",
-    "ts": 1787799291,
-    "addedTs": 1787809972,
-    "urlHash": "1a90ff06e4f3",
-    "titleHash": "287f357c4ab6"
-  },
-  {
-    "title": "AI Lessons from Driving 200M Autonomous Miles",
-    "titlePt": "Lições de IA após 200 milhões de milhas autônomas",
-    "url": "https://waymo.com/blog/2026/08/10ailessons/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Engenheiros compartilham o que aprenderam ao acumular 200 milhões de milhas dirigindo de forma autônoma. O texto cobre falhas comuns, casos de borda e ajustes em modelos de percepção e planejamento. É leitura útil para qualquer pessoa interessada em IA aplicada a robótica e veículos. Mostra que dirigir de verdade é bem diferente de testes em simulador.",
-    "reasonEn": "Engineers share what they learned after accumulating 200 million autonomous driving miles. The text covers common failures, edge cases, and tuning of perception and planning models. It is useful reading for anyone interested in AI applied to robotics and vehicles. It shows real driving is very different from simulator testing.",
-    "score": 0.55,
-    "tags": [
-      "robótica",
-      "autônomos",
-      "lições"
-    ],
-    "img": "img/6a1bf7ad225a.jpg",
-    "ts": 1787795788,
-    "addedTs": 1787809972,
-    "urlHash": "6a1bf7ad225a",
-    "titleHash": "93a5d5df738a"
-  },
-  {
-    "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-    "titlePt": "CEO demite devs para abrir espaço para IA; devs criam CEO de IA open source",
-    "url": "https://github.com/SenteLabsAI/OpenExecutive",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um CEO decidiu substituir desenvolvedores por inteligência artificial e, em resposta, os próprios devs criaram um CEO de IA open source para mostrar o absurdo da decisão. A história viralizou e virou símbolo do debate sobre automação no trabalho técnico. Mostra tanto o hype quanto o contra-ataque da comunidade. Para desenvolvedores, é um sinal de alerta sobre pressão por produtividade com IA.",
-    "reasonEn": "A CEO decided to replace developers with AI, and in response the devs built an open-source AI CEO to show the absurdity of the decision. The story went viral and became a symbol of the automation debate in technical work. It shows both the hype and the community's pushback. For developers, it is a warning sign about AI-driven productivity pressure.",
-    "score": 0.7,
-    "tags": [
-      "trabalho",
-      "open-source",
-      "humor"
-    ],
-    "img": "img/cb7e4bbf99b4.jpg",
-    "ts": 1787795182,
-    "addedTs": 1787809972,
-    "urlHash": "cb7e4bbf99b4",
-    "titleHash": "607d711b5a0e"
-  },
-  {
-    "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
-    "titlePt": "Startup viral Instinct levanta 350 milhões e vale 2,5 bilhões",
-    "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A Instinct, startup de IA em rápido crescimento, levantou 350 milhões de dólares em uma rodada que avaluate a empresa em 2,5 bilhões. O aporte reforça o apetite do mercado por infraestrutura e aplicações virais de IA. Para desenvolvedores, vale acompanhar porque clientes e produtos da empresa podem afetar ferramentas usadas no dia a dia. O salto de valuation mostra o quanto capital continua fluindo para o setor.",
-    "reasonEn": "Fast-growing AI startup Instinct raised 350 million dollars in a round valuing it at 2.5 billion. The funding reinforces market appetite for AI infrastructure and viral applications. Developers should watch because the company's products and customers may affect tools used daily. The valuation jump shows how much capital keeps flowing into the sector.",
-    "score": 0.75,
-    "tags": [
-      "investimento",
-      "startup",
-      "valuation"
-    ],
-    "img": "img/745d673f45eb.jpg",
-    "ts": 1787790297,
-    "addedTs": 1787809972,
-    "urlHash": "745d673f45eb",
-    "titleHash": "81075ea73a5f"
-  },
-  {
-    "title": "Amazon just tripled its order of Nvidia chips over &#8216;surging demand&#8217;",
-    "titlePt": "Amazon triplica pedido de chips da Nvidia por demanda crescente",
-    "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A Amazon teria triplicado seu pedido de chips Nvidia para data centers diante da forte demanda por serviços de IA. O movimento confirma a corrida por capacidade de computação entre as grandes nuvens. Para desenvolvedores, isso pode significar preços e disponibilidade de GPU mais pressionados nos próximos meses. Também indica que a Amazon segue agressiva em IA generativa.",
-    "reasonEn": "Amazon has reportedly tripled its order of Nvidia chips for data centers amid surging AI demand. The move confirms the compute race among the major cloud providers. For developers, this could mean tighter GPU prices and availability in coming months. It also shows Amazon staying aggressive in generative AI.",
-    "score": 0.75,
-    "tags": [
-      "infraestrutura",
-      "nvidia",
-      "nuvem"
-    ],
-    "img": "img/d949d26fe875.jpg",
-    "ts": 1787788038,
-    "addedTs": 1787809972,
-    "urlHash": "d949d26fe875",
-    "titleHash": "b147a6917040"
   }
 ]
