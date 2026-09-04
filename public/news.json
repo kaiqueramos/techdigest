@@ -1,5 +1,175 @@
 [
   {
+    "title": "Agent Builder by Airtop",
+    "titlePt": "Airtop lança Agent Builder para criar agentes de IA sem código",
+    "url": "https://www.producthunt.com/products/airtop",
+    "source": "ProductHunt",
+    "sources": [
+      "ProductHunt"
+    ],
+    "reason": "A Airtop apresentou o Agent Builder, uma ferramenta visual para criar agentes de IA sem necessidade de programação. O produto foi listado na Product Hunt mirando usuários de negócios que querem automatizar tarefas rapidamente. A promessa é simplificar a integração com serviços populares e fluxos de trabalho comuns. Detalhes sobre limites de uso e preço ainda precisam ser esclarecidos.",
+    "reasonEn": "Airtop introduced Agent Builder, a visual tool for creating AI agents without coding. The product was listed on Product Hunt targeting business users who want to automate tasks quickly. The promise is to simplify integration with popular services and common workflows. Details about usage limits and pricing still need to be clarified.",
+    "score": 0.55,
+    "tags": [
+      "agente",
+      "lançamento"
+    ],
+    "img": "img/33031a4fb933.jpg",
+    "ts": 1788509788,
+    "addedTs": 1788510003,
+    "urlHash": "33031a4fb933",
+    "titleHash": "7ee31aade950"
+  },
+  {
+    "title": "Show HN: Aurict – An open-source Terminal AI",
+    "titlePt": "Aurict: IA de código aberto para o terminal ganha atenção no Hacker News",
+    "url": "https://github.com/aurict/aurict",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um desenvolvedor publicou no Hacker News o Aurict, um projeto de código aberto que adiciona recursos de IA diretamente ao terminal. A ferramenta permite conversar com modelos de linguagem sem sair da linha de comando, ideal para programadores. O projeto ainda está em estágio inicial, mas já atraiu atenção da comunidade técnica. Detalhes sobre quais modelos são compatíveis e o desempenho real precisam ser avaliados com mais uso.",
+    "reasonEn": "A developer published Aurict on Hacker News, an open-source project that adds AI capabilities directly to the terminal. The tool allows talking to language models without leaving the command line, ideal for programmers. The project is still in early stages but has already attracted attention from the technical community. Details about which models are supported and real performance need further evaluation.",
+    "score": 0.55,
+    "tags": [
+      "open-source",
+      "ferramenta"
+    ],
+    "img": "img/cc6cc2e19616.jpg",
+    "ts": 1788509294,
+    "addedTs": 1788510003,
+    "urlHash": "cc6cc2e19616",
+    "titleHash": "ddf272779eb7"
+  },
+  {
+    "title": "Execution gating and micro-rollbacks for AI agents",
+    "titlePt": "Gating de execução e micro-rollbacks ganham força para agentes de IA",
+    "url": "https://bartholomew.info/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um artigo técnico discute como controlar ações de agentes de IA usando mecanismos de gating de execução e micro-rollbacks. A proposta visa evitar que agentes cometam erros irreversíveis ao operar em sistemas reais de produção. Essas técnicas se tornam essenciais à medida que empresas adotam agentes autônomos em fluxos críticos. O conteúdo é especialmente relevante para engenheiros que constroem sistemas agênticos em escala.",
+    "reasonEn": "A technical article discusses how to control AI agent actions using execution gating and micro-rollback mechanisms. The proposal aims to prevent agents from making irreversible mistakes when operating on real production systems. These techniques become essential as companies adopt autonomous agents in critical workflows. The content is especially relevant for engineers building agentic systems at scale.",
+    "score": 0.75,
+    "tags": [
+      "agente",
+      "segurança"
+    ],
+    "img": "img/d2bb53307bce.jpg",
+    "ts": 1788506097,
+    "addedTs": 1788510003,
+    "urlHash": "d2bb53307bce",
+    "titleHash": "30ed301ad11e"
+  },
+  {
+    "title": "OpenAI commits $1B to critical-infrastructure AI initiative",
+    "titlePt": "OpenAI destina US$ 1 bilhão para IA em infraestrutura crítica",
+    "url": "https://axios.com/2026/09/03/openai-critical-infrastructure-cyber-ai-models",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A OpenAI anunciou um investimento de US$ 1 bilhão em um programa voltado a aplicações de inteligência artificial em infraestrutura crítica. A iniciativa mira setores como energia, transporte e saúde, onde falhas podem ter consequências graves. O movimento mostra que a empresa quer expandir sua presença além do consumidor final e de produtos voltados a empresas. Detalhes sobre parceiros e cronograma ainda são limitados.",
+    "reasonEn": "OpenAI announced a $1 billion investment in a program focused on AI applications in critical infrastructure. The initiative targets sectors like energy, transportation, and healthcare, where failures can have serious consequences. The move shows the company wants to expand its presence beyond end consumers and enterprise products. Details about partners and timeline are still limited.",
+    "score": 0.85,
+    "tags": [
+      "openai",
+      "investimento",
+      "infraestrutura"
+    ],
+    "img": "img/6135c99f1ad9.jpg",
+    "ts": 1788504892,
+    "addedTs": 1788510003,
+    "urlHash": "6135c99f1ad9",
+    "titleHash": "a1c61e9c72ee"
+  },
+  {
+    "title": "Open-weight AI agents can use 10k× more energy than simple queries",
+    "titlePt": "Agentes de IA de pesos abertos podem consumir 10 mil vezes mais energia",
+    "url": "https://bloomberg.com/news/articles/2026-09-03/ai-s-environmental-impact-per-task-balloons-with-more-complexity",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um estudo divulgado no Hacker News mostra que agentes baseados em modelos de pesos abertos podem consumir até 10 mil vezes mais energia do que consultas simples. O custo surge especialmente quando agentes executam várias etapas e fazem chamadas repetidas a modelos. O dado é relevante para empresas preocupadas com sustentabilidade, custo operacional e orçamento de nuvem. A pesquisa reforça a importância de medir consumo antes de escalar agentes em produção.",
+    "reasonEn": "A study shared on Hacker News shows that agents based on open-weight models can consume up to 10,000 times more energy than simple queries. The cost appears especially when agents execute multiple steps and make repeated model calls. The data is relevant for companies concerned with sustainability, operational cost, and cloud budget. The research reinforces the importance of measuring consumption before scaling agents in production.",
+    "score": 0.8,
+    "tags": [
+      "energia",
+      "agente",
+      "sustentabilidade"
+    ],
+    "img": "img/1e48949b064b.jpg",
+    "ts": 1788504829,
+    "addedTs": 1788510003,
+    "urlHash": "1e48949b064b",
+    "titleHash": "b47f4a9313a5"
+  },
+  {
+    "title": "Andrew Ng: The Biggest Opportunities in AI Aren't Where You Think [video]",
+    "titlePt": "Andrew Ng: as maiores oportunidades em IA estão fora dos setores badalados",
+    "url": "https://www.youtube.com/watch?v=o-wv_szZ0V0",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Andrew Ng publicou um vídeo argumentando que as maiores oportunidades em IA estão fora dos setores mais comentados pela mídia. Ele defende foco em aplicações práticas em indústrias tradicionais como saúde, educação, agricultura e logística. O argumento central é que essas áreas têm menos concorrência e problemas reais a resolver. A mensagem é voltada a empreendedores e desenvolvedores em busca de nichos pouco explorados.",
+    "reasonEn": "Andrew Ng published a video arguing that the biggest opportunities in AI are outside the most hyped sectors. He advocates for focusing on practical applications in traditional industries like healthcare, education, agriculture, and logistics. The central argument is that these areas have less competition and real problems to solve. The message targets entrepreneurs and developers looking for unexplored niches.",
+    "score": 0.55,
+    "tags": [
+      "oportunidade",
+      "análise"
+    ],
+    "img": "img/821fef5042ec.jpg",
+    "ts": 1788503776,
+    "addedTs": 1788510003,
+    "urlHash": "821fef5042ec",
+    "titleHash": "8f77cdc3bcc7"
+  },
+  {
+    "title": "Who is accountable for Frontier AI Companies agent's criminal actions?",
+    "titlePt": "Quem responde por ações criminosas de agentes de IA de fronteira?",
+    "url": "https://news.ycombinator.com/item?id=49561197",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma discussão crescente no Hacker News questiona quem deve responder legalmente por ações criminosas de agentes de IA desenvolvidos por empresas de fronteira. O tema ganhou força com a expansão de agentes autônomos em áreas sensíveis como finanças e saúde. Não há consenso sobre como dividir responsabilidade entre desenvolvedores, operadores e usuários finais. O debate é essencial para reguladores e empresas que operam agentes em produção.",
+    "reasonEn": "A growing discussion on Hacker News questions who should be legally responsible for criminal actions by AI agents developed by frontier companies. The topic gained traction with the expansion of autonomous agents in sensitive areas like finance and healthcare. There is no consensus on how to split responsibility between developers, operators, and end users. The debate is essential for regulators and companies operating agents in production.",
+    "score": 0.75,
+    "tags": [
+      "regulação",
+      "responsabilidade"
+    ],
+    "img": "img/f937455ea062.jpg",
+    "ts": 1788503364,
+    "addedTs": 1788510003,
+    "urlHash": "f937455ea062",
+    "titleHash": "63eed2b34042"
+  },
+  {
+    "title": "Cerebras and Compute Nordic Finland Announces AI Data Centre in Mikkeli, Finland",
+    "titlePt": "Cerebras e Compute Nordic anunciam data center de IA em Mikkeli, Finlândia",
+    "url": "https://investors.cerebras.ai/news-releases/news-release-details/cerebras-and-compute-nordic-finland-announce-new-165-mw-ai-data",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Cerebras e a Compute Nordic Finland anunciaram um novo data center de IA na cidade de Mikkeli, no leste da Finlândia. O local aproveitará o clima frio e a energia barata da região para hospedar chips de IA em larga escala. O investimento faz parte da corrida global por capacidade de processamento para modelos generativos. O projeto pode atrair clientes europeus que precisam de infraestrutura local por questões de soberania de dados.",
+    "reasonEn": "Cerebras and Compute Nordic Finland announced a new AI data center in the city of Mikkeli, in eastern Finland. The site will leverage the region's cold climate and cheap energy to host large-scale AI chips. The investment is part of the global race for processing capacity for generative models. The project could attract European clients needing local infrastructure due to data sovereignty concerns.",
+    "score": 0.6,
+    "tags": [
+      "infraestrutura",
+      "data-center"
+    ],
+    "img": "img/2cd80569ac32.jpg",
+    "ts": 1788500873,
+    "addedTs": 1788510003,
+    "urlHash": "2cd80569ac32",
+    "titleHash": "efab933ef3ac"
+  },
+  {
     "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
     "titlePt": "Agentes de IA instalam código não autorizado em redes corporativas",
     "url": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
