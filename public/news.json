@@ -1,5 +1,262 @@
 [
   {
+    "title": "Score prompts and models with AI judges and deterministic evaluators",
+    "titlePt": "Avalie prompts e modelos com juízes de IA",
+    "url": "https://infere.com/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma nova abordagem permite usar juízes de IA combinados com avaliadores determinísticos para comparar prompts e modelos. A ideia é dar a desenvolvedores métricas mais confiáveis na hora de escolher qual modelo usar. Pode economizar muito tempo em testes manuais. Ferramentas assim tendem a virar padrão em times de produto.",
+    "reasonEn": "A new approach allows using AI judges combined with deterministic evaluators to compare prompts and models. The idea is to give developers more reliable metrics when choosing which model to use. It can save a lot of time on manual testing. Such tools tend to become standard in product teams.",
+    "score": 0.5,
+    "tags": [
+      "avaliação",
+      "ferramentas"
+    ],
+    "img": "img/0cfd9e11afde.jpg",
+    "ts": 1788528667,
+    "addedTs": 1788530015,
+    "urlHash": "0cfd9e11afde",
+    "titleHash": "90bad3675198"
+  },
+  {
+    "title": "OpenWhispr – Open-source, privacy-first voice-to-text with local AI",
+    "titlePt": "OpenWhispr transforma voz em texto localmente",
+    "url": "https://digitalescapetools.com/tools/tool.html?id=openwhispr",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "OpenWhispr é uma solução open source e focada em privacidade para converter fala em texto usando IA local. Diferente de serviços na nuvem, nada sai do seu computador, o que reduz riscos de vazamento. Pode interessar a profissionais que lidam com dados sensíveis. O modelo aberto facilita auditoria e adaptação a novos idiomas.",
+    "reasonEn": "OpenWhispr is an open source, privacy-focused solution to convert speech to text using local AI. Unlike cloud services, nothing leaves your computer, reducing leak risks. It may interest professionals handling sensitive data. The open model makes auditing and adapting to new languages easier.",
+    "score": 0.55,
+    "tags": [
+      "open-source",
+      "voz"
+    ],
+    "img": "img/382f7dbf02dd.jpg",
+    "ts": 1788528176,
+    "addedTs": 1788530015,
+    "urlHash": "382f7dbf02dd",
+    "titleHash": "a6af8714c64a"
+  },
+  {
+    "title": "AI engineer breaks part of RSA encryption protocol by hand",
+    "titlePt": "Engenheiro quebra parte da criptografia RSA à mão",
+    "url": "https://www.scientificamerican.com/article/whats-the-tech-behind-the-record-breaking-rsa-260-crack/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um engenheiro de IA conseguiu quebrar manualmente parte do protocolo RSA, um dos pilares da criptografia moderna. O feito mostra que certos algoritmos podem ser vulneráveis a ataques cuidadosos, sem depender de força bruta. Isso preocupa bancos, governos e qualquer serviço que usa RSA para proteger dados. Especialistas recomendam migrar para métodos pós-quânticos o quanto antes. Para desenvolvedores, é hora de revisar a segurança dos sistemas.",
+    "reasonEn": "An AI engineer managed to manually break part of the RSA protocol, one of the pillars of modern cryptography. The feat shows that certain algorithms can be vulnerable to careful attacks, without relying on brute force. This worries banks, governments and any service using RSA to protect data. Experts recommend migrating to post-quantum methods as soon as possible. For developers, it's time to review system security.",
+    "score": 0.75,
+    "tags": [
+      "segurança",
+      "criptografia"
+    ],
+    "img": "img/1a970a5016ff.jpg",
+    "ts": 1788527704,
+    "addedTs": 1788530015,
+    "urlHash": "1a970a5016ff",
+    "titleHash": "2f86267fd79a"
+  },
+  {
+    "title": "Will the AI Boom Price the Rest of the Economy Out of Capital?",
+    "titlePt": "O boom da IA pode sugar o capital da economia?",
+    "url": "https://publicemails.com/blog/display/659255/Will-the-AI-Boom-Price-the-Rest-of-the-Economy-Out-of-Capital",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma análise discute se o investimento massivo em IA está drenando capital de outros setores da economia. O argumento é que gastos enormes com chips, data centers e modelos podem encarecer crédito e infraestrutura para todo o resto. É uma leitura útil para gestores e investidores. Mostra que o custo da IA não é só tecnológico, é também macroeconômico.",
+    "reasonEn": "An analysis discusses whether massive AI investment is draining capital from other sectors of the economy. The argument is that huge spending on chips, data centers and models can make credit and infrastructure more expensive for everyone else. It's a useful read for managers and investors. It shows that the cost of AI is not just technological, it's also macroeconomic.",
+    "score": 0.6,
+    "tags": [
+      "economia",
+      "mercado"
+    ],
+    "img": "img/aba281b09bdd.jpg",
+    "ts": 1788527246,
+    "addedTs": 1788530015,
+    "urlHash": "aba281b09bdd",
+    "titleHash": "a1094d83ab02"
+  },
+  {
+    "title": "AI adoption at work is broad but shallow",
+    "titlePt": "Adoção de IA no trabalho é ampla, mas rasa",
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/01/ai-adoption-at-work-is-broad-but-shallow/5293545",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma nova análise mostra que muitas empresas adotam IA, mas poucas extraem valor real disso. O uso está espalhado em tarefas pontuais, sem integração profunda nos processos. Mostra que estamos na fase experimental, não na transformação total. Profissionais devem focar em aprender a integrar IA em fluxos completos.",
+    "reasonEn": "A new analysis shows that many companies adopt AI, but few extract real value from it. Usage is spread across one-off tasks, without deep process integration. It shows we are in the experimental phase, not in full transformation. Professionals should focus on learning to integrate AI into complete workflows.",
+    "score": 0.55,
+    "tags": [
+      "trabalho",
+      "adoção"
+    ],
+    "img": "img/3ef63bf365e0.jpg",
+    "ts": 1788526035,
+    "addedTs": 1788530015,
+    "urlHash": "3ef63bf365e0",
+    "titleHash": "3184201a1aaf"
+  },
+  {
+    "title": "AI in 2026 feels like Covid in 2020",
+    "titlePt": "IA em 2026 lembra a Covid em 2020",
+    "url": "https://bejofo.com/blog/ai-feels-like-the-pandemic",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um texto de opinião compara o impacto da IA em 2026 ao da pandemia de Covid em 2020, em termos de velocidade de adoção e perturbação social. O paralelo é provocativo e ajuda a dimensionar o momento atual. Pode ser exagero para alguns, mas captura a sensação de mudança acelerada. Vale ler com senso crítico, não como verdade absoluta.",
+    "reasonEn": "An opinion piece compares the impact of AI in 2026 to the Covid pandemic in 2020, in terms of adoption speed and social disruption. The parallel is provocative and helps gauge the current moment. It may be an exaggeration for some, but captures the feeling of accelerated change. Worth reading critically, not as absolute truth.",
+    "score": 0.5,
+    "tags": [
+      "opinião",
+      "análise"
+    ],
+    "img": "img/4fae31abb3b4.jpg",
+    "ts": 1788525787,
+    "addedTs": 1788530015,
+    "urlHash": "4fae31abb3b4",
+    "titleHash": "5bb0e6f0841d"
+  },
+  {
+    "title": "Designing Grok Bot for a world of persistent agents",
+    "titlePt": "Como o bot do Grok foi pensado para agentes persistentes",
+    "url": "https://x.ai/news/designing-grok-bot",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A xAI publicou detalhes sobre o design do bot do Grok voltado para um mundo de agentes sempre ativos. A abordagem discute memória, identidade e continuidade de interação ao longo do tempo. É relevante para desenvolvedores que criam produtos com agentes autônomos. Mostra a direção da empresa em concorrência com ChatGPT e Claude.",
+    "reasonEn": "xAI published details about the design of the Grok bot aimed at a world of always-on agents. The approach discusses memory, identity and continuity of interaction over time. It is relevant for developers building products with autonomous agents. It shows the company's direction in competing with ChatGPT and Claude.",
+    "score": 0.55,
+    "tags": [
+      "grok",
+      "agentes",
+      "xai"
+    ],
+    "img": "img/c3a0d443767e.jpg",
+    "ts": 1788525618,
+    "addedTs": 1788530015,
+    "urlHash": "c3a0d443767e",
+    "titleHash": "2941c7b12326"
+  },
+  {
+    "title": "Climbers rescued on Mount Shasta after using AI chatbot to plan trip",
+    "titlePt": "Alpinistas são resgatados após confiar em chatbot de IA",
+    "url": "https://www.sfchronicle.com/outdoors/article/shasta-climbers-rescued-chatgpt-22414629.php",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Dois alpinistas foram resgatados no Monte Shasta depois de usar um chatbot de IA para planejar a rota. Eles seguiram conselhos errados que ignoravam perigos reais da montanha. O caso virou alerta global sobre os riscos de confiar cegamente em respostas de IA para decisões críticas. Autoridades pedem que pessoas verifiquem informações com fontes humanas antes de agir.",
+    "reasonEn": "Two climbers were rescued on Mount Shasta after using an AI chatbot to plan their route. They followed wrong advice that ignored real mountain dangers. The case went global as a warning about the risks of blindly trusting AI answers for critical decisions. Authorities ask people to verify information with human sources before acting.",
+    "score": 0.7,
+    "tags": [
+      "segurança",
+      "caso-real"
+    ],
+    "img": "img/f092cbb42567.jpg",
+    "ts": 1788525171,
+    "addedTs": 1788530015,
+    "urlHash": "f092cbb42567",
+    "titleHash": "d17a94ced5f4"
+  },
+  {
+    "title": "Nvidia PAIR turns your household's idle PCs into a local AI cluster",
+    "titlePt": "Nvidia PAIR transforma PCs ociosos da sua casa em cluster local de IA",
+    "url": "https://tokenstead.ai/guides/nvidia-pair-personal-ai-router",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Nvidia lançou o PAIR, uma tecnologia que permite distribuir o processamento de IA entre vários computadores domésticos conectados em rede local. Isso pode baratear o acesso a modelos grandes ao reaproveitar hardware que já existe. Para desenvolvedores e entusiastas, abre caminho para rodar IA sem depender totalmente da nuvem. O impacto também é ambiental, já que reaproveita máquinas em vez de exigir novos data centers.",
+    "reasonEn": "Nvidia launched PAIR, a technology that distributes AI inference across idle home PCs on a local network. This could make running large models cheaper by reusing hardware people already own. For developers and hobbyists, it offers a path to run AI without depending fully on the cloud. It also has an environmental angle, repurposing machines instead of building new data centers.",
+    "score": 0.7,
+    "tags": [
+      "nvidia",
+      "infra",
+      "distribuído"
+    ],
+    "img": "img/88998e6cad69.jpg",
+    "ts": 1788524354,
+    "addedTs": 1788530015,
+    "urlHash": "88998e6cad69",
+    "titleHash": "797366382d26"
+  },
+  {
+    "title": "Meta new layoff goal of 60% to AI after moving 30% engineers to labelers",
+    "titlePt": "Meta define nova meta de cortar 60% dos cargos em favor de IA",
+    "url": "https://blog.pragmaticengineer.com/the-pulse-meta-wanted-to-reduce-teams-by-60-because-of-ai/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Meta estaria planejando demissões agressivas, com até 60% dos cargos sendo eliminados à medida que funções são substituídas por sistemas de IA. Parte dos engenheiros já teria sido redirecionada para tarefas de rotulagem de dados, um trabalho essencial para treinar modelos. O movimento mostra como Big Techs estão reestruturando times inteiros ao redor de IA. Profissionais de engenharia de software devem ficar atentos a esse sinal do mercado.",
+    "reasonEn": "Meta is reportedly planning aggressive layoffs, with up to 60% of roles being cut as functions get replaced by AI systems. Some engineers have already been moved into data labeling work, which is essential for training models. The move shows how big tech firms are restructuring entire teams around AI. Software engineering professionals should pay attention to this market signal.",
+    "score": 0.85,
+    "tags": [
+      "meta",
+      "demissões",
+      "trabalho"
+    ],
+    "img": "img/8f87623be3ae.jpg",
+    "ts": 1788523407,
+    "addedTs": 1788530015,
+    "urlHash": "8f87623be3ae",
+    "titleHash": "bf109cd2758a"
+  },
+  {
+    "title": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
+    "titlePt": "Sam Altman pede desculpas pelo lançamento problemático do GPT-6 Astra",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "Sam Altman admitiu publicamente que o lançamento do GPT-6 Astra foi confuso e deixou usuários pagantes sem acesso ao novo modelo. A OpenAI vem enfrentando críticas por comunicação fragmentada e mudanças na disponibilidade de produtos. Para empresas e desenvolvedores que dependem de APIs OpenAI, o episódio reforça o risco de depender de um único fornecedor. É mais um sinal da pressão comercial sobre a OpenAI para entregar novos modelos rapidamente.",
+    "reasonEn": "Sam Altman publicly admitted the GPT-6 Astra launch was messy and left paying users locked out of the new model. OpenAI has been facing criticism for fragmented communication and shifting product availability. For companies and developers relying on OpenAI APIs, the episode reinforces the risk of depending on a single vendor. It is another sign of the commercial pressure on OpenAI to ship new models quickly.",
+    "score": 0.8,
+    "tags": [
+      "openai",
+      "lançamento",
+      "gpt-6"
+    ],
+    "img": "img/46893d79734d.jpg",
+    "ts": 1788521620,
+    "addedTs": 1788530015,
+    "urlHash": "46893d79734d",
+    "titleHash": "c7dfddeb5cee"
+  },
+  {
+    "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+    "titlePt": "Dados de drones da Ucrânia alimentam novo mercado selvagem de inteligência",
+    "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+    "source": "MIT Tech Review",
+    "sources": [
+      "MIT Tech Review"
+    ],
+    "reason": "Uma investigação da MIT Technology Review revela que dados coletados por drones no campo de batalha ucraniano estão sendo vendidos em mercados paralelos para compradores privados. Esses dados incluem coordenadas, imagens e metadados sensíveis que normalmente seriam restritos a governos. O fenômeno levanta questões sérias sobre segurança, ética e proliferação de tecnologia de guerra. Empresas de defesa, jornalistas e reguladores devem acompanhar de perto.",
+    "reasonEn": "An MIT Technology Review investigation reveals that data collected by drones on the Ukrainian battlefield is being sold in shadow markets to private buyers. The data includes coordinates, imagery and sensitive metadata normally restricted to governments. The phenomenon raises serious questions about security, ethics and the proliferation of warfare technology. Defense companies, journalists and regulators should follow it closely.",
+    "score": 0.7,
+    "tags": [
+      "drones",
+      "ucrânia",
+      "segurança"
+    ],
+    "img": "img/772ec013400f.jpg",
+    "ts": 1788513919,
+    "addedTs": 1788530015,
+    "urlHash": "772ec013400f",
+    "titleHash": "19b97df3ca30"
+  },
+  {
     "title": "Agent Builder by Airtop",
     "titlePt": "Airtop lança Agent Builder para criar agentes de IA sem código",
     "url": "https://www.producthunt.com/products/airtop",
@@ -7477,196 +7734,5 @@
     "addedTs": 1787959118,
     "urlHash": "7750fe415e7d",
     "titleHash": "86b81c1e90d7"
-  },
-  {
-    "title": "A new class of memory-based AI (MIRaS) published this week",
-    "titlePt": "Nova classe de IA baseada em memória (MIRaS) é publicada",
-    "url": "https://academic.oup.com/nar/article/54/16/gkag833/8769250",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Pesquisa apresenta uma nova arquitetura de IA centrada em memória, chamada MIRaS. Relevante para quem acompanha alternativas a transformers tradicionais. Detalhes técnicos ainda carecem de validação ampla da comunidade acadêmica e da indústria.",
-    "reasonEn": "Research presents a new memory-centered AI architecture called MIRaS. Relevant for those following alternatives to traditional transformers. Technical details still lack broad academic and industry validation.",
-    "score": 0.5,
-    "tags": [
-      "pesquisa",
-      "memória"
-    ],
-    "img": "img/c826de449bb1.jpg",
-    "ts": 1787922815,
-    "addedTs": 1787924276,
-    "urlHash": "c826de449bb1",
-    "titleHash": "3629403995e1"
-  },
-  {
-    "title": "Locus – A small, deterministic safety barrier for AI coding agents",
-    "titlePt": "Locus: barreira de segurança determinística para agentes de codificação",
-    "url": "https://github.com/ahmadshady747-create/LOCUS",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Nova ferramenta que limita de forma determinística o que agentes de IA podem fazer durante tarefas de programação. Importante para empresas que adotam agentes autônomos em código de produção. Sinaliza amadurecimento do ecossistema de segurança para IA.",
-    "reasonEn": "New tool that deterministically limits what AI agents can do during coding tasks. Important for companies adopting autonomous agents in production code. Signals maturation of the AI safety ecosystem.",
-    "score": 0.5,
-    "tags": [
-      "segurança",
-      "agentes"
-    ],
-    "img": "img/0b15399105ec.jpg",
-    "ts": 1787922654,
-    "addedTs": 1787924276,
-    "urlHash": "0b15399105ec",
-    "titleHash": "f32e8539163f"
-  },
-  {
-    "title": "Anthropic gets its first court win over the Pentagon’s supply chain risk label",
-    "titlePt": "Anthropic vence na Justiça contra rótulo de risco do Pentágono",
-    "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "Tribunal federal dos Estados Unidos considerou ilegal o rótulo de risco da cadeia de suprimentos aplicado pelo Pentágono à Anthropic. Vitória relevante para a empresa e para o setor de IA em relação a regulações governamentais. Pode abrir precedente para outros fornecedores de modelos.",
-    "reasonEn": "A US federal court ruled as illegal the supply chain risk label applied by the Pentagon to Anthropic. Relevant victory for the company and the AI sector regarding government regulations. Could set precedent for other model providers.",
-    "score": 0.7,
-    "tags": [
-      "regulação",
-      "anthropic"
-    ],
-    "img": "img/ca50f3998f6e.jpg",
-    "ts": 1787921172,
-    "addedTs": 1787924276,
-    "urlHash": "ca50f3998f6e",
-    "titleHash": "fbd6e926d34b"
-  },
-  {
-    "title": "Hot Chips 2026: Cerebras lays out the future of wafer-scale AI",
-    "titlePt": "Cerebras apresenta futuro da IA em escala de wafer na Hot Chips 2026",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/hot-chips-2026-cerebras-lays-out-the-future-of-wafer-scale-ai-nexus-system-architecture-triples-rack-scale-performance-cs-6-wafer-to-incorporate-stacked-dram",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Cerebras detalhou seus planos para chips em escala de wafer durante a conferência Hot Chips 2026. Importante para entender alternativas de hardware à Nvidia com alto paralelismo. Sinaliza concorrência crescente no segmento de infraestrutura para IA.",
-    "reasonEn": "Cerebras detailed plans for wafer-scale chips during the Hot Chips 2026 conference. Important for understanding Nvidia hardware alternatives with high parallelism. Signals growing competition in the AI infrastructure segment.",
-    "score": 0.5,
-    "tags": [
-      "hardware",
-      "chips"
-    ],
-    "img": "img/702c84071a56.jpg",
-    "ts": 1787921063,
-    "addedTs": 1787924276,
-    "urlHash": "702c84071a56",
-    "titleHash": "91e310a33b45"
-  },
-  {
-    "title": "Why AI doesn't make companies more productive",
-    "titlePt": "Por que a IA não está tornando empresas mais produtivas",
-    "url": "https://www.computerworld.com/article/4215022/why-ai-doesnt-make-companies-more-productive.html",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Análise crítica argumenta que a IA não está gerando os ganhos de produtividade esperados em muitas empresas. Importante para executivos e líderes que estão investindo pesado em IA. Contradiz narrativas mais otimistas comuns no mercado.",
-    "reasonEn": "Critical analysis argues AI is not generating the expected productivity gains in many companies. Important for executives and leaders investing heavily in AI. Contradicts the more optimistic narratives common in the market.",
-    "score": 0.5,
-    "tags": [
-      "produtividade",
-      "análise"
-    ],
-    "img": "img/8069b3b7dae0.jpg",
-    "ts": 1787920270,
-    "addedTs": 1787924276,
-    "urlHash": "8069b3b7dae0",
-    "titleHash": "cece44ab0ec8"
-  },
-  {
-    "title": "Anthropic proposes plumbing spec to link AI agents to lab kit and robots",
-    "titlePt": "Anthropic propõe padrão para conectar agentes a robôs e laboratórios",
-    "url": "https://www.theregister.com/ai-and-ml/2026/08/28/anthropic-proposes-plumbing-spec-to-link-ai-agents-to-lab-kit-and-robots/5293135",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Anthropic propôs uma especificação aberta para integrar agentes de IA a equipamentos de laboratório, instrumentos científicos e robótica. Movimento de padronização relevante para todo o setor. Pode acelerar a integração de IA em ambientes científicos e industriais.",
-    "reasonEn": "Anthropic proposed an open specification to integrate AI agents with lab equipment, scientific instruments, and robotics. Relevant standardization move for the whole sector. Could accelerate AI integration in scientific and industrial environments.",
-    "score": 0.5,
-    "tags": [
-      "anthropic",
-      "robótica",
-      "padrão"
-    ],
-    "img": "img/9bb26c771f02.jpg",
-    "ts": 1787919986,
-    "addedTs": 1787924276,
-    "urlHash": "9bb26c771f02",
-    "titleHash": "9bd69157dbcf"
-  },
-  {
-    "title": "Do Not Trust, Continuously Verify (Your AI Agents)",
-    "titlePt": "Não confie, verifique continuamente seus agentes de IA",
-    "url": "https://nochan.net/b/Internet-Crap/20260714-Do-Not-Trust--Continuously-Verify/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Artigo defende a adoção de verificação contínua e zero-trust para agentes de IA autônomos. Conceito de segurança relevante para times implantando agentes em produção. Diretriz útil, embora ainda sem padrões consolidados na indústria.",
-    "reasonEn": "Article argues for continuous verification and zero-trust for autonomous AI agents. Relevant security concept for teams deploying agents in production. Useful guideline, although still without consolidated industry standards.",
-    "score": 0.5,
-    "tags": [
-      "segurança",
-      "agentes"
-    ],
-    "img": "img/e615263a5d2c.jpg",
-    "ts": 1787919932,
-    "addedTs": 1787924276,
-    "urlHash": "e615263a5d2c",
-    "titleHash": "11f2348d650a"
-  },
-  {
-    "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-    "titlePt": "Executivo da Meta vai para OpenAI em meio a escrutínio na Índia",
-    "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "Mais um executivo sênior da Meta se muda para a OpenAI, em um momento de crescente pressão regulatória da Meta na Índia. Sinaliza a contínua disputa por talentos em IA entre big techs. Pode indicar tendências de reorganização no setor.",
-    "reasonEn": "Another senior Meta executive moves to OpenAI amid growing regulatory pressure on Meta in India. Signals the ongoing AI talent war between big techs. May indicate reorganization trends in the sector.",
-    "score": 0.5,
-    "tags": [
-      "executivos",
-      "meta"
-    ],
-    "img": "img/1b0375ab2430.jpg",
-    "ts": 1787919666,
-    "addedTs": 1787924276,
-    "urlHash": "1b0375ab2430",
-    "titleHash": "7738d2f9b270"
-  },
-  {
-    "title": "Adobe is adding more AI to Photoshop",
-    "titlePt": "Adobe Adiciona Mais Recursos de IA ao Photoshop",
-    "url": "https://www.theverge.com/tech/985491/adobe-photoshop-ai-assisted-editor-markup",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "A Adobe anunciou novos recursos de inteligência artificial integrados ao Photoshop para edição de imagens. As ferramentas devem acelerar fluxos de trabalho de designers e criadores. Profissionais visuais e desenvolvedores de conteúdo devem ficar atentos às mudanças.",
-    "reasonEn": "Adobe announced new AI features integrated into Photoshop for image editing. The tools should speed up workflows for designers and creators. Visual professionals and content developers should pay attention to the changes.",
-    "score": 0.5,
-    "tags": [
-      "adobe",
-      "photoshop",
-      "criatividade"
-    ],
-    "img": "img/adc17ded0689.jpg",
-    "ts": 1787836098,
-    "addedTs": 1787924276,
-    "urlHash": "adc17ded0689",
-    "titleHash": "a6c11daf1daa"
   }
 ]
