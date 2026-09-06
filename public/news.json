@@ -1,5 +1,153 @@
 [
   {
+    "title": "Have the frontier labs mixed up AI safety and security?",
+    "titlePt": "Laboratórios de fronteira confundiram segurança de IA com segurança nacional?",
+    "url": "https://martinalderson.com/posts/ai-safety-vs-security/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma discussão em alta no Hacker News questiona se empresas como OpenAI, Anthropic e Google estão confundindo segurança técnica de IA com segurança nacional. O texto argumenta que os termos foram tratados como sinônimos, mas têm implicações bem diferentes para o público. Para qualquer pessoa que usa modelos de fronteira, entender essa distinção ajuda a avaliar melhor os riscos. É leitura recomendada para quem quer fugir do exagero.",
+    "reasonEn": "A trending Hacker News discussion questions whether OpenAI, Anthropic and Google are conflating technical AI safety with national security. The piece argues the terms were used as synonyms when they have very different implications for the public. For anyone using frontier models, understanding this distinction helps evaluate risks more honestly. Recommended reading for those tired of the hype.",
+    "score": 0.65,
+    "tags": [
+      "segurança",
+      "regulação"
+    ],
+    "img": "img/ba1cf40e3709.jpg",
+    "ts": 1788736681,
+    "addedTs": 1788736923,
+    "urlHash": "ba1cf40e3709",
+    "titleHash": "add3ca79882c"
+  },
+  {
+    "title": "Show HN: Chrome-bridge – let any AI agent drive your real logged-in Chrome",
+    "titlePt": "Chrome-bridge deixa qualquer agente de IA controlar seu navegador logado",
+    "url": "https://github.com/siropkin/chrome-bridge",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um projeto mostrado no Hacker News permite que agentes de IA operem dentro do seu navegador Chrome já autenticado em sites. Isso elimina parte do trabalho de automação que exigia logins manuais e credenciais de acesso. Para quem constrói agentes, é um atalho poderoso, mas também abre questões sérias de segurança. Vale testar em ambientes controlados antes de usar em produção.",
+    "reasonEn": "A Hacker News Show HN project lets AI agents operate inside your already-logged-in Chrome browser. This removes part of the automation work that required manual logins and access tokens. For agent builders it is a powerful shortcut, but it also raises serious security questions. Worth testing in controlled environments before production use.",
+    "score": 0.55,
+    "tags": [
+      "agente",
+      "segurança"
+    ],
+    "img": "img/624f72581d0a.jpg",
+    "ts": 1788736039,
+    "addedTs": 1788736923,
+    "urlHash": "624f72581d0a",
+    "titleHash": "9322181bf34c"
+  },
+  {
+    "title": "GOP issues stark warning to AI companies",
+    "titlePt": "Republicanos dos EUA emitem alerta severo a empresas de IA",
+    "url": "https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Líderes do Partido Republicano nos Estados Unidos divulgaram um aviso direto às grandes empresas de inteligência artificial. O recado pede responsabilidade e deixa claro que novas regulamentações podem vir caso a indústria não se autorregule. Para empresas e desenvolvedores americanos, isso significa mais atenção à conformidade legal. Internautas comuns devem esperar debates mais duros nos próximos meses.",
+    "reasonEn": "US Republican Party leaders issued a direct warning to major AI companies. The message demands responsibility and signals that new regulations may come if the industry does not self-regulate. For American companies and developers this means more compliance attention. General users should expect harsher policy debates in coming months.",
+    "score": 0.55,
+    "tags": [
+      "regulação"
+    ],
+    "img": "img/e187430167f1.jpg",
+    "ts": 1788735580,
+    "addedTs": 1788736923,
+    "urlHash": "e187430167f1",
+    "titleHash": "2ad23a3fa9f8"
+  },
+  {
+    "title": "'Model fatigue' sets in as AI labs race to roll out new versions",
+    "titlePt": "Fadiga de modelos atinge usuários diante da enxurrada de lançamentos de IA",
+    "url": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma matéria no Hacker News discute a fadiga que tomou conta de usuários e empresas diante da avalanche de novos modelos de IA. Cada semana surge uma versão com nome diferente, comparativos inflados e promessas parecidas. Para desenvolvedores, isso significa repensar critérios de escolha e evitar trocar de fornecedor a cada lançamento. O conselho geral é esperar por resultados de testes reais antes de migrar.",
+    "reasonEn": "A Hacker News piece discusses the fatigue setting in for users and companies facing the avalanche of new AI models. Each week brings another version with a new name, inflated benchmarks and similar promises. For developers this means rethinking selection criteria and avoiding constant provider swaps. The general advice is to wait for real benchmark numbers before migrating.",
+    "score": 0.6,
+    "tags": [
+      "modelo",
+      "indústria"
+    ],
+    "img": "img/40ff8d57a306.jpg",
+    "ts": 1788733574,
+    "addedTs": 1788736923,
+    "urlHash": "40ff8d57a306",
+    "titleHash": "9fb0c7cf7679"
+  },
+  {
+    "title": "Emma: The GP's AI Receptionist doesn't understand Yorkshire or security",
+    "titlePt": "Recepcionista de IA de clínica britânica falha em sotaque e segurança",
+    "url": "https://floorjellyboot.infinityfree.io/?u=/2026/09/05/emma-the-gps-ai-receptionist-doesnt-understand-yorkshire-or-security/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma reportagem mostra falhas graves em Emma, a recepcionista virtual de uma clínica britânica usada para atender pacientes. O sistema tropeça em sotaques regionais como o de Yorkshire e apresenta vulnerabilidades de segurança preocupantes. O caso serve de alerta para clínicas e empresas que pensam em substituir atendimento humano por IA sem testes profundos. Para consumidores, reforça a importância de checar quem está de fato atendendo você.",
+    "reasonEn": "A report exposes serious flaws in Emma, a UK clinic's virtual AI receptionist. The system stumbles on regional accents like Yorkshire and shows worrying security gaps. The case is a warning for clinics and companies thinking of replacing human reception with AI without deep testing. For consumers it reinforces the importance of checking who is really answering.",
+    "score": 0.55,
+    "tags": [
+      "segurança",
+      "indústria"
+    ],
+    "img": "img/42a5f7cd2ee2.jpg",
+    "ts": 1788733518,
+    "addedTs": 1788736923,
+    "urlHash": "42a5f7cd2ee2",
+    "titleHash": "a94028b7284f"
+  },
+  {
+    "title": "Artifactor: Visual HTML editor for AI-generated artifacts",
+    "titlePt": "Artifactor: editor visual de HTML para artefatos de IA",
+    "url": "https://colliber.com/artifactor/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Artifactor é um editor visual de HTML criado para modificar artefatos gerados por inteligência artificial de forma direta e rápida. A ferramenta permite que usuários ajustem a saída de modelos de linguagem sem precisar mexer no código bruto, oferecendo uma interface amigável. Isso importa porque muita gente usa IA para gerar protótipos de páginas e interfaces, mas ainda enfrenta dificuldade para refinar o resultado final. Desenvolvedores e designers se beneficiam ao conseguir iterar mais depressa sobre o material gerado.",
+    "reasonEn": "Artifactor is a visual HTML editor designed to modify AI-generated artifacts quickly and intuitively. The tool lets users adjust the output of language models without touching raw code, offering a friendly visual interface. This matters because many people use AI to generate page and interface prototypes but still struggle to refine the final result. Developers and designers benefit by being able to iterate faster on AI-generated material.",
+    "score": 0.5,
+    "tags": [
+      "ferramenta",
+      "desenvolvedores",
+      "editor"
+    ],
+    "img": "img/5044e9db9704.jpg",
+    "ts": 1788725988,
+    "addedTs": 1788736923,
+    "urlHash": "5044e9db9704",
+    "titleHash": "0c9e7223d61b"
+  },
+  {
+    "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+    "titlePt": "Como o escritório Gilbert + Tobin governa e escala IA com a OpenAI",
+    "url": "https://openai.com/index/gilbert-tobin",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "O escritório de advocacia Gilbert + Tobin implementou uma estrutura de governança para usar a inteligência artificial da OpenAI em larga escala. A empresa criou regras claras para controlar como os advogados utilizam a ferramenta, garantindo segurança e conformidade com normas do setor jurídico. Isso importa porque firmas grandes e reguladas precisam encontrar um equilíbrio entre inovar com IA e evitar riscos éticos ou legais. O caso serve de exemplo para outros escritórios e empresas de setores altamente regulados.",
+    "reasonEn": "Law firm Gilbert + Tobin implemented a governance framework to scale OpenAI's artificial intelligence across the organization. The firm created clear rules to control how lawyers use the tool, ensuring security and compliance with legal industry standards. This matters because large regulated firms must find a balance between innovating with AI and avoiding ethical or legal risks. The case serves as an example for other law firms and regulated-sector companies.",
+    "score": 0.5,
+    "tags": [
+      "governança",
+      "advocacia",
+      "openai"
+    ],
+    "img": "img/330fba64551d.jpg",
+    "ts": 1788224400,
+    "addedTs": 1788736923,
+    "urlHash": "330fba64551d",
+    "titleHash": "b5d09f499e4f"
+  },
+  {
     "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
     "titlePt": "Autores contestam divisão de indenização do acordo da Anthropic",
     "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
@@ -8268,111 +8416,5 @@
     "addedTs": 1788143333,
     "urlHash": "ad89fb510e3c",
     "titleHash": "1c05c306f4bb"
-  },
-  {
-    "title": "OpenAI acquires Mac Minis, Mac Studios for AI training",
-    "titlePt": "OpenAI compra Macs Mini e Studio para treinar IA",
-    "url": "https://cryptobriefing.com/openai-acquires-thousands-of-mac-minis-mac-studios-for-ai-training-the/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A OpenAI está adquirindo milhares de Macs Mini e Mac Studio da Apple para usar como infraestrutura de treinamento de modelos. A escolha chama atenção porque mostra que mesmo gigantes da IA recorrem a hardware de consumo quando precisam escalar rápido. Para desenvolvedores, isso indica demanda forte por essas máquinas e possíveis gargalos de estoque. É uma movimentação relevante do ponto de vista de infraestrutura.",
-    "reasonEn": "OpenAI is acquiring thousands of Apple Mac Mini and Mac Studio units to use as AI training infrastructure. The choice stands out because it shows that even AI giants turn to consumer hardware when they need to scale fast. For developers, this signals strong demand for these machines and possible supply bottlenecks. It's a relevant infrastructure move worth knowing about.",
-    "score": 0.7,
-    "tags": [
-      "openai",
-      "infraestrutura",
-      "apple"
-    ],
-    "img": "img/b82470da9351.jpg",
-    "ts": 1788126500,
-    "addedTs": 1788128084,
-    "urlHash": "b82470da9351",
-    "titleHash": "2b3624582305"
-  },
-  {
-    "title": "Debian community allows contributors to use AI",
-    "titlePt": "Comunidade Debian libera uso de IA por contribuidores",
-    "url": "https://www.theregister.com/ai-and-ml/2026/08/30/debian-votes-to-let-contributors-code-with-ai/5293421",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A comunidade do Debian decidiu formalizar regras permitindo que contribuidores usem ferramentas de IA em partes do trabalho do projeto. A medida busca equilibrar produtividade com responsabilidade sobre o código gerado. Para desenvolvedores open source, isso abre precedente importante sobre como projetos grandes lidam com IA. Ainda há dúvidas sobre limites práticos e revisão humana.",
-    "reasonEn": "The Debian community formalized rules allowing contributors to use AI tools in parts of the project's work. The move aims to balance productivity with responsibility over generated code. For open source developers, this sets an important precedent on how large projects handle AI. Practical limits and human review remain open questions.",
-    "score": 0.55,
-    "tags": [
-      "open-source",
-      "política"
-    ],
-    "img": "img/ba15b64c9539.jpg",
-    "ts": 1788124457,
-    "addedTs": 1788128084,
-    "urlHash": "ba15b64c9539",
-    "titleHash": "eb562a4b8693"
-  },
-  {
-    "title": "Continuous Diffusion Language Models (CDLM's)",
-    "titlePt": "Modelos de linguagem por difusão contínua (CDLM)",
-    "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O trabalho apresenta CDLMs, uma abordagem que combina difusão com modelagem de linguagem para gerar texto de forma diferente dos transformers tradicionais. A promessa é potencialmente mais velocidade e controle sobre a geração. Para engenheiros de ML, é um artigo técnico interessante, mas ainda distante de aplicação prática imediata. Vale acompanhar como linha de pesquisa.",
-    "reasonEn": "The paper introduces CDLMs, an approach combining diffusion with language modeling to generate text differently from traditional transformers. The promise is potentially faster generation and finer control. For ML engineers it's an interesting technical read, but still far from immediate practical use. Worth tracking as a research direction.",
-    "score": 0.5,
-    "tags": [
-      "pesquisa",
-      "modelo"
-    ],
-    "img": "img/109065e30fac.jpg",
-    "ts": 1788122813,
-    "addedTs": 1788128084,
-    "urlHash": "109065e30fac",
-    "titleHash": "65e6805f862c"
-  },
-  {
-    "title": "The XGBoost Vector-Leaf Model",
-    "titlePt": "O modelo XGBoost com folhas vetoriais",
-    "url": "https://xgboost.ai/2026/08/25/introducing-the-xgboost-vector-leaf-model",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo propõe uma modificação no XGBoost usando vetores nas folhas em vez de escalares, o que pode melhorar expressividade sem grande custo computacional. Para quem usa gradient boosting em produção, é uma otimização concreta a testar. O impacto depende do tipo de dado, mas é leitura curta e prática. Pode interessar a equipes de dados que já dependem de XGBoost.",
-    "reasonEn": "The paper proposes modifying XGBoost to use vectors in leaves instead of scalars, potentially improving expressiveness without major compute cost. For teams using gradient boosting in production, this is a concrete optimization to try. Impact depends on the data, but it's a short, practical read. Relevant for data teams already relying on XGBoost.",
-    "score": 0.5,
-    "tags": [
-      "ml",
-      "pesquisa"
-    ],
-    "img": "img/fd4e4e7e21af.jpg",
-    "ts": 1788120198,
-    "addedTs": 1788128084,
-    "urlHash": "fd4e4e7e21af",
-    "titleHash": "e2cb3d99f63e"
-  },
-  {
-    "title": "We tested how AI chatbots would handle foreign propaganda",
-    "titlePt": "Testamos como chatbots de IA reagem à propaganda estrangeira",
-    "url": "https://www.npr.org/2026/08/30/nx-s1-5876436/chatbots-search-propaganda",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O estudo submeteu grandes chatbots a simulações de propaganda estrangeira para ver se eles amplificam, neutralizam ou falham em detectar tentativas de manipulação. Os resultados mostram vulnerabilidades reais em todos os modelos testados. Para qualquer pessoa que use IA como fonte de informação, é alerta importante sobre confiança cega. Mostra que a moderação ainda tem lacunas sérias.",
-    "reasonEn": "The study put major chatbots through foreign propaganda simulations to see whether they amplify, neutralize, or fail to detect manipulation attempts. The results show real vulnerabilities across all tested models. For anyone using AI as an information source, it's a warning against blind trust. It shows moderation still has serious gaps.",
-    "score": 0.55,
-    "tags": [
-      "segurança",
-      "estudo"
-    ],
-    "img": "img/fa3182fce451.jpg",
-    "ts": 1788117158,
-    "addedTs": 1788128084,
-    "urlHash": "fa3182fce451",
-    "titleHash": "3ff68ede35eb"
   }
 ]
