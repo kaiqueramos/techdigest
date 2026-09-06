@@ -1,5 +1,246 @@
 [
   {
+    "title": "AI coding agents forget the codebase between sessions",
+    "titlePt": "Agentes de código com IA esquecem o projeto entre sessões",
+    "url": "https://github.com/thecolourfoundation/rune",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Discussão em alta no Hacker News revela um problema persistente: agentes de programação com IA perdem o contexto do código toda vez que a sessão termina. Isso obriga desenvolvedores a reexplicar o projeto a cada nova interação, desperdiçando tempo e tokens. Afeta diretamente quem usa ferramentas como Cursor, Claude Code e similares. Não é a mesma história da solução de memória já publicada, e sim o problema em si.",
+    "reasonEn": "A trending Hacker News discussion highlights a persistent problem: AI coding agents lose codebase context every time a session ends. Developers must re-explain the project on every new interaction, wasting time and tokens. It directly affects users of tools like Cursor and Claude Code. This focuses on the problem itself, not the memory solution already published.",
+    "score": 0.75,
+    "tags": [
+      "agentes",
+      "desenvolvimento",
+      "memória"
+    ],
+    "img": "img/993a611a18ef.jpg",
+    "ts": 1788698713,
+    "addedTs": 1788700685,
+    "urlHash": "993a611a18ef",
+    "titleHash": "9dbcf7901ba1"
+  },
+  {
+    "title": "TCS commits $7.4B to a one-gigawatt AI campus in Hyderabad",
+    "titlePt": "TCS investe US$ 7,4 bilhões em campus de IA de 1 gigawatt em Hyderabad",
+    "url": "https://thenextweb.com/news/tcs-hypervault-one-gigawatt-hyderabad-campus-7-4-billion-water-neutral-claim-eu-data-centre-reporting-delegated-regulation-2024-1364",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A gigante indiana de TI TCS anunciou um investimento massivo de US$ 7,4 bilhões para construir um campus de IA de um gigawatt em Hyderabad, na Índia. É um dos maiores compromissos já feitos por uma empresa de serviços de tecnologia para infraestrutura dedicada a IA. Mostra a corrida global por capacidade de computação e fortalece a Índia como polo de IA. Impacta diretamente o mercado de data centers e fornecedores de chips.",
+    "reasonEn": "Indian IT giant TCS announced a massive $7.4 billion investment to build a one-gigawatt AI campus in Hyderabad, India. It is one of the largest commitments ever made by a services firm for AI-dedicated infrastructure. The move underscores the global race for compute capacity and cements India's role as an AI hub, impacting data center and chip supplier markets.",
+    "score": 0.85,
+    "tags": [
+      "infraestrutura",
+      "investimento",
+      "índia"
+    ],
+    "img": "img/db97858f867c.jpg",
+    "ts": 1788694301,
+    "addedTs": 1788700685,
+    "urlHash": "db97858f867c",
+    "titleHash": "d48d5b388482"
+  },
+  {
+    "title": "A Blacklisted Chinese Tech Giant Kept Buying Nvidia's Best A.I. Chips",
+    "titlePt": "Gigante chinesa na lista negra continuou comprando as melhores chips de IA da Nvidia",
+    "url": "https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma grande empresa de tecnologia chinesa, mesmo estando na lista de sanções dos EUA, conseguiu adquirir chips avançados de IA da Nvidia por meio de intermediários. A reportagem levanta questões sobre a eficácia do controle de exportação de semicondutores. Tem implicações geopolíticas e de segurança nacional relevantes. Afeta diretamente o mercado de chips e as tensões entre EUA e China.",
+    "reasonEn": "A major Chinese tech firm on US sanctions lists managed to acquire advanced Nvidia AI chips through intermediaries. The report raises questions about the effectiveness of semiconductor export controls, with significant geopolitical and national security implications. It directly affects the chip market and US-China tensions.",
+    "score": 0.85,
+    "tags": [
+      "nvidia",
+      "geopolítica",
+      "chips"
+    ],
+    "img": "img/5943a1d5f9a9.jpg",
+    "ts": 1788692828,
+    "addedTs": 1788700685,
+    "urlHash": "5943a1d5f9a9",
+    "titleHash": "c51955e55315"
+  },
+  {
+    "title": "Show HN: Wayfinder – A reference implementation for evaluating AI applications",
+    "titlePt": "Wayfinder: implementação de referência para avaliar aplicações de IA",
+    "url": "https://github.com/DivakarUngatla/wayfinder",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Projeto Show HN que oferece uma referência aberta para avaliar aplicações de IA em produção. Ajuda times a medir qualidade, latência e custo de forma padronizada. Tema relevante para desenvolvedores que precisam defender investimentos em IA com dados. Não é a mesma história da reportagem genérica sobre avaliar LLMs já publicada, mas o foco é diferente e prático.",
+    "reasonEn": "A Show HN project offering an open reference for evaluating AI applications in production. It helps teams measure quality, latency, and cost in a standardized way. Useful for developers needing data to justify AI investments. A different angle from the generic LLM evaluation piece already published.",
+    "score": 0.65,
+    "tags": [
+      "avaliação",
+      "open-source"
+    ],
+    "img": "img/2e433868b985.jpg",
+    "ts": 1788691553,
+    "addedTs": 1788700685,
+    "urlHash": "2e433868b985",
+    "titleHash": "69ba3a077eda"
+  },
+  {
+    "title": "Nvidia is the central bank of AI",
+    "titlePt": "Nvidia é o banco central da IA",
+    "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Artigo de opinião que compara o poder da Nvidia ao de um banco central, controlando o 'supply' de capacidade computacional que move toda a indústria de IA. Traz uma analogia útil para entender dependência estratégica. Não traz dados novos, mas a metáfora é forte. Vale a leitura para executivos e investidores.",
+    "reasonEn": "An opinion piece comparing Nvidia's power to that of a central bank, controlling the supply of compute capacity that drives the entire AI industry. A useful analogy to understand strategic dependence without fresh data, but a strong metaphor worth reading for executives and investors.",
+    "score": 0.6,
+    "tags": [
+      "nvidia",
+      "opinião",
+      "mercado"
+    ],
+    "img": "img/bacf7aac6987.jpg",
+    "ts": 1788690013,
+    "addedTs": 1788700685,
+    "urlHash": "bacf7aac6987",
+    "titleHash": "a517cffd8578"
+  },
+  {
+    "title": "Podcast: We Spoke to an Amazon Worker Destroying Books for AI",
+    "titlePt": "Podcast: conversamos com trabalhador da Amazon que destrói livros para treinar IA",
+    "url": "https://www.404media.co/email/ed687963-910c-488c-95d5-b06f911b214e/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Episódio de podcast investigativo em que um trabalhador da Amazon conta como é destruir livros físicos para alimentar modelos de IA. Revela o lado humano e muitas vezes opaco da cadeia de dados que treina sistemas inteligentes. Importante para entender custos sociais e éticos da IA. Toca em temas de treinamento de dados que já foram citados, mas com foco específico em literatura.",
+    "reasonEn": "An investigative podcast episode where an Amazon worker describes destroying physical books to feed AI models. It reveals the human and often opaque side of the data chain that trains AI systems, important for understanding social and ethical costs. Related to data training themes already covered, but with a specific literary focus.",
+    "score": 0.75,
+    "tags": [
+      "ética",
+      "treinamento",
+      "trabalho"
+    ],
+    "img": "img/fdf8f1ab21b8.jpg",
+    "ts": 1788689516,
+    "addedTs": 1788700685,
+    "urlHash": "fdf8f1ab21b8",
+    "titleHash": "e135ad1b7f66"
+  },
+  {
+    "title": "Trump administration officials wrestling with the spiritual consequences of AI",
+    "titlePt": "Autoridades do governo Trump debatem as consequências espirituais da IA",
+    "url": "https://www.wsj.com/tech/ai/vance-called-ai-satanic-he-struck-a-chord-among-christian-republicans-dcc34048",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Reportagem sobre discussões internas na administração Trump sobre o impacto espiritual e filosófico da inteligência artificial. Mostra que o debate sobre IA está chegando a dimensões além da técnica, envolvendo ética e visão de mundo. Importante para entender o cenário regulatório futuro. Sem detalhes concretos de política pública ainda.",
+    "reasonEn": "A report on internal Trump administration discussions about the spiritual and philosophical impact of AI. It shows the AI debate is expanding beyond technical concerns into ethics and worldview. Useful for understanding future regulatory direction, though no concrete policy details are provided.",
+    "score": 0.5,
+    "tags": [
+      "regulação",
+      "ética",
+      "governo"
+    ],
+    "img": "img/f790b52a2ada.jpg",
+    "ts": 1788686741,
+    "addedTs": 1788700685,
+    "urlHash": "f790b52a2ada",
+    "titleHash": "7debe32ee214"
+  },
+  {
+    "title": "Facelift: AI Website Customizer and Visual CSS Editor",
+    "titlePt": "Facelift: customizador de sites com IA e editor visual de CSS",
+    "url": "https://getfacelift.app/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Facelift é uma nova ferramenta que usa IA para customizar sites visualmente, permitindo editar CSS sem escrever código manualmente. O foco é acelerar ajustes de layout, cores e estilos por meio de comandos em linguagem natural. Pode economizar tempo de desenvolvedores e designers em iterações rápidas. Interessante para quem prototipa landing pages ou ajusta interfaces com frequência. Ainda não há dados sobre a profundidade de controle oferecida.",
+    "reasonEn": "Facelift is a new AI-powered tool that customizes websites visually and lets users edit CSS without writing code by hand. It speeds up layout, color and style tweaks through natural-language prompts. It can save time for developers and designers doing rapid iterations. Useful for anyone prototyping landing pages or tweaking interfaces often. No deep details yet on how much control the AI actually offers.",
+    "score": 0.5,
+    "tags": [
+      "ferramenta",
+      "desenvolvimento",
+      "css"
+    ],
+    "img": "img/630ae9c4dc49.jpg",
+    "ts": 1788685241,
+    "addedTs": 1788700685,
+    "urlHash": "630ae9c4dc49",
+    "titleHash": "67cdde3a077f"
+  },
+  {
+    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+    "titlePt": "Treinando e ajustando modelos de embedding multi-vetor com Sentence Transformers",
+    "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "O tutorial da Hugging Face explica como treinar e ajustar modelos de embedding multi-vetor usando a biblioteca Sentence Transformers. Embeddings multi-vetor melhoram busca semântica em tarefas complexas como resposta a perguntas e reranking. O conteúdo é técnico, com código e exemplos práticos. Relevante para engenheiros de ML que trabalham com retrieval augmented generation. Ajuda a reduzir custos de busca em bases grandes.",
+    "reasonEn": "The Hugging Face tutorial explains how to train and fine-tune multi-vector embedding models using Sentence Transformers. Multi-vector embeddings improve semantic search on complex tasks like question answering and reranking. The content is technical with code and practical examples. It is relevant for ML engineers working on retrieval augmented generation. It can help cut search costs on large knowledge bases.",
+    "score": 0.5,
+    "tags": [
+      "embedding",
+      "rag",
+      "treinamento"
+    ],
+    "img": "img/17177c100c91.jpg",
+    "ts": 1787702400,
+    "addedTs": 1788700685,
+    "urlHash": "17177c100c91",
+    "titleHash": "2f36da44fbda"
+  },
+  {
+    "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+    "titlePt": "Inferência até 3,2 vezes mais rápida com LFM2.5-DSpark",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "A Liquid AI publicou o LFM2.5-DSpark, uma variante do modelo LFM2.5 otimizada para inferência rápida, prometendo até 3,2x de aceleração. O ganho vem de técnicas como decodificação especulativa ou destilação, comuns em modelos focados em baixa latência. É relevante para quem roda LLMs em produção e quer cortar custo por requisição. Os benchmarks citados precisam ser validados em casos reais. Vale acompanhar se a eficiência se mantém em cargas diversas.",
+    "reasonEn": "Liquid AI released LFM2.5-DSpark, a variant of LFM2.5 optimized for fast inference, claiming up to 3.2x speedups. The gain comes from techniques like speculative decoding or distillation, common in low-latency models. It matters for teams running LLMs in production who want to cut per-request cost. The cited benchmarks still need validation in real workloads. It is worth tracking whether efficiency holds across diverse tasks.",
+    "score": 0.55,
+    "tags": [
+      "inferência",
+      "modelo",
+      "performance"
+    ],
+    "img": "img/eab5285cfdeb.jpg",
+    "ts": 1787244777,
+    "addedTs": 1788700685,
+    "urlHash": "eab5285cfdeb",
+    "titleHash": "e59d3783eb75"
+  },
+  {
+    "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+    "titlePt": "Agentes gerenciados na API Gemini: 3.6 Flash, hooks e mais novidades",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+    "source": "Google AI",
+    "sources": [
+      "Google AI"
+    ],
+    "reason": "O Google anunciou novos recursos da API Gemini, incluindo Managed Agents, suporte ao modelo 3.6 Flash e um sistema de hooks para controlar o ciclo de vida dos agentes. Managed Agents reduzem a complexidade de orquestrar chamadas, ferramentas e memória persistente. Hooks permitem interceptar eventos como antes e depois de tool calls, útil para logging e guardrails. É uma atualização importante para desenvolvedores que constroem produtos agentic. Torna a stack do Google mais competitiva frente a frameworks como o Agent SDK da OpenAI.",
+    "reasonEn": "Google announced new Gemini API features, including Managed Agents, support for the 3.6 Flash model, and a hooks system to control agent lifecycles. Managed Agents reduce the complexity of orchestrating calls, tools, and persistent memory. Hooks let developers intercept events like before and after tool calls, useful for logging and guardrails. It is an important update for developers building agentic products. It makes Google's stack more competitive with frameworks like OpenAI's Agent SDK.",
+    "score": 0.75,
+    "tags": [
+      "gemini",
+      "api",
+      "agentes"
+    ],
+    "img": "img/55560096859e.jpg",
+    "ts": 1785254400,
+    "addedTs": 1788700685,
+    "urlHash": "55560096859e",
+    "titleHash": "2015e3833d12"
+  },
+  {
     "title": "Agentic Video Understanding in Gemini",
     "titlePt": "Gemini ganha compreensão agentiva de vídeo",
     "url": "https://www.producthunt.com/products/google",
@@ -8182,237 +8423,5 @@
     "addedTs": 1788100505,
     "urlHash": "94c768ce3675",
     "titleHash": "bf2768c74b26"
-  },
-  {
-    "title": "Large language models take the original politicalcompass.org test",
-    "titlePt": "Modelos de linguagem passam pelo teste original do Political Compass",
-    "url": "https://aipolcom.net/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Pesquisadores submeteram grandes modelos de linguagem ao teste clássico do site politicalcompass.org, que mapeia visões políticas em dois eixos. Os resultados revelam como diferentes IAs se posicionam ideologicamente, o que é importante porque muitas pessoas tratam chatbots como fontes neutras. Isso afeta desenvolvedores que usam LLMs em aplicações sensíveis e usuários que confiam em respostas de IA. Vale conhecer para entender os vieses embutidos nos modelos.",
-    "reasonEn": "Researchers put large language models through the classic politicalcompass.org test, which maps political views on two axes. The results reveal how different AIs position themselves ideologically, which matters because many people treat chatbots as neutral sources. This affects developers using LLMs in sensitive applications and users relying on AI answers. Worth knowing to understand biases embedded in models.",
-    "score": 0.5,
-    "tags": [
-      "pesquisa",
-      "vieses"
-    ],
-    "img": "img/20b0d86a4127.jpg",
-    "ts": 1788079046,
-    "addedTs": 1788082532,
-    "urlHash": "20b0d86a4127",
-    "titleHash": "ea4207673f98"
-  },
-  {
-    "title": "Show HN: Photo Manager That Find and Organize Screenshots with Private, Local AI",
-    "titlePt": "Gerenciador de fotos que organiza capturas de tela com IA local",
-    "url": "https://ringlochid.me/imagesage/index.html",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um desenvolvedor mostrou um projeto que usa inteligência artificial rodando localmente no dispositivo para encontrar e organizar capturas de tela automaticamente. A grande vantagem é a privacidade, já que nenhum dado sai do seu computador ou celular. Isso é relevante para pessoas preocupadas com nuvem e privacidade. Para desenvolvedores, é um bom exemplo de aplicação prática de modelos locais leves.",
-    "reasonEn": "A developer showed a project that uses AI running locally on the device to find and organize screenshots automatically. The big advantage is privacy, since no data leaves your computer or phone. This is relevant for people concerned about cloud and privacy. For developers, it's a good example of practical application of lightweight local models.",
-    "score": 0.5,
-    "tags": [
-      "privacidade",
-      "local"
-    ],
-    "img": "img/d6cf225f2df5.jpg",
-    "ts": 1788074924,
-    "addedTs": 1788082532,
-    "urlHash": "d6cf225f2df5",
-    "titleHash": "74485868a008"
-  },
-  {
-    "title": "Hotline for AI Agents to Report Safety Incidents",
-    "titlePt": "Linha direta para agentes de IA reportarem incidentes de segurança",
-    "url": "https://agenthotline.ai/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Foi criada uma espécie de hotline onde agentes de inteligência artificial podem reportar problemas e incidentes de segurança que encontrarem durante suas operações. Isso é um passo importante para criar responsabilidade e monitoramento no crescente ecossistema de agentes autônomos. Para desenvolvedores que constroem agentes, é um sinal de que o setor está amadurecendo em relação à segurança. Vale acompanhar para entender novos padrões de governança.",
-    "reasonEn": "A kind of hotline has been created where AI agents can report safety issues and incidents they encounter during operations. This is an important step towards creating accountability and monitoring in the growing ecosystem of autonomous agents. For developers building agents, it's a sign the industry is maturing around security. Worth following to understand new governance standards.",
-    "score": 0.7,
-    "tags": [
-      "segurança",
-      "agentes"
-    ],
-    "img": "img/40bb0dae1d84.jpg",
-    "ts": 1788073904,
-    "addedTs": 1788082532,
-    "urlHash": "40bb0dae1d84",
-    "titleHash": "c50659dd9e3c"
-  },
-  {
-    "title": "How AI Is Reshaping Pediatric Imaging",
-    "titlePt": "Como a IA está remodelando a imagem pediátrica",
-    "url": "https://www.childrenshospitals.org/news/childrens-hospitals-today/2026/08/how-ai-is-reshaping-pediatric-imaging",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A inteligência artificial está sendo cada vez mais usada em exames de imagem de crianças, como radiografias e tomografias, ajudando médicos a detectar doenças mais cedo e com mais precisão. Isso é relevante para profissionais de saúde, mas também para pais e pacientes que usam esses sistemas. Para desenvolvedores, mostra um caso de uso sério de visão computacional em medicina. É uma tendência que promete melhorar diagnósticos em hospitais.",
-    "reasonEn": "AI is increasingly being used in pediatric imaging exams, like X-rays and CT scans, helping doctors detect diseases earlier and more accurately. This is relevant for healthcare professionals, but also for parents and patients using these systems. For developers, it shows a serious use case for computer vision in medicine. It's a trend that promises to improve diagnoses in hospitals.",
-    "score": 0.6,
-    "tags": [
-      "saúde",
-      "visão"
-    ],
-    "img": "img/629d08a0fd0e.jpg",
-    "ts": 1788073673,
-    "addedTs": 1788082532,
-    "urlHash": "629d08a0fd0e",
-    "titleHash": "48e909018ba4"
-  },
-  {
-    "title": "The Cybersecurity Apocalypse Is Coming in 'Months,' AI Giants Warn",
-    "titlePt": "Gigantes da IA alertam: apocalipse cibernético está a meses de distância",
-    "url": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Grandes empresas de inteligência artificial estão emitindo alertas graves sobre uma crise de cibersegurança iminente, que poderia acontecer nos próximos meses. O aviso combina o poder crescente da IA generativa com a facilidade de explorar falhas em sistemas digitais. Isso afeta desenvolvedores, empresas e usuários comuns, pois ataques automatizados podem escalar rapidamente. É leitura obrigatória para quem trabalha com segurança ou gerencia sistemas online.",
-    "reasonEn": "Major AI companies are issuing serious warnings about an imminent cybersecurity crisis, which could happen in the coming months. The warning combines the growing power of generative AI with the ease of exploiting flaws in digital systems. This affects developers, companies and common users, as automated attacks can scale quickly. Required reading for anyone working with security or managing online systems.",
-    "score": 0.85,
-    "tags": [
-      "segurança",
-      "alerta"
-    ],
-    "img": "img/16f8bc2bcf28.jpg",
-    "ts": 1788073361,
-    "addedTs": 1788082532,
-    "urlHash": "16f8bc2bcf28",
-    "titleHash": "1da88afbd9bf"
-  },
-  {
-    "title": "Show HN: AgentGate – signed receipts for AI agent SaaS actions",
-    "titlePt": "AgentGate emite recibos assinados para ações de agentes de IA",
-    "url": "https://github.com/Clawdlinux/agentgate",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "AgentGate é uma nova ferramenta que gera recibos criptografados para registrar o que agentes de IA fazem em serviços SaaS, criando uma trilha de auditoria confiável. Isso é importante porque agentes autônomos frequentemente realizam ações em nome de usuários sem supervisão direta. Para desenvolvedores que integram agentes em fluxos empresariais, é um avanço em transparência e confiança. Vale conhecer se você trabalha com automação ou SaaS.",
-    "reasonEn": "AgentGate is a new tool that generates signed receipts to record what AI agents do in SaaS services, creating a reliable audit trail. This matters because autonomous agents often perform actions on behalf of users without direct supervision. For developers integrating agents into business workflows, it's an advance in transparency and trust. Worth knowing if you work with automation or SaaS.",
-    "score": 0.5,
-    "tags": [
-      "agentes",
-      "segurança"
-    ],
-    "img": "img/09bac81c7193.jpg",
-    "ts": 1788073255,
-    "addedTs": 1788082532,
-    "urlHash": "09bac81c7193",
-    "titleHash": "0845ef6436ad"
-  },
-  {
-    "title": "AIPass – AI agents whose memory is small JSON files they own",
-    "titlePt": "AIPass: agentes de IA que guardam memória em pequenos arquivos JSON",
-    "url": "https://aipass.ai",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "AIPass é uma arquitetura nova onde agentes de inteligência artificial mantêm sua memória em arquivos JSON simples que eles próprios controlam. Isso simplifica muito o desenvolvimento de agentes com estado persistente, eliminando bancos de dados complexos. Para desenvolvedores, oferece uma abordagem leve e portátil para construir agentes. É interessante para quem quer evitar dependências pesadas em projetos de IA.",
-    "reasonEn": "AIPass is a new architecture where AI agents keep their memory in simple JSON files they control themselves. This greatly simplifies developing agents with persistent state, eliminating complex databases. For developers, it offers a lightweight and portable approach to building agents. It's interesting for those wanting to avoid heavy dependencies in AI projects.",
-    "score": 0.5,
-    "tags": [
-      "agentes",
-      "arquitetura"
-    ],
-    "img": "img/e0270425e902.jpg",
-    "ts": 1788073104,
-    "addedTs": 1788082532,
-    "urlHash": "e0270425e902",
-    "titleHash": "add8f931097c"
-  },
-  {
-    "title": "Smartphone LED Detects Hidden Cameras with AI",
-    "titlePt": "LED de celular com IA detecta câmeras escondidas",
-    "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um novo sistema usa o LED do smartphone combinado com inteligência artificial para identificar câmeras ocultas em ambientes, como quartos de hotel ou vestiários. A técnica é interessante porque aproveita hardware já presente em qualquer celular moderno. Isso é útil para viajantes, mulheres preocupadas com privacidade e qualquer pessoa sensível à vigilância. Para desenvolvedores, mostra uma aplicação criativa de visão computacional em hardware limitado.",
-    "reasonEn": "A new system uses the smartphone's LED combined with AI to identify hidden cameras in environments like hotel rooms or changing rooms. The technique is interesting because it leverages hardware already present in any modern phone. This is useful for travelers, privacy-conscious women and anyone sensitive to surveillance. For developers, it shows a creative application of computer vision on limited hardware.",
-    "score": 0.5,
-    "tags": [
-      "privacidade",
-      "segurança"
-    ],
-    "img": "img/f58920fa9c7d.jpg",
-    "ts": 1788072724,
-    "addedTs": 1788082532,
-    "urlHash": "f58920fa9c7d",
-    "titleHash": "79a1194a5f14"
-  },
-  {
-    "title": "Microsoft Admits AI Training in New User Privacy Statment",
-    "titlePt": "Microsoft admite treinar IA com dados de usuários em nova política de privacidade",
-    "url": "https://slashdot.org/submission/17350256/microsoft-admits-ai-training-in-new-user-privacy-statment",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Microsoft atualizou sua política de privacidade e admitiu explicitamente que usa dados de usuários para treinar modelos de inteligência artificial. Isso afeta qualquer pessoa que usa produtos da empresa, como Windows, Office e Bing, pois seus dados podem alimentar sistemas de IA. Para desenvolvedores, é fundamental revisar contratos com a Microsoft e considerar impactos em aplicações de clientes. É uma leitura obrigatória para entender mudanças significativas nos termos de uso.",
-    "reasonEn": "Microsoft updated its privacy policy and explicitly admitted to using user data to train AI models. This affects anyone using company products like Windows, Office and Bing, as their data may feed AI systems. For developers, it's essential to review contracts with Microsoft and consider impacts on customer applications. Required reading to understand significant changes in terms of use.",
-    "score": 0.9,
-    "tags": [
-      "privacidade",
-      "microsoft"
-    ],
-    "img": "img/dc9b18dbc496.jpg",
-    "ts": 1788064235,
-    "addedTs": 1788082532,
-    "urlHash": "dc9b18dbc496",
-    "titleHash": "61047e197e67"
-  },
-  {
-    "title": "Critical: Persistent back end data retention after deletion in AI Studio",
-    "titlePt": "Crítico: dados ficam retidos no backend do AI Studio mesmo após exclusão",
-    "url": "https://issuetracker.google.com/issues/554464766",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Uma falha grave foi descoberta no AI Studio: dados continuam armazenados no backend mesmo depois que o usuário solicita exclusão. Isso é uma violação séria de privacidade e pode expor informações sensíveis de projetos e usuários. Para desenvolvedores que usam a plataforma, é urgente revisar dados armazenados e considerar migração até correção. A falha afeta confiança no produto e pode ter implicações regulatórias em várias regiões.",
-    "reasonEn": "A serious flaw has been discovered in AI Studio: data continues to be stored on the backend even after the user requests deletion. This is a serious privacy violation and may expose sensitive information from projects and users. For developers using the platform, it's urgent to review stored data and consider migration until fixed. The flaw affects trust in the product and may have regulatory implications in several regions.",
-    "score": 0.85,
-    "tags": [
-      "segurança",
-      "bug"
-    ],
-    "img": "img/121224dd604b.jpg",
-    "ts": 1788063575,
-    "addedTs": 1788082532,
-    "urlHash": "121224dd604b",
-    "titleHash": "a1b5e668172a"
-  },
-  {
-    "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
-    "titlePt": "Pesquisa mostra como rodar agentes com menos tokens",
-    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "Um artigo publicado no Hugging Face apresenta uma nova abordagem para reduzir o número de tokens consumidos por agentes de IA baseados no método ACE, mantendo a qualidade do raciocínio. A pesquisa mostra que é possível cortar custos de inferência sem perder desempenho, o que é especialmente útil em aplicações de larga escala. Desenvolvedores que trabalham com agentes longos e complexos podem se beneficiar diretamente. É um avanço incremental, mas relevante para quem busca otimizar custo por requisição.",
-    "reasonEn": "An article published on Hugging Face presents a new approach to reducing the number of tokens consumed by AI agents based on the ACE method, while maintaining reasoning quality. The research shows it is possible to cut inference costs without losing performance, which is especially useful in large-scale applications. Developers working with long, complex agents can benefit directly. It is an incremental but relevant advance for those looking to optimize cost per request.",
-    "score": 0.6,
-    "tags": [
-      "pesquisa",
-      "agentes",
-      "otimização"
-    ],
-    "img": "img/077b61a0fed0.jpg",
-    "ts": 1786455430,
-    "addedTs": 1788082532,
-    "urlHash": "077b61a0fed0",
-    "titleHash": "33f7a4432705"
   }
 ]
