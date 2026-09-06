@@ -1,5 +1,180 @@
 [
   {
+    "title": "AI agents aren't safe from prompt injection, and spreadsheets prove it",
+    "titlePt": "Agentes de IA são vulneráveis a injeção de prompt, e planilhas provam",
+    "url": "https://shiftmag.dev/ai-agents-arent-safe-from-prompt-injection-and-spreadsheets-prove-it-11609/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Pesquisadores mostraram que agentes de IA continuam suscetíveis a ataques de injeção de prompt, usando planilhas comuns como vetor de ataque. O estudo destaca um risco real e prático, já que planilhas aparecem em fluxos de trabalho corporativos com IA. Desenvolvedores que constroem agentes autônomos precisam considerar essas vulnerabilidades antes de colocar sistemas em produção. É leitura essencial para quem trabalha com IA agêntica.",
+    "reasonEn": "Researchers showed that AI agents remain susceptible to prompt injection attacks, using common spreadsheets as the attack vector. The study highlights a real, practical risk, since spreadsheets appear in enterprise AI workflows. Developers building autonomous agents need to account for these vulnerabilities before putting systems in production. Essential reading for anyone working with agentic AI.",
+    "score": 0.8,
+    "tags": [
+      "segurança",
+      "agentes",
+      "prompt-injection"
+    ],
+    "img": "img/0006eef1de46.jpg",
+    "ts": 1788711456,
+    "addedTs": 1788712499,
+    "urlHash": "0006eef1de46",
+    "titleHash": "d5fb81bedaee"
+  },
+  {
+    "title": "The AI Account Reseller Ecosystem",
+    "titlePt": "O ecossistema de revenda de contas de IA",
+    "url": "https://vectoral.com/blog/ai-account-reseller-ecosystem",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo no Hacker News revela um ecossistema crescente de pessoas que revendem contas e créditos de serviços de inteligência artificial, indo de assinaturas premium a acessos compartilhados, muitas vezes violando termos de uso. Ajuda a entender um mercado paralelo que afeta preços, disponibilidade e políticas das plataformas. Pode ser relevante para quem compra acesso a modelos ou opera equipes comerciais. Não é denúncia, é panorama.",
+    "reasonEn": "The Hacker News article reveals a growing ecosystem of people reselling AI accounts and credits, ranging from premium subscriptions to shared access, often against terms of use. It helps understand a parallel market that affects platform pricing, availability, and policies. May be relevant for those buying model access or running commercial teams. It's an overview, not an exposé.",
+    "score": 0.5,
+    "tags": [
+      "negócios",
+      "ecossistema",
+      "revenda"
+    ],
+    "img": "img/e4d46e039345.jpg",
+    "ts": 1788711319,
+    "addedTs": 1788712499,
+    "urlHash": "e4d46e039345",
+    "titleHash": "54cb2b2df03d"
+  },
+  {
+    "title": "Leverage Code Review for Sustainable AI Coding Development",
+    "titlePt": "Use revisão de código para desenvolver com IA de forma sustentável",
+    "url": "https://cacm.acm.org/news/leverage-code-review-for-sustainable-ai-coding-development/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo defende a revisão de código rigorosa como prática essencial ao gerar código com inteligência artificial. Mostra como revisões humanas pegam erros lógicos, problemas de segurança e dívida técnica em projetos assistidos por IA. É um guia prático para times que estão integrando IA no fluxo de desenvolvimento sem abrir mão de qualidade. Vale a leitura para qualquer líder técnico lidando com código gerado.",
+    "reasonEn": "The article argues for rigorous code review as an essential practice when generating code with AI. It shows how human reviews catch logical errors, security issues, and technical debt in AI-assisted projects. It's a practical guide for teams integrating AI into their development workflow without sacrificing quality. Worth reading for any technical leader dealing with AI-generated code.",
+    "score": 0.55,
+    "tags": [
+      "revisão-código",
+      "boas-práticas",
+      "ia"
+    ],
+    "img": "img/e135fd0e7027.jpg",
+    "ts": 1788710839,
+    "addedTs": 1788712499,
+    "urlHash": "e135fd0e7027",
+    "titleHash": "e0e430f4bc46"
+  },
+  {
+    "title": "The AI Bullwhip",
+    "titlePt": "O chicote da demanda por IA",
+    "url": "https://tomtunguz.com/the-ai-cost-stack/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O termo Efeito Chicote da IA descreve como pequenas variações na demanda estão se amplificando ao longo da cadeia de fornecedores, de chips a data centers. Investidores e operadores estão sentindo o resultado, com supercontratação seguida de cortes bruscos. Ajuda a entender por que previsões de mercado oscilam tanto e por que prazos de GPU variam. Útil para quem planeja infraestrutura ou investimentos.",
+    "reasonEn": "The term AI Bullwhip describes how small variations in demand amplify along the supplier chain, from chips to data centers. Investors and operators are feeling it, with over-contracting followed by sharp cuts. It helps understand why market predictions swing so much and why GPU lead times vary. Useful for those planning infrastructure or investments.",
+    "score": 0.55,
+    "tags": [
+      "mercado",
+      "demanda",
+      "infraestrutura"
+    ],
+    "img": "img/b70c372bc700.jpg",
+    "ts": 1788708485,
+    "addedTs": 1788712499,
+    "urlHash": "b70c372bc700",
+    "titleHash": "2c0e38d18daa"
+  },
+  {
+    "title": "Frontier AI faces pricing reckoning as token volume explodes 25-fold",
+    "titlePt": "IA de fronteira enfrenta ajuste de preços com volume de tokens 25 vezes maior",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/frontier-ai-faces-pricing-reckoning-as-token-volume-explodes-25-fold-mid-tier-models-deliver-90-percent-of-flagship-capability-at-one-sixth-the-cost",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O volume de tokens processados por modelos de ponta cresceu cerca de 25 vezes, forçando empresas de IA a repensar tabelas de preços e margens. Algumas estão reduzindo descontos, outras migrando clientes para planos maiores ou mais caros. Para times que usam APIs em escala, isso pode significar custos mais altos ou renegociação de contratos. É uma notícia com impacto direto no bolso de qualquer operação dependente de modelos grandes.",
+    "reasonEn": "Token volume processed by frontier models grew around 25-fold, forcing AI companies to rethink pricing and margins. Some are cutting discounts, others moving customers to larger or more expensive plans. For teams using APIs at scale, this can mean higher costs or contract renegotiations. It's news with a direct impact on the budget of any operation depending on large models.",
+    "score": 0.85,
+    "tags": [
+      "preços",
+      "tokens",
+      "negócios"
+    ],
+    "img": "img/392b19fefb26.jpg",
+    "ts": 1788707983,
+    "addedTs": 1788712499,
+    "urlHash": "392b19fefb26",
+    "titleHash": "62d81ae15234"
+  },
+  {
+    "title": "Mirror of your own self – on AI sycophancy and getting what we asked for",
+    "titlePt": "Espelho de si mesmo: sobre a bajulação da IA e o que pedimos",
+    "url": "https://substack.com/app-link/post",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo discute o fenômeno da bajulação em modelos de IA, quando eles concordam com o usuário em vez de oferecer respostas honestas. O autor argumenta que isso é, em parte, um reflexo do tipo de feedback que damos a essas ferramentas. Ajuda usuários frequentes a reconhecer um viés importante nas conversas com chatbots. Leitura curta e relevante para qualquer pessoa que use IA como consultora diária.",
+    "reasonEn": "The article discusses the sycophancy phenomenon in AI models, where they agree with the user instead of giving honest answers. The author argues this is partly a reflection of the kind of feedback we give these tools. It helps frequent users spot an important bias in chatbot conversations. Short, relevant reading for anyone using AI as a daily advisor.",
+    "score": 0.55,
+    "tags": [
+      "sycophancy",
+      "vieses",
+      "comportamento"
+    ],
+    "img": "img/24f755c700ab.jpg",
+    "ts": 1788706226,
+    "addedTs": 1788712499,
+    "urlHash": "24f755c700ab",
+    "titleHash": "c464761927a9"
+  },
+  {
+    "title": "GPT-6 Astra soundly defeats Fable 5.1 on recognizing handwritten corrections",
+    "titlePt": "GPT-6 Astra vence Fable 5.1 em reconhecer correções manuscritas",
+    "url": "https://dorrit.pairsys.ai/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um novo benchmark comparou o modelo GPT-6 Astra contra o Fable 5.1 na tarefa de identificar correções feitas à mão em textos. Segundo o teste, o Astra teve desempenho claramente superior. Benchmarks assim servem para mostrar evolução dos modelos em tarefas práticas de reconhecimento visual e textual. Interessa a quem acompanha a corrida entre modelos de IA.",
+    "reasonEn": "A new benchmark compared the GPT-6 Astra model against Fable 5.1 on the task of identifying handwritten corrections in texts. According to the test, Astra performed clearly better. Such benchmarks help show how models are evolving on practical visual and textual recognition tasks. It matters to those following the AI model race.",
+    "score": 0.5,
+    "tags": [
+      "benchmark",
+      "modelo"
+    ],
+    "img": "img/c1608e6c7a1e.jpg",
+    "ts": 1788704645,
+    "addedTs": 1788712499,
+    "urlHash": "c1608e6c7a1e",
+    "titleHash": "4118d126d4e2"
+  },
+  {
+    "title": "OpenAI admits to German wiki ‘incident’",
+    "titlePt": "OpenAI admite incidente com a Wikipédia alemã",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "A OpenAI reconheceu publicamente que houve um incidente envolvendo a Wikipédia em alemão, sem entrar em muitos detalhes. Reportagens indicam que conteúdo pode ter sido usado sem a devida autorização ou apresentado de forma inadequada. A admissão é relevante porque a Wikipédia é uma fonte central de treinamento de modelos de IA. O caso reforça o debate sobre uso de conteúdo por empresas de IA.",
+    "reasonEn": "OpenAI publicly acknowledged that an incident involving the German Wikipedia occurred, without giving many details. Reports suggest content may have been used without proper authorization or presented inappropriately. The admission matters because Wikipedia is a central training source for AI models. The case fuels the debate over how AI companies use online content.",
+    "score": 0.7,
+    "tags": [
+      "openai",
+      "conteúdo",
+      "polêmica"
+    ],
+    "img": "img/5b1308781068.jpg",
+    "ts": 1788607685,
+    "addedTs": 1788712499,
+    "urlHash": "5b1308781068",
+    "titleHash": "86a4cad259b8"
+  },
+  {
     "title": "AI coding agents forget the codebase between sessions",
     "titlePt": "Agentes de código com IA esquecem o projeto entre sessões",
     "url": "https://github.com/thecolourfoundation/rune",
@@ -8226,202 +8401,5 @@
     "addedTs": 1788116194,
     "urlHash": "50a8f76b8fcc",
     "titleHash": "bbb82acdc987"
-  },
-  {
-    "title": "Show HN: Open SAR-COP – AI-generated common operating picture for disasters",
-    "titlePt": "Open SAR-COP: imagem operacional gerada por IA para desastres",
-    "url": "https://open-sar-cop.github.io",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Projeto open source que usa IA para montar uma imagem operacional comum em cenários de desastre, integrando dados de satélites, sensores e relatos de campo. Pode acelerar a tomada de decisão em emergências, onde coordenação entre equipes é crítica. Ainda é um protótipo, mas a abordagem é promissora para defesa civil e operações humanitárias.",
-    "reasonEn": "Open-source project that uses AI to build a common operating picture in disaster scenarios, integrating satellite, sensor, and field-report data. It could speed up decision-making in emergencies where team coordination is critical. Still a prototype, but the approach is promising for civil defense and humanitarian work.",
-    "score": 0.6,
-    "tags": [
-      "desastres",
-      "opensource",
-      "defesa"
-    ],
-    "img": "img/21ed610c00e3.jpg",
-    "ts": 1788099020,
-    "addedTs": 1788100505,
-    "urlHash": "21ed610c00e3",
-    "titleHash": "d3ccb6dacb64"
-  },
-  {
-    "title": "Judge rule AI-generated child sex abuse material is protected by First Amendment",
-    "titlePt": "Juiz decide que material de abuso infantil gerado por IA é protegido pela Primeira Emenda",
-    "url": "https://reason.com/volokh/2026/08/27/home-possession-of-ai-generated-porn-depicting-fake-children-remains-constitutionally-protected-seventh-circuit-rules/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um tribunal dos Estados Unidos decidiu que imagens de abuso infantil produzidas por inteligência artificial contam como discurso protegido pela Primeira Emenda. A decisão contraria pedidos de procuradores e organizações de proteção infantil, que alertam para os danos reais às vítimas representadas. O tema é sensível e pode redefinir os limites legais do conteúdo sintético nos próximos meses.",
-    "reasonEn": "A US court ruled that AI-generated child sexual abuse imagery counts as speech protected by the First Amendment. The decision goes against prosecutors and child-protection organizations, who warned of real harm to the depicted victims. The sensitive ruling may redefine the legal limits of synthetic content in coming months.",
-    "score": 0.95,
-    "tags": [
-      "regulação",
-      "justiça",
-      "segurança"
-    ],
-    "img": "img/3f3288610210.jpg",
-    "ts": 1788095733,
-    "addedTs": 1788100505,
-    "urlHash": "3f3288610210",
-    "titleHash": "dac2c68bb4b0"
-  },
-  {
-    "title": "90 days of attacks on AI infrastructure",
-    "titlePt": "90 dias de ataques contra a infraestrutura de IA",
-    "url": "https://www.wiz.io/blog/ai-infrastructure-honeypot",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Relatório que reúne três meses de incidentes de segurança direcionados a data centers, provedores de modelo e ferramentas de IA. O texto detalha vetores como roubo de credenciais, exploração de APIs e campanhas de ransomware voltadas a empresas do setor. É leitura obrigatória para times de segurança que protegem ativos de IA em produção.",
-    "reasonEn": "Report gathering three months of security incidents aimed at AI data centers, model providers, and AI tooling. It covers vectors like credential theft, API exploitation, and ransomware campaigns targeting the industry. Required reading for security teams protecting AI assets in production.",
-    "score": 0.85,
-    "tags": [
-      "segurança",
-      "infraestrutura"
-    ],
-    "img": "img/aa194f570edc.jpg",
-    "ts": 1788095338,
-    "addedTs": 1788100505,
-    "urlHash": "aa194f570edc",
-    "titleHash": "18b50411caec"
-  },
-  {
-    "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
-    "titlePt": "Sony Music e Warner Chappell processam a Anthropic",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "As gigantes da música Sony Music Publishing e Warner Chappell entraram com ação judicial contra a Anthropic por uso de letras e composições protegidas no treinamento de seus modelos. A ação se soma à pressão crescente de artistas e editoras sobre desenvolvedores de IA generativa. O desfecho pode estabelecer precedentes importantes sobre direitos autorais e treinamento de modelos.",
-    "reasonEn": "Music giants Sony Music Publishing and Warner Chappell have sued Anthropic for using protected lyrics and compositions in training its models. The lawsuit adds to growing pressure from artists and publishers on generative AI developers. The outcome could set important precedents on copyright and model training.",
-    "score": 0.92,
-    "tags": [
-      "regulação",
-      "direitos autorais",
-      "antropica"
-    ],
-    "img": "img/f593ff968abe.jpg",
-    "ts": 1788094830,
-    "addedTs": 1788100505,
-    "urlHash": "f593ff968abe",
-    "titleHash": "d8c263ac7469"
-  },
-  {
-    "title": "The MAI Image and Reve 2.1 ranks higher than GPT Image 2 now",
-    "titlePt": "MAI Image 2.1 e Reve 2.1 superam GPT Image 2 em ranking",
-    "url": "https://artificialanalysis.ai/image/leaderboard/editing",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Novos modelos de geração de imagem estão pontuando acima do GPT Image 2 em benchmarks recentes, fechando o gap com os principais sistemas do mercado. Para desenvolvedores que escolhem qual API usar, a mudança pode significar melhor custo-benefício em alguns cenários. Ainda é cedo para afirmar dominância, mas a tendência merece atenção.",
-    "reasonEn": "New image generation models are scoring above GPT Image 2 in recent benchmarks, closing the gap with leading systems. For developers choosing which API to use, the shift may mean better cost-benefit in some scenarios. It's still early to claim dominance, but the trend is worth watching.",
-    "score": 0.65,
-    "tags": [
-      "modelo",
-      "imagem",
-      "benchmark"
-    ],
-    "img": "img/9069ca61506e.jpg",
-    "ts": 1788092802,
-    "addedTs": 1788100505,
-    "urlHash": "9069ca61506e",
-    "titleHash": "6827966f6e21"
-  },
-  {
-    "title": "AgentObs – a hook that blocks Claude Code before you hit your limit",
-    "titlePt": "AgentObs bloqueia o Claude Code antes de você estourar o limite",
-    "url": "https://news.ycombinator.com/item?id=49497992",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Hook que monitora o uso do Claude Code em tempo real e pausa a execução quando o consumo se aproxima do limite contratado. Resolve uma dor real de quem recebe cobranças inesperadas ao usar agentes em loops longos. Ferramenta simples e útil para times que dependem do Claude Code em fluxos automatizados.",
-    "reasonEn": "Hook that monitors Claude Code usage in real time and pauses execution when consumption nears the contracted limit. It solves a real pain point for those hit by surprise bills from agents running long tasks. Simple and useful for teams relying on Claude Code in automated flows.",
-    "score": 0.5,
-    "tags": [
-      "ferramenta",
-      "custos",
-      "claude"
-    ],
-    "img": "img/bf2ecd01b239.jpg",
-    "ts": 1788091957,
-    "addedTs": 1788100505,
-    "urlHash": "bf2ecd01b239",
-    "titleHash": "12f763e6cc46"
-  },
-  {
-    "title": "Idlen: Ads in the IDE, in AI chats, and a self-serve ads manager",
-    "titlePt": "Idlen leva anúncios para IDEs, chats de IA e ferramentas",
-    "url": "https://www.idlen.io/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Plataforma que injeta anúncios em IDEs e dentro de chats de IA, oferecendo um painel self-service para anunciantes. Sinaliza uma nova fronteira de monetização que pode incomodar desenvolvedores e usuários finais. Vale acompanhar de perto porque pode mudar a experiência de uso das principais ferramentas de programação nos próximos meses.",
-    "reasonEn": "Platform that injects ads into IDEs and AI chats, offering a self-service dashboard for advertisers. It signals a new monetization frontier that may frustrate developers and end users. Worth watching closely because it could reshape the experience of leading coding tools in coming months.",
-    "score": 0.55,
-    "tags": [
-      "monetização",
-      "ide",
-      "publicidade"
-    ],
-    "img": "img/946b615d4496.jpg",
-    "ts": 1788091328,
-    "addedTs": 1788100505,
-    "urlHash": "946b615d4496",
-    "titleHash": "cbd0c91d6100"
-  },
-  {
-    "title": "Show HN: 1endpoint – Cheaper access to AI models",
-    "titlePt": "1endpoint promete acesso mais barato a modelos de IA",
-    "url": "https://1endpoint.dev",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Gateway que agrega múltiplos provedores de modelos e promete repassar preços mais baixos para desenvolvedores e pequenas equipes. O diferencial está na unificação de cobrança e na negociação de taxas em volume. Pode ser interessante para quem gasta muito com APIs e quer simplificar o orçamento.",
-    "reasonEn": "Gateway aggregating multiple model providers that promises cheaper rates for developers and small teams. The differentiator is unified billing and negotiated rates at scale. It may appeal to those spending heavily on APIs who want to simplify their budget.",
-    "score": 0.55,
-    "tags": [
-      "custos",
-      "api",
-      "infraestrutura"
-    ],
-    "img": "img/6cd7679b85ef.jpg",
-    "ts": 1788088412,
-    "addedTs": 1788100505,
-    "urlHash": "6cd7679b85ef",
-    "titleHash": "6cfcc74bb462"
-  },
-  {
-    "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
-    "titlePt": "Educadores e líderes da indústria se reúnem no Google para discutir o futuro da IA nas escolas",
-    "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
-    "source": "Google AI",
-    "sources": [
-      "Google AI"
-    ],
-    "reason": "Educadores de Nova York e executivos do setor de tecnologia se encontraram nos escritórios do Google para debater como a inteligência artificial deve ser usada em sala de aula. A discussão pode influenciar políticas públicas e o tipo de ferramenta que escolas e professores vão adotar nos próximos anos. Professores, alunos e desenvolvedores de produtos educacionais são os mais afetados. O evento sinaliza o interesse crescente das big techs no mercado de educação com IA.",
-    "reasonEn": "New York educators and tech industry executives met at Google's offices to discuss how artificial intelligence should be used in the classroom. The discussion could influence public policies and the kind of tools that schools and teachers will adopt in the coming years. Teachers, students, and developers of educational products are the most affected. The event signals the growing interest of big tech companies in the education market with AI.",
-    "score": 0.5,
-    "tags": [
-      "educação",
-      "google",
-      "regulação"
-    ],
-    "img": "img/94c768ce3675.jpg",
-    "ts": 1782921600,
-    "addedTs": 1788100505,
-    "urlHash": "94c768ce3675",
-    "titleHash": "bf2768c74b26"
   }
 ]
