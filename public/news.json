@@ -1,5 +1,70 @@
 [
   {
+    "title": "Fauxnix – bash for AI agents on Windows, no WSL (we measured the PS tax)",
+    "titlePt": "Fauxnix leva shell bash para agentes de IA no Windows sem WSL",
+    "url": "https://github.com/20000419/fauxnix",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Fauxnix é uma ferramenta apresentada no Hacker News que permite rodar shell bash no Windows para agentes de IA, sem depender do WSL. O autor mediu o custo extra do PowerShell e argumenta que sua abordagem é mais rápida. É uma alternativa útil para desenvolvedores que rodam fluxos de IA em Windows. O conteúdo é técnico e voltado a times de engenharia.",
+    "reasonEn": "Fauxnix is a Hacker News tool that lets users run bash shell on Windows for AI agents without depending on WSL. The author measured the extra cost of PowerShell and argues the approach is faster. It is a useful alternative for developers running AI workflows on Windows. The content is technical and aimed at engineering teams.",
+    "score": 0.5,
+    "tags": [
+      "windows",
+      "devtools",
+      "agentes"
+    ],
+    "img": "img/eecb04cfb1ff.jpg",
+    "ts": 1788745433,
+    "addedTs": 1788746390,
+    "urlHash": "eecb04cfb1ff",
+    "titleHash": "1f3afbe61c56"
+  },
+  {
+    "title": "Don't build your organization around a model provider",
+    "titlePt": "Artigo alerta para não construir organizações em torno de um provedor de modelo",
+    "url": "https://juanreyero.com/article/ai/model-provider-independence",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto do Hacker News defende que não se deve construir toda a arquitetura de uma empresa em torno de um único provedor de modelo de IA. O autor recomenda sistemas flexíveis que permitam trocar de fornecedor sem grandes reescritas. É uma reflexão estratégica importante para CTOs e líderes técnicos. Mostra o risco real de aprisionamento tecnológico.",
+    "reasonEn": "The Hacker News post argues organizations should not build their entire architecture around a single AI model provider. The author recommends flexible systems that allow switching vendors without major rewrites. It is an important strategic reflection for CTOs and technical leaders. It highlights the real risk of technological lock-in.",
+    "score": 0.65,
+    "tags": [
+      "estratégia",
+      "arquitetura"
+    ],
+    "img": "img/3f3f2ed545eb.jpg",
+    "ts": 1788743000,
+    "addedTs": 1788746390,
+    "urlHash": "3f3f2ed545eb",
+    "titleHash": "583ac4254ecd"
+  },
+  {
+    "title": "ROCm 10.0: A Decade of Open Compute, Built for the Age of Agentic AI",
+    "titlePt": "AMD lança ROCm 10.0 após uma década de computação aberta",
+    "url": "https://rocm.blogs.amd.com/ecosystems-and-partners/rocm-x-blog/README.html",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A AMD anunciou o ROCm 10.0, marcando dez anos da plataforma de computação aberta voltada para IA. A nova versão foi construída com foco em sistemas agentic de inteligência artificial. ROCm é a principal alternativa aberta ao CUDA da Nvidia. É uma notícia relevante para profissionais de infraestrutura e IA.",
+    "reasonEn": "AMD announced ROCm 10.0, marking ten years of the open compute platform focused on AI. The new version was built with a focus on agentic AI systems. ROCm is the leading open alternative to Nvidia's CUDA. It is relevant news for infrastructure and AI professionals.",
+    "score": 0.7,
+    "tags": [
+      "hardware",
+      "open-source",
+      "lançamento"
+    ],
+    "img": "img/f94c7fc04390.jpg",
+    "ts": 1788741961,
+    "addedTs": 1788746390,
+    "urlHash": "f94c7fc04390",
+    "titleHash": "64b725d8b4d6"
+  },
+  {
     "title": "Have the frontier labs mixed up AI safety and security?",
     "titlePt": "Laboratórios de fronteira confundiram segurança de IA com segurança nacional?",
     "url": "https://martinalderson.com/posts/ai-safety-vs-security/",
