@@ -1,5 +1,311 @@
 [
   {
+    "title": "Fake \"Delete\" Button in AI Studio",
+    "titlePt": "Botão 'Excluir' falso encontrado no AI Studio do Google",
+    "url": "https://gist.github.com/istokovicsgyorgy79-jpg/a6f0b4242e3c391bb295193eda010715",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Usuários descobriram que o botão de apagar no AI Studio do Google não funciona como esperado, criando risco de confusão sobre o que é realmente deletado. É um problema clássico de UX que pode virar incidente de segurança ou privacidade. Afeta devs e times que usam o AI Studio em fluxos de produção.",
+    "reasonEn": "Users discovered that the delete button in Google's AI Studio does not behave as expected, creating confusion about what is actually erased. It is a classic UX issue that can become a security or privacy incident. Affects devs and teams using AI Studio in production flows.",
+    "score": 0.55,
+    "tags": [
+      "google",
+      "segurança",
+      "ux"
+    ],
+    "img": "img/c39abf77efe2.jpg",
+    "ts": 1788875433,
+    "addedTs": 1788876008,
+    "urlHash": "c39abf77efe2",
+    "titleHash": "d6896136aa8f"
+  },
+  {
+    "title": "Aschenbrenner claimed to know the future of AI. His investors lost billions",
+    "titlePt": "Aschenbrenner prometeu saber o futuro da IA e investidores perderam bilhões",
+    "url": "https://www.theatlantic.com/ideas/2026/09/aschenbrenner-ai-future/688493/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A matéria revela que Leopold Aschenbrenner, figura conhecida no mundo da IA, convenceu investidores a apostarem pesado em uma tese que não se concretizou. Os prejuízos chegam a bilhões de dólares e reacendem o debate sobre bolhas em IA. Importante para investidores, fundadores e qualquer pessoa exposta a fundos temáticos de tecnologia.",
+    "reasonEn": "The piece reveals that Leopold Aschenbrenner, a well-known AI figure, convinced investors to bet heavily on a thesis that did not materialize. Losses reach billions and revive the debate around AI bubbles. Important for investors, founders, and anyone exposed to thematic tech funds.",
+    "score": 0.85,
+    "tags": [
+      "investimento",
+      "bolha",
+      "finanças"
+    ],
+    "img": "img/48d9c9ab0302.jpg",
+    "ts": 1788875422,
+    "addedTs": 1788876008,
+    "urlHash": "48d9c9ab0302",
+    "titleHash": "872217aaffd3"
+  },
+  {
+    "title": "Show HN: Grith – syscall-level supervision for AI agents",
+    "titlePt": "Grith: supervisão em nível de syscall para agentes de IA",
+    "url": "https://github.com/grith-ai/grith",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Grith é uma nova ferramenta que monitora agentes de IA no nível de chamadas de sistema, oferecendo auditoria fina do que o agente realmente faz. Útil para times que precisam de governança e segurança em agentes autônomos. Relevante para engenheiros de plataforma e segurança.",
+    "reasonEn": "Grith is a new tool that monitors AI agents at the syscall level, providing fine-grained audit of what the agent actually does. Useful for teams needing governance and security on autonomous agents. Relevant for platform and security engineers.",
+    "score": 0.55,
+    "tags": [
+      "segurança",
+      "agentes",
+      "devtools"
+    ],
+    "img": "img/5f9cf89e5450.jpg",
+    "ts": 1788873745,
+    "addedTs": 1788876008,
+    "urlHash": "5f9cf89e5450",
+    "titleHash": "3825a568d53a"
+  },
+  {
+    "title": "The AI Capex Bubble and the Parallels to 5G",
+    "titlePt": "A bolha de capex em IA e os paralelos com o 5G",
+    "url": "https://deadneurons.substack.com/p/the-ai-capex-bubble-and-the-parallels",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto compara os investimentos pesados em infraestrutura de IA com a bolha do 5G, citando casos em que gastou-se muito antes da demanda real aparecer. Levanta um alerta importante para investidores e gestores de grandes empresas de tecnologia. Útil para quem precisa entender os riscos do ciclo atual.",
+    "reasonEn": "The text compares heavy AI infrastructure investments to the 5G bubble, citing cases where money was spent before real demand appeared. It raises an important warning for investors and tech executives. Useful for anyone needing to understand risks in the current cycle.",
+    "score": 0.7,
+    "tags": [
+      "bolha",
+      "investimento",
+      "infraestrutura"
+    ],
+    "img": "img/23bb28bd61e2.jpg",
+    "ts": 1788873543,
+    "addedTs": 1788876008,
+    "urlHash": "23bb28bd61e2",
+    "titleHash": "ba93cc9b5f8c"
+  },
+  {
+    "title": "Letting AI Debug Production",
+    "titlePt": "Deixando a IA debugar produção",
+    "url": "https://lackofimagination.org/2026/09/letting-ai-debug-production/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo discute os prós e contras de liberar agentes de IA para investigar incidentes em produção. Traz exemplos práticos e armadilhas comuns, como loops infinitos e mudanças arriscadas. Boa leitura para engenheiros que consideram adotar IA em operações.",
+    "reasonEn": "The article discusses pros and cons of letting AI agents investigate production incidents. It shares practical examples and common pitfalls, like infinite loops and risky changes. A good read for engineers considering AI in operations.",
+    "score": 0.5,
+    "tags": [
+      "devops",
+      "agentes",
+      "produção"
+    ],
+    "img": "img/98baa05a4b29.jpg",
+    "ts": 1788872970,
+    "addedTs": 1788876008,
+    "urlHash": "98baa05a4b29",
+    "titleHash": "7083952b27ba"
+  },
+  {
+    "title": "Why AI-generated slopaganda works",
+    "titlePt": "Por que a slopaganda gerada por IA funciona",
+    "url": "https://www.machinesociety.ai/p/why-ai-generated-slopaganda-works",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo analisa como conteúdo de baixa qualidade produzido por IA consegue influenciar opinião pública e engajamento. Mostra padrões de produção e em redes sociais. Relevante para comunicadores, jornalistas e qualquer pessoa preocupada com desinformação.",
+    "reasonEn": "The article analyzes how low-quality AI-generated content manages to influence public opinion and engagement. It shows production and patterns on social networks. Relevant for communicators, journalists, and anyone worried about misinformation.",
+    "score": 0.65,
+    "tags": [
+      "desinformação",
+      "mídia",
+      "sociedade"
+    ],
+    "img": "img/31f0b8ecef44.jpg",
+    "ts": 1788872674,
+    "addedTs": 1788876008,
+    "urlHash": "31f0b8ecef44",
+    "titleHash": "ca5875825f14"
+  },
+  {
+    "title": "Why human syntax breaks LLMs (and how to fix agentic coding)",
+    "titlePt": "Por que a sintaxe humana quebra LLMs (e como corrigir)",
+    "url": "https://news.ycombinator.com/item?id=49609821",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O autor explora como instruções humanas ambíguas confundem modelos de linguagem e sugere padrões para melhorar a comunicação com agentes de código. Traz dicas práticas para devs que constroem ferramentas agentic. Conteúdo técnico útil, embora denso.",
+    "reasonEn": "The author explores how ambiguous human instructions confuse language models and suggests patterns to improve communication with coding agents. It brings practical tips for devs building agentic tools. Useful technical content, though dense.",
+    "score": 0.6,
+    "tags": [
+      "llm",
+      "agentes",
+      "programação"
+    ],
+    "img": "img/13d55ca00bfe.jpg",
+    "ts": 1788872658,
+    "addedTs": 1788876008,
+    "urlHash": "13d55ca00bfe",
+    "titleHash": "471080efaa70"
+  },
+  {
+    "title": "Catenary – A spatial canvas IDE for AI coding agents",
+    "titlePt": "Catenary: IDE espacial para agentes de codificação",
+    "url": "https://thecatenary.app",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Catenary é um novo IDE visual, em formato de canvas espacial, pensado para trabalhar com múltiplos agentes de codificação ao mesmo tempo. Aposta em uma metáfora diferente do tradicional editor de arquivos. Vale acompanhar para quem gosta de experimentar novas ferramentas.",
+    "reasonEn": "Catenary is a new visual IDE, in a spatial canvas format, designed to work with multiple coding agents at once. It bets on a different metaphor than the traditional file editor. Worth tracking for those who like experimenting with new tools.",
+    "score": 0.5,
+    "tags": [
+      "ide",
+      "agentes",
+      "devtools"
+    ],
+    "img": "img/341a3c99c594.jpg",
+    "ts": 1788872630,
+    "addedTs": 1788876008,
+    "urlHash": "341a3c99c594",
+    "titleHash": "25c6b1f5b948"
+  },
+  {
+    "title": "Aurora: AI gateway fork for multi-IP setups, 55x faster than LiteLLM",
+    "titlePt": "Aurora: fork de gateway de IA 55x mais rápido que LiteLLM",
+    "url": "https://github.com/entitybtw/aurora",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Aurora é um fork de gateway de IA otimizado para múltiplos IPs, alegando ser 55 vezes mais rápido que o LiteLLM em alguns cenários. Pode interessar times que operam grandes volumes de requisições a modelos. Benchmarks devem ser olhados com cautela antes de adotar.",
+    "reasonEn": "Aurora is an AI gateway fork optimized for multiple IPs, claiming to be 55x faster than LiteLLM in some scenarios. It may interest teams running large model request volumes. Benchmarks should be scrutinized before adopting.",
+    "score": 0.55,
+    "tags": [
+      "performance",
+      "gateway",
+      "infraestrutura"
+    ],
+    "img": "img/cd559f9263b5.jpg",
+    "ts": 1788872624,
+    "addedTs": 1788876008,
+    "urlHash": "cd559f9263b5",
+    "titleHash": "4da51b58a42a"
+  },
+  {
+    "title": "This founder is teaching chips how to recycle (their energy)",
+    "titlePt": "Fundadora ensina chips a reciclar a própria energia",
+    "url": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/",
+    "source": "MIT Tech Review",
+    "sources": [
+      "MIT Tech Review"
+    ],
+    "reason": "Uma startup está desenvolvendo chips capazes de reaproveitar calor e energia desperdiçada dentro de data centers, reduzindo o consumo em IA. A tecnologia pode ser crucial diante do crescimento explosivo do uso de eletricidade por modelos grandes. Afeta diretamente a sustentabilidade da indústria de IA.",
+    "reasonEn": "A startup is developing chips that can reuse waste heat and energy inside data centers, cutting AI consumption. The technology could be crucial given the explosive growth in electricity use by large models. It directly affects the sustainability of the AI industry.",
+    "score": 0.65,
+    "tags": [
+      "hardware",
+      "sustentabilidade",
+      "chip"
+    ],
+    "img": "img/7a9120172ffe.jpg",
+    "ts": 1788863760,
+    "addedTs": 1788876008,
+    "urlHash": "7a9120172ffe",
+    "titleHash": "8b54c070045c"
+  },
+  {
+    "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+    "titlePt": "Empreendedor de IA cria agentes capazes de se preparar para o inesperado",
+    "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+    "source": "MIT Tech Review",
+    "sources": [
+      "MIT Tech Review"
+    ],
+    "reason": "Um empreendedor da área de inteligência artificial está desenvolvendo agentes que conseguem se planejar com antecedência diante de situações imprevistas. A proposta é fazer com que esses sistemas antecipem problemas antes que eles aconteçam, em vez de apenas reagir. Isso pode mudar a forma como automações complexas são construídas em empresas e produtos. A notícia interessa principalmente a desenvolvedores e gestores que pensam em adotar agentes autônomos nos próximos meses.",
+    "reasonEn": "An AI entrepreneur is building agents that can plan ahead for unexpected events instead of simply reacting after the fact. The goal is to give autonomous systems the ability to anticipate problems and prepare contingencies. This could reshape how complex automations are designed across industries. It matters most to developers and product leads evaluating autonomous agents for real-world use.",
+    "score": 0.55,
+    "tags": [
+      "agentes",
+      "planejamento"
+    ],
+    "img": "img/16673d70457d.jpg",
+    "ts": 1788863640,
+    "addedTs": 1788876008,
+    "urlHash": "16673d70457d",
+    "titleHash": "104ef872250f"
+  },
+  {
+    "title": "Opaque recurrence, and other AI terms that you should probably know",
+    "titlePt": "Recorrência opaca e outros termos de IA que vale a pena conhecer",
+    "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A publicação reúne explicações simples de termos técnicos que estão cada vez mais comuns no noticiário de inteligência artificial, como recorrência opaca e conceitos vizinhos. O objetivo é ajudar leitores sem formação técnica a entender o que essas palavras realmente significam. É leitura rápida e útil para quem se sente perdido em discussões sobre IA. Não há novidade de produto, mas o tema é cada vez mais relevante no dia a dia.",
+    "reasonEn": "The article collects plain-language explanations of technical AI terms that keep appearing in the news, such as opaque recurrence and related concepts. It aims to help non-technical readers understand what these buzzwords actually mean. It is quick reading and useful for anyone who feels lost in AI discussions. There is no product news, but the topic is becoming increasingly relevant in everyday conversation.",
+    "score": 0.5,
+    "tags": [
+      "glossário",
+      "conceitos"
+    ],
+    "img": "img/8b8898d492e7.jpg",
+    "ts": 1788809040,
+    "addedTs": 1788876008,
+    "urlHash": "8b8898d492e7",
+    "titleHash": "4419109f2e79"
+  },
+  {
+    "title": "OpenAI supports California’s bill to advance youth AI safety",
+    "titlePt": "OpenAI apoia projeto da Califórnia para reforçar a segurança de IA voltada a jovens",
+    "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "A OpenAI declarou apoio público a um projeto de lei da Califórnia que visa proteger menores de idade no uso de inteligência artificial. A empresa vê a proposta como um avanço importante para criar regras claras de segurança para crianças e adolescentes. Isso pode influenciar como outras big techs se posicionam sobre regulação nos Estados Unidos. Desenvolvedores de produtos voltados a jovens devem acompanhar de perto, pois novas obrigações podem surgir.",
+    "reasonEn": "OpenAI has publicly backed a California bill aimed at protecting minors when using artificial intelligence. The company sees the proposal as an important step toward clear safety rules for children and teenagers. This stance may influence how other big tech companies approach regulation in the United States. Developers building products for young users should watch closely, since new obligations could emerge soon.",
+    "score": 0.72,
+    "tags": [
+      "regulação",
+      "openai",
+      "califórnia"
+    ],
+    "img": "img/4862f3d2c68f.jpg",
+    "ts": 1788159600,
+    "addedTs": 1788876008,
+    "urlHash": "4862f3d2c68f",
+    "titleHash": "81d4bbca466f"
+  },
+  {
+    "title": "Polimill builds Japan's next-generation public AI infrastructure",
+    "titlePt": "Polimill constrói a infraestrutura pública de IA de próxima geração do Japão",
+    "url": "https://openai.com/index/polimill",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "A Polimill está desenvolvendo uma infraestrutura pública de inteligência artificial para o Japão, com foco em serviços governamentais e uso cidadão. A iniciativa busca oferecer recursos de IA de forma aberta e confiável à população. O movimento coloca o Japão entre os países que tratam a IA como infraestrutura essencial, e não apenas produto comercial. Pode servir de referência para outros governos que pensam em estratégias públicas semelhantes.",
+    "reasonEn": "Polimill is building a public AI infrastructure for Japan, focused on government services and citizen-facing tools. The initiative aims to deliver AI capabilities openly and reliably to the population. It places Japan among countries treating AI as essential public infrastructure, not just a commercial product. Other governments considering similar public strategies may look to it as a reference.",
+    "score": 0.5,
+    "tags": [
+      "japão",
+      "infraestrutura",
+      "governo"
+    ],
+    "img": "img/0b5a688ac445.jpg",
+    "ts": 1788159600,
+    "addedTs": 1788876008,
+    "urlHash": "0b5a688ac445",
+    "titleHash": "3ff54e1261cc"
+  },
+  {
     "title": "Is the UK government the new training ground for AI execs?",
     "titlePt": "O governo britânico virou escola para executivos de IA?",
     "url": "https://www.theguardian.com/technology/2026/sep/07/architect-uk-ai-policy-quits-anthropic-conflict-of-interest-concerns",
@@ -8334,312 +8640,5 @@
     "addedTs": 1788272691,
     "urlHash": "62003111f3b5",
     "titleHash": "cee49873339b"
-  },
-  {
-    "title": "Kilo Code for JetBrains",
-    "titlePt": "Kilo Code chega às IDEs da JetBrains",
-    "url": "https://www.producthunt.com/products/kilocode",
-    "source": "ProductHunt",
-    "sources": [
-      "ProductHunt"
-    ],
-    "reason": "O Kilo Code é uma extensão de codificação com IA que agora funciona nas IDEs da JetBrains, como IntelliJ e PyCharm. Para desenvolvedores que já usam essas ferramentas, oferece geração e edição de código assistida por IA direto no editor. É mais uma opção no mercado lotado de assistentes de código, mas a integração nativa pode ser útil para quem prefere não trocar de ambiente.",
-    "reasonEn": "Kilo Code is an AI coding extension that now works inside JetBrains IDEs like IntelliJ and PyCharm. For developers already using those tools, it brings AI-assisted code generation and editing directly into the editor. It is yet another option in a crowded market of coding assistants, but the native integration may appeal to those who do not want to switch environments.",
-    "score": 0.5,
-    "tags": [
-      "ides",
-      "codificação",
-      "lançamento"
-    ],
-    "img": "img/73a644cbcf6e.jpg",
-    "ts": 1788253250,
-    "addedTs": 1788253273,
-    "urlHash": "73a644cbcf6e",
-    "titleHash": "4c8001d94cc3"
-  },
-  {
-    "title": "Computable GPU Index (CGI)",
-    "titlePt": "Computable GPU Index: comparador de preços de GPUs",
-    "url": "https://www.producthunt.com/products/computable-gpu-index-cgi",
-    "source": "ProductHunt",
-    "sources": [
-      "ProductHunt"
-    ],
-    "reason": "O Computable GPU Index é um novo banco de dados que reúne preços e especificações de GPUs voltadas para IA. Para equipes que precisam comprar hardware, centralizar essas informações em um só lugar economiza horas de pesquisa. Pode virar referência para quem planeja infraestrutura de treinamento ou inferência.",
-    "reasonEn": "Computable GPU Index is a new database that aggregates prices and specs of AI-oriented GPUs. For teams needing to buy hardware, centralizing this information in one place saves hours of research. It could become a reference for anyone planning training or inference infrastructure.",
-    "score": 0.65,
-    "tags": [
-      "gpus",
-      "infraestrutura",
-      "preço"
-    ],
-    "img": "img/8224473dcf08.jpg",
-    "ts": 1788253237,
-    "addedTs": 1788253273,
-    "urlHash": "8224473dcf08",
-    "titleHash": "aa6bf9d8ccb5"
-  },
-  {
-    "title": "Show HN: ChooseCompute – Clean NAS and hard drive database for AI",
-    "titlePt": "ChooseCompute: banco de dados de NAS e discos para IA",
-    "url": "https://choosecompute.com/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O ChooseCompute reúne informações sobre NAS e discos rígidos usados em cargas de trabalho de IA. Para quem monta servidores locais, ter um catálogo confiável evita escolhas ruins e perda de dinheiro. É especialmente útil para desenvolvedores independentes e pequenas equipes que compram hardware próprio.",
-    "reasonEn": "ChooseCompile gathers information about NAS and hard drives used in AI workloads. For anyone building local servers, a reliable catalog avoids bad choices and wasted money. It is especially useful for indie developers and small teams buying their own hardware.",
-    "score": 0.55,
-    "tags": [
-      "hardware",
-      "armazenamento",
-      "ia"
-    ],
-    "img": "img/37534920a9f0.jpg",
-    "ts": 1788252361,
-    "addedTs": 1788253273,
-    "urlHash": "37534920a9f0",
-    "titleHash": "cbbe1482a24d"
-  },
-  {
-    "title": "Reducing Java memory usage by 43% with joint JVM and container tuning",
-    "titlePt": "Como reduzir 43% do uso de memória em Java",
-    "url": "https://www.cloudpilot.ai/blog/java-workload-optimization/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo mostra que ajustar a JVM junto com os limites do contêiner pode cortar quase metade do consumo de memória em aplicações Java. É uma otimização valiosa especialmente em ambientes Kubernetes, onde memória custa caro. Desenvolvedores Java que pagam conta de nuvem devem ler com atenção.",
-    "reasonEn": "The article shows that tuning the JVM together with container limits can cut Java memory consumption by nearly half. It is a valuable optimization, especially in Kubernetes environments where memory is expensive. Java developers paying cloud bills should read it carefully.",
-    "score": 0.75,
-    "tags": [
-      "java",
-      "performance",
-      "otimização"
-    ],
-    "img": "img/ee6b8e8fa0d0.jpg",
-    "ts": 1788251995,
-    "addedTs": 1788253273,
-    "urlHash": "ee6b8e8fa0d0",
-    "titleHash": "796fec7e6c96"
-  },
-  {
-    "title": "Anthropic sued over alleged theft of 'thousands' of songs",
-    "titlePt": "Anthropic é processada por suposto roubo de milhares de músicas",
-    "url": "https://www.theguardian.com/business/2026/aug/31/aanthropic-sued-alleged-theft-songs-ai-train-claude",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Editoras musicais acusam a Anthropic de ter usado milhares de canções sem autorização para treinar seus modelos de IA. O processo pode abrir precedente importante sobre direitos autorais na indústria de IA generativa. Afeta diretamente desenvolvedores que usam Claude e investidores que acompanham o setor.",
-    "reasonEn": "Music publishers accuse Anthropic of using thousands of songs without permission to train its AI models. The lawsuit could set an important precedent for copyright in the generative AI industry. It directly affects developers using Claude and investors watching the sector.",
-    "score": 0.92,
-    "tags": [
-      "regulação",
-      "direitos autorais",
-      "anthropic"
-    ],
-    "img": "img/cdbff28ee576.jpg",
-    "ts": 1788251591,
-    "addedTs": 1788253273,
-    "urlHash": "cdbff28ee576",
-    "titleHash": "b696158d5565"
-  },
-  {
-    "title": "AI Agents Are Fundamentally Restructuring the Software Paradigm",
-    "titlePt": "Agentes de IA estão mudando o paradigma de software",
-    "url": "https://arxiv.org/abs/2606.05608",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo defende que agentes de IA representam uma mudança estrutural na forma como software é construído e usado. Argumenta que apps tradicionais baseados em menus darão lugar a interfaces conversacionais e autônomas. Visão provocativa, ainda que com pouca evidência concreta de adoção em massa.",
-    "reasonEn": "The article argues that AI agents represent a structural shift in how software is built and used. It contends that traditional menu-based apps will give way to conversational and autonomous interfaces. A provocative view, though with little concrete evidence of mass adoption.",
-    "score": 0.55,
-    "tags": [
-      "agentes",
-      "opinião"
-    ],
-    "img": "img/c1eb56fdf047.jpg",
-    "ts": 1788245660,
-    "addedTs": 1788253273,
-    "urlHash": "c1eb56fdf047",
-    "titleHash": "344235be5ddd"
-  },
-  {
-    "title": "Kodai – Secure your local workspace and manage secrets away from AI",
-    "titlePt": "Kodai: proteja seu workspace local da IA",
-    "url": "https://github.com/kodai-tech-official/kodai-tech",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O Kodai é uma ferramenta para esconder segredos e arquivos sensíveis de ferramentas de IA locais. Resolve um problema real: muitos devs percebem que copiam código com chaves de API para assistentes sem pensar. Boa pedida para quem se preocupa com vazamento de credenciais.",
-    "reasonEn": "Kodai is a tool to hide secrets and sensitive files from local AI tools. It solves a real problem: many developers unknowingly copy code containing API keys into assistants. A good fit for anyone worried about credential leaks.",
-    "score": 0.55,
-    "tags": [
-      "segurança",
-      "privacidade",
-      "devtools"
-    ],
-    "img": "img/de90fbe88761.jpg",
-    "ts": 1788245519,
-    "addedTs": 1788253273,
-    "urlHash": "de90fbe88761",
-    "titleHash": "a234a2e767ed"
-  },
-  {
-    "title": "DeepSeek-V4-Flash-Vision-Exp",
-    "titlePt": "DeepSeek lança modelo V4-Flash-Vision experimental",
-    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A DeepSeek disponibilizou um novo modelo experimental focado em visão, chamado V4-Flash-Vision-Exp. É mais uma opção aberta no ecossistema de modelos multimodais, competindo com pesos abertos da Alibaba e Meta. Desenvolvedores que precisam de visão computacional barata devem testar e comparar.",
-    "reasonEn": "DeepSeek released a new experimental vision-focused model called V4-Flash-Vision-Exp. It is another open option in the multimodal model ecosystem, competing with open weights from Alibaba and Meta. Developers needing affordable computer vision should test and compare.",
-    "score": 0.75,
-    "tags": [
-      "modelo",
-      "deepseek",
-      "visão"
-    ],
-    "img": "img/20c9f9de702f.jpg",
-    "ts": 1788244786,
-    "addedTs": 1788253273,
-    "urlHash": "20c9f9de702f",
-    "titleHash": "daa3cbec28f0"
-  },
-  {
-    "title": "What AI code review misses: SSRF and more",
-    "titlePt": "O que revisão de código com IA não pega: SSRF e além",
-    "url": "https://zeroquarry.com/research/security-vulnerabilities-in-ai-reviewed-code/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo mostra falhas reais que revisores de código baseados em IA deixam passar, com foco em vulnerabilidades de SSRF. É um alerta importante: confiar cegamente em code review automatizado pode criar falsa sensação de segurança. Leitura obrigatória para times que adotaram ou pretendem adotar essas ferramentas.",
-    "reasonEn": "The article shows real failures that AI-based code reviewers miss, focusing on SSRF vulnerabilities. It is an important warning: blindly trusting automated code review can create a false sense of security. Required reading for teams that have adopted or plan to adopt these tools.",
-    "score": 0.8,
-    "tags": [
-      "segurança",
-      "revisão de código",
-      "ssrf"
-    ],
-    "img": "img/90585f7e7e68.jpg",
-    "ts": 1788244524,
-    "addedTs": 1788253273,
-    "urlHash": "90585f7e7e68",
-    "titleHash": "a20837ffd458"
-  },
-  {
-    "title": "Instagram puts new limits on undisclosed AI profiles",
-    "titlePt": "Instagram limita perfis de IA não declarados",
-    "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "O Instagram começou a impor novos limites a contas que usam IA sem se identificarem como tal. A medida busca reduzir a proliferação de perfis automatizados que se passam por pessoas reais na plataforma. A mudança afeta criadores, marcas e qualquer um que opere contas automatizadas. É parte de um esforço maior das redes sociais para aumentar transparência sobre o uso de IA.",
-    "reasonEn": "Instagram has begun enforcing new limits on accounts that use AI without disclosing it. The move aims to reduce the spread of automated profiles pretending to be real people. The change affects creators, brands, and anyone running automated accounts. It is part of a broader social media push for transparency about AI use.",
-    "score": 0.55,
-    "tags": [
-      "redes sociais",
-      "regulação",
-      "transparência"
-    ],
-    "img": "img/ba23b444bdf6.jpg",
-    "ts": 1788203819,
-    "addedTs": 1788253273,
-    "urlHash": "ba23b444bdf6",
-    "titleHash": "5113e555fde9"
-  },
-  {
-    "title": "OpenAI supports California’s bill to advance youth AI safety",
-    "titlePt": "OpenAI apoia projeto de lei da Califórnia para segurança de jovens em IA",
-    "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A OpenAI declarou apoio a um projeto de lei da Califórnia que busca aumentar a segurança de crianças e adolescentes no uso de inteligência artificial. A medida pode incluir restrições a chatbots e exigências de verificação de idade. A posição marca mais um passo da empresa em direção a políticas de proteção infantil. Desenvolvedores de produtos voltados a jovens devem ficar atentos.",
-    "reasonEn": "OpenAI has voiced support for a California bill aimed at boosting safety for children and teens using artificial intelligence. The measure may include chatbot restrictions and age verification requirements. The stance marks another step by the company toward child protection policies. Developers building products for young users should pay attention.",
-    "score": 0.7,
-    "tags": [
-      "regulação",
-      "segurança",
-      "OpenAI"
-    ],
-    "img": "img/4862f3d2c68f.jpg",
-    "ts": 1788159600,
-    "addedTs": 1788253273,
-    "urlHash": "4862f3d2c68f",
-    "titleHash": "81d4bbca466f"
-  },
-  {
-    "title": "Polimill builds Japan's next-generation public AI infrastructure",
-    "titlePt": "Polimill constrói infraestrutura pública de IA no Japão",
-    "url": "https://openai.com/index/polimill",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A Polimill anunciou um projeto para construir a próxima geração de infraestrutura pública de inteligência artificial no Japão. A iniciativa busca oferecer capacidade de IA soberana para órgãos governamentais e serviços públicos. Pode reduzir a dependência japonesa de proveedores estrangeiros. Relevante para quem acompanha geopolítica e infraestrutura de IA.",
-    "reasonEn": "Polimill announced a project to build Japan's next-generation public AI infrastructure. The initiative aims to provide sovereign AI capacity for government agencies and public services. It may reduce Japanese dependence on foreign providers. Relevant for those tracking AI geopolitics and infrastructure.",
-    "score": 0.5,
-    "tags": [
-      "infraestrutura",
-      "Japão",
-      "política pública"
-    ],
-    "img": "img/0b5a688ac445.jpg",
-    "ts": 1788159600,
-    "addedTs": 1788253273,
-    "urlHash": "0b5a688ac445",
-    "titleHash": "3ff54e1261cc"
-  },
-  {
-    "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-    "titlePt": "Conecte, rode e publique fluxos de IA no Gradio",
-    "url": "https://huggingface.co/blog/gradio-workflow-guide",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "O tutorial do Hugging Face mostra como construir fluxos de trabalho de IA no Gradio conectando componentes, executando modelos e implantando aplicações. A abordagem é prática e útil para desenvolvedores que querem prototipar interfaces rapidamente. O Gradio simplifica a criação de demos interativas para modelos de IA. Boa leitura para quem trabalha com prototipagem rápida.",
-    "reasonEn": "The Hugging Face tutorial shows how to build AI workflows in Gradio by wiring components, running models, and deploying apps. The approach is hands-on and useful for developers wanting to prototype interfaces quickly. Gradio simplifies creating interactive demos for AI models. Worth reading for anyone doing rapid prototyping.",
-    "score": 0.6,
-    "tags": [
-      "tutorial",
-      "Gradio",
-      "Hugging Face"
-    ],
-    "img": "img/9b54a38fa1b1.jpg",
-    "ts": 1787616000,
-    "addedTs": 1788253273,
-    "urlHash": "9b54a38fa1b1",
-    "titleHash": "8566a8a44644"
-  },
-  {
-    "title": "How Much Memory Does Your Agent Actually Need?",
-    "titlePt": "Quanta memória seu agente realmente precisa?",
-    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "O Hugging Face publica uma análise sobre como dimensionar corretamente a memória de agentes de IA. O conteúdo ajuda desenvolvedores a entender o consumo real de recursos ao rodar agentes em produção. Inclui dicas práticas para otimizar o uso de memória sem sacrificar desempenho. Leitura útil para quem constrói ou mantém agentes em produção.",
-    "reasonEn": "Hugging Face published an analysis on how to correctly size memory for AI agents. The content helps developers understand real resource consumption when running agents in production. It includes practical tips for optimizing memory use without sacrificing performance. Useful reading for anyone building or maintaining agents in production.",
-    "score": 0.75,
-    "tags": [
-      "agentes",
-      "memória",
-      "Hugging Face"
-    ],
-    "img": "img/5ba78b757300.jpg",
-    "ts": 1787076578,
-    "addedTs": 1788253273,
-    "urlHash": "5ba78b757300",
-    "titleHash": "3b116a96af58"
   }
 ]
