@@ -1,5 +1,262 @@
 [
   {
+    "title": "Is the UK government the new training ground for AI execs?",
+    "titlePt": "O governo britânico virou escola para executivos de IA?",
+    "url": "https://www.theguardian.com/technology/2026/sep/07/architect-uk-ai-policy-quits-anthropic-conflict-of-interest-concerns",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto discute como funcionários do governo do Reino Unido estão migrando para grandes empresas de IA, criando uma porta giratória entre o setor público e o privado. O movimento preocupa porque quem regula hoje pode estar regulando seus próprios futuros empregadores. Para desenvolvedores e empresas de tecnologia, isso pode moldar regras de IA mais permissivas ou mais rígidas. É uma leitura útil para quem quer entender decisões regulatórias à frente.",
+    "reasonEn": "The piece discusses how UK government officials are moving into big AI companies, creating a revolving door between public and private sectors. The trend is concerning because those regulating today may be regulating their own future employers. For developers and tech companies, this can shape AI rules that are either more permissive or stricter. Useful reading for anyone trying to understand upcoming regulatory decisions.",
+    "score": 0.6,
+    "tags": [
+      "regulação",
+      "carreira"
+    ],
+    "img": "img/fd27b46537b5.jpg",
+    "ts": 1788855486,
+    "addedTs": 1788855991,
+    "urlHash": "fd27b46537b5",
+    "titleHash": "06c22e62e920"
+  },
+  {
+    "title": "Bodhan.ai releases 1.2B ASR model that covers 22 Indian Languages",
+    "titlePt": "Bodhan.ai lança modelo de fala de 1,2B cobrindo 22 idiomas indianos",
+    "url": "https://bodhan.ai/research/blogs/indic-transcribe",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A startup indiana Bodhan.ai lançou um modelo de reconhecimento automático de fala com 1,2 bilhão de parâmetros capaz de transcrever 22 línguas da Índia. Isso é relevante porque a Índia tem enorme diversidade linguística e poucos modelos abertos cobriam tantas línguas. Desenvolvedores podem usar o modelo para construir aplicações de voz acessíveis a centenas de milhões de falantes. A novidade amplia inclusão digital onde digitar ainda é uma barreira.",
+    "reasonEn": "Indian startup Bodhan.ai released a 1.2 billion parameter ASR model covering 22 Indian languages. This matters because India has enormous linguistic diversity and few open models covered so many. Developers can use it to build voice applications accessible to hundreds of millions of speakers. The release broadens digital inclusion where typing is still a barrier.",
+    "score": 0.8,
+    "tags": [
+      "modelo",
+      "voz",
+      "lançamento"
+    ],
+    "img": "img/caf028d6cba2.jpg",
+    "ts": 1788852759,
+    "addedTs": 1788855991,
+    "urlHash": "caf028d6cba2",
+    "titleHash": "343d865af7a1"
+  },
+  {
+    "title": "In the age of AI what use is left for a personal computer?",
+    "titlePt": "Na era da IA, para que ainda serve um computador pessoal?",
+    "url": "https://news.ycombinator.com/item?id=49606689",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto provoca uma reflexão sobre o papel do PC tradicional quando grande parte das tarefas migra para a nuvem e para modelos de IA. É uma discussão filosófica e de produto, útil para quem desenha experiências e estratégias de plataforma. Não traz dados novos, mas ajuda a repensar o que faz sentido rodar localmente. Importa principalmente para desenvolvedores de software de desktop.",
+    "reasonEn": "The piece provokes reflection on the role of the traditional PC when many tasks move to the cloud and AI models. It's a philosophical and product discussion, useful for those designing experiences and platform strategies. It doesn't bring new data, but helps rethink what makes sense to run locally. Matters mostly for desktop software developers.",
+    "score": 0.5,
+    "tags": [
+      "opinião",
+      "produto"
+    ],
+    "img": "img/534aa83c1fcd.jpg",
+    "ts": 1788852027,
+    "addedTs": 1788855991,
+    "urlHash": "534aa83c1fcd",
+    "titleHash": "7dca72bebc95"
+  },
+  {
+    "title": "AI keeps stubbornly refusing to take our jobs",
+    "titlePt": "IA segue teimosamente se recusando a roubar nossos empregos",
+    "url": "https://www.noahpinion.blog/p/ai-keeps-stubbornly-refusing-to-take",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto reúne dados e exemplos mostrando que, apesar do hype, a IA ainda não substituiu a maioria das profissões como muitos previam. Tarefas complexas, criatividade e interação humana continuam dependendo de pessoas. Para desenvolvedores, a lição é que entender onde a IA ajuda e onde falha segue sendo uma habilidade valiosa. Serve como contraponto útil a previsões exageradas.",
+    "reasonEn": "The piece gathers data and examples showing that despite the hype, AI still hasn't replaced most professions as many predicted. Complex tasks, creativity, and human interaction still depend on people. For developers, the takeaway is that understanding where AI helps and where it fails remains a valuable skill. It serves as a useful counterpoint to exaggerated predictions.",
+    "score": 0.6,
+    "tags": [
+      "mercado",
+      "opinião"
+    ],
+    "img": "img/303a87772b72.jpg",
+    "ts": 1788851990,
+    "addedTs": 1788855991,
+    "urlHash": "303a87772b72",
+    "titleHash": "89000475624a"
+  },
+  {
+    "title": "The Chasm: The Shape of Unfinished AI Codebases",
+    "titlePt": "O abismo: o formato dos codebases de IA inacabados",
+    "url": "https://jimmyhmiller.com/shape-of-unfinished-ai-codebases",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo descreve um padrão em que projetos de IA começam acelerados e depois estagnam, formando um vale de código inacabado. Ajuda times a reconhecer sinais precoces desse problema antes de ficarem presos em dívida técnica. É uma leitura útil para líderes técnicos e arquitetos que precisam decidir quando parar ou pivotar. Vale pela provocação mais do que por soluções prontas.",
+    "reasonEn": "The article describes a pattern where AI projects start fast and then stall, forming a valley of unfinished code. It helps teams spot early signs of this problem before getting stuck in technical debt. Useful reading for tech leads and architects who need to decide when to stop or pivot. Worth it for the provocation more than ready-made solutions.",
+    "score": 0.5,
+    "tags": [
+      "engenharia",
+      "gestão"
+    ],
+    "img": "img/47c08b99d4b7.jpg",
+    "ts": 1788851568,
+    "addedTs": 1788855991,
+    "urlHash": "47c08b99d4b7",
+    "titleHash": "fa688eaaf0f8"
+  },
+  {
+    "title": "Arm unveils AI Portal for optimized AI apps",
+    "titlePt": "Arm lança portal de IA para apps otimizados em seus chips",
+    "url": "https://newsroom.arm.com/news/arm-unveils-arm-ai-portal",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Arm apresentou um portal de IA voltado a desenvolvedores, reunindo ferramentas e recursos para criar aplicativos otimizados para seus chips. O objetivo é simplificar o trabalho de quem programa para dispositivos móveis e embarcados, foco tradicional da Arm. Para times de desenvolvimento, significa menos atrito para colocar modelos em produção em hardware com pouca memória e energia. É mais um movimento para tornar a IA on-device mais acessível.",
+    "reasonEn": "Arm introduced an AI portal aimed at developers, bringing together tools and resources to build apps optimized for its chips. The goal is to simplify work for those programming for mobile and embedded devices, Arm's traditional focus. For dev teams, it means less friction when deploying models on hardware with limited memory and power. It's another move to make on-device AI more accessible.",
+    "score": 0.7,
+    "tags": [
+      "hardware",
+      "ferramentas",
+      "lançamento"
+    ],
+    "img": "img/67d2b90d000d.jpg",
+    "ts": 1788849849,
+    "addedTs": 1788855991,
+    "urlHash": "67d2b90d000d",
+    "titleHash": "ccf4980fe6da"
+  },
+  {
+    "title": "TrustNotch – Tamper-evident audit logs for AI agents, verifiable offline",
+    "titlePt": "TrustNotch oferece logs à prova de violação para agentes de IA",
+    "url": "https://trustnotch.com/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A ferramenta TrustNotch cria trilhas de auditoria verificáveis mesmo offline, pensadas para agentes de IA que executam ações sensíveis. Resolve uma dor real: provar quem fez o quê em sistemas automatizados, sem depender da nuvem. Para times que usam agentes em produção, é uma camada de governança relevante. Ajuda a atender requisitos regulatórios e de segurança corporativa.",
+    "reasonEn": "TrustNotch creates tamper-evident audit logs, designed for AI agents that take sensitive actions. It solves a real pain: proving who did what in automated systems without depending on the cloud. For teams running agents in production, it's a relevant governance layer. It helps meet regulatory and corporate security requirements.",
+    "score": 0.6,
+    "tags": [
+      "segurança",
+      "agentes",
+      "ferramentas"
+    ],
+    "img": "img/c30ceb41d8e6.jpg",
+    "ts": 1788848519,
+    "addedTs": 1788855991,
+    "urlHash": "c30ceb41d8e6",
+    "titleHash": "3056db603bdf"
+  },
+  {
+    "title": "Major Math Breakthrough by AI",
+    "titlePt": "IA protagoniza grande avanço matemático",
+    "url": "https://mastodon.social/@tristanbuckmaster/117233413705701198",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A notícia reporta um avanço matemático significativo atribuído a uma IA, gerando debate na comunidade científica. Se confirmado, é um marco porque matemática de alto nível exige raciocínio simbólico profundo, área onde modelos vinham tropeçando. O feito pode acelerar pesquisas que dependem de provas formais e modelagem. Para desenvolvedores, sinaliza que a IA começa a contribuir em ciência fundamental, não apenas em tarefas rotineiras.",
+    "reasonEn": "The story reports a significant mathematical breakthrough attributed to AI, sparking debate in the scientific community. If confirmed, it's a milestone because high-level math requires deep symbolic reasoning, where models had been struggling. The achievement could accelerate research that depends on formal proofs and modeling. For developers, it signals AI starting to contribute to fundamental science, not just routine tasks.",
+    "score": 0.7,
+    "tags": [
+      "pesquisa",
+      "modelo"
+    ],
+    "img": "img/416652df593a.jpg",
+    "ts": 1788847986,
+    "addedTs": 1788855991,
+    "urlHash": "416652df593a",
+    "titleHash": "a9de44c03232"
+  },
+  {
+    "title": "AI crawler user-agents are being spoofed to reach cloud metadata endpoints",
+    "titlePt": "Crawlers de IA falsificam identidade para atacar endpoints na nuvem",
+    "url": "https://honeylabs.net/blog/spoofed-ai-crawlers-one-client",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Pesquisadores descobriram que agentes de coleta de dados de empresas de IA estão falsificando seus identificadores para alcançar endpoints de metadados em nuvens públicas. Esses endpoints podem vazar credenciais sensíveis, o que transforma a prática em risco sério de segurança. O problema afeta qualquer empresa que rode serviços em AWS, GCP ou Azure sem proteção adicional. Para desenvolvedores, é um alerta para revisar logs, restringir metadados e tratar tráfego de IA com a mesma desconfiança de qualquer bot.",
+    "reasonEn": "Researchers discovered that AI data-scraping agents are spoofing their identifiers to reach metadata endpoints in public clouds. These endpoints can leak sensitive credentials, turning the practice into a serious security risk. The issue affects any company running services on AWS, GCP, or Azure without extra protection. For developers, it's a warning to review logs, restrict metadata, and treat AI traffic with the same suspicion as any bot.",
+    "score": 0.85,
+    "tags": [
+      "segurança",
+      "nuvem"
+    ],
+    "img": "img/198cc5b3cd51.jpg",
+    "ts": 1788846271,
+    "addedTs": 1788855991,
+    "urlHash": "198cc5b3cd51",
+    "titleHash": "5006cb8b0384"
+  },
+  {
+    "title": "An AI that talks like a friend, jumps in, interrupts and keeps the convo going",
+    "titlePt": "Nova IA conversa como amigo: interrompe, antecipa e mantém o papo",
+    "url": "https://www.echohive.ai/deep-talk-buddy",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto apresenta uma IA conversacional desenhada para interagir de forma mais espontânea, com interrupções e retomadas naturais. É um avanço incremental em UX de chatbots, relevante para quem desenvolve assistentes virtuais. Não representa salto técnico radical, mas pode melhorar a sensação de companhia em produtos de voz. Importa mais para product designers do que para infra de modelos.",
+    "reasonEn": "The piece presents a conversational AI designed to interact more spontaneously, with natural interruptions and turn-taking. It's an incremental advance in chatbot UX, relevant for those building virtual assistants. Not a radical technical leap, but it can improve the sense of companionship in voice products. Matters more for product designers than for model infrastructure.",
+    "score": 0.5,
+    "tags": [
+      "produto",
+      "voz"
+    ],
+    "img": "img/7ff81608f42c.jpg",
+    "ts": 1788845467,
+    "addedTs": 1788855991,
+    "urlHash": "7ff81608f42c",
+    "titleHash": "42ccefd2756c"
+  },
+  {
+    "title": "Mistral raises €3B",
+    "titlePt": "Mistral capta 3 bilhões de euros em nova rodada de investimento",
+    "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A francesa Mistral, uma das principais concorrentes europeias da OpenAI e da Anthropic, levantou 3 bilhões de euros em financiamento. O valor reforça a posição da empresa como referência em IA soberana na Europa e atrai atenção para o ecossistema do continente. Para desenvolvedores, significa mais recursos para modelos abertos e APIs competitivas. A rodada também pode pressionar rivais a ajustar preços e estratégias, beneficiando clientes corporativos.",
+    "reasonEn": "France's Mistral, one of Europe's main competitors to OpenAI and Anthropic, raised 3 billion euros in funding. The sum strengthens the company's position as a reference in sovereign AI in Europe and draws attention to the continent's ecosystem. For developers, it means more resources for open models and competitive APIs. The round may also push rivals to adjust pricing and strategies, benefiting corporate customers.",
+    "score": 0.9,
+    "tags": [
+      "deal",
+      "financiamento",
+      "modelo"
+    ],
+    "img": "img/7db995c30f47.jpg",
+    "ts": 1788843983,
+    "addedTs": 1788855991,
+    "urlHash": "7db995c30f47",
+    "titleHash": "d66488ad2647"
+  },
+  {
+    "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
+    "titlePt": "Microsoft Copilot Revela Entrada Secreta Que Permitiu Ser Hackeado",
+    "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
+    "source": "Ars Technica",
+    "sources": [
+      "Ars Technica"
+    ],
+    "reason": "Pesquisadores descobriram uma vulnerabilidade no Microsoft Copilot que expôs uma entrada secreta usada para atacar o sistema. O problema permitia que invasores manipulassem as respostas da IA e acessassem dados sensíveis. É uma falha de segurança relevante porque o Copilot é amplamente usado em ambientes corporativos. Desenvolvedores e equipes de TI devem ficar atentos a atualizações da Microsoft.",
+    "reasonEn": "Researchers discovered a vulnerability in Microsoft Copilot that exposed a secret input used to attack the system. The flaw allowed attackers to manipulate the AI's responses and access sensitive data. This is a relevant security issue because Copilot is widely used in corporate environments. Developers and IT teams should watch for Microsoft patches.",
+    "score": 0.85,
+    "tags": [
+      "segurança",
+      "microsoft",
+      "vulnerabilidade"
+    ],
+    "img": "img/95524b9f1235.jpg",
+    "ts": 1787058004,
+    "addedTs": 1788855991,
+    "urlHash": "95524b9f1235",
+    "titleHash": "723d1aca3b56"
+  },
+  {
     "title": "Supporting independent journalism in Ukraine",
     "titlePt": "OpenAI apoia o jornalismo independente na Ucrânia",
     "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
@@ -8384,137 +8641,5 @@
     "addedTs": 1788253273,
     "urlHash": "5ba78b757300",
     "titleHash": "3b116a96af58"
-  },
-  {
-    "title": "OpenAI to Cut Off AI Models for SpaceX-Owned Cursor",
-    "titlePt": "OpenAI supostamente cortará acesso da Cursor a seus modelos",
-    "url": "https://www.reuters.com/business/media-telecom/openai-end-partnership-with-spacexs-cursor-2026-08-29/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Reportagem no Hacker News afirma que a OpenAI pretende bloquear o uso de seus modelos pelo Cursor, editor de código com IA ligado, segundo o texto, à SpaceX. Se confirmado, afeta milhares de desenvolvedores que dependem do produto no dia a dia. A história ainda precisa de mais confirmação oficial da OpenAI.",
-    "reasonEn": "A Hacker News report claims OpenAI plans to cut off its models from Cursor, an AI code editor reportedly tied to SpaceX. If confirmed, it would affect thousands of developers who rely on the product daily. The story still needs more official confirmation from OpenAI.",
-    "score": 0.65,
-    "tags": [
-      "openai",
-      "desenvolvedores",
-      "disputa"
-    ],
-    "img": "img/bb445633cf20.jpg",
-    "ts": 1788223411,
-    "addedTs": 1788230650,
-    "urlHash": "bb445633cf20",
-    "titleHash": "9bbe5fa2a1dc"
-  },
-  {
-    "title": "Apple shares &#8216;shocking evidence&#8217; against former employee accused of stealing company data for OpenAI",
-    "titlePt": "Apple apresenta provas contra ex-funcionário suspeito de roubar dados para a OpenAI",
-    "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A Apple teria apresentado evidências de que um ex-empregado vazou informações sensíveis da empresa para a OpenAI. O caso reacende o debate sobre vazamento de talentos e segredos industriais no setor de IA. Pode ter desdobramentos regulatórios e impactar contratos entre gigantes de tecnologia.",
-    "reasonEn": "Apple reportedly presented evidence that a former employee leaked sensitive company information to OpenAI. The case reignites the debate over talent leaks and trade secrets in the AI sector. It may have regulatory fallout and impact contracts between tech giants.",
-    "score": 0.8,
-    "tags": [
-      "apple",
-      "openai",
-      "judiciário"
-    ],
-    "img": "img/b0ee4c6fde08.jpg",
-    "ts": 1788221580,
-    "addedTs": 1788230650,
-    "urlHash": "b0ee4c6fde08",
-    "titleHash": "8000a7dba742"
-  },
-  {
-    "title": "Anthropic signs $35B cloud deal backed by Nvidia",
-    "titlePt": "Anthropic fecha acordo de nuvem de US$ 35 bi com apoio da Nvidia",
-    "url": "https://www.wsj.com/tech/ai/anthropic-signs-35-billion-cloud-deal-backed-by-nvidia-f12622f1",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Anthropic assinou um acordo bilionário de US$ 35 bilhões com provedores de nuvem, com participação da Nvidia. O movimento consolida a disputa por infraestrutura entre grandes modelos e mostra o peso financeiro da corrida da IA. Afeta investidores, rivais e o mercado de chips.",
-    "reasonEn": "Anthropic signed a massive $35 billion cloud deal, with backing from Nvidia. The move tightens the infrastructure race among major AI labs and shows the financial weight of the AI boom. It affects investors, rivals and the chip market.",
-    "score": 0.9,
-    "tags": [
-      "anthropic",
-      "nvidia",
-      "deal"
-    ],
-    "img": "img/34b95dcca0bc.jpg",
-    "ts": 1788219556,
-    "addedTs": 1788230650,
-    "urlHash": "34b95dcca0bc",
-    "titleHash": "aa163085e274"
-  },
-  {
-    "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
-    "titlePt": "Microsoft Copilot revela entrada secreta que possibilitava invasão",
-    "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
-    "source": "Ars Technica",
-    "sources": [
-      "Ars Technica"
-    ],
-    "reason": "Pesquisadores descobriram uma entrada oculta no Microsoft Copilot que permitia que invasores manipulassem o sistema. A falha foi encontrada durante testes de segurança e expõe como agentes de IA podem ser vulneráveis a ataques. Usuários corporativos do Copilot devem ficar atentos a atualizações de segurança. O caso reforça a importância de testar agentes de IA antes de colocar em produção.",
-    "reasonEn": "Researchers discovered a hidden input in Microsoft Copilot that allowed attackers to manipulate the system. The flaw was found during security testing and exposes how AI agents can be vulnerable to attacks. Corporate Copilot users should pay attention to security updates. The case reinforces the importance of testing AI agents before putting them into production.",
-    "score": 0.75,
-    "tags": [
-      "segurança",
-      "copilot",
-      "vulnerabilidade"
-    ],
-    "img": "img/95524b9f1235.jpg",
-    "ts": 1787058004,
-    "addedTs": 1788230650,
-    "urlHash": "95524b9f1235",
-    "titleHash": "723d1aca3b56"
-  },
-  {
-    "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-    "titlePt": "Railway levanta 100 milhões de dólares para desafiar a AWS com infraestrutura nativa de IA",
-    "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-    "source": "VentureBeat AI",
-    "sources": [
-      "VentureBeat AI"
-    ],
-    "reason": "A Railway, plataforma de infraestrutura em nuvem, captou 100 milhões de dólares em uma rodada de financiamento. O objetivo é competir com gigantes como AWS usando uma abordagem nativa para inteligência artificial. A aposta é que cargas de trabalho de IA precisam de ferramentas otimizadas desde a base, não adaptadas depois. A notícia mostra a corrida por infraestrutura especializada em IA e pode pressionar preços no mercado de nuvem.",
-    "reasonEn": "Railway, a cloud infrastructure platform, raised $100 million in a funding round. The goal is to compete with giants like AWS using a native approach to artificial intelligence. The bet is that AI workloads need tools optimized from the ground up, not adapted later. The news shows the race for AI-specialized infrastructure and could pressure prices in the cloud market.",
-    "score": 0.7,
-    "tags": [
-      "infraestrutura",
-      "financiamento",
-      "cloud"
-    ],
-    "img": "img/7f9102717fb1.jpg",
-    "ts": 1769090400,
-    "addedTs": 1788230650,
-    "urlHash": "7f9102717fb1",
-    "titleHash": "04e297de9927"
-  },
-  {
-    "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-    "titlePt": "Claude Code custa até 200 dólares por mês; Goose faz o mesmo de graça",
-    "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-    "source": "VentureBeat AI",
-    "sources": [
-      "VentureBeat AI"
-    ],
-    "reason": "O Claude Code, ferramenta de programação com IA da Anthropic, pode custar até 200 dólares mensais para usuários avançados. Já o Goose, projeto de código aberto, oferece funcionalidade parecida sem custo. Para desenvolvedores que usam Claude Code, vale avaliar o quanto os recursos extras da versão paga realmente compensam. A comparação também evidencia a força das alternativas abertas no mercado de ferramentas de desenvolvimento com IA.",
-    "reasonEn": "Claude Code, Anthropic's AI programming tool, can cost up to $200 per month for advanced users. Goose, an open-source project, offers similar functionality at no cost. For developers using Claude Code, it's worth evaluating whether the extra features of the paid version are really worth it. The comparison also highlights the strength of open alternatives in the AI development tools market.",
-    "score": 0.75,
-    "tags": [
-      "ferramentas",
-      "código-aberto",
-      "custo"
-    ],
-    "img": "img/99a74fa8e5c3.jpg",
-    "ts": 1768831200,
-    "addedTs": 1788230650,
-    "urlHash": "99a74fa8e5c3",
-    "titleHash": "fe3ec9668734"
   }
 ]
