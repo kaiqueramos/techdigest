@@ -1,5 +1,313 @@
 [
   {
+    "title": "Linux desktop image editor with local AI",
+    "titlePt": "Editor de imagens para Linux com IA local",
+    "url": "https://github.com/cthackers/inpaint",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um editor de imagens para desktop Linux que roda modelos de IA diretamente na máquina, sem enviar dados para a nuvem. Interessa a desenvolvedores e designers preocupados com privacidade. Mostra que alternativas locais ao processamento em nuvem estão amadurecendo.",
+    "reasonEn": "A desktop image editor for Linux that runs AI models locally, without sending data to the cloud. Useful for developers and privacy-conscious designers. It shows that on-device AI alternatives are maturing fast.",
+    "score": 0.6,
+    "tags": [
+      "linux",
+      "ia-local",
+      "imagens"
+    ],
+    "img": "img/27617d74327e.jpg",
+    "ts": 1788910168,
+    "addedTs": 1788911136,
+    "urlHash": "27617d74327e",
+    "titleHash": "e1c2776dda4a"
+  },
+  {
+    "title": "Chinese AI Companies Conducting Distillation Campaigns Against U.S. AI Companies [pdf]",
+    "titlePt": "Empresas chinesas de IA conduzem campanhas de destilação contra rivais dos EUA",
+    "url": "https://media.defense.gov/2026/Sep/08/2003992823/-1/-1/1/CSA_CHINA_BASED_AI_COMPANIES_MALICIOUS_DISTILLATION_AGAINST_US.PDF",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um relatório em PDF denuncia que empresas chinesas de IA estão sistematicamente destilando modelos americanos, ou seja, extraindo seu conhecimento ao treinarem cópias menores. É uma violação de propriedade intelectual em escala industrial. Afeta diretamente a competitividade global em IA e pode acirrar tensões regulatórias entre os dois países.",
+    "reasonEn": "A PDF report alleges that Chinese AI companies are systematically distilling American models, extracting their knowledge to train smaller copies. This amounts to industrial-scale intellectual property theft. It directly affects global AI competitiveness and could escalate regulatory tensions between the two countries.",
+    "score": 0.95,
+    "tags": [
+      "segurança",
+      "geopolítica",
+      "modelos"
+    ],
+    "img": "img/b5524bf799f6.jpg",
+    "ts": 1788910123,
+    "addedTs": 1788911136,
+    "urlHash": "b5524bf799f6",
+    "titleHash": "24d649984897"
+  },
+  {
+    "title": "Mastra Agent Factory",
+    "titlePt": "Mastra Agent Factory: fábrica de agentes de IA",
+    "url": "https://mastra.ai/factory",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Lançamento de uma ferramenta para construir e orquestrar agentes de IA de forma padronizada. Ajuda times de desenvolvimento a escalar automações. Relevante principalmente para engenheiros que já trabalham com agentes.",
+    "reasonEn": "Launch of a tool to build and orchestrate AI agents in a standardized way. It helps dev teams scale automations. Most relevant for engineers already working with agents.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "framework",
+      "desenvolvedores"
+    ],
+    "img": "img/4795fa200b34.jpg",
+    "ts": 1788909802,
+    "addedTs": 1788911136,
+    "urlHash": "4795fa200b34",
+    "titleHash": "58fa448721cf"
+  },
+  {
+    "title": "Buckmaster raising alarms that AI corporations snooped on their research",
+    "titlePt": "Acadêmicos acusam empresas de IA de bisbilhotar suas pesquisas",
+    "url": "https://social.coop/@cwebber/117236126658335889",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Pesquisadores, incluindo o grupo Buckmaster, denunciam que corporações de IA estariam acessando conteúdo acadêmico sem autorização para treinar modelos. O caso levanta questões sobre direitos autorais e limites do uso justo. Pode levar a novas ações judiciais e mudanças nas políticas de acesso a publicações científicas.",
+    "reasonEn": "Researchers, including the Buckmaster group, accuse AI corporations of snooping on academic content without permission to train models. The case raises copyright and fair use questions. It could trigger new lawsuits and reshape access policies to scientific publications.",
+    "score": 0.6,
+    "tags": [
+      "academia",
+      "direitos-autorais",
+      "treinamento"
+    ],
+    "img": "img/caca369a3a11.jpg",
+    "ts": 1788909149,
+    "addedTs": 1788911136,
+    "urlHash": "caca369a3a11",
+    "titleHash": "3a46f4d63e92"
+  },
+  {
+    "title": "How to manage a growing fleet of AI agents with Latitude",
+    "titlePt": "Como gerenciar uma frota crescente de agentes de IA com a Latitude",
+    "url": "https://latitude.so/blog/how-to-manage-a-fleet-of-agents-with-latitude",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Guia prático sobre gestão de múltiplos agentes de IA usando a plataforma Latitude. Cobre coordenação, monitoramento e custos. Útil para times que já operam agentes em produção e buscam evitar caos operacional.",
+    "reasonEn": "Practical guide on managing multiple AI agents with the Latitude platform. It covers coordination, monitoring and costs. Useful for teams already running agents in production who want to avoid operational chaos.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "gestão",
+      "tutorial"
+    ],
+    "img": "img/c9d0356e2ee5.jpg",
+    "ts": 1788907185,
+    "addedTs": 1788911136,
+    "urlHash": "c9d0356e2ee5",
+    "titleHash": "196ba5ae4027"
+  },
+  {
+    "title": "Hacking Cable: AI in post-exploitation operations",
+    "titlePt": "Hacking Cable: o papel da IA em operações pós-exploração",
+    "url": "https://palisaderesearch.org/blog/hacking-cable",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Artigo técnico sobre como atores maliciosos estão usando IA na fase pós-exploração de ataques, após já terem invadido sistemas. Mostra uma nova camada de automação no cibercrime. Profissionais de segurança e times de resposta a incidentes devem ler.",
+    "reasonEn": "Technical article on how malicious actors use AI in the post-exploitation phase, after breaking into systems. It shows a new automation layer in cybercrime. Security professionals and incident response teams should read it.",
+    "score": 0.55,
+    "tags": [
+      "segurança",
+      "hacking",
+      "agentes"
+    ],
+    "img": "img/72387344f80b.jpg",
+    "ts": 1788906954,
+    "addedTs": 1788911136,
+    "urlHash": "72387344f80b",
+    "titleHash": "a0eda5b27671"
+  },
+  {
+    "title": "Solo.io Pushes Agentic AI Governance to the Desktop: Open-Source Agentdesktop",
+    "titlePt": "Solo.io leva governança de IA agêntica ao desktop com projeto open source",
+    "url": "https://techstrong.ai/articles/solo-io-pushes-agentic-ai-governance-to-the-desktop-with-open-source-agentdesktop/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Solo.io lançou o Agentdesktop, ferramenta open source para aplicar políticas de governança em agentes de IA rodando localmente. Ajuda empresas a controlar o que agentes podem fazer sem dependerem só da nuvem. Relevante para equipes de plataforma e segurança corporativa.",
+    "reasonEn": "Solo.io released Agentdesktop, an open source tool to enforce governance policies on locally running AI agents. It helps companies control what agents can do without relying only on the cloud. Relevant for platform and corporate security teams.",
+    "score": 0.5,
+    "tags": [
+      "open-source",
+      "governança",
+      "agentes"
+    ],
+    "img": "img/608c188f6387.jpg",
+    "ts": 1788906771,
+    "addedTs": 1788911136,
+    "urlHash": "608c188f6387",
+    "titleHash": "85b91e727ae6"
+  },
+  {
+    "title": "Despite the chatter, AI pricing is not converging on a model",
+    "titlePt": "Apesar do debate, preços de IA não convergem para um único modelo",
+    "url": "https://www.solvimon.com/blog/ai-pricing-not-converging-on-single-model",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Análise mostra que o mercado de IA não está caminhando para um preço único, apesar do discurso de padronização. Provedores cobram de formas muito diferentes, de assinatura a consumo por token. Quem planeja orçamento para IA precisa entender essa fragmentação para evitar surpresas.",
+    "reasonEn": "Analysis shows the AI market is not moving toward a single price, despite talk of standardization. Providers charge very differently, from subscriptions to per-token consumption. Anyone budgeting for AI needs to understand this fragmentation to avoid surprises.",
+    "score": 0.7,
+    "tags": [
+      "negócios",
+      "preços",
+      "mercado"
+    ],
+    "img": "img/ebec086597d5.jpg",
+    "ts": 1788906650,
+    "addedTs": 1788911136,
+    "urlHash": "ebec086597d5",
+    "titleHash": "40631db07329"
+  },
+  {
+    "title": "Open Models Change the Economics of AI [video]",
+    "titlePt": "Modelos abertos mudam a economia da IA",
+    "url": "https://www.youtube.com/watch?v=rY0wnfFHYbs",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Vídeo discute como modelos de código aberto alteram profundamente os custos e a dinâmica competitiva do setor de IA. Mostra que o argumento puramente comercial de gigantes fechados está enfraquecendo. Vale para líderes de produto e estrategistas de tecnologia.",
+    "reasonEn": "A video discusses how open source models are reshaping the costs and competitive dynamics of the AI sector. It shows that the purely commercial argument of closed giants is weakening. Worth watching for product leaders and tech strategists.",
+    "score": 0.6,
+    "tags": [
+      "open-source",
+      "economia",
+      "vídeo"
+    ],
+    "img": "img/44fbc3bf38ff.jpg",
+    "ts": 1788906573,
+    "addedTs": 1788911136,
+    "urlHash": "44fbc3bf38ff",
+    "titleHash": "4754d49043ce"
+  },
+  {
+    "title": "The DOJ's AI Fair Use Brief Is Correct, but from a DOJ That Has No Credibility",
+    "titlePt": "Briefing do DOJ sobre uso justo em IA está correto, mas vem de quem não tem credibilidade",
+    "url": "https://www.techdirt.com/2026/09/08/the-dojs-ai-fair-use-brief-is-correct-but-from-a-doj-that-has-no-credibility/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Análise jurídica avalia que o argumento do Departamento de Justiça dos EUA sobre uso justo no treinamento de IA é tecnicamente correto, mas questiona a credibilidade institucional de quem o defende. O debate importa porque definirá limites legais para treinar modelos. Desenvolvedores e empresas de IA devem acompanhar o desfecho.",
+    "reasonEn": "Legal analysis finds that the US Department of Justice's argument on fair use in AI training is technically correct, but questions the institutional credibility of its source. The debate matters because it will set legal boundaries for model training. Developers and AI companies should follow the outcome.",
+    "score": 0.7,
+    "tags": [
+      "regulação",
+      "direito",
+      "treinamento"
+    ],
+    "img": "img/d0f44acf841c.jpg",
+    "ts": 1788906187,
+    "addedTs": 1788911136,
+    "urlHash": "d0f44acf841c",
+    "titleHash": "89eb0e3441fe"
+  },
+  {
+    "title": "Show HN: SagaShield – ACID transactions and security guardrails for AI agents",
+    "titlePt": "SagaShield: transações ACID e guardrails de segurança para agentes de IA",
+    "url": "https://github.com/sebastianmechno-sys/sagashield",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Projeto Show HN que adiciona transações ACID e barreiras de segurança para agentes de IA, evitando ações destrutivas em cadeia. Interessa a engenheiros que estão cansados de agentes agindo fora de controle. Ainda é experimental, mas aponta uma direção importante.",
+    "reasonEn": "A Show HN project adding ACID transactions and safety guardrails to AI agents, preventing destructive cascading actions. It appeals to engineers tired of agents acting out of control. Still experimental, but points to an important direction.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "segurança",
+      "open-source"
+    ],
+    "img": "img/dd7543ce6a74.jpg",
+    "ts": 1788905760,
+    "addedTs": 1788911136,
+    "urlHash": "dd7543ce6a74",
+    "titleHash": "5c8a74f30ce9"
+  },
+  {
+    "title": "Hackers are stealing Claude tokens from subscribers",
+    "titlePt": "Hackers estão roubando tokens de Claude de assinantes",
+    "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "Hackers estão conseguindo roubar tokens de acesso do Claude de usuários pagantes, segundo reportagem da TechCrunch. Com os tokens, conseguem usar o modelo como se fossem o assinante, gerando custos e abusando de limites. Assinantes devem revisar acessos e ativar autenticação em dois fatores.",
+    "reasonEn": "Hackers are stealing Claude access tokens from paying subscribers, according to TechCrunch. With the tokens, attackers can use the model as if they were the subscriber, generating costs and abusing limits. Subscribers should review access logs and enable two-factor authentication.",
+    "score": 0.95,
+    "tags": [
+      "segurança",
+      "anthropic",
+      "fraude"
+    ],
+    "img": "img/a58bb6dba21b.jpg",
+    "ts": 1788901827,
+    "addedTs": 1788911136,
+    "urlHash": "a58bb6dba21b",
+    "titleHash": "bc481db1a895"
+  },
+  {
+    "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+    "titlePt": "Cognition atingevaluation de 48 bilhões e mostra que mercado de IA para código não tem vencedor único",
+    "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A Cognition, criadora do Devin, foi avaliada em 48 bilhões de dólares em nova rodada, sinalizando que investidores ainda veem espaço para múltiplos players em IA para programação. O valuation reforça que a corrida por agentes de codificação está longe de ser decidida. Concorrentes e clientes corporativos devem se preparar para um mercado fragmentado e caro.",
+    "reasonEn": "Cognition, maker of Devin, was valued at $48 billion in a new round, signaling investors still see room for multiple players in AI coding. The valuation reinforces that the race for coding agents is far from decided. Competitors and enterprise customers should brace for a fragmented and expensive market.",
+    "score": 0.95,
+    "tags": [
+      "investimento",
+      "codificação",
+      "valuation"
+    ],
+    "img": "img/e623e2c86879.jpg",
+    "ts": 1788901446,
+    "addedTs": 1788911136,
+    "urlHash": "e623e2c86879",
+    "titleHash": "e498677e425f"
+  },
+  {
+    "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+    "titlePt": "BenchMIRT: o que os benchmarks de LLM realmente medem?",
+    "url": "https://huggingface.co/blog/allenai/benchmirt",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "Um novo estudo chamado BenchMIRT questiona o que os benchmarks de Large Language Models realmente avaliam. Os pesquisadores analisaram se as métricas usadas para comparar modelos de IA medem de fato habilidades úteis ou apenas padrões superficiais que os modelos aprenderam a explorar. As descobertas podem mudar como desenvolvedores e empresas escolhem e comparam modelos. É um trabalho importante para quem leva a sério a avaliação de IA e não confia cegamente em rankings.",
+    "reasonEn": "A new study called BenchMIRT questions what Large Language Model benchmarks actually measure. The researchers examined whether the metrics used to compare AI models truly assess useful skills or merely surface patterns that models have learned to exploit. The findings could change how developers and companies select and compare models. It is important work for anyone who takes AI evaluation seriously and does not blindly trust rankings.",
+    "score": 0.65,
+    "tags": [
+      "benchmarks",
+      "pesquisa",
+      "llm"
+    ],
+    "img": "img/ad90e6779ea3.jpg",
+    "ts": 1788298747,
+    "addedTs": 1788911136,
+    "urlHash": "ad90e6779ea3",
+    "titleHash": "b9d6424cec27"
+  },
+  {
     "title": "Meta bets on AI agent Muse to catch up in AI race",
     "titlePt": "Meta aposta na agente de IA Muse para recuperar terreno",
     "url": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
@@ -8319,242 +8627,5 @@
     "addedTs": 1788314683,
     "urlHash": "a39f70ae7a68",
     "titleHash": "221afe19bf7e"
-  },
-  {
-    "title": "AI is making back-office work extinct",
-    "titlePt": "IA está extinguindo trabalho administrativo, dizem no Hacker News",
-    "url": "https://www.whitecollardream.com/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Discussão no Hacker News aborda como ferramentas de IA estão eliminando cargos administrativos e de back-office em diversas empresas. Vários comentários relatam casos concretos de substituição de tarefas antes feitas por pessoas. O tema é relevante para profissionais de operações e RH, mas trata-se de uma discussão, não de notícia nova.",
-    "reasonEn": "Hacker News discussion about how AI tools are eliminating administrative and back-office roles across various companies. Multiple comments report concrete cases of tasks previously done by humans being replaced. The topic is relevant for operations and HR professionals, but this is a discussion rather than breaking news.",
-    "score": 0.5,
-    "tags": [
-      "trabalho",
-      "automação"
-    ],
-    "img": "img/cf4e14e243a6.jpg",
-    "ts": 1788299011,
-    "addedTs": 1788300752,
-    "urlHash": "cf4e14e243a6",
-    "titleHash": "9c0f0f3463df"
-  },
-  {
-    "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-    "titlePt": "BenchMIRT questiona o que os benchmarks de IA realmente medem",
-    "url": "https://huggingface.co/blog/allenai/benchmirt",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "Pesquisa publicada no Hugging Face propõe o BenchMIRT, um método para investigar o que os benchmarks de grandes modelos de linguagem estão de fato avaliando. Os autores argumentam que muitos testes populares misturam várias habilidades e podem dar falsa sensação de progresso. É útil para desenvolvedores e pesquisadores que decidem em quais testes confiar.",
-    "reasonEn": "Research published on Hugging Face proposes BenchMIRT, a method for investigating what large language model benchmarks actually evaluate. The authors argue many popular tests mix multiple skills and can give a false sense of progress. Useful for developers and researchers deciding which tests to trust.",
-    "score": 0.6,
-    "tags": [
-      "pesquisa",
-      "benchmarks"
-    ],
-    "img": "img/ad90e6779ea3.jpg",
-    "ts": 1788298747,
-    "addedTs": 1788300752,
-    "urlHash": "ad90e6779ea3",
-    "titleHash": "b9d6424cec27"
-  },
-  {
-    "title": "In-memory security gate for autonomous AI agent tools",
-    "titlePt": "Barreira de segurança em memória para ferramentas de agentes de IA",
-    "url": "https://bartholomew.info",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Projeto no Hacker News propõe uma camada de segurança em memória que intercepta chamadas de ferramentas usadas por agentes de IA autônomos. A ideia é evitar que um agente comprometido execute ações perigosas no sistema hospedeiro. É relevante para quem implementa agentes em produção, ainda que o projeto esteja em estágio inicial.",
-    "reasonEn": "A Hacker News project proposes an in-memory security layer that intercepts tool calls made by autonomous AI agents. The goal is to prevent a compromised agent from performing dangerous actions on the host system. Relevant for those deploying agents in production, though the project is still early-stage.",
-    "score": 0.5,
-    "tags": [
-      "segurança",
-      "agentes"
-    ],
-    "img": "img/9d6df47a226a.jpg",
-    "ts": 1788298567,
-    "addedTs": 1788300752,
-    "urlHash": "9d6df47a226a",
-    "titleHash": "d2b8a284a655"
-  },
-  {
-    "title": "Open AI&#8217;s Astra model is on the way—and very good at breaking into computer systems",
-    "titlePt": "Modelo Astra da OpenAI está chegando — e é muito bom em invadir sistemas",
-    "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "Reportagem da TechCrunch revela que o novo modelo Astra, da OpenAI, está prestes a ser lançado e se destacou em testes internos por sua habilidade de quebrar sistemas computacionais. A empresa avalia a capacidade como preocupante a ponto de exigir restrições adicionais de uso. Desenvolvedores e empresas devem acompanhar de perto o lançamento e os termos de acesso.",
-    "reasonEn": "TechCrunch report reveals that OpenAI's new Astra model is nearing release and stood out in internal tests for its ability to break into computer systems. The company rates the capability as concerning enough to require additional usage restrictions. Developers and companies should closely follow the launch and access terms.",
-    "score": 0.8,
-    "tags": [
-      "openai",
-      "segurança",
-      "modelo"
-    ],
-    "img": "img/c53867e1e8c8.jpg",
-    "ts": 1788296784,
-    "addedTs": 1788300752,
-    "urlHash": "c53867e1e8c8",
-    "titleHash": "2be3c4a3f0df"
-  },
-  {
-    "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
-    "titlePt": "OpenAI adiou desenvolvimento de novo modelo após invasão no Hugging Face",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "A OpenAI teria adiado o desenvolvimento de um novo modelo após tomar conhecimento do ataque hacker que atingiu o Hugging Face. A medida teria sido tomada para revisar dependências e garantir que o treinamento não foi comprometido. O caso é relevante para times de segurança e para quem depende da cadeia de suprimentos de IA.",
-    "reasonEn": "OpenAI reportedly delayed development of a new model after learning of the hack that hit Hugging Face. The move would have been taken to review dependencies and ensure training had not been compromised. The case is relevant for security teams and anyone relying on the AI supply chain.",
-    "score": 0.7,
-    "tags": [
-      "openai",
-      "segurança"
-    ],
-    "img": "img/a101021e89ae.jpg",
-    "ts": 1788295549,
-    "addedTs": 1788300752,
-    "urlHash": "a101021e89ae",
-    "titleHash": "532237aa281c"
-  },
-  {
-    "title": "Cutting an AI agent's network access mid-run, measured at 127 ms",
-    "titlePt": "Bloquear acesso de rede de agente de IA no meio da execução custa 127 ms",
-    "url": "https://medium.com/data-science-collective/your-coding-agent-has-your-aws-keys-and-an-open-internet-connection-b4f3f7dfc15f",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Projeto mostra que cortar o acesso de rede de um agente de IA no meio de uma execução adiciona em média 127 ms de latência, viabilizando mecanismos de segurança que interrompem agentes comprometidos sem grande impacto de performance. É dado concreto e útil para quem implementa controles de segurança em sistemas com agentes. Serve como referência quantitativa para discussões antes vagas sobre o tema.",
-    "reasonEn": "A project shows that cutting an AI agent's network access mid-run adds about 127 ms of latency, making feasible security mechanisms that interrupt compromised agents without major performance impact. It's concrete data, useful for those implementing security controls in agent systems. Serves as a quantitative reference for previously vague discussions on the topic.",
-    "score": 0.5,
-    "tags": [
-      "segurança",
-      "agentes",
-      "performance"
-    ],
-    "img": "img/c61ddd3812e0.jpg",
-    "ts": 1788295285,
-    "addedTs": 1788300752,
-    "urlHash": "c61ddd3812e0",
-    "titleHash": "2f1a4b1f755b"
-  },
-  {
-    "title": "Dwarf Fortress creator: industry in shambles over AI and layoffs",
-    "titlePt": "Criador de Dwarf Fortress diz que setor de jogos está em frangalhos por IA e demissões",
-    "url": "https://news.ycombinator.com/item?id=49527773",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Tarn Adams, criador de Dwarf Fortress, concedeu entrevista apontando que a indústria de jogos está em frangalhos por causa do uso de IA e de demissões em massa. As declarações refletem tensão vivida por desenvolvedores em vários estúdios. É um sinal importante do clima do setor vindo de uma figura bastante respeitada.",
-    "reasonEn": "Tarn Adams, creator of Dwarf Fortress, gave an interview saying the gaming industry is in shambles due to AI use and mass layoffs. His statements reflect tension experienced by developers at several studios. It's an important signal of the industry's climate, coming from a highly respected figure.",
-    "score": 0.5,
-    "tags": [
-      "games",
-      "indústria"
-    ],
-    "img": "img/6ffdeae48607.jpg",
-    "ts": 1788294754,
-    "addedTs": 1788300752,
-    "urlHash": "6ffdeae48607",
-    "titleHash": "1f8aaaabcabc"
-  },
-  {
-    "title": "How AI plotted an interstellar journey to Alpha Centauri",
-    "titlePt": "Como a IA planejou uma viagem interestelar até Alpha Centauri",
-    "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
-    "source": "MIT Tech Review",
-    "sources": [
-      "MIT Tech Review"
-    ],
-    "reason": "Pesquisadores usaram inteligência artificial para traçar uma rota viável até Alpha Centauri, o sistema estelar mais próximo do Sol. A IA simulou trajetórias considerando combustível, tempo e obstáculos espaciais em muito menos tempo do que métodos tradicionais. O resultado pode acelerar o planejamento de missões interestelares reais. É um marco para a exploração espacial apoiada por IA.",
-    "reasonEn": "Researchers used artificial intelligence to plot a viable route to Alpha Centauri, the closest star system to the Sun. The AI simulated trajectories considering fuel, time, and space obstacles much faster than traditional methods. The result could accelerate planning of real interstellar missions. It marks a milestone for AI-assisted space exploration.",
-    "score": 0.65,
-    "tags": [
-      "ciência",
-      "espaço",
-      "pesquisa"
-    ],
-    "img": "img/7ad6c276e7f3.jpg",
-    "ts": 1788289836,
-    "addedTs": 1788300752,
-    "urlHash": "7ad6c276e7f3",
-    "titleHash": "c3364370281a"
-  },
-  {
-    "title": "The rise of AI &#8216;civilizations&#8217; and the fall of corporate responsibility",
-    "titlePt": "A ascensão das 'civilizações' de IA e a queda da responsabilidade corporativa",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "O artigo discute como empresas de IA estão criando ecossistemas autônomos tão vastos que se assemelham a civilizações digitais. Os autores alertam para a perda de responsabilidade corporativa à medida que esses sistemas ganham independência. Argumentam que e usuários precisam cobrar transparência antes que os danos sejam irreversíveis. É uma reflexão sobre governança e poder concentrado em poucas empresas.",
-    "reasonEn": "The article discusses how AI companies are building autonomous ecosystems so vast they resemble digital civilizations. The authors warn that corporate responsibility is eroding as these systems gain independence. They argue that regulators and users must demand transparency before harm becomes irreversible. It is a reflection on governance and power concentrated in a few companies.",
-    "score": 0.55,
-    "tags": [
-      "opinião",
-      "regulação",
-      "governança"
-    ],
-    "img": "img/78f5b18132c5.jpg",
-    "ts": 1788289374,
-    "addedTs": 1788300752,
-    "urlHash": "78f5b18132c5",
-    "titleHash": "1f0aa4bf52a7"
-  },
-  {
-    "title": "Apple accuses OpenAI of destroying evidence",
-    "titlePt": "Apple acusa OpenAI de destruir evidências em processo judicial",
-    "url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "A Apple acusou a OpenAI de ter destruído provas relevantes em uma disputa legal entre as duas empresas. O caso pode ter consequências graves, incluindo sanções financeiras ou limitações no uso de informações em tribunal. A briga ilustra como a concorrência no setor de IA está ficando mais agressiva. Desenvolvedores e parceiros das duas companhias devem acompanhar o desfecho.",
-    "reasonEn": "Apple accused OpenAI of destroying relevant evidence in a legal dispute between the two companies. The case could bring serious consequences, including financial sanctions or limits on what information can be used in court. The clash shows how competition in the AI sector is becoming more aggressive. Developers and partners of both companies should follow the outcome.",
-    "score": 0.85,
-    "tags": [
-      "legal",
-      "openai",
-      "apple"
-    ],
-    "img": "img/7680bcf78a62.jpg",
-    "ts": 1788286766,
-    "addedTs": 1788300752,
-    "urlHash": "7680bcf78a62",
-    "titleHash": "1afac9ef45e4"
-  },
-  {
-    "title": "Nvidia&#8217;s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
-    "titlePt": "DLSS 5 da Nvidia chega em 3 de setembro e exige GPUs potentes",
-    "url": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "A Nvidia confirmou que o DLSS 5 será liberado em 3 de setembro, prometendo salto grande na qualidade visual de jogos. A tecnologia exige placas de vídeo robustas, o que pode deixar usuários com hardware mais antigo de fora. Desenvolvedores de jogos já podem se preparar para integrar a novidade. A medida reforça o ciclo de atualização de hardware da empresa.",
-    "reasonEn": "Nvidia confirmed that DLSS 5 will launch on September 3, promising a big leap in game visual quality. The technology requires powerful GPUs, which may leave users with older hardware out. Game developers can already prepare to integrate the new feature. The move reinforces the company's hardware upgrade cycle.",
-    "score": 0.6,
-    "tags": [
-      "nvidia",
-      "games",
-      "hardware"
-    ],
-    "img": "img/a9cc7a6dadeb.jpg",
-    "ts": 1788268872,
-    "addedTs": 1788300752,
-    "urlHash": "a9cc7a6dadeb",
-    "titleHash": "0d4f4cf5a4f0"
   }
 ]
