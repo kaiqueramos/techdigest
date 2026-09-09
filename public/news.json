@@ -1,5 +1,69 @@
 [
   {
+    "title": "ex-OpenAI Researcher Quits Anthropic over AI Safety Fears",
+    "titlePt": "Ex-pesquisador da OpenAI pede demissão da Anthropic por medo da segurança em IA",
+    "url": "https://www.wsj.com/tech/ai/anthropic-researcher-quits-over-out-of-control-ai-fears-707b7628",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um pesquisador que veio da OpenAI pediu demissão da Anthropic citando preocupações com a segurança em IA. O caso expõe divergências internas entre as maiores empresas do setor. Mostra que o debate sobre riscos da IA continua dividindo talentos importantes da indústria. Profissionais e observadores do setor devem acompanhar os desdobramentos.",
+    "reasonEn": "A researcher who came from OpenAI resigned from Anthropic citing AI safety concerns. The case exposes internal disagreements among the biggest players in the field. It shows the AI risk debate keeps dividing key industry talent. Professionals and observers should follow the fallout.",
+    "score": 0.8,
+    "tags": [
+      "segurança",
+      "openai",
+      "anthropic"
+    ],
+    "img": "img/9ac499347415.jpg",
+    "ts": 1788917777,
+    "addedTs": 1788920097,
+    "urlHash": "9ac499347415",
+    "titleHash": "5a4a4bafd785"
+  },
+  {
+    "title": "AI: Lot of \"Hideous\" Code but Found Bottlenecks for Faster Linux Compilation",
+    "titlePt": "IA produz código 'feio', mas acha gargalos que aceleram compilação do Linux",
+    "url": "https://www.phoronix.com/news/AI-To-Faster-Linux-Kernel-Comp",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma IA gerou muito código considerado feio, mas no processo identificou gargalos que podem acelerar a compilação do kernel Linux. É um exemplo concreto de uso de IA em otimização de software crítico. Desenvolvedores de sistemas e mantenedores do Linux podem se beneficiar diretamente.",
+    "reasonEn": "An AI produced a lot of so-called ugly code, but in the process identified bottlenecks that could speed up Linux kernel compilation. It is a concrete example of AI use in critical software optimization. Systems developers and Linux maintainers may benefit directly.",
+    "score": 0.55,
+    "tags": [
+      "linux",
+      "otimização"
+    ],
+    "img": "img/585b46edcd13.jpg",
+    "ts": 1788916526,
+    "addedTs": 1788920097,
+    "urlHash": "585b46edcd13",
+    "titleHash": "45c46f1b1300"
+  },
+  {
+    "title": "The Growing Push to Ban Superintelligent AI",
+    "titlePt": "Cresce pressão para proibir IA superinteligente",
+    "url": "https://time.com/article/2026/09/08/ban-superintelligence-ai-uk-us-lawmakers/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Diversos grupos estão pedindo a proibição do desenvolvimento de IAs superinteligentes, citando riscos existenciais. A proposta já divide pesquisadores, empresas e governos. O debate pode influenciar legislações futuras em vários países. Vale acompanhar para entender os rumos da indústria.",
+    "reasonEn": "Several groups are calling for a ban on the development of superintelligent AIs, citing existential risks. The proposal already divides researchers, companies and governments. The debate may shape future legislation in many countries. Worth following to understand where the industry is heading.",
+    "score": 0.65,
+    "tags": [
+      "regulação",
+      "segurança"
+    ],
+    "img": "img/7cc67cbb4d30.jpg",
+    "ts": 1788913125,
+    "addedTs": 1788920097,
+    "urlHash": "7cc67cbb4d30",
+    "titleHash": "17d917cc22c1"
+  },
+  {
     "title": "Linux desktop image editor with local AI",
     "titlePt": "Editor de imagens para Linux com IA local",
     "url": "https://github.com/cthackers/inpaint",
@@ -8585,47 +8649,5 @@
     "addedTs": 1788336898,
     "urlHash": "c97fc0583795",
     "titleHash": "3b765dbab42f"
-  },
-  {
-    "title": "AI Broke the Assumptions Behind CI",
-    "titlePt": "IA quebrou as premissas da integração contínua",
-    "url": "https://stack72.dev/ai-broke-the-assumptions-behind-ci/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Artigo recente argumenta que a integração contínua tradicional foi projetada para código escrito por humanos e já não se encaixa bem com produção assistida por IA. Os autores defendem novas práticas para testes e implantações automáticas nesse novo cenário. A discussão afeta diretamente times de engenharia que adotam agentes de codificação. Ler ajuda a repensar pipelines antes que problemas surjam em produção.",
-    "reasonEn": "A recent article argues that traditional continuous integration was designed for human-written code and no longer fits well with AI-assisted production. The authors defend new practices for automated testing and deployment in this new scenario. The discussion directly affects engineering teams adopting coding agents. Reading helps rethink pipelines before production problems arise.",
-    "score": 0.7,
-    "tags": [
-      "devops",
-      "agentes"
-    ],
-    "img": "img/dd747faed561.jpg",
-    "ts": 1788313768,
-    "addedTs": 1788314683,
-    "urlHash": "dd747faed561",
-    "titleHash": "1c3de5902175"
-  },
-  {
-    "title": "Cognition Set to Raise Around $1B at a $47B Valuation",
-    "titlePt": "Cognition capta cerca de 1 bilhão em avaliação de 47 bilhões",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-02/ai-startup-cognition-set-to-raise-around-1-billion-at-a-47-billion-value",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Cognition, criadora do agente de programação Devin, está levantando aproximadamente um bilhão de dólares em uma nova rodada de investimento. A avaliação de 47 bilhões de dólares reflete o forte interesse do mercado em agentes autônomos de codificação. O movimento consolida a categoria de agentes de IA como uma das áreas mais aquecidas do capital de risco. Para desenvolvedores, indica que empresas desse espaço terão cada vez mais capital para contratar e competir por talentos.",
-    "reasonEn": "Cognition, creator of the Devin coding agent, is raising approximately one billion dollars in a new funding round. The 47 billion dollar valuation reflects strong market interest in autonomous coding agents. The move consolidates the AI agent category as one of the hottest areas in venture capital. For developers, it indicates that companies in this space will have even more capital to hire and compete for talent.",
-    "score": 0.8,
-    "tags": [
-      "investimento",
-      "agentes"
-    ],
-    "img": "img/a39f70ae7a68.jpg",
-    "ts": 1788310856,
-    "addedTs": 1788314683,
-    "urlHash": "a39f70ae7a68",
-    "titleHash": "221afe19bf7e"
   }
 ]
