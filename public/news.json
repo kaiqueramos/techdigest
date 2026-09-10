@@ -1,5 +1,179 @@
 [
   {
+    "title": "Resource for AI Safety and Ethics",
+    "titlePt": "Recurso sobre segurança e ética em IA",
+    "url": "https://library.iaseai.org/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Foi publicado um compilado de materiais sobre segurança e ética em IA. O tipo de recurso serve como referência para pesquisadores e profissionais que precisam se atualizar. Útil para quem quer entender os debates atuais sem ler tudo do zero. Não é notícia urgente, mas é curadoria útil.",
+    "reasonEn": "A curated resource on AI safety and ethics was published. It serves as a reference for researchers and practitioners who need to catch up. Useful if you want to follow the current debates without reading everything from scratch. Not urgent news, but solid curation.",
+    "score": 0.5,
+    "tags": [
+      "ética",
+      "segurança",
+      "referência"
+    ],
+    "img": "img/c650016a5847.jpg",
+    "ts": 1789027938,
+    "addedTs": 1789029075,
+    "urlHash": "c650016a5847",
+    "titleHash": "c2b3ff7fc450"
+  },
+  {
+    "title": "Nvidia Personal-AI-Router",
+    "titlePt": "Nvidia lança Roteador Pessoal de IA",
+    "url": "https://github.com/NVIDIA/Personal-AI-Router",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Nvidia apresentou um roteador pessoal de IA voltado a direcionar consultas entre modelos. A ideia é ajudar usuários a escolher o melhor modelo para cada tarefa sem trocar de ferramenta. Pode simplificar o uso cotidiano de múltiplos assistentes. Ainda é cedo para saber a adoção real.",
+    "reasonEn": "Nvidia introduced a personal AI router meant to direct queries across models. The idea is to help users pick the best model per task without switching tools. It could simplify everyday use of multiple assistants. Too early to gauge real adoption.",
+    "score": 0.6,
+    "tags": [
+      "nvidia",
+      "ferramenta",
+      "roteamento"
+    ],
+    "img": "img/80dc700c663a.jpg",
+    "ts": 1789025011,
+    "addedTs": 1789029075,
+    "urlHash": "80dc700c663a",
+    "titleHash": "401a9c4e81b3"
+  },
+  {
+    "title": "Benchmarking Claude Code, Codex and Pi on SWE-Bench Pro: Same Accuracy, 2x Cost",
+    "titlePt": "Benchmark: Claude Code, Codex e Pi no SWE-Bench Pro",
+    "url": "https://aistack.imec-int.com/blog/harness-cost",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um benchmark comparou Claude Code, Codex e Pi no SWE-Bench Pro, conjunto difícil de tarefas de engenharia de software. Os três terminaram com acurácia semelhante, mas o custo dobrou entre as opções. Isso muda a decisão prática de qual ferramenta adotar em times. Vale leitura obrigatória para líderes de engenharia.",
+    "reasonEn": "A benchmark compared Claude Code, Codex, and Pi on SWE-Bench Pro, a hard software engineering suite. All three reached similar accuracy, but costs differed by up to 2x. That changes the practical decision of which tool to roll out. A must-read for engineering leaders.",
+    "score": 0.8,
+    "tags": [
+      "benchmark",
+      "ferramentas",
+      "código"
+    ],
+    "img": "img/b5c2502d7d59.jpg",
+    "ts": 1789023048,
+    "addedTs": 1789029075,
+    "urlHash": "b5c2502d7d59",
+    "titleHash": "4f06cc572bdc"
+  },
+  {
+    "title": "DeepSeek-v4.1-Flash: Pushing the Limits of KV Cache Compression [pdf]",
+    "titlePt": "DeepSeek v4.1 Flash amplia compressão de cache KV",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash/blob/main/DeepSeek_V41_Tech_Report.pdf",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O relatório técnico do DeepSeek v4.1 Flash detalha novos limites para compressão de cache KV. A técnica reduz memória ocupada em inferência longa sem perder qualidade. O impacto é direto em custo por token e em comprimento de contexto. Releitura obrigatória para engenheiros de ML que buscam baratear inferência.",
+    "reasonEn": "The DeepSeek v4.1 Flash tech report details new limits for KV cache compression. The method cuts memory use on long inference without quality loss. The impact hits cost per token and context length. Required reading for ML engineers looking to cheapen inference.",
+    "score": 0.85,
+    "tags": [
+      "modelo",
+      "deepseek",
+      "kv-cache"
+    ],
+    "img": "img/737d50c2c12b.jpg",
+    "ts": 1789022463,
+    "addedTs": 1789029075,
+    "urlHash": "737d50c2c12b",
+    "titleHash": "af3efa12ba89"
+  },
+  {
+    "title": "AI cost dashboard is probably wrong – 45 verified token-accounting bugs",
+    "titlePt": "Painéis de custo de IA têm 45 bugs de contagem de tokens",
+    "url": "https://github.com/roy-tong/AgentMeasure/blob/main/campaigns/audit-report-2026-09.md",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Pesquisadores identificaram 45 bugs verificados em sistemas de contabilidade de tokens usados por painéis de custo de IA. O problema pode inflar ou subestimar o gasto real de times inteiros. Para qualquer empresa que paga por inferência, vale auditar suas métricas. É um lembrete útil de que dashboards não são fonte de verdade.",
+    "reasonEn": "Researchers found 45 verified bugs in token accounting used by AI cost dashboards. The issue can overstate or understate actual spending across teams. Any company paying for inference should audit its metrics. A useful reminder that dashboards are not the source of truth.",
+    "score": 0.8,
+    "tags": [
+      "custos",
+      "bugs",
+      "observabilidade"
+    ],
+    "img": "img/4c3383566fc8.jpg",
+    "ts": 1789021856,
+    "addedTs": 1789029075,
+    "urlHash": "4c3383566fc8",
+    "titleHash": "bbf7ce1e3008"
+  },
+  {
+    "title": "AI Coding Assistants Almost Never Check Supply-Chain Trust Signals",
+    "titlePt": "Assistentes de código quase nunca checam cadeia de suprimentos",
+    "url": "https://arxiv.org/abs/2609.07754",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um estudo mostrou que assistentes de programação com IA raramente verificam sinais de confiança da cadeia de suprimentos ao sugerir pacotes. Isso abre espaço para recomendar dependências maliciosas sem aviso. O risco é real para empresas que adotam essas ferramentas sem revisão humana. Vale revisar o processo de aprovação de código gerado por IA.",
+    "reasonEn": "A study showed AI coding assistants rarely check supply-chain trust signals when suggesting packages. That opens room for recommending malicious dependencies without warning. The risk is real for companies adopting these tools without human review. Worth reviewing your approval process for AI-generated code.",
+    "score": 0.8,
+    "tags": [
+      "segurança",
+      "código",
+      "cadeia-de-suprimentos"
+    ],
+    "img": "img/9c71de2db6a9.jpg",
+    "ts": 1789020429,
+    "addedTs": 1789029075,
+    "urlHash": "9c71de2db6a9",
+    "titleHash": "70be8a19a410"
+  },
+  {
+    "title": "Apple’s new iPhone camera mode promises to prove your photo isn’t AI",
+    "titlePt": "Novo modo de câmera do iPhone promete provar que a foto não é feita por IA",
+    "url": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "A Apple está lançando um novo modo de câmera no iPhone que promete atestar que uma foto foi capturada de verdade, sem manipulação por inteligência artificial. A proposta responde à crescente dificuldade do público em distinguir fotos reais de imagens geradas por IA. Para o consumidor, isso significa mais confiança em imagens vistas online. É um movimento estratégico da Apple em meio ao debate sobre autenticidade visual.",
+    "reasonEn": "Apple is launching a new iPhone camera mode that promises to certify that a photo was genuinely captured, with no AI manipulation. The move responds to the growing difficulty people have telling real photos apart from AI-generated ones. For consumers, this means more trust in images seen online. It is a strategic Apple move amid the broader debate on visual authenticity.",
+    "score": 0.55,
+    "tags": [
+      "apple",
+      "imagem"
+    ],
+    "img": "img/97571935d7c6.jpg",
+    "ts": 1788985277,
+    "addedTs": 1789029075,
+    "urlHash": "97571935d7c6",
+    "titleHash": "adc8e13e974b"
+  },
+  {
+    "title": "Viral AI assistant Instinct now has its own email address",
+    "titlePt": "Assistente de IA viral Instinct agora tem endereço de e-mail próprio",
+    "url": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "O Instinct, um assistente de IA que viralizou recentemente, ganhou um endereço de e-mail dedicado para receber mensagens dos usuários. Isso transforma o agente em mais um ponto de contato cotidiano, competindo com assistentes de e-mail e produtividade. Para o usuário comum, abre uma nova forma de interagir com a IA pelo correio eletrônico. Ainda não está claro quão bem a integração funciona em tarefas reais.",
+    "reasonEn": "Instinct, an AI assistant that recently went viral, just got a dedicated email address so users can message it. This turns the agent into another everyday contact point, competing with email and productivity assistants. For regular users, it opens a new way to interact with AI through email. It is still unclear how well the integration handles real tasks.",
+    "score": 0.5,
+    "tags": [
+      "lançamento",
+      "assistente"
+    ],
+    "img": "img/c0b0be274153.jpg",
+    "ts": 1788966792,
+    "addedTs": 1789029075,
+    "urlHash": "c0b0be274153",
+    "titleHash": "32eaff0345c7"
+  },
+  {
     "title": "California enacts AI safety evaluation laws backed by Anthropic and OpenAI",
     "titlePt": "Califórnia aprova leis de avaliação de segurança em IA com apoio de Anthropic e OpenAI",
     "url": "https://politico.com/news/2026/09/09/newsom-signs-ai-safety-bills-backed-by-anthropic-openai-01069928",
