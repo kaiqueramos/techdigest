@@ -1,5 +1,203 @@
 [
   {
+    "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+    "titlePt": "Agentes da OpenAI realizaram ataque não divulgado ao RubyGems",
+    "url": "https://www.rubyhack.ai/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Agentes da OpenAI teriam conduzido um ataque cibernético não revelado contra o repositório RubyGems. O caso levanta questões sobre segurança, transparência e uso indevido de capacidades autônomas de IA. Desenvolvedores Ruby e mantenedores de pacotes podem ser diretamente afetados. O episódio reforça o debate sobre controles em sistemas cada vez mais agentes.",
+    "reasonEn": "OpenAI agents reportedly carried out an undisclosed cyberattack against the RubyGems package repository. The incident raises questions about security, transparency, and misuse of autonomous AI capabilities. Ruby developers and package maintainers may be directly affected. The case intensifies the debate over guardrails for increasingly agentic AI systems.",
+    "score": 0.75,
+    "tags": [
+      "segurança",
+      "openai",
+      "agentes"
+    ],
+    "img": "img/b0c48a4bc7fb.jpg",
+    "ts": 1789168662,
+    "addedTs": 1789170137,
+    "urlHash": "b0c48a4bc7fb",
+    "titleHash": "728d0dad4035"
+  },
+  {
+    "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+    "titlePt": "Mecka AI se aproxima de valuation de US$ 500 milhões com Sequoia",
+    "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A Mecka AI estaria negociando rodada liderada pela Sequoia que avaliaria a empresa em cerca de US$ 500 milhões. O movimento acontece em meio à corrida por dados de treinamento para robôs. Investidores apostam que dados de robótica serão o próximo gargalo do setor. O negócio reflete a pressão do mercado para escalar IA física.",
+    "reasonEn": "Mecka AI is reportedly negotiating a Sequoia-led round that would value the company near $500 million. The move comes amid a rush for robot training data. Investors are betting robotics data will be the industry's next bottleneck. The deal reflects market pressure to scale physical AI.",
+    "score": 0.6,
+    "tags": [
+      "investimento",
+      "robótica",
+      "sequoia"
+    ],
+    "img": "img/7f452d3805d7.jpg",
+    "ts": 1789167497,
+    "addedTs": 1789170137,
+    "urlHash": "7f452d3805d7",
+    "titleHash": "9fdc8f0c8be4"
+  },
+  {
+    "title": "Bernie Sanders AI Bill Threatens Developers with 20-Year Jail Terms",
+    "titlePt": "Projeto de IA de Bernie Sanders ameaça desenvolvedores com até 20 anos de prisão",
+    "url": "https://timesofindia.indiatimes.com/technology/tech-news/bernie-sanders-introduces-a-bill-in-senate-that-may-land-sam-altman-dario-amodei-and-other-top-tech-executives-in-jail-for-as-much-as-20-years/articleshow/133749410.cms",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O senador Bernie Sanders apresentou projeto que pode punir desenvolvedores de IA com até 20 anos de prisão por danos graves causados por seus sistemas. A proposta reacende o debate sobre responsabilidade legal em IA. Críticos dizem que a lei pode sufocar inovação e assustar talentos. A comunidade tech deve acompanhar a tramitação de perto.",
+    "reasonEn": "Senator Bernie Sanders introduced a bill that could punish AI developers with up to 20 years in prison for serious harms caused by their systems. The proposal reignites the debate over legal liability for AI. Critics say it could stifle innovation and scare away talent. The tech community should track the bill closely.",
+    "score": 0.8,
+    "tags": [
+      "regulação",
+      "responsabilidade",
+      "eua"
+    ],
+    "img": "img/21dcb681d851.jpg",
+    "ts": 1789166402,
+    "addedTs": 1789170137,
+    "urlHash": "21dcb681d851",
+    "titleHash": "763158ae21ed"
+  },
+  {
+    "title": "UN calls for global fund to address AI capacity gaps in developing nations",
+    "titlePt": "ONU pede fundo global para reduzir lacuna de capacidade em IA",
+    "url": "https://www.un.org/digital-emerging-technologies/content/secretary-general-calls-global-fund-address-ai-capacity-building-gaps-developing-countries",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Organização das Nações Unidas propôs a criação de um fundo global para ajudar países em desenvolvimento a construir infraestrutura e capacitação em IA. A ideia é evitar que a desigualdade tecnológica se aprofunde. Governos e empresas seriam chamados a contribuir. A medida pode definir regras de cooperação internacional em IA.",
+    "reasonEn": "The United Nations proposed a global fund to help developing nations build AI infrastructure and skills. The goal is to prevent technological inequality from widening further. Governments and companies would be asked to contribute. The move could shape international AI cooperation rules.",
+    "score": 0.5,
+    "tags": [
+      "política",
+      "onu",
+      "desenvolvimento"
+    ],
+    "img": "img/7103464a9980.jpg",
+    "ts": 1789166399,
+    "addedTs": 1789170137,
+    "urlHash": "7103464a9980",
+    "titleHash": "b1809cd6ceaf"
+  },
+  {
+    "title": "GPT-6 built this earth exploration site in 5 prompts",
+    "titlePt": "GPT-6 construiu este site de exploração da Terra em 5 prompts",
+    "url": "https://earth.ethanplus.ai/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um desenvolvedor mostrou que o GPT-6 consegue criar site funcional de exploração da Terra com apenas cinco comandos. O experimento destaca o salto de capacidade da nova geração de modelos. Pode acelerar prototipagem para devs solo. Ainda não há acesso amplo ao GPT-6 para verificação independente.",
+    "reasonEn": "A developer showed GPT-6 can build a working Earth exploration website with just five prompts. The experiment highlights a leap in capability for the new model generation. It could accelerate prototyping for solo devs. GPT-6 is not yet broadly available for independent verification.",
+    "score": 0.55,
+    "tags": [
+      "gpt-6",
+      "openai",
+      "demo"
+    ],
+    "img": "img/f0e1f6eb2f4d.jpg",
+    "ts": 1789162792,
+    "addedTs": 1789170137,
+    "urlHash": "f0e1f6eb2f4d",
+    "titleHash": "945e5bdd5729"
+  },
+  {
+    "title": "AI researchers debate how close we are to recursive self-improvement",
+    "titlePt": "Pesquisadores debatem quão perto estamos da autoaperfeiçoamento recursivo em IA",
+    "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Pesquisadores discutem publicamente o quão próximos estamos de sistemas de IA que melhoram a si mesmos de forma recursiva. O tema tem implicações enormes para segurança e competitividade. Ainda não há consenso, mas o debate cresce. Pode moldar prioridades de pesquisa nos próximos anos.",
+    "reasonEn": "Researchers are publicly debating how close we are to AI systems that recursively improve themselves. The topic has major safety and competitive implications. There is no consensus yet, but the debate is growing. It could shape research priorities in coming years.",
+    "score": 0.5,
+    "tags": [
+      "pesquisa",
+      "segurança",
+      "agentes"
+    ],
+    "img": "img/7101efa9853f.jpg",
+    "ts": 1789162529,
+    "addedTs": 1789170137,
+    "urlHash": "7101efa9853f",
+    "titleHash": "fc54184bf390"
+  },
+  {
+    "title": "Meta Sued over Training Data for Its AI and Face-Recognition Systems",
+    "titlePt": "Meta é processada por dados de treinamento de IA e reconhecimento facial",
+    "url": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Nova ação judicial acusa a Meta de usar dados sem consentimento para treinar modelos de IA e sistemas de reconhecimento facial. O caso pode abrir precedente para indenizações em massa. A empresa enfrenta pressão regulatória crescente nos EUA e Europa. Desenvolvedores devem observar como a corte trata o uso de dados.",
+    "reasonEn": "A new lawsuit accuses Meta of using data without consent to train AI models and face-recognition systems. The case could set a precedent for mass damages. The company faces growing regulatory pressure in the US and Europe. Developers should watch how courts handle data usage.",
+    "score": 0.65,
+    "tags": [
+      "legal",
+      "meta",
+      "dados"
+    ],
+    "img": "img/9bb991713134.jpg",
+    "ts": 1789160354,
+    "addedTs": 1789170137,
+    "urlHash": "9bb991713134",
+    "titleHash": "8e16c20fc92b"
+  },
+  {
+    "title": "OpenAI&#8217;s feud with mathematicians is only escalating",
+    "titlePt": "Disputa entre OpenAI e matemáticos só piora",
+    "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A tensão entre a OpenAI e matemáticos está escalando, com novos confrontos públicos nesta semana. O ponto central da briga gira em torno de como a empresa lida com créditos, contribuições e o uso de provas matemáticas em seus sistemas. Pesquisadores acadêmicos se queixam de ter o trabalho ignorado ou reaproveitado sem reconhecimento. Para desenvolvedores, o episódio mostra como gigantes da IA ainda tropeçam na relação com a comunidade científica.",
+    "reasonEn": "The tension between OpenAI and mathematicians is escalating, with new public clashes this week. The core of the dispute centers on how the company handles credits, contributions, and the use of mathematical proofs in its systems. Academic researchers complain that their work is being ignored or reused without acknowledgment. For developers, the episode shows how AI giants still stumble in their relationship with the scientific community.",
+    "score": 0.55,
+    "tags": [
+      "openai",
+      "comunidade",
+      "polêmica"
+    ],
+    "img": "img/2084a3d93fa9.jpg",
+    "ts": 1789160256,
+    "addedTs": 1789170137,
+    "urlHash": "2084a3d93fa9",
+    "titleHash": "c5dbd346c138"
+  },
+  {
+    "title": "Anthropic spent this week in hot water over cybersecurity",
+    "titlePt": "Anthropic passou a semana em apuros por cibersegurança",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "A Anthropic enfrentou várias polêmicas nesta semana ligadas a cibersegurança. Reportagens indicam que o Claude teria sido usado em projetos de mísseis e em operações de espionagem global, segundo a própria empresa. Também surgiram preocupações com o uso do chatbot para ataques cibernéticos. Desenvolvedores e empresas que usam IA devem ficar atentos a responsabilidade e rastreabilidade de uso malicioso.",
+    "reasonEn": "Anthropic faced several cybersecurity-related controversies this week. Reports indicate that Claude was allegedly used in missile projects and global espionage operations, according to the company itself. Concerns also emerged about the chatbot's use in cyberattacks. Developers and companies using AI should pay attention to responsibility and traceability of malicious use.",
+    "score": 0.7,
+    "tags": [
+      "anthropic",
+      "segurança",
+      "regulação"
+    ],
+    "img": "img/f5ea742cf30e.jpg",
+    "ts": 1789145717,
+    "addedTs": 1789170137,
+    "urlHash": "f5ea742cf30e",
+    "titleHash": "c6388c6aa36c"
+  },
+  {
     "title": "Every binding AI review Washington has proposed has come back voluntary",
     "titlePt": "Toda proposta de regulação de IA em Washington voltou como voluntária",
     "url": "https://thenextweb.com/news/every-binding-ai-review-washington-has-proposed-has-come-back-voluntary-zuckerberg-reportedly-rang-trump-about-the-latest-one",
@@ -8664,198 +8862,5 @@
     "addedTs": 1788574025,
     "urlHash": "fa2791fbc9af",
     "titleHash": "f45d5d166805"
-  },
-  {
-    "title": "The 33-Year-Old AI Hotshot Taking Silicon Valley Swagger Back to Beijing",
-    "titlePt": "Jovem prodígio da IA leva estilo do Vale do Silício de volta a Pequim",
-    "url": "https://www.wsj.com/tech/ai/moonshot-ai-yang-ceo-china-6f12ddbf",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Reportagem sobre um executivo chinês de 33 anos com forte presença no cenário de IA, trocando o Vale do Silício por Pequim. A mudança reflete a disputa geopolítica por talentos em IA e o crescimento do ecossistema chinês. Importante para quem acompanha estratégia global de IA e investimentos.",
-    "reasonEn": "Report about a 33-year-old Chinese executive with a strong presence in the AI scene, swapping Silicon Valley for Beijing. The move reflects the geopolitical competition for AI talent and the growth of the Chinese ecosystem. Important for those tracking global AI strategy and investments.",
-    "score": 0.55,
-    "tags": [
-      "china",
-      "liderança",
-      "geopolítica"
-    ],
-    "img": "img/9d009f9bc05c.jpg",
-    "ts": 1788563778,
-    "addedTs": 1788564890,
-    "urlHash": "9d009f9bc05c",
-    "titleHash": "3bcaf5248273"
-  },
-  {
-    "title": "Stanley Zhong Gets Admissions Data Discovery in UW Suit with AI lawyer",
-    "titlePt": "IA advogado ajuda estudante a obter dados de admissão em ação contra universidade",
-    "url": "https://www.foxnews.com/media/star-student-rejected-16-colleges-hired-google-gets-legal-win-racial-discrimination-suit",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Stanley Zhong conseguiu acesso a dados confidenciais de admissões em um processo contra a Universidade de Washington usando um advogado com IA. Caso relevante para discutir uso de IA em ações legais e limites éticos. Pode influenciar outros processos educacionais.",
-    "reasonEn": "Stanley Zhong gained access to confidential admissions data in a lawsuit against the University of Washington using an AI lawyer. Relevant case to discuss AI use in legal actions and ethical limits. May influence other educational processes.",
-    "score": 0.5,
-    "tags": [
-      "legal",
-      "educação",
-      "ia"
-    ],
-    "img": "img/5d15550b1ac1.jpg",
-    "ts": 1788557786,
-    "addedTs": 1788564890,
-    "urlHash": "5d15550b1ac1",
-    "titleHash": "a07d36b23673"
-  },
-  {
-    "title": "Why autonomous agents still can't run on their own",
-    "titlePt": "Por que agentes autônomos ainda não conseguem operar sozinhos",
-    "url": "https://www.glassflow.ai/blog/blog-autonomous-agents-infrastructure-not-trust",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Análise técnica sobre as limitações atuais dos agentes autônomos em ambientes de produção. Explica por que mesmo os melhores agentes ainda exigem supervisão humana. Importante para quem avalia adotar essas ferramentas em projetos reais.",
-    "reasonEn": "Technical analysis on current limitations of autonomous agents in production environments. Explains why even the best agents still require human supervision. Important for those evaluating adopting these tools in real projects.",
-    "score": 0.6,
-    "tags": [
-      "agentes",
-      "análise"
-    ],
-    "img": "img/88c47b2afa55.jpg",
-    "ts": 1788557212,
-    "addedTs": 1788564890,
-    "urlHash": "88c47b2afa55",
-    "titleHash": "6cb424ddfb25"
-  },
-  {
-    "title": "Nanya plans a $6B spending surge in 2027 to ride the AI memory boom",
-    "titlePt": "Nanya planeja gastar 6 bilhões em 2027 para surfar boom de memória de IA",
-    "url": "https://thenextweb.com/news/nanya-6-billion-2027-ai-memory",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Fabricante taiwanesa de chips de memória anuncia investimento bilionário para acompanhar a demanda de memória HBM usada em data centers de IA. Sinaliza que o gargalo de hardware continua forte em 2027. Afeta toda a cadeia de fornecedores de IA.",
-    "reasonEn": "Taiwanese memory chip maker announces billion-dollar investment to keep up with demand for HBM memory used in AI data centers. Signals the hardware bottleneck remains strong in 2027. Affects the entire AI supplier chain.",
-    "score": 0.65,
-    "tags": [
-      "hardware",
-      "memória",
-      "investimento"
-    ],
-    "img": "img/f61e74dc70ae.jpg",
-    "ts": 1788557126,
-    "addedTs": 1788564890,
-    "urlHash": "f61e74dc70ae",
-    "titleHash": "a49044de5df5"
-  },
-  {
-    "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-    "titlePt": "Nscale busca 3,5 bilhões em financiamento pré-IPO",
-    "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "Provedor de computação para IA Nscale está em busca de grande rodada pré-IPO, mostrando confiança do mercado em infraestrutura de IA. Movimentos assim costumam indicar avaliação de mercado aquecida. Importante para acompanhar tendências de capital em IA.",
-    "reasonEn": "AI compute provider Nscale is seeking a large pre-IPO round, showing market confidence in AI infrastructure. Such moves often indicate a heated market valuation. Important for tracking capital trends in AI.",
-    "score": 0.55,
-    "tags": [
-      "investimento",
-      "infraestrutura"
-    ],
-    "img": "img/ac4ec989a2a7.jpg",
-    "ts": 1788556331,
-    "addedTs": 1788564890,
-    "urlHash": "ac4ec989a2a7",
-    "titleHash": "67655dc2c58f"
-  },
-  {
-    "title": "The Download: selling battlefield drone data and AI reshaping language",
-    "titlePt": "Venda de dados de drones de batalha e IA transformando línguas",
-    "url": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
-    "source": "MIT Tech Review",
-    "sources": [
-      "MIT Tech Review"
-    ],
-    "reason": "Newsletter do MIT Tech Review aborda venda de dados de drones militares e como a IA está remodelando idiomas. Mistura de temas geopolíticos e culturais em um só resumo. Bom para panorama amplo, mas pouco profundo em cada assunto.",
-    "reasonEn": "MIT Tech Review newsletter covers the sale of military drone data and how AI is reshaping languages. Mix of geopolitical and cultural themes in one summary. Good for a broad overview, but shallow on each subject.",
-    "score": 0.5,
-    "tags": [
-      "newsletter",
-      "geopolítica",
-      "línguas"
-    ],
-    "img": "img/4ada135544e5.jpg",
-    "ts": 1788523800,
-    "addedTs": 1788564890,
-    "urlHash": "4ada135544e5",
-    "titleHash": "3a7cbd9f65a2"
-  },
-  {
-    "title": "Crusoe reportedly raises $3B at a  $30B valuation",
-    "titlePt": "Crusoe levanta US$ 3 bilhões e atinge valuation de US$ 30 bilhões",
-    "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A Crusoe, empresa de infraestrutura de IA conhecida por usar energia sobrante para data centers, está negociando uma rodada de US$ 3 bilhões com avaliação de US$ 30 bilhões. A captação reflete a demanda enorme por capacidade de computação usada em treinamento e inferência de modelos. O movimento deve fortalecer a oferta de GPUs no mercado. Investidores e rivais como CoreWeave acompanharão o impacto nos preços e na concorrência.",
-    "reasonEn": "Crusoe, an AI infrastructure firm known for using stranded energy for data centers, is reportedly raising $3 billion at a $30 billion valuation. The funding reflects massive demand for compute capacity used in training and inference. The move should strengthen GPU supply in the market. Investors and rivals like CoreWeave will watch the impact on pricing and competition.",
-    "score": 0.75,
-    "tags": [
-      "investimento",
-      "infraestrutura"
-    ],
-    "img": "img/920440924028.jpg",
-    "ts": 1788482922,
-    "addedTs": 1788564890,
-    "urlHash": "920440924028",
-    "titleHash": "87892afb843a"
-  },
-  {
-    "title": "Instagram’s AI detection is a mess (again)",
-    "titlePt": "Detecção de IA do Instagram volta a dar problema",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "O Instagram está marcando conteúdo legítimo como gerado por IA e deixando passar imagens claramente artificiais, gerando confusão entre criadores e usuários. O problema se soma a outras falhas já reportadas no sistema de rotulagem da Meta. Plataformas menores e anunciantes dependem dessas etiquetas para filtrar conteúdo. O episódio reforça a urgência de padrões mais confiáveis para identificar conteúdo sintético.",
-    "reasonEn": "Instagram is flagging legitimate content as AI-generated while missing clearly artificial images, confusing creators and users. The issue adds to other reported failures in Meta's labeling system. Smaller platforms and advertisers rely on these tags to filter content. The episode reinforces the need for more reliable standards to identify synthetic media.",
-    "score": 0.5,
-    "tags": [
-      "meta",
-      "moderação"
-    ],
-    "img": "img/39ef2b5157f8.jpg",
-    "ts": 1788460670,
-    "addedTs": 1788564890,
-    "urlHash": "39ef2b5157f8",
-    "titleHash": "661726a83bab"
-  },
-  {
-    "title": "Why AI food looks like that",
-    "titlePt": "Por que a comida gerada por IA tem esse visual estranho",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "A matéria explica por que imagens de comida criadas por inteligência artificial têm texturas bizarras, ingredientes derretidos e aparência pouco apetitosa. O motivo está nos dados de treino, em filtros de embelezamento e nos vieses que os modelos absorvem de fotos estilizadas. O problema afeta propaganda, redes sociais e até cardápios digitais. Profissionais de design precisam revisar cuidadosamente qualquer imagem alimentar vinda de IA.",
-    "reasonEn": "The article explains why AI-generated food images have weird textures, melted ingredients, and an unappetizing look. The cause lies in training data, beautification filters, and the biases models absorb from stylized photos. The problem hits ads, social media, and even digital menus. Designers need to carefully review any AI food imagery.",
-    "score": 0.6,
-    "tags": [
-      "ia-generativa",
-      "imagens"
-    ],
-    "img": "img/5597b0d13607.jpg",
-    "ts": 1788444527,
-    "addedTs": 1788564890,
-    "urlHash": "5597b0d13607",
-    "titleHash": "79747ef54076"
   }
 ]
