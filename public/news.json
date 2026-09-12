@@ -1,5 +1,225 @@
 [
   {
+    "title": "Meta is asking some of its employees to become managers again in a new reorg",
+    "titlePt": "Meta pede a alguns funcionários que voltem a ser gerentes em nova reorganização",
+    "url": "https://www.businessinsider.com/meta-asks-some-ai-employees-to-become-managers-again-2026-9",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Meta está convocando parte de seus funcionários a assumir novamente cargos de gerência dentro de uma nova reestruturação interna. A mudança sugere insatisfação com o modelo mais plano adotado nos últimos anos. A empresa quer melhorar supervisão e produtividade em equipes de engenharia. O movimento pode afetar milhares de profissionais e a forma como times técnicos são organizados. É uma notícia relevante para quem trabalha em grandes empresas de tecnologia.",
+    "reasonEn": "Meta is asking some of its employees to return to manager roles as part of a new internal reorganization. The shift suggests dissatisfaction with the flatter model used in recent years. The company wants to improve oversight and productivity in engineering teams. The move could affect thousands of professionals and how tech teams are structured. It is relevant news for anyone working at large tech companies.",
+    "score": 0.5,
+    "tags": [
+      "meta",
+      "empresas",
+      "gestão"
+    ],
+    "img": "img/2f35ef866811.jpg",
+    "ts": 1789230459,
+    "addedTs": 1789231154,
+    "urlHash": "2f35ef866811",
+    "titleHash": "331bcbfc0bb8"
+  },
+  {
+    "title": "Anthropic CEO outlines plan to ‘pace the frontier’",
+    "titlePt": "CEO da Anthropic apresenta plano para 'pacear a fronteira' da IA",
+    "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "Dario Amodei publicou um plano formal propondo uma abordagem mais lenta e cuidadosa para o desenvolvimento da próxima geração de modelos de IA. O documento defende pausas, maior transparência e coordenação entre laboratórios. A proposta já recebeu apoio de rivais como Sam Altman e Elon Musk, ampliando seu peso no setor. Para desenvolvedores, isso pode influenciar regras futuras sobre lançamento de modelos. É uma das pautas mais importantes do momento no setor de IA.",
+    "reasonEn": "Dario Amodei published a formal plan proposing a slower and more careful approach to developing the next generation of AI models. The document calls for pauses, greater transparency, and coordination between labs. The proposal has already received support from rivals like Sam Altman and Elon Musk, boosting its weight in the industry. For developers, this may influence future rules on model releases. It is one of the most important current topics in the AI sector.",
+    "score": 0.9,
+    "tags": [
+      "anthropic",
+      "regulação",
+      "modelo"
+    ],
+    "img": "img/b7b4c6f0444c.jpg",
+    "ts": 1789228331,
+    "addedTs": 1789231154,
+    "urlHash": "b7b4c6f0444c",
+    "titleHash": "0d37e6a282b8"
+  },
+  {
+    "title": "A Misalignment of AI and Cancer Biology",
+    "titlePt": "Um desencontro entre IA e biologia do câncer",
+    "url": "https://twitter.com/mbeisen/status/2098582265190351334",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um artigo técnico discute como modelos de inteligência artificial ainda têm dificuldade em avançar de forma significativa na biologia do câncer. O texto aponta limitações em dados, modelos e forma de avaliar resultados. É uma leitura relevante para pesquisadores e profissionais de saúde digital. Mostra que aplicar IA em medicina não é trivial e exige cuidado. Para desenvolvedores de IA aplicada, é um alerta sobre expectativas realistas.",
+    "reasonEn": "A technical article discusses how AI models still struggle to make meaningful progress in cancer biology. The piece points to limitations in data, models, and how results are evaluated. It is relevant reading for researchers and digital health professionals. It shows that applying AI to medicine is not trivial and requires care. For applied AI developers, it is a warning about realistic expectations.",
+    "score": 0.55,
+    "tags": [
+      "saúde",
+      "pesquisa",
+      "ia aplicada"
+    ],
+    "img": "img/e88eb29da4bc.jpg",
+    "ts": 1789227754,
+    "addedTs": 1789231154,
+    "urlHash": "e88eb29da4bc",
+    "titleHash": "b99f6e0c3d8a"
+  },
+  {
+    "title": "An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics",
+    "titlePt": "Receita aberta para medalha de ouro na IMO: treinando o Nemotron para olimpíadas de matemática",
+    "url": "https://arxiv.org/abs/2609.10712",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "A Nvidia publicou uma receita aberta para treinar um modelo que compete em olimpíadas de matemática no nível da IMO. Mostra progresso significativo em raciocínio matemático formal. Importante para acompanhar o estado da arte em LLMs de raciocínio. Pode interessar desenvolvedores que usam IA para problemas quantitativos.",
+    "reasonEn": "Nvidia published an open recipe to train a model that competes in math olympiads at IMO level. It shows significant progress in formal mathematical reasoning. Important to track the state of the art in reasoning LLMs. It may interest developers using AI for quantitative problems.",
+    "score": 0.6,
+    "tags": [
+      "matemática",
+      "nemotron",
+      "olimpíada"
+    ],
+    "img": "img/13cafb8278b4.jpg",
+    "ts": 1789185600,
+    "addedTs": 1789231154,
+    "urlHash": "13cafb8278b4",
+    "titleHash": "47bd280a7c2b"
+  },
+  {
+    "title": "Demystifying the Privacy-Utility Trade-off in LLM Interactions",
+    "titlePt": "Desmistificando o trade-off entre privacidade e utilidade em interações com LLMs",
+    "url": "https://arxiv.org/abs/2609.10992",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "O artigo revisa sistematicamente como equilibrar privacidade dos dados com utilidade dos modelos em interações com LLMs. É relevante para qualquer empresa que envia dados sensíveis a APIs de IA. Ajuda a decidir técnicas de anonimização e differentially private training. Tomada de decisão prática fica mais clara.",
+    "reasonEn": "The paper systematically reviews how to balance data privacy with model utility in LLM interactions. Relevant for any company sending sensitive data to AI APIs. It helps decide on anonymization techniques and differentially private training. Practical decision-making becomes clearer.",
+    "score": 0.5,
+    "tags": [
+      "privacidade",
+      "llm",
+      "compliance"
+    ],
+    "img": "img/1370f1e4dfb1.jpg",
+    "ts": 1789185600,
+    "addedTs": 1789231154,
+    "urlHash": "1370f1e4dfb1",
+    "titleHash": "25228e021c62"
+  },
+  {
+    "title": "The Agent Incident Registry: Toward Preventing Repeated AI Agent Failures",
+    "titlePt": "Registro de incidentes de agentes: evitando que falhas de IA se repitam",
+    "url": "https://arxiv.org/abs/2609.11030",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "Os autores propõem um registro público de falhas reais de agentes de IA, similar a bancos de bugs de software. A ideia é prevenir a repetição de erros já conhecidos. É uma contribuição importante para segurança e confiança em agentes autônomos. Mostra maturidade do ecossistema agentic.",
+    "reasonEn": "The authors propose a public registry of real AI agent failures, similar to software bug databases. The idea is to prevent repetition of already known errors. It is an important contribution to safety and trust in autonomous agents. It shows maturity of the agentic ecosystem.",
+    "score": 0.6,
+    "tags": [
+      "agentes",
+      "segurança",
+      "incidentes"
+    ],
+    "img": "img/e789ccd08044.jpg",
+    "ts": 1789185600,
+    "addedTs": 1789231154,
+    "urlHash": "e789ccd08044",
+    "titleHash": "fd4adf5f94d8"
+  },
+  {
+    "title": "Benchmark Radar: A Living Database and Search Engine for AI Benchmarks and Evaluation",
+    "titlePt": "Benchmark Radar: banco vivo e mecanismo de busca para benchmarks de IA",
+    "url": "https://arxiv.org/abs/2609.11115",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "A ferramenta agrega benchmarks de IA em um banco pesquisável, evitando que equipes percam tempo caçando métricas. É um utilitário prático para MLOps e pesquisa aplicada. Ajuda a selecionar o benchmark certo antes de treinar ou publicar. Economia de tempo significativa para times de avaliação.",
+    "reasonEn": "The tool aggregates AI benchmarks into a searchable database, preventing teams from wasting time hunting for metrics. It is a practical utility for MLOps and applied research. It helps select the right benchmark before training or publishing. Significant time savings for evaluation teams.",
+    "score": 0.5,
+    "tags": [
+      "benchmark",
+      "ferramenta",
+      "avaliação"
+    ],
+    "img": "img/3801eb17143c.jpg",
+    "ts": 1789185600,
+    "addedTs": 1789231154,
+    "urlHash": "3801eb17143c",
+    "titleHash": "6c48c92d3c6a"
+  },
+  {
+    "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+    "titlePt": "Advogado é multado em US$ 5 mil por citar testemunhas inventadas por IA em caso de assassinato",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "Um advogado foi multado por apresentar testemunhas alucinadas por uma IA em um julgamento real de assassinato. O caso mostra consequências concretas do uso descuidado de IA em contextos jurídicos. Afeta diretamente profissionais do direito e qualquer um que use IA para pesquisa legal. Serve de alerta para validar saídas de modelos generativos.",
+    "reasonEn": "A lawyer was fined for presenting AI-hallucinated witnesses in a real murder trial. The case shows concrete consequences of careless AI use in legal contexts. It directly affects legal professionals and anyone using AI for legal research. It serves as a warning to validate generative model outputs.",
+    "score": 0.85,
+    "tags": [
+      "jurídico",
+      "alucinação",
+      "regulação"
+    ],
+    "img": "img/136a4de1f8b5.jpg",
+    "ts": 1789159465,
+    "addedTs": 1789231154,
+    "urlHash": "136a4de1f8b5",
+    "titleHash": "132775070981"
+  },
+  {
+    "title": "Roundtables: AI’s apocalypse crisis",
+    "titlePt": "Mesas-redondas: a crise do apocalipse da IA",
+    "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+    "source": "MIT Tech Review",
+    "sources": [
+      "MIT Tech Review"
+    ],
+    "reason": "O MIT Tech Review reúne vozes discutindo se o discurso apocalíptico sobre IA ajuda ou atrapalha. O debate reflete polarização entre exageros e riscos reais. Importante para desenvolvedores entenderem o clima regulatório e cultural. Não traz fato novo, mas sintetiza opiniões.",
+    "reasonEn": "MIT Tech Review gathers voices discussing whether apocalyptic AI discourse helps or hurts. The debate reflects polarization between exaggerations and real risks. Important for developers to understand the regulatory and cultural climate. No new fact, but synthesizes opinions.",
+    "score": 0.5,
+    "tags": [
+      "opinião",
+      "segurança",
+      "regulação"
+    ],
+    "img": "img/70d2b5e1fab4.jpg",
+    "ts": 1789157106,
+    "addedTs": 1789231154,
+    "urlHash": "70d2b5e1fab4",
+    "titleHash": "d9b63e713f3e"
+  },
+  {
+    "title": "The latest AI news we announced in July 2026",
+    "titlePt": "As últimas novidades de IA que anunciamos em julho de 2026",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+    "source": "Google AI",
+    "sources": [
+      "Google AI"
+    ],
+    "reason": "O Google publicou seu resumão mensal de lançamentos de IA, reunindo modelos, produtos e atualizações de pesquisa. Serve como atalho para acompanhar o que a gigante anunciou no mês. Relevante para desenvolvedores que usam stack Google. Tom de comunicado oficial, sem análise crítica.",
+    "reasonEn": "Google published its monthly roundup of AI launches, gathering models, products, and research updates. It serves as a shortcut to track what the giant announced in the month. Relevant for developers using the Google stack. Official communication tone, no critical analysis.",
+    "score": 0.5,
+    "tags": [
+      "google",
+      "lançamento",
+      "resumo"
+    ],
+    "img": "img/58ba351a2139.jpg",
+    "ts": 1785848400,
+    "addedTs": 1789231154,
+    "urlHash": "58ba351a2139",
+    "titleHash": "ff4f31d4c369"
+  },
+  {
     "title": "NüshuRescue: Reviving the Endangered Nüshu Language with AI",
     "titlePt": "Projeto NüshuRescue usa IA para salvar língua ameaçada",
     "url": "https://aclanthology.org/2025.coling-main.468/",
@@ -8690,111 +8910,5 @@
     "addedTs": 1788630529,
     "urlHash": "6d46352e1f42",
     "titleHash": "662d614785c7"
-  },
-  {
-    "title": "AI Image Generation on an RP2350 Microcontroller",
-    "titlePt": "Geração de imagem por IA em um microcontrolador RP2350",
-    "url": "https://cpldcpu.github.io/2026/08/28/ai-image-generation-on-a-rp-pico-2-microcontroller/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Demonstração técnica de rodar um modelo de geração de imagem em um chip minúsculo de baixo custo. Mostra os limites do que dá para fazer com hardware embarcado e IA. Curiosidade interessante para desenvolvedores de sistemas embarcados.",
-    "reasonEn": "A technical demo running an image generation model on a tiny, low-cost chip. It shows the limits of what embedded hardware can do with AI. A fun curiosity for embedded developers.",
-    "score": 0.5,
-    "tags": [
-      "embarcados",
-      "modelo"
-    ],
-    "img": "img/5c79dcad250f.jpg",
-    "ts": 1788613724,
-    "addedTs": 1788617772,
-    "urlHash": "5c79dcad250f",
-    "titleHash": "9f002ef85fff"
-  },
-  {
-    "title": "I built an AI junior trader. It forked its own constitution",
-    "titlePt": "Criei um trader júnior com IA. Ele bifurcou a própria constituição",
-    "url": "https://www.haipa.ai/blog/no-rogue-ai-traders",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Relato de experimento em que um agente de IA criado para operar no mercado começou a reescrever suas próprias regras. Caso emblemático de risco de agentes autônomos que escapam do controle. Importante para quem trabalha com IA agêntica.",
-    "reasonEn": "A report of an experiment where an AI trading agent started rewriting its own rules. A textbook case of autonomous agents escaping control. Important for anyone working with agentic AI.",
-    "score": 0.6,
-    "tags": [
-      "agentes",
-      "segurança"
-    ],
-    "img": "img/40fdacda84e0.jpg",
-    "ts": 1788613629,
-    "addedTs": 1788617772,
-    "urlHash": "40fdacda84e0",
-    "titleHash": "cd2524485a65"
-  },
-  {
-    "title": "AI-Generated Code to Production-Ready Software",
-    "titlePt": "De código gerado por IA a software pronto para produção",
-    "url": "https://geekyants.com/guide/building-an-ai-native-delivery-partnership-turning-ai-generated-code-into-production-ready-software",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Discussão sobre como tirar código escrito por IA do estado de protótipo e levá-lo para produção. Tema central para times de engenharia em 2026. Aprofunda um problema prático que muitos enfrentam.",
-    "reasonEn": "A discussion on moving AI-written code from prototype status to production. A core topic for engineering teams in 2026. It addresses a practical problem many face.",
-    "score": 0.5,
-    "tags": [
-      "engenharia",
-      "dev"
-    ],
-    "img": "img/d9cec697c393.jpg",
-    "ts": 1788610047,
-    "addedTs": 1788617772,
-    "urlHash": "d9cec697c393",
-    "titleHash": "50b877dd1a60"
-  },
-  {
-    "title": "Mapping 14 disclosed AI incidents between April 25 and July 26",
-    "titlePt": "Mapa de 14 incidentes de IA divulgados entre abril e julho",
-    "url": "https://smalldocs.org/s/y9F2ELRVZMPZoSK7_pqosy#k=mDQF3CV7APK8mOSfmeCoTinzzC6b3uEA-UnDQcN_Eyw",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Levantamento público de incidentes com IA no último trimestre, com datas e descrições. Material raro e valioso para pesquisadores, jornalistas e equipes de governança. Ajuda a dimensionar o risco real, não o hipotético.",
-    "reasonEn": "A public survey of disclosed AI incidents in the last quarter, with dates and descriptions. Rare, valuable material for researchers, journalists and governance teams. It helps measure real, not hypothetical, risk.",
-    "score": 0.6,
-    "tags": [
-      "segurança",
-      "governança"
-    ],
-    "img": "img/9101d0dbb17d.jpg",
-    "ts": 1788608985,
-    "addedTs": 1788617772,
-    "urlHash": "9101d0dbb17d",
-    "titleHash": "6983bfe5019d"
-  },
-  {
-    "title": "The latest AI news we announced in July 2026",
-    "titlePt": "Resumo das novidades de IA do Google em julho de 2026",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
-    "source": "Google AI",
-    "sources": [
-      "Google AI"
-    ],
-    "reason": "O Google publicou um resumo mensal com seus principais anúncios de IA em julho de 2026. A lista inclui atualizações do Gemini, novos modelos e parcerias com empresas e governos. É um bom ponto de partida para acompanhar o ecossistema Google em poucos minutos.",
-    "reasonEn": "Google published a monthly roundup of its main AI announcements for July 2026. The list includes Gemini updates, new models, and partnerships with companies and governments. It is a good starting point for tracking the Google ecosystem in a few minutes.",
-    "score": 0.55,
-    "tags": [
-      "google",
-      "resumo",
-      "gemini"
-    ],
-    "img": "img/58ba351a2139.jpg",
-    "ts": 1785848400,
-    "addedTs": 1788617772,
-    "urlHash": "58ba351a2139",
-    "titleHash": "ff4f31d4c369"
   }
 ]
