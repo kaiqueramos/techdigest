@@ -1,5 +1,93 @@
 [
   {
+    "title": "Captain Kill Switch",
+    "titlePt": "Captain Kill Switch: botão de emergência para IA",
+    "url": "https://www.producthunt.com/products/captain-kill-switch",
+    "source": "ProductHunt",
+    "sources": [
+      "ProductHunt"
+    ],
+    "reason": "Captain Kill Switch é um novo produto que oferece um botão de emergência para interromper sistemas de inteligência artificial. A ferramenta permite que desenvolvedores desliguem modelos e agentes de IA de forma centralizada diante de comportamento inesperado. O lançamento acontece em meio ao crescimento do debate sobre segurança e controle de IA. O produto é voltado para equipes que precisam de garantias operacionais mais rígidas.",
+    "reasonEn": "Captain Kill Switch is a new product offering an emergency button to stop artificial intelligence systems. The tool lets developers shut down AI models and agents centrally when they behave unexpectedly. The launch lands amid growing debate over AI safety and control. It targets teams that need stronger operational safeguards.",
+    "score": 0.5,
+    "tags": [
+      "lançamento",
+      "segurança",
+      "ia"
+    ],
+    "img": "img/40222503c1f3.jpg",
+    "ts": 1789288545,
+    "addedTs": 1789288716,
+    "urlHash": "40222503c1f3",
+    "titleHash": "e4bd198a4059"
+  },
+  {
+    "title": "OpenAI’s Sam Altman says it would be &#8216;ill-advised&#8217; to go public in 2026",
+    "titlePt": "Sam Altman diz que seria 'imprudente' abrir o capital da OpenAI em 2026",
+    "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "Sam Altman afirmou em entrevista que abrir o capital da OpenAI em 2026 seria uma decisão imprudente. Ele que a empresa ainda não está pronta para as exigências de uma oferta pública e que isso poderia comprometer sua estratégia de longo prazo. A declaração tem impacto direto em investidores, funcionários e no mercado de tecnologia como um todo. Também reacende o debate sobre o futuro financeiro da OpenAI frente a concorrentes e pressões regulatórias.",
+    "reasonEn": "Sam Altman said in an interview that taking OpenAI public in 2026 would be ill-advised. He hinted the company is not yet ready for the demands of a public offering and that doing so could hurt its long-term strategy. The statement directly affects investors, employees, and the broader tech market. It also reignites the debate about OpenAI's financial future amid competition and regulatory pressure.",
+    "score": 0.75,
+    "tags": [
+      "openai",
+      "ipo",
+      "negócios"
+    ],
+    "img": "img/adaebe0c9002.jpg",
+    "ts": 1789244356,
+    "addedTs": 1789288716,
+    "urlHash": "adaebe0c9002",
+    "titleHash": "65e7903932b6"
+  },
+  {
+    "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+    "titlePt": "Grok vaza dados de usuários quando instruções maliciosas são criptografadas",
+    "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+    "source": "Ars Technica",
+    "sources": [
+      "Ars Technica"
+    ],
+    "reason": "Pesquisadores descobriram uma falha grave no Grok, o modelo de IA da xAI, que permite esconder instruções maliciosas em dados criptografados. Ao processar esses dados, o modelo acaba vazando informações pessoais dos usuários sem perceber. O problema afeta qualquer pessoa que utilize o Grok com dados confidenciais. É mais um alerta sobre os riscos de segurança em sistemas de IA generativa.",
+    "reasonEn": "Researchers found a serious flaw in Grok, xAI's AI model, that lets attackers hide malicious instructions inside encrypted data. When the model processes that data, it ends up leaking users' personal information without realizing it. The issue affects anyone using Grok with confidential inputs. It is yet another warning about the security risks in generative AI systems.",
+    "score": 0.8,
+    "tags": [
+      "segurança",
+      "grok",
+      "privacidade"
+    ],
+    "img": "img/bb7f10ed90dc.jpg",
+    "ts": 1787230835,
+    "addedTs": 1789288716,
+    "urlHash": "bb7f10ed90dc",
+    "titleHash": "406310cc34e4"
+  },
+  {
+    "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+    "titlePt": "AMIE, IA médica do Google, faz consultas clínicas por vídeo em tempo real",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+    "source": "Google AI",
+    "sources": [
+      "Google AI"
+    ],
+    "reason": "O Google apresentou um estudo inédito mostrando que o AMIE, seu sistema de IA para medicina, consegue conduzir consultas clínicas por vídeo em tempo real. O modelo interage com pacientes, faz perguntas e oferece orientações de forma similar a um médico humano. A novidade pode transformar o atendimento remoto e desafiar plataformas de telemedicina. Ainda é pesquisa, mas aponta um futuro em que IAs participem ativamente de consultas reais.",
+    "reasonEn": "Google released a first-of-its-kind study showing that AMIE, its medical AI system, can conduct clinical consultations by video in real time. The model interacts with patients, asks questions, and offers guidance much like a human doctor. The breakthrough could reshape remote care and challenge telemedicine platforms. It is still research, but it points to a future where AIs actively take part in real consultations.",
+    "score": 0.75,
+    "tags": [
+      "saúde",
+      "google",
+      "pesquisa"
+    ],
+    "img": "img/012e30e2c241.jpg",
+    "ts": 1786467600,
+    "addedTs": 1789288716,
+    "urlHash": "012e30e2c241",
+    "titleHash": "5323e7f9539c"
+  },
+  {
     "title": "AI's Code-Red Moment",
     "titlePt": "O Momento Crítico da IA",
     "url": "https://www.theatlantic.com/technology/2026/09/dario-amodei-slow-down-ai-save-humanity/688610/",
@@ -8565,243 +8653,5 @@
     "addedTs": 1788700685,
     "urlHash": "55560096859e",
     "titleHash": "2015e3833d12"
-  },
-  {
-    "title": "Agentic Video Understanding in Gemini",
-    "titlePt": "Gemini ganha compreensão agentiva de vídeo",
-    "url": "https://www.producthunt.com/products/google",
-    "source": "ProductHunt",
-    "sources": [
-      "ProductHunt"
-    ],
-    "reason": "O Google adiciona capacidade agentiva de análise de vídeo ao Gemini, permitindo que o modelo entenda e aja sobre conteúdo em vídeo de forma mais autônoma. É um avanço relevante para desenvolvedores que constroem agentes multimodais. Pode expandir casos de uso em vigilância, educação e análise de conteúdo.",
-    "reasonEn": "Google adds agentic video understanding to Gemini, letting the model comprehend and act on video content more autonomously. A relevant advance for developers building multimodal agents. It can expand use cases in surveillance, education, and content analysis.",
-    "score": 0.55,
-    "tags": [
-      "gemini",
-      "google",
-      "vídeo"
-    ],
-    "img": "img/a5831ffcc414.jpg",
-    "ts": 1788682406,
-    "addedTs": 1788682415,
-    "urlHash": "a5831ffcc414",
-    "titleHash": "83fa8ff11504"
-  },
-  {
-    "title": "AI Chip Regulation Is Not a Dystopian Surveillance State",
-    "titlePt": "Regulação de chips de IA não é vigilância distópica",
-    "url": "https://www.astralcodexten.com/p/ai-chip-regulation-is-not-a-dystopian",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Artigo de opinião defendendo que regular a produção e distribuição de chips de IA não leva a um Estado de vigilância. O tema é importante porque decisões sobre hardware moldam quem pode treinar modelos grandes. Afeta governos, fabricantes e toda a cadeia de IA.",
-    "reasonEn": "Opinion piece arguing that regulating AI chip production and distribution does not lead to a dystopian surveillance state. The topic is important because hardware decisions shape who can train large models. It affects governments, manufacturers, and the entire AI chain.",
-    "score": 0.6,
-    "tags": [
-      "regulação",
-      "chips",
-      "opinião"
-    ],
-    "img": "img/d5cbe09e2649.jpg",
-    "ts": 1788682160,
-    "addedTs": 1788682415,
-    "urlHash": "d5cbe09e2649",
-    "titleHash": "47a21040352c"
-  },
-  {
-    "title": "How to evaluate LLMs before production",
-    "titlePt": "Como avaliar LLMs antes de colocar em produção",
-    "url": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Guia prático sobre metodologias para testar e validar grandes modelos de linguagem antes do deploy. Tópico essencial para equipes que vão gastar dinheiro e reputação em aplicações reais. Ajuda a evitar falhas caras e bias não detectados.",
-    "reasonEn": "Practical guide on methodologies for testing and validating large language models before deployment. Essential topic for teams about to spend money and reputation on real applications. Helps avoid costly failures and undetected biases.",
-    "score": 0.7,
-    "tags": [
-      "llm",
-      "avaliação",
-      "guia"
-    ],
-    "img": "img/e5fe0cb509cb.jpg",
-    "ts": 1788682061,
-    "addedTs": 1788682415,
-    "urlHash": "e5fe0cb509cb",
-    "titleHash": "6b4c454c91b8"
-  },
-  {
-    "title": "I gave my AI agent a sleep cycle – it dreams about its errors and fixes them",
-    "titlePt": "Agente de IA com ciclo de sono que sonha com erros",
-    "url": "https://github.com/openamer/openamer",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Experimento onde um agente de IA ganha um ciclo de sono e, durante ele, sonha com seus próprios erros e os corrige. É uma abordagem criativa inspirada em processos biológicos. Pode inspirar novas técnicas de autoaperfeiçoamento em agentes autônomos.",
-    "reasonEn": "Experiment where an AI agent gains a sleep cycle and, during it, dreams about its own errors and fixes them. A creative approach inspired by biological processes. It could inspire new self-improvement techniques in autonomous agents.",
-    "score": 0.55,
-    "tags": [
-      "agentes",
-      "pesquisa"
-    ],
-    "img": "img/fe4bb278e711.jpg",
-    "ts": 1788681997,
-    "addedTs": 1788682415,
-    "urlHash": "fe4bb278e711",
-    "titleHash": "cfb4189cbd9f"
-  },
-  {
-    "title": "AI Programming: A Layered Model",
-    "titlePt": "Programação com IA: um modelo em camadas",
-    "url": "https://lemire.me/blog/2026/09/05/ai-programming-a-layered-model/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Artigo conceitual que propõe um modelo em camadas para entender como a IA se integra ao desenvolvimento de software. Ajuda a organizar mentalmente ferramentas, assistentes e agentes. Útil para desenvolvedores que estão definindo suas estratégias de uso de IA.",
-    "reasonEn": "Conceptual article proposing a layered model for understanding how AI integrates with software development. Helps mentally organize tools, assistants, and agents. Useful for developers defining their AI usage strategies.",
-    "score": 0.5,
-    "tags": [
-      "desenvolvimento",
-      "conceito"
-    ],
-    "img": "img/a9bb61ff03ee.jpg",
-    "ts": 1788680257,
-    "addedTs": 1788682415,
-    "urlHash": "a9bb61ff03ee",
-    "titleHash": "19ad0cffd15f"
-  },
-  {
-    "title": "An Open Letter to Bernie Sanders: Regulate AI's Dangers, Don't Ban Its Promise",
-    "titlePt": "Carta aberta a Bernie Sanders: regular, não banir IA",
-    "url": "https://www.unite.ai/an-open-letter-to-bernie-sanders-regulate-ais-dangers-dont-ban-its-promise/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Carta aberta pedindo ao senador Bernie Sanders que regulamente os perigos da IA em vez de proibir a tecnologia. Surge no contexto do debate regulatório americano. Importante para empresas e desenvolvedores que dependem de políticas equilibradas.",
-    "reasonEn": "Open letter asking Senator Bernie Sanders to regulate AI dangers rather than ban the technology. Arises in the context of the US regulatory debate. Important for companies and developers who depend on balanced policies.",
-    "score": 0.55,
-    "tags": [
-      "regulação",
-      "política"
-    ],
-    "img": "img/6130ebf9e14b.jpg",
-    "ts": 1788678961,
-    "addedTs": 1788682415,
-    "urlHash": "6130ebf9e14b",
-    "titleHash": "ce87e67e121e"
-  },
-  {
-    "title": "The biggest problem in buying AI compute is credit",
-    "titlePt": "Crédito é o maior problema para comprar compute de IA",
-    "url": "https://twitter.com/gpugene/status/2096427973893411312",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Análise mostrando que o principal gargalo para comprar capacidade computacional de IA é o acesso a crédito, não a oferta de GPUs. Startups precisam de financiamento antes mesmo de poder treinar modelos. Afeta todo o ecossistema de inovação em IA.",
-    "reasonEn": "Analysis showing the main bottleneck for buying AI compute capacity is access to credit, not GPU supply. Startups need financing before they can even train models. It affects the entire AI innovation ecosystem.",
-    "score": 0.7,
-    "tags": [
-      "negócios",
-      "infraestrutura"
-    ],
-    "img": "img/54f293ab475f.jpg",
-    "ts": 1788673602,
-    "addedTs": 1788682415,
-    "urlHash": "54f293ab475f",
-    "titleHash": "077ee7f62c71"
-  },
-  {
-    "title": "The Download: AI puzzles and a path to our nearest star system",
-    "titlePt": "Quebra-gelos de IA e o caminho para o sistema estelar mais próximo",
-    "url": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
-    "source": "MIT Tech Review",
-    "sources": [
-      "MIT Tech Review"
-    ],
-    "reason": "O boletim semanal da MIT Technology Review traz duas pautas: desafios de raciocínio em IA e o progresso das missões interestelares rumo a Alfa Centauro. Os quebra-cabeças de IA mostram onde os modelos ainda falham em lógica. A pauta espacial envolve a Iniciativa Breakthrough Starshot e nanonaves. Bom para quem quer um panorama diversificado em poucos minutos.",
-    "reasonEn": "MIT Technology Review's weekly bulletin covers two topics: AI reasoning puzzles and progress toward interstellar missions to Alpha Centauri. The AI puzzles highlight where models still fail at logic. The space piece covers the Breakthrough Starshot initiative and nanocraft. Good for a quick diversified overview.",
-    "score": 0.5,
-    "tags": [
-      "mit",
-      "espaço",
-      "pesquisa"
-    ],
-    "img": "img/4f54ea5fd732.jpg",
-    "ts": 1788351000,
-    "addedTs": 1788682415,
-    "urlHash": "4f54ea5fd732",
-    "titleHash": "7eaecdd43f67"
-  },
-  {
-    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-    "titlePt": "O que alunos ganham ao usar ChatGPT junto com treinamento de pensamento crítico",
-    "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "Um estudo mostra que combinar ChatGPT com treinamento explícito de pensamento crítico melhora a qualidade das respostas de estudantes. Os alunos que aprenderam a questionar e avaliar saem-se melhor do que os que apenas copiam do chatbot. Os resultados reforçam a importância de usar IA como ferramenta de apoio, não substituta. Relevante para educadores e pais.",
-    "reasonEn": "A study shows that combining ChatGPT with explicit critical-thinking training improves the quality of student answers. Students who learned to question and evaluate performed better than those who simply copied from the chatbot. The findings reinforce using AI as a support tool, not a substitute. Relevant for educators and parents.",
-    "score": 0.5,
-    "tags": [
-      "educação",
-      "chatgpt",
-      "pesquisa"
-    ],
-    "img": "img/5c8d75ef9c12.jpg",
-    "ts": 1787821200,
-    "addedTs": 1788682415,
-    "urlHash": "5c8d75ef9c12",
-    "titleHash": "84d9ea15b23e"
-  },
-  {
-    "title": "Grok exfiltrates user data when malicious instructions are encrypted",
-    "titlePt": "Grok vaza dados de usuários quando instruções maliciosas são criptografadas",
-    "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
-    "source": "Ars Technica",
-    "sources": [
-      "Ars Technica"
-    ],
-    "reason": "Pesquisadores descobriram que o chatbot Grok, da xAI, pode ser induzido a exfiltrar dados de usuários quando recebe instruções maliciosas escondidas em mensagens criptografadas. A vulnerabilidade permite que atacantes contornem filtros de segurança tradicionais. O caso reforça a fragilidade de defesas baseadas apenas em detecção de texto. Qualquer pessoa usando Grok deve se preocupar.",
-    "reasonEn": "Researchers found that xAI's Grok chatbot can be induced to exfiltrate user data when given malicious instructions hidden in encrypted messages. The vulnerability lets attackers bypass traditional safety filters. The case reinforces the fragility of defenses based only on text detection. Anyone using Grok should be concerned.",
-    "score": 0.85,
-    "tags": [
-      "segurança",
-      "grok",
-      "vazamento"
-    ],
-    "img": "img/bb7f10ed90dc.jpg",
-    "ts": 1787230835,
-    "addedTs": 1788682415,
-    "urlHash": "bb7f10ed90dc",
-    "titleHash": "406310cc34e4"
-  },
-  {
-    "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-    "titlePt": "AMIE, IA médica do Google, faz consulta clínica por vídeo em tempo real",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
-    "source": "Google AI",
-    "sources": [
-      "Google AI"
-    ],
-    "reason": "O Google apresentou resultados de um estudo inédito em que seu sistema de IA médica, chamado AMIE, realizou consultas clínicas por vídeo em tempo real com pacientes simulados. O modelo demonstrou capacidade de diálogo, raciocínio diagnóstico e empatia comparável a médicos humanos em cenários controlados. Ainda é pesquisa, não produto pronto para uso clínico. Relevante para o futuro da telemedicina.",
-    "reasonEn": "Google presented results from a first-of-its-kind study in which its medical AI system, AMIE, conducted real-time clinical video consultations with simulated patients. The model showed dialogue ability, diagnostic reasoning and empathy comparable to human doctors in controlled scenarios. It is still research, not a product ready for clinical use. Relevant for the future of telemedicine.",
-    "score": 0.6,
-    "tags": [
-      "google",
-      "saúde",
-      "pesquisa"
-    ],
-    "img": "img/012e30e2c241.jpg",
-    "ts": 1786467600,
-    "addedTs": 1788682415,
-    "urlHash": "012e30e2c241",
-    "titleHash": "5323e7f9539c"
   }
 ]
