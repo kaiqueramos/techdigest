@@ -1,5 +1,137 @@
 [
   {
+    "title": "Show HN: I built a day-by-day timeline of the AI boom (2017–2026, 437 events)",
+    "titlePt": "Linha do tempo dia a dia do boom da IA (2017–2026, 437 eventos)",
+    "url": "https://www.aihistory.live/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um projeto Show HN que reúne 437 eventos importantes da inteligência artificial entre 2017 e 2026 em uma timeline navegável. É um recurso de referência útil para pesquisadores, jornalistas e curiosos que querem entender a sequência de lançamentos, marcos regulatórios e viradas de mercado. Para quem tem pouco tempo, funciona como um índice rápido do passado recente da área. O conteúdo é informativo, mas não é notícia nova.",
+    "reasonEn": "A Show HN project compiling 437 notable AI events from 2017 to 2026 into a browsable timeline. It is a handy reference for researchers, journalists, and curious readers who want to understand the sequence of launches, regulatory milestones, and market shifts. For busy people, it works as a quick index of the field's recent past. Informative but not new news itself.",
+    "score": 0.5,
+    "tags": [
+      "história",
+      "referência",
+      "timeline"
+    ],
+    "img": "img/3af9b514e80e.jpg",
+    "ts": 1789306264,
+    "addedTs": 1789307940,
+    "urlHash": "3af9b514e80e",
+    "titleHash": "5f9348b61b52"
+  },
+  {
+    "title": "Codename MDASH brings agentic AI security scanning to US Government",
+    "titlePt": "Codinome MDASH leva varredura de segurança com IA ao governo dos EUA",
+    "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/us-government/2026/09/08/codename-mdash-brings-agentic-ai-security-scanning-to-us-government/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Anúncio de uma iniciativa batizada MDASH que usa agentes de inteligência artificial para automatizar varreduras de segurança em sistemas do governo americano. Mostra como IA agentic está entrando em fluxos críticos de cibersegurança pública. Profissionais de segurança e fornecedores precisam acompanhar a tendência de governos adotando automação agressiva. Pode indicar novos padrões regulatórios.",
+    "reasonEn": "Announcement of an initiative called MDASH that uses AI agents to automate security scanning across US government systems. It shows how agentic AI is moving into critical public-sector cybersecurity workflows. Security professionals and vendors should track the trend of governments adopting aggressive automation. It may signal new regulatory standards.",
+    "score": 0.6,
+    "tags": [
+      "governo",
+      "segurança",
+      "agentes"
+    ],
+    "img": "img/55adac264e3c.jpg",
+    "ts": 1789300561,
+    "addedTs": 1789307940,
+    "urlHash": "55adac264e3c",
+    "titleHash": "520c30babc8d"
+  },
+  {
+    "title": "An Open Letter from Academics about AI Risk / Life Without the Internet",
+    "titlePt": "Carta aberta de acadêmicos sobre risco da IA / Vida sem internet",
+    "url": "https://dailynous.com/2026/09/12/an-open-letter-from-academics-about-ai-risk-life-without-the-internet-the-case-for-non-network-redundancy/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Carta pública assinada por pesquisadores universitários alertando para os riscos existenciais da inteligência artificial e discutindo um cenário de vida sem internet como contingência. Reforça a pressão acadêmica por mais cautela no desenvolvimento. O tema se conecta a debates anteriores sobre segurança e governança. Importante para acompanhar o tom do discurso científico.",
+    "reasonEn": "A public letter signed by university researchers warning about existential risks from AI and discussing a contingency scenario of life without the internet. It reinforces academic pressure for more caution in development. The topic connects to earlier safety and governance debates. Important for tracking the tone of scientific discourse.",
+    "score": 0.5,
+    "tags": [
+      "academia",
+      "risco",
+      "carta"
+    ],
+    "img": "img/b9bb110659f6.jpg",
+    "ts": 1789300325,
+    "addedTs": 1789307940,
+    "urlHash": "b9bb110659f6",
+    "titleHash": "4c7458734241"
+  },
+  {
+    "title": "GCC AI Policy Announcement",
+    "titlePt": "Anúncio de política de IA do Conselho de Cooperação do Golfo",
+    "url": "https://gcc.gnu.org/pipermail/gcc/2026-July/248628.html",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Comunicado oficial do bloco formado por países do Golfo Pérsico divulgando diretrizes para o uso e desenvolvimento de inteligência artificial. Reflete como governos de regiões com grandes investimentos estão tentando coordenar regras próprias. Pode afetar empresas que operam ou pretendem operar nesses mercados. Sinaliza mais um bloco geopolítico entrando no debate regulatório.",
+    "reasonEn": "An official statement from the Gulf Cooperation Council bloc announcing guidelines for AI use and development. It reflects how governments in regions with massive investments are trying to coordinate their own rules. It can affect companies operating or planning to operate in those markets. Signals yet another geopolitical bloc entering the regulatory debate.",
+    "score": 0.6,
+    "tags": [
+      "regulação",
+      "governo",
+      "política"
+    ],
+    "img": "img/06b4c40871c9.jpg",
+    "ts": 1789296651,
+    "addedTs": 1789307940,
+    "urlHash": "06b4c40871c9",
+    "titleHash": "b0c2e6ba0162"
+  },
+  {
+    "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+    "titlePt": "Inferência até 3,2x mais rápida com LFM2.5-DSpark",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "A Liquid AI anunciou o modelo LFM2.5-DSpark, prometendo até 3,2 vezes mais velocidade de inferência em relação a versões anteriores. Ganhos assim impactam diretamente custo de operação e latência em produtos em produção. Desenvolvedores que usam modelos abertos devem testar para avaliar ganho real em seus workloads. É notícia prática com efeito imediato em contas de nuvem.",
+    "reasonEn": "Liquid AI announced the LFM2.5-DSpark model, promising up to 3.2x faster inference compared to earlier versions. Gains like these directly affect operating cost and latency in production products. Developers using open models should benchmark it against their workloads. Practical news with immediate effect on cloud bills.",
+    "score": 0.7,
+    "tags": [
+      "modelo",
+      "inferência",
+      "desempenho"
+    ],
+    "img": "img/eab5285cfdeb.jpg",
+    "ts": 1787244777,
+    "addedTs": 1789307940,
+    "urlHash": "eab5285cfdeb",
+    "titleHash": "e59d3783eb75"
+  },
+  {
+    "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+    "titlePt": "Gemini API lança agentes gerenciados, 3.6 Flash e novos recursos",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+    "source": "Google AI",
+    "sources": [
+      "Google AI"
+    ],
+    "reason": "O Google anunciou uma série de novidades para a Gemini API voltadas a desenvolvedores que constroem sistemas com agentes de IA. Entre os destaques está o lançamento de recursos de agentes gerenciados, que simplificam a orquestração de fluxos automatizados, além do modelo 3.6 Flash, mais rápido e econômico. Também foi introduzido o sistema de hooks, que permite aos desenvolvedores interceptar e personalizar o comportamento do agente em pontos específicos da execução. As mudanças visam reduzir a complexidade de implementar agentes em produção e melhorar a observabilidade. A atualização afeta diretamente equipes que usam a Gemini API para criar produtos com IA generativa.",
+    "reasonEn": "Google announced a series of updates to the Gemini API aimed at developers building AI agent systems. The highlights include managed agents features that simplify orchestration of automated workflows, plus the new 3.6 Flash model, which is faster and cheaper to run. A hooks system was also introduced, letting developers intercept and customize agent behavior at specific points during execution. The changes aim to reduce the complexity of deploying agents in production and improve observability. The update directly affects teams using the Gemini API to build generative AI products.",
+    "score": 0.72,
+    "tags": [
+      "google",
+      "api",
+      "agentes"
+    ],
+    "img": "img/55560096859e.jpg",
+    "ts": 1785254400,
+    "addedTs": 1789307940,
+    "urlHash": "55560096859e",
+    "titleHash": "2015e3833d12"
+  },
+  {
     "title": "Captain Kill Switch",
     "titlePt": "Captain Kill Switch: botão de emergência para IA",
     "url": "https://www.producthunt.com/products/captain-kill-switch",
@@ -8412,246 +8544,5 @@
     "addedTs": 1788712499,
     "urlHash": "5b1308781068",
     "titleHash": "86a4cad259b8"
-  },
-  {
-    "title": "AI coding agents forget the codebase between sessions",
-    "titlePt": "Agentes de código com IA esquecem o projeto entre sessões",
-    "url": "https://github.com/thecolourfoundation/rune",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Discussão em alta no Hacker News revela um problema persistente: agentes de programação com IA perdem o contexto do código toda vez que a sessão termina. Isso obriga desenvolvedores a reexplicar o projeto a cada nova interação, desperdiçando tempo e tokens. Afeta diretamente quem usa ferramentas como Cursor, Claude Code e similares. Não é a mesma história da solução de memória já publicada, e sim o problema em si.",
-    "reasonEn": "A trending Hacker News discussion highlights a persistent problem: AI coding agents lose codebase context every time a session ends. Developers must re-explain the project on every new interaction, wasting time and tokens. It directly affects users of tools like Cursor and Claude Code. This focuses on the problem itself, not the memory solution already published.",
-    "score": 0.75,
-    "tags": [
-      "agentes",
-      "desenvolvimento",
-      "memória"
-    ],
-    "img": "img/993a611a18ef.jpg",
-    "ts": 1788698713,
-    "addedTs": 1788700685,
-    "urlHash": "993a611a18ef",
-    "titleHash": "9dbcf7901ba1"
-  },
-  {
-    "title": "TCS commits $7.4B to a one-gigawatt AI campus in Hyderabad",
-    "titlePt": "TCS investe US$ 7,4 bilhões em campus de IA de 1 gigawatt em Hyderabad",
-    "url": "https://thenextweb.com/news/tcs-hypervault-one-gigawatt-hyderabad-campus-7-4-billion-water-neutral-claim-eu-data-centre-reporting-delegated-regulation-2024-1364",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A gigante indiana de TI TCS anunciou um investimento massivo de US$ 7,4 bilhões para construir um campus de IA de um gigawatt em Hyderabad, na Índia. É um dos maiores compromissos já feitos por uma empresa de serviços de tecnologia para infraestrutura dedicada a IA. Mostra a corrida global por capacidade de computação e fortalece a Índia como polo de IA. Impacta diretamente o mercado de data centers e fornecedores de chips.",
-    "reasonEn": "Indian IT giant TCS announced a massive $7.4 billion investment to build a one-gigawatt AI campus in Hyderabad, India. It is one of the largest commitments ever made by a services firm for AI-dedicated infrastructure. The move underscores the global race for compute capacity and cements India's role as an AI hub, impacting data center and chip supplier markets.",
-    "score": 0.85,
-    "tags": [
-      "infraestrutura",
-      "investimento",
-      "índia"
-    ],
-    "img": "img/db97858f867c.jpg",
-    "ts": 1788694301,
-    "addedTs": 1788700685,
-    "urlHash": "db97858f867c",
-    "titleHash": "d48d5b388482"
-  },
-  {
-    "title": "A Blacklisted Chinese Tech Giant Kept Buying Nvidia's Best A.I. Chips",
-    "titlePt": "Gigante chinesa na lista negra continuou comprando as melhores chips de IA da Nvidia",
-    "url": "https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Uma grande empresa de tecnologia chinesa, mesmo estando na lista de sanções dos EUA, conseguiu adquirir chips avançados de IA da Nvidia por meio de intermediários. A reportagem levanta questões sobre a eficácia do controle de exportação de semicondutores. Tem implicações geopolíticas e de segurança nacional relevantes. Afeta diretamente o mercado de chips e as tensões entre EUA e China.",
-    "reasonEn": "A major Chinese tech firm on US sanctions lists managed to acquire advanced Nvidia AI chips through intermediaries. The report raises questions about the effectiveness of semiconductor export controls, with significant geopolitical and national security implications. It directly affects the chip market and US-China tensions.",
-    "score": 0.85,
-    "tags": [
-      "nvidia",
-      "geopolítica",
-      "chips"
-    ],
-    "img": "img/5943a1d5f9a9.jpg",
-    "ts": 1788692828,
-    "addedTs": 1788700685,
-    "urlHash": "5943a1d5f9a9",
-    "titleHash": "c51955e55315"
-  },
-  {
-    "title": "Show HN: Wayfinder – A reference implementation for evaluating AI applications",
-    "titlePt": "Wayfinder: implementação de referência para avaliar aplicações de IA",
-    "url": "https://github.com/DivakarUngatla/wayfinder",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Projeto Show HN que oferece uma referência aberta para avaliar aplicações de IA em produção. Ajuda times a medir qualidade, latência e custo de forma padronizada. Tema relevante para desenvolvedores que precisam defender investimentos em IA com dados. Não é a mesma história da reportagem genérica sobre avaliar LLMs já publicada, mas o foco é diferente e prático.",
-    "reasonEn": "A Show HN project offering an open reference for evaluating AI applications in production. It helps teams measure quality, latency, and cost in a standardized way. Useful for developers needing data to justify AI investments. A different angle from the generic LLM evaluation piece already published.",
-    "score": 0.65,
-    "tags": [
-      "avaliação",
-      "open-source"
-    ],
-    "img": "img/2e433868b985.jpg",
-    "ts": 1788691553,
-    "addedTs": 1788700685,
-    "urlHash": "2e433868b985",
-    "titleHash": "69ba3a077eda"
-  },
-  {
-    "title": "Nvidia is the central bank of AI",
-    "titlePt": "Nvidia é o banco central da IA",
-    "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Artigo de opinião que compara o poder da Nvidia ao de um banco central, controlando o 'supply' de capacidade computacional que move toda a indústria de IA. Traz uma analogia útil para entender dependência estratégica. Não traz dados novos, mas a metáfora é forte. Vale a leitura para executivos e investidores.",
-    "reasonEn": "An opinion piece comparing Nvidia's power to that of a central bank, controlling the supply of compute capacity that drives the entire AI industry. A useful analogy to understand strategic dependence without fresh data, but a strong metaphor worth reading for executives and investors.",
-    "score": 0.6,
-    "tags": [
-      "nvidia",
-      "opinião",
-      "mercado"
-    ],
-    "img": "img/bacf7aac6987.jpg",
-    "ts": 1788690013,
-    "addedTs": 1788700685,
-    "urlHash": "bacf7aac6987",
-    "titleHash": "a517cffd8578"
-  },
-  {
-    "title": "Podcast: We Spoke to an Amazon Worker Destroying Books for AI",
-    "titlePt": "Podcast: conversamos com trabalhador da Amazon que destrói livros para treinar IA",
-    "url": "https://www.404media.co/email/ed687963-910c-488c-95d5-b06f911b214e/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Episódio de podcast investigativo em que um trabalhador da Amazon conta como é destruir livros físicos para alimentar modelos de IA. Revela o lado humano e muitas vezes opaco da cadeia de dados que treina sistemas inteligentes. Importante para entender custos sociais e éticos da IA. Toca em temas de treinamento de dados que já foram citados, mas com foco específico em literatura.",
-    "reasonEn": "An investigative podcast episode where an Amazon worker describes destroying physical books to feed AI models. It reveals the human and often opaque side of the data chain that trains AI systems, important for understanding social and ethical costs. Related to data training themes already covered, but with a specific literary focus.",
-    "score": 0.75,
-    "tags": [
-      "ética",
-      "treinamento",
-      "trabalho"
-    ],
-    "img": "img/fdf8f1ab21b8.jpg",
-    "ts": 1788689516,
-    "addedTs": 1788700685,
-    "urlHash": "fdf8f1ab21b8",
-    "titleHash": "e135ad1b7f66"
-  },
-  {
-    "title": "Trump administration officials wrestling with the spiritual consequences of AI",
-    "titlePt": "Autoridades do governo Trump debatem as consequências espirituais da IA",
-    "url": "https://www.wsj.com/tech/ai/vance-called-ai-satanic-he-struck-a-chord-among-christian-republicans-dcc34048",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Reportagem sobre discussões internas na administração Trump sobre o impacto espiritual e filosófico da inteligência artificial. Mostra que o debate sobre IA está chegando a dimensões além da técnica, envolvendo ética e visão de mundo. Importante para entender o cenário regulatório futuro. Sem detalhes concretos de política pública ainda.",
-    "reasonEn": "A report on internal Trump administration discussions about the spiritual and philosophical impact of AI. It shows the AI debate is expanding beyond technical concerns into ethics and worldview. Useful for understanding future regulatory direction, though no concrete policy details are provided.",
-    "score": 0.5,
-    "tags": [
-      "regulação",
-      "ética",
-      "governo"
-    ],
-    "img": "img/f790b52a2ada.jpg",
-    "ts": 1788686741,
-    "addedTs": 1788700685,
-    "urlHash": "f790b52a2ada",
-    "titleHash": "7debe32ee214"
-  },
-  {
-    "title": "Facelift: AI Website Customizer and Visual CSS Editor",
-    "titlePt": "Facelift: customizador de sites com IA e editor visual de CSS",
-    "url": "https://getfacelift.app/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Facelift é uma nova ferramenta que usa IA para customizar sites visualmente, permitindo editar CSS sem escrever código manualmente. O foco é acelerar ajustes de layout, cores e estilos por meio de comandos em linguagem natural. Pode economizar tempo de desenvolvedores e designers em iterações rápidas. Interessante para quem prototipa landing pages ou ajusta interfaces com frequência. Ainda não há dados sobre a profundidade de controle oferecida.",
-    "reasonEn": "Facelift is a new AI-powered tool that customizes websites visually and lets users edit CSS without writing code by hand. It speeds up layout, color and style tweaks through natural-language prompts. It can save time for developers and designers doing rapid iterations. Useful for anyone prototyping landing pages or tweaking interfaces often. No deep details yet on how much control the AI actually offers.",
-    "score": 0.5,
-    "tags": [
-      "ferramenta",
-      "desenvolvimento",
-      "css"
-    ],
-    "img": "img/630ae9c4dc49.jpg",
-    "ts": 1788685241,
-    "addedTs": 1788700685,
-    "urlHash": "630ae9c4dc49",
-    "titleHash": "67cdde3a077f"
-  },
-  {
-    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-    "titlePt": "Treinando e ajustando modelos de embedding multi-vetor com Sentence Transformers",
-    "url": "https://huggingface.co/blog/train-multi-vector-encoder",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "O tutorial da Hugging Face explica como treinar e ajustar modelos de embedding multi-vetor usando a biblioteca Sentence Transformers. Embeddings multi-vetor melhoram busca semântica em tarefas complexas como resposta a perguntas e reranking. O conteúdo é técnico, com código e exemplos práticos. Relevante para engenheiros de ML que trabalham com retrieval augmented generation. Ajuda a reduzir custos de busca em bases grandes.",
-    "reasonEn": "The Hugging Face tutorial explains how to train and fine-tune multi-vector embedding models using Sentence Transformers. Multi-vector embeddings improve semantic search on complex tasks like question answering and reranking. The content is technical with code and practical examples. It is relevant for ML engineers working on retrieval augmented generation. It can help cut search costs on large knowledge bases.",
-    "score": 0.5,
-    "tags": [
-      "embedding",
-      "rag",
-      "treinamento"
-    ],
-    "img": "img/17177c100c91.jpg",
-    "ts": 1787702400,
-    "addedTs": 1788700685,
-    "urlHash": "17177c100c91",
-    "titleHash": "2f36da44fbda"
-  },
-  {
-    "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-    "titlePt": "Inferência até 3,2 vezes mais rápida com LFM2.5-DSpark",
-    "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "A Liquid AI publicou o LFM2.5-DSpark, uma variante do modelo LFM2.5 otimizada para inferência rápida, prometendo até 3,2x de aceleração. O ganho vem de técnicas como decodificação especulativa ou destilação, comuns em modelos focados em baixa latência. É relevante para quem roda LLMs em produção e quer cortar custo por requisição. Os benchmarks citados precisam ser validados em casos reais. Vale acompanhar se a eficiência se mantém em cargas diversas.",
-    "reasonEn": "Liquid AI released LFM2.5-DSpark, a variant of LFM2.5 optimized for fast inference, claiming up to 3.2x speedups. The gain comes from techniques like speculative decoding or distillation, common in low-latency models. It matters for teams running LLMs in production who want to cut per-request cost. The cited benchmarks still need validation in real workloads. It is worth tracking whether efficiency holds across diverse tasks.",
-    "score": 0.55,
-    "tags": [
-      "inferência",
-      "modelo",
-      "performance"
-    ],
-    "img": "img/eab5285cfdeb.jpg",
-    "ts": 1787244777,
-    "addedTs": 1788700685,
-    "urlHash": "eab5285cfdeb",
-    "titleHash": "e59d3783eb75"
-  },
-  {
-    "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-    "titlePt": "Agentes gerenciados na API Gemini: 3.6 Flash, hooks e mais novidades",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-    "source": "Google AI",
-    "sources": [
-      "Google AI"
-    ],
-    "reason": "O Google anunciou novos recursos da API Gemini, incluindo Managed Agents, suporte ao modelo 3.6 Flash e um sistema de hooks para controlar o ciclo de vida dos agentes. Managed Agents reduzem a complexidade de orquestrar chamadas, ferramentas e memória persistente. Hooks permitem interceptar eventos como antes e depois de tool calls, útil para logging e guardrails. É uma atualização importante para desenvolvedores que constroem produtos agentic. Torna a stack do Google mais competitiva frente a frameworks como o Agent SDK da OpenAI.",
-    "reasonEn": "Google announced new Gemini API features, including Managed Agents, support for the 3.6 Flash model, and a hooks system to control agent lifecycles. Managed Agents reduce the complexity of orchestrating calls, tools, and persistent memory. Hooks let developers intercept events like before and after tool calls, useful for logging and guardrails. It is an important update for developers building agentic products. It makes Google's stack more competitive with frameworks like OpenAI's Agent SDK.",
-    "score": 0.75,
-    "tags": [
-      "gemini",
-      "api",
-      "agentes"
-    ],
-    "img": "img/55560096859e.jpg",
-    "ts": 1785254400,
-    "addedTs": 1788700685,
-    "urlHash": "55560096859e",
-    "titleHash": "2015e3833d12"
   }
 ]
