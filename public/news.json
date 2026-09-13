@@ -1,5 +1,89 @@
 [
   {
+    "title": "AI hypervigilance is now an omnipresent cognitive load for your users",
+    "titlePt": "Hipervigilância da IA virou carga cognitiva diária para usuários",
+    "url": "https://productpicnic.beehiiv.com/p/ai-hypervigilance-is-now-an-omnipresent-cognitive-load-for-your-users",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo argumenta que, com IA cada vez mais presente, as pessoas vivem em estado constante de atenção para identificar conteúdo gerado por máquina, deepfakes e textos falsos. Isso cria um peso mental permanente que prejudica foco e produtividade. O texto compara esse fenômeno à fadiga de notificações. É leitura útil para gestores de produto e equipes de UX.",
+    "reasonEn": "The post argues that as AI becomes everywhere, users live in constant vigilance to spot machine-made content, deepfakes, and fake text. This creates permanent cognitive load that hurts focus and productivity. The author compares it to notification fatigue. Useful read for product managers and UX teams.",
+    "score": 0.5,
+    "tags": [
+      "ux",
+      "produto"
+    ],
+    "img": "img/a18c059e479f.jpg",
+    "ts": 1789341704,
+    "addedTs": 1789343259,
+    "urlHash": "a18c059e479f",
+    "titleHash": "c0f54256a8f7"
+  },
+  {
+    "title": "It's All Fun and Games Until You Give AI Your Credit Card",
+    "titlePt": "Os riscos de dar cartão de crédito para um agente de IA",
+    "url": "https://www.theatlantic.com/technology/2026/09/instinct-ai-personal-assistant-credit-card/688607/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto alerta sobre os perigos de liberar agentes de IA para fazer compras ou pagamentos em nome do usuário. Ele mostra casos em que pequenas instruções extras desviaram agentes para sites errados ou gastos inesperados. A recomendação é manter limites rígidos e supervisão humana. Importante para qualquer pessoa ou empresa automatizando tarefas financeiras.",
+    "reasonEn": "The post warns about the dangers of giving AI agents access to credit cards for purchases or payments. It cites cases where small extra instructions led agents to wrong sites or unexpected charges. The advice is to keep strict limits and human oversight. Important for anyone automating financial tasks.",
+    "score": 0.6,
+    "tags": [
+      "segurança",
+      "agentes"
+    ],
+    "img": "img/eb30d27208c7.jpg",
+    "ts": 1789340713,
+    "addedTs": 1789343259,
+    "urlHash": "eb30d27208c7",
+    "titleHash": "e400a715b30d"
+  },
+  {
+    "title": "Claude Fable 5.1 cracked a cipher that has survived for 370 years in 40 min.",
+    "titlePt": "Claude Fable 5.1 decifra cifra de 370 anos em 40 minutos",
+    "url": "https://osintsights.com/ai-deciphers-370-year-old-cipher-in-minutes",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O modelo Claude Fable 5.1 conseguiu quebrar uma cifra que resistiu por 370 anos de tentativas de criptanalistas humanos. A façanha aconteceu em apenas 40 minutos de processamento. O feito mostra o salto de capacidade de raciocínio dos modelos atuais. Relevante para historiadores, criptógrafos e quem acompanha evolução de IA.",
+    "reasonEn": "Claude Fable 5.1 cracked a cipher that had resisted human cryptanalysts for 370 years. The feat took only 40 minutes of processing. It shows the leap in reasoning capability of current AI models. Relevant for historians, cryptographers, and AI watchers.",
+    "score": 0.6,
+    "tags": [
+      "modelo",
+      "capacidade"
+    ],
+    "img": "img/6dca95482b65.jpg",
+    "ts": 1789332997,
+    "addedTs": 1789343259,
+    "urlHash": "6dca95482b65",
+    "titleHash": "d842b5c7a1e6"
+  },
+  {
+    "title": "Hikers guided by AI stranded on Mt. Shasta [video]",
+    "titlePt": "Turistas guiados por IA ficam perdidos no Monte Shasta",
+    "url": "https://www.youtube.com/watch?v=OlwxEnN50e4",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Dois hikers confiaram em um aplicativo de IA para subir o Monte Shasta, na Califórnia, e ficaram presos em terreno perigoso, precisando de resgate. O caso mostra os riscos reais de confiar cegamente em sistemas automatizados em ambientes extremos. Serve de alerta para usuários e desenvolvedores de apps de navegação. Há vídeo do incidente.",
+    "reasonEn": "Two hikers relied on an AI app to climb Mount Shasta in California and got stranded in dangerous terrain, requiring rescue. The case shows real risks of blindly trusting automated systems in extreme environments. It's a warning for users and navigation app developers. A video of the incident exists.",
+    "score": 0.7,
+    "tags": [
+      "segurança",
+      "caso-real"
+    ],
+    "img": "img/dbaa0b853caa.jpg",
+    "ts": 1789332406,
+    "addedTs": 1789343259,
+    "urlHash": "dbaa0b853caa",
+    "titleHash": "1479e6dfdb7a"
+  },
+  {
     "title": "Trump and Mike Johnson think the AI industry is overreacting",
     "titlePt": "Trump e Mike Johnson acham que o setor de IA está exagerando",
     "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
@@ -8339,175 +8423,5 @@
     "addedTs": 1788746390,
     "urlHash": "f94c7fc04390",
     "titleHash": "64b725d8b4d6"
-  },
-  {
-    "title": "Have the frontier labs mixed up AI safety and security?",
-    "titlePt": "Laboratórios de fronteira confundiram segurança de IA com segurança nacional?",
-    "url": "https://martinalderson.com/posts/ai-safety-vs-security/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Uma discussão em alta no Hacker News questiona se empresas como OpenAI, Anthropic e Google estão confundindo segurança técnica de IA com segurança nacional. O texto argumenta que os termos foram tratados como sinônimos, mas têm implicações bem diferentes para o público. Para qualquer pessoa que usa modelos de fronteira, entender essa distinção ajuda a avaliar melhor os riscos. É leitura recomendada para quem quer fugir do exagero.",
-    "reasonEn": "A trending Hacker News discussion questions whether OpenAI, Anthropic and Google are conflating technical AI safety with national security. The piece argues the terms were used as synonyms when they have very different implications for the public. For anyone using frontier models, understanding this distinction helps evaluate risks more honestly. Recommended reading for those tired of the hype.",
-    "score": 0.65,
-    "tags": [
-      "segurança",
-      "regulação"
-    ],
-    "img": "img/ba1cf40e3709.jpg",
-    "ts": 1788736681,
-    "addedTs": 1788736923,
-    "urlHash": "ba1cf40e3709",
-    "titleHash": "add3ca79882c"
-  },
-  {
-    "title": "Show HN: Chrome-bridge – let any AI agent drive your real logged-in Chrome",
-    "titlePt": "Chrome-bridge deixa qualquer agente de IA controlar seu navegador logado",
-    "url": "https://github.com/siropkin/chrome-bridge",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um projeto mostrado no Hacker News permite que agentes de IA operem dentro do seu navegador Chrome já autenticado em sites. Isso elimina parte do trabalho de automação que exigia logins manuais e credenciais de acesso. Para quem constrói agentes, é um atalho poderoso, mas também abre questões sérias de segurança. Vale testar em ambientes controlados antes de usar em produção.",
-    "reasonEn": "A Hacker News Show HN project lets AI agents operate inside your already-logged-in Chrome browser. This removes part of the automation work that required manual logins and access tokens. For agent builders it is a powerful shortcut, but it also raises serious security questions. Worth testing in controlled environments before production use.",
-    "score": 0.55,
-    "tags": [
-      "agente",
-      "segurança"
-    ],
-    "img": "img/624f72581d0a.jpg",
-    "ts": 1788736039,
-    "addedTs": 1788736923,
-    "urlHash": "624f72581d0a",
-    "titleHash": "9322181bf34c"
-  },
-  {
-    "title": "GOP issues stark warning to AI companies",
-    "titlePt": "Republicanos dos EUA emitem alerta severo a empresas de IA",
-    "url": "https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Líderes do Partido Republicano nos Estados Unidos divulgaram um aviso direto às grandes empresas de inteligência artificial. O recado pede responsabilidade e deixa claro que novas regulamentações podem vir caso a indústria não se autorregule. Para empresas e desenvolvedores americanos, isso significa mais atenção à conformidade legal. Internautas comuns devem esperar debates mais duros nos próximos meses.",
-    "reasonEn": "US Republican Party leaders issued a direct warning to major AI companies. The message demands responsibility and signals that new regulations may come if the industry does not self-regulate. For American companies and developers this means more compliance attention. General users should expect harsher policy debates in coming months.",
-    "score": 0.55,
-    "tags": [
-      "regulação"
-    ],
-    "img": "img/e187430167f1.jpg",
-    "ts": 1788735580,
-    "addedTs": 1788736923,
-    "urlHash": "e187430167f1",
-    "titleHash": "2ad23a3fa9f8"
-  },
-  {
-    "title": "'Model fatigue' sets in as AI labs race to roll out new versions",
-    "titlePt": "Fadiga de modelos atinge usuários diante da enxurrada de lançamentos de IA",
-    "url": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Uma matéria no Hacker News discute a fadiga que tomou conta de usuários e empresas diante da avalanche de novos modelos de IA. Cada semana surge uma versão com nome diferente, comparativos inflados e promessas parecidas. Para desenvolvedores, isso significa repensar critérios de escolha e evitar trocar de fornecedor a cada lançamento. O conselho geral é esperar por resultados de testes reais antes de migrar.",
-    "reasonEn": "A Hacker News piece discusses the fatigue setting in for users and companies facing the avalanche of new AI models. Each week brings another version with a new name, inflated benchmarks and similar promises. For developers this means rethinking selection criteria and avoiding constant provider swaps. The general advice is to wait for real benchmark numbers before migrating.",
-    "score": 0.6,
-    "tags": [
-      "modelo",
-      "indústria"
-    ],
-    "img": "img/40ff8d57a306.jpg",
-    "ts": 1788733574,
-    "addedTs": 1788736923,
-    "urlHash": "40ff8d57a306",
-    "titleHash": "9fb0c7cf7679"
-  },
-  {
-    "title": "Emma: The GP's AI Receptionist doesn't understand Yorkshire or security",
-    "titlePt": "Recepcionista de IA de clínica britânica falha em sotaque e segurança",
-    "url": "https://floorjellyboot.infinityfree.io/?u=/2026/09/05/emma-the-gps-ai-receptionist-doesnt-understand-yorkshire-or-security/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Uma reportagem mostra falhas graves em Emma, a recepcionista virtual de uma clínica britânica usada para atender pacientes. O sistema tropeça em sotaques regionais como o de Yorkshire e apresenta vulnerabilidades de segurança preocupantes. O caso serve de alerta para clínicas e empresas que pensam em substituir atendimento humano por IA sem testes profundos. Para consumidores, reforça a importância de checar quem está de fato atendendo você.",
-    "reasonEn": "A report exposes serious flaws in Emma, a UK clinic's virtual AI receptionist. The system stumbles on regional accents like Yorkshire and shows worrying security gaps. The case is a warning for clinics and companies thinking of replacing human reception with AI without deep testing. For consumers it reinforces the importance of checking who is really answering.",
-    "score": 0.55,
-    "tags": [
-      "segurança",
-      "indústria"
-    ],
-    "img": "img/42a5f7cd2ee2.jpg",
-    "ts": 1788733518,
-    "addedTs": 1788736923,
-    "urlHash": "42a5f7cd2ee2",
-    "titleHash": "a94028b7284f"
-  },
-  {
-    "title": "Artifactor: Visual HTML editor for AI-generated artifacts",
-    "titlePt": "Artifactor: editor visual de HTML para artefatos de IA",
-    "url": "https://colliber.com/artifactor/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O Artifactor é um editor visual de HTML criado para modificar artefatos gerados por inteligência artificial de forma direta e rápida. A ferramenta permite que usuários ajustem a saída de modelos de linguagem sem precisar mexer no código bruto, oferecendo uma interface amigável. Isso importa porque muita gente usa IA para gerar protótipos de páginas e interfaces, mas ainda enfrenta dificuldade para refinar o resultado final. Desenvolvedores e designers se beneficiam ao conseguir iterar mais depressa sobre o material gerado.",
-    "reasonEn": "Artifactor is a visual HTML editor designed to modify AI-generated artifacts quickly and intuitively. The tool lets users adjust the output of language models without touching raw code, offering a friendly visual interface. This matters because many people use AI to generate page and interface prototypes but still struggle to refine the final result. Developers and designers benefit by being able to iterate faster on AI-generated material.",
-    "score": 0.5,
-    "tags": [
-      "ferramenta",
-      "desenvolvedores",
-      "editor"
-    ],
-    "img": "img/5044e9db9704.jpg",
-    "ts": 1788725988,
-    "addedTs": 1788736923,
-    "urlHash": "5044e9db9704",
-    "titleHash": "0c9e7223d61b"
-  },
-  {
-    "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-    "titlePt": "Como o escritório Gilbert + Tobin governa e escala IA com a OpenAI",
-    "url": "https://openai.com/index/gilbert-tobin",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "O escritório de advocacia Gilbert + Tobin implementou uma estrutura de governança para usar a inteligência artificial da OpenAI em larga escala. A empresa criou regras claras para controlar como os advogados utilizam a ferramenta, garantindo segurança e conformidade com normas do setor jurídico. Isso importa porque firmas grandes e reguladas precisam encontrar um equilíbrio entre inovar com IA e evitar riscos éticos ou legais. O caso serve de exemplo para outros escritórios e empresas de setores altamente regulados.",
-    "reasonEn": "Law firm Gilbert + Tobin implemented a governance framework to scale OpenAI's artificial intelligence across the organization. The firm created clear rules to control how lawyers use the tool, ensuring security and compliance with legal industry standards. This matters because large regulated firms must find a balance between innovating with AI and avoiding ethical or legal risks. The case serves as an example for other law firms and regulated-sector companies.",
-    "score": 0.5,
-    "tags": [
-      "governança",
-      "advocacia",
-      "openai"
-    ],
-    "img": "img/330fba64551d.jpg",
-    "ts": 1788224400,
-    "addedTs": 1788736923,
-    "urlHash": "330fba64551d",
-    "titleHash": "b5d09f499e4f"
-  },
-  {
-    "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-    "titlePt": "Autores contestam divisão de indenização do acordo da Anthropic",
-    "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "Autores estão reclamando publicamente da forma como editoras e agentes literários pretendem repartir o dinheiro do acordo judicial com a Anthropic. Eles argumentam que intermediários estão ficando com fatia desproporcional em relação a quem realmente escreveu as obras. O caso define precedente importante sobre como indenizações em ações coletivas de direitos autorais contra empresas de IA serão distribuídas.",
-    "reasonEn": "Authors are publicly pushing back on how publishers and literary agents plan to split money from the Anthropic settlement. They argue intermediaries are taking a disproportionate share compared with the people who actually wrote the works. The case sets an important precedent for how damages in class-action copyright lawsuits against AI companies will be distributed.",
-    "score": 0.75,
-    "tags": [
-      "regulação",
-      "direitos-autorais",
-      "anthropic"
-    ],
-    "img": "img/973d06068047.jpg",
-    "ts": 1788727657,
-    "addedTs": 1788731477,
-    "urlHash": "973d06068047",
-    "titleHash": "1972f3d3c50e"
   }
 ]
