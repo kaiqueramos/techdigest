@@ -1,5 +1,247 @@
 [
   {
+    "title": "Bruce Schneier: No, AI doesn't mean the end of mathematics – at least not yet",
+    "titlePt": "Bruce Schneier: IA não significa o fim da matemática — pelo menos por enquanto",
+    "url": "https://www.theguardian.com/commentisfree/2026/aug/25/ai-mathematics-careers",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O especialista em segurança Bruce Schneier avalia alegações de que a IA acabará com a matemática como atividade intelectual humana. Ele argumenta que, embora a IA esteja transformando a disciplina, ainda estamos longe de substituir matemáticos humanos. O texto serve para esfriar expectativas exageradas sobre IA em ciências formais. Útil para pesquisadores e professores que querem entender o real estado da arte.",
+    "reasonEn": "Security expert Bruce Schneier evaluates claims that AI will end mathematics as a human intellectual activity. He argues that, although AI is transforming the discipline, we are still far from replacing human mathematicians. The text helps cool exaggerated expectations about AI in formal sciences. Useful for researchers and educators wanting to understand the real state of the art.",
+    "score": 0.55,
+    "tags": [
+      "opinião",
+      "ciência",
+      "matemática"
+    ],
+    "img": "img/f4246b18c047.jpg",
+    "ts": 1789350937,
+    "addedTs": 1789353017,
+    "urlHash": "f4246b18c047",
+    "titleHash": "68e397275e93"
+  },
+  {
+    "title": "Opportunistic AI detects colorectal cancer using routine, noncontrast CT",
+    "titlePt": "IA detecta câncer colorretal em tomografias de rotina",
+    "url": "https://radiologybusiness.com/topics/artificial-intelligence/opportunistic-ai-detects-colorectal-cancer-using-routine-noncontrast-ct",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Pesquisadores desenvolveram um modelo de IA capaz de identificar câncer colorretal usando tomografias comuns, sem necessidade de contraste. O método aproveita exames já realizados por outros motivos, oferecendo uma triagem oportunista que pode salvar vidas. O avanço tem potencial para detectar tumores precoces em pacientes que fariam o exame por outras razões. É uma das aplicações médicas mais promissoras de IA no momento.",
+    "reasonEn": "Researchers developed an AI model capable of identifying colorectal cancer using common CT scans, without the need for contrast. The method leverages exams already performed for other reasons, offering opportunistic screening that could save lives. The advance has the potential to detect early tumors in patients who would undergo the scan for other reasons. It is one of the most promising medical AI applications right now.",
+    "score": 0.92,
+    "tags": [
+      "saúde",
+      "pesquisa",
+      "diagnóstico"
+    ],
+    "img": "img/a293279bfb6e.jpg",
+    "ts": 1789348603,
+    "addedTs": 1789353017,
+    "urlHash": "a293279bfb6e",
+    "titleHash": "4eeffccc18a9"
+  },
+  {
+    "title": "AI is not a normal technology",
+    "titlePt": "IA não é uma tecnologia normal",
+    "url": "https://12gramsofcarbon.com/p/ai-is-not-a-normal-technology",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo argumenta que a IA tem características que a diferenciam de tecnologias anteriores em termos de velocidade, escala e impacto social. O autor defende que políticas públicas e frameworks regulatórios precisam reconhecer essa especificidade em vez de tratá-la como mais uma inovação. É uma peça de opinião que alimenta o debate sobre como regular a IA. Relevante para quem pensa em política tecnológica.",
+    "reasonEn": "The article argues that AI has characteristics that differentiate it from previous technologies in terms of speed, scale, and social impact. The author defends that public policies and regulatory frameworks need to recognize this specificity instead of treating it as just another innovation. It is an opinion piece that fuels the debate on how to regulate AI. Relevant for those thinking about tech policy.",
+    "score": 0.5,
+    "tags": [
+      "opinião",
+      "regulação",
+      "política"
+    ],
+    "img": "img/a5585d9e8162.jpg",
+    "ts": 1789347609,
+    "addedTs": 1789353017,
+    "urlHash": "a5585d9e8162",
+    "titleHash": "504a44dc5705"
+  },
+  {
+    "title": "Godfather of AI welcomes pause in development (interview with Hinton)",
+    "titlePt": "Padrinho da IA apoia pausa no desenvolvimento: entrevista com Hinton",
+    "url": "https://www.abc.net.au/listen/programs/radionational-breakfast/godfather-of-ai-welcomes-pause-in-development/107148300",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Geoffrey Hinton, considerado um dos pais da IA moderna, declara apoio a uma pausa no desenvolvimento de sistemas avançados. Em entrevista recente, ele reforça preocupações com segurança e o ritmo atual de avanço da tecnologia. A fala soma pressão sobre laboratórios para adotarem limites voluntários. Importante para acompanhar o tom do debate sobre segurança em IA.",
+    "reasonEn": "Geoffrey Hinton, considered one of the fathers of modern AI, declares support for a pause in the development of advanced systems. In a recent interview, he reinforces safety concerns and the current pace of technological advancement. His statements add pressure on labs to adopt voluntary limits. Important for following the tone of the AI safety debate.",
+    "score": 0.75,
+    "tags": [
+      "segurança",
+      "entrevista",
+      "regulação"
+    ],
+    "img": "img/b4d6a543dcd9.jpg",
+    "ts": 1789347565,
+    "addedTs": 1789353017,
+    "urlHash": "b4d6a543dcd9",
+    "titleHash": "f4434f6a3234"
+  },
+  {
+    "title": "Worrying about bad AI code is worrying about the wrong problem",
+    "titlePt": "Preocupar-se com código ruim de IA é se preocupar com o problema errado",
+    "url": "https://matthorn.io/posts/2026-09-13-bad-ai/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O autor argumenta que os debates sobre qualidade de código gerado por IA estão mirando o efeito e não a causa. Defende que o verdadeiro problema está em como o software é integrado, testado e mantido, e não apenas no código gerado por modelos. O texto traz uma perspectiva provocativa para times de engenharia. Útil para líderes técnicos repensando fluxos de trabalho com IA.",
+    "reasonEn": "The author argues that debates about the quality of AI-generated code are targeting the effect rather than the cause. They contend that the real problem lies in how software is integrated, tested, and maintained, not just in the code generated by models. The text offers a provocative perspective for engineering teams. Useful for tech leaders rethinking workflows with AI.",
+    "score": 0.5,
+    "tags": [
+      "engenharia",
+      "opinião",
+      "desenvolvimento"
+    ],
+    "img": "img/24d01ed49c32.jpg",
+    "ts": 1789346260,
+    "addedTs": 1789353017,
+    "urlHash": "24d01ed49c32",
+    "titleHash": "a413ef414598"
+  },
+  {
+    "title": "AI bubble pops – Cory Doctorow",
+    "titlePt": "Bolha da IA estoura, diz Cory Doctorow",
+    "url": "https://www.youtube.com/watch?v=LiDUg_uylyM",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O escritor Cory Doctorow argumenta que a bolha de investimentos em IA está prestes a estourar, com promessas exageradas que não se sustentarão. Ele compara o momento atual a outras bolhas tecnológicas e aponta sinais clássicos de euforia irracional. O texto tem peso porque vem de um crítico influente e conhecido por antecipar tendências. Vale a leitura para quem investe, trabalha ou pensa em estratégia em IA.",
+    "reasonEn": "Writer Cory Doctorow argues that the AI investment bubble is about to burst, with exaggerated promises that will not hold up. He compares the current moment to other tech bubbles and points to classic signs of irrational euphoria. The text carries weight because it comes from an influential critic known for anticipating trends. Worth reading for those investing, working, or thinking strategically about AI.",
+    "score": 0.75,
+    "tags": [
+      "economia",
+      "opinião",
+      "bolha"
+    ],
+    "img": "img/1b67f453aa56.jpg",
+    "ts": 1789345331,
+    "addedTs": 1789353017,
+    "urlHash": "1b67f453aa56",
+    "titleHash": "229cdab6445e"
+  },
+  {
+    "title": "\"Chilling\" warning or overreaction? AI bioweapons report divides experts",
+    "titlePt": "Alerta 'chocante' ou exagero? Relatório sobre bioweapons de IA divide especialistas",
+    "url": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um relatório recente alertou sobre o uso de IA para criar armas biológicas, dividindo especialistas entre os que consideram a ameaça concreta e os que veem exagero. O debate reacende a discussão sobreação de modelos de fronteira e acesso a dados sensíveis. Para desenvolvedores, importa porque pode moldar novas restrições a certos tipos de modelos. O tema tem implicações regulatórias e geopolíticas.",
+    "reasonEn": "A recent report warned about the use of AI to create biological weapons, dividing experts between those who see the threat as concrete and those who see exaggeration. The debate reignites discussion about regulating frontier models and access to sensitive data. For developers, it matters because it may shape new restrictions on certain types of models. The topic has regulatory and geopolitical implications.",
+    "score": 0.75,
+    "tags": [
+      "segurança",
+      "biotecnologia",
+      "regulação"
+    ],
+    "img": "img/f3487e74f073.jpg",
+    "ts": 1789344429,
+    "addedTs": 1789353017,
+    "urlHash": "f3487e74f073",
+    "titleHash": "3a3c72e0969b"
+  },
+  {
+    "title": "OpenAI and Anthropic Hit the Brakes",
+    "titlePt": "OpenAI e Anthropic pisam no freio",
+    "url": "https://www.axios.com/2026/09/13/ai-labs-regulation-safety",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "OpenAI e Anthropic estão adotando postura mais cautelosa diante das crescentes pressões por segurança eação. Reportagem indica que ambas as empresas recuaram em anúncios e ajustaram o ritmo de lançamentos de novos modelos. A mudança reflete o cenário de maior escrutínio público e político sobre IA de fronteira. Desenvolvedores que dependem dessas plataformas devem se preparar para ciclos mais lentos e mudanças de política.",
+    "reasonEn": "OpenAI and Anthropic are adopting a more cautious stance amid growing safety and regulatory pressures. Reporting indicates both companies pulled back on announcements and adjusted the pace of new model launches. The shift reflects the scenario of greater public and political scrutiny of frontier AI. Developers relying on these platforms should prepare for slower cycles and policy changes.",
+    "score": 0.85,
+    "tags": [
+      "empresas",
+      "lançamento",
+      "regulação"
+    ],
+    "img": "img/f94df2646c24.jpg",
+    "ts": 1789343897,
+    "addedTs": 1789353017,
+    "urlHash": "f94df2646c24",
+    "titleHash": "9eb258a93700"
+  },
+  {
+    "title": "X.com busts Chinese bot farm, incl accounts making claims about AI data centers",
+    "titlePt": "X derruba fazenda de bots chinesa com contas sobre data centers de IA",
+    "url": "https://www.tomshardware.com/tech-industry/policy/x-busts-200-000-strong-chinese-bot-farm-including-accounts-making-claims-about-ai-data-centers-and-electricity-suspect-accounts-posted-claims-about-pricing-and-grid-strain-to-manipulate-debate",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A rede social X removeu uma operação de bots chinesa que, entre outras atividades, propagava narrativas falsas sobre data centers de IA. A ação mostra o uso de desinformação para influenciar debates estratégicos sobre infraestrutura tecnológica. O caso evidencia o lado geopolítico da corrida por IA. Relevante para quem acompanha segurança de informação e operações de influência.",
+    "reasonEn": "The social network X removed a Chinese bot operation that, among other activities, spread false narratives about AI data centers. The action shows the use of disinformation to influence strategic debates about technological infrastructure. The case highlights the geopolitical side of the AI race. Relevant for those following information security and influence operations.",
+    "score": 0.7,
+    "tags": [
+      "segurança",
+      "geopolítica",
+      "desinformação"
+    ],
+    "img": "img/953cc61167c7.jpg",
+    "ts": 1789343684,
+    "addedTs": 1789353017,
+    "urlHash": "953cc61167c7",
+    "titleHash": "6ad85d0ed816"
+  },
+  {
+    "title": "Robots protest rampant AI in Poland",
+    "titlePt": "Robôs protestam contra o avanço da IA na Polônia",
+    "url": "https://techxplore.com/news/2026-09-robots-protest-rampant-ai-poland.html",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Na Polônia, robôs foram usados em um protesto chamando atenção para o impacto da IA no mercado de trabalho. O ato mistura arte, tecnologia e crítica social, chamando atenção para a substituição de funções humanas. É mais um episódio da série de manifestações simbólicas sobre o futuro do trabalho. Curioso para acompanhar a cultura do debate sobre IA.",
+    "reasonEn": "In Poland, robots were used in a protest drawing attention to the impact of AI on the labor market. The act mixes art, technology, and social criticism, highlighting the replacement of human roles. It is another episode in the series of symbolic demonstrations about the future of work. Curious to follow the culture of the AI debate.",
+    "score": 0.5,
+    "tags": [
+      "sociedade",
+      "trabalho",
+      "cultura"
+    ],
+    "img": "img/3b62e4de8233.jpg",
+    "ts": 1789343201,
+    "addedTs": 1789353017,
+    "urlHash": "3b62e4de8233",
+    "titleHash": "99b4ddd4f09b"
+  },
+  {
+    "title": "What&#8217;s behind the AI industry’s latest warnings of doom?",
+    "titlePt": "O que está por trás dos últimos alertas de desastre da indústria de IA?",
+    "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "O TechCrunch analisa por que executivos e pesquisadores têm multiplicado avisos sobre riscos existenciais da IA recentemente. A matéria identifica fatores como pressãoatória, dinâmica competitiva entre laboratórios e busca por influência política. Traz contexto sobre como a narrativa do 'risco existencial' é usada como ferramenta estratégica. Leitura recomendada para entender o cenário de discurso sobre IA.",
+    "reasonEn": "TechCrunch analyzes why executives and researchers have multiplied warnings about existential AI risks recently. The piece identifies factors such as regulatory pressure, competitive dynamics among labs, and the pursuit of political influence. It provides context on how the 'existential risk' narrative is used as a strategic tool. Recommended reading for understanding the discourse landscape around AI.",
+    "score": 0.7,
+    "tags": [
+      "indústria",
+      "análise",
+      "regulação"
+    ],
+    "img": "img/e2ee54bd5ffc.jpg",
+    "ts": 1789328415,
+    "addedTs": 1789353017,
+    "urlHash": "e2ee54bd5ffc",
+    "titleHash": "ffac7a8a00a3"
+  },
+  {
     "title": "AI hypervigilance is now an omnipresent cognitive load for your users",
     "titlePt": "Hipervigilância da IA virou carga cognitiva diária para usuários",
     "url": "https://productpicnic.beehiiv.com/p/ai-hypervigilance-is-now-an-omnipresent-cognitive-load-for-your-users",
@@ -8358,70 +8600,5 @@
     "addedTs": 1788764876,
     "urlHash": "d5c736f2ff62",
     "titleHash": "638ec2ca3ca6"
-  },
-  {
-    "title": "Fauxnix – bash for AI agents on Windows, no WSL (we measured the PS tax)",
-    "titlePt": "Fauxnix leva shell bash para agentes de IA no Windows sem WSL",
-    "url": "https://github.com/20000419/fauxnix",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Fauxnix é uma ferramenta apresentada no Hacker News que permite rodar shell bash no Windows para agentes de IA, sem depender do WSL. O autor mediu o custo extra do PowerShell e argumenta que sua abordagem é mais rápida. É uma alternativa útil para desenvolvedores que rodam fluxos de IA em Windows. O conteúdo é técnico e voltado a times de engenharia.",
-    "reasonEn": "Fauxnix is a Hacker News tool that lets users run bash shell on Windows for AI agents without depending on WSL. The author measured the extra cost of PowerShell and argues the approach is faster. It is a useful alternative for developers running AI workflows on Windows. The content is technical and aimed at engineering teams.",
-    "score": 0.5,
-    "tags": [
-      "windows",
-      "devtools",
-      "agentes"
-    ],
-    "img": "img/eecb04cfb1ff.jpg",
-    "ts": 1788745433,
-    "addedTs": 1788746390,
-    "urlHash": "eecb04cfb1ff",
-    "titleHash": "1f3afbe61c56"
-  },
-  {
-    "title": "Don't build your organization around a model provider",
-    "titlePt": "Artigo alerta para não construir organizações em torno de um provedor de modelo",
-    "url": "https://juanreyero.com/article/ai/model-provider-independence",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O texto do Hacker News defende que não se deve construir toda a arquitetura de uma empresa em torno de um único provedor de modelo de IA. O autor recomenda sistemas flexíveis que permitam trocar de fornecedor sem grandes reescritas. É uma reflexão estratégica importante para CTOs e líderes técnicos. Mostra o risco real de aprisionamento tecnológico.",
-    "reasonEn": "The Hacker News post argues organizations should not build their entire architecture around a single AI model provider. The author recommends flexible systems that allow switching vendors without major rewrites. It is an important strategic reflection for CTOs and technical leaders. It highlights the real risk of technological lock-in.",
-    "score": 0.65,
-    "tags": [
-      "estratégia",
-      "arquitetura"
-    ],
-    "img": "img/3f3f2ed545eb.jpg",
-    "ts": 1788743000,
-    "addedTs": 1788746390,
-    "urlHash": "3f3f2ed545eb",
-    "titleHash": "583ac4254ecd"
-  },
-  {
-    "title": "ROCm 10.0: A Decade of Open Compute, Built for the Age of Agentic AI",
-    "titlePt": "AMD lança ROCm 10.0 após uma década de computação aberta",
-    "url": "https://rocm.blogs.amd.com/ecosystems-and-partners/rocm-x-blog/README.html",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A AMD anunciou o ROCm 10.0, marcando dez anos da plataforma de computação aberta voltada para IA. A nova versão foi construída com foco em sistemas agentic de inteligência artificial. ROCm é a principal alternativa aberta ao CUDA da Nvidia. É uma notícia relevante para profissionais de infraestrutura e IA.",
-    "reasonEn": "AMD announced ROCm 10.0, marking ten years of the open compute platform focused on AI. The new version was built with a focus on agentic AI systems. ROCm is the leading open alternative to Nvidia's CUDA. It is relevant news for infrastructure and AI professionals.",
-    "score": 0.7,
-    "tags": [
-      "hardware",
-      "open-source",
-      "lançamento"
-    ],
-    "img": "img/f94c7fc04390.jpg",
-    "ts": 1788741961,
-    "addedTs": 1788746390,
-    "urlHash": "f94c7fc04390",
-    "titleHash": "64b725d8b4d6"
   }
 ]
