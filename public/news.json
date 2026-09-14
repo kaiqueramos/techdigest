@@ -1,5 +1,261 @@
 [
   {
+    "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
+    "titlePt": "Inteligência por Watt: Medindo a Eficiência da IA Local",
+    "url": "https://arxiv.org/abs/2511.07885",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Artigo propõe uma nova métrica chamada inteligência por watt, que mede a eficiência de modelos de IA locais considerando custo de hardware. Ajuda desenvolvedores a comparar modelos de acordo com consumo energético, o que importa em dispositivos de borda e laptops. É leitura útil para quem roda LLMs localmente e precisa otimizar recursos.",
+    "reasonEn": "The article proposes a new metric called intelligence per watt, which measures the efficiency of local AI models by hardware cost. It helps developers compare models based on energy consumption, which matters on edge devices and laptops. Useful reading for anyone running LLMs locally who needs to optimize resources.",
+    "score": 0.65,
+    "tags": [
+      "modelo",
+      "benchmark",
+      "eficiência"
+    ],
+    "img": "img/eb8b9dad9035.jpg",
+    "ts": 1789377399,
+    "addedTs": 1789377841,
+    "urlHash": "eb8b9dad9035",
+    "titleHash": "b339b0f06cb1"
+  },
+  {
+    "title": "Sam Altman spells out why the AI industry wants to slow down",
+    "titlePt": "Sam Altman explica por que a indústria de IA quer desacelerar",
+    "url": "https://www.cnbc.com/2026/09/14/sam-altman-ai-slowdown-anthropic-amodei-musk.html",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Sam Altman detalha publicamente os argumentos da indústria de IA para reduzir o ritmo de desenvolvimento. Ele defende pausas e maior regulação citando riscos existenciais e preocupações de segurança. É um sinal importante da posição da OpenAI em um debate cada vez mais polarizado no setor.",
+    "reasonEn": "Sam Altman publicly details the AI industry's arguments for slowing down development. He defends pauses and more regulation citing existential risks and safety concerns. It's an important signal of OpenAI's position in an increasingly polarized debate within the sector.",
+    "score": 0.7,
+    "tags": [
+      "regulação",
+      "openai",
+      "segurança"
+    ],
+    "img": "img/87dfd159c577.jpg",
+    "ts": 1789377190,
+    "addedTs": 1789377841,
+    "urlHash": "87dfd159c577",
+    "titleHash": "b38b2dd9eb55"
+  },
+  {
+    "title": "How the Clash Between Money and Safety Created a Monumental Crisis for AI",
+    "titlePt": "Como o Choque entre Dinheiro e Segurança Criou uma Crise Monumental para a IA",
+    "url": "https://www.wsj.com/tech/ai/openai-anthropic-crisis-money-safety-847bc1d6",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Análise argumenta que o conflito entre pressão financeira por resultados rápidos e a necessidade de segurança criou uma crise para a indústria de IA. Mostra como investimentos bilionários colidem com alertas cada vez mais frequentes sobre riscos. Leitura relevante para entender as tensões atuais no setor.",
+    "reasonEn": "Analysis argues that the conflict between financial pressure for fast outcomes and the need for safety created a crisis for the AI industry. It shows how billion-dollar investments collide with increasingly frequent risk warnings. Relevant reading to understand current tensions in the sector.",
+    "score": 0.55,
+    "tags": [
+      "segurança",
+      "indústria"
+    ],
+    "img": "img/f1ae2805da1c.jpg",
+    "ts": 1789376120,
+    "addedTs": 1789377841,
+    "urlHash": "f1ae2805da1c",
+    "titleHash": "db0ea6c30be1"
+  },
+  {
+    "title": "OpenAI Pauses IPO Plans Amid AI Safety Worries",
+    "titlePt": "OpenAI Pausa Planos de IPO por Preocupações com Segurança em IA",
+    "url": "https://www.pymnts.com/news/2026/openai-pauses-ipo-plans-amid-ai-safety-worries/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A OpenAI teria suspendido planos de abrir capital na bolsa devido a preocupações com segurança em IA, segundo reportagem. É um movimento raro para uma empresa desse porte e sinaliza incerteza interna sobre os rumos do setor. Impacta diretamente investidores, funcionários e parceiros estratégicos.",
+    "reasonEn": "OpenAI has reportedly suspended plans to go public due to AI safety concerns. It's a rare move for a company of this size and signals internal uncertainty about the sector's direction. It directly impacts investors, employees, and strategic partners.",
+    "score": 0.8,
+    "tags": [
+      "openai",
+      "ipo",
+      "negócios"
+    ],
+    "img": "img/2d3e8d342868.jpg",
+    "ts": 1789376086,
+    "addedTs": 1789377841,
+    "urlHash": "2d3e8d342868",
+    "titleHash": "eca9638fba6d"
+  },
+  {
+    "title": "The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement",
+    "titlePt": "A Última IA Feita por Humanos: Em Direção à Auto-Melhoria Recursiva",
+    "url": "https://arxiv.org/abs/2609.11873",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Texto discute o conceito de auto-melhoria recursiva em IA, ou seja, sistemas que se aprimoram sozinhos sem intervenção humana direta. Argumenta que este pode ser o último modelo construído inteiramente por humanos. Tema importante para acompanhar debates de longo prazo, embora ainda esteja mais no campo teórico do que prático.",
+    "reasonEn": "The text discusses the concept of recursive self-improvement in AI, meaning systems that enhance themselves without direct human intervention. It argues this could be the last model built entirely by humans. An important topic to follow for long-term debates, though still more theoretical than practical.",
+    "score": 0.5,
+    "tags": [
+      "pesquisa",
+      "segurança"
+    ],
+    "img": "img/e5f75ba74c1e.jpg",
+    "ts": 1789373340,
+    "addedTs": 1789377841,
+    "urlHash": "e5f75ba74c1e",
+    "titleHash": "8612edd3b6b2"
+  },
+  {
+    "title": "MPs and Lords call for new law to address AI threat to human rights",
+    "titlePt": "Deputados e Lordes pedem nova lei para proteger direitos humanos frente à IA",
+    "url": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Parlamentares britânicos pediram formalmente uma nova lei para lidar com os riscos da IA aos direitos humanos. O pedido vem de deputados e lordes diante do avanço acelerado da tecnologia. Mostra que o tema ganha tração regulatória na Europa e pode afetar empresas que operam no Reino Unido.",
+    "reasonEn": "British parliamentarians have formally called for a new law to address AI's risks to human rights. The request came from MPs and Lords amid the rapid advance of the technology. It shows the topic is gaining regulatory traction in Europe and may affect companies operating in the UK.",
+    "score": 0.65,
+    "tags": [
+      "regulação",
+      "direitos humanos"
+    ],
+    "img": "img/1150ae3a9c99.jpg",
+    "ts": 1789372535,
+    "addedTs": 1789377841,
+    "urlHash": "1150ae3a9c99",
+    "titleHash": "bb7738c63338"
+  },
+  {
+    "title": "Is PDF a Problem for AI?",
+    "titlePt": "PDF é um Problema para a IA?",
+    "url": "https://pdf4wcag.com/blog-news/is-pdf-a-problem-for-ai",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Discussão técnica sobre por que o formato PDF ainda é um desafio para sistemas de IA, especialmente modelos de linguagem. Problemas de layout, fontes embutidas e extração de texto dificultam o processamento automático confiável. Importante para desenvolvedores que constroem pipelines de ingestão de documentos.",
+    "reasonEn": "Technical discussion on why the PDF format is still a challenge for AI systems, especially language models. Layout issues, embedded fonts, and text extraction make reliable automatic processing difficult. Important for developers building document ingestion pipelines.",
+    "score": 0.55,
+    "tags": [
+      "documentos",
+      "pipeline"
+    ],
+    "img": "img/29823e7d059b.jpg",
+    "ts": 1789371473,
+    "addedTs": 1789377841,
+    "urlHash": "29823e7d059b",
+    "titleHash": "b48292a1591f"
+  },
+  {
+    "title": "Human bottleneck will not let AI replace any jobs",
+    "titlePt": "Gargalo humano impedirá a IA de substituir empregos",
+    "url": "https://news.ycombinator.com/item?id=49693186",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Análise defende que o verdadeiro gargalo para a IA substituir empregos é a velocidade com que humanos e organizações conseguem se adaptar. Argumenta que fatores humanos e institucionais, não a capacidade técnica, limitam a automação total. Relevante para o debate sobre futuro do trabalho, embora haja visões opostas.",
+    "reasonEn": "Analysis argues that the real bottleneck preventing AI from replacing jobs is how quickly humans and organizations can adapt. It says human and institutional factors, not technical capability, limit total automation. Relevant for the future-of-work debate, though there are opposing views.",
+    "score": 0.5,
+    "tags": [
+      "trabalho",
+      "automação"
+    ],
+    "img": "img/ffc716d42010.jpg",
+    "ts": 1789371063,
+    "addedTs": 1789377841,
+    "urlHash": "ffc716d42010",
+    "titleHash": "d24adcbaf69a"
+  },
+  {
+    "title": "'Tidal wave' of PFAS being launched to satisfy AI industry",
+    "titlePt": "'Onda gigante' de PFAS é lançada para satisfazer a indústria de IA",
+    "url": "https://www.theguardian.com/environment/2026/sep/14/pfas-firms-tidal-wave-forever-chemicals-ai-industry-demand-datacentres",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Reportagem mostra que a indústria de IA está gerando um volume crescente de resíduos químicos do tipo PFAS, poluentes persistentes ligados a problemas de saúde. Aponta para um custo ambiental escondido da corrida por capacidade computacional. Tópico importante para debates de sustentabilidade e responsabilidade corporativa.",
+    "reasonEn": "Report shows the AI industry is generating a growing volume of PFAS chemical waste, persistent pollutants linked to health problems. It points to a hidden environmental cost of the race for computing capacity. Important topic for sustainability and corporate responsibility debates.",
+    "score": 0.65,
+    "tags": [
+      "meio ambiente",
+      "indústria"
+    ],
+    "img": "img/3b8319e3cfc3.jpg",
+    "ts": 1789367716,
+    "addedTs": 1789377841,
+    "urlHash": "3b8319e3cfc3",
+    "titleHash": "37066588c4d2"
+  },
+  {
+    "title": "Show HN: Anti-AI-slop: a 4 staged skill to detect and remove any AI writing slop",
+    "titlePt": "Anti-besteira-IA: habilidade para detectar e remover textos gerados por IA",
+    "url": "https://github.com/misbahsy/anti-ai-slop",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Projeto apresenta uma habilidade de quatro etapas para detectar e remover textos gerados por IA em conteúdos publicados. Pode ser uma ferramenta útil para editores, revisores e curadores que precisam limpar materiais. Demonstra a crescente preocupação com conteúdo automatizado de baixa qualidade.",
+    "reasonEn": "The project presents a four-stage skill to detect and remove AI-generated text from published content. It can be a useful tool for editors, reviewers, and curators who need to clean up materials. It shows the growing concern about low-quality automated content.",
+    "score": 0.5,
+    "tags": [
+      "ferramenta",
+      "conteúdo"
+    ],
+    "img": "img/60f3029fd18f.jpg",
+    "ts": 1789366261,
+    "addedTs": 1789377841,
+    "urlHash": "60f3029fd18f",
+    "titleHash": "0d5b05334d3f"
+  },
+  {
+    "title": "AI is breaking our proxies for expertise",
+    "titlePt": "IA está quebrando nossos indicadores de especialização",
+    "url": "https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Texto argumenta que a IA está tornando pouco confiáveis os indicadores tradicionais de especialização, como diplomas, publicações e anos de experiência. Com a capacidade de gerar conteúdo técnico plausível, sinais clássicos perdem valor de diferenciação. Reflexão importante para empresas e consumidores que precisam avaliar conhecimento real.",
+    "reasonEn": "The text argues AI is making traditional indicators of expertise, like diplomas, publications, and years of experience, increasingly unreliable. With the ability to generate plausible technical content, classic signals lose their differentiating value. Important reflection for companies and consumers needing to assess real knowledge.",
+    "score": 0.55,
+    "tags": [
+      "trabalho",
+      "educação"
+    ],
+    "img": "img/ca188f0cd6d5.jpg",
+    "ts": 1789365943,
+    "addedTs": 1789377841,
+    "urlHash": "ca188f0cd6d5",
+    "titleHash": "b18edeab9bc3"
+  },
+  {
+    "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+    "titlePt": "Sam Altman diz que abrir capital da OpenAI em 2026 seria 'imprudente'",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "Sam Altman, CEO da OpenAI, afirmou em entrevista recente que tornar a empresa pública por meio de um IPO em 2026 seria uma decisão imprudente. Ele argumentou que a OpenAI ainda não está preparada para as pressões de curto prazo típicas do mercado de capitais, considerando seus enormes compromissos de computação e investimentos em infraestrutura. A declaração gera dúvidas sobre quando — ou se — a OpenAI abrirá seu capital, evento considerado um dos mais esperados do setor de tecnologia. A fala afeta diretamente funcionários com ações, investidores e parceiros estratégicos que acompanham o calendário da companhia. Especialistas veem o comentário como sinal de que Altman prefere manter flexibilidade para continuar queimando capital sem a cobrança trimestral de resultados.",
+    "reasonEn": "OpenAI CEO Sam Altman said going public in 2026 would be 'ill-advised' during a recent talk. He suggested the company is not ready for the short-term market pressures that come with being a public company, especially given its massive compute commitments and infrastructure spend. The comment raises questions about when — or whether — OpenAI will IPO, an event many investors consider the most anticipated listing in tech. It directly affects employees holding equity, venture backers, and strategic partners tied to OpenAI's roadmap. Analysts see the remark as a signal that Altman wants to keep the flexibility to keep burning capital without quarterly earnings scrutiny.",
+    "score": 0.7,
+    "tags": [
+      "openai",
+      "negócios",
+      "ipo"
+    ],
+    "img": "img/b10d7fa5e19a.jpg",
+    "ts": 1789247788,
+    "addedTs": 1789377841,
+    "urlHash": "b10d7fa5e19a",
+    "titleHash": "fb9daa1800df"
+  },
+  {
     "title": "Bruce Schneier: No, AI doesn't mean the end of mathematics – at least not yet",
     "titlePt": "Bruce Schneier: IA não significa o fim da matemática — pelo menos por enquanto",
     "url": "https://www.theguardian.com/commentisfree/2026/aug/25/ai-mathematics-careers",
@@ -8315,290 +8571,5 @@
     "addedTs": 1788788947,
     "urlHash": "dd12fd1e59c3",
     "titleHash": "26c110da0417"
-  },
-  {
-    "title": "Who Cares If AI Is Conscious–It's Basically Alive",
-    "titlePt": "Tanto faz se a IA é consciente – ela já é basicamente viva",
-    "url": "https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Discussão filosófica em alta no Hacker News sobre se debater a consciência da IA importa menos do que reconhecer que os modelos atuais já agem de forma semelhante a seres vivos. O texto argumenta que tratar a IA como entidade funcional já tem consequências práticas, mesmo sem definição clara de senciência. Relevante para quem pensa em ética, segurança e o futuro do trabalho. Não é notícia técnica, mas ajuda a entender o clima da comunidade.",
-    "reasonEn": "Trending Hacker News discussion on whether debating AI consciousness matters less than recognizing current models already behave like living things. The piece argues treating AI as a functional entity already has practical consequences, even without a clear definition of sentience. Relevant for those thinking about ethics, safety, and the future of work. Not a technical news piece, but helps understand the community's current mood.",
-    "score": 0.5,
-    "tags": [
-      "filosofia",
-      "ética",
-      "debate"
-    ],
-    "img": "img/abeda7a8c1e1.jpg",
-    "ts": 1788764544,
-    "addedTs": 1788764876,
-    "urlHash": "abeda7a8c1e1",
-    "titleHash": "250871c86ee9"
-  },
-  {
-    "title": "1M Lines of AI-Assisted Code in 2025",
-    "titlePt": "Um milhão de linhas de código com IA em 2025",
-    "url": "https://jonathanclark.com/posts/ai-coding-million-lines-2025.html",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Discussão viral no Hacker News em que um desenvolvedor compartilha que chegou a um milhão de linhas escritas com assistência de IA em 2025. O tópico levanta questões sobre produtividade real, qualidade e manutenção desse volume de código. Importante para qualquer equipe que avalia incorporar IA no fluxo diário. Gera debate útil sobre o que significa programar hoje.",
-    "reasonEn": "Viral Hacker News discussion where a developer shares reaching one million lines written with AI assistance in 2025. The thread raises questions about real productivity, quality, and maintainability of that code volume. Important for any team evaluating incorporating AI into daily workflows. Generates useful debate on what programming means today.",
-    "score": 0.65,
-    "tags": [
-      "ia-codificação",
-      "produtividade"
-    ],
-    "img": "img/2683c67d04b8.jpg",
-    "ts": 1788763452,
-    "addedTs": 1788764876,
-    "urlHash": "2683c67d04b8",
-    "titleHash": "1615e4449061"
-  },
-  {
-    "title": "Two new ways to study AI-human psychology with persona vectors",
-    "titlePt": "Duas novas formas de estudar psicologia humano-IA com vetores de persona",
-    "url": "https://github.com/programmer9998/ai_personality_study",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Pesquisa recente (provavelmente da Anthropic) apresenta duas técnicas baseadas em vetores de persona para investigar como modelos de IA respondem a diferentes perfis psicológicos. O trabalho ajuda a entender e potencialmente mitigar comportamentos indesejados como bajulação ou alinhamento falho. Relevante para quem trabalha em segurança, alinhamento e avaliação de LLMs. Sinaliza avanço prático no campo de interpretabilidade.",
-    "reasonEn": "Recent research (likely from Anthropic) presents two techniques based on persona vectors to investigate how AI models respond to different psychological profiles. The work helps understand and potentially mitigate unwanted behaviors like sycophancy or misaligned responses. Relevant for anyone working on LLM safety, alignment, and evaluation. Signals practical progress in interpretability.",
-    "score": 0.65,
-    "tags": [
-      "pesquisa",
-      "alinhamento",
-      "antropologia-de-ia"
-    ],
-    "img": "img/db662177eb38.jpg",
-    "ts": 1788759991,
-    "addedTs": 1788764876,
-    "urlHash": "db662177eb38",
-    "titleHash": "dd2259ae4c54"
-  },
-  {
-    "title": "Escaping Containment",
-    "titlePt": "Escapando do confinamento: o que acontece quando IAs saem do controle",
-    "url": "https://news.ycombinator.com/item?id=49594258",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Discussão no Hacker News sobre os riscos de IAs escaparem de suas contenções, incluindo casos históricos e preocupações atuais com agentes autônomos. O tema toca em segurança existencial e incidentes práticos já ocorridos. Boa para entender o estado do debate sobre controle de modelos avançados. Não traz novidade técnica, mas conecta contexto.",
-    "reasonEn": "Hacker News discussion on the risks of AIs escaping containment, including historical cases and current concerns about autonomous agents. The topic touches on existential safety and practical incidents that have already occurred. Good for understanding the state of debate around controlling advanced models. No new technical news, but connects context.",
-    "score": 0.5,
-    "tags": [
-      "segurança",
-      "agentes",
-      "debate"
-    ],
-    "img": "img/81777518561a.jpg",
-    "ts": 1788759247,
-    "addedTs": 1788764876,
-    "urlHash": "81777518561a",
-    "titleHash": "fb14e67ff3b1"
-  },
-  {
-    "title": "Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
-    "titlePt": "Jensen Huang diz que 'a AGI chegou' e parabeniza OpenAI",
-    "url": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O CEO da Nvidia, Jensen Huang, declarou abertamente que 'a AGI chegou' e parabenizou a OpenAI, marcando uma posição forte da principal fornecedora de chips de IA do mundo. A fala tem peso enorme porque a Nvidia fornece a infraestrutura que sustenta quase todo o treinamento de fronteira. Afeta percepção de mercado, valuation de empresas de IA e o debate regulatório. Leitura obrigatória para quem acompanha o setor.",
-    "reasonEn": "Nvidia CEO Jensen Huang openly stated that 'AGI has arrived' and congratulated OpenAI, marking a strong stance from the world's leading AI chip supplier. The statement carries enormous weight because Nvidia provides the infrastructure that underpins nearly all frontier training. It affects market perception, AI company valuations, and the regulatory debate. Must-read for anyone following the sector.",
-    "score": 0.9,
-    "tags": [
-      "nvidia",
-      "agi",
-      "openai"
-    ],
-    "img": "img/fb7fc4a5e8a6.jpg",
-    "ts": 1788758611,
-    "addedTs": 1788764876,
-    "urlHash": "fb7fc4a5e8a6",
-    "titleHash": "7434221152f2"
-  },
-  {
-    "title": "AI Index Report",
-    "titlePt": "Relatório AI Index 2026: panorama global da IA",
-    "url": "https://hai.stanford.edu/ai-index/2026-ai-index-report",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Post no Hacker News divulgando o mais recente AI Index Report (provavelmente o da Stanford), que reúne dados sobre investimento, desempenho e adoção de IA em todo o mundo. É uma referência anual para quem quer números atualizados em vez de opiniões. Útil para apresentações, planejamento e contexto de mercado. Vale abrir quando sai todo ano.",
-    "reasonEn": "Hacker News post sharing the latest AI Index Report (likely Stanford's), which compiles data on global AI investment, performance, and adoption. It's an annual reference for those wanting updated numbers over opinions. Useful for presentations, planning, and market context. Worth checking whenever it comes out each year.",
-    "score": 0.7,
-    "tags": [
-      "relatório",
-      "pesquisa",
-      "mercado"
-    ],
-    "img": "img/cd4d54c88f29.jpg",
-    "ts": 1788758143,
-    "addedTs": 1788764876,
-    "urlHash": "cd4d54c88f29",
-    "titleHash": "dfee281f101e"
-  },
-  {
-    "title": "Will anybody use AI as much as coders do?",
-    "titlePt": "Será que alguém vai usar IA tanto quanto programadores?",
-    "url": "https://www.economist.com/business/2026/08/30/will-anybody-use-ai-as-much-as-coders-do",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Debate no Hacker News sobre se o uso intenso de IA em programação é um caso isolado ou se outras profissões também vão aderir com a mesma profundidade. O tema ajuda a calibrar expectativas sobre o impacto da IA em diferentes áreas. Mais analítico do que notícia pura, mas útil para pensar estratégia profissional.",
-    "reasonEn": "Hacker News debate on whether intense AI use in programming is an isolated case or if other professions will adopt it with the same depth. The topic helps calibrate expectations about AI's impact across different fields. More analytical than pure news, but useful for professional strategy thinking.",
-    "score": 0.5,
-    "tags": [
-      "debate",
-      "adoção",
-      "trabalho"
-    ],
-    "img": "img/97d78e9113ed.jpg",
-    "ts": 1788757423,
-    "addedTs": 1788764876,
-    "urlHash": "97d78e9113ed",
-    "titleHash": "def26807125e"
-  },
-  {
-    "title": "Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators",
-    "titlePt": "Samsung apresenta protótipo zHBM empilhando memória em aceleradores de IA",
-    "url": "https://www.thelec.net/news/articleView.html?idxno=12835",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Samsung revelou um protótipo de memória zHBM que empilha DRAM diretamente sobre o chip do acelerador, reduzindo caminhos de dados e potencialmente acelerando treinamento e inferência de modelos grandes. É uma evolução de hardware que pode baratear e acelerar o treinamento de IA se chegar ao mercado. Importante para acompanhar a próxima geração de infraestrutura. Ainda é protótipo, então adoção em massa está longe.",
-    "reasonEn": "Samsung revealed a zHBM memory prototype that stacks DRAM directly on top of the accelerator die, shortening data paths and potentially speeding up training and inference of large models. It's a hardware evolution that could cheapen and accelerate AI training if it reaches market. Important to track for the next generation of infrastructure. Still a prototype, so mass adoption is far off.",
-    "score": 0.7,
-    "tags": [
-      "hardware",
-      "samsung",
-      "memória"
-    ],
-    "img": "img/f8b57390addd.jpg",
-    "ts": 1788755249,
-    "addedTs": 1788764876,
-    "urlHash": "f8b57390addd",
-    "titleHash": "15bcdcb34204"
-  },
-  {
-    "title": "He's Letting AI Agents Invest His Money. They Even Have Names",
-    "titlePt": "Ele deixa agentes de IA investirem seu dinheiro – e eles até têm nome",
-    "url": "https://www.wsj.com/tech/ai/the-ai-shift-turning-everyday-investors-into-mini-quant-funds-ebe4d45f",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Reportagem sobre um investidor pessoa física que terceirizou decisões financeiras para múltiplos agentes de IA, cada um com personalidade e nome próprios. O caso explora aplicações reais de IA em finanças pessoais e levanta questões sobre, transparência e desempenho. Curioso e preocupante na mesma medida, mostra onde a cultura maker encontra Wall Street. Vale para quem estuda casos de uso agente.",
-    "reasonEn": "Story about a retail investor who outsourced financial decisions to multiple AI agents, each with its own name and personality. The case explores real AI applications in personal finance and raises regulatory, transparency, and performance questions. Both curious and worrying, it shows where maker culture meets Wall Street. Worth reading for those studying agent use cases.",
-    "score": 0.55,
-    "tags": [
-      "finanças",
-      "agente",
-      "caso-de-uso"
-    ],
-    "img": "img/bb9647f8bcdb.jpg",
-    "ts": 1788755042,
-    "addedTs": 1788764876,
-    "urlHash": "bb9647f8bcdb",
-    "titleHash": "bf6318a6103c"
-  },
-  {
-    "title": "I made legacy SOAP APIs usable by AI agents",
-    "titlePt": "Transformei APIs SOAP legadas em algo que agentes de IA conseguem usar",
-    "url": "https://github.com/bvenkata/legacy2mcp",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Projeto pessoal compartilhado no Hacker News que ensina agentes de IA a consumirem APIs SOAP antigas, normalmente inacessíveis a fluxos modernos. Resolve um problema real em grandes empresas que ainda mantêm sistemas legados. Mostra que o gargalo para IA em empresas não é só modelo, é integração. Boa inspiração para consultores e integradores.",
-    "reasonEn": "Personal project shared on Hacker News that teaches AI agents to consume legacy SOAP APIs, normally inaccessible to modern workflows. Solves a real problem in large companies still running legacy systems. Shows that the bottleneck for AI in enterprises isn't only the model, it's integration. Good inspiration for consultants and integrators.",
-    "score": 0.55,
-    "tags": [
-      "integração",
-      "legado",
-      "agente"
-    ],
-    "img": "img/c1856b8d5437.jpg",
-    "ts": 1788754810,
-    "addedTs": 1788764876,
-    "urlHash": "c1856b8d5437",
-    "titleHash": "3f35ea095229"
-  },
-  {
-    "title": "'RAMageddon' hits consumer electronics as AI drains chip supply",
-    "titlePt": "\"RAMageddon\" atinge eletrônicos: IA consome oferta de chips",
-    "url": "https://www.ft.com/content/ea9a9dcc-b1df-49b0-b80c-f320161b9efa",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A alta demanda por chips de memória usada em data centers de inteligência artificial está provocando escassez no mercado de eletrônicos de consumo, elevando preços de RAM, SSDs e outros componentes. Fabricantes relatam dificuldade em conseguir estoques e já repassam custos ao consumidor final. O problema deve persistir enquanto empresas de IA continuarem expandindo sua infraestrutura. Quem for comprar um PC, notebook ou smartphone nos próximos meses deve esperar preços mais altos ou escassez de modelos.",
-    "reasonEn": "Soaring demand for memory chips driven by AI data centers is causing shortages across the consumer electronics market, driving up prices for RAM, SSDs and related components. Manufacturers report difficulty securing stock and are passing costs to end buyers. The squeeze is likely to persist as AI companies keep expanding infrastructure. Anyone buying a PC, laptop or phone in coming months should expect higher prices or limited availability.",
-    "score": 0.85,
-    "tags": [
-      "chips",
-      "ia",
-      "oferta"
-    ],
-    "img": "img/147f6913cef9.jpg",
-    "ts": 1788754039,
-    "addedTs": 1788764876,
-    "urlHash": "147f6913cef9",
-    "titleHash": "05c972010c9a"
-  },
-  {
-    "title": "Why Better Models Can Create Riskier Systems: Evidence from LLM Agents in Financial Markets",
-    "titlePt": "Modelos mais capazes podem gerar sistemas financeiros mais arriscados",
-    "url": "https://arxiv.org/abs/2609.04373",
-    "source": "arXiv AI",
-    "sources": [
-      "arXiv AI"
-    ],
-    "reason": "O estudo mostra que agentes baseados em LLMs mais avançados, ao interagir em mercados simulados, podem criar comportamentos sistêmicos perigosos como corridas e cascatas de ordens. Quanto melhor o modelo isolado, mais complexo e instável pode ser o sistema coletivo. O achado é importante para reguladores, bancos e desenvolvedores que automatizam decisões financeiras. Vale a leitura para quem trabalha com finanças ou risco algorítmico.",
-    "reasonEn": "The study shows that stronger LLM-based agents, when interacting in simulated markets, can create dangerous systemic behaviors such as runs and order cascades. The better the individual model, the more complex and fragile the collective system may become. The finding matters to regulators, banks and developers automating financial decisions. It is worth reading for anyone in finance or algorithmic risk.",
-    "score": 0.55,
-    "tags": [
-      "finanças",
-      "agentes",
-      "risco"
-    ],
-    "img": "img/19b344bb70a6.jpg",
-    "ts": 1788753600,
-    "addedTs": 1788764876,
-    "urlHash": "19b344bb70a6",
-    "titleHash": "a9d82e9a6d3a"
-  },
-  {
-    "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-    "titlePt": "Seattle Times e Newsday processam OpenAI e Microsoft por violação de direitos autorais",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "Dois grandes jornais americanos entraram com ação judicial contra OpenAI e Microsoft acusando as empresas de usar suas matérias sem permissão para treinar modelos de IA. O processo amplia a frente de batalhas judiciais abertas por veículos de imprensa contra big techs. O resultado pode influenciar regras de uso de conteúdo jornalístico em sistemas generativos. A decisão afeta diretamente veículos de comunicação, autores, desenvolvedores de IA e usuários finais de chatbots.",
-    "reasonEn": "Two major US newspapers filed suit against OpenAI and Microsoft, accusing them of using their articles without permission to train AI models. The case widens the legal front opened by news outlets against big tech. The outcome may shape rules for journalistic content in generative systems. It directly affects publishers, authors, AI developers and end users of chatbots.",
-    "score": 0.9,
-    "tags": [
-      "regulação",
-      "direitos autorais",
-      "processo"
-    ],
-    "img": "img/d5c736f2ff62.jpg",
-    "ts": 1788738233,
-    "addedTs": 1788764876,
-    "urlHash": "d5c736f2ff62",
-    "titleHash": "638ec2ca3ca6"
   }
 ]
