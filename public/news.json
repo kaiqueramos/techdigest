@@ -1,5 +1,470 @@
 [
   {
+    "title": "Multimodal Agents by Sierra",
+    "titlePt": "Sierra lança agentes multimodais para atendimento ao cliente",
+    "url": "https://www.producthunt.com/products/sierra",
+    "source": "ProductHunt",
+    "sources": [
+      "ProductHunt"
+    ],
+    "reason": "A Sierra, conhecida por agentes corporativos, anunciou uma versão multimodal que combina texto, voz e imagens em uma mesma conversa. A novidade mira equipes de suporte ao cliente que atendem em vários formatos. É mais um passo na corrida por agentes prontos para produção.",
+    "reasonEn": "Sierra, known for enterprise agents, announced a multimodal version combining text, voice and images in a single conversation. The update targets customer support teams handling multiple formats. Another step in the race for production-ready agents.",
+    "score": 0.55,
+    "tags": [
+      "agentes",
+      "lançamento"
+    ],
+    "img": "img/61a98133b9d9.jpg",
+    "ts": 1789477146,
+    "addedTs": 1789477208,
+    "urlHash": "61a98133b9d9",
+    "titleHash": "05c0526a5f7f"
+  },
+  {
+    "title": "Show HN: Nenya – 0-deps AI gateway redacts secrets before they reach providers",
+    "titlePt": "Nenya: gateway de IA que remove segredos antes de enviar a provedores",
+    "url": "https://github.com/gumieri/nenya",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Nenya é um gateway de IA leve e sem dependências externas que detecta e remove chaves e tokens sensíveis antes de chegarem ao provedor de modelo. Ele ajuda times a evitar vazamentos acidentais de credenciais em logs ou prompts. É uma camada de segurança simples de encaixar em pipelines existentes.",
+    "reasonEn": "Nenya is a lightweight, zero-dependency AI gateway that detects and removes sensitive tokens before they reach a model provider. It helps teams avoid accidental credential leaks in logs or prompts. An easy security layer to drop into existing pipelines.",
+    "score": 0.7,
+    "tags": [
+      "segurança",
+      "devtools"
+    ],
+    "img": "img/82f98ee9bc06.jpg",
+    "ts": 1789476864,
+    "addedTs": 1789477208,
+    "urlHash": "82f98ee9bc06",
+    "titleHash": "be79e09df2b3"
+  },
+  {
+    "title": "Paying for frontier AI models buys 4-month head start at 5x the cost",
+    "titlePt": "Pagar por modelos de fronteira dá 4 meses de vantagem por 5x o custo",
+    "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma análise mostra que pagar pelos modelos mais novos e potentes custa até cinco vezes mais que alternativas equivalentes. Na prática, isso rende cerca de quatro meses de vantagem competitiva antes que rivais alcancem o mesmo nível. É leitura útil para líderes de produto que decidem onde colocar orçamento de IA.",
+    "reasonEn": "An analysis shows paying for the newest top-tier models can cost up to five times more than roughly equivalent alternatives. In practice, this buys about four months of competitive advantage before rivals catch up. Useful reading for product leaders deciding where AI budget goes.",
+    "score": 0.75,
+    "tags": [
+      "economia",
+      "modelos"
+    ],
+    "img": "img/d97e1b0e891a.jpg",
+    "ts": 1789476452,
+    "addedTs": 1789477208,
+    "urlHash": "d97e1b0e891a",
+    "titleHash": "6fbf3b204041"
+  },
+  {
+    "title": "Arazzo is solving the right problem for AI tools. The spec just isn't there yet",
+    "titlePt": "Arazzo tenta padronizar fluxos de IA, mas a especificação ainda não convence",
+    "url": "https://bump.sh/blog/arazzo-is-solving-the-right-problem-for-ai-tools-the-spec-just-isnt-there-yet/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Arazzo é uma especificação para descrever sequências de chamadas de ferramentas em fluxos agentic. O autor concorda que o problema é importante, mas aponta que a especificação ainda tem lacunas para adoção ampla. Leitura relevante para arquitetos e engenheiros de plataforma.",
+    "reasonEn": "Arazzo is a specification describing sequences of tool calls in agentic workflows. The author agrees the problem is important but argues the spec still has gaps for broad adoption. Relevant reading for architects and platform engineers.",
+    "score": 0.5,
+    "tags": [
+      "padrões",
+      "agentes"
+    ],
+    "img": "img/5befa0079620.jpg",
+    "ts": 1789476297,
+    "addedTs": 1789477208,
+    "urlHash": "5befa0079620",
+    "titleHash": "41e0055661b6"
+  },
+  {
+    "title": "Harness your expectations: a 27B model matched GLM-5.3-Flash after leak fixes",
+    "titlePt": "Modelo de 27B empata com GLM-5.3-Flash após correção de vazamento",
+    "url": "https://aistack.imec-int.com/blog/agents-peeking",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um modelo open-source de 27 bilhões de parâmetros alcançou o mesmo resultado de benchmark do GLM-5.3-Flash depois que dados de teste vazados foram excluídos do treino. O caso mostra como contaminação de dados infla rankings de modelos. É aviso importante para quem decide tecnologia olhando só para leaderboards.",
+    "reasonEn": "An open-source 27B-parameter model matched GLM-5.3-Flash scores after leaked test data was excluded from training. The episode shows how data contamination can inflate model rankings. An important warning for anyone choosing tech based only on leaderboards.",
+    "score": 0.65,
+    "tags": [
+      "benchmark",
+      "modelo"
+    ],
+    "img": "img/ff3b505b37bd.jpg",
+    "ts": 1789475835,
+    "addedTs": 1789477208,
+    "urlHash": "ff3b505b37bd",
+    "titleHash": "d8053bebae38"
+  },
+  {
+    "title": "Who bankrolls the AI agent swarm?",
+    "titlePt": "Quem está bancando o enxame de agentes de IA?",
+    "url": "https://noperator.dev/posts/who-bankrolls-the-ai-agent-swarm/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto investiga quem financia o ecossistema atual de agentes de IA, listando investidores e empresas que apostam pesado na tendência. Ajuda a entender a dinâmica de capital por trás da nova onda de automação. Útil para separar hype de fluxo de capital sustentado.",
+    "reasonEn": "The piece investigates who funds today's AI agent ecosystem, listing investors and companies betting heavily on the trend. It helps frame the capital dynamics behind the new automation wave. Useful for separating hype from sustained capital flows.",
+    "score": 0.6,
+    "tags": [
+      "investimento",
+      "agentes"
+    ],
+    "img": "img/d37415ec8c53.jpg",
+    "ts": 1789475791,
+    "addedTs": 1789477208,
+    "urlHash": "d37415ec8c53",
+    "titleHash": "2133a39184c7"
+  },
+  {
+    "title": "Agentic test processes, LLM benchmarks, and other notes on agentic coding",
+    "titlePt": "Notas práticas sobre testes agentic e benchmarks de LLM",
+    "url": "https://danluu.com/ai-coding/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto reúne anotações sobre como testar fluxos agentic e comparar LLMs em projetos reais, indo além de benchmarks estáticos. Inclui critérios, pegadinhas comuns e sugestões de processo. Indicado para engenheiros que precisam medir qualidade de agentes em produção.",
+    "reasonEn": "The piece gathers practical notes on testing agentic flows and comparing LLMs in real projects, moving past static benchmarks. It includes criteria, common pitfalls, and process suggestions. Good for engineers measuring agent quality in production.",
+    "score": 0.55,
+    "tags": [
+      "agentes",
+      "benchmark"
+    ],
+    "img": "img/67f6d4ba3f58.jpg",
+    "ts": 1789475477,
+    "addedTs": 1789477208,
+    "urlHash": "67f6d4ba3f58",
+    "titleHash": "f858f9461971"
+  },
+  {
+    "title": "16 of 32 well-known sites block at least one AI search crawler",
+    "titlePt": "16 de 32 sites conhecidos bloqueiam pelo menos um crawler de busca por IA",
+    "url": "https://ai-visibility.lastminutedealshq.com/who-blocks-ai-search",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um levantamento mostra que metade dos grandes sites já bloqueia crawlers de IA como os usados por ChatGPT, Perplexity e Claude. Isso afeta diretamente SEO e a forma como mecanismos de busca baseados em IA conseguem conteúdo fresco. Importante para publishers e equipes de marketing digital.",
+    "reasonEn": "A survey shows half of major sites already block AI search crawlers like those used by ChatGPT, Perplexity and Claude. This directly impacts SEO and how AI search engines obtain fresh content. Important for publishers and digital marketing teams.",
+    "score": 0.7,
+    "tags": [
+      "seo",
+      "regulação"
+    ],
+    "img": "img/356c0197f43f.jpg",
+    "ts": 1789475109,
+    "addedTs": 1789477208,
+    "urlHash": "356c0197f43f",
+    "titleHash": "d5cb8db21b78"
+  },
+  {
+    "title": "Open weights are not open source: Why AI's favorite label is under dispute",
+    "titlePt": "Pesos abertos não são open source: por que o rótulo favorito da IA está em disputa",
+    "url": "https://www.theregister.com/columnists/2026/09/15/open-weights-are-not-open-source-why-ais-favorite-label-is-under-dispute/5295436",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto discute a diferença entre liberar apenas os pesos de um modelo (open weights) e cumprir a definição formal de open source da OSI. Vários projetos populares se autointitulam 'abertos' sem atender aos critérios. Leitura essencial para quem avalia licenciamento e governança de modelos.",
+    "reasonEn": "The piece explores the gap between releasing only model weights (open weights) and meeting the OSI's formal open source definition. Several popular projects call themselves 'open' without meeting those criteria. Essential reading for anyone evaluating model licenses and governance.",
+    "score": 0.65,
+    "tags": [
+      "open source",
+      "regulação"
+    ],
+    "img": "img/0c4221986f4b.jpg",
+    "ts": 1789474886,
+    "addedTs": 1789477208,
+    "urlHash": "0c4221986f4b",
+    "titleHash": "7c73fa34efdf"
+  },
+  {
+    "title": "Who funds METR? The viral Anthropic funding thread",
+    "titlePt": "Quem financia a METR? O thread viral sobre dinheiro da Anthropic",
+    "url": "https://tokenstead.ai/guides/who-funds-metr-anthropic-thread-audited",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma thread viral no X questiona quem banca a METR, organização que avalia segurança de modelos, e levanta possíveis conflitos de interesse ligados a financiamento da Anthropic. O debate ganhou tração entre pesquisadores de segurança de IA. Útil para quem acompanha governança do setor.",
+    "reasonEn": "A viral X thread questions who funds METR, an organization evaluating AI model safety, and flags potential conflicts of interest tied to Anthropic money. The debate gained traction among AI safety researchers. Useful for anyone tracking sector governance.",
+    "score": 0.55,
+    "tags": [
+      "segurança",
+      "governança"
+    ],
+    "img": "img/0a9c96f8d7fc.jpg",
+    "ts": 1789474432,
+    "addedTs": 1789477208,
+    "urlHash": "0a9c96f8d7fc",
+    "titleHash": "dae9601c8a3d"
+  },
+  {
+    "title": "The Synthetic Yes-Man: AI, Dunning-Kruger, and the Modern Voigt-Kampff Test",
+    "titlePt": "O 'sim' sintético: IA, Dunning-Kruger e um teste de Voigt-Kampff moderno",
+    "url": "https://www.thesimgap.com/p/the-synthetic-yes-man-ai-dunning",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo discute como chatbots tendem a concordar com o usuário, reforçando ilusões de competência típicas do efeito Dunning-Kruger. Propõe perguntas críticas como um teste inspirado em Blade Runner para flagrar quando uma IA está só bajulando. Importante para quem usa IA como interlocutor intelectual.",
+    "reasonEn": "The piece discusses how chatbots tend to agree with users, reinforcing Dunning-Kruger-style illusions of competence. It proposes critical prompts as a Blade Runner-inspired test to catch when an AI is just flattering. Important for anyone using AI as an intellectual sounding board.",
+    "score": 0.55,
+    "tags": [
+      "segurança",
+      "comportamento"
+    ],
+    "img": "img/38153af8b2fa.jpg",
+    "ts": 1789474403,
+    "addedTs": 1789477208,
+    "urlHash": "38153af8b2fa",
+    "titleHash": "1a7954a4a7fe"
+  },
+  {
+    "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
+    "titlePt": "MIT Tech Review: doomers de IA, agentes delatores e fígados rejuvenescidos",
+    "url": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
+    "source": "MIT Tech Review",
+    "sources": [
+      "MIT Tech Review"
+    ],
+    "reason": "A edição da semana da newsletter 'The Download' da MIT Technology Review cobre o giro 'doomer' da indústria de IA, agentes que denunciam colegas trapaceiros e pesquisas sobre rejuvenescimento de fígados. Funciona como panorama rápido para quem precisa se atualizar em poucos minutos. Apesar de tocar em temas já vistos, traz contexto novo.",
+    "reasonEn": "This week's MIT Technology Review 'Download' newsletter covers the AI industry's 'doomer' turn, agents reporting cheating colleagues, and liver rejuvenation research. It works as a quick primer for anyone catching up in minutes. Even with familiar themes, it offers fresh context.",
+    "score": 0.5,
+    "tags": [
+      "newsletter",
+      "panorama"
+    ],
+    "img": "img/1689c67e49a0.jpg",
+    "ts": 1789474200,
+    "addedTs": 1789477208,
+    "urlHash": "1689c67e49a0",
+    "titleHash": "93b8c1b8334c"
+  },
+  {
+    "title": "Salesforce and Nvidia&#8217;s new reasoning model is everything the AI labs should fear",
+    "titlePt": "Novo modelo de raciocínio da Salesforce e Nvidia é o que os laboratórios de IA devem temer",
+    "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "Salesforce e Nvidia anunciaram um novo modelo de raciocínio que promete competir diretamente com os grandes laboratórios de IA. A parceria une a força computacional da Nvidia com os dados corporativos da Salesforce, criando uma alternativa poderosa e mais barata. Isso representa uma ameaça real para empresas como OpenAI, Anthropic e Google, que dependem de receita com APIs de raciocínio. Desenvolvedores e empresas devem ficar atentos porque opções mais acessíveis podem surgir em breve.",
+    "reasonEn": "Salesforce and Nvidia announced a new reasoning model that promises to compete directly with major AI labs. The partnership combines Nvidia's compute power with Salesforce's enterprise data, creating a powerful and cheaper alternative. This poses a real threat to companies like OpenAI, Anthropic, and Google that rely on revenue from reasoning APIs. Developers and businesses should pay attention as more affordable options may soon appear.",
+    "score": 0.85,
+    "tags": [
+      "modelo",
+      "parceria",
+      "raciocínio"
+    ],
+    "img": "img/e33bad75df32.jpg",
+    "ts": 1789473600,
+    "addedTs": 1789477208,
+    "urlHash": "e33bad75df32",
+    "titleHash": "770bb5a8fbb8"
+  },
+  {
+    "title": "AI models need more data about biology, and OpenAI is paying to create it",
+    "titlePt": "Modelos de IA precisam de mais dados sobre biologia, e a OpenAI está pagando para criá-los",
+    "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
+    "source": "MIT Tech Review",
+    "sources": [
+      "MIT Tech Review"
+    ],
+    "reason": "A OpenAI está investindo para gerar grandes volumes de dados biológicos de alta qualidade, porque os modelos atuais ainda não conhecem o suficiente sobre esse campo. A falta de dados especializados limita aplicações de IA em medicina, descoberta de fármacos e pesquisa genética. O movimento mostra que mesmo empresas líderes reconhecem uma lacuna importante em seus dados de treinamento. Pesquisadores e startups de biotecnologia podem se beneficiar de modelos futuros muito mais capazes nessas áreas.",
+    "reasonEn": "OpenAI is investing to generate large volumes of high-quality biological data because current models still do not know enough about this field. The lack of specialized data limits AI applications in medicine, drug discovery, and genetic research. The move shows that even leading companies recognize an important gap in their training data. Researchers and biotech startups may benefit from much more capable future models in these areas.",
+    "score": 0.75,
+    "tags": [
+      "openai",
+      "biologia",
+      "dados"
+    ],
+    "img": "img/a672109cd79b.jpg",
+    "ts": 1789473600,
+    "addedTs": 1789477208,
+    "urlHash": "a672109cd79b",
+    "titleHash": "a8903c3751b1"
+  },
+  {
+    "title": "1Password's AI patching benchmark is misleading",
+    "titlePt": "Benchmark de correção por IA do 1Password é enganoso",
+    "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Especialistas apontaram que o benchmark divulgado pela 1Password para avaliar correção automatizada de vulnerabilidades por IA é enganoso e não reflete o uso real. Os testes parecem ter sido montados de forma a favorecer o resultado desejado pela empresa. Isso levanta dúvidas sobre credibilidade de métricas de marketing em segurança cibernética. Desenvolvedores devem tratar tais números com cautela antes de confiar em ferramentas baseadas neles.",
+    "reasonEn": "Experts pointed out that the benchmark released by 1Password to evaluate AI-driven vulnerability patching is misleading and does not reflect real-world usage. The tests appear to have been set up to favor the company's desired outcome. This raises doubts about the credibility of marketing metrics in cybersecurity. Engineers should treat such numbers with caution before trusting tools based on them.",
+    "score": 0.6,
+    "tags": [
+      "segurança",
+      "benchmark"
+    ],
+    "img": "img/71fc2221d129.jpg",
+    "ts": 1789473251,
+    "addedTs": 1789477208,
+    "urlHash": "71fc2221d129",
+    "titleHash": "462b2468ab3d"
+  },
+  {
+    "title": "AI Safety and Pacing the Frontier",
+    "titlePt": "Segurança em IA e o ritmo da fronteira tecnológica",
+    "url": "https://eshumarneedi.com/2026/09/15/on-ai-safety-and-pacing.html",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo discute como a comunidade de IA debate o ritmo de avanço da fronteira tecnológica e os riscos envolvidos. Argumenta-se que liberar modelos cada vez mais capazes exige testes rigorosos e governança proporcional. É um contraponto técnico aos pedidos de pausa total no desenvolvimento. Leitores interessados em política de tecnologia precisam entender essa posição para avaliar o debate com mais profundidade.",
+    "reasonEn": "The article discusses how the AI community debates the pace of frontier technology advancement and the risks involved. It argues that releasing increasingly capable models requires rigorous testing and proportional governance. It is a technical counterpoint to calls for a total pause in development. Readers interested in technology policy need to understand this position to evaluate the debate more deeply.",
+    "score": 0.7,
+    "tags": [
+      "segurança",
+      "regulação"
+    ],
+    "img": "img/bcffb62ed058.jpg",
+    "ts": 1789472701,
+    "addedTs": 1789477208,
+    "urlHash": "bcffb62ed058",
+    "titleHash": "80c8b6767f1b"
+  },
+  {
+    "title": "What&#8217;s at stake in AI’s trillion-dollar gamble",
+    "titlePt": "O que está em jogo na aposta de trilhões de dólares em IA",
+    "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+    "source": "MIT Tech Review",
+    "sources": [
+      "MIT Tech Review"
+    ],
+    "reason": "A reportagem da MIT Technology Review analisa os investimentos bilionários feitos por grandes empresas em infraestrutura de IA e os riscos financeiros envolvidos. Centrais elétricas, chips e data centers estão sendo construídos em escala sem precedentes, assumindo que a demanda futura será suficiente. Se a promessa da IA não se concretizar rapidamente, o impacto econômico pode ser significativo. Investidores, trabalhadores do setor de tecnologia e cidadãos em geral devem acompanhar esse debate.",
+    "reasonEn": "MIT Technology Review analyzes the multi-billion dollar investments made by large companies in AI infrastructure and the financial risks involved. Power plants, chips, and data centers are being built at unprecedented scale, assuming future demand will be sufficient. If the AI promise does not materialize quickly, the economic impact could be significant. Investors, tech workers, and citizens in general should follow this debate.",
+    "score": 0.8,
+    "tags": [
+      "economia",
+      "infraestrutura"
+    ],
+    "img": "img/78db0f3b5384.jpg",
+    "ts": 1789466400,
+    "addedTs": 1789477208,
+    "urlHash": "78db0f3b5384",
+    "titleHash": "017df158613d"
+  },
+  {
+    "title": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
+    "titlePt": "ZGCM-1: modelo aberto e eficiente para matemática e busca agêntica",
+    "url": "https://arxiv.org/abs/2609.13356",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "Pesquisadores disponibilizaram o ZGCM-1, um modelo base totalmente aberto voltado para problemas de matemática e busca agêntica. O foco em eficiência chama atenção porque modelos grandes costumam consumir muitos recursos. A abertura do código e dos pesos permite que a comunidade acadêmica e empresas menores reproduzam e melhorem o trabalho. Pode ser útil para quem busca alternativas leves a modelos comerciais.",
+    "reasonEn": "Researchers released ZGCM-1, a fully open foundation model focused on math and agentic search problems. The focus on efficiency stands out because large models usually consume many resources. The openness of code and weights allows the academic community and smaller companies to reproduce and improve the work. It can be useful for those looking for lightweight alternatives to commercial models.",
+    "score": 0.5,
+    "tags": [
+      "modelo",
+      "open-source",
+      "pesquisa"
+    ],
+    "img": "img/38fae5f86105.jpg",
+    "ts": 1789444800,
+    "addedTs": 1789477208,
+    "urlHash": "38fae5f86105",
+    "titleHash": "deb449dd5bb9"
+  },
+  {
+    "title": "Toward Self-Adaptive Physical AI: Can LLM Agents Manage Long-Horizon Physical Tasks?",
+    "titlePt": "Rumo à IA física auto-adaptativa: agentes LLM em tarefas físicas de longo prazo",
+    "url": "https://arxiv.org/abs/2609.13436",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "Pesquisadores investigam se agentes baseados em LLMs conseguem planejar e executar tarefas físicas que exigem muitos passos ao longo do tempo. Robôs e sistemas autônomos precisam se adaptar a mudanças inesperadas no ambiente. O artigo avalia limitações atuais e aponta caminhos para melhorias. É relevante para robótica e automação industrial.",
+    "reasonEn": "Researchers investigate whether LLM-based agents can plan and execute physical tasks that require many steps over time. Robots and autonomous systems need to adapt to unexpected changes in the environment. The paper assesses current limitations and points to paths for improvements. It is relevant for robotics and industrial automation.",
+    "score": 0.5,
+    "tags": [
+      "robótica",
+      "pesquisa"
+    ],
+    "img": "img/c39a9314520b.jpg",
+    "ts": 1789444800,
+    "addedTs": 1789477208,
+    "urlHash": "c39a9314520b",
+    "titleHash": "a9a4ca50e135"
+  },
+  {
+    "title": "LabAgent: Customize Any Research Hubs for Scientific Discoveries Using AI Agents",
+    "titlePt": "LabAgent: personalizando hubs de pesquisa com agentes de IA",
+    "url": "https://arxiv.org/abs/2609.13437",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "O LabAgent permite configurar centros de pesquisa científica personalizados usando agentes de IA para automatizar partes do fluxo de trabalho. A ideia é reduzir o tempo gasto em tarefas repetitivas durante experimentos. Pode acelerar descobertas em laboratórios acadêmicos e industriais. O impacto depende da qualidade dos agentes e da integração com ferramentas existentes.",
+    "reasonEn": "LabAgent allows configuring customized scientific research hubs using AI agents to automate parts of the workflow. The idea is to reduce time spent on repetitive tasks during experiments. It can accelerate discoveries in academic and industrial laboratories. The impact depends on agent quality and integration with existing tools.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "pesquisa"
+    ],
+    "img": "img/cd45510053af.jpg",
+    "ts": 1789444800,
+    "addedTs": 1789477208,
+    "urlHash": "cd45510053af",
+    "titleHash": "093e951b1828"
+  },
+  {
+    "title": "Governing at Machine Speed: An Adaptive Intelligence Architecture for Real-Time AI Policy Enforcement",
+    "titlePt": "Governando na velocidade da máquina: arquitetura para fiscalizar políticas de IA em tempo real",
+    "url": "https://arxiv.org/abs/2609.13466",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "O artigo propõe uma arquitetura adaptativa para aplicar políticas de IA em tempo real, à medida que sistemas automatizados tomam decisões. A ideia é acompanhar o ritmo da tecnologia sem sufocar a inovação. É uma contribuição ao debate sobre como regular IA de forma ágil. Reguladores e equipes de governança corporativa devem prestar atenção.",
+    "reasonEn": "The paper proposes an adaptive architecture to enforce AI policies in real time as automated systems make decisions. The idea is to keep up with the pace of technology without stifling innovation. It is a contribution to the debate on how to regulate AI in an agile way. Regulators and corporate governance teams should pay attention.",
+    "score": 0.6,
+    "tags": [
+      "regulação",
+      "política"
+    ],
+    "img": "img/6b7d0071dbaa.jpg",
+    "ts": 1789444800,
+    "addedTs": 1789477208,
+    "urlHash": "6b7d0071dbaa",
+    "titleHash": "9e0612a16910"
+  },
+  {
+    "title": "From Legal Text to AI-specific Risk Sources: A Systematic Analysis of the EU AI Act's High-Risk Requirements",
+    "titlePt": "Análise sistemática dos requisitos de alto risco da Lei de IA da União Europeia",
+    "url": "https://arxiv.org/abs/2609.13535",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "O artigo traduz o texto jurídico da Lei de IA da União Europeia em fontes concretas de risco para sistemas de alto risco. O objetivo é ajudar desenvolvedores e equipes de conformidade a entender melhor as obrigações práticas. A análise sistemática facilita a aplicação da norma em projetos reais. Profissionais jurídicos, desenvolvedores e gestores de produto devem considerar essas conclusões.",
+    "reasonEn": "The paper translates the legal text of the European Union AI Act into concrete risk sources for high-risk systems. The goal is to help developers and compliance teams better understand practical obligations. The systematic analysis facilitates applying the regulation in real projects. Legal professionals, developers, and product managers should consider these conclusions.",
+    "score": 0.6,
+    "tags": [
+      "regulação",
+      "ue"
+    ],
+    "img": "img/3047d5b0077b.jpg",
+    "ts": 1789444800,
+    "addedTs": 1789477208,
+    "urlHash": "3047d5b0077b",
+    "titleHash": "af3fb15eac0d"
+  },
+  {
     "title": "China says AI CEOs' call for a slowdown is 'fear mongering'",
     "titlePt": "China chama de alarmismo pedido de CEOs para frear IA",
     "url": "https://www.cnbc.com/2026/09/14/china-ai-slowdown-us-tech-ceos.html",
@@ -8406,328 +8871,5 @@
     "addedTs": 1788876008,
     "urlHash": "0b5a688ac445",
     "titleHash": "3ff54e1261cc"
-  },
-  {
-    "title": "Is the UK government the new training ground for AI execs?",
-    "titlePt": "O governo britânico virou escola para executivos de IA?",
-    "url": "https://www.theguardian.com/technology/2026/sep/07/architect-uk-ai-policy-quits-anthropic-conflict-of-interest-concerns",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O texto discute como funcionários do governo do Reino Unido estão migrando para grandes empresas de IA, criando uma porta giratória entre o setor público e o privado. O movimento preocupa porque quem regula hoje pode estar regulando seus próprios futuros empregadores. Para desenvolvedores e empresas de tecnologia, isso pode moldar regras de IA mais permissivas ou mais rígidas. É uma leitura útil para quem quer entender decisões regulatórias à frente.",
-    "reasonEn": "The piece discusses how UK government officials are moving into big AI companies, creating a revolving door between public and private sectors. The trend is concerning because those regulating today may be regulating their own future employers. For developers and tech companies, this can shape AI rules that are either more permissive or stricter. Useful reading for anyone trying to understand upcoming regulatory decisions.",
-    "score": 0.6,
-    "tags": [
-      "regulação",
-      "carreira"
-    ],
-    "img": "img/fd27b46537b5.jpg",
-    "ts": 1788855486,
-    "addedTs": 1788855991,
-    "urlHash": "fd27b46537b5",
-    "titleHash": "06c22e62e920"
-  },
-  {
-    "title": "Bodhan.ai releases 1.2B ASR model that covers 22 Indian Languages",
-    "titlePt": "Bodhan.ai lança modelo de fala de 1,2B cobrindo 22 idiomas indianos",
-    "url": "https://bodhan.ai/research/blogs/indic-transcribe",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A startup indiana Bodhan.ai lançou um modelo de reconhecimento automático de fala com 1,2 bilhão de parâmetros capaz de transcrever 22 línguas da Índia. Isso é relevante porque a Índia tem enorme diversidade linguística e poucos modelos abertos cobriam tantas línguas. Desenvolvedores podem usar o modelo para construir aplicações de voz acessíveis a centenas de milhões de falantes. A novidade amplia inclusão digital onde digitar ainda é uma barreira.",
-    "reasonEn": "Indian startup Bodhan.ai released a 1.2 billion parameter ASR model covering 22 Indian languages. This matters because India has enormous linguistic diversity and few open models covered so many. Developers can use it to build voice applications accessible to hundreds of millions of speakers. The release broadens digital inclusion where typing is still a barrier.",
-    "score": 0.8,
-    "tags": [
-      "modelo",
-      "voz",
-      "lançamento"
-    ],
-    "img": "img/caf028d6cba2.jpg",
-    "ts": 1788852759,
-    "addedTs": 1788855991,
-    "urlHash": "caf028d6cba2",
-    "titleHash": "343d865af7a1"
-  },
-  {
-    "title": "In the age of AI what use is left for a personal computer?",
-    "titlePt": "Na era da IA, para que ainda serve um computador pessoal?",
-    "url": "https://news.ycombinator.com/item?id=49606689",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O texto provoca uma reflexão sobre o papel do PC tradicional quando grande parte das tarefas migra para a nuvem e para modelos de IA. É uma discussão filosófica e de produto, útil para quem desenha experiências e estratégias de plataforma. Não traz dados novos, mas ajuda a repensar o que faz sentido rodar localmente. Importa principalmente para desenvolvedores de software de desktop.",
-    "reasonEn": "The piece provokes reflection on the role of the traditional PC when many tasks move to the cloud and AI models. It's a philosophical and product discussion, useful for those designing experiences and platform strategies. It doesn't bring new data, but helps rethink what makes sense to run locally. Matters mostly for desktop software developers.",
-    "score": 0.5,
-    "tags": [
-      "opinião",
-      "produto"
-    ],
-    "img": "img/534aa83c1fcd.jpg",
-    "ts": 1788852027,
-    "addedTs": 1788855991,
-    "urlHash": "534aa83c1fcd",
-    "titleHash": "7dca72bebc95"
-  },
-  {
-    "title": "AI keeps stubbornly refusing to take our jobs",
-    "titlePt": "IA segue teimosamente se recusando a roubar nossos empregos",
-    "url": "https://www.noahpinion.blog/p/ai-keeps-stubbornly-refusing-to-take",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O texto reúne dados e exemplos mostrando que, apesar do hype, a IA ainda não substituiu a maioria das profissões como muitos previam. Tarefas complexas, criatividade e interação humana continuam dependendo de pessoas. Para desenvolvedores, a lição é que entender onde a IA ajuda e onde falha segue sendo uma habilidade valiosa. Serve como contraponto útil a previsões exageradas.",
-    "reasonEn": "The piece gathers data and examples showing that despite the hype, AI still hasn't replaced most professions as many predicted. Complex tasks, creativity, and human interaction still depend on people. For developers, the takeaway is that understanding where AI helps and where it fails remains a valuable skill. It serves as a useful counterpoint to exaggerated predictions.",
-    "score": 0.6,
-    "tags": [
-      "mercado",
-      "opinião"
-    ],
-    "img": "img/303a87772b72.jpg",
-    "ts": 1788851990,
-    "addedTs": 1788855991,
-    "urlHash": "303a87772b72",
-    "titleHash": "89000475624a"
-  },
-  {
-    "title": "The Chasm: The Shape of Unfinished AI Codebases",
-    "titlePt": "O abismo: o formato dos codebases de IA inacabados",
-    "url": "https://jimmyhmiller.com/shape-of-unfinished-ai-codebases",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo descreve um padrão em que projetos de IA começam acelerados e depois estagnam, formando um vale de código inacabado. Ajuda times a reconhecer sinais precoces desse problema antes de ficarem presos em dívida técnica. É uma leitura útil para líderes técnicos e arquitetos que precisam decidir quando parar ou pivotar. Vale pela provocação mais do que por soluções prontas.",
-    "reasonEn": "The article describes a pattern where AI projects start fast and then stall, forming a valley of unfinished code. It helps teams spot early signs of this problem before getting stuck in technical debt. Useful reading for tech leads and architects who need to decide when to stop or pivot. Worth it for the provocation more than ready-made solutions.",
-    "score": 0.5,
-    "tags": [
-      "engenharia",
-      "gestão"
-    ],
-    "img": "img/47c08b99d4b7.jpg",
-    "ts": 1788851568,
-    "addedTs": 1788855991,
-    "urlHash": "47c08b99d4b7",
-    "titleHash": "fa688eaaf0f8"
-  },
-  {
-    "title": "Arm unveils AI Portal for optimized AI apps",
-    "titlePt": "Arm lança portal de IA para apps otimizados em seus chips",
-    "url": "https://newsroom.arm.com/news/arm-unveils-arm-ai-portal",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Arm apresentou um portal de IA voltado a desenvolvedores, reunindo ferramentas e recursos para criar aplicativos otimizados para seus chips. O objetivo é simplificar o trabalho de quem programa para dispositivos móveis e embarcados, foco tradicional da Arm. Para times de desenvolvimento, significa menos atrito para colocar modelos em produção em hardware com pouca memória e energia. É mais um movimento para tornar a IA on-device mais acessível.",
-    "reasonEn": "Arm introduced an AI portal aimed at developers, bringing together tools and resources to build apps optimized for its chips. The goal is to simplify work for those programming for mobile and embedded devices, Arm's traditional focus. For dev teams, it means less friction when deploying models on hardware with limited memory and power. It's another move to make on-device AI more accessible.",
-    "score": 0.7,
-    "tags": [
-      "hardware",
-      "ferramentas",
-      "lançamento"
-    ],
-    "img": "img/67d2b90d000d.jpg",
-    "ts": 1788849849,
-    "addedTs": 1788855991,
-    "urlHash": "67d2b90d000d",
-    "titleHash": "ccf4980fe6da"
-  },
-  {
-    "title": "TrustNotch – Tamper-evident audit logs for AI agents, verifiable offline",
-    "titlePt": "TrustNotch oferece logs à prova de violação para agentes de IA",
-    "url": "https://trustnotch.com/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A ferramenta TrustNotch cria trilhas de auditoria verificáveis mesmo offline, pensadas para agentes de IA que executam ações sensíveis. Resolve uma dor real: provar quem fez o quê em sistemas automatizados, sem depender da nuvem. Para times que usam agentes em produção, é uma camada de governança relevante. Ajuda a atender requisitos regulatórios e de segurança corporativa.",
-    "reasonEn": "TrustNotch creates tamper-evident audit logs, designed for AI agents that take sensitive actions. It solves a real pain: proving who did what in automated systems without depending on the cloud. For teams running agents in production, it's a relevant governance layer. It helps meet regulatory and corporate security requirements.",
-    "score": 0.6,
-    "tags": [
-      "segurança",
-      "agentes",
-      "ferramentas"
-    ],
-    "img": "img/c30ceb41d8e6.jpg",
-    "ts": 1788848519,
-    "addedTs": 1788855991,
-    "urlHash": "c30ceb41d8e6",
-    "titleHash": "3056db603bdf"
-  },
-  {
-    "title": "Major Math Breakthrough by AI",
-    "titlePt": "IA protagoniza grande avanço matemático",
-    "url": "https://mastodon.social/@tristanbuckmaster/117233413705701198",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A notícia reporta um avanço matemático significativo atribuído a uma IA, gerando debate na comunidade científica. Se confirmado, é um marco porque matemática de alto nível exige raciocínio simbólico profundo, área onde modelos vinham tropeçando. O feito pode acelerar pesquisas que dependem de provas formais e modelagem. Para desenvolvedores, sinaliza que a IA começa a contribuir em ciência fundamental, não apenas em tarefas rotineiras.",
-    "reasonEn": "The story reports a significant mathematical breakthrough attributed to AI, sparking debate in the scientific community. If confirmed, it's a milestone because high-level math requires deep symbolic reasoning, where models had been struggling. The achievement could accelerate research that depends on formal proofs and modeling. For developers, it signals AI starting to contribute to fundamental science, not just routine tasks.",
-    "score": 0.7,
-    "tags": [
-      "pesquisa",
-      "modelo"
-    ],
-    "img": "img/416652df593a.jpg",
-    "ts": 1788847986,
-    "addedTs": 1788855991,
-    "urlHash": "416652df593a",
-    "titleHash": "a9de44c03232"
-  },
-  {
-    "title": "AI crawler user-agents are being spoofed to reach cloud metadata endpoints",
-    "titlePt": "Crawlers de IA falsificam identidade para atacar endpoints na nuvem",
-    "url": "https://honeylabs.net/blog/spoofed-ai-crawlers-one-client",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Pesquisadores descobriram que agentes de coleta de dados de empresas de IA estão falsificando seus identificadores para alcançar endpoints de metadados em nuvens públicas. Esses endpoints podem vazar credenciais sensíveis, o que transforma a prática em risco sério de segurança. O problema afeta qualquer empresa que rode serviços em AWS, GCP ou Azure sem proteção adicional. Para desenvolvedores, é um alerta para revisar logs, restringir metadados e tratar tráfego de IA com a mesma desconfiança de qualquer bot.",
-    "reasonEn": "Researchers discovered that AI data-scraping agents are spoofing their identifiers to reach metadata endpoints in public clouds. These endpoints can leak sensitive credentials, turning the practice into a serious security risk. The issue affects any company running services on AWS, GCP, or Azure without extra protection. For developers, it's a warning to review logs, restrict metadata, and treat AI traffic with the same suspicion as any bot.",
-    "score": 0.85,
-    "tags": [
-      "segurança",
-      "nuvem"
-    ],
-    "img": "img/198cc5b3cd51.jpg",
-    "ts": 1788846271,
-    "addedTs": 1788855991,
-    "urlHash": "198cc5b3cd51",
-    "titleHash": "5006cb8b0384"
-  },
-  {
-    "title": "An AI that talks like a friend, jumps in, interrupts and keeps the convo going",
-    "titlePt": "Nova IA conversa como amigo: interrompe, antecipa e mantém o papo",
-    "url": "https://www.echohive.ai/deep-talk-buddy",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O texto apresenta uma IA conversacional desenhada para interagir de forma mais espontânea, com interrupções e retomadas naturais. É um avanço incremental em UX de chatbots, relevante para quem desenvolve assistentes virtuais. Não representa salto técnico radical, mas pode melhorar a sensação de companhia em produtos de voz. Importa mais para product designers do que para infra de modelos.",
-    "reasonEn": "The piece presents a conversational AI designed to interact more spontaneously, with natural interruptions and turn-taking. It's an incremental advance in chatbot UX, relevant for those building virtual assistants. Not a radical technical leap, but it can improve the sense of companionship in voice products. Matters more for product designers than for model infrastructure.",
-    "score": 0.5,
-    "tags": [
-      "produto",
-      "voz"
-    ],
-    "img": "img/7ff81608f42c.jpg",
-    "ts": 1788845467,
-    "addedTs": 1788855991,
-    "urlHash": "7ff81608f42c",
-    "titleHash": "42ccefd2756c"
-  },
-  {
-    "title": "Mistral raises €3B",
-    "titlePt": "Mistral capta 3 bilhões de euros em nova rodada de investimento",
-    "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A francesa Mistral, uma das principais concorrentes europeias da OpenAI e da Anthropic, levantou 3 bilhões de euros em financiamento. O valor reforça a posição da empresa como referência em IA soberana na Europa e atrai atenção para o ecossistema do continente. Para desenvolvedores, significa mais recursos para modelos abertos e APIs competitivas. A rodada também pode pressionar rivais a ajustar preços e estratégias, beneficiando clientes corporativos.",
-    "reasonEn": "France's Mistral, one of Europe's main competitors to OpenAI and Anthropic, raised 3 billion euros in funding. The sum strengthens the company's position as a reference in sovereign AI in Europe and draws attention to the continent's ecosystem. For developers, it means more resources for open models and competitive APIs. The round may also push rivals to adjust pricing and strategies, benefiting corporate customers.",
-    "score": 0.9,
-    "tags": [
-      "deal",
-      "financiamento",
-      "modelo"
-    ],
-    "img": "img/7db995c30f47.jpg",
-    "ts": 1788843983,
-    "addedTs": 1788855991,
-    "urlHash": "7db995c30f47",
-    "titleHash": "d66488ad2647"
-  },
-  {
-    "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
-    "titlePt": "Microsoft Copilot Revela Entrada Secreta Que Permitiu Ser Hackeado",
-    "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
-    "source": "Ars Technica",
-    "sources": [
-      "Ars Technica"
-    ],
-    "reason": "Pesquisadores descobriram uma vulnerabilidade no Microsoft Copilot que expôs uma entrada secreta usada para atacar o sistema. O problema permitia que invasores manipulassem as respostas da IA e acessassem dados sensíveis. É uma falha de segurança relevante porque o Copilot é amplamente usado em ambientes corporativos. Desenvolvedores e equipes de TI devem ficar atentos a atualizações da Microsoft.",
-    "reasonEn": "Researchers discovered a vulnerability in Microsoft Copilot that exposed a secret input used to attack the system. The flaw allowed attackers to manipulate the AI's responses and access sensitive data. This is a relevant security issue because Copilot is widely used in corporate environments. Developers and IT teams should watch for Microsoft patches.",
-    "score": 0.85,
-    "tags": [
-      "segurança",
-      "microsoft",
-      "vulnerabilidade"
-    ],
-    "img": "img/95524b9f1235.jpg",
-    "ts": 1787058004,
-    "addedTs": 1788855991,
-    "urlHash": "95524b9f1235",
-    "titleHash": "723d1aca3b56"
-  },
-  {
-    "title": "Supporting independent journalism in Ukraine",
-    "titlePt": "OpenAI apoia o jornalismo independente na Ucrânia",
-    "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A OpenAI anunciou uma iniciativa para apoiar financeiramente veículos de jornalismo independente na Ucrânia, em meio ao conflito em curso. O objetivo é ajudar redações a usar ferramentas de IA e manter suas operações. A medida importa para o ecossistema de mídia e para quem se preocupa com desinformação em zonas de guerra. Também sinaliza como grandes empresas de IA se posicionam em crises geopolíticas.",
-    "reasonEn": "OpenAI announced an initiative to financially support independent journalism outlets in Ukraine amid the ongoing conflict. The goal is to help newsrooms adopt AI tools and keep operating. The move matters for the media ecosystem and those concerned with disinformation in war zones. It also signals how major AI companies position themselves in geopolitical crises.",
-    "score": 0.55,
-    "tags": [
-      "openai",
-      "jornalismo",
-      "geopolítica"
-    ],
-    "img": "img/073b13b14ae0.jpg",
-    "ts": 1788739200,
-    "addedTs": 1788833475,
-    "urlHash": "073b13b14ae0",
-    "titleHash": "cde00c28a1b8"
-  },
-  {
-    "title": "Supporting Thailand’s next generation of AI startups",
-    "titlePt": "OpenAI apoia a próxima geração de startups de IA na Tailândia",
-    "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A OpenAI lançou um programa voltado a impulsionar startups tailandesas que usam inteligência artificial, oferecendo recursos, mentoria e acesso a modelos. A iniciativa mira mercados emergentes do sudeste asiático. Importa para fundadores e investidores que acompanham o crescimento de IA fora do eixo EUA-China. Também mostra a estratégia de expansão global da OpenAI por meio de ecossistemas locais.",
-    "reasonEn": "OpenAI launched a program to boost Thai startups building with AI, offering resources, mentorship, and model access. The initiative targets emerging Southeast Asian markets. It matters for founders and investors watching AI growth outside the US-China axis. It also highlights OpenAI's global expansion strategy through local ecosystems.",
-    "score": 0.5,
-    "tags": [
-      "openai",
-      "startups",
-      "tailwind"
-    ],
-    "img": "img/cb1db0d5c74b.jpg",
-    "ts": 1787882400,
-    "addedTs": 1788833475,
-    "urlHash": "cb1db0d5c74b",
-    "titleHash": "97738b29fad5"
-  },
-  {
-    "title": "5 ways AI Mode in Search helps you enjoy the real world",
-    "titlePt": "Cinco jeitos como o modo de IA no Google Search ajuda você a curtir o mundo real",
-    "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-    "source": "Google AI",
-    "sources": [
-      "Google AI"
-    ],
-    "reason": "O Google publicou uma lista de cinco funcionalidades do modo de IA dentro do Search, projetadas para ajudar usuários a sair do celular e aproveitar experiências presenciais, como descobrir lugares, planejar passeios e tirar dúvidas em tempo real. A novidade mistura busca tradicional com respostas generativas. Impacta diretamente usuários comuns e profissionais de SEO. Reforça a aposta do Google em IA aplicada ao produto mais usado da empresa.",
-    "reasonEn": "Google published a list of five AI Mode features in Search designed to help users step away from their phones and enjoy real-world experiences, like discovering places, planning outings, and asking questions in real time. The feature blends traditional search with generative answers. It directly impacts everyday users and SEO professionals. It reinforces Google's bet on AI inside its most-used product.",
-    "score": 0.7,
-    "tags": [
-      "google",
-      "busca",
-      "lançamento"
-    ],
-    "img": "img/dc323d8334b7.jpg",
-    "ts": 1785243600,
-    "addedTs": 1788833475,
-    "urlHash": "dc323d8334b7",
-    "titleHash": "a7db83a2df3e"
   }
 ]
