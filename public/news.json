@@ -1,5 +1,303 @@
 [
   {
+    "title": "Show HN: Swift-Qwen3.8-27B, -58.3% thinking, x1.95 speed, accuracy of xhigh",
+    "titlePt": "Swift-Qwen3.8-27B: versão mais rápida e leve do Qwen 3.8",
+    "url": "https://huggingface.co/ukisai/Swift-Qwen3.8-27b",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um desenvolvedor publicou no Hacker News uma versão otimizada do modelo Qwen 3.8 que reduz o tempo de raciocínio em 58% e quase dobra a velocidade, mantendo a precisão. A novidade pode interessar equipes que usam o modelo em produção e precisam de respostas mais rápidas com menor custo. É uma contribuição técnica relevante, mas específica para quem já trabalha com a família Qwen.",
+    "reasonEn": "A developer published on Hacker News an optimized version of the Qwen 3.8 model that cuts thinking time by 58% and nearly doubles speed while maintaining accuracy. The news may interest teams using the model in production that need faster responses at lower cost. It's a relevant technical contribution, but specific to those already working with the Qwen family.",
+    "score": 0.5,
+    "tags": [
+      "modelo",
+      "otimização"
+    ],
+    "img": "img/8c2aa81a2d6a.jpg",
+    "ts": 1789568645,
+    "addedTs": 1789568919,
+    "urlHash": "8c2aa81a2d6a",
+    "titleHash": "360eb4d1aadf"
+  },
+  {
+    "title": "The state of AI in 2026 [pdf]",
+    "titlePt": "O estado da IA em 2026: relatório denso em PDF é publicado",
+    "url": "https://www.visualcapitalist.com/wp-content/uploads/2026/08/the-state-of-ai-in-2026-on-the-road-to-roi_final.pdf",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Foi divulgado um relatório extenso sobre o estado atual da inteligência artificial em 2026, com dados, gráficos e análises do setor. O documento serve como referência para entender tendências, investimentos e níveis de adoção. Vale para quem precisa de uma visão panorâmica, mas exige tempo de leitura dedicado.",
+    "reasonEn": "A lengthy report on the current state of artificial intelligence in 2026 has been released, with industry data, charts, and analysis. The document serves as a reference for understanding trends, investments, and adoption levels. It's worth it for those needing a panoramic view, but requires dedicated reading time.",
+    "score": 0.7,
+    "tags": [
+      "relatório",
+      "tendências"
+    ],
+    "img": "img/7a537bb3a6e2.jpg",
+    "ts": 1789568162,
+    "addedTs": 1789568919,
+    "urlHash": "7a537bb3a6e2",
+    "titleHash": "870b0a375fd0"
+  },
+  {
+    "title": "The Frontier Act Is Congress' Best AI Regulation Bill Yet",
+    "titlePt": "O Frontier Act é o melhor projeto de regulação de IA já apresentado no Congresso americano",
+    "url": "https://www.thefai.org/posts/the-frontier-act-is-congress-s-best-ai-bill-yet",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo defende que o Frontier Act, projeto de lei em tramitação no Congresso dos EUA, é a melhor proposta de regulação de inteligência artificial já apresentada. A legislação busca equilibrar inovação e segurança com regras claras para modelos de fronteira. É leitura obrigatória para quem acompanha políticas públicas e o impacto regulatório no setor de tecnologia.",
+    "reasonEn": "The article argues that the Frontier Act, a bill moving through the US Congress, is the best AI regulation proposal ever presented. The legislation seeks to balance innovation and safety with clear rules for frontier models. It's required reading for those following public policy and its regulatory impact on the tech sector.",
+    "score": 0.75,
+    "tags": [
+      "regulação",
+      "política"
+    ],
+    "img": "img/bd0f5efe66ef.jpg",
+    "ts": 1789567985,
+    "addedTs": 1789568919,
+    "urlHash": "bd0f5efe66ef",
+    "titleHash": "b692b8b6a70d"
+  },
+  {
+    "title": "Reddit co-founder says tech industry has been 'tone deaf' in explaining AI",
+    "titlePt": "Cofundador do Reddit diz que indústria tech foi 'surda' ao explicar IA",
+    "url": "https://www.cnbc.com/2026/09/16/reddit-ai-risk-humanity-warning-tech.html",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O cofundador do Reddit afirmou publicamente que o setor de tecnologia tem sido surdo na forma como comunica inteligência artificial para o público em geral. A crítica aponta falta de transparência e clareza sobre riscos, limites e impactos reais. É uma reflexão relevante sobre comunicação corporativa, mas não traz fatos novos nem mudanças concretas no curto prazo.",
+    "reasonEn": "Reddit's co-founder publicly stated that the tech industry has been tone deaf in how it communicates artificial intelligence to the general public. The criticism points to a lack of transparency and clarity about risks, limits, and real impacts. It's a relevant reflection on corporate communication, but brings no new facts or concrete short-term changes.",
+    "score": 0.5,
+    "tags": [
+      "comunicação",
+      "opinião"
+    ],
+    "img": "img/98ce5ac144fe.jpg",
+    "ts": 1789567835,
+    "addedTs": 1789568919,
+    "urlHash": "98ce5ac144fe",
+    "titleHash": "d0a233310d8d"
+  },
+  {
+    "title": "Beltdown: Escaping the Claude Code Sandbox",
+    "titlePt": "Beltdown: técnica consegue escapar da sandbox do Claude Code",
+    "url": "https://accomplish.ai/blog/beltdown-escaping-the-claude-code-sandbox/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Pesquisadores divulgaram uma técnica chamada Beltdown que consegue escapar do ambiente isolado de execução do Claude Code, o agente de programação da Anthropic. A descoberta é relevante para a segurança de empresas que usam IA para escrever código e executá-lo em produção. Mostra que, apesar dos cuidados, sandboxes de IA ainda podem ser contornadas por atacantes.",
+    "reasonEn": "Researchers disclosed a technique called Beltdown that can escape the isolated execution environment of Claude Code, Anthropic's coding agent. The discovery is relevant to the security of companies using AI to write and execute code in production. It shows that, despite precautions, AI sandboxes can still be bypassed by attackers.",
+    "score": 0.75,
+    "tags": [
+      "segurança",
+      "claude"
+    ],
+    "img": "img/6e3d6e509d4f.jpg",
+    "ts": 1789567367,
+    "addedTs": 1789568919,
+    "urlHash": "6e3d6e509d4f",
+    "titleHash": "3e31def686b4"
+  },
+  {
+    "title": "Show HN: A Stateful LLM API that works across providers",
+    "titlePt": "API com estado para LLMs funciona entre diferentes provedores",
+    "url": "https://twigg.ai",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um projeto no Hacker News apresenta uma API para modelos de linguagem que mantém o estado das conversas e funciona com vários provedores diferentes de forma transparente. Isso resolve um problema comum: precisar reconstruir o histórico toda vez que se troca de modelo. É uma ferramenta útil para desenvolvedores que constroem aplicações flexíveis com múltiplos modelos.",
+    "reasonEn": "A Hacker News project presents an API for language models that maintains conversation state and works transparently across different providers. This solves a common problem: having to rebuild history every time you switch models. It's a useful tool for developers building flexible applications with multiple models.",
+    "score": 0.5,
+    "tags": [
+      "api",
+      "desenvolvimento"
+    ],
+    "img": "img/66758aaf72c7.jpg",
+    "ts": 1789566829,
+    "addedTs": 1789568919,
+    "urlHash": "66758aaf72c7",
+    "titleHash": "e374d7db180f"
+  },
+  {
+    "title": "OpenAI Expands ChatGPT Ads with Sponsored Agents",
+    "titlePt": "OpenAI amplia anúncios no ChatGPT com agentes patrocinados",
+    "url": "https://openai.com/index/reimagining-advertising-with-ai/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A OpenAI anunciou a expansão da publicidade dentro do ChatGPT com a chegada dos agentes patrocinados, nova forma de monetização da plataforma. Isso significa que empresas podem pagar para que seus agentes de IA apareçam com destaque nas conversas dos usuários. A mudança afeta diretamente desenvolvedores que usam a plataforma e pode transformar a dinâmica das interações com o chatbot.",
+    "reasonEn": "OpenAI announced the expansion of advertising inside ChatGPT with the arrival of sponsored agents, a new form of platform monetization. This means companies can pay for their AI agents to appear prominently in user conversations. The change directly affects developers using the platform and may transform how chatbot interactions work.",
+    "score": 0.85,
+    "tags": [
+      "openai",
+      "monetização"
+    ],
+    "img": "img/b5a1743af4f4.jpg",
+    "ts": 1789566675,
+    "addedTs": 1789568919,
+    "urlHash": "b5a1743af4f4",
+    "titleHash": "a59004f13f28"
+  },
+  {
+    "title": "AI research institute founded by Yoshua Bengio vandalized in Montreal",
+    "titlePt": "Instituto de IA fundado por Yoshua Bengio é vandalizado em Montreal",
+    "url": "https://www.cbc.ca/news/canada/montreal/mila-vandalism-montreal-ai-summit-9.7345851",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Mila, instituto de pesquisa em inteligência artificial fundado pelo cientista Yoshua Bengio, foi vandalizado em Montreal, no Canadá. O incidente levanta preocupações sobre a segurança de instituições acadêmicas em um momento de tensões crescentes em torno da IA. É uma notícia preocupante que afeta diretamente a comunidade de pesquisa em inteligência artificial.",
+    "reasonEn": "Mila, the AI research institute founded by scientist Yoshua Bengio, was vandalized in Montreal, Canada. The incident raises concerns about the safety of academic institutions amid growing tensions around AI. It's worrying news that directly affects the artificial intelligence research community.",
+    "score": 0.6,
+    "tags": [
+      "pesquisa",
+      "segurança"
+    ],
+    "img": "img/642d02aaaed1.jpg",
+    "ts": 1789566297,
+    "addedTs": 1789568919,
+    "urlHash": "642d02aaaed1",
+    "titleHash": "3addc4833207"
+  },
+  {
+    "title": "US gov't orders Kalshi halt AI compute price tracker over natl security concerns",
+    "titlePt": "Governo dos EUA ordena Kalshi a suspender rastreador de preços de computação de IA",
+    "url": "https://www.semafor.com/article/09/15/2026/commerce-dept-ordered-kalshi-to-take-down-ai-compute-futures-product",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O governo dos Estados Unidos ordenou que a Kalshi, plataforma de mercado de previsões, suspenda um rastreador de preços de capacidade computacional de IA por motivos de segurança nacional. A medida mostra como dados sobre capacidade de processamento são considerados sensíveis pelas autoridades. Afeta traders e usuários que usavam a funcionalidade e pode abrir precedente para outras plataformas.",
+    "reasonEn": "The US government ordered Kalshi, a prediction market platform, to suspend an AI compute capacity price tracker for national security reasons. The move shows how data on processing capacity is considered sensitive by authorities. It affects traders and users who were using the feature and may set a precedent for other platforms.",
+    "score": 0.75,
+    "tags": [
+      "regulação",
+      "mercados"
+    ],
+    "img": "img/6e19c7601c36.jpg",
+    "ts": 1789565391,
+    "addedTs": 1789568919,
+    "urlHash": "6e19c7601c36",
+    "titleHash": "f84bdfbb0dd0"
+  },
+  {
+    "title": "SK Hynix reportedly in talks with Intel to build memory chips in US",
+    "titlePt": "SK Hynix negocia com Intel para fabricar chips de memória nos EUA",
+    "url": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A SK Hynix, gigante sul-coreana de memórias, estaria em conversas avançadas com a Intel para construir chips de memória nos Estados Unidos. A movimentação faz parte do esforço de reduzir a dependência da Ásia e fortalecer a cadeia de suprimentos americana de semicondutores. Impacta diretamente o mercado de hardware e a disponibilidade de memórias essenciais para sistemas de inteligência artificial.",
+    "reasonEn": "SK Hynix, the South Korean memory giant, is reportedly in advanced talks with Intel to build memory chips in the United States. The move is part of efforts to reduce dependence on Asia and strengthen the American semiconductor supply chain. It directly impacts the hardware market and the availability of memory essential for artificial intelligence systems.",
+    "score": 0.7,
+    "tags": [
+      "hardware",
+      "indústria"
+    ],
+    "img": "img/8fb2bac07c07.jpg",
+    "ts": 1789564982,
+    "addedTs": 1789568919,
+    "urlHash": "8fb2bac07c07",
+    "titleHash": "a3042e1a917c"
+  },
+  {
+    "title": "Former Infosys chief&#8217;s AI startup nabs another $53M",
+    "titlePt": "Startup de IA do ex-chefe da Infosys capta mais US$ 53 milhões",
+    "url": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A startup de inteligência artificial fundada pelo ex-CEO da Infosys, Vishal Sikka, recebeu uma nova rodada de financiamento de US$ 53 milhões. O aporte reforça a aposta em soluções empresariais de IA e mostra que investidores seguem ativos no setor, apesar da cautela geral. Para desenvolvedores e empresas, o movimento indica mais um competidor surgindo no espaço de IA corporativa.",
+    "reasonEn": "The AI startup founded by former Infosys CEO Vishal Sikka raised an additional $53 million in a new funding round. The investment reinforces the bet on enterprise AI solutions and shows investors remain active in the sector despite general caution. For developers and businesses, it signals another competitor emerging in the corporate AI space.",
+    "score": 0.55,
+    "tags": [
+      "startup",
+      "financiamento",
+      "ia-corporativa"
+    ],
+    "img": "img/def75ecd4873.jpg",
+    "ts": 1789563600,
+    "addedTs": 1789568919,
+    "urlHash": "def75ecd4873",
+    "titleHash": "b806bf8b89bc"
+  },
+  {
+    "title": "Reimagining advertising with AI",
+    "titlePt": "OpenAI reimagina a publicidade com inteligência artificial",
+    "url": "https://openai.com/index/reimagining-advertising-with-ai",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "A OpenAI publicou um artigo sobre como a IA pode transformar o setor de publicidade, automatizando criação de anúncios, segmentação e otimização de campanhas. A iniciativa pode mudar a forma como marcas e desenvolvedores criam conteúdo promocional. Profissionais de marketing digital e pequenas empresas devem acompanhar de perto, pois ferramentas desse tipo tendem a baratear a produção criativa.",
+    "reasonEn": "OpenAI published an article on how AI can transform advertising by automating ad creation, targeting, and campaign optimization. The initiative could change how brands and developers produce promotional content. Digital marketers and small businesses should watch closely, as such tools tend to lower creative production costs.",
+    "score": 0.7,
+    "tags": [
+      "openai",
+      "publicidade",
+      "ia-criativa"
+    ],
+    "img": "img/6ac27c68838b.jpg",
+    "ts": 1789563600,
+    "addedTs": 1789568919,
+    "urlHash": "6ac27c68838b",
+    "titleHash": "923cfead1477"
+  },
+  {
+    "title": "The Download: AI’s trillion-dollar gamble and OpenAI&#8217;s biology data bid",
+    "titlePt": "A aposta de trilhões de dólares em IA e a oferta da OpenAI por dados biológicos",
+    "url": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
+    "source": "MIT Tech Review",
+    "sources": [
+      "MIT Tech Review"
+    ],
+    "reason": "O boletim da MIT Tech Review reúne dois destaques: o volume bilionário que empresas e governos estão destinando à IA, e a movimentação da OpenAI para adquirir grandes conjuntos de dados biológicos. Ambos mostram que a IA deixou de ser apenas software e virou disputa industrial e científica. Para qualquer pessoa, isso significa decisões de investimento e regulação que vão moldar os próximos anos.",
+    "reasonEn": "MIT Tech Review's newsletter highlights two stories: the trillion-dollar volumes companies and governments are pouring into AI, and OpenAI's move to acquire large biological datasets. Both show AI is no longer just software but an industrial and scientific contest. For anyone, this means investment and regulatory decisions that will shape the coming years.",
+    "score": 0.78,
+    "tags": [
+      "investimento",
+      "openai",
+      "biotecnologia"
+    ],
+    "img": "img/88d344bab707.jpg",
+    "ts": 1789560600,
+    "addedTs": 1789568919,
+    "urlHash": "88d344bab707",
+    "titleHash": "21cba7227a33"
+  },
+  {
+    "title": "A brief history of AI executives calling for regulation",
+    "titlePt": "Uma breve história dos executivos de IA pedindo regulação",
+    "url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "The Verge reúne os principais momentos em que executivos do setor de inteligência artificial pediram publicamente por mais regulação do governo. O artigo mostra como o tom mudou ao longo dos anos, de alertas apocalípticos a pedidos de regras práticas. É leitura útil para entender o debate atual sobre segurança em IA e quem está realmente pressionando por regras.",
+    "reasonEn": "The Verge compiles the main moments when AI executives publicly asked the government for more regulation. The article shows how the tone shifted over the years, from apocalyptic warnings to calls for practical rules. It is useful reading to understand the current debate on AI safety and who is really pushing for rules.",
+    "score": 0.55,
+    "tags": [
+      "regulação",
+      "história",
+      "segurança"
+    ],
+    "img": "img/f1145eca1cbd.jpg",
+    "ts": 1789557295,
+    "addedTs": 1789568919,
+    "urlHash": "f1145eca1cbd",
+    "titleHash": "95f8f54f3307"
+  },
+  {
     "title": "Gemini 3.8 & 3.8 Live Extended Thinking",
     "titlePt": "Gemini 3.8 e 3.8 Live com Pensamento Estendido",
     "url": "https://www.producthunt.com/products/gemini-3-8-3-8-live-extended-thinking",
@@ -8724,225 +9022,5 @@
     "addedTs": 1788980191,
     "urlHash": "0cfe4d849c9b",
     "titleHash": "d1c250a8e99b"
-  },
-  {
-    "title": "Anthropic insiders warn AI could kill all humans",
-    "titlePt": "Insiders da Anthropic alertam que IA pode matar todos os humanos",
-    "url": "https://www.axios.com/2026/09/09/anthropic-insiders-warn-ai-could-kill-all-humans",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Funcionários atuais e ex-funcionários da Anthropic publicaram um alerta raro dizendo que a IA avançada pode representar um risco existencial para a humanidade. O grupo pede que empresas e governos criem regras mais duras antes que a tecnologia fique mais poderosa. A história é importante porque vem de dentro de uma das maiores empresas de IA do mundo. Afeta diretamente o debate global sobre segurança em IA e pode pressionar reguladores.",
-    "reasonEn": "Current and former Anthropic employees published a rare warning that advanced AI may pose an existential risk to humanity. The group calls on companies and governments to create stricter rules before the technology becomes more powerful. The story matters because it comes from inside one of the world's leading AI companies. It directly affects the global AI safety debate and could pressure regulators.",
-    "score": 0.95,
-    "tags": [
-      "segurança",
-      "ia",
-      "antropologia"
-    ],
-    "img": "img/882d9e85c574.jpg",
-    "ts": 1788962388,
-    "addedTs": 1788962558,
-    "urlHash": "882d9e85c574",
-    "titleHash": "3209d8957b7e"
-  },
-  {
-    "title": "Do people prefer stories written by AI?",
-    "titlePt": "Pessoas preferem histórias escritas por IA?",
-    "url": "https://www.cambridge.org/gb/universitypress/about-us/news-and-blogs/do-people-prefer-stories-written-by-ai",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um novo estudo analisou se leitores distinguem histórias escritas por humanos e por IA, e qual tipo preferem. Os resultados sugerem que muitos não percebem a diferença e até gostam mais dos textos gerados por máquina. A conclusão importa para escritores, editores e professores que lidam com conteúdo automatizado.",
-    "reasonEn": "A new study examined whether readers can tell human-written stories apart from AI-written ones and which type they prefer. Results suggest many don't notice the difference and may even enjoy machine-generated texts more. The conclusion matters for writers, editors, and teachers dealing with automated content.",
-    "score": 0.6,
-    "tags": [
-      "estudo",
-      "escrita",
-      "ia"
-    ],
-    "img": "img/6272f3f9c667.jpg",
-    "ts": 1788961094,
-    "addedTs": 1788962558,
-    "urlHash": "6272f3f9c667",
-    "titleHash": "0ed3d0000d9b"
-  },
-  {
-    "title": "We have to build AI that murders us",
-    "titlePt": "Precisamos construir IA que nos mate",
-    "url": "https://twitter.com/RayKump/status/2097499730137760183",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo argumenta que é necessário construir deliberadamente IAs perigosas para testar defesas e se preparar para riscos reais. A ideia é que, sem testes agressivos, não dá para saber se os sistemas de segurança funcionam. É uma posição polêmica dentro do debate sobre segurança em IA e afeta pesquisadores e formuladores de políticas.",
-    "reasonEn": "The article argues we must deliberately build dangerous AIs to test defenses and prepare for real risks. The idea is that without aggressive testing, we can't know if safety systems actually work. It's a controversial position in the AI safety debate and affects researchers and policymakers.",
-    "score": 0.55,
-    "tags": [
-      "opinião",
-      "segurança",
-      "ia"
-    ],
-    "img": "img/78d5118da642.jpg",
-    "ts": 1788960701,
-    "addedTs": 1788962558,
-    "urlHash": "78d5118da642",
-    "titleHash": "b8aa2a4c4463"
-  },
-  {
-    "title": "The AI Code Surge Reshaping Developer Jobs",
-    "titlePt": "A onda de código com IA redesenha o trabalho de devs",
-    "url": "https://spectrum.ieee.org/ai-code-review-software-engineers",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O uso de ferramentas de IA para gerar código está mudando rápido o mercado para programadores. Empresas estão contratando menos devs juniores e exigindo mais produtividade de cada um com ajuda de IA. Mostra que a profissão se transforma em vez de simplesmente desaparecer. Afeta diretamente devs e líderes de tecnologia.",
-    "reasonEn": "The use of AI tools to generate code is rapidly reshaping the job market for programmers. Companies are hiring fewer junior devs and demanding more productivity from each one with AI help. It shows the profession is transforming rather than simply disappearing. Directly affects developers and tech leaders.",
-    "score": 0.75,
-    "tags": [
-      "trabalho",
-      "desenvolvedores",
-      "ia"
-    ],
-    "img": "img/cd0a8720a1d3.jpg",
-    "ts": 1788960609,
-    "addedTs": 1788962558,
-    "urlHash": "cd0a8720a1d3",
-    "titleHash": "7eaf566283e6"
-  },
-  {
-    "title": "Google to invest record $15B in AI infrastructure in the 'Texas of Europe'",
-    "titlePt": "Google vai investir US$ 15 bi recorde em IA no 'Texas da Europa'",
-    "url": "https://www.cnbc.com/2026/09/09/google-finland-ai-infrastructure-investment.html",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O Google anunciou aporte recorde de US$ 15 bilhões em data centers e infraestrutura de IA em um país europeu apelidado de Texas da Europa. O valor é o maior já feito pela empresa na região e evidencia a corrida global por capacidade computacional. A expansão cria empregos locais e fortalece a oferta de serviços de IA. Afeta mercado de nuvem, concorrentes e a economia local.",
-    "reasonEn": "Google announced a record $15 billion investment in data centers and AI infrastructure in a European country dubbed the Texas of Europe. The amount is the largest the company has ever made in the region and shows the global race for computing capacity. The expansion creates local jobs and strengthens AI service offerings. It affects the cloud market, competitors, and the local economy.",
-    "score": 0.85,
-    "tags": [
-      "google",
-      "investimento",
-      "infraestrutura"
-    ],
-    "img": "img/ba2c98b1fdf0.jpg",
-    "ts": 1788959567,
-    "addedTs": 1788962558,
-    "urlHash": "ba2c98b1fdf0",
-    "titleHash": "5536e7349716"
-  },
-  {
-    "title": "Rumor: Apple Watch will use microphoneto generate daily AI recaps",
-    "titlePt": "Rumor: Apple Watch vai usar microfone para gerar resumos diários com IA",
-    "url": "https://9to5mac.com/2026/09/09/the-new-apple-watch-will-use-microphone-and-other-sensors-to-generate-ai-recaps-of-your-day/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Rumores indicam que o Apple Watch usará o microfone para captar áudio ao longo do dia e produzir resumos diários com inteligência artificial, incluindo conversas, músicas e sons do ambiente. A Apple ainda não confirmou oficialmente a função. Afeta usuários do relógio e levanta preocupações de privacidade.",
-    "reasonEn": "Rumors indicate the Apple Watch will use its microphone to capture audio throughout the day and generate daily AI summaries of conversations, music, and ambient sounds. Apple has not officially confirmed the feature. It affects watch users and raises privacy concerns.",
-    "score": 0.6,
-    "tags": [
-      "apple",
-      "rumor",
-      "privacidade"
-    ],
-    "img": "img/76457e3387f7.jpg",
-    "ts": 1788959368,
-    "addedTs": 1788962558,
-    "urlHash": "76457e3387f7",
-    "titleHash": "3019b08bcad2"
-  },
-  {
-    "title": "Students who use AI generally score worse at school",
-    "titlePt": "Estudantes que usam IA geralmente tiram notas piores na escola",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "Um estudo recente mostra que estudantes que usam ferramentas de IA para tarefas costumam ter desempenho pior em avaliações próprias. A pesquisa sugere que depender da IA reduz o aprendizado real e a retenção de conteúdo. O resultado preocupa escolas que já permitem o uso de IA. Afeta alunos, professores e formuladores de políticas educacionais.",
-    "reasonEn": "A recent study shows students who use AI tools for assignments generally perform worse on their own assessments. The research suggests relying on AI reduces real learning and content retention. The result concerns schools that already allow AI use. It affects students, teachers, and education policymakers.",
-    "score": 0.75,
-    "tags": [
-      "educação",
-      "estudo",
-      "ia"
-    ],
-    "img": "img/f165b33b514a.jpg",
-    "ts": 1788959344,
-    "addedTs": 1788962558,
-    "urlHash": "f165b33b514a",
-    "titleHash": "cec680ce34cd"
-  },
-  {
-    "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
-    "titlePt": "Sequoia aposta de novo na Cymphony com a chegada de novos riscos de segurança corporativa",
-    "url": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A Sequoia Capital dobrou a aposta na Cymphony, startup focada em segurança corporativa para a era dos agentes de IA autônomos. O investimento reconhece que empresas enfrentam novos vetores de ataque. Agentes que executam ações abrem brechas que ferramentas tradicionais não cobrem. Sinaliza tendência de mercado em proteger infraestrutura de IA.",
-    "reasonEn": "Sequoia Capital doubled down on Cymphony, a startup focused on enterprise security for the era of autonomous AI agents. The investment acknowledges companies face new attack vectors. Agents that execute actions open gaps traditional tools don't cover. It signals a market trend toward protecting AI infrastructure.",
-    "score": 0.5,
-    "tags": [
-      "segurança",
-      "investimento",
-      "agentes"
-    ],
-    "img": "img/0853b7237e63.jpg",
-    "ts": 1788958800,
-    "addedTs": 1788962558,
-    "urlHash": "0853b7237e63",
-    "titleHash": "3e20903ca859"
-  },
-  {
-    "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
-    "titlePt": "Suno troca modelos de IA por versão treinada em música licenciada",
-    "url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A Suno substituiu seus modelos de IA musical por uma nova versão treinada apenas em música com licenciamento confirmado. A mudança ocorre em meio a processos por direitos autorais que se acumulam contra a empresa. A nova versão busca reduzir riscos legais e oferecer garantias a artistas. Sinaliza que o setor de música gerada por IA tenta se ajustar à pressão regulatória.",
-    "reasonEn": "Suno replaced its music AI models with a new version trained only on licensed music. The change comes amid accumulating copyright lawsuits against the company. The new version aims to reduce legal risks and offer guarantees to artists. It signals that AI-generated music is trying to adjust to regulatory pressure.",
-    "score": 0.7,
-    "tags": [
-      "música",
-      "direitos autorais",
-      "modelo"
-    ],
-    "img": "img/606e9bc7b6ea.jpg",
-    "ts": 1788955534,
-    "addedTs": 1788962558,
-    "urlHash": "606e9bc7b6ea",
-    "titleHash": "d80df921c690"
-  },
-  {
-    "title": "What OpenAI’s latest controversy tells us about the future of math",
-    "titlePt": "O que a polêmica mais recente da OpenAI revela sobre o futuro da matemática",
-    "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-    "source": "MIT Tech Review",
-    "sources": [
-      "MIT Tech Review"
-    ],
-    "reason": "Análise da MIT Technology Review discute o que a controvérsia em torno do feito matemático da OpenAI significa para o futuro da matemática. O texto examina como ferramentas de IA mudam a forma de fazer pesquisa e validar resultados. Especialistas debatem se a descoberta foi genuína ou supervalorizada. Leitura essencial para entender o impacto da IA na ciência.",
-    "reasonEn": "MIT Technology Review analyzes what the controversy around OpenAI's math achievement means for the future of mathematics. The piece examines how AI tools change how research is conducted and results validated. Experts debate whether the discovery was genuine or overhyped. Essential reading for understanding AI's impact on science.",
-    "score": 0.8,
-    "tags": [
-      "openai",
-      "matemática",
-      "análise"
-    ],
-    "img": "img/0a4b07bbaef5.jpg",
-    "ts": 1788923408,
-    "addedTs": 1788962558,
-    "urlHash": "0a4b07bbaef5",
-    "titleHash": "6bbc31710a01"
   }
 ]
