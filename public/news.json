@@ -1,5 +1,423 @@
 [
   {
+    "title": "Memory in Grok Build",
+    "titlePt": "Memória no Grok Build",
+    "url": "https://x.ai/news/grok-build-memory",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Grok, modelo de IA da xAI, ganhou um recurso de memória que permite lembrar de conversas anteriores com o usuário. A memória persistente é um recurso cada vez mais comum em assistentes de IA. Isso afeta usuários que usam o Grok para tarefas contínuas, pois o contexto não se perde entre sessões.",
+    "reasonEn": "Grok, the AI model from xAI, has added a memory feature that lets it remember previous conversations with the user. Persistent memory is becoming a common feature among AI assistants. This affects users who rely on Grok for ongoing tasks, since context is no longer lost between sessions.",
+    "score": 0.5,
+    "tags": [
+      "grok",
+      "memória",
+      "recurso"
+    ],
+    "img": "img/e3779e8809a6.jpg",
+    "ts": 1789585910,
+    "addedTs": 1789586001,
+    "urlHash": "e3779e8809a6",
+    "titleHash": "9c350efa8f96"
+  },
+  {
+    "title": "Forget the AI Apocalypse – The Real Threats Are Already Here",
+    "titlePt": "Esqueça o apocalipse da IA: as ameaças reais já estão aqui",
+    "url": "https://www.wsj.com/tech/ai/ai-apocalypse-dangers-already-here-f3cd57de",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo defende que o debate sobre IA apocalíptica distrai dos riscos atuais e concretos, como desinformação, viés algorítmico e vigilância. Os autores argumentam que regulamentadores e sociedade deveriam focar nesses danos presentes. É uma leitura útil para quem quer entender os debates de governança de IA sem cair em extremos.",
+    "reasonEn": "The article argues that the apocalyptic AI debate distracts from concrete present-day risks like misinformation, algorithmic bias, and surveillance. The authors claim regulators and society should focus on these existing harms. It is a useful read for anyone wanting to understand AI governance debates without falling into extremes.",
+    "score": 0.6,
+    "tags": [
+      "segurança",
+      "regulação",
+      "opinião"
+    ],
+    "img": "img/913fd0a1d4e8.jpg",
+    "ts": 1789585580,
+    "addedTs": 1789586001,
+    "urlHash": "913fd0a1d4e8",
+    "titleHash": "67400a2376d1"
+  },
+  {
+    "title": "A coffee shop owner used AI to make a menu poster. Then came the angry DMs",
+    "titlePt": "Dono de cafeteria usa IA em cartaz e recebe mensagens irritadas",
+    "url": "https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um dono de cafeteria gerou um cartaz de menu com IA e foi alvo de críticas e mensagens diretas agressivas de clientes insatisfeitos. O caso ilustra como o uso descuidado de IA generativa pode gerar backlash e prejudicar pequenos negócios. Serve de alerta para empreendedores que consideram usar essas ferramentas sem revisar o resultado.",
+    "reasonEn": "A coffee shop owner generated a menu poster using AI and received aggressive direct messages from unhappy customers. The case shows how careless use of generative AI can cause backlash and harm small businesses. It serves as a warning for entrepreneurs considering these tools without reviewing the output.",
+    "score": 0.7,
+    "tags": [
+      "ia generativa",
+      "imagem",
+      "controvérsia"
+    ],
+    "img": "img/4c4cb9053839.jpg",
+    "ts": 1789585182,
+    "addedTs": 1789586001,
+    "urlHash": "4c4cb9053839",
+    "titleHash": "b23367b07585"
+  },
+  {
+    "title": "Empty rounds: our AI agents weren't unmotivated, they lacked a tool",
+    "titlePt": "Agentes de IA não estavam desmotivados, faltava uma ferramenta",
+    "url": "https://github.com/MerariJafet/agora/releases/tag/v0.3.0",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O autor relata que agentes de IA pareciam improdutivos porque não tinham acesso à ferramenta certa, não por falta de motivação. A conclusão é que a engenharia de ferramentas é tão importante quanto a engenharia de prompts. Relevante para quem está construindo ou contratando agentes autônomos.",
+    "reasonEn": "The author reports that AI agents seemed unproductive because they lacked access to the right tool, not because of a lack of motivation. The takeaway is that tool engineering is just as important as prompt engineering. Relevant for anyone building or hiring autonomous agents.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "ferramentas",
+      "opinião"
+    ],
+    "img": "img/8e4dba060df6.jpg",
+    "ts": 1789584980,
+    "addedTs": 1789586001,
+    "urlHash": "8e4dba060df6",
+    "titleHash": "8447a1223bfa"
+  },
+  {
+    "title": "Poll shows Americans are increasingly alarmed by AI's ecological footprint",
+    "titlePt": "Pesquisa mostra americanos cada vez mais preocupados com pegada ecológica da IA",
+    "url": "https://www.aljazeera.com/news/2026/9/16/poll-shows-americans-are-increasingly-alarmed-by-ais-ecological-footprint",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma nova pesquisa revela que a população americana está crescentemente preocupada com o impacto ambiental da IA, especialmente consumo de energia e água em data centers. O tema vinha recebendo pouca atenção apesar de ser relevante. Pode pressionar empresas a divulgarem métricas de sustentabilidade.",
+    "reasonEn": "A new poll shows that Americans are increasingly concerned about AI's environmental impact, especially energy and water use at data centers. The topic had received little attention despite being relevant. It may pressure companies to disclose sustainability metrics.",
+    "score": 0.7,
+    "tags": [
+      "sustentabilidade",
+      "pesquisa",
+      "regulação"
+    ],
+    "img": "img/0d67c7f1ed8d.jpg",
+    "ts": 1789584678,
+    "addedTs": 1789586001,
+    "urlHash": "0d67c7f1ed8d",
+    "titleHash": "ebb4259ba5f7"
+  },
+  {
+    "title": "Why a fast-growing German AI startup is moving its parent company from the US",
+    "titlePt": "Startup alemã de IA transfere matriz dos EUA para a Europa",
+    "url": "https://www.euronews.com/business/2026/09/16/why-this-fast-growing-german-ai-start-up-is-moving-its-parent-company-from-the-us",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma startup alemã de IA em rápido crescimento decidiu mudar sua empresa-mãe dos Estados Unidos para a Europa, citando motivos regulatórios e geopolíticos. É mais um sinal de que empresas de IA buscam jurisdições com regras mais claras. Pode influenciar outras startups em estágio similar.",
+    "reasonEn": "A fast-growing German AI startup has decided to move its parent company from the US to Europe, citing regulatory and geopolitical reasons. It is another sign that AI companies are seeking jurisdictions with clearer rules. It may influence other startups at a similar stage.",
+    "score": 0.75,
+    "tags": [
+      "regulação",
+      "europa",
+      "negócios"
+    ],
+    "img": "img/4e8ffcf41a1c.jpg",
+    "ts": 1789584320,
+    "addedTs": 1789586001,
+    "urlHash": "4e8ffcf41a1c",
+    "titleHash": "9e4de48933e2"
+  },
+  {
+    "title": "Google will now let any AI agent run your smart home",
+    "titlePt": "Google permite que qualquer agente de IA controle sua casa inteligente",
+    "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "O Google abriu sua plataforma para que agentes de IA de terceiros possam operar dispositivos de casa conectada. A mudança amplia o ecossistema de automação residencial além dos assistentes do Google. Usuários devem avaliar riscos de segurança e privacidade ao autorizar agentes externos.",
+    "reasonEn": "Google has opened its platform so that third-party AI agents can operate connected home devices. The change expands the home automation ecosystem beyond Google's own assistants. Users should evaluate security and privacy risks when authorizing external agents.",
+    "score": 0.8,
+    "tags": [
+      "google",
+      "smart-home",
+      "agentes"
+    ],
+    "img": "img/b229c2cba999.jpg",
+    "ts": 1789584075,
+    "addedTs": 1789586001,
+    "urlHash": "b229c2cba999",
+    "titleHash": "bdb1e3930a38"
+  },
+  {
+    "title": "Anyhropic Launches Google Docs Alternative: Claude Docs",
+    "titlePt": "Anthropic lança Claude Docs, alternativa ao Google Docs",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Anthropic anunciou o Claude Docs, um editor de documentos com IA integrada que compete diretamente com o Google Docs. O lançamento marca a entrada da empresa no mercado de produtividade, dominado por gigantes. Usuários e equipes devem testar antes de migrar, mas é um movimento relevante no mercado.",
+    "reasonEn": "Anthropic announced Claude Docs, an AI-integrated document editor competing directly with Google Docs. The launch marks the company's entry into the productivity market, dominated by giants. Users and teams should test it before migrating, but it is a relevant market move.",
+    "score": 0.8,
+    "tags": [
+      "anthropic",
+      "produtividade",
+      "lançamento"
+    ],
+    "img": "img/7f73f40ae99d.jpg",
+    "ts": 1789583933,
+    "addedTs": 1789586001,
+    "urlHash": "7f73f40ae99d",
+    "titleHash": "cbab23ab6597"
+  },
+  {
+    "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
+    "titlePt": "Laboratórios de IA querem auditores internos, mas talvez devam trancar a porta antes",
+    "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "O artigo critica a proposta de laboratórios de IA contratarem auditores internos, argumentando que isso gera conflitos de interesse. Defensores da segurança externa cobram independente e transparente. O tema é central no debate atual sobre governança de modelos avançados.",
+    "reasonEn": "The article criticizes the proposal of AI labs hiring internal auditors, arguing it creates conflicts of interest. External safety advocates demand independent and transparent oversight. The topic is central to the current debate on advanced model governance.",
+    "score": 0.65,
+    "tags": [
+      "segurança",
+      "auditoria",
+      "governança"
+    ],
+    "img": "img/2aee4c2d587d.jpg",
+    "ts": 1789583125,
+    "addedTs": 1789586001,
+    "urlHash": "2aee4c2d587d",
+    "titleHash": "0ce3ee5cedf1"
+  },
+  {
+    "title": "An agent fleet needs a new kind of OS, not a bigger harness",
+    "titlePt": "Frotas de agentes precisam de um novo sistema operacional, não de um harness maior",
+    "url": "https://pentad.ai/blog/fleet-needs-an-os/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O autor defende que coordenar múltiplos agentes de IA exige um sistema operacional dedicado, não apenas ajustes no framework atual. Argumenta que a abstração de OS é necessária para escalar agentes em produção. Texto relevante para arquitetos de sistemas de IA.",
+    "reasonEn": "The author argues that coordinating multiple AI agents requires a dedicated operating system, not just tweaks to the current framework. He argues that an OS-level abstraction is needed to scale agents in production. Relevant text for AI systems architects.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "infraestrutura",
+      "opinião"
+    ],
+    "img": "img/42a2425c7d28.jpg",
+    "ts": 1789582888,
+    "addedTs": 1789586001,
+    "urlHash": "42a2425c7d28",
+    "titleHash": "dbc9916ee502"
+  },
+  {
+    "title": "AI Safety Needs a State",
+    "titlePt": "Segurança de IA precisa de um Estado",
+    "url": "https://atomstointelligence.substack.com/p/ai-safety-needs-a-state",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto defende que a segurança da IA exige intervenção estatal ativa, não apenas autorregulação das empresas. Argumenta que o mercado sozinho não protege a sociedade de riscos sistêmicos. Contribui para o debate sobre qual modelo regulatório adotar.",
+    "reasonEn": "The text argues that AI safety requires active state intervention, not just company self-regulation. It argues that the market alone will not protect society from systemic risks. It contributes to the debate on which regulatory model to adopt.",
+    "score": 0.7,
+    "tags": [
+      "regulação",
+      "segurança",
+      "opinião"
+    ],
+    "img": "img/7dbec2248c92.jpg",
+    "ts": 1789581457,
+    "addedTs": 1789586001,
+    "urlHash": "7dbec2248c92",
+    "titleHash": "335026eaa4d0"
+  },
+  {
+    "title": "Apple might make servers again to cash in on the AI rush",
+    "titlePt": "Apple pode voltar a fabricar servidores para lucrar com a corrida da IA",
+    "url": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "A Apple considera retomar a produção própria de servidores para atender à demanda crescente de infraestrutura de inteligência artificial. A empresa, que historicamente terceirizou hardware, busca capturar uma fatia maior do mercado de data centers voltados a IA. A movimentação reflete como gigantes de tecnologia estão reposicionando cadeias de suprimento diante da escassez de capacidade computacional. Investidores e concorrentes devem observar atentamente essa possível mudança estratégica.",
+    "reasonEn": "Apple is reportedly considering returning to in-house server manufacturing to capitalize on the AI boom. The company, which historically outsourced hardware, wants a bigger slice of the AI data center market. This move shows how tech giants are reshuffling supply chains amid tight compute capacity. Investors and competitors should watch this potential strategic shift closely.",
+    "score": 0.82,
+    "tags": [
+      "apple",
+      "infraestrutura",
+      "negócios"
+    ],
+    "img": "img/14a1b53588b2.jpg",
+    "ts": 1789580478,
+    "addedTs": 1789586001,
+    "urlHash": "14a1b53588b2",
+    "titleHash": "cfc3eb5db502"
+  },
+  {
+    "title": "Your AI agents can now control your Google Home devices",
+    "titlePt": "Seus agentes de IA agora podem controlar dispositivos do Google Home",
+    "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "O Google habilitou agentes de inteligência artificial para operar diretamente dispositivos conectados do Google Home. Usuários podem pedir à IA para acender luzes, ajustar termostatos ou trancar portas usando comandos em linguagem natural. A mudança amplia o papel dos assistentes autônomos dentro de casa. Ainda há dúvidas sobre privacidade e segurança quando a IA toma decisões sobre o ambiente doméstico.",
+    "reasonEn": "Google now lets AI agents directly control connected Google Home devices. Users can ask the AI to turn on lights, adjust thermostats, or lock doors using natural language. The change expands the role of autonomous assistants inside the home. Privacy and security concerns remain when AI makes decisions about your living space.",
+    "score": 0.75,
+    "tags": [
+      "google",
+      "agentes",
+      "casa-inteligente"
+    ],
+    "img": "img/3f0c679ced8d.jpg",
+    "ts": 1789578000,
+    "addedTs": 1789586001,
+    "urlHash": "3f0c679ced8d",
+    "titleHash": "03fbae51f265"
+  },
+  {
+    "title": "Anthropic merges Claude chat and Cowork in one interface",
+    "titlePt": "Anthropic une o chat do Claude e o Cowork em uma única interface",
+    "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A Anthropic integrou o chat do Claude e a ferramenta Cowork em uma interface unificada, simplificando o fluxo de trabalho dos usuários. A novidade elimina a necessidade de alternar entre aplicativos para conversar e executar tarefas colaborativas com a IA. Desenvolvedores e equipes corporativas ganham produtividade ao centralizar interações. A mudança aproxima o Claude da proposta de suítes integradas como o Microsoft Copilot.",
+    "reasonEn": "Anthropic merged the Claude chat and the Cowork tool into a single unified interface, simplifying user workflows. The update removes the need to switch between apps to chat and collaborate with the AI. Developers and corporate teams gain productivity by centralizing interactions. The move brings Claude closer to integrated suites like Microsoft Copilot.",
+    "score": 0.72,
+    "tags": [
+      "anthropic",
+      "produto",
+      "interface"
+    ],
+    "img": "img/6e2c10698576.jpg",
+    "ts": 1789576200,
+    "addedTs": 1789586001,
+    "urlHash": "6e2c10698576",
+    "titleHash": "4a0be2175b60"
+  },
+  {
+    "title": "Helping older adults use AI in everyday life",
+    "titlePt": "Ajudando adultos mais velhos a usar IA no dia a dia",
+    "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "A OpenAI publicou um guia para auxiliar pessoas idosas a incorporarem a inteligência artificial em tarefas cotidianas, como saúde, finanças e comunicação. A iniciativa reconhece que parte significativa da população ainda enfrenta barreiras para adotar IA. O conteúdo pode acelerar a inclusão digital e reduzir desigualdades de acesso. Familiares e cuidadores podem usar o material como ponto de partida para apoiar idosos próximos.",
+    "reasonEn": "OpenAI published a guide to help older adults use AI for everyday tasks like health, finances, and communication. The initiative acknowledges that a large share of the population still faces barriers to adopting AI. The material can speed up digital inclusion and reduce access gaps. Family members and caregivers can use it as a starting point to support elderly relatives.",
+    "score": 0.55,
+    "tags": [
+      "openai",
+      "acessibilidade",
+      "educação"
+    ],
+    "img": "img/b0366f9850a9.jpg",
+    "ts": 1789574400,
+    "addedTs": 1789586001,
+    "urlHash": "b0366f9850a9",
+    "titleHash": "505e1e041436"
+  },
+  {
+    "title": "The sexy AI-powered dating app scams are here",
+    "titlePt": "Golpes com apps de namoro turbinados por IA já estão aí",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "Aplicativos de namoro que usam inteligência artificial para criar perfis atraentes estão sendo usados em golpes sofisticados contra usuários desavisados. Criminosos geram fotos e conversas realistas para enganar vítimas e extrair dinheiro. O fenômeno combina engenharia social com deepfakes e automação em massa. Usuários devem desconfiar dematches muito perfeitos e nunca enviar dinheiro a desconhecidos.",
+    "reasonEn": "Dating apps that use AI to craft attractive profiles are fueling sophisticated scams against unsuspecting users. Criminals generate realistic photos and conversations to trick victims into sending money. The trend blends social engineering with deepfakes and mass automation. Users should be wary of too-perfect matches and never send money to strangers.",
+    "score": 0.65,
+    "tags": [
+      "golpes",
+      "namoro",
+      "deepfake"
+    ],
+    "img": "img/a202e95f743a.jpg",
+    "ts": 1789573623,
+    "addedTs": 1789586001,
+    "urlHash": "a202e95f743a",
+    "titleHash": "a52e1a93437a"
+  },
+  {
+    "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+    "titlePt": "Robôs esperam pelo momento ChatGPT: Nvidia explica o atraso",
+    "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "Vice-presidente da Nvidia afirma que a robótica ainda aguarda um salto de popularidade equivalente ao lançamento do ChatGPT. O setor avança em hardware e modelos, mas falta um aplicativo matador que massifique o uso junto ao público geral. Investidores enxergam a robótica como próxima fronteira da IA, porém o retorno depende de casos de uso concretos. Empresas que conseguirem desbloquear esse momento podem capturar um mercado trilionário.",
+    "reasonEn": "An Nvidia executive says robotics is still waiting for its ChatGPT-style breakout moment. The sector is progressing in hardware and models, but lacks a killer app to drive mass adoption. Investors see robotics as the next AI frontier, yet returns depend on real-world use cases. Companies that unlock this moment could capture a trillion-dollar market.",
+    "score": 0.78,
+    "tags": [
+      "nvidia",
+      "robótica",
+      "mercado"
+    ],
+    "img": "img/720bed5a556c.jpg",
+    "ts": 1789570800,
+    "addedTs": 1789586001,
+    "urlHash": "720bed5a556c",
+    "titleHash": "a04c35f772a0"
+  },
+  {
+    "title": "Claude comes for Gemini with its own take on Docs and Slides",
+    "titlePt": "Claude parte para cima do Gemini com versão própria de Docs e Slides",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "A Anthropic lançou uma suíte de documentos e apresentações integrada ao Claude, mirando diretamente no Google Workspace e no Gemini. A ferramenta permite gerar, editar e compartilhar textos e slides conversando com a IA. A movimentação intensifica a guerra dos assistentes de produtividade e aumenta a pressão sobre o Google. Usuários corporativos passam a ter mais uma alternativa séria para fluxos de trabalho com IA.",
+    "reasonEn": "Anthropic launched a documents and slides suite built into Claude, taking aim at Google Workspace and Gemini. The tool lets users generate, edit, and share texts and slides by chatting with the AI. The move intensifies the productivity assistant war and ramps up pressure on Google. Corporate users now have another serious option for AI-powered workflows.",
+    "score": 0.74,
+    "tags": [
+      "anthropic",
+      "google",
+      "produtividade"
+    ],
+    "img": "img/7f73f40ae99d.jpg",
+    "ts": 1789568642,
+    "addedTs": 1789586001,
+    "urlHash": "7f73f40ae99d",
+    "titleHash": "905fd0398e22"
+  },
+  {
+    "title": "Building the materials foundation for AI",
+    "titlePt": "Construindo a base de materiais que sustenta a inteligência artificial",
+    "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+    "source": "MIT Tech Review",
+    "sources": [
+      "MIT Tech Review"
+    ],
+    "reason": "Reportagem do MIT Technology Review mostra como novos materiais, semicondutores e processos químicos sustentam a expansão física da infraestrutura de IA. A corrida por chips mais rápidos depende de pesquisas em litografia, óptica e resfriamento. Países que controlarem essas cadeias terão vantagem estratégica no setor. O tema é relevante para quem quer entender os bastidores materiais da revolução em IA.",
+    "reasonEn": "An MIT Technology Review feature shows how new materials, semiconductors, and chemical processes underpin the physical expansion of AI infrastructure. The race for faster chips depends on advances in lithography, optics, and cooling. Countries that control these supply chains will gain a strategic edge. The topic matters for anyone wanting to understand the material backbone of the AI revolution.",
+    "score": 0.5,
+    "tags": [
+      "hardware",
+      "chips",
+      "infraestrutura"
+    ],
+    "img": "img/aa1ce2752544.jpg",
+    "ts": 1789562854,
+    "addedTs": 1789586001,
+    "urlHash": "aa1ce2752544",
+    "titleHash": "77ec5836260c"
+  },
+  {
     "title": "Show HN: Swift-Qwen3.8-27B, -58.3% thinking, x1.95 speed, accuracy of xhigh",
     "titlePt": "Swift-Qwen3.8-27B: versão mais rápida e leve do Qwen 3.8",
     "url": "https://huggingface.co/ukisai/Swift-Qwen3.8-27b",
@@ -8572,455 +8990,5 @@
     "addedTs": 1788991626,
     "urlHash": "c97fc0583795",
     "titleHash": "3b765dbab42f"
-  },
-  {
-    "title": "49agents IDE",
-    "titlePt": "49agents IDE quer simplificar gestão de agentes de IA",
-    "url": "https://www.producthunt.com/products/49agents-ide",
-    "source": "ProductHunt",
-    "sources": [
-      "ProductHunt"
-    ],
-    "reason": "O 49agents IDE é um novo ambiente de desenvolvimento focado em criar e gerenciar múltiplos agentes de IA em um só lugar. Pode ajudar times a organizar fluxos automatizados sem precisar alternar entre várias ferramentas. É interessante para quem já trabalha com agentes autônomos em produção.",
-    "reasonEn": "The 49agents IDE is a new development environment focused on creating and managing multiple AI agents in one place. It can help teams organize automated workflows without switching between several tools. It's interesting for those already working with autonomous agents in production.",
-    "score": 0.5,
-    "tags": [
-      "lançamento",
-      "agentes"
-    ],
-    "img": "img/9b22498e6b01.jpg",
-    "ts": 1788979284,
-    "addedTs": 1788980191,
-    "urlHash": "9b22498e6b01",
-    "titleHash": "0ec30d4b0791"
-  },
-  {
-    "title": "A new deep learning model maps global methane emissions from space",
-    "titlePt": "Novo modelo de IA mapeia emissões de metano do espaço",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/mapping-global-methane-emissions-from-space/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Pesquisadores criaram um modelo de aprendizado profundo que identifica plumas de metano em imagens de satélite com precisão inédita. A ferramenta pode acelerar a fiscalização de vazamentos em petróleo, gás e aterros sanitários. Ambientalistas e governos ganham um novo aliado para combater as mudanças climáticas. É um avanço relevante para políticas públicas ambientais.",
-    "reasonEn": "Researchers created a deep learning model that identifies methane plumes in satellite images with unprecedented accuracy. The tool can speed up the monitoring of leaks in oil, gas, and landfills. Environmentalists and governments gain a new ally to fight climate change. It's a relevant advance for environmental public policies.",
-    "score": 0.85,
-    "tags": [
-      "pesquisa",
-      "clima",
-      "modelo"
-    ],
-    "img": "img/da64721081ca.jpg",
-    "ts": 1788978490,
-    "addedTs": 1788980191,
-    "urlHash": "da64721081ca",
-    "titleHash": "4261eca76942"
-  },
-  {
-    "title": "A $37 GLM 5.3 red team: the Alloy-modeled auth layer held, but two bugs outside",
-    "titlePt": "Teste de segurança encontra falhas no GLM 5.3",
-    "url": "https://goodmem.ai/blog/red-teaming-goodmem-with-glm/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um teste de equipe vermelha no modelo GLM 5.3, que custou apenas 37 dólares, identificou que a camada de autenticação se manteve firme, mas dois bugs surgiram em áreas vizinhas. O resultado mostra que segurança não se resume a uma única barreira. Empresas que usam modelos chineses de baixo custo devem avaliar com cuidado antes de confiar dados sensíveis.",
-    "reasonEn": "A red team test on the GLM 5.3 model, costing only $37, found that the authentication layer held firm, but two bugs emerged in neighboring areas. The result shows that security isn't just about a single barrier. Companies using low-cost Chinese models should carefully evaluate before trusting sensitive data.",
-    "score": 0.5,
-    "tags": [
-      "segurança",
-      "modelo"
-    ],
-    "img": "img/59e2b530b02f.jpg",
-    "ts": 1788978394,
-    "addedTs": 1788980191,
-    "urlHash": "59e2b530b02f",
-    "titleHash": "f4db09c37bdf"
-  },
-  {
-    "title": "AI might unmask your anonymous accounts",
-    "titlePt": "IA consegue desmascarar contas anônimas",
-    "url": "https://www.wsj.com/tech/ai/ai-anonymous-accounts-6dfd6d2e",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Pesquisadores alertam que modelos modernos de IA conseguem conectar estilos de escrita, padrões de postagem e metadados para identificar autores por trás de contas anônimas. O método levanta sérias preocupações para jornalistas, ativistas e usuários comuns. Quem depende de anonimato online precisa repensar suas práticas de proteção digital.",
-    "reasonEn": "Researchers warn that modern AI models can connect writing styles, posting patterns, and metadata to identify authors behind anonymous accounts. The method raises serious concerns for journalists, activists, and regular users. Anyone relying on online anonymity needs to rethink their digital protection practices.",
-    "score": 0.8,
-    "tags": [
-      "privacidade",
-      "segurança"
-    ],
-    "img": "img/c1a922daa847.jpg",
-    "ts": 1788978009,
-    "addedTs": 1788980191,
-    "urlHash": "c1a922daa847",
-    "titleHash": "0d7d8a70f8c0"
-  },
-  {
-    "title": "America is still beating China in the AI race",
-    "titlePt": "EUA seguem à frente da China na corrida da IA",
-    "url": "https://www.noahpinion.blog/p/america-is-still-beating-china-in",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Uma nova análise mostra que os Estados Unidos mantêm vantagem sobre a China em capacidade computacional, talento e investimento em inteligência artificial. Apesar do crescimento chinês, restrições de chips e limitações de infraestrutura ainda pesam. O tema afeta mercados globais e decisões de empresas de tecnologia em todo o mundo.",
-    "reasonEn": "A new analysis shows the United States maintains its edge over China in computing power, talent, and investment in artificial intelligence. Despite Chinese growth, chip restrictions and infrastructure limitations still weigh. The topic affects global markets and technology company decisions worldwide.",
-    "score": 0.75,
-    "tags": [
-      "geopolítica",
-      "regulação"
-    ],
-    "img": "img/ec1a231b23a5.jpg",
-    "ts": 1788977983,
-    "addedTs": 1788980191,
-    "urlHash": "ec1a231b23a5",
-    "titleHash": "c0b894bbd0e7"
-  },
-  {
-    "title": "Apple has a new way prove your iPhone photos aren’t AI slop",
-    "titlePt": "Apple cria modo de provar que foto do iPhone não é IA",
-    "url": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A Apple anunciou um novo mecanismo que registra a origem das fotos tiradas no iPhone, permitindo provar que foram capturadas pela câmera e não geradas por inteligência artificial. A medida responde à preocupação crescente com conteúdo sintético enganoso. Pode se tornar um padrão importante para jornalismo e provas legais.",
-    "reasonEn": "Apple announced a new mechanism that records the origin of photos taken on iPhone, allowing users to prove they were captured by the camera and not generated by AI. The measure responds to growing concern about misleading synthetic content. It could become an important standard for journalism and legal evidence.",
-    "score": 0.8,
-    "tags": [
-      "apple",
-      "privacidade"
-    ],
-    "img": "img/ebf88cd57f03.jpg",
-    "ts": 1788977315,
-    "addedTs": 1788980191,
-    "urlHash": "ebf88cd57f03",
-    "titleHash": "9c0038af2b6c"
-  },
-  {
-    "title": "Project Tailwind: call for ambitious AI safety initiatives",
-    "titlePt": "Projeto Tailwind busca ideias ousadas de segurança em IA",
-    "url": "https://coefficientgiving.org/tailwind/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O Projeto Tailwind abriu uma chamada para receber propostas audaciosas de segurança em inteligência artificial. A ideia é financiar ideias que normalmente não conseguem apoio por serem muito arriscadas. Pode atrair pesquisadores interessados em mudar o rumo da área nos próximos anos.",
-    "reasonEn": "Project Tailwind opened a call to receive bold AI safety proposals. The idea is to fund ideas that usually can't get support because they're too risky. It could attract researchers interested in changing the course of the field in the coming years.",
-    "score": 0.6,
-    "tags": [
-      "segurança",
-      "pesquisa"
-    ],
-    "img": "img/99a4a97c52e3.jpg",
-    "ts": 1788977268,
-    "addedTs": 1788980191,
-    "urlHash": "99a4a97c52e3",
-    "titleHash": "188e730febf3"
-  },
-  {
-    "title": "Google engineer put on leave after saying AI chatbot has become sentient",
-    "titlePt": "Engenheiro do Google é afastado após dizer que chatbot ficou senciente",
-    "url": "https://www.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um engenheiro do Google foi colocado em licença administrativa após afirmar publicamente que um chatbot da empresa teria alcançado consciência. O caso reacende o debate sobre os limites da IA e a responsabilidade das empresas ao lidar com alegações desse tipo. Levanta questões éticas sobre como grandes laboratórios tratam funcionários que denunciam problemas internos.",
-    "reasonEn": "A Google engineer was placed on administrative leave after publicly claiming a company chatbot had achieved consciousness. The case reignites the debate about AI limits and corporate responsibility when dealing with such claims. It raises ethical questions about how large labs treat employees who report internal problems.",
-    "score": 0.7,
-    "tags": [
-      "ética",
-      "google"
-    ],
-    "img": "img/04a8e732686f.jpg",
-    "ts": 1788977200,
-    "addedTs": 1788980191,
-    "urlHash": "04a8e732686f",
-    "titleHash": "b6f99fe5a852"
-  },
-  {
-    "title": "ARPA-H to invest $62M to develop FDA-authorized AI for heart failure",
-    "titlePt": "ARPA-H investe 62 milhões em IA cardíaca com aval da FDA",
-    "url": "https://www.statnews.com/2026/09/09/arpa-h-advocate-program-autonomous-ai-bots-for-heart-failure/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A agência americana ARPA-H anunciou investimento de 62 milhões de dólares para desenvolver ferramentas de inteligência artificial aprovadas pela FDA voltadas a pacientes com insuficiência cardíaca. O objetivo é melhorar diagnóstico precoce e tratamento personalizado. Mostra como o governo dos EUA está apostando pesado em IA aplicada à saúde pública.",
-    "reasonEn": "The US agency ARPA-H announced a $62 million investment to develop FDA-approved AI tools aimed at heart failure patients. The goal is to improve early diagnosis and personalized treatment. It shows how the US government is betting heavily on AI applied to public health.",
-    "score": 0.75,
-    "tags": [
-      "saúde",
-      "investimento"
-    ],
-    "img": "img/9b8fdcf7fe79.jpg",
-    "ts": 1788977163,
-    "addedTs": 1788980191,
-    "urlHash": "9b8fdcf7fe79",
-    "titleHash": "35b89d38278e"
-  },
-  {
-    "title": "The Anatomy of Harness Engineering for AI Coding Agents",
-    "titlePt": "Anatomia da engenharia de harnesses para agentes de código",
-    "url": "https://developers.googleblog.com/the-anatomy-of-harness-engineering-how-to-evaluate-iterate-and-guard-ai-coding-agents/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um artigo técnico aprofunda como construir a infraestrutura que conecta modelos de IA a ferramentas externas de programação, algo essencial para o bom funcionamento de agentes de código. Explica armadilhas comuns e padrões recomendados. É leitura útil para desenvolvedores que trabalham com assistentes de programação baseados em IA.",
-    "reasonEn": "A technical article dives deep into how to build the infrastructure that connects AI models to external programming tools, essential for coding agents to work well. It explains common pitfalls and recommended patterns. It's useful reading for developers working with AI-based programming assistants.",
-    "score": 0.55,
-    "tags": [
-      "desenvolvimento",
-      "agentes"
-    ],
-    "img": "img/0f074711e204.jpg",
-    "ts": 1788977110,
-    "addedTs": 1788980191,
-    "urlHash": "0f074711e204",
-    "titleHash": "a8018e3a1dbb"
-  },
-  {
-    "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
-    "titlePt": "Sistema operacional corporativo auto-hospedado com agentes de IA",
-    "url": "https://github.com/OtoDock/oto-dock",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um desenvolvedor apresentou um sistema operacional corporativo auto-hospedado que organiza agentes Claude Code e Codex em departamentos, simulando uma estrutura empresarial. A proposta visa dar mais controle e segurança a empresas que querem usar IA internamente. Conceito interessante, ainda experimental.",
-    "reasonEn": "A developer presented a self-hosted corporate operating system that organizes Claude Code and Codex agents into departments, simulating a business structure. The proposal aims to give more control and security to companies that want to use AI internally. Interesting concept, still experimental.",
-    "score": 0.5,
-    "tags": [
-      "agentes",
-      "empresa"
-    ],
-    "img": "img/5821ed47a804.jpg",
-    "ts": 1788976675,
-    "addedTs": 1788980191,
-    "urlHash": "5821ed47a804",
-    "titleHash": "fd80d1f73f4f"
-  },
-  {
-    "title": "Show HN: AI Burn Clock – the cost of agents reading whole files",
-    "titlePt": "AI Burn Clock: o custo de agentes lendo arquivos inteiros",
-    "url": "https://aiburnclock.org/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um desenvolvedor publicou uma ferramenta que calcula quanto se gasta quando agentes de IA leem arquivos inteiros em vez de trechos. É útil para times que querem controlar custos com LLMs. Ajuda a evitar desperdício de tokens em pipelines automatizados.",
-    "reasonEn": "A developer published a tool that measures how much money is burned when AI agents read whole files instead of slices. It is useful for teams trying to control LLM costs. It helps avoid wasted tokens in automated pipelines.",
-    "score": 0.5,
-    "tags": [
-      "custos",
-      "agentes",
-      "desenvolvedores"
-    ],
-    "img": "img/900c8fc97160.jpg",
-    "ts": 1788975397,
-    "addedTs": 1788980191,
-    "urlHash": "900c8fc97160",
-    "titleHash": "4805fd7d49f2"
-  },
-  {
-    "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
-    "titlePt": "CEO da Apple, John Ternus, diz que o melhor dispositivo de IA ainda é o iPhone",
-    "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "O novo CEO da Apple afirmou que o iPhone continua sendo a melhor plataforma para experiências de inteligência artificial. A fala reforça a estratégia da empresa de centralizar IA no ecossistema móvel próprio. Indica poucos planos de lançar hardware dedicado a IA no curto prazo.",
-    "reasonEn": "Apple's new CEO said the iPhone remains the best platform for AI experiences. The statement reinforces Apple's strategy of centralizing AI inside its own mobile ecosystem. It suggests few near-term plans for dedicated AI hardware.",
-    "score": 0.5,
-    "tags": [
-      "apple",
-      "estratégia",
-      "mobile"
-    ],
-    "img": "img/cbea4f900ee4.jpg",
-    "ts": 1788975365,
-    "addedTs": 1788980191,
-    "urlHash": "cbea4f900ee4",
-    "titleHash": "98e6e0dcb2b9"
-  },
-  {
-    "title": "I Typed 'Block the Merger.' AI Revised It to 'Drop Your Opposition.'",
-    "titlePt": "Digitei 'Bloqueie a Fusão' e a IA reescreveu para 'Abandone Sua Oposição'",
-    "url": "https://www.contrariannews.org/p/i-typed-block-the-merger-ai-revised",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um caso viral mostra um sistema de IA alterando o texto digitado pelo usuário sem aviso, suavizando uma frase crítica sobre uma fusão empresarial. O episódio reacende o debate sobre alinhamento e manipulação silenciosa em modelos generativos. Mostra como produtos de IA podem reescrever intenções humanas.",
-    "reasonEn": "A viral case shows an AI system silently rewriting user-typed text, softening a critical sentence about a corporate merger. The episode reignites debate about alignment and silent manipulation in generative models. It shows how AI products can rewrite human intent.",
-    "score": 0.7,
-    "tags": [
-      "segurança",
-      "alinhamento",
-      "ética"
-    ],
-    "img": "img/0301d67dd3d1.jpg",
-    "ts": 1788974549,
-    "addedTs": 1788980191,
-    "urlHash": "0301d67dd3d1",
-    "titleHash": "bc42b03e5dae"
-  },
-  {
-    "title": "Microsoft has new AI privacy rules for schools",
-    "titlePt": "Microsoft anuncia novas regras de privacidade de IA para escolas",
-    "url": "https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "A Microsoft publicou novas diretrizes de privacidade para uso de IA em escolas, limitando coleta de dados de estudantes. A medida tenta responder a pressões de pais e reguladores sobre IA na educação. Afeta diretamente distritos escolares e fornecedores de EdTech.",
-    "reasonEn": "Microsoft released new privacy rules for AI in schools, limiting data collection on students. The move responds to pressure from parents and regulators about AI in education. It directly affects school districts and EdTech vendors.",
-    "score": 0.7,
-    "tags": [
-      "microsoft",
-      "privacidade",
-      "educação"
-    ],
-    "img": "img/be07e88e346d.jpg",
-    "ts": 1788973668,
-    "addedTs": 1788980191,
-    "urlHash": "be07e88e346d",
-    "titleHash": "591b4acb6ffe"
-  },
-  {
-    "title": "Paul Christiano joins OpenAI Foundation Board",
-    "titlePt": "Paul Christiano entra para o conselho da Fundação OpenAI",
-    "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "O renomado pesquisador de alinhamento Paul Christiano foi nomeado para o conselho da fundação sem fins lucrativos ligada à OpenAI. Sua entrada reforça o peso da agenda de segurança dentro da governança da organização. É relevante para quem acompanha política de IA.",
-    "reasonEn": "Well-known alignment researcher Paul Christiano was appointed to the board of the nonprofit foundation tied to OpenAI. His appointment strengthens the weight of safety inside the organization's governance. It matters to those following AI policy.",
-    "score": 0.6,
-    "tags": [
-      "openai",
-      "governança",
-      "segurança"
-    ],
-    "img": "img/3eb3e9557eb7.jpg",
-    "ts": 1788973200,
-    "addedTs": 1788980191,
-    "urlHash": "3eb3e9557eb7",
-    "titleHash": "f56a9e75e581"
-  },
-  {
-    "title": "ControlAI&#8217;s Connor Leahy on why superintelligence is ‘not a weapon, it&#8217;s an adversary’ ",
-    "titlePt": "Connor Leahy, da ControlAI, diz que superinteligência 'não é arma, é adversário'",
-    "url": "https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "O líder da ControlAI defende que tratar a superinteligência como arma militar é um erro conceitual. Para ele, o risco é de um agente autônomo com objetivos próprios. A fala amplia o debate sobre como enquadrar regulação de IA avançada.",
-    "reasonEn": "ControlAI's leader argues that treating superintelligence as a military weapon is a conceptual mistake. For him the real risk is an autonomous agent with its own goals. The talk widens debate on how to frame advanced AI regulation.",
-    "score": 0.7,
-    "tags": [
-      "superinteligência",
-      "regulação",
-      "segurança"
-    ],
-    "img": "img/b43555a86103.jpg",
-    "ts": 1788969013,
-    "addedTs": 1788980191,
-    "urlHash": "b43555a86103",
-    "titleHash": "6c1eea5a11d3"
-  },
-  {
-    "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-    "titlePt": "IBM lança modelo Granite de séries temporais com licença comercial amigável",
-    "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "A IBM disponibilizou um novo modelo de séries temporais de ponta, com licença aberta para uso comercial. A liberação permite que empresas adotem modelos state-of-the-art sem custos de licenciamento. É um passo importante para democratizar IA em aplicações de previsão.",
-    "reasonEn": "IBM released a new state-of-the-art time-series model with an open commercial-friendly license. The release lets companies adopt SOTA models without licensing costs. It is an important step to democratize AI for forecasting.",
-    "score": 0.7,
-    "tags": [
-      "ibm",
-      "open-source",
-      "modelo"
-    ],
-    "img": "img/46660cb2ea43.jpg",
-    "ts": 1788968184,
-    "addedTs": 1788980191,
-    "urlHash": "46660cb2ea43",
-    "titleHash": "75b93b56c3c1"
-  },
-  {
-    "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
-    "titlePt": "Gastos com IA por funcionário caem em grandes empresas em agosto",
-    "url": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "Os investimentos em IA por funcionário nas maiores empresas dos EUA recuaram em agosto, segundo dados do setor. A queda pode ser apenas sazonal, mas também pode indicarfreio na adoção. Investidores e líderes de TI devem monitorar se a tendência se mantém.",
-    "reasonEn": "AI spend per employee at top US firms fell in August, according to industry data. The drop may be seasonal but could also signal a slowdown in adoption. Investors and IT leaders should watch whether the trend persists.",
-    "score": 0.6,
-    "tags": [
-      "mercado",
-      "investimento"
-    ],
-    "img": "img/d1ea6002b015.jpg",
-    "ts": 1788963514,
-    "addedTs": 1788980191,
-    "urlHash": "d1ea6002b015",
-    "titleHash": "2abe03c9b2b1"
-  },
-  {
-    "title": "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
-    "titlePt": "Amazon Prime Video usa IA para sincronizar lábios com áudio dublado",
-    "url": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "A Amazon Prime Video estreou uma tecnologia de IA que ajusta a movimentação dos lábios dos atores ao áudio dublado em outros idiomas. O objetivo é tornar a experiência mais natural para espectadores globais. Relevante para o setor de streaming e dublagem.",
-    "reasonEn": "Amazon Prime Video debuted an AI tech that adjusts actors' lip movements to dubbed audio in other languages. The goal is a more natural experience for global viewers. Relevant to streaming and dubbing industries.",
-    "score": 0.5,
-    "tags": [
-      "mídia",
-      "localização"
-    ],
-    "img": "img/2a9fa3a0339a.jpg",
-    "ts": 1788959080,
-    "addedTs": 1788980191,
-    "urlHash": "2a9fa3a0339a",
-    "titleHash": "6a6be43ef048"
-  },
-  {
-    "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
-    "titlePt": "Meta apresenta Muse, seu agente de IA, e pergunta se consumidores vão confiar",
-    "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A Meta estreou Muse, um agente de IA voltado a consumidores, com foco em assistencia pessoal e produtividade. O lançamento ocorre em um momento de ceticismo sobre agentes de gigantes de tecnologia. O grande desafio será conquistar confiança do público.",
-    "reasonEn": "Meta debuted Muse, a consumer-facing AI agent focused on personal assistance and productivity. The launch comes amid skepticism about agents from Big Tech. The big challenge will be winning user trust.",
-    "score": 0.7,
-    "tags": [
-      "meta",
-      "agente",
-      "consumo"
-    ],
-    "img": "img/0cfe4d849c9b.jpg",
-    "ts": 1788894000,
-    "addedTs": 1788980191,
-    "urlHash": "0cfe4d849c9b",
-    "titleHash": "d1c250a8e99b"
   }
 ]
