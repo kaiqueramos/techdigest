@@ -1,5 +1,335 @@
 [
   {
+    "title": "Cloudflare: Stay discoverable in search while disallowing AI training",
+    "titlePt": "Cloudflare: continue visível em buscas e bloqueie o treinamento de IA",
+    "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Cloudflare anunciou uma configuração que permite sites aparecerem em mecanismos de busca, mas bloquearem o uso de seu conteúdo para treinar modelos de IA. Isso é importante para donos de sites e desenvolvedores que querem proteger seu conteúdo sem perder tráfego de busca. A mudança afeta como a internet equilibra visibilidade e propriedade de dados na era da IA.",
+    "reasonEn": "Cloudflare announced a setting that lets websites appear in search engines but block the use of their content for training AI models. This matters for site owners and developers who want to protect their content without losing search traffic. The change affects how the internet balances visibility and data ownership in the AI era.",
+    "score": 0.85,
+    "tags": [
+      "cloudflare",
+      "regulação",
+      "treinamento"
+    ],
+    "img": "img/a7565059b22e.jpg",
+    "ts": 1789525518,
+    "addedTs": 1789525734,
+    "urlHash": "a7565059b22e",
+    "titleHash": "68f187b08562"
+  },
+  {
+    "title": "One seeded bug, 26 AI agents: all passed the tests, all stayed broken",
+    "titlePt": "Um bug plantado, 26 agentes de IA: todos passaram nos testes e continuaram quebrados",
+    "url": "https://github.com/vyang472/five-bugs",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um experimento inseriu propositalmente um bug em código e submeteu a 26 agentes de IA diferentes para correção. Todos os agentes relataram sucesso nos testes automatizados, mas nenhum realmente consertou o problema. Isso expõe uma falha grave na confiança em agentes de IA para revisão de código. Desenvolvedores devem ser cautelosos ao depender desses sistemas.",
+    "reasonEn": "An experiment deliberately planted a bug in code and submitted it to 26 different AI agents for fixing. All agents reported success on automated tests, but none actually fixed the issue. This exposes a serious flaw in trusting AI agents for code review. Developers should be cautious when relying on these systems.",
+    "score": 0.9,
+    "tags": [
+      "agente",
+      "segurança",
+      "desenvolvimento"
+    ],
+    "img": "img/9cc2021575d7.jpg",
+    "ts": 1789523333,
+    "addedTs": 1789525734,
+    "urlHash": "9cc2021575d7",
+    "titleHash": "1a99b8d7f627"
+  },
+  {
+    "title": "Musk proposes adversarsial peer review for AI Safety",
+    "titlePt": "Musk propõe revisão adversarial por pares para segurança em IA",
+    "url": "https://twitter.com/theallinpod/status/2099731166530277549",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Elon Musk propôs um modelo de revisão adversarial entre equipes rivais para testar a segurança de sistemas de IA. A ideia é semelhante aos testes em que hackers tentam quebrar sistemas para encontrar falhas. A proposta alimenta o debate sobre como auditar modelos de forma independente.",
+    "reasonEn": "Elon Musk proposed an adversarial peer-review model between rival teams to test the safety of AI systems. The idea is similar to red-team testing where hackers try to break systems to find flaws. The proposal feeds the debate on how to independently audit models.",
+    "score": 0.75,
+    "tags": [
+      "segurança",
+      "regulação",
+      "musk"
+    ],
+    "img": "img/68fc939eadf0.jpg",
+    "ts": 1789520629,
+    "addedTs": 1789525734,
+    "urlHash": "68fc939eadf0",
+    "titleHash": "044197014c54"
+  },
+  {
+    "title": "Recent Decisions Spark Questions on GenAI, Privilege, and Privacy Expectations",
+    "titlePt": "Decisões recentes levantam dúvidas sobre GenAI, privilégio e privacidade",
+    "url": "https://ktslaw.com/insights/alert/2026/4/recent-decisions-spark-questions-on-generative-ai-privilege-and-privacy-expectations",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Análise de decisões judiciais recentes nos Estados Unidos sobre o uso de inteligência artificial generativa e questões de privacidade e sigilo profissional. É relevante para empresas e desenvolvedores que usam GenAI em ambientes regulados. Pode mudar a forma como dados sensíveis são tratados por ferramentas de IA.",
+    "reasonEn": "An analysis of recent US court decisions on the use of generative artificial intelligence and questions of privacy and legal privilege. It is relevant for companies and developers using GenAI in regulated environments. It may change how sensitive data is handled by AI tools.",
+    "score": 0.6,
+    "tags": [
+      "privacidade",
+      "regulação",
+      "genai"
+    ],
+    "img": "img/2d08dc9dde36.jpg",
+    "ts": 1789520016,
+    "addedTs": 1789525734,
+    "urlHash": "2d08dc9dde36",
+    "titleHash": "e3a6ee603d6a"
+  },
+  {
+    "title": "Nvidia and CrowdStrike Develop New Cybersecurity AI Models",
+    "titlePt": "Nvidia e CrowdStrike desenvolvem novos modelos de IA para cibersegurança",
+    "url": "https://www.wsj.com/cio-journal/nvidia-and-crowdstrike-develop-new-cybersecurity-ai-models-937bb2aa",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Nvidia e a CrowdStrike anunciaram uma parceria para criar modelos de inteligência artificial voltados à detecção de ameaças cibernéticas. A união combina hardware e software para acelerar a defesa digital. É relevante para profissionais de segurança e empresas preocupadas com ataques sofisticados.",
+    "reasonEn": "Nvidia and CrowdStrike announced a partnership to create AI models focused on detecting cyber threats. The union combines hardware and software to accelerate digital defense. It is relevant for security professionals and companies worried about sophisticated attacks.",
+    "score": 0.75,
+    "tags": [
+      "nvidia",
+      "segurança",
+      "parceria"
+    ],
+    "img": "img/8fe0c1078e4a.jpg",
+    "ts": 1789517949,
+    "addedTs": 1789525734,
+    "urlHash": "8fe0c1078e4a",
+    "titleHash": "e44b85379d3d"
+  },
+  {
+    "title": "AI for Societal Impact",
+    "titlePt": "IA para impacto social",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+    "source": "Google AI",
+    "sources": [
+      "Google AI"
+    ],
+    "reason": "Publicação do blog de IA do Google sobre aplicações de inteligência artificial voltadas a causas sociais, como saúde, educação e meio ambiente. Reforça o posicionamento do Google em mostrar benefícios da IA além do lucro. Relevância moderada para acompanhar o discurso das grandes empresas sobre o tema.",
+    "reasonEn": "A post on Google's AI blog about artificial intelligence applications focused on social causes such as health, education and the environment. It reinforces Google's positioning in showcasing AI benefits beyond profit. Moderate relevance for tracking how big companies frame the topic.",
+    "score": 0.55,
+    "tags": [
+      "google",
+      "impacto",
+      "ia"
+    ],
+    "img": "img/970c94673769.jpg",
+    "ts": 1789488000,
+    "addedTs": 1789525734,
+    "urlHash": "970c94673769",
+    "titleHash": "27251421aa5d"
+  },
+  {
+    "title": "Building AI to accelerate science and improve lives",
+    "titlePt": "Construindo IA para acelerar a ciência e melhorar vidas",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+    "source": "Google AI",
+    "sources": [
+      "Google AI"
+    ],
+    "reason": "Mais um artigo do Google sobre o uso de inteligência artificial para acelerar pesquisas científicas em áreas como medicina e energia. É parte da estratégia de comunicação da empresa para mostrar usos positivos da tecnologia. Relevância moderada para acompanhar narrativas do setor.",
+    "reasonEn": "Another Google article on using artificial intelligence to accelerate scientific research in fields like medicine and energy. It is part of the company's communication strategy to showcase positive uses of the technology. Moderate relevance for tracking sector narratives.",
+    "score": 0.55,
+    "tags": [
+      "google",
+      "ciência",
+      "ia"
+    ],
+    "img": "img/6fff55fdf7cb.jpg",
+    "ts": 1789488000,
+    "addedTs": 1789525734,
+    "urlHash": "6fff55fdf7cb",
+    "titleHash": "d3cd98889df4"
+  },
+  {
+    "title": "Meta&#8217;s new One subscriptions put a price on social media and AI",
+    "titlePt": "Novas assinaturas Meta One cobram por redes sociais e IA",
+    "url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "A Meta anunciou um novo plano de assinatura chamado One, que dá acesso a redes sociais da empresa e a recursos de inteligência artificial por uma mensalidade. A medida marca a entrada formal da empresa em um modelo de cobrança por conteúdo e IA. Pode indicar uma tendência de plataformas cobrarem pelo acesso a modelos de IA.",
+    "reasonEn": "Meta announced a new subscription plan called One, which gives access to the company's social networks and artificial intelligence features for a monthly fee. The move marks the company's formal entry into a model of charging for content and AI. It may indicate a trend of platforms charging for access to AI models.",
+    "score": 0.7,
+    "tags": [
+      "meta",
+      "negócio",
+      "ia"
+    ],
+    "img": "img/748ab31264da.jpg",
+    "ts": 1789483500,
+    "addedTs": 1789525734,
+    "urlHash": "748ab31264da",
+    "titleHash": "fbf1ed2342e8"
+  },
+  {
+    "title": "Root-Cause Attribution Is a Search Problem: Continual Search for Long-Horizon Agent Failures",
+    "titlePt": "Atribuir causa raiz em falhas de agentes de longa duração como busca",
+    "url": "https://arxiv.org/abs/2609.13463",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "Pesquisadores tratam a busca pela causa raiz de falhas em agentes de IA de longo horizonte como um problema clássico de busca. Isso permite localizar onde e por que o agente errou em cadeias longas de ações. A ideia é útil para quem constrói agentes autônomos e precisa depurar erros. Pode ajudar a tornar agentes mais confiáveis em produção.",
+    "reasonEn": "Researchers frame root-cause attribution for long-horizon AI agent failures as a classic search problem. This helps locate where and why an agent went wrong across long action chains. The idea is useful for those building autonomous agents who need to debug errors. It can help make production agents more reliable.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "depuração",
+      "pesquisa"
+    ],
+    "img": "img/64c5811fe583.jpg",
+    "ts": 1789444800,
+    "addedTs": 1789525734,
+    "urlHash": "64c5811fe583",
+    "titleHash": "6d22b2bb6461"
+  },
+  {
+    "title": "Funding grants for new research into AI and teen development",
+    "titlePt": "OpenAI financia pesquisas sobre IA e desenvolvimento de adolescentes",
+    "url": "https://openai.com/index/teen-development-research-grants",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "A OpenAI anunciou bolsas para novos estudos sobre como a IA afeta o desenvolvimento de adolescentes. A iniciativa busca entender impactos cognitivos, sociais e emocionais do uso precoce de chatbots e ferramentas generativas. É um sinal de que a empresa quer gerar evidências antes que problemas surjam em larga escala. Pais, educadores e formuladores de políticas são os mais afetados.",
+    "reasonEn": "OpenAI announced grants for new studies on how AI affects teen development. The initiative seeks to understand cognitive, social and emotional impacts of early use of chatbots and generative tools. It signals that the company wants evidence before problems scale up. Parents, educators and policymakers are the most affected.",
+    "score": 0.55,
+    "tags": [
+      "openai",
+      "pesquisa",
+      "juventude"
+    ],
+    "img": "img/7948c39493cb.jpg",
+    "ts": 1788858000,
+    "addedTs": 1789525734,
+    "urlHash": "7948c39493cb",
+    "titleHash": "72249c2d4407"
+  },
+  {
+    "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+    "titlePt": "BenchMIRT: o que os benchmarks de LLM realmente medem?",
+    "url": "https://huggingface.co/blog/allenai/benchmirt",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "O estudo BenchMIRT investiga se os benchmarks usados para comparar modelos grandes realmente medem o que dizem medir. Muitos testes podem estar saturados ou viesados, dando uma falsa sensação de progresso. O trabalho ajuda empresas a escolher modelos com mais critério. Para desenvolvedores, é um lembrete importante para não confiar cegamente em números de leaderboards.",
+    "reasonEn": "The BenchMIRT study investigates whether benchmarks used to compare large models actually measure what they claim. Many tests may be saturated or biased, giving a false sense of progress. The work helps companies pick models more carefully. For developers, it is an important reminder not to trust leaderboard numbers blindly.",
+    "score": 0.65,
+    "tags": [
+      "benchmarks",
+      "avaliação",
+      "pesquisa"
+    ],
+    "img": "img/ad90e6779ea3.jpg",
+    "ts": 1788298747,
+    "addedTs": 1789525734,
+    "urlHash": "ad90e6779ea3",
+    "titleHash": "b9d6424cec27"
+  },
+  {
+    "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+    "titlePt": "HuggingFace lança mais de 200 kernels WebGPU para IA local",
+    "url": "https://huggingface.co/blog/webgpu-kernels",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "A HuggingFace disponibilizou um pacote com mais de 200 kernels otimizados para WebGPU, permitindo rodar modelos de IA diretamente no navegador ou em máquinas locais. Isso reduz a dependência de GPUs caras na nuvem e abre portas para novos apps offline. Para desenvolvedores, é uma grande vitória de custo e privacidade. Usuários comuns também podem rodar modelos sem instalar nada pesado.",
+    "reasonEn": "HuggingFace released a package with over 200 WebGPU-optimized kernels, letting AI models run directly in browsers or local machines. This cuts dependence on expensive cloud GPUs and opens the door to new offline apps. For developers it is a big win on cost and privacy. Regular users can also run models without heavy installs.",
+    "score": 0.75,
+    "tags": [
+      "lançamento",
+      "huggingface",
+      "local"
+    ],
+    "img": "img/91dad0068ec2.jpg",
+    "ts": 1788220800,
+    "addedTs": 1789525734,
+    "urlHash": "91dad0068ec2",
+    "titleHash": "b4c876176ca2"
+  },
+  {
+    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+    "titlePt": "Modelo 4-bit comprimido supera versão original em precisão",
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "Pesquisadores apresentam uma técnica chamada Quantization-Aware Healing, que permite comprimir um modelo para apenas 4 bits sem perda de qualidade — na verdade, o modelo comprimido supera o original. Isso é enorme porque rodar modelos menores significa menos memória e energia. Pode baratear o deploy de IA em larga escala. O método ainda é experimental, mas aponta para um futuro mais eficiente.",
+    "reasonEn": "Researchers present a technique called Quantization-Aware Healing that compresses a model to 4 bits without quality loss — in fact, the compressed model beats the original. This is huge because smaller models mean less memory and energy. It can lower the cost of large-scale AI deployment. The method is still experimental but points to a more efficient future.",
+    "score": 0.6,
+    "tags": [
+      "quantização",
+      "eficiência",
+      "pesquisa"
+    ],
+    "img": "img/f1c76f23a788.jpg",
+    "ts": 1787657964,
+    "addedTs": 1789525734,
+    "urlHash": "f1c76f23a788",
+    "titleHash": "d7e28cb6be0e"
+  },
+  {
+    "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+    "titlePt": "Gradio agora suporta fluxos de IA completos com novo conector",
+    "url": "https://huggingface.co/blog/gradio-workflow-guide",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "A nova versão do Gradio permite montar fluxos de IA completos conectando modelos, interfaces e deploys em poucos cliques. Isso reduz o trabalho manual de juntar várias peças para colocar um protótipo no ar. É especialmente útil para desenvolvedores que querem testar ideias rápido. Usuários não técnicos também conseguem visualizar resultados com menos atrito.",
+    "reasonEn": "A new Gradio version lets users assemble full AI workflows connecting models, interfaces and deployments in a few clicks. This reduces the manual work of stitching pieces together to ship a prototype. It is especially useful for developers who want to test ideas fast. Non-technical users can also visualize results with less friction.",
+    "score": 0.5,
+    "tags": [
+      "gradio",
+      "ferramenta",
+      "deploy"
+    ],
+    "img": "img/9b54a38fa1b1.jpg",
+    "ts": 1787616000,
+    "addedTs": 1789525734,
+    "urlHash": "9b54a38fa1b1",
+    "titleHash": "8566a8a44644"
+  },
+  {
+    "title": "How Much Memory Does Your Agent Actually Need?",
+    "titlePt": "Quanto de memória seu agente de IA realmente precisa?",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "O artigo da HuggingFace analisa quanto de memória agentes de IA realmente consomem em diferentes cenários, separando mito de realidade. Muitos desenvolvedores superestimam hardware necessário por seguir práticas antigas. Os resultados podem ajudar a economizar em infraestrutura e GPUs. É leitura rápida e prática para quem coloca agentes em produção.",
+    "reasonEn": "The HuggingFace article analyzes how much memory AI agents actually consume in different scenarios, separating myth from reality. Many developers overestimate the required hardware by following outdated practices. The findings can help save money on infrastructure and GPUs. It is a quick, practical read for anyone running agents in production.",
+    "score": 0.6,
+    "tags": [
+      "memória",
+      "agentes",
+      "otimização"
+    ],
+    "img": "img/5ba78b757300.jpg",
+    "ts": 1787076578,
+    "addedTs": 1789525734,
+    "urlHash": "5ba78b757300",
+    "titleHash": "3b116a96af58"
+  },
+  {
     "title": "Probably the best laptop with Linux support and Local LLM AI [video]",
     "titlePt": "Provavelmente o melhor notebook com Linux e IA local",
     "url": "https://www.youtube.com/watch?v=it7TAwjwH5E",
@@ -8491,69 +8821,5 @@
     "addedTs": 1788942543,
     "urlHash": "9d0b33baabba",
     "titleHash": "ca9041017874"
-  },
-  {
-    "title": "ex-OpenAI Researcher Quits Anthropic over AI Safety Fears",
-    "titlePt": "Ex-pesquisador da OpenAI pede demissão da Anthropic por medo da segurança em IA",
-    "url": "https://www.wsj.com/tech/ai/anthropic-researcher-quits-over-out-of-control-ai-fears-707b7628",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um pesquisador que veio da OpenAI pediu demissão da Anthropic citando preocupações com a segurança em IA. O caso expõe divergências internas entre as maiores empresas do setor. Mostra que o debate sobre riscos da IA continua dividindo talentos importantes da indústria. Profissionais e observadores do setor devem acompanhar os desdobramentos.",
-    "reasonEn": "A researcher who came from OpenAI resigned from Anthropic citing AI safety concerns. The case exposes internal disagreements among the biggest players in the field. It shows the AI risk debate keeps dividing key industry talent. Professionals and observers should follow the fallout.",
-    "score": 0.8,
-    "tags": [
-      "segurança",
-      "openai",
-      "anthropic"
-    ],
-    "img": "img/9ac499347415.jpg",
-    "ts": 1788917777,
-    "addedTs": 1788920097,
-    "urlHash": "9ac499347415",
-    "titleHash": "5a4a4bafd785"
-  },
-  {
-    "title": "AI: Lot of \"Hideous\" Code but Found Bottlenecks for Faster Linux Compilation",
-    "titlePt": "IA produz código 'feio', mas acha gargalos que aceleram compilação do Linux",
-    "url": "https://www.phoronix.com/news/AI-To-Faster-Linux-Kernel-Comp",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Uma IA gerou muito código considerado feio, mas no processo identificou gargalos que podem acelerar a compilação do kernel Linux. É um exemplo concreto de uso de IA em otimização de software crítico. Desenvolvedores de sistemas e mantenedores do Linux podem se beneficiar diretamente.",
-    "reasonEn": "An AI produced a lot of so-called ugly code, but in the process identified bottlenecks that could speed up Linux kernel compilation. It is a concrete example of AI use in critical software optimization. Systems developers and Linux maintainers may benefit directly.",
-    "score": 0.55,
-    "tags": [
-      "linux",
-      "otimização"
-    ],
-    "img": "img/585b46edcd13.jpg",
-    "ts": 1788916526,
-    "addedTs": 1788920097,
-    "urlHash": "585b46edcd13",
-    "titleHash": "45c46f1b1300"
-  },
-  {
-    "title": "The Growing Push to Ban Superintelligent AI",
-    "titlePt": "Cresce pressão para proibir IA superinteligente",
-    "url": "https://time.com/article/2026/09/08/ban-superintelligence-ai-uk-us-lawmakers/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Diversos grupos estão pedindo a proibição do desenvolvimento de IAs superinteligentes, citando riscos existenciais. A proposta já divide pesquisadores, empresas e governos. O debate pode influenciar legislações futuras em vários países. Vale acompanhar para entender os rumos da indústria.",
-    "reasonEn": "Several groups are calling for a ban on the development of superintelligent AIs, citing existential risks. The proposal already divides researchers, companies and governments. The debate may shape future legislation in many countries. Worth following to understand where the industry is heading.",
-    "score": 0.65,
-    "tags": [
-      "regulação",
-      "segurança"
-    ],
-    "img": "img/7cc67cbb4d30.jpg",
-    "ts": 1788913125,
-    "addedTs": 1788920097,
-    "urlHash": "7cc67cbb4d30",
-    "titleHash": "17d917cc22c1"
   }
 ]
