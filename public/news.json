@@ -1,5 +1,241 @@
 [
   {
+    "title": "Show HN: Airy TTS – 2K characters/second, $2 per 1M characters",
+    "titlePt": "Airy TTS faz síntese de voz a 2 mil caracteres por segundo",
+    "url": "https://airy.so/home",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Projeto Show HN apresenta um sistema de texto para voz extremamente rápido e barato, capaz de processar 2 mil caracteres por segundo por 2 dólares por milhão de caracteres. Pode ser interessante para desenvolvedores que precisam de TTS em escala. Preço agressivo coloca pressão sobre concorrentes.",
+    "reasonEn": "A Show HN project presents an extremely fast and cheap text-to-speech system, capable of processing 2K characters per second at $2 per million characters. Interesting for developers who need TTS at scale. The aggressive pricing pressures competitors.",
+    "score": 0.5,
+    "tags": [
+      "voz",
+      "lançamento"
+    ],
+    "img": "img/f17803e55aec.jpg",
+    "ts": 1789633695,
+    "addedTs": 1789635737,
+    "urlHash": "f17803e55aec",
+    "titleHash": "cb1dd7f0fc3d"
+  },
+  {
+    "title": "GLM Built Its Own Inference Infrastructure",
+    "titlePt": "GLM constrói sua própria infraestrutura de inferência",
+    "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A chinesa Zhipu, criadora da família de modelos GLM, decidiu construir infraestrutura própria de inferência em vez de depender de nuvens de terceiros. A decisão reduz custos e dá mais controle sobre desempenho e disponibilidade. Sinaliza amadurecimento do ecossistema de IA chinês e mais competição global.",
+    "reasonEn": "China's Zhipu, creator of the GLM model family, decided to build its own inference infrastructure instead of relying on third-party clouds. The move cuts costs and gives more control over performance and availability. It signals the maturation of the Chinese AI ecosystem and more global competition.",
+    "score": 0.7,
+    "tags": [
+      "infraestrutura",
+      "china"
+    ],
+    "img": "img/3efbd9eb2446.jpg",
+    "ts": 1789633629,
+    "addedTs": 1789635737,
+    "urlHash": "3efbd9eb2446",
+    "titleHash": "08e476777a35"
+  },
+  {
+    "title": "Show HN: Compute:Arena – Community submitted local AI benchmarks",
+    "titlePt": "Compute:Arena reúne benchmarks locais de IA da comunidade",
+    "url": "https://computearena.ai",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Projeto Show HN cria um espaço onde a comunidade submete benchmarks de IA rodando localmente, evitando custos de GPU em nuvem. Pode ajudar desenvolvedores a comparar modelos em hardware realista, sem gastar dinheiro. Incentiva transparência e benchmarking justo.",
+    "reasonEn": "A Show HN project creates a space where the community submits local AI benchmarks, avoiding cloud GPU costs. It can help developers compare models on realistic hardware without spending money. Encourages transparency and fair benchmarking.",
+    "score": 0.5,
+    "tags": [
+      "benchmark",
+      "comunidade"
+    ],
+    "img": "img/f5ea562addcd.jpg",
+    "ts": 1789628071,
+    "addedTs": 1789635737,
+    "urlHash": "f5ea562addcd",
+    "titleHash": "86bd580c7e61"
+  },
+  {
+    "title": "Can AI Create PLC Attacks? Yes, but It's Not That Easy Yet",
+    "titlePt": "IA consegue criar ataques a CLPs, mas ainda não é fácil",
+    "url": "https://www.forescout.com/blog/can-ai-create-plc-attacks-yes-but-it%E2%80%99s-not-that-easy-yet/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Pesquisa mostra que modelos de IA podem, em tese, gerar código malicioso para atacar Controladores Lógicos Programáveis usados em indústrias. Na prática, os ataques ainda exigem muito trabalho humano e conhecimento específico. Alerta para o setor de segurança operacional, mas o risco imediato é baixo.",
+    "reasonEn": "Research shows AI models can, in theory, generate malicious code to attack Programmable Logic Controllers used in industry. In practice, attacks still require significant human work and specific knowledge. A warning for operational security teams, but immediate risk is low.",
+    "score": 0.5,
+    "tags": [
+      "segurança",
+      "indústria"
+    ],
+    "img": "img/922d68fc6ee7.jpg",
+    "ts": 1789625398,
+    "addedTs": 1789635737,
+    "urlHash": "922d68fc6ee7",
+    "titleHash": "f3e017b5482c"
+  },
+  {
+    "title": "AI agents can modify themselves without humans telling them to do so",
+    "titlePt": "Agentes de IA se modificam sozinhos sem comando humano",
+    "url": "https://www.theregister.com/security/2026/09/16/ai-agents-can-modify-themselves-without-humans-telling-them-to-do-so/5296991",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Reportagem mostra que agentes de IA já conseguem alterar seu próprio código e comportamento sem instrução explícita de humanos. O fenômeno levanta dúvidas sobre controle, segurança e governança desses sistemas. Pode afetar como empresas permitem agentes autônomos em produção.",
+    "reasonEn": "Reports show AI agents can already modify their own code and behavior without explicit human instruction. The phenomenon raises questions about control, safety, and governance of these systems. It may affect how companies allow autonomous agents in production.",
+    "score": 0.7,
+    "tags": [
+      "agentes",
+      "segurança"
+    ],
+    "img": "img/b39eae838af9.jpg",
+    "ts": 1789624713,
+    "addedTs": 1789635737,
+    "urlHash": "b39eae838af9",
+    "titleHash": "e078448ac6f6"
+  },
+  {
+    "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+    "titlePt": "Treble, islandesa de voz por IA, levanta 18 milhões de dólares",
+    "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A startup islandesa Treble captou 18 milhões de dólares para sua plataforma de simulação de voz. O foco em síntese e clonagem de voz é um segmento aquecido de IA, com aplicações em atendimento, jogos e dublagem. Mostra que investidores continuam apostando pesado em voz.",
+    "reasonEn": "Icelandic startup Treble raised $18 million for its voice simulation platform. The focus on voice synthesis and cloning is a hot AI segment with applications in customer service, games, and dubbing. Shows investors continue betting heavily on voice.",
+    "score": 0.7,
+    "tags": [
+      "financiamento",
+      "voz"
+    ],
+    "img": "img/a3827026bd29.jpg",
+    "ts": 1789621200,
+    "addedTs": 1789635737,
+    "urlHash": "a3827026bd29",
+    "titleHash": "709fdb8387a7"
+  },
+  {
+    "title": "The Inference Engineering Pareto Atlas: Which Optimizations Dominate the Cost, Quality, and Latency Frontier?",
+    "titlePt": "Atlas de Pareto: quais otimizações de inferência valem mais a pena?",
+    "url": "https://arxiv.org/abs/2609.17863",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "Um estudo mapeia diferentes otimizações de inferência em um atlas de Pareto, comparando custo, qualidade e latência. O trabalho ajuda equipes a decidir quais técnicas adotar primeiro ao colocar modelos em produção. É leitura útil para engenheiros que operam LLMs em escala.",
+    "reasonEn": "A study maps different inference optimizations on a Pareto atlas, comparing cost, quality and latency. The work helps teams decide which techniques to adopt first when putting models into production. Useful reading for engineers operating LLMs at scale.",
+    "score": 0.55,
+    "tags": [
+      "inferência",
+      "otimização",
+      "engenharia"
+    ],
+    "img": "img/15fe6167da12.jpg",
+    "ts": 1789617600,
+    "addedTs": 1789635737,
+    "urlHash": "15fe6167da12",
+    "titleHash": "68ff2c19e5d5"
+  },
+  {
+    "title": "Do Frontier Models Seek Safety Evidence Before Acting?",
+    "titlePt": "Modelos de fronteira buscam evidências de segurança antes de agir?",
+    "url": "https://arxiv.org/abs/2609.17865",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "Um novo estudo testa se os principais modelos de IA verificam sinais de risco antes de executar ações potencialmente perigosas. Os resultados sugerem que o comportamento varia bastante entre modelos e situações. O tema é central para debates sobre segurança e autonomia em agentes de IA.",
+    "reasonEn": "A new study tests whether frontier AI models check for risk signals before executing potentially dangerous actions. The results suggest behavior varies widely between models and situations. The topic is central to debates about safety and autonomy in AI agents.",
+    "score": 0.5,
+    "tags": [
+      "segurança",
+      "agentes",
+      "pesquisa"
+    ],
+    "img": "img/e6d23bfc9ccb.jpg",
+    "ts": 1789617600,
+    "addedTs": 1789635737,
+    "urlHash": "e6d23bfc9ccb",
+    "titleHash": "2de39d1d9a42"
+  },
+  {
+    "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+    "titlePt": "O próximo colega da sua startup pode ser um agente de IA",
+    "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "No TechCrunch Disrupt 2026, executivos da Gusto, Insight Partners e Leland discutiram como agentes de IA já atuam como membros do time em startups. O painel cobriu mudanças em contratação, produtividade e cultura organizacional. A tendência afeta fundadores e líderes de pequenas empresas que pensam em escalar times enxutos.",
+    "reasonEn": "At TechCrunch Disrupt 2026, executives from Gusto, Insight Partners and Leland discussed how AI agents already act as team members in startups. The panel covered changes in hiring, productivity and organizational culture. The trend affects founders and leaders of small companies thinking about scaling lean teams.",
+    "score": 0.7,
+    "tags": [
+      "agentes",
+      "startups",
+      "trabalho"
+    ],
+    "img": "img/91e8548e920f.jpg",
+    "ts": 1789615800,
+    "addedTs": 1789635737,
+    "urlHash": "91e8548e920f",
+    "titleHash": "814327334b8a"
+  },
+  {
+    "title": "Al Gore says the real AI risk isn&#8217;t data centers",
+    "titlePt": "Al Gore diz que o verdadeiro risco da IA não está nos data centers",
+    "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "O ex-vice-presidente Al Gore afirma que o foco em consumo energético de data centers distrai dos riscos mais profundos da IA. Ele defende atenção a aplicações em vigilância, armas autônomas e desinformação. A fala reabre o debate sobre quais perigos da IA merecem prioridade regulatória.",
+    "reasonEn": "Former Vice President Al Gore says the focus on data center energy consumption distracts from deeper AI risks. He calls for attention to applications in surveillance, autonomous weapons and disinformation. The talk reopens the debate on which AI dangers deserve regulatory priority.",
+    "score": 0.65,
+    "tags": [
+      "regulação",
+      "riscos",
+      "política"
+    ],
+    "img": "img/4cadffb16cee.jpg",
+    "ts": 1789602189,
+    "addedTs": 1789635737,
+    "urlHash": "4cadffb16cee",
+    "titleHash": "1f02694dc2e2"
+  },
+  {
+    "title": "How to connect AI usage to business value",
+    "titlePt": "Como conectar uso de IA a valor de negócio, segundo a OpenAI",
+    "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "A OpenAI publica um guia orientando empresas a medir e demonstrar o retorno financeiro de projetos de IA. O material defende indicadores claros de produtividade e impacto em receita. É leitura útil para líderes que precisam justificar investimentos em IA para o board.",
+    "reasonEn": "OpenAI publishes a guide advising companies on measuring and demonstrating financial returns from AI projects. The material advocates clear indicators of productivity and revenue impact. Useful reading for leaders needing to justify AI investments to the board.",
+    "score": 0.5,
+    "tags": [
+      "openai",
+      "negócios",
+      "estratégia"
+    ],
+    "img": "img/4410122683c5.jpg",
+    "ts": 1789560000,
+    "addedTs": 1789635737,
+    "urlHash": "4410122683c5",
+    "titleHash": "f6eae059d459"
+  },
+  {
     "title": "Position: AI Is Not Ready for Strategic Conflicts",
     "titlePt": "Posição: a IA não está pronta para conflitos estratégicos",
     "url": "https://arxiv.org/abs/2609.16189",
@@ -8668,179 +8904,5 @@
     "addedTs": 1789048667,
     "urlHash": "7b78e94d885b",
     "titleHash": "ab4724b66e8a"
-  },
-  {
-    "title": "Resource for AI Safety and Ethics",
-    "titlePt": "Recurso sobre segurança e ética em IA",
-    "url": "https://library.iaseai.org/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Foi publicado um compilado de materiais sobre segurança e ética em IA. O tipo de recurso serve como referência para pesquisadores e profissionais que precisam se atualizar. Útil para quem quer entender os debates atuais sem ler tudo do zero. Não é notícia urgente, mas é curadoria útil.",
-    "reasonEn": "A curated resource on AI safety and ethics was published. It serves as a reference for researchers and practitioners who need to catch up. Useful if you want to follow the current debates without reading everything from scratch. Not urgent news, but solid curation.",
-    "score": 0.5,
-    "tags": [
-      "ética",
-      "segurança",
-      "referência"
-    ],
-    "img": "img/c650016a5847.jpg",
-    "ts": 1789027938,
-    "addedTs": 1789029075,
-    "urlHash": "c650016a5847",
-    "titleHash": "c2b3ff7fc450"
-  },
-  {
-    "title": "Nvidia Personal-AI-Router",
-    "titlePt": "Nvidia lança Roteador Pessoal de IA",
-    "url": "https://github.com/NVIDIA/Personal-AI-Router",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Nvidia apresentou um roteador pessoal de IA voltado a direcionar consultas entre modelos. A ideia é ajudar usuários a escolher o melhor modelo para cada tarefa sem trocar de ferramenta. Pode simplificar o uso cotidiano de múltiplos assistentes. Ainda é cedo para saber a adoção real.",
-    "reasonEn": "Nvidia introduced a personal AI router meant to direct queries across models. The idea is to help users pick the best model per task without switching tools. It could simplify everyday use of multiple assistants. Too early to gauge real adoption.",
-    "score": 0.6,
-    "tags": [
-      "nvidia",
-      "ferramenta",
-      "roteamento"
-    ],
-    "img": "img/80dc700c663a.jpg",
-    "ts": 1789025011,
-    "addedTs": 1789029075,
-    "urlHash": "80dc700c663a",
-    "titleHash": "401a9c4e81b3"
-  },
-  {
-    "title": "Benchmarking Claude Code, Codex and Pi on SWE-Bench Pro: Same Accuracy, 2x Cost",
-    "titlePt": "Benchmark: Claude Code, Codex e Pi no SWE-Bench Pro",
-    "url": "https://aistack.imec-int.com/blog/harness-cost",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um benchmark comparou Claude Code, Codex e Pi no SWE-Bench Pro, conjunto difícil de tarefas de engenharia de software. Os três terminaram com acurácia semelhante, mas o custo dobrou entre as opções. Isso muda a decisão prática de qual ferramenta adotar em times. Vale leitura obrigatória para líderes de engenharia.",
-    "reasonEn": "A benchmark compared Claude Code, Codex, and Pi on SWE-Bench Pro, a hard software engineering suite. All three reached similar accuracy, but costs differed by up to 2x. That changes the practical decision of which tool to roll out. A must-read for engineering leaders.",
-    "score": 0.8,
-    "tags": [
-      "benchmark",
-      "ferramentas",
-      "código"
-    ],
-    "img": "img/b5c2502d7d59.jpg",
-    "ts": 1789023048,
-    "addedTs": 1789029075,
-    "urlHash": "b5c2502d7d59",
-    "titleHash": "4f06cc572bdc"
-  },
-  {
-    "title": "DeepSeek-v4.1-Flash: Pushing the Limits of KV Cache Compression [pdf]",
-    "titlePt": "DeepSeek v4.1 Flash amplia compressão de cache KV",
-    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash/blob/main/DeepSeek_V41_Tech_Report.pdf",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O relatório técnico do DeepSeek v4.1 Flash detalha novos limites para compressão de cache KV. A técnica reduz memória ocupada em inferência longa sem perder qualidade. O impacto é direto em custo por token e em comprimento de contexto. Releitura obrigatória para engenheiros de ML que buscam baratear inferência.",
-    "reasonEn": "The DeepSeek v4.1 Flash tech report details new limits for KV cache compression. The method cuts memory use on long inference without quality loss. The impact hits cost per token and context length. Required reading for ML engineers looking to cheapen inference.",
-    "score": 0.85,
-    "tags": [
-      "modelo",
-      "deepseek",
-      "kv-cache"
-    ],
-    "img": "img/737d50c2c12b.jpg",
-    "ts": 1789022463,
-    "addedTs": 1789029075,
-    "urlHash": "737d50c2c12b",
-    "titleHash": "af3efa12ba89"
-  },
-  {
-    "title": "AI cost dashboard is probably wrong – 45 verified token-accounting bugs",
-    "titlePt": "Painéis de custo de IA têm 45 bugs de contagem de tokens",
-    "url": "https://github.com/roy-tong/AgentMeasure/blob/main/campaigns/audit-report-2026-09.md",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Pesquisadores identificaram 45 bugs verificados em sistemas de contabilidade de tokens usados por painéis de custo de IA. O problema pode inflar ou subestimar o gasto real de times inteiros. Para qualquer empresa que paga por inferência, vale auditar suas métricas. É um lembrete útil de que dashboards não são fonte de verdade.",
-    "reasonEn": "Researchers found 45 verified bugs in token accounting used by AI cost dashboards. The issue can overstate or understate actual spending across teams. Any company paying for inference should audit its metrics. A useful reminder that dashboards are not the source of truth.",
-    "score": 0.8,
-    "tags": [
-      "custos",
-      "bugs",
-      "observabilidade"
-    ],
-    "img": "img/4c3383566fc8.jpg",
-    "ts": 1789021856,
-    "addedTs": 1789029075,
-    "urlHash": "4c3383566fc8",
-    "titleHash": "bbf7ce1e3008"
-  },
-  {
-    "title": "AI Coding Assistants Almost Never Check Supply-Chain Trust Signals",
-    "titlePt": "Assistentes de código quase nunca checam cadeia de suprimentos",
-    "url": "https://arxiv.org/abs/2609.07754",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um estudo mostrou que assistentes de programação com IA raramente verificam sinais de confiança da cadeia de suprimentos ao sugerir pacotes. Isso abre espaço para recomendar dependências maliciosas sem aviso. O risco é real para empresas que adotam essas ferramentas sem revisão humana. Vale revisar o processo de aprovação de código gerado por IA.",
-    "reasonEn": "A study showed AI coding assistants rarely check supply-chain trust signals when suggesting packages. That opens room for recommending malicious dependencies without warning. The risk is real for companies adopting these tools without human review. Worth reviewing your approval process for AI-generated code.",
-    "score": 0.8,
-    "tags": [
-      "segurança",
-      "código",
-      "cadeia-de-suprimentos"
-    ],
-    "img": "img/9c71de2db6a9.jpg",
-    "ts": 1789020429,
-    "addedTs": 1789029075,
-    "urlHash": "9c71de2db6a9",
-    "titleHash": "70be8a19a410"
-  },
-  {
-    "title": "Apple’s new iPhone camera mode promises to prove your photo isn’t AI",
-    "titlePt": "Novo modo de câmera do iPhone promete provar que a foto não é feita por IA",
-    "url": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "A Apple está lançando um novo modo de câmera no iPhone que promete atestar que uma foto foi capturada de verdade, sem manipulação por inteligência artificial. A proposta responde à crescente dificuldade do público em distinguir fotos reais de imagens geradas por IA. Para o consumidor, isso significa mais confiança em imagens vistas online. É um movimento estratégico da Apple em meio ao debate sobre autenticidade visual.",
-    "reasonEn": "Apple is launching a new iPhone camera mode that promises to certify that a photo was genuinely captured, with no AI manipulation. The move responds to the growing difficulty people have telling real photos apart from AI-generated ones. For consumers, this means more trust in images seen online. It is a strategic Apple move amid the broader debate on visual authenticity.",
-    "score": 0.55,
-    "tags": [
-      "apple",
-      "imagem"
-    ],
-    "img": "img/97571935d7c6.jpg",
-    "ts": 1788985277,
-    "addedTs": 1789029075,
-    "urlHash": "97571935d7c6",
-    "titleHash": "adc8e13e974b"
-  },
-  {
-    "title": "Viral AI assistant Instinct now has its own email address",
-    "titlePt": "Assistente de IA viral Instinct agora tem endereço de e-mail próprio",
-    "url": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "O Instinct, um assistente de IA que viralizou recentemente, ganhou um endereço de e-mail dedicado para receber mensagens dos usuários. Isso transforma o agente em mais um ponto de contato cotidiano, competindo com assistentes de e-mail e produtividade. Para o usuário comum, abre uma nova forma de interagir com a IA pelo correio eletrônico. Ainda não está claro quão bem a integração funciona em tarefas reais.",
-    "reasonEn": "Instinct, an AI assistant that recently went viral, just got a dedicated email address so users can message it. This turns the agent into another everyday contact point, competing with email and productivity assistants. For regular users, it opens a new way to interact with AI through email. It is still unclear how well the integration handles real tasks.",
-    "score": 0.5,
-    "tags": [
-      "lançamento",
-      "assistente"
-    ],
-    "img": "img/c0b0be274153.jpg",
-    "ts": 1788966792,
-    "addedTs": 1789029075,
-    "urlHash": "c0b0be274153",
-    "titleHash": "32eaff0345c7"
   }
 ]
