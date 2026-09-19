@@ -1,5 +1,196 @@
 [
   {
+    "title": "The paradox at the heart of AI and science – Terence Tao [video]",
+    "titlePt": "O paradoxo no centro da IA e da ciência — Terence Tao",
+    "url": "https://www.youtube.com/watch?v=svl_1upFpQo",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O matemático Terence Tao discute em vídeo o paradoxo de usar IA para acelerar a ciência enquanto a própria ciência ainda não compreende bem como esses modelos funcionam. Ele argumenta que confiar cegamente em sistemas de IA pode introduzir erros difíceis de detectar em pesquisas. A reflexão importa porque pesquisadores, empresas e governos estão adotando IA em áreas críticas como medicina e física. Qualquer pessoa que use IA para trabalho sério precisa entender os limites atuais.",
+    "reasonEn": "Mathematician Terence Tao discusses in a video the paradox of using AI to accelerate science while science itself does not yet fully understand how these models work. He argues that blindly trusting AI systems can introduce hard-to-detect errors in research. The reflection matters because researchers, companies, and governments are adopting AI in critical areas like medicine and physics. Anyone using AI for serious work needs to understand the current limits.",
+    "score": 0.65,
+    "tags": [
+      "ciência",
+      "ia",
+      "reflexão"
+    ],
+    "img": "img/e005778cca73.jpg",
+    "ts": 1789836726,
+    "addedTs": 1789836935,
+    "urlHash": "e005778cca73",
+    "titleHash": "e865ae43302d"
+  },
+  {
+    "title": "My company let candidates use AI tools in interviews. Here's what I saw",
+    "titlePt": "Minha empresa deixou candidatos usarem IA em entrevistas — o que vi",
+    "url": "https://www.reddit.com/r/EngineeringManagers/comments/1urw740/my_company_lets_candidates_use_ai_tools_in/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um engenheiro conta que liberou o uso de ferramentas de IA durante entrevistas técnicas e descreve o que mudou no processo seletivo. Ele percebeu que candidatos que sabem usar IA com bom senso se destacam, enquanto os que apenas copiam respostas se dão mal. O relato ajuda empresas e candidatos a repensarem como avaliar habilidades reais. Vale a leitura para qualquer pessoa envolvida em contratação ou em busca de emprego em tecnologia.",
+    "reasonEn": "An engineer recounts allowing the use of AI tools during technical interviews and describes what changed in the hiring process. He noticed that candidates who know how to use AI with good judgment stand out, while those who merely copy answers do poorly. The account helps companies and candidates rethink how to evaluate real skills. Worth reading for anyone involved in hiring or job hunting in tech.",
+    "score": 0.55,
+    "tags": [
+      "carreira",
+      "entrevistas",
+      "ia"
+    ],
+    "img": "img/0617f3794458.jpg",
+    "ts": 1789836528,
+    "addedTs": 1789836935,
+    "urlHash": "0617f3794458",
+    "titleHash": "bce8443586b8"
+  },
+  {
+    "title": "Almost Never Use AI to Write Anything Substantive",
+    "titlePt": "Quase nunca use IA para escrever algo substantivo",
+    "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um texto de opinião argumenta que usar IA para gerar conteúdo longo e importante quase sempre produz resultado medíocre ou cheio de erros sutis. O autor recomenda usar IA apenas para tarefas pequenas e mecânicas, deixando a escrita principal para humanos. É uma provocação útil para profissionais que estão terceirizando demais a produção de texto. Não é uma regra absoluta, mas um alerta bem-vindo.",
+    "reasonEn": "An opinion piece argues that using AI to generate long, important content almost always produces mediocre results or subtle errors. The author recommends using AI only for small, mechanical tasks and leaving the main writing to humans. It is a useful provocation for professionals who are outsourcing too much text production. Not an absolute rule, but a welcome warning.",
+    "score": 0.5,
+    "tags": [
+      "opinião",
+      "produtividade"
+    ],
+    "img": "img/6d84fb98ba3b.jpg",
+    "ts": 1789835724,
+    "addedTs": 1789836935,
+    "urlHash": "6d84fb98ba3b",
+    "titleHash": "7564f4effa16"
+  },
+  {
+    "title": "\"AI Models Now Introduce Safety Risks in the Physical World\"",
+    "titlePt": "Modelos de IA agora criam riscos de segurança no mundo físico",
+    "url": "https://www.micro1.ai/research/ai-models-now-introduce-safety-risks-in-the-physical-world",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um novo relatório alerta que modelos de IA generativa estão sendo usados para projetar ameaças reais, como armas biológicas e ataques a infraestruturas críticas. Os autores pedem novos padrões de segurança e mais transparência dos laboratórios. A notícia é importante porque vai além do risco digital e afeta segurança pública. Reguladores, pesquisadores e cidadãos devem acompanhar o tema.",
+    "reasonEn": "A new report warns that generative AI models are being used to design real-world threats such as biological weapons and attacks on critical infrastructure. The authors call for new safety standards and more transparency from labs. The news is important because it goes beyond digital risk and affects public safety. Regulators, researchers, and citizens should follow the topic.",
+    "score": 0.8,
+    "tags": [
+      "segurança",
+      "regulação"
+    ],
+    "img": "img/c4ff0239056c.jpg",
+    "ts": 1789833964,
+    "addedTs": 1789836935,
+    "urlHash": "c4ff0239056c",
+    "titleHash": "377bdc405213"
+  },
+  {
+    "title": "Four AI lab breaches were caused by a single underlying issue, Irregular says",
+    "titlePt": "Quatro brechas em laboratórios de IA vieram da mesma falha, diz Irregular",
+    "url": "https://thenextweb.com/news/irregular-four-labs-one-issue-disclosure-timeline-gemini",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A empresa de segurança Irregular afirma que quatro incidentes recentes em laboratórios de IA compartilham uma mesma causa raiz ainda não corrigida. Isso significa que a vulnerabilidade pode afetar muitos outros sistemas parecidos no mundo. A descoberta é importante porque força laboratórios a revisar práticas básicas de segurança. Profissionais de segurança e líderes de produto devem acompanhar.",
+    "reasonEn": "Security firm Irregular says four recent incidents at AI labs share the same root cause that has not yet been fixed. This means the vulnerability could affect many other similar systems worldwide. The discovery is important because it forces labs to review basic security practices. Security professionals and product leaders should follow up.",
+    "score": 0.7,
+    "tags": [
+      "segurança",
+      "incidente"
+    ],
+    "img": "img/d3aa23ed560e.jpg",
+    "ts": 1789832612,
+    "addedTs": 1789836935,
+    "urlHash": "d3aa23ed560e",
+    "titleHash": "5e9601ad8e25"
+  },
+  {
+    "title": "AI Model Leaderboards",
+    "titlePt": "Rankings de modelos de IA em um só lugar",
+    "url": "https://vercel.com/ai-gateway/leaderboards/models",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um novo agregador reúne rankings de diferentes laboratórios de IA para facilitar comparações entre modelos. A ferramenta economiza tempo de quem precisa decidir qual modelo usar em produção. É útil para desenvolvedores e líderes técnicos que avaliam custo e qualidade. Não é notícia urgente, mas um recurso prático para o dia a dia.",
+    "reasonEn": "A new aggregator compiles rankings from different AI labs to make it easier to compare models. The tool saves time for anyone who needs to decide which model to use in production. It is useful for developers and technical leaders evaluating cost and quality. Not urgent news, but a practical everyday resource.",
+    "score": 0.55,
+    "tags": [
+      "benchmark",
+      "modelos"
+    ],
+    "img": "img/0de0dcc81412.jpg",
+    "ts": 1789832124,
+    "addedTs": 1789836935,
+    "urlHash": "0de0dcc81412",
+    "titleHash": "e443016d9d17"
+  },
+  {
+    "title": "AI safety conversations have gotten unbelievable",
+    "titlePt": "As conversas sobre segurança em IA ficaram inacreditáveis",
+    "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "Um texto crítico da TechCrunch argumenta que o debate público sobre segurança em IA foi sequestrado por discursos extremos e perdeu o foco técnico. O autor pede um retorno a conversas baseadas em evidências e risco mensurável. É leitura útil para quem está cansado do barulho ideológico em torno de IA. Profissionais e jornalistas da área podem se beneficiar.",
+    "reasonEn": "A critical piece from TechCrunch argues that the public debate on AI safety has been hijacked by extreme discourse and lost its technical focus. The author calls for a return to conversations based on evidence and measurable risk. Useful reading for anyone tired of ideological noise around AI. Professionals and journalists in the field may benefit.",
+    "score": 0.5,
+    "tags": [
+      "opinião",
+      "segurança"
+    ],
+    "img": "img/15f70ac64294.jpg",
+    "ts": 1789830000,
+    "addedTs": 1789836935,
+    "urlHash": "15f70ac64294",
+    "titleHash": "8e08f4eb4b14"
+  },
+  {
+    "title": "'Sketchy AF': What to Know About How OpenAI Staff Discussed Book-Pirating",
+    "titlePt": "Funcionários da OpenAI discutiram pirataria de livros, diz reportagem",
+    "url": "https://www.wsj.com/tech/ai/sketchy-af-what-to-know-about-how-openai-staff-discussed-book-pirating-fdc788a1",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma investigação revela que funcionários da OpenAI discutiram internamente o uso de livros pirateados para treinar modelos, levantando novas dúvidas sobre a origem dos dados usados. A reportagem traz mensagens internas que sugerem ciência informal sobre os limites legais. O caso pode gerar novos processos e pressionar a empresa a ser mais transparente. Desenvolvedores e usuários de IA devem acompanhar por causa do impacto regulatório.",
+    "reasonEn": "An investigation reveals that OpenAI employees internally discussed the use of pirated books to train models, raising new questions about the origin of the data used. The report includes internal messages suggesting informal probing of legal limits. The case may trigger new lawsuits and pressure the company to be more transparent. Developers and AI users should follow up due to the regulatory impact.",
+    "score": 0.7,
+    "tags": [
+      "direitos autorais",
+      "openai"
+    ],
+    "img": "img/49544ff55393.jpg",
+    "ts": 1789828686,
+    "addedTs": 1789836935,
+    "urlHash": "49544ff55393",
+    "titleHash": "edc6e96cc875"
+  },
+  {
+    "title": "How should we evaluate whether an AI agent's memory is still current?",
+    "titlePt": "Como avaliar se a memória de um agente de IA ainda está atualizada?",
+    "url": "https://twitter.com/AgentMemoryL/status/2101312784688726331",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A discussão aborda como medir se a memória de um agente de IA continua válida com o tempo. É uma questão importante porque agentes acumulam contexto e fatos, e dados antigos podem ficar desatualizados ou incorretos. Para desenvolvedores que constroem agentes, isso afeta diretamente a confiabilidade e a necessidade de reindexação. O tema ainda não tem consenso claro na indústria, então vale acompanhar para não perder tempo com métricas frágeis.",
+    "reasonEn": "The discussion covers how to measure whether an AI agent's memory is still up to date. It's an important question because agents accumulate context and facts, and old data can become outdated or wrong. For developers building agents, this directly affects reliability and the need for reindexing. There's no clear industry consensus yet, so it's worth following to avoid wasting time on weak metrics.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "metodologia"
+    ],
+    "img": "img/e1b58c64b736.jpg",
+    "ts": 1789827637,
+    "addedTs": 1789836935,
+    "urlHash": "e1b58c64b736",
+    "titleHash": "7180f93c3764"
+  },
+  {
     "title": "The Science of Machine Learning vs. the Push for AI Deployment",
     "titlePt": "A ciência do aprendizado de máquina versus a pressão por colocar IA em produção",
     "url": "https://medium.com/@MirArshadTalpur/the-science-of-machine-learning-vs-the-push-for-ai-deployment-854c659e4a6a",
@@ -10016,225 +10207,5 @@
     "addedTs": 1789242828,
     "urlHash": "742cf6e98ade",
     "titleHash": "d58860fa4399"
-  },
-  {
-    "title": "Meta is asking some of its employees to become managers again in a new reorg",
-    "titlePt": "Meta pede a alguns funcionários que voltem a ser gerentes em nova reorganização",
-    "url": "https://www.businessinsider.com/meta-asks-some-ai-employees-to-become-managers-again-2026-9",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Meta está convocando parte de seus funcionários a assumir novamente cargos de gerência dentro de uma nova reestruturação interna. A mudança sugere insatisfação com o modelo mais plano adotado nos últimos anos. A empresa quer melhorar supervisão e produtividade em equipes de engenharia. O movimento pode afetar milhares de profissionais e a forma como times técnicos são organizados. É uma notícia relevante para quem trabalha em grandes empresas de tecnologia.",
-    "reasonEn": "Meta is asking some of its employees to return to manager roles as part of a new internal reorganization. The shift suggests dissatisfaction with the flatter model used in recent years. The company wants to improve oversight and productivity in engineering teams. The move could affect thousands of professionals and how tech teams are structured. It is relevant news for anyone working at large tech companies.",
-    "score": 0.5,
-    "tags": [
-      "meta",
-      "empresas",
-      "gestão"
-    ],
-    "img": "img/2f35ef866811.jpg",
-    "ts": 1789230459,
-    "addedTs": 1789231154,
-    "urlHash": "2f35ef866811",
-    "titleHash": "331bcbfc0bb8"
-  },
-  {
-    "title": "Anthropic CEO outlines plan to ‘pace the frontier’",
-    "titlePt": "CEO da Anthropic apresenta plano para 'pacear a fronteira' da IA",
-    "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "Dario Amodei publicou um plano formal propondo uma abordagem mais lenta e cuidadosa para o desenvolvimento da próxima geração de modelos de IA. O documento defende pausas, maior transparência e coordenação entre laboratórios. A proposta já recebeu apoio de rivais como Sam Altman e Elon Musk, ampliando seu peso no setor. Para desenvolvedores, isso pode influenciar regras futuras sobre lançamento de modelos. É uma das pautas mais importantes do momento no setor de IA.",
-    "reasonEn": "Dario Amodei published a formal plan proposing a slower and more careful approach to developing the next generation of AI models. The document calls for pauses, greater transparency, and coordination between labs. The proposal has already received support from rivals like Sam Altman and Elon Musk, boosting its weight in the industry. For developers, this may influence future rules on model releases. It is one of the most important current topics in the AI sector.",
-    "score": 0.9,
-    "tags": [
-      "anthropic",
-      "regulação",
-      "modelo"
-    ],
-    "img": "img/b7b4c6f0444c.jpg",
-    "ts": 1789228331,
-    "addedTs": 1789231154,
-    "urlHash": "b7b4c6f0444c",
-    "titleHash": "0d37e6a282b8"
-  },
-  {
-    "title": "A Misalignment of AI and Cancer Biology",
-    "titlePt": "Um desencontro entre IA e biologia do câncer",
-    "url": "https://twitter.com/mbeisen/status/2098582265190351334",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um artigo técnico discute como modelos de inteligência artificial ainda têm dificuldade em avançar de forma significativa na biologia do câncer. O texto aponta limitações em dados, modelos e forma de avaliar resultados. É uma leitura relevante para pesquisadores e profissionais de saúde digital. Mostra que aplicar IA em medicina não é trivial e exige cuidado. Para desenvolvedores de IA aplicada, é um alerta sobre expectativas realistas.",
-    "reasonEn": "A technical article discusses how AI models still struggle to make meaningful progress in cancer biology. The piece points to limitations in data, models, and how results are evaluated. It is relevant reading for researchers and digital health professionals. It shows that applying AI to medicine is not trivial and requires care. For applied AI developers, it is a warning about realistic expectations.",
-    "score": 0.55,
-    "tags": [
-      "saúde",
-      "pesquisa",
-      "ia aplicada"
-    ],
-    "img": "img/e88eb29da4bc.jpg",
-    "ts": 1789227754,
-    "addedTs": 1789231154,
-    "urlHash": "e88eb29da4bc",
-    "titleHash": "b99f6e0c3d8a"
-  },
-  {
-    "title": "An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics",
-    "titlePt": "Receita aberta para medalha de ouro na IMO: treinando o Nemotron para olimpíadas de matemática",
-    "url": "https://arxiv.org/abs/2609.10712",
-    "source": "arXiv AI",
-    "sources": [
-      "arXiv AI"
-    ],
-    "reason": "A Nvidia publicou uma receita aberta para treinar um modelo que compete em olimpíadas de matemática no nível da IMO. Mostra progresso significativo em raciocínio matemático formal. Importante para acompanhar o estado da arte em LLMs de raciocínio. Pode interessar desenvolvedores que usam IA para problemas quantitativos.",
-    "reasonEn": "Nvidia published an open recipe to train a model that competes in math olympiads at IMO level. It shows significant progress in formal mathematical reasoning. Important to track the state of the art in reasoning LLMs. It may interest developers using AI for quantitative problems.",
-    "score": 0.6,
-    "tags": [
-      "matemática",
-      "nemotron",
-      "olimpíada"
-    ],
-    "img": "img/13cafb8278b4.jpg",
-    "ts": 1789185600,
-    "addedTs": 1789231154,
-    "urlHash": "13cafb8278b4",
-    "titleHash": "47bd280a7c2b"
-  },
-  {
-    "title": "Demystifying the Privacy-Utility Trade-off in LLM Interactions",
-    "titlePt": "Desmistificando o trade-off entre privacidade e utilidade em interações com LLMs",
-    "url": "https://arxiv.org/abs/2609.10992",
-    "source": "arXiv AI",
-    "sources": [
-      "arXiv AI"
-    ],
-    "reason": "O artigo revisa sistematicamente como equilibrar privacidade dos dados com utilidade dos modelos em interações com LLMs. É relevante para qualquer empresa que envia dados sensíveis a APIs de IA. Ajuda a decidir técnicas de anonimização e differentially private training. Tomada de decisão prática fica mais clara.",
-    "reasonEn": "The paper systematically reviews how to balance data privacy with model utility in LLM interactions. Relevant for any company sending sensitive data to AI APIs. It helps decide on anonymization techniques and differentially private training. Practical decision-making becomes clearer.",
-    "score": 0.5,
-    "tags": [
-      "privacidade",
-      "llm",
-      "compliance"
-    ],
-    "img": "img/1370f1e4dfb1.jpg",
-    "ts": 1789185600,
-    "addedTs": 1789231154,
-    "urlHash": "1370f1e4dfb1",
-    "titleHash": "25228e021c62"
-  },
-  {
-    "title": "The Agent Incident Registry: Toward Preventing Repeated AI Agent Failures",
-    "titlePt": "Registro de incidentes de agentes: evitando que falhas de IA se repitam",
-    "url": "https://arxiv.org/abs/2609.11030",
-    "source": "arXiv AI",
-    "sources": [
-      "arXiv AI"
-    ],
-    "reason": "Os autores propõem um registro público de falhas reais de agentes de IA, similar a bancos de bugs de software. A ideia é prevenir a repetição de erros já conhecidos. É uma contribuição importante para segurança e confiança em agentes autônomos. Mostra maturidade do ecossistema agentic.",
-    "reasonEn": "The authors propose a public registry of real AI agent failures, similar to software bug databases. The idea is to prevent repetition of already known errors. It is an important contribution to safety and trust in autonomous agents. It shows maturity of the agentic ecosystem.",
-    "score": 0.6,
-    "tags": [
-      "agentes",
-      "segurança",
-      "incidentes"
-    ],
-    "img": "img/e789ccd08044.jpg",
-    "ts": 1789185600,
-    "addedTs": 1789231154,
-    "urlHash": "e789ccd08044",
-    "titleHash": "fd4adf5f94d8"
-  },
-  {
-    "title": "Benchmark Radar: A Living Database and Search Engine for AI Benchmarks and Evaluation",
-    "titlePt": "Benchmark Radar: banco vivo e mecanismo de busca para benchmarks de IA",
-    "url": "https://arxiv.org/abs/2609.11115",
-    "source": "arXiv AI",
-    "sources": [
-      "arXiv AI"
-    ],
-    "reason": "A ferramenta agrega benchmarks de IA em um banco pesquisável, evitando que equipes percam tempo caçando métricas. É um utilitário prático para MLOps e pesquisa aplicada. Ajuda a selecionar o benchmark certo antes de treinar ou publicar. Economia de tempo significativa para times de avaliação.",
-    "reasonEn": "The tool aggregates AI benchmarks into a searchable database, preventing teams from wasting time hunting for metrics. It is a practical utility for MLOps and applied research. It helps select the right benchmark before training or publishing. Significant time savings for evaluation teams.",
-    "score": 0.5,
-    "tags": [
-      "benchmark",
-      "ferramenta",
-      "avaliação"
-    ],
-    "img": "img/3801eb17143c.jpg",
-    "ts": 1789185600,
-    "addedTs": 1789231154,
-    "urlHash": "3801eb17143c",
-    "titleHash": "6c48c92d3c6a"
-  },
-  {
-    "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
-    "titlePt": "Advogado é multado em US$ 5 mil por citar testemunhas inventadas por IA em caso de assassinato",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "Um advogado foi multado por apresentar testemunhas alucinadas por uma IA em um julgamento real de assassinato. O caso mostra consequências concretas do uso descuidado de IA em contextos jurídicos. Afeta diretamente profissionais do direito e qualquer um que use IA para pesquisa legal. Serve de alerta para validar saídas de modelos generativos.",
-    "reasonEn": "A lawyer was fined for presenting AI-hallucinated witnesses in a real murder trial. The case shows concrete consequences of careless AI use in legal contexts. It directly affects legal professionals and anyone using AI for legal research. It serves as a warning to validate generative model outputs.",
-    "score": 0.85,
-    "tags": [
-      "jurídico",
-      "alucinação",
-      "regulação"
-    ],
-    "img": "img/136a4de1f8b5.jpg",
-    "ts": 1789159465,
-    "addedTs": 1789231154,
-    "urlHash": "136a4de1f8b5",
-    "titleHash": "132775070981"
-  },
-  {
-    "title": "Roundtables: AI’s apocalypse crisis",
-    "titlePt": "Mesas-redondas: a crise do apocalipse da IA",
-    "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-    "source": "MIT Tech Review",
-    "sources": [
-      "MIT Tech Review"
-    ],
-    "reason": "O MIT Tech Review reúne vozes discutindo se o discurso apocalíptico sobre IA ajuda ou atrapalha. O debate reflete polarização entre exageros e riscos reais. Importante para desenvolvedores entenderem o clima regulatório e cultural. Não traz fato novo, mas sintetiza opiniões.",
-    "reasonEn": "MIT Tech Review gathers voices discussing whether apocalyptic AI discourse helps or hurts. The debate reflects polarization between exaggerations and real risks. Important for developers to understand the regulatory and cultural climate. No new fact, but synthesizes opinions.",
-    "score": 0.5,
-    "tags": [
-      "opinião",
-      "segurança",
-      "regulação"
-    ],
-    "img": "img/70d2b5e1fab4.jpg",
-    "ts": 1789157106,
-    "addedTs": 1789231154,
-    "urlHash": "70d2b5e1fab4",
-    "titleHash": "d9b63e713f3e"
-  },
-  {
-    "title": "The latest AI news we announced in July 2026",
-    "titlePt": "As últimas novidades de IA que anunciamos em julho de 2026",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
-    "source": "Google AI",
-    "sources": [
-      "Google AI"
-    ],
-    "reason": "O Google publicou seu resumão mensal de lançamentos de IA, reunindo modelos, produtos e atualizações de pesquisa. Serve como atalho para acompanhar o que a gigante anunciou no mês. Relevante para desenvolvedores que usam stack Google. Tom de comunicado oficial, sem análise crítica.",
-    "reasonEn": "Google published its monthly roundup of AI launches, gathering models, products, and research updates. It serves as a shortcut to track what the giant announced in the month. Relevant for developers using the Google stack. Official communication tone, no critical analysis.",
-    "score": 0.5,
-    "tags": [
-      "google",
-      "lançamento",
-      "resumo"
-    ],
-    "img": "img/58ba351a2139.jpg",
-    "ts": 1785848400,
-    "addedTs": 1789231154,
-    "urlHash": "58ba351a2139",
-    "titleHash": "ff4f31d4c369"
   }
 ]
