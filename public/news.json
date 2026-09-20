@@ -1,5 +1,198 @@
 [
   {
+    "title": "AI Netscape – 1997 Chrome, 2026 AI",
+    "titlePt": "IA é o novo Netscape: a comparação de 1997 que se repete em 2026",
+    "url": "https://ainetscape.com/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O post traça um paralelo entre o momento Netscape, superado pelo Chrome, e a corrida atual da IA, sugerindo que uma nova plataforma está prestes a destronar as atuais. É uma leitura útil para entender o ciclo de hype e quem pode ser o 'perdedor' da próxima década. Ajuda líderes a calibrar apostas sem cair no FOMO.",
+    "reasonEn": "The post draws a parallel between the Netscape moment, overtaken by Chrome, and today's AI race, suggesting a new platform is about to dethrone current players. It's a useful read for understanding the hype cycle and who might be the 'loser' of the next decade. Helps leaders calibrate bets without falling into FOMO.",
+    "score": 0.55,
+    "tags": [
+      "opinião",
+      "mercado"
+    ],
+    "img": "img/dadd1f952742.jpg",
+    "ts": 1789946935,
+    "addedTs": 1789947809,
+    "urlHash": "dadd1f952742",
+    "titleHash": "03ec9490986a"
+  },
+  {
+    "title": "DAPO: An Open-Source RL System from ByteDance Seed and Tsinghua Air",
+    "titlePt": "DAPO: sistema de RL open source da ByteDance e Tsinghua",
+    "url": "https://github.com/BytedTsinghua-SIA/DAPO",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "DAPO é um sistema de aprendizado por reforço por código aberto lançado pela ByteDance Seed em parceria com a Tsinghua. É diretamente relevante para engenheiros que treinam grandes modelos de linguagem com RLHF ou RLAIF. Quem trabalha com alinhamento e pós-treinamento deve avaliar para entender se vale adotar.",
+    "reasonEn": "DAPO is an open-source reinforcement learning system released by ByteDance Seed in partnership with Tsinghua. It's directly relevant to engineers training large language models with RLHF or RLAIF. Anyone working on alignment and post-training should evaluate whether to adopt it.",
+    "score": 0.75,
+    "tags": [
+      "open-source",
+      "rl",
+      "modelo"
+    ],
+    "img": "img/966ba72f9613.jpg",
+    "ts": 1789946344,
+    "addedTs": 1789947809,
+    "urlHash": "966ba72f9613",
+    "titleHash": "b11b868a8aad"
+  },
+  {
+    "title": "Show HN: AI Adoption Survey (Census)",
+    "titlePt": "Pesquisa aberta mapeia a adoção real de IA nas empresas",
+    "url": "https://www.crawlspider.com/pages/ai-adoption-rate",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma enquete estilo censo voltada a profissionais sobre uso real de IA no trabalho. Traz dado primário raro em meio ao hype, útil para tomadores de decisão ajustarem suas expectativas. Vale acompanhar se você lidera produto, operações ou estratégia.",
+    "reasonEn": "A census-style survey aimed at professionals about real AI adoption at work. Brings rare primary data amid the hype, useful for decision-makers calibrating expectations. Worth following if you lead product, operations, or strategy.",
+    "score": 0.6,
+    "tags": [
+      "pesquisa",
+      "adoção"
+    ],
+    "img": "img/400f4d5a91f4.jpg",
+    "ts": 1789944446,
+    "addedTs": 1789947809,
+    "urlHash": "400f4d5a91f4",
+    "titleHash": "5a858c120d5a"
+  },
+  {
+    "title": "Show HN: jevals – replacing LLM judges with typed Jev decisions",
+    "titlePt": "jevals: substituindo juízes LLM por decisões Jev tipadas",
+    "url": "https://github.com/openlayer-ai/jevals",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Projeto que propõe trocar avaliadores baseados em LLM por um sistema tipado, buscando mais reprodutibilidade e menor custo. É relevante para quem constrói pipelines de avaliação automática de modelos. Vale uma olhada se você gasta muito com LLM-as-judge.",
+    "reasonEn": "A project proposing to swap LLM-based evaluators for a typed system, aiming for more reproducibility and lower cost. Relevant for anyone building automated model evaluation pipelines. Worth a look if you spend heavily on LLM-as-judge.",
+    "score": 0.5,
+    "tags": [
+      "dev",
+      "avaliação",
+      "open-source"
+    ],
+    "img": "img/67a22ef4c1c3.jpg",
+    "ts": 1789943987,
+    "addedTs": 1789947809,
+    "urlHash": "67a22ef4c1c3",
+    "titleHash": "3693986a91c1"
+  },
+  {
+    "title": "Not all AI workers think the tech could kill everyone",
+    "titlePt": "Nem todo profissional de IA acha que a tecnologia pode matar todo mundo",
+    "url": "https://www.bbc.com/news/articles/cm5y7qj54klpo",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Matéria reúne vozes de trabalhadores de IA que rejeitam narrativas apocalípticas sobre a tecnologia. Mostra diversidade interna do setor e ajuda a calibrar o tom do debate público. Útil para quem está saturado do discurso maximalista da mídia.",
+    "reasonEn": "Article gathering voices of AI workers who reject apocalyptic narratives about the technology. Shows the sector's internal diversity and helps calibrate the tone of public debate. Useful for anyone saturated with the media's maximalist discourse.",
+    "score": 0.55,
+    "tags": [
+      "opinião",
+      "segurança"
+    ],
+    "img": "img/c9cd0c64bfe1.jpg",
+    "ts": 1789942936,
+    "addedTs": 1789947809,
+    "urlHash": "c9cd0c64bfe1",
+    "titleHash": "2d88d283479e"
+  },
+  {
+    "title": "Show HN: AgentTrace–Observability and runtime self-healing engine for AI agents",
+    "titlePt": "AgentTrace: observabilidade e auto-cura para agentes de IA",
+    "url": "https://github.com/mohitkumar188/AgentTrace",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Ferramenta voltada a observabilidade e autocorreção em tempo de execução de agentes de IA. Tema relevante para quem já opera agentes em produção e precisa de tracing e recuperação de falhas. Concorrente entra em mercado em crescimento.",
+    "reasonEn": "Tool focused on observability and runtime self-healing for AI agents. Relevant topic for anyone already running agents in production and needing tracing and failure recovery. Another entrant in a growing market.",
+    "score": 0.55,
+    "tags": [
+      "agentes",
+      "observabilidade",
+      "dev"
+    ],
+    "img": "img/c66e0513f77e.jpg",
+    "ts": 1789939457,
+    "addedTs": 1789947809,
+    "urlHash": "c66e0513f77e",
+    "titleHash": "4df7257155c2"
+  },
+  {
+    "title": "Locked Out of China's AI Boom, Graduates Turn to Bootcamps",
+    "titlePt": "Excluídos do boom de IA na China, jovens se viram para bootcamps",
+    "url": "https://www.sixthtone.com/news/1018649",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Reportagem mostra como formados chineses estão fazendo bootcamps para tentar entrar no mercado de IA doméstico, depois de perderem vagas nas grandes techs. Ilustra o impacto social da corrida de IA e o efeito das restrições de exportação de chips. Útil para quem opera na China ou planeja contratar lá.",
+    "reasonEn": "Report shows how Chinese graduates are turning to bootcamps to break into the domestic AI market after missing out on big tech jobs. Illustrates the social impact of the AI race and chip export restrictions. Useful for anyone operating in China or planning to hire there.",
+    "score": 0.65,
+    "tags": [
+      "china",
+      "mercado"
+    ],
+    "img": "img/5123555a3cb2.jpg",
+    "ts": 1789939394,
+    "addedTs": 1789947809,
+    "urlHash": "5123555a3cb2",
+    "titleHash": "ef82c75cb236"
+  },
+  {
+    "title": "Base Browser: A hard fork of Firefox with no AI slop",
+    "titlePt": "Base Browser: um fork do Firefox sem lixo de IA",
+    "url": "https://codeberg.org/basebrowserproject",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Projeto que faz um fork duro do Firefox removendo integrações com IA, voltado a quem prefere uma navegação mais limpa. Posicionamento simples, mas interessante como contraponto à tendência de navegadores cada vez mais 'AI-first'. Vale para usuários insatisfeitos com browsers atuais.",
+    "reasonEn": "Project that hard-forks Firefox to remove AI integrations, aimed at those preferring cleaner browsing. A simple positioning but an interesting counterpoint to the trend of increasingly 'AI-first' browsers. Worth it for users unhappy with current browsers.",
+    "score": 0.5,
+    "tags": [
+      "browser",
+      "open-source"
+    ],
+    "img": "img/5bfb630e0865.jpg",
+    "ts": 1789936817,
+    "addedTs": 1789947809,
+    "urlHash": "5bfb630e0865",
+    "titleHash": "4561d9ed4129"
+  },
+  {
+    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+    "titlePt": "Como treinar e ajustar modelos de embeddings multivetoriais com Sentence Transformers",
+    "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "A Hugging Face publicou um tutorial técnico que mostra como treinar e ajustar modelos de embeddings multivetoriais usando a biblioteca Sentence Transformers. O guia cobre desde a preparação dos dados até a avaliação dos modelos, com exemplos práticos de código. É conteúdo útil para desenvolvedores que trabalham com busca semântica, RAG e sistemas de recomendação. Quem já usa embeddings tradicionais pode aprender a expandir para representações mais ricas.",
+    "reasonEn": "Hugging Face has published a technical tutorial showing how to train and fine-tune multi-vector embedding models using the Sentence Transformers library. The guide covers everything from data preparation to model evaluation, with practical code examples. It's useful content for developers working on semantic search, RAG, and recommendation systems. Anyone already using traditional embeddings can learn to expand into richer representations.",
+    "score": 0.75,
+    "tags": [
+      "huggingface",
+      "embedding",
+      "tutorial"
+    ],
+    "img": "img/17177c100c91.jpg",
+    "ts": 1787702400,
+    "addedTs": 1789947809,
+    "urlHash": "17177c100c91",
+    "titleHash": "2f36da44fbda"
+  },
+  {
     "title": "AI Journal 2: Vibe-Coding for Fun and Profit",
     "titlePt": "Diário de IA 2: vibe-coding por diversão e lucro",
     "url": "https://devshrine.net/blog/ai-journal-2/",
@@ -10141,137 +10334,5 @@
     "addedTs": 1789343259,
     "urlHash": "dbaa0b853caa",
     "titleHash": "1479e6dfdb7a"
-  },
-  {
-    "title": "Trump and Mike Johnson think the AI industry is overreacting",
-    "titlePt": "Trump e Mike Johnson acham que o setor de IA está exagerando",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "O presidente dos EUA, Donald Trump, e o presidente da Câmara, Mike Johnson, criticaram publicamente os alertas de CEOs de empresas como Anthropic, OpenAI e xAI sobre os riscos da inteligência artificial. Eles classificam as preocupações como exageros e 'forças negativas', sinalizando que o governo não pretende apertar a regulação do setor. A decisão afeta diretamente empresas de IA, investidores e a sociedade, que continuam sem regras federais claras. O conflito expõe uma divisão entre a indústria e a política norte-americana sobre os rumos da tecnologia.",
-    "reasonEn": "US President Donald Trump and House Speaker Mike Johnson publicly pushed back against warnings from CEOs of Anthropic, OpenAI, and xAI about AI risks. They called the concerns exaggerated and blamed 'negative forces,' signaling the government won't tighten AI regulation anytime soon. The standoff directly affects AI companies, investors, and the public, who remain without clear federal rules. The clash highlights a widening gap between the AI industry and US policymakers.",
-    "score": 0.85,
-    "tags": [
-      "regulação",
-      "política",
-      "indústria"
-    ],
-    "img": "img/395acc6e88d3.jpg",
-    "ts": 1789328508,
-    "addedTs": 1789329682,
-    "urlHash": "395acc6e88d3",
-    "titleHash": "b7138c795c10"
-  },
-  {
-    "title": "Dario Amodei says China presents 'toughest dilemma' for his proposed AI slowdown",
-    "titlePt": "CEO da Anthropic diz que China é o maior dilema da sua proposta de frear a IA",
-    "url": "https://www.cnbc.com/2026/09/13/china-dilemma-ai-slowdown-anthropic.html",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Dario Amodei, CEO da Anthropic, afirmou que a China representa o dilema mais difícil para qualquer proposta global de desacelerar o desenvolvimento da inteligência artificial. Ele reconhece que pedir pausa unilateral não funciona se outros países seguirem avançando. A fala acontece no momento em que CEOs pedem cautela e o governo Trump rejeita o pedido. O tema é central para o debate sobre governança internacional da IA.",
-    "reasonEn": "Anthropic CEO Dario Amodei said China poses the hardest dilemma for any global proposal to slow down AI development. He acknowledged that asking for a unilateral pause doesn't work if other countries keep advancing. His comments come as CEOs call for caution and the Trump administration rejects that push. The issue is central to the debate over international AI governance.",
-    "score": 0.65,
-    "tags": [
-      "geopolítica",
-      "regulação",
-      "indústria"
-    ],
-    "img": "img/82d034e8b7dc.jpg",
-    "ts": 1789326813,
-    "addedTs": 1789329682,
-    "urlHash": "82d034e8b7dc",
-    "titleHash": "5e7e5ba3ca35"
-  },
-  {
-    "title": "Suicidal Compassion: Utilitarianism at AI Companies Endangers Humanity",
-    "titlePt": "Compaixão suicida: como o utilitarismo nas empresas de IA põe a humanidade em risco",
-    "url": "https://ai-frontiers.org/articles/suicidal-compassion-how-utilitarianism-at-ai-companies-endangers-humanity",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O ensaio critica a cultura utilitarista dentro das big techs de IA, argumentando que a busca por 'fazer o maior bem' frequentemente leva a decisões que colocam a humanidade em risco. O texto defende que a noção de 'compaixão suicida' leva empresas a sacrificar a segurança em nome do progresso. É uma leitura polêmica que interessa a pesquisadores de ética, executivos e reguladores. O texto é longo e exige tempo.",
-    "reasonEn": "The essay critiques the utilitarian culture inside big AI companies, arguing that chasing 'the greatest good' often drives decisions that put humanity at risk. The author warns that 'suicidal compassion' leads firms to sacrifice safety in the name of progress. It's a provocative read relevant to ethics researchers, executives, and regulators. The piece is long and demands time.",
-    "score": 0.5,
-    "tags": [
-      "ética",
-      "opinião",
-      "segurança"
-    ],
-    "img": "img/019c02e3c7b1.jpg",
-    "ts": 1789324373,
-    "addedTs": 1789329682,
-    "urlHash": "019c02e3c7b1",
-    "titleHash": "ab7d9e3a8255"
-  },
-  {
-    "title": "AI job cuts fell short of forecasts, with 32% expected but only 14% reported",
-    "titlePt": "Cortes de empregos por IA ficaram abaixo do previsto, mostra dado real",
-    "url": "https://www.mckinsey.com/featured-insights/charts/ai-job-losses-fall-short-of-forecasts",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Uma análise divulgada no Hacker News mostra que empresas prometeram cortar 32% das vagas por causa da inteligência artificial, mas só 14% dos cortes realmente aconteceram. A diferença mostra que parte do discurso sobre substituição total por IA ainda é mais marketing do que prática. O dado é útil para profissionais que estão incertos sobre seu futuro no mercado. Também serve para calibrar expectativas de gestores e RH.",
-    "reasonEn": "An analysis shared on Hacker News shows companies predicted 32% of job cuts due to AI, but only 14% actually materialized. The gap shows much of the talk about full AI replacement is still more marketing than practice. The data is useful for professionals worried about their job market future. It also helps managers and HR teams calibrate expectations.",
-    "score": 0.75,
-    "tags": [
-      "mercado",
-      "trabalho",
-      "análise"
-    ],
-    "img": "img/c3802eee4185.jpg",
-    "ts": 1789323214,
-    "addedTs": 1789329682,
-    "urlHash": "c3802eee4185",
-    "titleHash": "25bf0b129c83"
-  },
-  {
-    "title": "Russian developers used AI to build 'kamikaze' attack drone software",
-    "titlePt": "Desenvolvedores russos usam IA para montar software de drone kamikaze",
-    "url": "https://www.theguardian.com/world/2026/sep/12/ukraine-war-briefing-russian-developers-used-ai-to-build-kamikaze-attack-drone-software-anthropic-says",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Reportagem aponta que desenvolvedores russos estão usando ferramentas de inteligência artificial para acelerar a construção de software de drones kamikaze usados no conflito com a Ucrânia. A IA ajuda a identificar alvos, ajustar trajetória e simplificar o hardware embarcado. O caso levanta preocupações sobre proliferação de armas autônomas e o uso civil-militar de modelos abertos. É leitura essencial para quem acompanha defesa, ética em IA e segurança internacional.",
-    "reasonEn": "Reports say Russian developers are using AI tools to speed up software for kamikaze drones deployed in the Ukraine conflict. AI helps identify targets, adjust flight paths, and simplify onboard hardware. The case raises concerns about the proliferation of autonomous weapons and the civilian-military use of open models. Essential reading for those tracking defense, AI ethics, and international security.",
-    "score": 0.7,
-    "tags": [
-      "geopolítica",
-      "militar",
-      "ética"
-    ],
-    "img": "img/63d090b212ae.jpg",
-    "ts": 1789322920,
-    "addedTs": 1789329682,
-    "urlHash": "63d090b212ae",
-    "titleHash": "2d479a13bd9f"
-  },
-  {
-    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-    "titlePt": "Como treinar e ajustar modelos de embedding multi-vetor com Sentence Transformers",
-    "url": "https://huggingface.co/blog/train-multi-vector-encoder",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "A HuggingFace publicou um guia prático explicando como treinar e ajustar modelos de embedding multi-vetor usando a biblioteca Sentence Transformers. Embeddings multi-vetor, como o ColBERT, representam cada texto como vários vetores em vez de um único, melhorando a precisão em buscas e sistemas de RAG. O tutorial cobre desde a configuração dos dados até o ajuste fino com perda contrastiva. É útil para engenheiros de machine learning que querem melhorar a qualidade da recuperação de informações em seus sistemas.",
-    "reasonEn": "HuggingFace published a hands-on guide explaining how to train and fine-tune multi-vector embedding models using the Sentence Transformers library. Multi-vector embeddings, like ColBERT, represent each text as several vectors instead of one, improving accuracy in search and RAG systems. The tutorial walks through data setup and fine-tuning with contrastive loss. It is most useful for machine learning engineers looking to boost retrieval quality in their applications.",
-    "score": 0.55,
-    "tags": [
-      "embedding",
-      "finetuning",
-      "huggingface"
-    ],
-    "img": "img/17177c100c91.jpg",
-    "ts": 1787702400,
-    "addedTs": 1789329682,
-    "urlHash": "17177c100c91",
-    "titleHash": "2f36da44fbda"
   }
 ]
