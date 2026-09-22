@@ -1,5 +1,376 @@
 [
   {
+    "title": "Better prompt caching for GPT-6",
+    "titlePt": "Melhor cache de prompts para o GPT-6 (OpenAI)",
+    "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "A OpenAI anunciou melhorias no cache de prompts para o GPT-6, prometendo reduzir custos e latência para usuários da API. A nova abordagem reaproveita resultados de chamadas semelhantes, evitando reprocessamento desnecessário em servidores. Desenvolvedores que fazem muitas requisições parecidas devem perceber queda significativa na conta. A medida também reduz o tempo de resposta em aplicações interativas. A empresa publicou detalhes técnicos da implementação para que equipes possam otimizar seus fluxos.",
+    "reasonEn": "OpenAI announced improvements to prompt caching for GPT-6, promising lower costs and latency for API users. The new approach reuses results from similar calls, avoiding unnecessary server reprocessing. Developers making many similar requests should see significant bill reductions. The change also shortens response time in interactive applications. The company published technical details so teams can optimize their workflows.",
+    "score": 0.75,
+    "tags": [
+      "gpt-6",
+      "openai",
+      "performance"
+    ],
+    "img": "img/f9027d80e820.jpg",
+    "ts": 1790110800,
+    "addedTs": 1790109626,
+    "urlHash": "f9027d80e820",
+    "titleHash": "df044f9cdacf"
+  },
+  {
+    "title": "Z.ai says sorry for slurping up your code, open sources ZCode",
+    "titlePt": "Z.ai pede desculpas por coletar código e abre o código do ZCode",
+    "url": "https://www.theregister.com/security/2026/09/22/zai-says-sorry-for-slurping-up-your-code-open-sources-zcode/5298300",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A empresa Z.ai admitiu publicamente que coletou código de repositórios sem pedir autorização aos autores. Como forma de reparação, abriu o código do ZCode sob licença permissiva para que a comunidade possa auditar e contribuir. O gesto tenta reconstruir a confiança após a polêmica, mas desenvolvedores permanecem céticos. O caso reacende o debate sobre uso ético de dados públicos para treinar modelos. Projetos afetados devem verificar se trechos seus foram incorporados.",
+    "reasonEn": "Z.ai publicly admitted it slurped code from repositories without asking authors for permission. As reparation, they open-sourced ZCode under a permissive license so the community can audit and contribute. The move tries to rebuild trust after the controversy, but developers remain skeptical. The case reignites debate about ethical use of public data to train models. Affected projects should check whether their code was incorporated.",
+    "score": 0.7,
+    "tags": [
+      "open-source",
+      "privacidade",
+      "ética"
+    ],
+    "img": "img/78da0664e572.jpg",
+    "ts": 1790107628,
+    "addedTs": 1790109626,
+    "urlHash": "78da0664e572",
+    "titleHash": "5b4b98160efe"
+  },
+  {
+    "title": "'Same sense of urgency': UN chief compares AI risk to nuclear weapons",
+    "titlePt": "Mesma sensação de urgência: chefe da ONU compara risco da IA a armas nucleares",
+    "url": "https://www.smh.com.au/politics/federal/australia-joins-call-for-ai-safeguards-amid-warnings-of-out-of-control-risks-20260922-p60zbe.html",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O secretário-geral das Nações Unidas comparou o risco da inteligência artificial ao perigo das armas nucleares e pediu ação coordenada imediata. Segundo ele, a humanidade precisa tratar a evolução da IA com a mesma seriedade dedicada à corrida armamentista do século passado. A declaração aumenta a pressão internacional por cooperação em segurança de modelos avançados. Governos de diversos países sinalizaram apoio à proposta de limitesglobais. Especialistas continuam divididos sobre a probabilidade real de riscos existenciais.",
+    "reasonEn": "The UN secretary-general compared AI risk to the danger of nuclear weapons and called for immediate coordinated action. He said humanity must treat the evolution of AI with the same seriousness given to the arms race of the last century. The statement increases international pressure for cooperation on advanced model safety. Governments from several countries signaled support for global limits. Experts remain divided on the real probability of existential risks.",
+    "score": 0.7,
+    "tags": [
+      "regulação",
+      "risco",
+      "onu"
+    ],
+    "img": "img/f1fdd3b9114f.jpg",
+    "ts": 1790107512,
+    "addedTs": 1790109626,
+    "urlHash": "f1fdd3b9114f",
+    "titleHash": "982cadf5e93b"
+  },
+  {
+    "title": "Agent's Memory Needs a Retention Policy",
+    "titlePt": "A memória do agente precisa de uma política de retenção",
+    "url": "https://memanto.ai/blog/your-agents-memory-needs-a-retention-policy",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um artigo técnico argumenta que agentes de inteligência artificial precisam de políticas explícitas de retenção de memória, semelhantes às de bancos de dados. Sem regras claras, agentes acumulam contexto desnecessário que aumenta custo e reduz desempenho. O autor propõe métodos para compactar, expirar e priorizar memórias antigas. A discussão afeta diretamente quem constrói assistentes e automações complexas. Adotar essas práticas pode melhorar a eficiência operacional dos agentes em produção.",
+    "reasonEn": "A technical article argues AI agents need explicit memory retention policies, similar to databases. Without clear rules, agents accumulate unnecessary context that raises costs and lowers performance. The author proposes methods to compress, expire and prioritize old memories. The discussion directly affects those building assistants and complex automations. Adopting these practices can improve operational efficiency of agents in production.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "arquitetura"
+    ],
+    "img": "img/38c96b7cc8b5.jpg",
+    "ts": 1790107492,
+    "addedTs": 1790109626,
+    "urlHash": "38c96b7cc8b5",
+    "titleHash": "309d4ca1d62b"
+  },
+  {
+    "title": "Are Meta's smart glasses training AI for robots?",
+    "titlePt": "Os óculos inteligentes da Meta estão treinando IA para robôs?",
+    "url": "https://proton.me/blog/meta-smart-glasses-ai-robots",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma reportagem investiga se os óculos inteligentes da Meta estão coletando dados que poderiam ser usados para treinar modelos voltados à robótica. Vídeos gravados em primeira pessoa fornecem informações valiosas sobre como humanos manipulam objetos no mundo real. Pesquisadores externos afirmam que esses dados são úteis para treinar sistemas de navegação e manipulação. A Meta não confirmou nem negou oficialmente o uso para robótica. Consumidores devem estar atentos às políticas de privacidade dos dispositivos conectados.",
+    "reasonEn": "A report investigates whether Meta's smart glasses are collecting data that could be used to train models aimed at robotics. First-person videos provide valuable information about how humans manipulate objects in the real world. External researchers say this data is useful for training navigation and manipulation systems. Meta has neither confirmed nor officially denied use for robotics. Consumers should pay attention to privacy policies of connected devices.",
+    "score": 0.55,
+    "tags": [
+      "meta",
+      "robótica",
+      "privacidade"
+    ],
+    "img": "img/57017e4870ff.jpg",
+    "ts": 1790107280,
+    "addedTs": 1790109626,
+    "urlHash": "57017e4870ff",
+    "titleHash": "5a936420ffc7"
+  },
+  {
+    "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+    "titlePt": "Qualcomm lança dois novos chips para smartphones com foco em IA",
+    "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A Qualcomm anunciou dois novos processadores para smartphones com ênfase em inferência de inteligência artificial diretamente no aparelho. Os chips prometem rodar modelos grandes sem depender da nuvem, melhorando latência e privacidade. Fabricantes como Samsung e Xiaomi já planejam adotar os novos componentes. A estratégia reflete a tendência de mover cargas de IA para o hardware local. Isso pode reduzir custos de nuvem para desenvolvedores de aplicativos móveis.",
+    "reasonEn": "Qualcomm announced two new smartphone processors emphasizing on-device AI inference. The chips promise to run large models without relying on the cloud, improving latency and privacy. Manufacturers like Samsung and Xiaomi already plan to adopt the new components. The strategy reflects the trend of moving AI workloads to local hardware. This could reduce cloud costs for mobile app developers.",
+    "score": 0.65,
+    "tags": [
+      "hardware",
+      "qualcomm",
+      "móvel"
+    ],
+    "img": "img/8ea6cbfd1c90.jpg",
+    "ts": 1790107200,
+    "addedTs": 1790109626,
+    "urlHash": "8ea6cbfd1c90",
+    "titleHash": "0d8dfff29825"
+  },
+  {
+    "title": "Open source tool for building hierarchical agent loops",
+    "titlePt": "Ferramenta open source para construir loops hierárquicos de agentes",
+    "url": "https://github.com/plasma-ai/fractal",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um desenvolvedor publicou uma ferramenta de código aberto para facilitar a criação de loops hierárquicos entre agentes de inteligência artificial. O framework organiza agentes em camadas com responsabilidades específicas, semelhantes a uma estrutura organizacional. O objetivo é simplificar sistemas complexos com múltiplos agentes colaborando. O projeto está em estágio inicial, mas tem boa documentação. É útil para quem experimenta arquiteturasmultiagentes em projetos pessoais.",
+    "reasonEn": "A developer released an open source tool to ease building hierarchical loops between AI agents. The framework organizes agents into layers with specific responsibilities, similar to an organizational chart. The goal is simplifying complex systems with multiple collaborating agents. The project is in early stages but has good documentation. It is useful for those experimenting with multi-agent architectures in personal projects.",
+    "score": 0.5,
+    "tags": [
+      "open-source",
+      "agentes"
+    ],
+    "img": "img/d10c8f1dce43.jpg",
+    "ts": 1790106916,
+    "addedTs": 1790109626,
+    "urlHash": "d10c8f1dce43",
+    "titleHash": "ee6a8d2b75f4"
+  },
+  {
+    "title": "Microsoft disrupts AI-assisted platform that compromised 12,000",
+    "titlePt": "Microsoft derruba plataforma assistida por IA que comprometeu 12 mil contas",
+    "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+    "source": "Ars Technica",
+    "sources": [
+      "Ars Technica"
+    ],
+    "reason": "A Microsoft desarticulou uma infraestrutura criminosa que combinava inteligência artificial com técnicas tradicionais para comprometer cerca de doze mil contas em todo o mundo. Os operadores usavam modelos de linguagem para criar e-mails de phishing mais convincentes e automatizar ataques. A ação foi fruto de meses de investigação reversa dos servidores de comando. A empresa alerta que crimes assistidos por IA estão crescendo rapidamente. Usuários devem redobrar cuidados com autenticação em duas etapas.",
+    "reasonEn": "Microsoft dismantled a criminal infrastructure that combined artificial intelligence with traditional techniques to compromise around twelve thousand accounts worldwide. The operators used language models to create more convincing phishing emails and automate attacks. The action came after months of reverse engineering the command servers. The company warns AI-assisted crime is growing rapidly. Users should step up two-factor authentication hygiene.",
+    "score": 0.7,
+    "tags": [
+      "segurança",
+      "microsoft",
+      "cibercrime"
+    ],
+    "img": "img/5e8b60d2c8d4.jpg",
+    "ts": 1790106347,
+    "addedTs": 1790109626,
+    "urlHash": "5e8b60d2c8d4",
+    "titleHash": "484ef78942a8"
+  },
+  {
+    "title": "AI Leaders Are Standing on a Liability Landmine",
+    "titlePt": "Líderes de IA estão em uma bomba-relógio de responsabilidade civil",
+    "url": "https://www.wsj.com/tech/ai/ai-leaders-are-standing-on-a-liability-landmine-736a8060",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um artigo de opinião argumenta que executivos de empresas de inteligência artificial enfrentam riscos legais crescentes por decisões tomadas por seus sistemas. À medida que modelos agem com mais autonomia, cresce a responsabilidade dos desenvolvedores por danos causados. Processos recentes já miram empresas por alucinações e geração de conteúdo prejudicial. A falta de clareza regulatória agrava a exposição dos líderes. O texto recomenda práticas de governança interna mais rigorosas para mitigar riscos.",
+    "reasonEn": "An opinion piece argues AI executives face growing legal risks over decisions made by their systems. As models act with more autonomy, developer responsibility for harms caused increases. Recent lawsuits already target companies for hallucinations and harmful content generation. Lack of regulatory clarity heightens leaders' exposure. The text recommends stricter internal governance practices to mitigate risks.",
+    "score": 0.55,
+    "tags": [
+      "legal",
+      "risco",
+      "governança"
+    ],
+    "img": "img/6ed88935f4dd.jpg",
+    "ts": 1790106012,
+    "addedTs": 1790109626,
+    "urlHash": "6ed88935f4dd",
+    "titleHash": "bb57ad4a4ff7"
+  },
+  {
+    "title": "DiscoBox: AI Coding Agents in Disposable Sandboxes",
+    "titlePt": "DiscoBox: agentes de codificação em sandboxes descartáveis",
+    "url": "https://github.com/discobox-ai/discobox",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um projeto open source chamado DiscoBox cria sandboxes descartáveis para rodar agentes de inteligência artificial que escrevem código. Cada execução acontece em ambiente isolado, evitando que ações maliciosas ou erros comprometam o sistema principal. A abordagem reduz riscos em pipelines automatizados. Desenvolvedores podem integrar a ferramenta a fluxos de trabalho existentes. A ideia lembra práticas de segurança usadas em navegadores modernos.",
+    "reasonEn": "An open source project called DiscoBox creates disposable sandboxes to run AI coding agents. Each execution happens in an isolated environment, preventing malicious actions or errors from compromising the main system. The approach reduces risks in automated pipelines. Developers can integrate the tool into existing workflows. The idea resembles security practices used in modern browsers.",
+    "score": 0.55,
+    "tags": [
+      "agentes",
+      "desenvolvimento",
+      "segurança"
+    ],
+    "img": "img/0be8595d4743.jpg",
+    "ts": 1790105353,
+    "addedTs": 1790109626,
+    "urlHash": "0be8595d4743",
+    "titleHash": "70cc519396bf"
+  },
+  {
+    "title": "GPT-6 Sol and Luna push the cost-efficiency frontier",
+    "titlePt": "GPT-6 Sol e Luna ampliam fronteira de custo-eficiência",
+    "url": "https://artificialanalysis.ai/articles/gpt-6-sol-and-luna-push-the-cost-efficiency-frontier",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A OpenAI anunciou duas novas variantes do modelo GPT-6 chamadas Sol e Luna, focadas em custo-eficiência para diferentes cenários. Sol é otimizado para baixa latência em tarefas simples, enquanto Luna equilibra qualidade e preço para casos corporativos. Ambos rodam em infraestrutura própria e são acessíveis via API. Desenvolvedores podem escolher a variante que melhor se adapta à sua carga de trabalho. A movimentação deve pressionar concorrentes a reduzirem preços.",
+    "reasonEn": "OpenAI announced two new GPT-6 variants called Sol and Luna, focused on cost-efficiency for different scenarios. Sol is optimized for low latency on simple tasks, while Luna balances quality and price for corporate cases. Both run on proprietary infrastructure and are accessible via API. Developers can pick the variant that best fits their workload. The move should pressure competitors to lower prices.",
+    "score": 0.75,
+    "tags": [
+      "gpt-6",
+      "modelo",
+      "openai"
+    ],
+    "img": "img/0c4a202e0e30.jpg",
+    "ts": 1790104908,
+    "addedTs": 1790109626,
+    "urlHash": "0c4a202e0e30",
+    "titleHash": "9c0ba6b69017"
+  },
+  {
+    "title": "Trump rejects global entity for AI oversight",
+    "titlePt": "Trump rejeita entidade global para supervisão de inteligência artificial",
+    "url": "https://www.politico.com/news/2026/09/22/trump-rejects-global-entity-ai-oversight-01087546",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O presidente dos Estados Unidos, Donald Trump, vetou a criação de uma entidade internacional dedicada à supervisão de inteligência artificial. A decisão contraria pedidos de aliados europeus e de grandes empresas de tecnologia que defendiam coordenação global. O governo americano prefere manter a regulação em âmbito nacional, alegando proteção à soberania. Analistas alertam que a medida pode fragmentar padrões internacionais. Outros países continuam negociando um marco na Organização das Nações Unidas.",
+    "reasonEn": "US President Donald Trump vetoed the creation of an international entity dedicated to AI oversight. The decision goes against requests from European allies and major tech companies that advocated global coordination. The US government prefers keeping regulation at the national level, citing protection of sovereignty. Analysts warn the move could fragment international standards. Other countries continue negotiating a framework at the United Nations.",
+    "score": 0.75,
+    "tags": [
+      "regulação",
+      "trump",
+      "política"
+    ],
+    "img": "img/4dd16b7ee950.jpg",
+    "ts": 1790104193,
+    "addedTs": 1790109626,
+    "urlHash": "4dd16b7ee950",
+    "titleHash": "41f37e11039a"
+  },
+  {
+    "title": "Maskr – Catch personal data before it reaches AI chatbots (100% client-side)",
+    "titlePt": "Maskr: capture dados pessoais antes que cheguem aos chatbots de IA",
+    "url": "https://chromewebstore.google.com/detail/maskr-private-ai-leak-gua/adncldmdaamhlpcccigfhdipjhpicebe",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma nova ferramenta chamada Maskr promete identificar e mascarar dados pessoais antes que sejam enviados a chatbots de inteligência artificial. Tudo funciona no lado do cliente, sem enviar informações para servidores externos. O projeto busca reduzir vazamentos acidentais de dados sensíveis em conversas com modelos generativos. Usuários preocupados com privacidade podem testar a extensão no navegador. A solução ainda está em fase inicial e cobre poucos serviços.",
+    "reasonEn": "A new tool called Maskr promises to identify and mask personal data before it is sent to AI chatbots. Everything runs on the client side, without sending information to external servers. The project aims to reduce accidental leaks of sensitive data in conversations with generative models. Users worried about privacy can test the browser extension. The solution is still in early stages and covers few services.",
+    "score": 0.5,
+    "tags": [
+      "privacidade",
+      "ferramenta"
+    ],
+    "img": "img/6a8ff551eff9.jpg",
+    "ts": 1790104077,
+    "addedTs": 1790109626,
+    "urlHash": "6a8ff551eff9",
+    "titleHash": "d5aa3dfa9b32"
+  },
+  {
+    "title": "Mirendil in talks to raise $1B at $5B valuation led by Kleiner Perkins",
+    "titlePt": "Mirendil negocia levantar US$ 1 bi em valuation de US$ 5 bi com Kleiner Perkins",
+    "url": "https://finance.yahoo.com/technology/ai/articles/ex-anthropic-staffers-self-improving-161648217.html",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A startup Mirendil está em conversas avançadas para captar um bilhão de dólares em nova rodada de investimentos, com valuation de cinco bilhões de dólares. A rodada é liderada pela Kleiner Perkins, tradicional fundo de capital de risco do Vale do Silício. A empresa ganhou tração no setor de infraestrutura para inteligência artificial e atende clientes corporativos. O movimento reflete o apetite contínuo de investidores por empresas do segmento. Consumidores devem ficar atentos a possíveis mudanças nos preços dos serviços que dependem desse tipo de fornecedor.",
+    "reasonEn": "Startup Mirendil is in advanced talks to raise one billion dollars in a new funding round at a five billion dollar valuation. The round is led by Kleiner Perkins, a traditional Silicon Valley venture capital firm. The company has gained traction in AI infrastructure and serves corporate clients. The move reflects investor appetite for companies in the segment. Consumers should watch for possible price changes in services that depend on this kind of provider.",
+    "score": 0.55,
+    "tags": [
+      "investimento",
+      "startup",
+      "infraestrutura"
+    ],
+    "img": "img/cfca5617e80f.jpg",
+    "ts": 1790103860,
+    "addedTs": 1790109626,
+    "urlHash": "cfca5617e80f",
+    "titleHash": "eb8173c9d0cb"
+  },
+  {
+    "title": "Countries propose global oversight body to manage AI dangers",
+    "titlePt": "Países propõem órgão global para supervisionar os perigos da inteligência artificial",
+    "url": "https://www.aljazeera.com/economy/2026/9/22/20-countries-propose-global-oversight-body-to-manage-ai-dangers",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Diversos países estão propondo a criação de um órgão internacional para supervisionar os riscos da inteligência artificial. A ideia surge em meio a preocupações crescentes com o avanço acelerado da tecnologia e seus possíveis impactos negativos. O objetivo seria coordenar respostas globais a perigos como desinformação, uso militar e perda de controle sobre sistemas autônomos. A proposta ainda está em fase de discussão, mas pode moldar a próxima geração de regras para a área.",
+    "reasonEn": "Several countries are proposing the creation of an international body to oversee the risks of artificial intelligence. The idea comes amid growing concerns about the accelerated advancement of the technology and its potential negative impacts. The goal would be to coordinate global responses to dangers such as disinformation, military use, and loss of control over autonomous systems. The proposal is still in the discussion phase but could shape the next generation of AI rules.",
+    "score": 0.85,
+    "tags": [
+      "regulação",
+      "global",
+      "segurança"
+    ],
+    "img": "img/ad1a14d5f56b.jpg",
+    "ts": 1790103642,
+    "addedTs": 1790109626,
+    "urlHash": "ad1a14d5f56b",
+    "titleHash": "22a047b5046e"
+  },
+  {
+    "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+    "titlePt": "OpenAI lança GPT-6 Sol e Luna, com custo menor e menos erros",
+    "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A OpenAI anunciou o lançamento do GPT-6, em duas versões chamadas Sol e Luna, com promessas de custo menor e menos erros de raciocínio. A nova geração busca resolver limitações conhecidas das versões anteriores, especialmente em tarefas longas e complexas. A empresa destaca ganhos de eficiência que podem baratear o uso em aplicações empresariais. Desenvolvedores e empresas que dependem da plataforma devem avaliar como a mudança impacta seus produtos.",
+    "reasonEn": "OpenAI announced the launch of GPT-6, in two versions called Sol and Luna, with promises of lower cost and fewer reasoning errors. The new generation aims to address known limitations of previous versions, especially in long and complex tasks. The company highlights efficiency gains that could reduce the cost of enterprise applications. Developers and companies relying on the platform should evaluate how the change impacts their products.",
+    "score": 0.9,
+    "tags": [
+      "lançamento",
+      "modelo",
+      "openai"
+    ],
+    "img": "img/25f12aed5a13.jpg",
+    "ts": 1790100000,
+    "addedTs": 1790109626,
+    "urlHash": "25f12aed5a13",
+    "titleHash": "3eb14fb4dd19"
+  },
+  {
+    "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+    "titlePt": "Como o UK AISI e o EvalEval estão tornando os testes de IA reproduzíveis",
+    "url": "https://huggingface.co/blog/evaleval-aisi",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "O AISI do Reino Unido e o projeto EvalEval estão criando padrões para tornar resultados de avaliações comparativas de inteligência artificial reproduzíveis por qualquer laboratório. A iniciativa busca combater práticas opacas que dificultam comparar modelos com justiça. Desenvolvedores podem confiar mais em números oficiais de desempenho. É um passo importante para amadurecimento do setor.",
+    "reasonEn": "The UK's AISI and the EvalEval project are creating standards to make AI benchmark results reproducible by any lab. The initiative aims to combat opaque practices that make it hard to fairly compare models. Developers can trust official performance numbers more. It is an important step for the sector's maturity.",
+    "score": 0.5,
+    "tags": [
+      "avaliação",
+      "reprodutibilidade",
+      "padrão"
+    ],
+    "img": "img/e9f63aa1f7aa.jpg",
+    "ts": 1790035200,
+    "addedTs": 1790109626,
+    "urlHash": "e9f63aa1f7aa",
+    "titleHash": "5cd636401543"
+  },
+  {
     "title": "Graduating into Disruption: Labor Market Outcomes for AI-Exposed College Majors",
     "titlePt": "Formandos enfrentam mercado de trabalho disruptivo por causa da IA",
     "url": "https://www.census.gov/library/working-papers/2026/adrm/CES-WP-26-56.html",
