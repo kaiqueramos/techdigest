@@ -1,5 +1,238 @@
 [
   {
+    "title": "Show HN: Making agent decisions better and traceable",
+    "titlePt": "Tornando decisões de agentes de IA mais rastreáveis",
+    "url": "https://news.ycombinator.com/item?id=49810838",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um projeto exibido no Hacker News propõe melhorar a forma como agentes de IA tomam decisões e deixam rastros auditáveis. A ideia é dar mais transparência ao raciocínio do agente, o que ajuda na depuração e confiança. Desenvolvedores que usam agentes em produção podem tirar lições úteis do experimento.",
+    "reasonEn": "A Show HN project proposes improving how AI agents make decisions and leave auditable traces. The idea is to add transparency to the agent's reasoning, which helps with debugging and trust. Developers running agents in production can pick up useful lessons from the experiment.",
+    "score": 0.6,
+    "tags": [
+      "agentes",
+      "rastreabilidade"
+    ],
+    "img": "img/2002c43a9890.jpg",
+    "ts": 1790129728,
+    "addedTs": 1790131070,
+    "urlHash": "2002c43a9890",
+    "titleHash": "1f098b456a04"
+  },
+  {
+    "title": "Created a local AI to save data",
+    "titlePt": "IA local criada para preservar dados",
+    "url": "https://github.com/just-not-google/BiNeuron",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um desenvolvedor mostrou no Hacker News uma IA que roda localmente para salvar e organizar dados sem depender da nuvem. A proposta é dar mais controle e privacidade ao usuário. Pode interessar quem se preocupa com vazamentos ou quer reduzir custos com serviços na nuvem.",
+    "reasonEn": "A developer showed on Hacker News an AI that runs locally to save and organize data without relying on the cloud. The proposal is to give users more control and privacy. It may appeal to anyone worried about leaks or looking to cut cloud service costs.",
+    "score": 0.5,
+    "tags": [
+      "privacidade",
+      "local"
+    ],
+    "img": "img/be6968ec79c0.jpg",
+    "ts": 1790129558,
+    "addedTs": 1790131070,
+    "urlHash": "be6968ec79c0",
+    "titleHash": "46f575c9c165"
+  },
+  {
+    "title": "Wiki Foundation Model for Complex Agentic Reasoning",
+    "titlePt": "Modelo de base em formato wiki para raciocínio complexo de agentes",
+    "url": "https://academy.dair.ai/papers/wfm-wiki-foundation-model-for-complex-agentic-reasoning-2609.18182",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um novo modelo chamado Wiki Foundation Model foi proposto para melhorar raciocínio complexo em agentes de IA. A ideia é estruturar o conhecimento como uma wiki para reduzir erros e melhorar encadeamento lógico. Pesquisadores e engenheiros que trabalham com agentes devem acompanhar o desenvolvimento.",
+    "reasonEn": "A new model called Wiki Foundation Model has been proposed to improve complex reasoning in AI agents. The idea is to structure knowledge like a wiki to cut errors and improve logical chaining. Researchers and engineers working with agents should follow the development.",
+    "score": 0.6,
+    "tags": [
+      "modelo",
+      "raciocínio"
+    ],
+    "img": "img/8ce449fd0881.jpg",
+    "ts": 1790128877,
+    "addedTs": 1790131070,
+    "urlHash": "8ce449fd0881",
+    "titleHash": "d888cb4837a5"
+  },
+  {
+    "title": "The 'AI confidence trap' many New Zealanders are caught in",
+    "titlePt": "A \"armadilha da confiança em IA\" pega neozelandeses",
+    "url": "https://www.rnz.co.nz/news/business/1530184/the-ai-confidence-trap-many-new-zealanders-are-caught-in",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma reportagem aponta que muitos neozelandeses estão confiando demais em respostas de IA sem checar os fatos. O fenômeno, chamado de \"armadilha da confiança em IA\", pode levar a decisões erradas em trabalho e vida pessoal. Vale como alerta para qualquer usuário que usa IA no dia a dia.",
+    "reasonEn": "A report points out that many New Zealanders are over-trusting AI answers without fact-checking. The phenomenon, dubbed the \"AI confidence trap,\" can lead to wrong decisions at work and in personal life. It works as a warning for anyone using AI day to day.",
+    "score": 0.5,
+    "tags": [
+      "confiança",
+      "comportamento"
+    ],
+    "img": "img/0f5acb3887af.jpg",
+    "ts": 1790128149,
+    "addedTs": 1790131070,
+    "urlHash": "0f5acb3887af",
+    "titleHash": "c7b4ba80f9b4"
+  },
+  {
+    "title": "EN World Is Being DDoS'd by AI Bots",
+    "titlePt": "Site EN World sofre ataques DDoS vindos de bots de IA",
+    "url": "https://www.enworld.org/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O site EN World, voltado a jogos de RPG, está sendo alvo de ataques distribuídos de negação de serviço originados em bots de IA. O caso mostra que crawlers e agentes mal-comportados podem derrubar sites menores e gerar custos. Donos de sites e administradores de infraestrutura precisam se preparar para esse tipo de abuso.",
+    "reasonEn": "The RPG-focused site EN World is being hit by distributed denial-of-service attacks coming from AI bots. The case shows that badly behaved crawlers and agents can knock smaller sites offline and rack up costs. Site owners and infrastructure admins need to prepare for this kind of abuse.",
+    "score": 0.6,
+    "tags": [
+      "segurança",
+      "bots"
+    ],
+    "img": "img/9a8017e5b344.jpg",
+    "ts": 1790126402,
+    "addedTs": 1790131070,
+    "urlHash": "9a8017e5b344",
+    "titleHash": "4465da31cc73"
+  },
+  {
+    "title": "Weak models write tool calls as prose. We started executing them",
+    "titlePt": "Modelos fracos escrevem chamadas de ferramenta em prosa e começaram a ser executados",
+    "url": "https://fiit.ai/engineering/tool-calls-as-prose",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um projeto mostra que modelos de IA menores, quando recebem poucas instruções, escrevem chamadas de função como texto em prosa em vez de JSON estruturado. Os criadores passaram a aceitar e executar esse formato, abrindo nova flexibilidade. É uma leitura útil para quem trabalha com integrações de agentes e modelos menores.",
+    "reasonEn": "A project shows that smaller AI models, when given few instructions, write function calls as prose instead of structured JSON. The creators started accepting and running that format, opening new flexibility. A useful read for anyone working with agent integrations and smaller models.",
+    "score": 0.6,
+    "tags": [
+      "ferramentas",
+      "modelos"
+    ],
+    "img": "img/dc3a21d98278.jpg",
+    "ts": 1790124244,
+    "addedTs": 1790131070,
+    "urlHash": "dc3a21d98278",
+    "titleHash": "ddf48d2c9c92"
+  },
+  {
+    "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+    "titlePt": "OpenAI quer consultar matemáticos de elite para não tropeçar de novo",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "A OpenAI está buscando matemáticos de elite para entender por que seus sistemas falham em problemas difíceis e como melhorar. É um sinal de que a empresa reconhece lacunas em raciocínio formal. Isso pode indicar novas direções para os próximos modelos e vale a pena acompanhar para quem investe ou depende da OpenAI.",
+    "reasonEn": "OpenAI is reaching out to elite mathematicians to understand why its systems fail at hard problems and how to improve. It's a sign the company recognizes gaps in formal reasoning. This could hint at new directions for upcoming models and is worth following for those who bet on or rely on OpenAI.",
+    "score": 0.7,
+    "tags": [
+      "openai",
+      "matemática"
+    ],
+    "img": "img/a86391fe9862.jpg",
+    "ts": 1790122707,
+    "addedTs": 1790131070,
+    "urlHash": "a86391fe9862",
+    "titleHash": "0b2390e8b342"
+  },
+  {
+    "title": "The ruble markup on AI tokens",
+    "titlePt": "A margem em rublos sobre tokens de IA",
+    "url": "https://infertrail.com/blog/ruble-markup-ai-tokens/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto analisa como o preço de tokens de IA varia dentro da Rússia, marcado por câmbio e spreads em rublos. Mostra que usuários russos pagam efetivamente mais caro, mesmo com tarifas internacionais estáveis. É leitura de nicho, mas útil para quem se importa com precificação global de IA.",
+    "reasonEn": "The piece analyzes how AI token pricing varies inside Russia, marked by ruble exchange and spreads. It shows Russian users effectively pay more, even with stable international rates. It's niche reading, but useful for anyone tracking global AI pricing.",
+    "score": 0.5,
+    "tags": [
+      "preço",
+      "geopolítica"
+    ],
+    "img": "img/8d1071e56c58.jpg",
+    "ts": 1790119811,
+    "addedTs": 1790131070,
+    "urlHash": "8d1071e56c58",
+    "titleHash": "60e3593a8ac5"
+  },
+  {
+    "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
+    "titlePt": "Novo agente de IA da Rabbit não precisa do dispositivo R1",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "A Rabbit apresentou um agente de IA que roda independente do hardware R1, ampliando as opções de uso. É um movimento para recuperar a narrativa após o fraco desempenho do dispositivo original. Acompanhar importa para desenvolvedores e curiosos emassistentes pessoais baseados em IA.",
+    "reasonEn": "Rabbit introduced an AI agent that runs independently of its R1 hardware, expanding usage options. It's a bid to recover the narrative after the original device underperformed. Worth following for developers and anyone curious about AI personal assistants.",
+    "score": 0.6,
+    "tags": [
+      "agentes",
+      "rabbit"
+    ],
+    "img": "img/b55c6cd1054e.jpg",
+    "ts": 1790110360,
+    "addedTs": 1790131070,
+    "urlHash": "b55c6cd1054e",
+    "titleHash": "8b24ef26bc54"
+  },
+  {
+    "title": "Don’t be fooled by this summer of AI hype ",
+    "titlePt": "Não se deixe enganar pelo verão de hype da inteligência artificial",
+    "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+    "source": "MIT Tech Review",
+    "sources": [
+      "MIT Tech Review"
+    ],
+    "reason": "A MIT Technology Review publica um alerta para que profissionais não embarquem no excesso de entusiasmo em torno da IA neste verão. O texto aponta promessas infladas por empresas e sugere olhar com mais ceticismo para anúncios grandiosos. É uma leitura útil para quem toma decisões de compra ou investimento em ferramentas de IA. Ajuda a separar o que é real do que é marketing.",
+    "reasonEn": "MIT Technology Review warns professionals not to buy into the summer hype around AI. The piece points out inflated promises from companies and urges more skepticism toward grand announcements. It is useful reading for anyone making purchase or investment decisions on AI tools. Helps separate real progress from marketing spin.",
+    "score": 0.7,
+    "tags": [
+      "hype",
+      "análise",
+      "mercado"
+    ],
+    "img": "img/5abcd1180308.jpg",
+    "ts": 1790075091,
+    "addedTs": 1790131070,
+    "urlHash": "5abcd1180308",
+    "titleHash": "efd705f2b223"
+  },
+  {
+    "title": "Your Agent Aced the Task. Will It Do It Again?",
+    "titlePt": "Seu agente acertou a tarefa. Vai conseguir repetir?",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "O texto do Hugging Face discute a fragilidade de agentes de IA que obtêm sucesso em tarefas isoladas, mas falham em repeti-las de forma consistente. A análise destaca que benchmarks pontuais não garantem confiabilidade em produção. É leitura essencial para equipes que implantam agentes autônomos. Traz implicações práticas para testes e monitoramento.",
+    "reasonEn": "The Hugging Face article discusses how AI agents may succeed on isolated tasks yet fail to repeat them reliably. The analysis highlights that one-off benchmarks do not guarantee production reliability. Essential reading for teams deploying autonomous agents. It has practical implications for testing and monitoring.",
+    "score": 0.65,
+    "tags": [
+      "agentes",
+      "confiabilidade",
+      "testes"
+    ],
+    "img": "img/a1d018f16fad.jpg",
+    "ts": 1789488044,
+    "addedTs": 1790131070,
+    "urlHash": "a1d018f16fad",
+    "titleHash": "37d88460d5b3"
+  },
+  {
     "title": "The 'AI Safety' Movement Is Making AI Less Safe",
     "titlePt": "O movimento de 'segurança em IA' está tornando a IA menos segura",
     "url": "https://reason.com/2026/09/22/the-ai-safety-movement-is-making-ai-less-safe/",
@@ -9589,335 +9822,5 @@
     "addedTs": 1789549004,
     "urlHash": "049ed956b823",
     "titleHash": "52132d1da325"
-  },
-  {
-    "title": "Cloudflare: Stay discoverable in search while disallowing AI training",
-    "titlePt": "Cloudflare: continue visível em buscas e bloqueie o treinamento de IA",
-    "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Cloudflare anunciou uma configuração que permite sites aparecerem em mecanismos de busca, mas bloquearem o uso de seu conteúdo para treinar modelos de IA. Isso é importante para donos de sites e desenvolvedores que querem proteger seu conteúdo sem perder tráfego de busca. A mudança afeta como a internet equilibra visibilidade e propriedade de dados na era da IA.",
-    "reasonEn": "Cloudflare announced a setting that lets websites appear in search engines but block the use of their content for training AI models. This matters for site owners and developers who want to protect their content without losing search traffic. The change affects how the internet balances visibility and data ownership in the AI era.",
-    "score": 0.85,
-    "tags": [
-      "cloudflare",
-      "regulação",
-      "treinamento"
-    ],
-    "img": "img/a7565059b22e.jpg",
-    "ts": 1789525518,
-    "addedTs": 1789525734,
-    "urlHash": "a7565059b22e",
-    "titleHash": "68f187b08562"
-  },
-  {
-    "title": "One seeded bug, 26 AI agents: all passed the tests, all stayed broken",
-    "titlePt": "Um bug plantado, 26 agentes de IA: todos passaram nos testes e continuaram quebrados",
-    "url": "https://github.com/vyang472/five-bugs",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um experimento inseriu propositalmente um bug em código e submeteu a 26 agentes de IA diferentes para correção. Todos os agentes relataram sucesso nos testes automatizados, mas nenhum realmente consertou o problema. Isso expõe uma falha grave na confiança em agentes de IA para revisão de código. Desenvolvedores devem ser cautelosos ao depender desses sistemas.",
-    "reasonEn": "An experiment deliberately planted a bug in code and submitted it to 26 different AI agents for fixing. All agents reported success on automated tests, but none actually fixed the issue. This exposes a serious flaw in trusting AI agents for code review. Developers should be cautious when relying on these systems.",
-    "score": 0.9,
-    "tags": [
-      "agente",
-      "segurança",
-      "desenvolvimento"
-    ],
-    "img": "img/9cc2021575d7.jpg",
-    "ts": 1789523333,
-    "addedTs": 1789525734,
-    "urlHash": "9cc2021575d7",
-    "titleHash": "1a99b8d7f627"
-  },
-  {
-    "title": "Musk proposes adversarsial peer review for AI Safety",
-    "titlePt": "Musk propõe revisão adversarial por pares para segurança em IA",
-    "url": "https://twitter.com/theallinpod/status/2099731166530277549",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Elon Musk propôs um modelo de revisão adversarial entre equipes rivais para testar a segurança de sistemas de IA. A ideia é semelhante aos testes em que hackers tentam quebrar sistemas para encontrar falhas. A proposta alimenta o debate sobre como auditar modelos de forma independente.",
-    "reasonEn": "Elon Musk proposed an adversarial peer-review model between rival teams to test the safety of AI systems. The idea is similar to red-team testing where hackers try to break systems to find flaws. The proposal feeds the debate on how to independently audit models.",
-    "score": 0.75,
-    "tags": [
-      "segurança",
-      "regulação",
-      "musk"
-    ],
-    "img": "img/68fc939eadf0.jpg",
-    "ts": 1789520629,
-    "addedTs": 1789525734,
-    "urlHash": "68fc939eadf0",
-    "titleHash": "044197014c54"
-  },
-  {
-    "title": "Recent Decisions Spark Questions on GenAI, Privilege, and Privacy Expectations",
-    "titlePt": "Decisões recentes levantam dúvidas sobre GenAI, privilégio e privacidade",
-    "url": "https://ktslaw.com/insights/alert/2026/4/recent-decisions-spark-questions-on-generative-ai-privilege-and-privacy-expectations",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Análise de decisões judiciais recentes nos Estados Unidos sobre o uso de inteligência artificial generativa e questões de privacidade e sigilo profissional. É relevante para empresas e desenvolvedores que usam GenAI em ambientes regulados. Pode mudar a forma como dados sensíveis são tratados por ferramentas de IA.",
-    "reasonEn": "An analysis of recent US court decisions on the use of generative artificial intelligence and questions of privacy and legal privilege. It is relevant for companies and developers using GenAI in regulated environments. It may change how sensitive data is handled by AI tools.",
-    "score": 0.6,
-    "tags": [
-      "privacidade",
-      "regulação",
-      "genai"
-    ],
-    "img": "img/2d08dc9dde36.jpg",
-    "ts": 1789520016,
-    "addedTs": 1789525734,
-    "urlHash": "2d08dc9dde36",
-    "titleHash": "e3a6ee603d6a"
-  },
-  {
-    "title": "Nvidia and CrowdStrike Develop New Cybersecurity AI Models",
-    "titlePt": "Nvidia e CrowdStrike desenvolvem novos modelos de IA para cibersegurança",
-    "url": "https://www.wsj.com/cio-journal/nvidia-and-crowdstrike-develop-new-cybersecurity-ai-models-937bb2aa",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Nvidia e a CrowdStrike anunciaram uma parceria para criar modelos de inteligência artificial voltados à detecção de ameaças cibernéticas. A união combina hardware e software para acelerar a defesa digital. É relevante para profissionais de segurança e empresas preocupadas com ataques sofisticados.",
-    "reasonEn": "Nvidia and CrowdStrike announced a partnership to create AI models focused on detecting cyber threats. The union combines hardware and software to accelerate digital defense. It is relevant for security professionals and companies worried about sophisticated attacks.",
-    "score": 0.75,
-    "tags": [
-      "nvidia",
-      "segurança",
-      "parceria"
-    ],
-    "img": "img/8fe0c1078e4a.jpg",
-    "ts": 1789517949,
-    "addedTs": 1789525734,
-    "urlHash": "8fe0c1078e4a",
-    "titleHash": "e44b85379d3d"
-  },
-  {
-    "title": "AI for Societal Impact",
-    "titlePt": "IA para impacto social",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-    "source": "Google AI",
-    "sources": [
-      "Google AI"
-    ],
-    "reason": "Publicação do blog de IA do Google sobre aplicações de inteligência artificial voltadas a causas sociais, como saúde, educação e meio ambiente. Reforça o posicionamento do Google em mostrar benefícios da IA além do lucro. Relevância moderada para acompanhar o discurso das grandes empresas sobre o tema.",
-    "reasonEn": "A post on Google's AI blog about artificial intelligence applications focused on social causes such as health, education and the environment. It reinforces Google's positioning in showcasing AI benefits beyond profit. Moderate relevance for tracking how big companies frame the topic.",
-    "score": 0.55,
-    "tags": [
-      "google",
-      "impacto",
-      "ia"
-    ],
-    "img": "img/970c94673769.jpg",
-    "ts": 1789488000,
-    "addedTs": 1789525734,
-    "urlHash": "970c94673769",
-    "titleHash": "27251421aa5d"
-  },
-  {
-    "title": "Building AI to accelerate science and improve lives",
-    "titlePt": "Construindo IA para acelerar a ciência e melhorar vidas",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
-    "source": "Google AI",
-    "sources": [
-      "Google AI"
-    ],
-    "reason": "Mais um artigo do Google sobre o uso de inteligência artificial para acelerar pesquisas científicas em áreas como medicina e energia. É parte da estratégia de comunicação da empresa para mostrar usos positivos da tecnologia. Relevância moderada para acompanhar narrativas do setor.",
-    "reasonEn": "Another Google article on using artificial intelligence to accelerate scientific research in fields like medicine and energy. It is part of the company's communication strategy to showcase positive uses of the technology. Moderate relevance for tracking sector narratives.",
-    "score": 0.55,
-    "tags": [
-      "google",
-      "ciência",
-      "ia"
-    ],
-    "img": "img/6fff55fdf7cb.jpg",
-    "ts": 1789488000,
-    "addedTs": 1789525734,
-    "urlHash": "6fff55fdf7cb",
-    "titleHash": "d3cd98889df4"
-  },
-  {
-    "title": "Meta&#8217;s new One subscriptions put a price on social media and AI",
-    "titlePt": "Novas assinaturas Meta One cobram por redes sociais e IA",
-    "url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "A Meta anunciou um novo plano de assinatura chamado One, que dá acesso a redes sociais da empresa e a recursos de inteligência artificial por uma mensalidade. A medida marca a entrada formal da empresa em um modelo de cobrança por conteúdo e IA. Pode indicar uma tendência de plataformas cobrarem pelo acesso a modelos de IA.",
-    "reasonEn": "Meta announced a new subscription plan called One, which gives access to the company's social networks and artificial intelligence features for a monthly fee. The move marks the company's formal entry into a model of charging for content and AI. It may indicate a trend of platforms charging for access to AI models.",
-    "score": 0.7,
-    "tags": [
-      "meta",
-      "negócio",
-      "ia"
-    ],
-    "img": "img/748ab31264da.jpg",
-    "ts": 1789483500,
-    "addedTs": 1789525734,
-    "urlHash": "748ab31264da",
-    "titleHash": "fbf1ed2342e8"
-  },
-  {
-    "title": "Root-Cause Attribution Is a Search Problem: Continual Search for Long-Horizon Agent Failures",
-    "titlePt": "Atribuir causa raiz em falhas de agentes de longa duração como busca",
-    "url": "https://arxiv.org/abs/2609.13463",
-    "source": "arXiv AI",
-    "sources": [
-      "arXiv AI"
-    ],
-    "reason": "Pesquisadores tratam a busca pela causa raiz de falhas em agentes de IA de longo horizonte como um problema clássico de busca. Isso permite localizar onde e por que o agente errou em cadeias longas de ações. A ideia é útil para quem constrói agentes autônomos e precisa depurar erros. Pode ajudar a tornar agentes mais confiáveis em produção.",
-    "reasonEn": "Researchers frame root-cause attribution for long-horizon AI agent failures as a classic search problem. This helps locate where and why an agent went wrong across long action chains. The idea is useful for those building autonomous agents who need to debug errors. It can help make production agents more reliable.",
-    "score": 0.5,
-    "tags": [
-      "agentes",
-      "depuração",
-      "pesquisa"
-    ],
-    "img": "img/64c5811fe583.jpg",
-    "ts": 1789444800,
-    "addedTs": 1789525734,
-    "urlHash": "64c5811fe583",
-    "titleHash": "6d22b2bb6461"
-  },
-  {
-    "title": "Funding grants for new research into AI and teen development",
-    "titlePt": "OpenAI financia pesquisas sobre IA e desenvolvimento de adolescentes",
-    "url": "https://openai.com/index/teen-development-research-grants",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A OpenAI anunciou bolsas para novos estudos sobre como a IA afeta o desenvolvimento de adolescentes. A iniciativa busca entender impactos cognitivos, sociais e emocionais do uso precoce de chatbots e ferramentas generativas. É um sinal de que a empresa quer gerar evidências antes que problemas surjam em larga escala. Pais, educadores e formuladores de políticas são os mais afetados.",
-    "reasonEn": "OpenAI announced grants for new studies on how AI affects teen development. The initiative seeks to understand cognitive, social and emotional impacts of early use of chatbots and generative tools. It signals that the company wants evidence before problems scale up. Parents, educators and policymakers are the most affected.",
-    "score": 0.55,
-    "tags": [
-      "openai",
-      "pesquisa",
-      "juventude"
-    ],
-    "img": "img/7948c39493cb.jpg",
-    "ts": 1788858000,
-    "addedTs": 1789525734,
-    "urlHash": "7948c39493cb",
-    "titleHash": "72249c2d4407"
-  },
-  {
-    "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-    "titlePt": "BenchMIRT: o que os benchmarks de LLM realmente medem?",
-    "url": "https://huggingface.co/blog/allenai/benchmirt",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "O estudo BenchMIRT investiga se os benchmarks usados para comparar modelos grandes realmente medem o que dizem medir. Muitos testes podem estar saturados ou viesados, dando uma falsa sensação de progresso. O trabalho ajuda empresas a escolher modelos com mais critério. Para desenvolvedores, é um lembrete importante para não confiar cegamente em números de leaderboards.",
-    "reasonEn": "The BenchMIRT study investigates whether benchmarks used to compare large models actually measure what they claim. Many tests may be saturated or biased, giving a false sense of progress. The work helps companies pick models more carefully. For developers, it is an important reminder not to trust leaderboard numbers blindly.",
-    "score": 0.65,
-    "tags": [
-      "benchmarks",
-      "avaliação",
-      "pesquisa"
-    ],
-    "img": "img/ad90e6779ea3.jpg",
-    "ts": 1788298747,
-    "addedTs": 1789525734,
-    "urlHash": "ad90e6779ea3",
-    "titleHash": "b9d6424cec27"
-  },
-  {
-    "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-    "titlePt": "HuggingFace lança mais de 200 kernels WebGPU para IA local",
-    "url": "https://huggingface.co/blog/webgpu-kernels",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "A HuggingFace disponibilizou um pacote com mais de 200 kernels otimizados para WebGPU, permitindo rodar modelos de IA diretamente no navegador ou em máquinas locais. Isso reduz a dependência de GPUs caras na nuvem e abre portas para novos apps offline. Para desenvolvedores, é uma grande vitória de custo e privacidade. Usuários comuns também podem rodar modelos sem instalar nada pesado.",
-    "reasonEn": "HuggingFace released a package with over 200 WebGPU-optimized kernels, letting AI models run directly in browsers or local machines. This cuts dependence on expensive cloud GPUs and opens the door to new offline apps. For developers it is a big win on cost and privacy. Regular users can also run models without heavy installs.",
-    "score": 0.75,
-    "tags": [
-      "lançamento",
-      "huggingface",
-      "local"
-    ],
-    "img": "img/91dad0068ec2.jpg",
-    "ts": 1788220800,
-    "addedTs": 1789525734,
-    "urlHash": "91dad0068ec2",
-    "titleHash": "b4c876176ca2"
-  },
-  {
-    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-    "titlePt": "Modelo 4-bit comprimido supera versão original em precisão",
-    "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "Pesquisadores apresentam uma técnica chamada Quantization-Aware Healing, que permite comprimir um modelo para apenas 4 bits sem perda de qualidade — na verdade, o modelo comprimido supera o original. Isso é enorme porque rodar modelos menores significa menos memória e energia. Pode baratear o deploy de IA em larga escala. O método ainda é experimental, mas aponta para um futuro mais eficiente.",
-    "reasonEn": "Researchers present a technique called Quantization-Aware Healing that compresses a model to 4 bits without quality loss — in fact, the compressed model beats the original. This is huge because smaller models mean less memory and energy. It can lower the cost of large-scale AI deployment. The method is still experimental but points to a more efficient future.",
-    "score": 0.6,
-    "tags": [
-      "quantização",
-      "eficiência",
-      "pesquisa"
-    ],
-    "img": "img/f1c76f23a788.jpg",
-    "ts": 1787657964,
-    "addedTs": 1789525734,
-    "urlHash": "f1c76f23a788",
-    "titleHash": "d7e28cb6be0e"
-  },
-  {
-    "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-    "titlePt": "Gradio agora suporta fluxos de IA completos com novo conector",
-    "url": "https://huggingface.co/blog/gradio-workflow-guide",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "A nova versão do Gradio permite montar fluxos de IA completos conectando modelos, interfaces e deploys em poucos cliques. Isso reduz o trabalho manual de juntar várias peças para colocar um protótipo no ar. É especialmente útil para desenvolvedores que querem testar ideias rápido. Usuários não técnicos também conseguem visualizar resultados com menos atrito.",
-    "reasonEn": "A new Gradio version lets users assemble full AI workflows connecting models, interfaces and deployments in a few clicks. This reduces the manual work of stitching pieces together to ship a prototype. It is especially useful for developers who want to test ideas fast. Non-technical users can also visualize results with less friction.",
-    "score": 0.5,
-    "tags": [
-      "gradio",
-      "ferramenta",
-      "deploy"
-    ],
-    "img": "img/9b54a38fa1b1.jpg",
-    "ts": 1787616000,
-    "addedTs": 1789525734,
-    "urlHash": "9b54a38fa1b1",
-    "titleHash": "8566a8a44644"
-  },
-  {
-    "title": "How Much Memory Does Your Agent Actually Need?",
-    "titlePt": "Quanto de memória seu agente de IA realmente precisa?",
-    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "O artigo da HuggingFace analisa quanto de memória agentes de IA realmente consomem em diferentes cenários, separando mito de realidade. Muitos desenvolvedores superestimam hardware necessário por seguir práticas antigas. Os resultados podem ajudar a economizar em infraestrutura e GPUs. É leitura rápida e prática para quem coloca agentes em produção.",
-    "reasonEn": "The HuggingFace article analyzes how much memory AI agents actually consume in different scenarios, separating myth from reality. Many developers overestimate the required hardware by following outdated practices. The findings can help save money on infrastructure and GPUs. It is a quick, practical read for anyone running agents in production.",
-    "score": 0.6,
-    "tags": [
-      "memória",
-      "agentes",
-      "otimização"
-    ],
-    "img": "img/5ba78b757300.jpg",
-    "ts": 1787076578,
-    "addedTs": 1789525734,
-    "urlHash": "5ba78b757300",
-    "titleHash": "3b116a96af58"
   }
 ]
