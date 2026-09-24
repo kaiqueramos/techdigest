@@ -1,5 +1,378 @@
 [
   {
+    "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
+    "titlePt": "Meta remove vídeo crítico sobre óculos com IA feito dentro da própria empresa",
+    "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Meta derrubou um vídeo que mostrava problemas ou críticas aos óculos com IA da marca, gravado dentro de um espaço da empresa. O caso levanta discussão sobre censura corporativa e transparência em produtos de IA. Afeta consumidores e criadores de conteúdo que dependem de críticas independentes.",
+    "reasonEn": "Meta removed a video criticizing its AI glasses that was filmed on company property. The case sparks debate about corporate censorship and transparency around AI products. It affects consumers and content creators who rely on independent reviews.",
+    "score": 0.7,
+    "tags": [
+      "meta",
+      "censura",
+      "hardware"
+    ],
+    "img": "img/d62537dec8a3.jpg",
+    "ts": 1790238183,
+    "addedTs": 1790239942,
+    "urlHash": "d62537dec8a3",
+    "titleHash": "088bee59d47b"
+  },
+  {
+    "title": "When AI Acts, Who Remembers What Happened?(cogextai.com)",
+    "titlePt": "Quando a IA age, quem lembra do que aconteceu?",
+    "url": "https://news.ycombinator.com/item?id=49827412",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Artigo discute a falta de memória persistente em agentes de IA e como isso afeta auditoria e confiança em decisões automatizadas. O tema é crítico para empresas que usam agentes em produção. Ajuda devs a refletir sobre logs, trilhas e governança.",
+    "reasonEn": "Article discussing the lack of persistent memory in AI agents and how it impacts auditing and trust in automated decisions. The topic is critical for companies running agents in production. Helps devs reflect on logs, trails and governance.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "governança",
+      "memória"
+    ],
+    "img": "img/66ed60abdb57.jpg",
+    "ts": 1790234834,
+    "addedTs": 1790239942,
+    "urlHash": "66ed60abdb57",
+    "titleHash": "3516b4bb0129"
+  },
+  {
+    "title": "Show HN: Air-gapped file encryption as self-decrypting HTML page",
+    "titlePt": "Criptografia air-gapped em página HTML que se autodecifra",
+    "url": "https://cms-sfx-demo.apeleg.com/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Técnica que embarca a descriptografia dentro do próprio arquivo HTML, permitindo abrir dados sensíveis sem internet e sem software extra. Útil para jornalistas, pesquisadores e devs lidando com dados confidenciais. Demonstra um truque elegante de segurança.",
+    "reasonEn": "Technique that embeds decryption inside an HTML file, letting users open sensitive data offline with no extra software. Useful for journalists, researchers and devs handling confidential data. Shows an elegant security trick.",
+    "score": 0.5,
+    "tags": [
+      "segurança",
+      "criptografia",
+      "privacidade"
+    ],
+    "img": "img/dabd36d6ac35.jpg",
+    "ts": 1790234537,
+    "addedTs": 1790239942,
+    "urlHash": "dabd36d6ac35",
+    "titleHash": "c2529c906759"
+  },
+  {
+    "title": "Google Private AI Compute with server-side memory",
+    "titlePt": "Google Private AI Compute com memória no servidor",
+    "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Google anunciou uma arquitetura que mantém contexto de conversação no servidor, prometendo mais privacidade e continuidade. É movimento relevante para a concorrência com ChatGPT e Claude. Afeta usuários que dependem de memória longa em IAs.",
+    "reasonEn": "Google announced an architecture that keeps conversation context on the server, promising more privacy and continuity. A meaningful move in the race with ChatGPT and Claude. Affects users relying on long-term memory in AI tools.",
+    "score": 0.7,
+    "tags": [
+      "google",
+      "privacidade",
+      "lançamento"
+    ],
+    "img": "img/68ead6b6af2b.jpg",
+    "ts": 1790233957,
+    "addedTs": 1790239942,
+    "urlHash": "68ead6b6af2b",
+    "titleHash": "e85ed9b3a057"
+  },
+  {
+    "title": "It took 20 yrs to start regulating social media – will AI controls come sooner?",
+    "titlePt": "Levou 20 anos para regular redes sociais — a IA será mais rápida?",
+    "url": "https://www.rnz.co.nz/news/business/1557652/it-took-20-years-to-start-regulating-social-media-will-ai-controls-come-sooner",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Análise compara a demora em regular plataformas sociais com a corrida atual para legislar IA. Aponta pressão política e riscos reais para acelerar regras. Relevante para empresas que precisam se antecipar a regulações.",
+    "reasonEn": "Analysis comparing the slow regulation of social media with today's rush to legislate AI. Highlights political pressure and real risks driving faster rules. Relevant for companies needing to anticipate regulation.",
+    "score": 0.5,
+    "tags": [
+      "regulação",
+      "política",
+      "análise"
+    ],
+    "img": "img/5aa50604547b.jpg",
+    "ts": 1790232844,
+    "addedTs": 1790239942,
+    "urlHash": "5aa50604547b",
+    "titleHash": "01241a6033b7"
+  },
+  {
+    "title": "Can open-source prompt-injection detectors catch realistic AI agent attacks?",
+    "titlePt": "Detectores open source de prompt injection aguentam ataques reais a agentes?",
+    "url": "https://github.com/rudratoshs/buried-injections",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto testa se ferramentas gratuitas de detecção de prompt injection conseguem capturar ataques sofisticados contra agentes. Resultado aponta limitações importantes dos sistemas atuais. Leitura essencial para quem implanta agentes em produção.",
+    "reasonEn": "The piece tests whether free prompt-injection detectors can catch sophisticated attacks against agents. Findings show important limitations in current systems. Essential reading for those deploying agents in production.",
+    "score": 0.6,
+    "tags": [
+      "segurança",
+      "agentes",
+      "open-source"
+    ],
+    "img": "img/cd10ee6988a6.jpg",
+    "ts": 1790231822,
+    "addedTs": 1790239942,
+    "urlHash": "cd10ee6988a6",
+    "titleHash": "b00e0949aa94"
+  },
+  {
+    "title": "How to Audit an AI Agent:Time-Travel Debugging and Drift Measurement",
+    "titlePt": "Como auditar um agente de IA: depuração no tempo e medição de drift",
+    "url": "https://medium.com/@MirArshadTalpur/how-to-audit-not-observe-an-ai-agent-time-travel-debugging-and-drift-measurement-f755a6f4732e",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Texto técnico apresenta técnicas para investigar decisões de agentes de IA como se fosse um debug, incluindo viagem no tempo e medições de drift. Conceitos úteis para quem precisa de rastreabilidade em sistemas autônomos. Recomendado para engenheiros de IA e SREs.",
+    "reasonEn": "Technical piece presenting techniques to investigate AI agent decisions like debugging, including time-travel and drift measurement. Useful concepts for those needing traceability in autonomous systems. Recommended for AI engineers and SREs.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "auditoria",
+      "depuração"
+    ],
+    "img": "img/031531e5c074.jpg",
+    "ts": 1790231643,
+    "addedTs": 1790239942,
+    "urlHash": "031531e5c074",
+    "titleHash": "f391ee4bd13b"
+  },
+  {
+    "title": "The cost and quality frontier across 29 AI coding models",
+    "titlePt": "Fronteira de custo e qualidade em 29 modelos de IA para código",
+    "url": "https://bito.ai/benchmarks/ai-coding-model-cost/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Benchmark abrangente compara preço e qualidade de 29 modelos voltados a programação. Ajuda times a escolher entre velocidade, custo e precisão na hora de integrar IA ao fluxo de desenvolvimento. Conteúdo prático e altamente acionável.",
+    "reasonEn": "Comprehensive benchmark comparing price and quality of 29 coding-focused AI models. Helps teams choose between speed, cost and accuracy when integrating AI into dev workflows. Practical and highly actionable content.",
+    "score": 0.8,
+    "tags": [
+      "benchmark",
+      "código",
+      "modelos"
+    ],
+    "img": "img/ff9a02dd176f.jpg",
+    "ts": 1790231640,
+    "addedTs": 1790239942,
+    "urlHash": "ff9a02dd176f",
+    "titleHash": "3d2a4ad1c829"
+  },
+  {
+    "title": "Inferact's Kimi K3 Megakernel hits 700 tok/s on TPU, Beating GPU",
+    "titlePt": "Megakernel Kimi K3 da Inferact atinge 700 tokens por segundo em TPU, superando GPU",
+    "url": "https://inferact.ai/blog/tpu-megakernels",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Inferact anunciou que seu megakernel Kimi K3 roda em TPU do Google e atinge 700 tokens por segundo, superando implementações em GPU. É um feito notável de otimização que pode influenciar o futuro da inferência em larga escala. Relevante para engenheiros de ML e infraestrutura.",
+    "reasonEn": "Inferact announced that its Kimi K3 megakernel runs on Google TPUs and reaches 700 tokens per second, beating GPU implementations. A remarkable optimization that may influence the future of large-scale inference. Relevant for ML and infrastructure engineers.",
+    "score": 0.8,
+    "tags": [
+      "inferência",
+      "desempenho",
+      "tpu"
+    ],
+    "img": "img/f49e7e36fc7f.jpg",
+    "ts": 1790231560,
+    "addedTs": 1790239942,
+    "urlHash": "f49e7e36fc7f",
+    "titleHash": "22a32f49c0fc"
+  },
+  {
+    "title": "Lysios – LLM red teaming org",
+    "titlePt": "Lysios – organização de red teaming para LLMs",
+    "url": "https://lysios.ai/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Surgiu uma nova organização chamada Lysios focada em testar a segurança de grandes modelos de linguagem. Red teaming é essencial para descobrir falhas antes que atacantes explorem. Profissionais de segurança e equipes que usam LLMs em produção devem ficar atentos a novas ferramentas desse tipo. Mostra amadurecimento do mercado de testes adversariais.",
+    "reasonEn": "A new organization called Lysios has emerged, focused on red teaming large language models. Red teaming is key for finding flaws before attackers exploit them. Security professionals and teams deploying LLMs in production should track tools like this. It signals maturation of the adversarial testing market.",
+    "score": 0.6,
+    "tags": [
+      "segurança",
+      "red-team",
+      "llm"
+    ],
+    "img": "img/8c543c7c5765.jpg",
+    "ts": 1790230317,
+    "addedTs": 1790239942,
+    "urlHash": "8c543c7c5765",
+    "titleHash": "6a101cad6d01"
+  },
+  {
+    "title": "Silent Failures in Agent-Tool Interaction: An Audit of ToolUniverse",
+    "titlePt": "Falhas silenciosas em agentes que usam ferramentas",
+    "url": "https://arxiv.org/abs/2609.26836",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "Pesquisadores auditaram o ToolUniverse e encontraram falhas silenciosas na interação entre agentes e ferramentas externas. Essas falhas podem passar despercebidas e gerar resultados errados sem alarmes. É leitura obrigatória para quem constrói agentes autônomos. Mostra que confiar cegamente em logs de agentes é arriscado.",
+    "reasonEn": "Researchers audited ToolUniverse and found silent failures in how agents interact with external tools. These failures can go unnoticed and produce wrong results without raising alerts. Required reading for anyone building autonomous agents. Shows that blindly trusting agent logs is risky.",
+    "score": 0.7,
+    "tags": [
+      "agentes",
+      "segurança",
+      "pesquisa"
+    ],
+    "img": "img/6ec2c1f0d922.jpg",
+    "ts": 1790222400,
+    "addedTs": 1790239942,
+    "urlHash": "6ec2c1f0d922",
+    "titleHash": "8805d265fb48"
+  },
+  {
+    "title": "Harness as a Language: A Minimalist Agent Framework With Maximal Expressivity",
+    "titlePt": "Harness como linguagem: framework minimalista para agentes",
+    "url": "https://arxiv.org/abs/2609.26891",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "O artigo propõe tratar o harness do agente como uma linguagem de programação enxuta, com expressividade máxima. A ideia é simplificar a construção de agentes complexos com menos código. Desenvolvedores que constroem frameworks podem encontrar inspiração no design. Ainda é trabalho acadêmico, mas com aplicação prática.",
+    "reasonEn": "The paper proposes treating the agent harness as a minimalist programming language with maximal expressivity. The idea is to simplify complex agent construction with less code. Developers building frameworks may find design inspiration here. Still academic work, but with practical intent.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "framework"
+    ],
+    "img": "img/5c76f9e2f8d5.jpg",
+    "ts": 1790222400,
+    "addedTs": 1790239942,
+    "urlHash": "5c76f9e2f8d5",
+    "titleHash": "c147737c3587"
+  },
+  {
+    "title": "TwinCheck: Evidence-Grounded Negative-Twin Verification for Stateful Tool Agents",
+    "titlePt": "TwinCheck: verificação de agentes com gêmeos negativos",
+    "url": "https://arxiv.org/abs/2609.26911",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "O TwinCheck cria agentes gêmeos negativos para verificar decisões de agentes stateful de forma fundamentada em evidências. A técnica visa detectar alucinações e ações incorretas. Interessa a quem precisa auditar agentes de longo prazo. Ainda é pesquisa, mas o método é promissor.",
+    "reasonEn": "TwinCheck builds negative-twin agents to verify decisions of stateful agents using evidence-grounded checks. The technique targets hallucinations and wrong actions. Useful for anyone needing to audit long-running agents. Still research, but the method is promising.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "verificação",
+      "pesquisa"
+    ],
+    "img": "img/938922d99099.jpg",
+    "ts": 1790222400,
+    "addedTs": 1790239942,
+    "urlHash": "938922d99099",
+    "titleHash": "e9c87dcee112"
+  },
+  {
+    "title": "Escaping Python Dependency Hell: A Hybrid Replay-and-Repair Pipeline for Python Dependency Resolution",
+    "titlePt": "Fugindo do inferno de dependências Python",
+    "url": "https://arxiv.org/abs/2609.26952",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "Pesquisadores propõem um pipeline híbrido de replay e reparo para resolver conflitos de dependência em Python. Quem já brigou com conflitos de pacotes sabe como isso consome horas. Pode ajudar times que mantêm projetos grandes com muitas dependências. Ainda é acadêmico, mas o problema é real e comum.",
+    "reasonEn": "Researchers propose a hybrid replay-and-repair pipeline for Python dependency conflicts. Anyone who has fought package conflicts knows how many hours that eats. It could help teams maintaining large projects with many dependencies. Still academic, but the problem is real and common.",
+    "score": 0.6,
+    "tags": [
+      "python",
+      "devops",
+      "pesquisa"
+    ],
+    "img": "img/5ec98b996d5d.jpg",
+    "ts": 1790222400,
+    "addedTs": 1790239942,
+    "urlHash": "5ec98b996d5d",
+    "titleHash": "d6b54c4aeffd"
+  },
+  {
+    "title": "Policy-as-Skill: Governed LLM Decision Support with Evidence, Deterministic Control, and Audit",
+    "titlePt": "Policy-as-Skill: governança determinística para LLMs",
+    "url": "https://arxiv.org/abs/2609.27087",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "O artigo propõe tratar políticas como habilidades dentro do agente, com controle determinístico e auditoria. A ideia é ter governança embutida no próprio fluxo do LLM. Importa para empresas em setores regulados como saúde e finanças. Conceito interessante, ainda em fase de pesquisa.",
+    "reasonEn": "The paper proposes treating policies as skills inside the agent, with deterministic control and auditing. The idea is to bake governance into the LLM flow itself. Matters for companies in regulated sectors like healthcare and finance. Interesting concept, still in research phase.",
+    "score": 0.5,
+    "tags": [
+      "governança",
+      "llm",
+      "regulação"
+    ],
+    "img": "img/0e5feed78f21.jpg",
+    "ts": 1790222400,
+    "addedTs": 1790239942,
+    "urlHash": "0e5feed78f21",
+    "titleHash": "372d57bcec93"
+  },
+  {
+    "title": "CAVEAT: Towards Robust Computer-Use Agents in Incentive-Misaligned Environments",
+    "titlePt": "CAVEAT: agentes de computador robustos a incentivos desalinhados",
+    "url": "https://arxiv.org/abs/2609.27273",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "O framework CAVEAT busca tornar agentes que controlam computadores mais robustos contra ambientes com incentivos desalinhados. Tenta evitar que o agente seja manipulado a agir contra o usuário. Importa para quem confia em agentes autônomos em tarefas reais. Pesquisa relevante para segurança prática.",
+    "reasonEn": "The CAVEAT framework aims to make computer-use agents more robust against incentive-misaligned environments. It tries to prevent the agent from being tricked into acting against the user. Matters for anyone trusting autonomous agents on real tasks. Relevant research for practical safety.",
+    "score": 0.7,
+    "tags": [
+      "agentes",
+      "segurança",
+      "pesquisa"
+    ],
+    "img": "img/115f1c846c0d.jpg",
+    "ts": 1790222400,
+    "addedTs": 1790239942,
+    "urlHash": "115f1c846c0d",
+    "titleHash": "b7cb246a3a05"
+  },
+  {
+    "title": "Anthropic says its biology lab has already found something big",
+    "titlePt": "Anthropic diz que seu laboratório de biologia já descobriu algo grande",
+    "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A Anthropic revelou que sua divisão de biologia, voltada a aplicar IA em ciências da vida, já encontrou resultados significativos. A empresa não detalhou o que foi, mas o anúncio sugere avanço importante em pesquisa biomédica com IA. Pode indicar novos medicamentos ou descobertas em biologia fundamental. Afeta o setor de saúde e investidores em biotech com IA.",
+    "reasonEn": "Anthropic revealed that its biology lab, focused on applying AI to life sciences, has already found significant results. The company didn't detail what was found, but the announcement suggests a major advance in AI-driven biomedical research. It could mean new drugs or fundamental biology discoveries. Affects the health sector and AI biotech investors.",
+    "score": 0.8,
+    "tags": [
+      "anthropic",
+      "biologia",
+      "pesquisa"
+    ],
+    "img": "img/48a9d95577c8.jpg",
+    "ts": 1790201859,
+    "addedTs": 1790239942,
+    "urlHash": "48a9d95577c8",
+    "titleHash": "b75579e785f9"
+  },
+  {
     "title": "AI Isn't Going to Destroy Humanity–But the People Building It Might",
     "titlePt": "IA não vai destruir a humanidade — mas quem a constrói pode",
     "url": "https://www.theatlantic.com/technology/2026/09/kara-swisher-ai-destroy-humanity-atlantic-festival/688721/",
@@ -9760,89 +10133,5 @@
     "addedTs": 1789635737,
     "urlHash": "4410122683c5",
     "titleHash": "f6eae059d459"
-  },
-  {
-    "title": "Position: AI Is Not Ready for Strategic Conflicts",
-    "titlePt": "Posição: a IA não está pronta para conflitos estratégicos",
-    "url": "https://arxiv.org/abs/2609.16189",
-    "source": "arXiv AI",
-    "sources": [
-      "arXiv AI"
-    ],
-    "reason": "Um grupo de pesquisadores defende que sistemas de IA ainda não são confiáveis para participar de decisões militares ou geopolíticas de alto risco. Eles argumentam que os modelos atuais falham em entender contexto, improvisar e avaliar consequências de longo prazo. O artigo pede moratórias e auditorias antes de liberar IA em cadeias de comando sensíveis. É um alerta direto para formuladores de políticas e executivos de defesa. Para o público em geral, mostra que o debate sobre IA militar está longe de terminar.",
-    "reasonEn": "A group of researchers argues that AI systems are not yet reliable enough to participate in military or high-stakes geopolitical decisions. They claim current models fail to understand context, improvise and evaluate long-term consequences. The paper calls for moratoria and audits before releasing AI into sensitive command chains. It's a direct warning for policymakers and defense executives. For the general public, it shows the debate on military AI is far from over.",
-    "score": 0.55,
-    "tags": [
-      "política",
-      "segurança"
-    ],
-    "img": "img/fba1d648794c.jpg",
-    "ts": 1789531200,
-    "addedTs": 1789612373,
-    "urlHash": "fba1d648794c",
-    "titleHash": "7afdb6abc9f4"
-  },
-  {
-    "title": "Artificial intelligence and biosecurity: capabilities, threat pathways, and defense-in-depth governance",
-    "titlePt": "IA e biossegurança: capacidades, ameaças e governança em camadas",
-    "url": "https://arxiv.org/abs/2609.16213",
-    "source": "arXiv AI",
-    "sources": [
-      "arXiv AI"
-    ],
-    "reason": "O artigo mapeia como a inteligência artificial pode ser usada de forma perigosa em biologia, desde sintetizar vírus até criar armas biológicas. Os autores propõem uma governança em camadas, com controle técnico, institucional e internacional. É um alerta sério para governos e laboratórios que trabalham com IA aplicada à saúde. Para desenvolvedores de biotecnologia com IA, vale conhecer as preocupações antes de publicar ferramentas. O texto tenta equilibrar inovação com segurança pública.",
-    "reasonEn": "The article maps how artificial intelligence can be used dangerously in biology, from synthesizing viruses to creating biological weapons. The authors propose layered governance, with technical, institutional and international control. It's a serious warning for governments and labs working with AI applied to health. For biotech developers using AI, it's worth knowing the concerns before publishing tools. The text tries to balance innovation with public safety.",
-    "score": 0.55,
-    "tags": [
-      "segurança",
-      "política"
-    ],
-    "img": "img/f46ca6633e8a.jpg",
-    "ts": 1789531200,
-    "addedTs": 1789612373,
-    "urlHash": "f46ca6633e8a",
-    "titleHash": "e2e24fb10617"
-  },
-  {
-    "title": "The AI-Enabled Scientific Frontier",
-    "titlePt": "A fronteira científica habilitada por IA",
-    "url": "https://arxiv.org/abs/2609.16258",
-    "source": "arXiv AI",
-    "sources": [
-      "arXiv AI"
-    ],
-    "reason": "O artigo discute como a IA está acelerando descobertas científicas em áreas como materiais, química e biologia. Os autores mostram que modelos de linguagem já ajudam a gerar hipóteses, ler papers e sugerir experimentos. O texto é mais uma visão geral do que pesquisa nova. Para desenvolvedores, indica onde estão as oportunidades de aplicar IA fora do mundo tech tradicional. Pode inspirar novos produtos e parcerias com a academia.",
-    "reasonEn": "The article discusses how AI is accelerating scientific discoveries in areas like materials, chemistry and biology. The authors show that language models already help generate hypotheses, read papers and suggest experiments. The text is more of an overview than new research. For developers, it points to opportunities for applying AI outside the traditional tech world. It may inspire new products and partnerships with academia.",
-    "score": 0.5,
-    "tags": [
-      "ciência",
-      "pesquisa"
-    ],
-    "img": "img/baebf0bb3a4d.jpg",
-    "ts": 1789531200,
-    "addedTs": 1789612373,
-    "urlHash": "baebf0bb3a4d",
-    "titleHash": "6406cd6657bc"
-  },
-  {
-    "title": "The AI policy window is open. We need to act.",
-    "titlePt": "A janela de políticas de IA está aberta. Precisamos agir.",
-    "url": "https://openai.com/index/ai-policy-window",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A OpenAI publicou um texto defendendo que governos aproveitem a janela atual para criar regras de inteligência artificial antes que a tecnologia fique fora de controle. A empresa pede regulação proporcional, que proteja a sociedade sem matar a inovação. É posicionamento clássico da indústria, mas vem em momento de pressão por leis mais duras em vários países. Para desenvolvedores, vale acompanhar de perto, porque novas regras podem mudar produtos e custos.",
-    "reasonEn": "OpenAI published a text arguing that governments should take advantage of the current window to create artificial intelligence rules before the technology spirals out of control. The company calls for proportional regulation, that protects society without killing innovation. It's classic industry positioning, but it comes at a time of pressure for tougher laws in several countries. For developers, it's worth following closely, because new rules may change products and costs.",
-    "score": 0.55,
-    "tags": [
-      "política",
-      "openai"
-    ],
-    "img": "img/a7c183de5112.jpg",
-    "ts": 1788958800,
-    "addedTs": 1789612373,
-    "urlHash": "a7c183de5112",
-    "titleHash": "ed1f929d7acc"
   }
 ]
