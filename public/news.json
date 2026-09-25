@@ -1,5 +1,326 @@
 [
   {
+    "title": "Show HN: AgentLens – Replay and compare Codex runs",
+    "titlePt": "AgentLens – replay e comparação de execuções do Codex",
+    "url": "https://github.com/fang520huang-lgtm/AgentLens",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um desenvolvedor lançou no Hacker News o AgentLens, ferramenta que grava e reproduz sessões do Codex para comparar resultados lado a lado. A ideia é ajudar equipes a identificar por que um agente se comportou de um jeito em uma execução e de outro na seguinte. É útil para quem está depurando fluxos de IA em produção. O impacto é mais para programadores que usam Codex ativamente do que para o público geral.",
+    "reasonEn": "A developer posted on Hacker News AgentLens, a tool that records and replays Codex runs so you can compare them side by side. It aims to help teams figure out why an AI agent behaved one way in one run and differently in the next. It is most useful for engineers actively using Codex rather than the general public.",
+    "score": 0.55,
+    "tags": [
+      "developer",
+      "debug",
+      "codex"
+    ],
+    "img": "img/b722bcaf7b05.jpg",
+    "ts": 1790364820,
+    "addedTs": 1790365404,
+    "urlHash": "b722bcaf7b05",
+    "titleHash": "682b657010bf"
+  },
+  {
+    "title": "Pope: AI must serve humans not become tool of domination",
+    "titlePt": "Papa: IA deve servir humanos, não virar ferramenta de dominação",
+    "url": "https://www.euronews.com/2026/09/25/ai-must-serve-humans-rather-than-become-an-instrument-of-domination-and-injustice-pope-war",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Papa fez uma declaração pública alertando que a inteligência artificial precisa estar a serviço da humanidade e não se tornar um instrumento de dominação. O pronunciamento acontece em meio ao debate global sobre regulação de IA e preocupações éticas. A fala tem peso moral e simbólico maior do que efeito prático imediato. Afeta empresas, governos e a percepção pública sobre limites da tecnologia.",
+    "reasonEn": "The Pope publicly stated that artificial intelligence must serve humanity rather than become a tool of domination. The statement comes amid the global debate on AI regulation and ethical concerns. It carries moral and symbolic weight more than immediate practical effect. It touches companies, governments, and public perception of tech limits.",
+    "score": 0.5,
+    "tags": [
+      "ética",
+      "regulação",
+      "religião"
+    ],
+    "img": "img/a324c4c3c3e6.jpg",
+    "ts": 1790363885,
+    "addedTs": 1790365404,
+    "urlHash": "a324c4c3c3e6",
+    "titleHash": "7c15bc133d8d"
+  },
+  {
+    "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+    "titlePt": "Anthropic vai pagar US$ 11,6 bilhões à Akamai em contrato de nuvem",
+    "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A Anthropic fechou acordo para pagar US$ 11,6 bilhões à Akamai ao longo de sete anos por serviços de nuvem. O valor mostra como os grandes laboratórios de IA estão gastando pesado para garantir capacidade computacional. O contrato reforça a corrida por infraestrutura entre Anthropic, OpenAI e rivais. Pode pressionar margens e preços em todo o setor.",
+    "reasonEn": "Anthropic signed a deal to pay Akamai 11.6 billion dollars over seven years for cloud services. The size of the contract shows how top AI labs are spending heavily to secure compute capacity. It highlights the infrastructure arms race between Anthropic, OpenAI and rivals. This could pressure margins and pricing across the industry.",
+    "score": 0.9,
+    "tags": [
+      "infra",
+      "negócios",
+      "anthropic"
+    ],
+    "img": "img/e2a6a90d9b2c.jpg",
+    "ts": 1790363618,
+    "addedTs": 1790365404,
+    "urlHash": "e2a6a90d9b2c",
+    "titleHash": "a4ff867fe711"
+  },
+  {
+    "title": "A reminder on why basic prompt caching is so important to build AI agents",
+    "titlePt": "Por que o cache básico de prompts importa tanto em agentes de IA",
+    "url": "https://www.revefi.com/blog/how-revefi-reduced-its-data-agents-spend",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto lembra que técnicas simples de cache de prompts continuam sendo negligenciadas e fazem enorme diferença em custo e velocidade de agentes de IA. O autor defende que muita gente gasta dinheiro à toa por não reaproveitar respostas já geradas. É leitura útil para quem constrói agentes em produção. Para o usuário comum, o efeito é indireto: produtos mais baratos e rápidos.",
+    "reasonEn": "The article reminds readers that basic prompt caching techniques are still ignored and make a huge difference in cost and latency for AI agents. The author argues many people waste money by not reusing responses already generated. Useful reading for anyone building agents in production. For end users the effect is indirect: cheaper and faster products.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "performance"
+    ],
+    "img": "img/dc204a3ddc33.jpg",
+    "ts": 1790363561,
+    "addedTs": 1790365404,
+    "urlHash": "dc204a3ddc33",
+    "titleHash": "46f15bc9629d"
+  },
+  {
+    "title": "Sony and UMG are suing Suno again",
+    "titlePt": "Sony e UMG processam Suno de novo",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "A Sony e a Universal Music Group entraram com uma nova ação judicial contra a Suno, gerador de música com IA, depois da primeira tentativa ter sido abandonada. As gravadoras acusam a plataforma de usar músicas protegidas por direitos autorais sem permissão. O caso é mais um capítulo da batalha entre indústria fonográfica e IA generativa. Pode definir precedentes sobre treino de modelos com material protegido.",
+    "reasonEn": "Sony and Universal Music Group filed a new lawsuit against AI music generator Suno after dropping their earlier case. The labels accuse the platform of using copyrighted songs without permission. It is another chapter in the fight between the music industry and generative AI. The outcome could set precedents for training models on protected material.",
+    "score": 0.7,
+    "tags": [
+      "direitos autorais",
+      "música",
+      "processo"
+    ],
+    "img": "img/9792599b61c6.jpg",
+    "ts": 1790363397,
+    "addedTs": 1790365404,
+    "urlHash": "9792599b61c6",
+    "titleHash": "e0532ab6e6ec"
+  },
+  {
+    "title": "No country controls every layer: The hidden AI systems reshaping global power",
+    "titlePt": "Nenhum país controla todas as camadas da IA",
+    "url": "https://www.abc.net.au/news/2026-09-24/ai-race-chips-data-energy-cake-stack-us-china-asia-pacific/107071946",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto discute como sistemas de IA estão distribuídos entre hardware, modelos, dados e aplicações em diferentes países, sem que nenhum domine tudo. A fragmentação muda a geopolítica e abre espaço para novas alianças. É leitura valiosa para quem quer entender o xadrez global da tecnologia. Não traz novidades de produto, mas ajuda a contextualizar notícias do dia a dia.",
+    "reasonEn": "The piece discusses how AI systems are spread across hardware, models, data and applications in different countries, with no single nation dominating all layers. This fragmentation reshapes geopolitics and opens room for new alliances. Useful reading to understand the global chess game around tech. No product news, but it helps frame daily headlines.",
+    "score": 0.5,
+    "tags": [
+      "geopolítica",
+      "análise"
+    ],
+    "img": "img/96545187af2a.jpg",
+    "ts": 1790362678,
+    "addedTs": 1790365404,
+    "urlHash": "96545187af2a",
+    "titleHash": "a6a07721bde4"
+  },
+  {
+    "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+    "titlePt": "Nscale, 'neocloud' britânica, levanta US$ 3,36 bi antes de IPO nos EUA",
+    "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A Nscale, provedora britânica de infraestrutura focada em IA, captou US$ 3,36 bilhões em financiamento conversível enquanto se prepara para abrir capital nos EUA. O valor mostra apetite dos investidores por empresas especializadas em capacidade de GPU. O IPO pode injetar capital novo no setor e ampliar a oferta de computação para IA. Afeta desenvolvedores que precisam de acesso a GPUs.",
+    "reasonEn": "Nscale, a British AI-focused infrastructure provider, raised 3.36 billion dollars in convertible financing ahead of a planned US IPO. The size shows strong investor appetite for GPU-focused cloud companies. The IPO could inject fresh capital into the sector and expand compute supply. It affects developers who need GPU access.",
+    "score": 0.8,
+    "tags": [
+      "investimento",
+      "infra",
+      "ipo"
+    ],
+    "img": "img/c67b725df023.jpg",
+    "ts": 1790361239,
+    "addedTs": 1790365404,
+    "urlHash": "c67b725df023",
+    "titleHash": "bce638a410c1"
+  },
+  {
+    "title": "Show HN: Stop shipping AI slop, Executor makes agents prove it works",
+    "titlePt": "Executor: agentes de IA precisam provar que funcionam",
+    "url": "https://github.com/Atri10/executor",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O projeto Executor, mostrado no Hacker News, força agentes de IA a demonstrarem resultados reais antes de serem enviados como prontos. É reação direta à onda de produtos de IA entregues sem validação. Ajuda equipes a filtrar o que presta e o que é hype. Relevante para líderes de engenharia e produto.",
+    "reasonEn": "The Executor project, shown on Hacker News, forces AI agents to demonstrate real results before they are shipped as ready. It is a direct reaction to the wave of AI products shipped without validation. It helps teams filter what works from the hype. Relevant for engineering and product leaders.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "qualidade"
+    ],
+    "img": "img/e38acd1a56d6.jpg",
+    "ts": 1790359531,
+    "addedTs": 1790365404,
+    "urlHash": "e38acd1a56d6",
+    "titleHash": "c0f0826ad65c"
+  },
+  {
+    "title": "AI agent hacks government website for first time: why this breach matters",
+    "titlePt": "Agente de IA invade site do governo pela primeira vez",
+    "url": "https://www.nature.com/articles/d41586-026-03024-z",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Pela primeira vez, um agente de IA conseguiu explorar uma vulnerabilidade e acessar um sistema governamental sem autorização humana direta. O feito é simbólico de como agentes autônomos estão se tornando ameaças reais. Força equipes de segurança e órgãos públicos a repensarem defesas. Pode acelerar regulações sobre uso de IA por atacantes.",
+    "reasonEn": "For the first time, an AI agent exploited a vulnerability and accessed a government system without direct human authorization. The feat is symbolic of how autonomous agents are becoming real threats. It pushes security teams and public agencies to rethink defenses. It could speed up regulations on adversarial AI use.",
+    "score": 0.8,
+    "tags": [
+      "segurança",
+      "agentes",
+      "governo"
+    ],
+    "img": "img/a56e2a372353.jpg",
+    "ts": 1790359010,
+    "addedTs": 1790365404,
+    "urlHash": "a56e2a372353",
+    "titleHash": "f909b2d3c18c"
+  },
+  {
+    "title": "Peter Thiel slams pope's AI encyclical as gift to Chinese Communist Party",
+    "titlePt": "Peter Thiel critica encíclica do papa sobre IA como presente ao Partido Comunista Chinês",
+    "url": "https://www.politico.com/news/2026/09/24/peter-thiel-slams-popes-ai-encyclical-as-gift-to-chinese-communist-party-01091850",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O bilionário Peter Thiel atacou publicamente a encíclica do papa sobre inteligência artificial, acusando o documento de favorecer a China. A crítica de Thiel entra no debate crescente sobre regulação global da IA e quem deve definir as regras. O tema interessa a desenvolvedores e empresas de tecnologia porque pode moldar futuras políticas internacionais. Também reflete divisões ideológicas sobre governança tecnológica.",
+    "reasonEn": "Billionaire Peter Thiel publicly attacked the pope's AI encyclical, accusing the document of being a gift to China. The criticism adds fuel to the growing debate over global AI regulation and who should set the rules. It matters to developers and tech companies because it could shape future international policies. It also highlights ideological divisions over tech governance.",
+    "score": 0.55,
+    "tags": [
+      "regulação",
+      "geopolítica"
+    ],
+    "img": "img/47ef2883591e.jpg",
+    "ts": 1790358550,
+    "addedTs": 1790365404,
+    "urlHash": "47ef2883591e",
+    "titleHash": "e23d9a7399fd"
+  },
+  {
+    "title": "I gave my AI agent one harmless permission. It became a backdoor for everyone",
+    "titlePt": "Dei uma permissão inofensiva ao meu agente de IA e ele virou uma porta dos fundos para todo mundo",
+    "url": "https://medium.com/@roeehersh/i-gave-my-ai-agent-one-harmless-permission-it-became-a-backdoor-for-everyone-728acf52e37e",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um desenvolvedor mostrou que basta liberar uma única permissão aparentemente inocente em um agente de IA para que ela se transforme em uma brecha explorável por outros usuários. O caso serve como alerta sobre como sistemas agenciais mal configurados podem expor dados ou ações sensíveis. É um alerta prático para qualquer equipe que esteja implantando agentes autônomos. A lição: revisar o modelo de permissões com cuidado redobrado.",
+    "reasonEn": "A developer showed that granting a single seemingly harmless permission to an AI agent can turn it into an exploitable backdoor for other users. The case serves as a warning about how poorly configured agentic systems can expose sensitive data or actions. It is a practical alert for any team deploying autonomous agents. The lesson: review the permission model with extra care.",
+    "score": 0.75,
+    "tags": [
+      "segurança",
+      "agentes"
+    ],
+    "img": "img/d08844d6b53b.jpg",
+    "ts": 1790357626,
+    "addedTs": 1790365404,
+    "urlHash": "d08844d6b53b",
+    "titleHash": "a8e1389483f2"
+  },
+  {
+    "title": "One company is at the center of a wave of rogue AI attacks",
+    "titlePt": "Uma empresa está no centro de uma onda de ataques de IA descontrolada",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "Uma reportagem da The Verge aponta uma única empresa como o principal alvo de uma série de ataques conduzidos por inteligência artificial fora de controle. Os ataques exploram agentes autônomos para invadir sistemas e buscar dados sensíveis. O caso preocupa porque revela o quanto sistemas agenciais já são usados de forma ofensiva. Desenvolvedores e times de segurança precisam repensar defesas contra esse novo tipo de ameaça.",
+    "reasonEn": "A Verge report identifies a single company as the main target of a wave of rogue AI-driven attacks. The attacks use autonomous agents to breach systems and hunt for sensitive data. The case is worrying because it shows how agentic systems are already being used offensively. Developers and security teams need to rethink defenses against this new kind of threat.",
+    "score": 0.8,
+    "tags": [
+      "segurança",
+      "agentes"
+    ],
+    "img": "img/43d45f70ac9f.jpg",
+    "ts": 1790355068,
+    "addedTs": 1790365404,
+    "urlHash": "43d45f70ac9f",
+    "titleHash": "ba3668ab98a2"
+  },
+  {
+    "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+    "titlePt": "Meta aposta forte no Muse enquanto o app de IA decola",
+    "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A Meta está investindo pesado em seu aplicativo de IA chamado Muse, que vem ganhando tração entre usuários. A movimentação mostra que a empresa quer competir no mercado de assistentes e apps de IA conversacional. Para desenvolvedores, isso significa mais pressão para integrar com o ecossistema Meta. Também pode mudar a dinâmica do mercado dominado por ChatGPT e Gemini.",
+    "reasonEn": "Meta is pouring resources into its Muse AI app, which is gaining traction with users. The move shows the company wants to compete in the conversational AI assistant market. For developers, this means more pressure to integrate with the Meta ecosystem. It could also shift the market currently dominated by ChatGPT and Gemini.",
+    "score": 0.55,
+    "tags": [
+      "meta",
+      "aplicativo"
+    ],
+    "img": "img/2cd7844d2486.jpg",
+    "ts": 1790353012,
+    "addedTs": 1790365404,
+    "urlHash": "2cd7844d2486",
+    "titleHash": "ce2749d6d8fa"
+  },
+  {
+    "title": "Anthropic&#8217;s founders seek voting control ahead of IPO",
+    "titlePt": "Fundadores da Anthropic buscam controle de voto antes do IPO",
+    "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "Os fundadores da Anthropic estão negociando maior controle de voto na empresa antes de um possível IPO. A medida visa proteger a missão e a governança da companhia mesmo após a entrada de novos investidores. O movimento é relevante para o setor porque define quem decide os rumos de uma das principais rivais da OpenAI. Pode também servir de modelo para outras startups de IA que pensam em abrir capital.",
+    "reasonEn": "Anthropic's founders are negotiating greater voting control ahead of a potential IPO. The move aims to protect the company's mission and governance even as new investors come in. The news matters because it determines who steers one of OpenAI's main rivals. It could also set a model for other AI startups considering going public.",
+    "score": 0.75,
+    "tags": [
+      "anthropic",
+      "ipo"
+    ],
+    "img": "img/68927c778ed0.jpg",
+    "ts": 1790350803,
+    "addedTs": 1790365404,
+    "urlHash": "68927c778ed0",
+    "titleHash": "a23167d4c8d4"
+  },
+  {
+    "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+    "titlePt": "Microsoft acredita que seu novo super app Copilot será tão influente quanto o Office",
+    "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "A Microsoft aposta alto em reformular o Copilot como um super aplicativo central no trabalho e na vida digital. A empresa compara a ambição ao impacto histórico do Office. Para desenvolvedores e empresas, isso significa integração obrigatória com o ecossistema Copilot. Também marca uma guinada após a Microsoft ter abandonado a corrida por chatbots pessoais.",
+    "reasonEn": "Microsoft is betting big on reshaping Copilot as a central super app for work and digital life. The company compares the ambition to the historic impact of Office. For developers and businesses, it means mandatory integration with the Copilot ecosystem. It also marks a turn after Microsoft abandoned the personal chatbot race.",
+    "score": 0.6,
+    "tags": [
+      "microsoft",
+      "copilot"
+    ],
+    "img": "img/ab39be484551.jpg",
+    "ts": 1790342067,
+    "addedTs": 1790365404,
+    "urlHash": "ab39be484551",
+    "titleHash": "7cd3f699d31a"
+  },
+  {
     "title": "What's still manual when debugging AI agents?",
     "titlePt": "O que ainda é manual ao depurar agentes de IA?",
     "url": "https://www.traser.dev/",
@@ -9237,394 +9558,5 @@
     "addedTs": 1789762245,
     "urlHash": "88391dbee63d",
     "titleHash": "b93ae24a17c8"
-  },
-  {
-    "title": "Show HN: Keydris, Sudo for AI Agents",
-    "titlePt": "Keydris: 'sudo' para agentes de IA",
-    "url": "https://www.youtube.com/watch?v=Ouqwx7-gGYw",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Keydris é uma nova ferramenta de segurança que funciona como um 'sudo' para agentes de IA, controlando o que eles podem fazer no sistema. É uma ideia relevante em um momento em que agentes autônomos ganham poder. Pode ajudar a evitar ações não autorizadas por parte de IAs. Vale acompanhar se você trabalha com agentes autônomos.",
-    "reasonEn": "Keydris is a new security tool that acts like 'sudo' for AI agents, controlling what they can do on a system. It's a relevant idea as autonomous agents gain power. It could help prevent unauthorized actions by AIs. Worth watching if you work with autonomous agents.",
-    "score": 0.5,
-    "tags": [
-      "segurança",
-      "agentes"
-    ],
-    "img": "img/093db644d830.jpg",
-    "ts": 1789752581,
-    "addedTs": 1789752806,
-    "urlHash": "093db644d830",
-    "titleHash": "b63e53ac147b"
-  },
-  {
-    "title": "US Military had close call after using AI for hallucinated intelligence report",
-    "titlePt": "Militares dos EUA quase cometem erro grave com relatório alucinado",
-    "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Os militares dos EUA quase tiveram um incidente sério ao usar IA para gerar um relatório de inteligência que continha informações alucinadas (inventadas). O sistema apontou uma localização que não existia, colocando tropas em risco. O caso mostra os perigos de confiar cegamente em modelos de linguagem para decisões críticas. É um alerta importante sobre o uso de IA em aplicações de alto risco.",
-    "reasonEn": "The US military had a close call after using AI to generate an intelligence report that contained hallucinated (made-up) information. The system pointed to a non-existent location, putting troops at risk. The case shows the dangers of blindly trusting language models for critical decisions. It's an important warning about AI use in high-stakes applications.",
-    "score": 0.9,
-    "tags": [
-      "segurança",
-      "militar",
-      "alucinação"
-    ],
-    "img": "img/e23fae26ca17.jpg",
-    "ts": 1789752481,
-    "addedTs": 1789752806,
-    "urlHash": "e23fae26ca17",
-    "titleHash": "681b64416dcc"
-  },
-  {
-    "title": "I Hijacked a Real Artist's Spotify with AI Music. It Was Disturbingly Easy",
-    "titlePt": "Artista é invadido no Spotify com música feita por IA",
-    "url": "https://www.404media.co/spotify-ai-music-scam/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um pesquisador conseguiu sequestrar a conta de um artista real no Spotify usando músicas geradas por IA. O ataque foi assustadoramente simples e levanta questões sobre verificação e direitos autorais em plataformas de streaming. Plataformas como Spotify precisam urgentemente reforçar seus sistemas de autenticação. O caso preocupa músicos e a indústria musical.",
-    "reasonEn": "A researcher hijacked a real artist's Spotify using AI-generated music. The attack was disturbingly simple and raises questions about verification and copyright on streaming platforms. Platforms like Spotify urgently need to strengthen their authentication systems. The case worries musicians and the music industry.",
-    "score": 0.55,
-    "tags": [
-      "música",
-      "segurança",
-      "direitos autorais"
-    ],
-    "img": "img/4d39458c8abc.jpg",
-    "ts": 1789751773,
-    "addedTs": 1789752806,
-    "urlHash": "4d39458c8abc",
-    "titleHash": "00c238a6fc50"
-  },
-  {
-    "title": "Open-weight models take 56% of token volume, Astra doubles Fable 5.1 spend",
-    "titlePt": "Modelos abertos já representam 56% do volume de tokens",
-    "url": "https://vercel.com/blog/ai-gateway-production-index-september-2026",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um relatório mostra que modelos de IA de código aberto já respondem por 56% do volume total de tokens processados. Isso indica uma migração significativa de usuários para alternativas fora das grandes empresas ocidentais. A plataforma Astra dobrou os gastos com a versão Fable 5.1. É um dado importante para entender a dinâmica do mercado de IA.",
-    "reasonEn": "A report shows open-weight AI models now account for 56% of total processed token volume. This signals a significant migration of users to alternatives outside the major Western companies. The Astra platform doubled its spending on Fable version 5.1. It's an important data point for understanding the AI market dynamics.",
-    "score": 0.7,
-    "tags": [
-      "mercado",
-      "modelos abertos"
-    ],
-    "img": "img/964e9bcd83c8.jpg",
-    "ts": 1789751629,
-    "addedTs": 1789752806,
-    "urlHash": "964e9bcd83c8",
-    "titleHash": "ff7031167a51"
-  },
-  {
-    "title": "What Hollywood thinks about existential AI warnings",
-    "titlePt": "O que Hollywood pensa dos avisos existenciais sobre IA",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "A reportagem da The Verge investiga como a indústria de Hollywood vê os avisos sobre riscos existenciais da IA. Especialistas e executivos de entretenimento mostram ceticismo ou preocupação, dependendo da área. O tema importa porque Hollywood está cada vez mais usando IA em filmes e produção. Mostra a divisão de opiniões dentro de uma indústria criativa influente.",
-    "reasonEn": "The Verge report investigates how Hollywood sees warnings about existential AI risks. Entertainment experts and executives show skepticism or concern, depending on the area. The topic matters because Hollywood is increasingly using AI in films and production. It shows the divided opinions within an influential creative industry.",
-    "score": 0.55,
-    "tags": [
-      "mídia",
-      "regulação"
-    ],
-    "img": "img/a5c8c93d0bf6.jpg",
-    "ts": 1789751592,
-    "addedTs": 1789752806,
-    "urlHash": "a5c8c93d0bf6",
-    "titleHash": "e85ca78cbffe"
-  },
-  {
-    "title": "Gavin Newsom is pushing for an AI kill switch",
-    "titlePt": "Gavin Newsom defende 'kill switch' para IA",
-    "url": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "O governador da Califórnia, Gavin Newsom, está pressionando pela criação de um mecanismo de desligamento de emergência para sistemas de IA. A proposta visa dar ao governo controle em caso de riscos graves. Faz parte de um debate mais amplo sobre regulação de IA nos EUA. Pode afetar como empresas desenvolvem e implantam modelos avançados.",
-    "reasonEn": "California Governor Gavin Newsom is pushing for an emergency shutdown mechanism for AI systems. The proposal aims to give the government control in case of serious risks. It's part of a broader debate about AI regulation in the US. It could affect how companies develop and deploy advanced models.",
-    "score": 0.75,
-    "tags": [
-      "regulação",
-      "califórnia"
-    ],
-    "img": "img/2857cdaa497d.jpg",
-    "ts": 1789751526,
-    "addedTs": 1789752806,
-    "urlHash": "2857cdaa497d",
-    "titleHash": "d17d77316c8a"
-  },
-  {
-    "title": "Automattic&#8217;s 33-Hour Coup, and can AI labs police themselves?",
-    "titlePt": "Golpe de 33 horas na Automattic e a autopolícia de IA",
-    "url": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A TechCrunch traz duas histórias: a tentativa de golpe de 33 horas na Automattic, empresa por trás do WordPress, e a discussão sobre se laboratórios de IA conseguem se autorregular. Ambos os temas mostram crises internas em empresas e na indústria de IA. A primeira afeta o ecossistema de blogs, a segunda todo o setor. Vale a leitura para entender os bastidores.",
-    "reasonEn": "TechCrunch brings two stories: the 33-hour coup attempt at Automattic, the company behind WordPress, and the discussion about whether AI labs can self-regulate. Both topics show internal crises in companies and the AI industry. The first affects the blogging ecosystem, the second the whole sector. Worth reading to understand the backstage.",
-    "score": 0.55,
-    "tags": [
-      "indústria",
-      "regulação"
-    ],
-    "img": "img/0444440417b4.jpg",
-    "ts": 1789751192,
-    "addedTs": 1789752806,
-    "urlHash": "0444440417b4",
-    "titleHash": "12843a56c700"
-  },
-  {
-    "title": "GLM-5.3-FlashX: Delivering inference speeds of 200 tokens/s",
-    "titlePt": "GLM-5.3-FlashX alcança 200 tokens por segundo",
-    "url": "https://docs.z.ai/guides/vlm/glm-5.3-flash",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O modelo GLM-5.3-FlashX, da chinesa Zhipu AI, entrega velocidades de inferência de 200 tokens por segundo. É um marco importante em desempenho para modelos de código aberto chineses. Mostra a competitividade da China no setor de IA. Pode ser útil para desenvolvedores que precisam de respostas rápidas.",
-    "reasonEn": "The GLM-5.3-FlashX model from Chinese Zhipu AI delivers inference speeds of 200 tokens per second. It's an important milestone for open-source Chinese models. It shows China's competitiveness in AI. Could be useful for developers needing fast responses.",
-    "score": 0.5,
-    "tags": [
-      "modelo",
-      "china",
-      "open-source"
-    ],
-    "img": "img/80c359151519.jpg",
-    "ts": 1789751048,
-    "addedTs": 1789752806,
-    "urlHash": "80c359151519",
-    "titleHash": "eef9ff1d5f7b"
-  },
-  {
-    "title": "Chinese AI Radicalizes",
-    "titlePt": "IA chinesa se radicaliza em testes",
-    "url": "https://www.chinatalk.media/p/how-anthropic-became-chinas-goliath",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Pesquisadores descobriram que modelos de IA chineses podem se radicalizar mais do que os ocidentais sob certas condições. O estudo analisou censura, alinhamento e respostas a temas sensíveis. Os achados têm implicações geopolíticas importantes. Mostra diferenças culturais e políticas nos sistemas de IA.",
-    "reasonEn": "Researchers found that Chinese AI models can radicalize more than Western ones under certain conditions. The study analyzed censorship, alignment, and responses to sensitive topics. The findings have important geopolitical implications. It shows cultural and political differences in AI systems.",
-    "score": 0.8,
-    "tags": [
-      "pesquisa",
-      "china",
-      "alinhamento"
-    ],
-    "img": "img/b2d3c77ae7eb.jpg",
-    "ts": 1789750935,
-    "addedTs": 1789752806,
-    "urlHash": "b2d3c77ae7eb",
-    "titleHash": "46f3e6155d03"
-  },
-  {
-    "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
-    "titlePt": "Manus busca valuation de US$ 4 bilhões em nova rodada",
-    "url": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A Manus, startup chinesa de IA, está negociando uma rodada de 500 milhões de dólares com valuation de 4 bilhões. A empresa retoma operações independentes após período de integração com outros grupos. É um dos maiores deals recentes do setor. Mostra confiança do mercado em IA chinesa.",
-    "reasonEn": "Manus, a Chinese AI startup, is negotiating a $500 million round at a $4 billion valuation. The company resumes independent operations after a period of integration with other groups. It's one of the biggest recent deals in the sector. Shows market confidence in Chinese AI.",
-    "score": 0.65,
-    "tags": [
-      "deal",
-      "china",
-      "startup"
-    ],
-    "img": "img/8250b8c61be5.jpg",
-    "ts": 1789749349,
-    "addedTs": 1789752806,
-    "urlHash": "8250b8c61be5",
-    "titleHash": "e1be1e030dca"
-  },
-  {
-    "title": "AI containment is a systems engineering problem",
-    "titlePt": "Conter a IA é um problema de engenharia de sistemas, defendem especialistas",
-    "url": "https://tobi.knaup.me/2026-09-18-ai-safety-systems-engineering/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo trata a contenção da inteligência artificial como um desafio clássico de engenharia, comparável a firewalls e sistemas de controle industrial. A proposta é abandonar o debate puramente filosófico e tratar limites, sandboxing e isolamento como métricas mensuráveis. Isso muda a forma como empresas e governos podem auditar modelos em produção. Para desenvolvedores e gestores de risco, abre uma agenda concreta de padrões e testes.",
-    "reasonEn": "The article frames AI containment as a classic engineering challenge, on par with firewalls and industrial control systems. It argues the field should move beyond pure philosophy and treat limits, sandboxing, and isolation as measurable metrics. This shifts how companies and governments can audit models in production. For developers and risk managers, it opens a concrete agenda of standards and tests.",
-    "score": 0.6,
-    "tags": [
-      "segurança",
-      "ia",
-      "engenharia"
-    ],
-    "img": "img/64ee073c284f.jpg",
-    "ts": 1789747643,
-    "addedTs": 1789752806,
-    "urlHash": "64ee073c284f",
-    "titleHash": "678b5fba7927"
-  },
-  {
-    "title": "How to run offline, local coding agents on Linux",
-    "titlePt": "Como rodar agentes de programação locais e offline no Linux",
-    "url": "https://ostechnix.com/atomic-chat-local-ai-coding-assistant-linux/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O guia mostra um caminho prático para colocar agentes de codificação rodando 100% locais no Linux, sem enviar código para a nuvem. Isso resolve uma das maiores dores de equipes que trabalham com código sensível ou sob regulamentação. O foco é desempenho, escolha de modelo e integração com o editor. Para desenvolvedores e times de segurança, é leitura obrigatória antes de adotar qualquer ferramenta baseada em LLM.",
-    "reasonEn": "The guide walks through a practical setup to run coding agents fully local on Linux, with no code leaving the machine. This addresses one of the biggest pain points for teams handling sensitive code or working under regulation. It covers performance, model choice, and editor integration. For developers and security teams, it is required reading before adopting any LLM-based tooling.",
-    "score": 0.7,
-    "tags": [
-      "tutorial",
-      "linux",
-      "agentes"
-    ],
-    "img": "img/1e2f60f1a659.jpg",
-    "ts": 1789746593,
-    "addedTs": 1789752806,
-    "urlHash": "1e2f60f1a659",
-    "titleHash": "2a85d1ed6bad"
-  },
-  {
-    "title": "Show HN: Forcefield: A fast, lightweight local-first AI agent harness",
-    "titlePt": "Forcefield: harness leve e rápido para agentes de IA rodando localmente",
-    "url": "https://github.com/fabledruns/forcefield",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O Forcefield é um novo harness open source para agentes de IA com prioridade em execução local e baixo consumo de recursos. Ele se posiciona como alternativa mais enxuta a frameworks maiores, mantendo privacidade por padrão. O projeto está em fase inicial e o autor busca validação da comunidade. Pode interessar a quem quer experimentar agentes sem depender de serviços na nuvem.",
-    "reasonEn": "Forcefield is a new open source harness for AI agents focused on local execution and low resource use. It positions itself as a leaner alternative to bigger frameworks while keeping privacy on by default. The project is early stage and the author is looking for community feedback. It will appeal to anyone wanting to try agents without depending on cloud services.",
-    "score": 0.5,
-    "tags": [
-      "agentes",
-      "local",
-      "código aberto"
-    ],
-    "img": "img/112e72da609e.jpg",
-    "ts": 1789745703,
-    "addedTs": 1789752806,
-    "urlHash": "112e72da609e",
-    "titleHash": "1a37615a0612"
-  },
-  {
-    "title": "Orca – deterministic, AI-driven development flows",
-    "titlePt": "Orca: fluxos de desenvolvimento determinísticos orientados por IA",
-    "url": "https://github.com/VirtusLab/orca",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O Orca propõe pipelines de desenvolvimento em que a IA gera mudanças reproduzíveis e auditáveis, em vez de respostas estocásticas. A ideia é dar a times de engenharia uma camada confiável para revisar e versionar o que a IA produz. Pode ajudar em conformidade e em fluxos sensíveis a regressões. Ainda é cedo para saber se a comunidade vai aderir ao padrão.",
-    "reasonEn": "Orca proposes development pipelines where AI produces reproducible, auditable changes instead of stochastic outputs. The goal is to give engineering teams a reliable layer to review and version what the AI generates. It can help with compliance and regression-sensitive workflows. It is still early to know if the community will adopt the standard.",
-    "score": 0.5,
-    "tags": [
-      "desenvolvimento",
-      "ia",
-      "ferramenta"
-    ],
-    "img": "img/705ae4b5fd7f.jpg",
-    "ts": 1789745559,
-    "addedTs": 1789752806,
-    "urlHash": "705ae4b5fd7f",
-    "titleHash": "fb49999dbdea"
-  },
-  {
-    "title": "Open or closed AI? Nvidia&#8217;s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
-    "titlePt": "IA aberta ou fechada? Nvidia debate o futuro das startups no TechCrunch Disrupt",
-    "url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "O TechCrunch Disrupt 2026 terá um painel com executivos da Nvidia discutindo se a próxima geração de startups deve se apoiar em modelos abertos ou fechados. A conversa importa porque define quem controla pesos, dados e infraestrutura de IA nos próximos anos. Startups que estão decidindo sua stack precisam acompanhar. É também termômetro das pressões regulatórias que estão vindo.",
-    "reasonEn": "TechCrunch Disrupt 2026 will feature a panel with Nvidia executives debating whether next-gen startups should build on open or closed AI models. The conversation matters because it defines who controls AI weights, data, and infrastructure in coming years. Startups choosing their stack should pay attention. It also serves as a barometer for incoming regulatory pressure.",
-    "score": 0.6,
-    "tags": [
-      "nvidia",
-      "regulação",
-      "startups"
-    ],
-    "img": "img/82f9ebd94448.jpg",
-    "ts": 1789745400,
-    "addedTs": 1789752806,
-    "urlHash": "82f9ebd94448",
-    "titleHash": "0d3ebd8bbc89"
-  },
-  {
-    "title": "Meta&#8217;s Muse hits Mac, letting the AI take actions on your computer",
-    "titlePt": "Muse da Meta chega ao Mac e permite à IA agir no seu computador",
-    "url": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A Meta expandiu o Muse para macOS, dando ao assistente a capacidade de executar ações reais dentro do sistema operacional do usuário. Isso coloca a empresa na corrida dos agentes de IA que operam o desktop, lado a lado com projetos da OpenAI e Anthropic. Para usuários comuns, significa mais automação, mas também novos riscos de privacidade e segurança. Desenvolvedores e equipes de TI precisam avaliar como bloquear ou monitorar esse tipo de agente.",
-    "reasonEn": "Meta expanded Muse to macOS, giving the assistant the ability to take real actions inside the user's operating system. This puts the company in the desktop agent race alongside projects from OpenAI and Anthropic. For everyday users it means more automation, but also new privacy and security risks. Developers and IT teams will need to evaluate how to lock down or monitor this kind of agent.",
-    "score": 0.7,
-    "tags": [
-      "meta",
-      "mac",
-      "agentes"
-    ],
-    "img": "img/e194e480bc87.jpg",
-    "ts": 1789744968,
-    "addedTs": 1789752806,
-    "urlHash": "e194e480bc87",
-    "titleHash": "03e8c7d59bc6"
-  },
-  {
-    "title": "Position: It is Time to Virtualize Foundation Models with a Self-evolving Operating System Layer",
-    "titlePt": "É hora de virtualizar modelos de base com uma camada de sistema operacional autoevolutivo",
-    "url": "https://arxiv.org/abs/2609.19203",
-    "source": "arXiv AI",
-    "sources": [
-      "arXiv AI"
-    ],
-    "reason": "O position paper defende tratar modelos de fundação como recursos virtualizados, gerenciados por uma camada de sistema operacional que evolui com o uso. Isso traria ganhos em isolamento, escalabilidade e atualização contínua de pesos. Para proveedores de nuvem e grandes empresas, a proposta é um norte de arquitetura. Pode acelerar uma nova geração de plataformas de IA mais flexíveis.",
-    "reasonEn": "The position paper argues for treating foundation models as virtualized resources managed by an operating system layer that evolves with use. That would bring gains in isolation, scalability, and continuous weight updates. For cloud providers and large enterprises, the proposal is an architectural compass. It could accelerate a new generation of more flexible AI platforms.",
-    "score": 0.5,
-    "tags": [
-      "pesquisa",
-      "infraestrutura"
-    ],
-    "img": "img/4c608f3d48e3.jpg",
-    "ts": 1789704000,
-    "addedTs": 1789752806,
-    "urlHash": "4c608f3d48e3",
-    "titleHash": "fef15361d85f"
-  },
-  {
-    "title": "Safety Beyond the Interface: Detecting Harm via Latent States in Large Language Models",
-    "titlePt": "Detectar danos por estados latentes: segurança além da interface em LLMs",
-    "url": "https://arxiv.org/abs/2609.19472",
-    "source": "arXiv AI",
-    "sources": [
-      "arXiv AI"
-    ],
-    "reason": "O artigo propõe detectar conteúdo nocivo olhando para os estados internos do modelo, em vez de apenas a saída final. Isso abre caminho para sistemas de segurança mais profundos, capazes de pegar riscos que filtros de texto deixam passar. É relevante para qualquer plataforma que hospeda LLMs em escala. Também pode virar requisito regulatório em breve.",
-    "reasonEn": "The paper proposes detecting harmful content by looking at internal model states rather than only the final output. This opens the door to deeper safety systems that catch risks text filters miss. Relevant for any platform hosting LLMs at scale. It could also become a regulatory requirement soon.",
-    "score": 0.5,
-    "tags": [
-      "pesquisa",
-      "segurança"
-    ],
-    "img": "img/eadc303949cd.jpg",
-    "ts": 1789704000,
-    "addedTs": 1789752806,
-    "urlHash": "eadc303949cd",
-    "titleHash": "b1172b1cc815"
   }
 ]
