@@ -1,5 +1,195 @@
 [
   {
+    "title": "What's still manual when debugging AI agents?",
+    "titlePt": "O que ainda é manual ao depurar agentes de IA?",
+    "url": "https://www.traser.dev/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um Hacker News discute as partes do fluxo de trabalho de depuração de agentes de IA que ainda dependem de intervenção humana, como rastrear alucinações, ajustar prompts e validar chamadas de ferramentas. O debate é relevante para engenheiros que mantêm agentes em produção, porque aponta gargalos reais. Quem desenvolve com LangChain, CrewAI ou frameworks similares pode tirar lições práticas. Não é notícia de produto, mas é leitura útil para times de IA.",
+    "reasonEn": "A Hacker News thread discusses the parts of debugging AI agents that still rely on human work, like tracing hallucinations, tuning prompts and validating tool calls. The debate is relevant for engineers running agents in production, because it highlights real bottlenecks. Anyone building with LangChain, CrewAI or similar frameworks can draw practical lessons. It is not a product announcement, but useful reading for AI teams.",
+    "score": 0.55,
+    "tags": [
+      "agentes",
+      "engenharia"
+    ],
+    "img": "img/5e917b53c8de.jpg",
+    "ts": 1790347412,
+    "addedTs": 1790347954,
+    "urlHash": "5e917b53c8de",
+    "titleHash": "6e8c868627f0"
+  },
+  {
+    "title": "Giving AI agents a voice at the table",
+    "titlePt": "Dando voz aos agentes de IA nas decisões",
+    "url": "https://www.highfidelity.com/blog/giving-our-a.i.-agents-a-voice-at-the-table",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto defende que agentes de IA autônomos ganhem poder real de voto ou veto em mesas de decisão empresarial, e não apenas papel consultivo. É uma discussão conceitual com implicações de governança, já que dá a máquinas influência direta sobre pessoas e orçamento. Interessa a líderes de produto, CTOs e qualquer um pensando em automação avançada. Ainda é debate, não produto, mas vale acompanhar.",
+    "reasonEn": "The piece argues that autonomous AI agents should get real voting or veto power at corporate decision tables, not just an advisory role. It is a conceptual discussion with governance implications, since it gives machines direct influence over people and budgets. It matters to product leaders, CTOs and anyone thinking about advanced automation. It is still a debate, not a product, but worth tracking.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "governança"
+    ],
+    "img": "img/614ec90506ea.jpg",
+    "ts": 1790346722,
+    "addedTs": 1790347954,
+    "urlHash": "614ec90506ea",
+    "titleHash": "68cf9135383d"
+  },
+  {
+    "title": "Israel weaponises AI for West Bank demolitions",
+    "titlePt": "Israel usa IA para acelerar demolições na Cisjordânia",
+    "url": "https://www.aljazeera.com/news/2026/9/17/israel-weaponises-ai-for-west-bank-demolitions",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Reportagem mostra que Israel está usando sistemas de IA para identificar e autorizar demolições de casas palestinas na Cisjordânia ocupada, acelerando um processo que antes era mais manual. A automação levanta alertas graves de direitos humanos, porque reduz espaço de contestação e aumenta a escala das demolições. O tema interessa diretamente a palestinos, ativistas, jornalistas e governos que acompanham o conflito. É uma das histórias mais importantes do dia sobre uso militar de IA.",
+    "reasonEn": "A report shows Israel is using AI systems to identify and authorize demolitions of Palestinian homes in the occupied West Bank, speeding up a process that used to be more manual. The automation raises serious human rights alarms, since it shrinks room for appeal and increases the scale of demolitions. It matters directly to Palestinians, activists, journalists and governments tracking the conflict. It is one of the day's most important stories on military use of AI.",
+    "score": 0.85,
+    "tags": [
+      "militar",
+      "direitos-humanos"
+    ],
+    "img": "img/958b3243a277.jpg",
+    "ts": 1790346192,
+    "addedTs": 1790347954,
+    "urlHash": "958b3243a277",
+    "titleHash": "037ae29b5a8e"
+  },
+  {
+    "title": "Four AI Giants Agreed to Slow Down. Four Subscribers Sued Them for It",
+    "titlePt": "Quatro gigantes da IA frearam e foram processados por isso",
+    "url": "https://mrkt30.com/ai-slowdown-lawsuit-anthropic-openai-antitrust/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Quatro grandes empresas de IA tinham combinado publicamente desacelerar o lançamento de modelos mais poderosos, e agora quatro assinantes entraram na Justiça alegando que esse acordo prejudicou usuários que pagavam por inovação mais rápida. O caso pode redefinir o que coordenar limites no setor significa na prática jurídica. Importa para investidores, equipes jurídicas, usuários pagantes e concorrentes. Acompanhar o desfecho é essencial para entender o futuro regulatório da IA.",
+    "reasonEn": "Four major AI companies had publicly agreed to slow down the rollout of more powerful models, and now four subscribers have sued them, arguing that this deal hurt paying users who wanted faster innovation. The case may reshape what coordinating limits in the industry means in legal practice. It matters to investors, legal teams, paying users and competitors. Following the outcome is essential to understand the regulatory future of AI.",
+    "score": 0.8,
+    "tags": [
+      "regulação",
+      "judiciário"
+    ],
+    "img": "img/b75edd4c1bc2.jpg",
+    "ts": 1790345948,
+    "addedTs": 1790347954,
+    "urlHash": "b75edd4c1bc2",
+    "titleHash": "62e6e86eaf4a"
+  },
+  {
+    "title": "Microsoft Abandons Personal AI Chatbot Race with Copilot Reboot",
+    "titlePt": "Microsoft desiste da corrida do chatbot pessoal e reformula o Copilot",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Microsoft está reestruturando o Copilot e, segundo fontes, desistiu da corrida pelo chatbot pessoal dominante, redirecionando o produto para usos empresariais e integrados ao Office. É uma virada estratégica relevante para o mercado, porque indica onde a empresa ainda acredita que pode vencer. Afeta usuários comuns do Copilot, empresas clientes e concorrentes como Google e OpenAI. Vale ler antes de investir tempo configurando fluxos no Copilot.",
+    "reasonEn": "Microsoft is reshaping Copilot and, according to sources, has stepped away from the race for the dominant personal chatbot, redirecting the product toward enterprise uses integrated with Office. It is a relevant strategic shift for the market, because it shows where the company still believes it can win. It affects regular Copilot users, enterprise customers and competitors like Google and OpenAI. Worth reading before investing time setting up Copilot flows.",
+    "score": 0.75,
+    "tags": [
+      "microsoft",
+      "estratégia"
+    ],
+    "img": "img/0bd00b780691.jpg",
+    "ts": 1790345228,
+    "addedTs": 1790347954,
+    "urlHash": "0bd00b780691",
+    "titleHash": "694403d9a76b"
+  },
+  {
+    "title": "The US stood alone in dismissing AI safety concerns at the UN",
+    "titlePt": "EUA ficam isolados na ONU ao descartar riscos da IA",
+    "url": "https://www.semafor.com/article/09/25/2026/white-house-is-isolated-in-brushing-off-ai-safety",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Em uma reunião recente da ONU sobre segurança em IA, os Estados Unidos foram o único país a se opor à ideia de que os riscos da IA precisam de coordenação global mais firme. O isolamento diplomático contrasta com a postura mais cautelosa da União Europeia, do Reino Unido e de vários países asiáticos. Para empresas de IA que operam internacionalmente, isso significa regras diferentes em mercados diferentes. É um sinal claro de como a geopolítica da IA está se desenhando.",
+    "reasonEn": "At a recent UN meeting on AI safety, the United States was the only country to oppose the idea that AI risks need stronger global coordination. The diplomatic isolation contrasts with the more cautious posture of the European Union, the United Kingdom and several Asian countries. For AI companies operating internationally, this means different rules in different markets. It is a clear signal of how AI geopolitics is taking shape.",
+    "score": 0.8,
+    "tags": [
+      "geopolítica",
+      "regulação"
+    ],
+    "img": "img/c31d7d30bf41.jpg",
+    "ts": 1790344445,
+    "addedTs": 1790347954,
+    "urlHash": "c31d7d30bf41",
+    "titleHash": "a03d90dbe0f6"
+  },
+  {
+    "title": "Cracks in Oracle's AI Data-Center Build-Out Appear in New Mexico Project",
+    "titlePt": "Aparecem rachaduras no plano de data centers da Oracle no Novo México",
+    "url": "https://www.wsj.com/finance/investing/cracks-in-oracles-ai-data-center-build-out-appear-in-massive-new-mexico-project-effb51c2",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O grande projeto da Oracle para construir data centers voltados a IA no Novo México enfrenta atrasos, problemas de fornecedores e estouro de prazos, segundo reportagem. Isso é relevante porque a Oracle apostou alto para virar peça central na infraestrutura de IA de hyperscalers rivais. Se o projeto derrapar, clientes como OpenAI, xAI e outros podem sentir atrasos em capacidade de treinamento. Investidores e equipes de planejamento de capacidade devem prestar atenção.",
+    "reasonEn": "Oracle's big project to build AI-focused data centers in New Mexico is hitting delays, supplier problems and slipping timelines, according to a report. This matters because Oracle has bet heavily to become a central piece of rival hyperscalers' AI infrastructure. If the project stumbles, clients like OpenAI, xAI and others may feel delays in training capacity. Investors and capacity planning teams should pay attention.",
+    "score": 0.7,
+    "tags": [
+      "infraestrutura",
+      "oracle"
+    ],
+    "img": "img/a52fc2596300.jpg",
+    "ts": 1790344000,
+    "addedTs": 1790347954,
+    "urlHash": "a52fc2596300",
+    "titleHash": "6c099cf1393c"
+  },
+  {
+    "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+    "titlePt": "Pentágono quer US$ 30 milhões para construir detector de mentiras com IA",
+    "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+    "source": "MIT Tech Review",
+    "sources": [
+      "MIT Tech Review"
+    ],
+    "reason": "O Departamento de Defesa dos EUA pediu US$ 30 milhões ao Congresso para desenvolver um sistema de IA capaz de identificar mentiras em tempo real, segundo a MIT Tech Review. O projeto levanta dúvidas sérias sobre precisão, vieses, direitos civis e uso em interrogatórios. Se aprovado, pode se tornar um dos usos mais sensíveis de IA em segurança nacional. Importa diretamente a militares, reguladores, pesquisadores e qualquer pessoa preocupada com vigilância.",
+    "reasonEn": "The US Department of Defense has asked Congress for $30 million to develop an AI system capable of detecting lies in real time, according to MIT Tech Review. The project raises serious questions about accuracy, bias, civil rights and use in interrogations. If approved, it could become one of the most sensitive uses of AI in national security. It matters directly to military, regulators, researchers and anyone worried about surveillance.",
+    "score": 0.85,
+    "tags": [
+      "pentágono",
+      "vigilância"
+    ],
+    "img": "img/c2d047e87e05.jpg",
+    "ts": 1790327785,
+    "addedTs": 1790347954,
+    "urlHash": "c2d047e87e05",
+    "titleHash": "c3caaa60cfcc"
+  },
+  {
+    "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
+    "titlePt": "TechCrunch Disrupt 2026: Zach Yadegari da Cal AI fala sobre crescimento viral",
+    "url": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "Zach Yadegari, fundador da Cal AI, participou do TechCrunch Disrupt 2026 falando sobre como criar crescimento viral e monetizá-lo. A Cal AI ganhou tração rapidamente com um produto de contagem de calorias via foto. A palestra traz lições práticas para fundadores de startups de IA e marketing.",
+    "reasonEn": "Zach Yadegari, founder of Cal AI, spoke at TechCrunch Disrupt 2026 about how to create viral growth and capitalize on it. Cal AI quickly gained traction with a photo-based calorie counter. The talk offers practical lessons for AI startup founders and marketers.",
+    "score": 0.55,
+    "tags": [
+      "startup",
+      "crescimento",
+      "cal ai"
+    ],
+    "img": "img/b36e7b258191.jpg",
+    "ts": 1790260200,
+    "addedTs": 1790347954,
+    "urlHash": "b36e7b258191",
+    "titleHash": "23ca2721b03d"
+  },
+  {
     "title": "Legal AI Harvey's margins went from +50% to -50% in 6 months on frontier costs",
     "titlePt": "Margens da Harvey AI caem de +50% para -50% em seis meses por custos de fronteira",
     "url": "https://finance.yahoo.com/technology/ai/articles/openai-anthropic-costs-push-more-160523322.html",
@@ -9436,237 +9626,5 @@
     "addedTs": 1789752806,
     "urlHash": "eadc303949cd",
     "titleHash": "b1172b1cc815"
-  },
-  {
-    "title": "Pareto 26.9 Model Card",
-    "titlePt": "Cartão do Modelo Pareto 26.9",
-    "url": "https://unbiased.ai/model-card/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Foi publicado o cartão técnico do modelo Pareto 26.9, prática recomendada para documentar capacidades e limitações de modelos de IA. É um lançamento relevante para desenvolvedores que avaliam opções de modelos. A relevância depende de quem já acompanha o ecossistema de modelos abertos.",
-    "reasonEn": "The model card for Pareto 26.9 has been published, following the recommended practice of documenting AI model capabilities and limitations. It is a relevant release for developers evaluating model options. Its relevance depends on whether you already follow the open model ecosystem.",
-    "score": 0.5,
-    "tags": [
-      "modelo",
-      "lançamento"
-    ],
-    "img": "img/e995ea9d9483.jpg",
-    "ts": 1789738784,
-    "addedTs": 1789739945,
-    "urlHash": "e995ea9d9483",
-    "titleHash": "f05da3253160"
-  },
-  {
-    "title": "AI chatbots becoming experts at changing people's minds. What's their secret?",
-    "titlePt": "Chatbots de IA estão se tornando experts em mudar opiniões",
-    "url": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Reportagem sobre como chatbots de IA estão alcançando alta capacidade de persuasão, mudando a opinião de pessoas em debates. O tema importa para qualquer usuário ou empresa que dependa de IA para comunicação. Há implicações éticas e de segurança sobre manipulação algorítmica em larga escala.",
-    "reasonEn": "A report on how AI chatbots are reaching high persuasion capabilities, changing people's minds in debates. The topic matters for any user or company relying on AI for communication. There are ethical and safety implications around algorithmic manipulation at scale.",
-    "score": 0.6,
-    "tags": [
-      "pesquisa",
-      "ética"
-    ],
-    "img": "img/b4a94615cb64.jpg",
-    "ts": 1789738767,
-    "addedTs": 1789739945,
-    "urlHash": "b4a94615cb64",
-    "titleHash": "6a1bcfc7ce45"
-  },
-  {
-    "title": "Is Anthropic Protecting Us, or Just Playing Us?",
-    "titlePt": "A Anthropic está nos protegindo ou apenas nos enganando?",
-    "url": "https://medium.com/tech-ai-chat/is-anthropic-protecting-us-or-just-playing-us-09e773caffe5",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Análise crítica sobre a postura da Anthropic em relação à segurança e à governança da IA. O texto questiona se o discurso responsável da empresa é genuíno ou uma estratégia de marketing. Importa para quem acompanha o debate sobre e para clientes corporativos da empresa.",
-    "reasonEn": "A critical analysis of Anthropic's stance on AI safety and governance. The text questions whether the company's responsible rhetoric is genuine or a marketing strategy. It matters for those following the regulation debate and for the company's corporate clients.",
-    "score": 0.6,
-    "tags": [
-      "anthropic",
-      "regulação"
-    ],
-    "img": "img/47b42a02383c.jpg",
-    "ts": 1789737705,
-    "addedTs": 1789739945,
-    "urlHash": "47b42a02383c",
-    "titleHash": "b3a2625aac97"
-  },
-  {
-    "title": "What Using AI Therapy Gets Wrong",
-    "titlePt": "O que há de errado com o uso de terapia por IA",
-    "url": "https://emilylee293105.substack.com/p/what-ai-therapy-gets-wrong-904",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Artigo sobre os limites e riscos de usar chatbots de IA como apoio terapêutico. O tema é relevante dado o crescente número de pessoas que buscam suporte emocional em ferramentas digitais. Importa para desenvolvedores de produtos de saúde mental e para usuários desses serviços.",
-    "reasonEn": "An article about the limits and risks of using AI chatbots as therapeutic support. The topic is relevant given the growing number of people seeking emotional support in digital tools. It matters for developers of mental health products and for users of those services.",
-    "score": 0.6,
-    "tags": [
-      "saúde",
-      "ética"
-    ],
-    "img": "img/60d8e4ec826f.jpg",
-    "ts": 1789737247,
-    "addedTs": 1789739945,
-    "urlHash": "60d8e4ec826f",
-    "titleHash": "bb93300855c8"
-  },
-  {
-    "title": "Show HN: Bastionskill – scan an AI agent skill for malicious code",
-    "titlePt": "Bastionskill: ferramenta para escanear código malicioso em agentes de IA",
-    "url": "https://news.ycombinator.com/item?id=49753727",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Ferramenta de segurança que verifica habilidades de agentes de IA em busca de código malicioso. Lançamento relevante para times que adotam agentes autônomos em produção. Reforça a tendência de auditoria e proteção em sistemas agênticos.",
-    "reasonEn": "A security tool that scans AI agent skills for malicious code. A relevant release for teams adopting autonomous agents in production. It reinforces the trend of auditing and protecting agentic systems.",
-    "score": 0.5,
-    "tags": [
-      "segurança",
-      "agentes"
-    ],
-    "img": "img/b726a54f7b10.jpg",
-    "ts": 1789736017,
-    "addedTs": 1789739945,
-    "urlHash": "b726a54f7b10",
-    "titleHash": "5e57cd08ac12"
-  },
-  {
-    "title": "King Charles has hesitations about AI",
-    "titlePt": "Rei Charles tem hesitações sobre IA",
-    "url": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O rei Charles expressou publicamente preocupações sobre o impacto da inteligência artificial. A fala ganha destaque porque vem de uma figura com grande influência simbólica e diplomática. Importa para quem acompanha o debate regulatório global, especialmente no Reino Unido.",
-    "reasonEn": "King Charles has publicly expressed concerns about the impact of artificial intelligence. The remarks stand out because they come from a figure with great symbolic and diplomatic influence. It matters for those following the global regulation debate, especially in the UK.",
-    "score": 0.5,
-    "tags": [
-      "regulação",
-      "governo"
-    ],
-    "img": "img/6be1855923aa.jpg",
-    "ts": 1789735653,
-    "addedTs": 1789739945,
-    "urlHash": "6be1855923aa",
-    "titleHash": "45dc6f06af95"
-  },
-  {
-    "title": "Grandmother falsely accused of bank theft after alleged AI facial recognition",
-    "titlePt": "Idosa é falsamente acusada de roubo após reconhecimento facial de IA",
-    "url": "https://abcnews.com/US/grandmother-falsely-accused-bank-theft-after-alleged-ai/story?id=136536444",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Uma avó foi erroneamente acusada de roubo em um banco por causa de um sistema de reconhecimento facial baseado em IA. O caso ilustra os riscos concretos de erros algorítmicos em sistemas críticos. Importa para fornecedores dessas ferramentas, bancos e formuladores de políticas públicas.",
-    "reasonEn": "A grandmother was wrongly accused of bank theft due to an AI-based facial recognition system. The case illustrates the concrete risks of algorithmic errors in critical systems. It matters for vendors of these tools, banks, and policy makers.",
-    "score": 0.7,
-    "tags": [
-      "ética",
-      "regulação"
-    ],
-    "img": "img/98599291c9e8.jpg",
-    "ts": 1789733837,
-    "addedTs": 1789739945,
-    "urlHash": "98599291c9e8",
-    "titleHash": "5ff943bf8260"
-  },
-  {
-    "title": "Auditing in the age of (good enough) AI",
-    "titlePt": "Auditoria na era da IA suficientemente boa",
-    "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Reflexão sobre como a auditoria e a revisão de controles internos mudam quando a IA passa a gerar artefatos suficientemente bons, mas não perfeitos. O tema é relevante para equipes de compliance, finanças e segurança da informação. Ajuda a repensar processos à luz da automação.",
-    "reasonEn": "A reflection on how auditing and internal controls review change when AI starts producing good-enough but imperfect artifacts. The topic is relevant for compliance, finance, and information security teams. It helps rethink processes in light of automation.",
-    "score": 0.5,
-    "tags": [
-      "auditoria",
-      "negócios"
-    ],
-    "img": "img/827736ff96e4.jpg",
-    "ts": 1789733673,
-    "addedTs": 1789739945,
-    "urlHash": "827736ff96e4",
-    "titleHash": "abd56ee9bd86"
-  },
-  {
-    "title": "The Download: AI’s extinction risk and bioweapons threat",
-    "titlePt": "O Download: risco de extinção pela IA e ameaça de armas biológicas",
-    "url": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
-    "source": "MIT Tech Review",
-    "sources": [
-      "MIT Tech Review"
-    ],
-    "reason": "O boletim semanal do MIT Technology Review aborda dois temas críticos: o risco existencial que a inteligência artificial pode representar para a humanidade e a possibilidade de ela viabilizar armas biológicas perigosas. A pauta reúne declarações recentes de pesquisadores e executivos que pedem mais regulação e transparência. Para desenvolvedores e tomadores de decisão, entender esse debate é importante porque pode moldar novas leis e restrições ao desenvolvimento de modelos avançados. O conteúdo também destaca como o ritmo atual de avanço pode estar à frente das salvaguardas existentes.",
-    "reasonEn": "MIT Technology Review's weekly newsletter tackles two critical themes: the existential risk AI may pose to humanity and the possibility it enables dangerous bioweapons. The piece gathers recent statements from researchers and executives calling for more regulation and transparency. For developers and decision makers, understanding this debate matters because it can shape new laws and restrictions on advanced model development. It also highlights how the current pace of progress may be outrunning existing safeguards.",
-    "score": 0.75,
-    "tags": [
-      "risco",
-      "biotecnologia",
-      "regulação"
-    ],
-    "img": "img/4dda8f85870c.jpg",
-    "ts": 1789733400,
-    "addedTs": 1789739945,
-    "urlHash": "4dda8f85870c",
-    "titleHash": "6039a3dee74d"
-  },
-  {
-    "title": "Even the king of England has his hesitations about AI",
-    "titlePt": "Até o rei da Inglaterra tem suas hesitações sobre IA",
-    "url": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "O rei Charles III expressou preocupações públicas sobre o impacto da inteligência artificial durante evento recente, comparando-a a revoluções tecnológicas anteriores que trouxeram riscos. Sua fala ganha relevância porque dá voz institucional ao debate sobre IA no Reino Unido. Para desenvolvedores, mostra que o tema já chegou ao mais alto nível de governos. Pode indicar que novas regulações britânicas e europeias estão a caminho.",
-    "reasonEn": "King Charles III publicly expressed concerns about AI's impact during a recent event, comparing it to earlier technological revolutions that brought risks. His speech gains relevance because it gives institutional voice to the AI debate in the UK. For developers it shows the topic has reached the highest level of governments. It may indicate new British and European regulations are coming.",
-    "score": 0.55,
-    "tags": [
-      "regulação",
-      "governo"
-    ],
-    "img": "img/6be1855923aa.jpg",
-    "ts": 1789665985,
-    "addedTs": 1789739945,
-    "urlHash": "6be1855923aa",
-    "titleHash": "0c6569f779c7"
-  },
-  {
-    "title": "Pinterest teases a new &#8216;Restyle&#8217; feature that lets you redesign your room with AI",
-    "titlePt": "Pinterest apresenta recurso 'Restyle' para redesenhar ambientes com IA",
-    "url": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "O Pinterest anunciou um novo recurso chamado Restyle que permite aos usuários reimaginar visualmente seus ambientes usando inteligência artificial generativa. A ferramenta transforma fotos de cômodos aplicando diferentes estilos e decorações automaticamente. É parte da estratégia da empresa para se manter relevante frente a rivais de criação visual com IA. Para desenvolvedores, é um exemplo prático de integração de modelos generativos em produtos de consumo.",
-    "reasonEn": "Pinterest announced a new feature called Restyle that lets users visually reimagine their environments using generative AI. The tool transforms photos of rooms applying different styles and decorations automatically. It is part of the company's strategy to stay relevant against rivals in AI visual creation. For developers it is a practical example of integrating generative models into consumer products.",
-    "score": 0.6,
-    "tags": [
-      "lançamento",
-      "produto"
-    ],
-    "img": "img/67388d6277cd.jpg",
-    "ts": 1789665300,
-    "addedTs": 1789739945,
-    "urlHash": "67388d6277cd",
-    "titleHash": "82a5c4508349"
   }
 ]
