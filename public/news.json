@@ -1,5 +1,444 @@
 [
   {
+    "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
+    "titlePt": "Governo Trump usa IA para negar cuidados a idosos em experimento polêmico",
+    "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Reportagem destaca que a administração Trump estaria usando inteligência artificial para decidir sobre cobertura de saúde de idosos nos EUA. O uso de IA em decisões de saúde gera controvérsia por causa de erros algorítmicos e falta de supervisão humana. O impacto recai sobre aposentados do Medicare e pode abrir precedente perigoso. Vale acompanhar por afetar políticas públicas.",
+    "reasonEn": "Reports say the Trump administration is using AI to decide on healthcare coverage for seniors in the US. Using AI in medical decisions is controversial because of algorithmic errors and lack of human oversight. The impact falls on Medicare retirees and could set a dangerous precedent. Worth following as it affects public policy.",
+    "score": 0.9,
+    "tags": [
+      "regulação",
+      "saúde",
+      "governo"
+    ],
+    "img": "img/2a5ad4fe27ed.jpg",
+    "ts": 1790412777,
+    "addedTs": 1790412984,
+    "urlHash": "2a5ad4fe27ed",
+    "titleHash": "6edfdae5d55d"
+  },
+  {
+    "title": "EU Member States plan \"digital expropriation\" of Europeans in the interest of AI",
+    "titlePt": "Estados da UE planejam 'expropriação digital' de europeus em favor da IA",
+    "url": "https://noyb.eu/en/ai-eu-member-states-plan-digital-expropriation-europeans-interest-ai-companies",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Países da União Europeia discutem medidas que permitiriam o uso de dados e conteúdos de cidadãos para treinar sistemas de inteligência artificial, algo que críticos chamam de 'expropriação digital'. A proposta envolve ampliar exceções de mineração de texto e dados para favorecer empresas de IA. Pode afetar qualquer pessoa que produza conteúdo na internet na Europa. O tema ainda está em debate.",
+    "reasonEn": "EU member states are weighing measures that would allow the use of citizens' data and content to train AI systems — critics call it 'digital expropriation'. The proposal expands text-and-data mining exceptions to favor AI companies. It could affect anyone producing content online in Europe. The topic is still under debate.",
+    "score": 0.85,
+    "tags": [
+      "regulação",
+      "ue",
+      "dados"
+    ],
+    "img": "img/d178c78a5485.jpg",
+    "ts": 1790412660,
+    "addedTs": 1790412984,
+    "urlHash": "d178c78a5485",
+    "titleHash": "e533023aa9a8"
+  },
+  {
+    "title": "Linux Kernel Developers Consider Adding Agents.md to Help Guide AI/LLM Agents",
+    "titlePt": "Desenvolvedores do kernel Linux consideram adicionar arquivo Agents.md para guiar IAs",
+    "url": "https://www.phoronix.com/news/Linux-Considers-AGENTS-MD",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Mantenedores do kernel Linux discutem incluir um arquivo Agents.md no repositório, no mesmo estilo de CONTRIBUTING.md, para dar instruções a agentes de IA que automatizam tarefas de desenvolvimento. A ideia é evitar más contribuições automáticas e definir regras de uso. É relevante para quem contribui com projetos open source e para entender como grandes projetos lidam com agentes de IA. Ainda está em fase de discussão.",
+    "reasonEn": "Linux kernel maintainers are discussing adding an Agents.md file to the repo — similar to CONTRIBUTING.md — to instruct AI agents that automate development tasks. The goal is to prevent bad auto-generated contributions and set usage rules. Relevant for open-source contributors and to see how large projects handle AI agents. Still under discussion.",
+    "score": 0.7,
+    "tags": [
+      "linux",
+      "open-source",
+      "agentes"
+    ],
+    "img": "img/48d3d0de3b2c.jpg",
+    "ts": 1790411819,
+    "addedTs": 1790412984,
+    "urlHash": "48d3d0de3b2c",
+    "titleHash": "1c69a1984883"
+  },
+  {
+    "title": "Nobody wanted an \"AI PC,\" so Microsoft stopped calling it that",
+    "titlePt": "Ninguém quis o 'PC com IA', então a Microsoft parou de chamar assim",
+    "url": "https://www.techspot.com/news/113985-nobody-wanted-ai-pc-microsoft-stopped-calling.html",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Microsoft abandonou o rótulo 'AI PC' depois que consumidores e o mercado não reagiram bem à categoria. A empresa agora prefere destacar Copilot e funções específicas em vez de vender hardware com selo de IA. Mostra que o marketing de 'PC com IA' não convenceu usuários comuns. Importante para quem acompanha o mercado de hardware e sistemas.",
+    "reasonEn": "Microsoft dropped the 'AI PC' label after consumers and the market did not respond well to the category. The company now prefers to highlight Copilot and specific features instead of selling hardware with an AI badge. It shows the 'AI PC' marketing did not convince regular users. Important for those tracking the hardware and OS market.",
+    "score": 0.55,
+    "tags": [
+      "microsoft",
+      "hardware"
+    ],
+    "img": "img/525da10dd314.jpg",
+    "ts": 1790411002,
+    "addedTs": 1790412984,
+    "urlHash": "525da10dd314",
+    "titleHash": "23a60ffc7844"
+  },
+  {
+    "title": "Who is behind the AI safety backlash?",
+    "titlePt": "Quem está por trás da reação contra segurança em IA?",
+    "url": "https://twitter.com/TheMidasProj/status/2103577207700365719",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo investiga atores — empresas, pesquisadores e grupos — que estariam criticando os movimentos recentes de segurança em IA. A discussão cresceu após controvérsias sobre 'conclusões proibidas' e pressão política sobre laboratórios. Ajuda a entender o cenário atual do debate sobre segurança em IA e os interesses em jogo. Vale a leitura para acompanhar o tema.",
+    "reasonEn": "The article investigates which actors — companies, researchers and groups — are pushing back against recent AI safety moves. The debate intensified after controversies over 'disallowed conclusions' and political pressure on labs. It helps readers understand today's AI safety landscape and the interests at play. Worth reading to follow the topic.",
+    "score": 0.7,
+    "tags": [
+      "segurança",
+      "regulação"
+    ],
+    "img": "img/625388daff9c.jpg",
+    "ts": 1790409826,
+    "addedTs": 1790412984,
+    "urlHash": "625388daff9c",
+    "titleHash": "e27f421ab205"
+  },
+  {
+    "title": "Thought on how to deal with AI crawlers",
+    "titlePt": "Como lidar com rastreadores de IA que varrem a web",
+    "url": "https://copepod.dev/human-required",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Texto discute formas práticas de sites se defenderem de crawlers de empresas de IA que coletam conteúdo sem permissão, consumindo banda e ignorando robots.txt. Sugere bloqueios por User-Agent, rate limiting e serviços especializados. É útil para desenvolvedores web e publishers que estão vendo seu conteúdo ser raspado sem retorno. Tema cada vez mais relevante.",
+    "reasonEn": "The post discusses practical ways for websites to fend off AI crawlers that scrape content without permission, burn bandwidth and ignore robots.txt. Suggestions include User-Agent blocks, rate limiting and specialized services. Useful for web developers and publishers seeing their content scraped with no payoff. An increasingly relevant topic.",
+    "score": 0.5,
+    "tags": [
+      "crawlers",
+      "web"
+    ],
+    "img": "img/974620f58d7e.jpg",
+    "ts": 1790405322,
+    "addedTs": 1790412984,
+    "urlHash": "974620f58d7e",
+    "titleHash": "5312ff602d75"
+  },
+  {
+    "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise",
+    "titlePt": "IA deveria atingir novatos no mercado de trabalho — mas dados dizem o contrário",
+    "url": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Apesar do medo de que IA substituiria recém-formados, dados de desemprego nos EUA ainda não mostram um impacto claro nesse grupo específico. A análise lembra que outros fatores, como mercado geral e setor, influenciam mais do que a tecnologia. Serve para esfriar expectativas apocalípticas e lembrar que efeitos no emprego são graduais. Relevante para quem planeja carreira.",
+    "reasonEn": "Despite fears that AI would hit new graduates hard, US unemployment data does not yet show a clear impact on this specific group. The analysis notes that other factors — overall job market and industry — matter more than the tech itself. It cools apocalyptic expectations and reminds that employment effects are gradual. Relevant for career planning.",
+    "score": 0.75,
+    "tags": [
+      "trabalho",
+      "mercado"
+    ],
+    "img": "img/fb1ca72991c4.jpg",
+    "ts": 1790404658,
+    "addedTs": 1790412984,
+    "urlHash": "fb1ca72991c4",
+    "titleHash": "ab5aeb17f3c1"
+  },
+  {
+    "title": "Novelist accused of using AI to write book removed from French prize list",
+    "titlePt": "Romancista acusado de usar IA em livro é retirado de prêmio literário francês",
+    "url": "https://www.theguardian.com/books/2026/sep/25/thelyson-orelien-goncourt-prize-france",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um escritor foi removido da lista de um importante prêmio literário francês após denúncias de que teria usado IA para escrever parte do livro. O caso reacende o debate sobre autoria, originalidade e transparência no uso de ferramentas generativas. Pode criar precedente para premiações e editoras endurecerem regras. Tema relevante para escritores, editores e leitores.",
+    "reasonEn": "A novelist was removed from a major French literary prize shortlist after accusations of using AI to write part of the book. The case reignites debate over authorship, originality and transparency in generative tools. It could set a precedent for prizes and publishers tightening rules. Relevant for writers, editors and readers.",
+    "score": 0.5,
+    "tags": [
+      "cultura",
+      "autoria"
+    ],
+    "img": "img/322ce995f02f.jpg",
+    "ts": 1790404419,
+    "addedTs": 1790412984,
+    "urlHash": "322ce995f02f",
+    "titleHash": "a7a6d30de373"
+  },
+  {
+    "title": "US DOE will give $5.25B to upgrade the grid for AI datacenters",
+    "titlePt": "Departamento de Energia dos EUA vai investir US$ 5,25 bi em rede elétrica para data centers de IA",
+    "url": "https://www.theregister.com/systems/2026/09/25/uncle-sam-coughs-up-19b-for-grid-upgrades-as-datacenters-hit-a-power-wall/5299276",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Departamento de Energia americano anunciou aporte bilionário para modernizar a rede elétrica e atender à crescente demanda de data centers de IA. O investimento é um dos maiores do setor elétrico ligado a IA e reflete a pressão que esses centros colocam na infraestrutura. Afeta consumidores de energia, comunidades próximas a data centers e indústria de utilities. Sinaliza que IA virou questão de política energética.",
+    "reasonEn": "The US Department of Energy announced a multi-billion-dollar investment to modernize the power grid and serve growing AI data center demand. It is one of the largest energy investments tied to AI and reflects the pressure these centers put on infrastructure. It affects energy consumers, communities near data centers and utilities. Signals that AI has become an energy policy issue.",
+    "score": 0.85,
+    "tags": [
+      "infraestrutura",
+      "energia",
+      "investimento"
+    ],
+    "img": "img/d035e45d3dc4.jpg",
+    "ts": 1790403337,
+    "addedTs": 1790412984,
+    "urlHash": "d035e45d3dc4",
+    "titleHash": "355aadd304a7"
+  },
+  {
+    "title": "Can AI Shopping Agents Be Trusted?",
+    "titlePt": "Podemos confiar em agentes de IA para fazer compras?",
+    "url": "https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo discute os riscos de agentes de IA que fazem compras online em nome dos usuários, incluindo preços manipulados, golpes e decisões pouco transparentes. Exemplos mostram como um agente pode ser enganado por sites maliciosos. Tópico relevante para qualquer pessoa que usa ou pretende usar assistentes de compra automatizados. Vale cautela antes de dar autonomia total a esses sistemas.",
+    "reasonEn": "The article discusses risks of AI shopping agents acting on users' behalf — manipulated prices, scams and opaque decisions. Examples show how an agent can be fooled by malicious sites. Relevant for anyone using or planning to use automated shopping assistants. Caution is advised before giving these systems full autonomy.",
+    "score": 0.6,
+    "tags": [
+      "agentes",
+      "consumidor"
+    ],
+    "img": "img/f4028e121e74.jpg",
+    "ts": 1790401006,
+    "addedTs": 1790412984,
+    "urlHash": "f4028e121e74",
+    "titleHash": "3844448537e3"
+  },
+  {
+    "title": "Stanford student was erased after university photo change sparks AI controversy",
+    "titlePt": "Estudante de Stanford é apagado de foto da universidade após polêmica com IA",
+    "url": "https://www.cleveland.com/news/2026/09/stanford-student-says-he-was-erased-after-university-photo-change-sparks-ai-controversy.html",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma universidade alterou uma foto oficial e acabou removendo um estudante após controvérsia sobre o uso de ferramentas de IA na edição. O caso levanta questões sobre consentimento, ética em imagem e uso de IA em mídias institucionais. Pode virar referência sobre limites do uso de IA em comunicação oficial. Tema curioso e com implicações para todos.",
+    "reasonEn": "A university changed an official photo and ended up removing a student after a controversy over using AI tools in the edit. The case raises questions about consent, image ethics and AI use in institutional media. It could become a reference on the limits of AI in official communications. A curious story with broader implications.",
+    "score": 0.5,
+    "tags": [
+      "ética",
+      "imagem"
+    ],
+    "img": "img/491f7c9cd06f.jpg",
+    "ts": 1790399916,
+    "addedTs": 1790412984,
+    "urlHash": "491f7c9cd06f",
+    "titleHash": "3071408c4217"
+  },
+  {
+    "title": "US lawmakers aim to keep China's tech out of sensitive government systems",
+    "titlePt": "Legisladores dos EUA querem manter tecnologia chinesa fora de sistemas sensíveis do governo",
+    "url": "https://www.rnz.co.nz/news/world/1591943/us-lawmakers-aim-to-keep-china-s-tech-out-of-sensitive-government-systems",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Congressistas americanos propõem endurecer regras para impedir uso de tecnologia chinesa em sistemas governamentais sensíveis, incluindo hardware e software. A medida visa reduzir riscos de espionagem e dependência estratégica. Impacta fornecedores, agências federais e relações com Pequim. Segue tendência global de fragmentação tecnológica.",
+    "reasonEn": "US lawmakers are pushing to keep Chinese technology out of sensitive government systems, including hardware and software. The move aims to reduce espionage risk and strategic dependence. It impacts vendors, federal agencies and relations with Beijing. Part of a broader trend of tech fragmentation.",
+    "score": 0.55,
+    "tags": [
+      "regulação",
+      "geopolítica"
+    ],
+    "img": "img/45fbd0c09436.jpg",
+    "ts": 1790394399,
+    "addedTs": 1790412984,
+    "urlHash": "45fbd0c09436",
+    "titleHash": "abe14a507cc9"
+  },
+  {
+    "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab&#8217;s knowledge",
+    "titlePt": "Agentes da OpenAI publicaram 53 imagens de usuários na internet sem a ciência do laboratório",
+    "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "Reportagem da TechCrunch revela que agentes da OpenAI expuseram 53 imagens de usuários publicamente na internet por uma falha de segurança, sem que o laboratório soubesse. O incidente mostra risco concreto de agentes autônomos vazarem dados sensíveis ao executar tarefas. É mais um alerta sobre a pressa em lançar produtos com agentes. Vale leitura para qualquer pessoa usando serviços da OpenAI.",
+    "reasonEn": "TechCrunch reports that OpenAI agents leaked 53 user images publicly online due to a security flaw, without the lab's knowledge. The incident shows the concrete risk of autonomous agents leaking sensitive data while performing tasks. Another warning about rushing agent products to market. Worth reading for anyone using OpenAI services.",
+    "score": 0.95,
+    "tags": [
+      "segurança",
+      "openai",
+      "agentes"
+    ],
+    "img": "img/0411e2774483.jpg",
+    "ts": 1790374847,
+    "addedTs": 1790412984,
+    "urlHash": "0411e2774483",
+    "titleHash": "e03b5cc3ebb1"
+  },
+  {
+    "title": "Meta’s AI Tamagotchi bet is…working?",
+    "titlePt": "A aposta da Meta em um Tamagotchi com IA… está dando certo?",
+    "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A Meta vem experimentando um mascote digital estilo Tamagotchi com IA que conversa e interage com usuários em seus apps. Reportagem aponta que a estratégia, antes vista como excêntrica, está gerando engajamento. Mostra como a Meta aposta em formatos leves e sociais para incorporar IA no dia a dia. Vale acompanhar para entender tendências de produto.",
+    "reasonEn": "Meta has been experimenting with a Tamagotchi-style AI mascot that chats and interacts with users inside its apps. The report says the once-eccentric strategy is now driving engagement. It shows how Meta bets on light, social formats to weave AI into daily life. Worth following to spot product trends.",
+    "score": 0.55,
+    "tags": [
+      "meta",
+      "produto"
+    ],
+    "img": "img/656c9f3000b0.jpg",
+    "ts": 1790352000,
+    "addedTs": 1790412984,
+    "urlHash": "656c9f3000b0",
+    "titleHash": "b777e75f3b99"
+  },
+  {
+    "title": "Introducing GPT-6 Sol and Luna",
+    "titlePt": "Apresentando o GPT-6 Sol e Luna",
+    "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "A OpenAI lançou oficialmente o GPT-6 em duas variantes: Sol e Luna, com avanços em raciocínio, multimodalidade e eficiência de custo. A expectativa é que se tornem a base da próxima geração de produtos da empresa, incluindo APIs e o ChatGPT. Desenvolvedores e empresas devem avaliar rapidamente como integrar os novos recursos em seus produtos e fluxos.",
+    "reasonEn": "OpenAI officially launched GPT-6 in two variants, Sol and Luna, with advances in reasoning, multimodality, and cost efficiency. They are expected to become the foundation of the company's next generation of products, including APIs and ChatGPT. Developers and businesses should quickly evaluate how to integrate the new capabilities into their products and workflows.",
+    "score": 0.85,
+    "tags": [
+      "modelo, lançamento, openai"
+    ],
+    "img": "img/73461b3e97af.jpg",
+    "ts": 1790100000,
+    "addedTs": 1790412984,
+    "urlHash": "73461b3e97af",
+    "titleHash": "0b4a7a8ae82b"
+  },
+  {
+    "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+    "titlePt": "LLMs respondem diferente a prompts prejudiciais com marca d'água de IA",
+    "url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+    "source": "Ars Technica",
+    "sources": [
+      "Ars Technica"
+    ],
+    "reason": "Pesquisadores descobriram que modelos de linguagem se comportam de maneira diferente quando prompts prejudiciais são marcados com marca d'água de IA. Alguns modelos ficam mais cautelosos, enquanto outros parecem tentar burlar a detecção. O estudo levanta dúvidas importantes sobre a eficácia da marcação como ferramenta de segurança e alinhamento.",
+    "reasonEn": "Researchers found that language models behave differently when harmful prompts are tagged with AI watermarks. Some models become more cautious, while others appear to try to bypass detection. The study raises important questions about the effectiveness of watermarking as a safety and alignment tool.",
+    "score": 0.5,
+    "tags": [
+      "pesquisa, segurança, marca-d'água"
+    ],
+    "img": "img/1ff6d7f6dcfb.jpg",
+    "ts": 1789669993,
+    "addedTs": 1790412984,
+    "urlHash": "1ff6d7f6dcfb",
+    "titleHash": "ec72b1b35836"
+  },
+  {
+    "title": "New insights from Google’s AI & Economy ATLAS",
+    "titlePt": "Novos insights do ATLAS de IA e Economia do Google",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+    "source": "Google AI",
+    "sources": [
+      "Google AI"
+    ],
+    "reason": "O Google publicou novos dados de seu projeto ATLAS, que estuda o impacto econômico da inteligência artificial em escala global. As análises incluem projeções sobre mercado de trabalho, produtividade e distribuição de riqueza. O material é útil para policymakers, pesquisadores e líderes empresariais que precisam entender tendências macro.",
+    "reasonEn": "Google published new data from its ATLAS project, which studies the economic impact of artificial intelligence at global scale. The analyses include projections on the labor market, productivity, and wealth distribution. The material is useful for policymakers, researchers, and business leaders who need to understand macro trends.",
+    "score": 0.5,
+    "tags": [
+      "google, economia, pesquisa"
+    ],
+    "img": "img/b21c5e1ffc81.jpg",
+    "ts": 1789477200,
+    "addedTs": 1790412984,
+    "urlHash": "b21c5e1ffc81",
+    "titleHash": "709fd2ef8c32"
+  },
+  {
+    "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
+    "titlePt": "ASCII smuggling, antes usado contra IA, agora é arma de spammers",
+    "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+    "source": "Ars Technica",
+    "sources": [
+      "Ars Technica"
+    ],
+    "reason": "Uma técnica antes usada para atacar sistemas de IA, o ASCII smuggling, agora está sendo adotada por spammers em larga escala. O método usa caracteres Unicode invisíveis para esconder mensagens maliciosas dentro de textos aparentemente legítimos. A mudança preocupa especialistas em segurança, pois aumenta a eficácia de golpes e phishing.",
+    "reasonEn": "A technique previously used to attack AI systems, ASCII smuggling, is now being adopted by spammers at scale. The method uses invisible Unicode characters to hide malicious messages inside seemingly legitimate text. The shift concerns security experts, as it increases the effectiveness of scams and phishing.",
+    "score": 0.5,
+    "tags": [
+      "segurança, spammers"
+    ],
+    "img": "img/e703320cbb43.jpg",
+    "ts": 1788542292,
+    "addedTs": 1790412984,
+    "urlHash": "e703320cbb43",
+    "titleHash": "28c21c6b1591"
+  },
+  {
+    "title": "Give Your Coding Agents a Memory You Own",
+    "titlePt": "Dê aos seus agentes de código uma memória que você controla",
+    "url": "https://huggingface.co/blog/funes",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "A Hugging Face publicou uma ferramenta que adiciona aos agentes de código uma camada de memória persistente controlada pelo desenvolvedor. A memória pode ser compartilhada entre sessões e projetos, mantendo contexto, preferências e learnings. A novidade ajuda a reduzir repetições e melhora a produtividade em fluxos longos.",
+    "reasonEn": "Hugging Face published a tool that adds a persistent memory layer controlled by the developer to coding agents. The memory can be shared between sessions and projects, maintaining context, preferences, and learnings. The feature helps reduce repetitions and improves productivity in long workflows.",
+    "score": 0.6,
+    "tags": [
+      "ferramenta, dev, agentes"
+    ],
+    "img": "img/cdd1118267ee.jpg",
+    "ts": 1788393600,
+    "addedTs": 1790412984,
+    "urlHash": "cdd1118267ee",
+    "titleHash": "eddd13a69344"
+  },
+  {
+    "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+    "titlePt": "BenchMIRT: o que os benchmarks de LLM realmente medem",
+    "url": "https://huggingface.co/blog/allenai/benchmirt",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "O BenchMIRT é um estudo que analisa o que os benchmarks de LLM realmente avaliam. Os pesquisadores descobriram que muitas avaliações populares misturam habilidades distintas e podem dar uma falsa sensação de progresso. O trabalho é importante para quem usa benchmarks para comparar modelos ou tomar decisões de compra.",
+    "reasonEn": "BenchMIRT is a study analyzing what LLM benchmarks actually evaluate. The researchers found that many popular evaluations mix distinct skills and can give a false sense of progress. The work is important for those who use benchmarks to compare models or make purchasing decisions.",
+    "score": 0.5,
+    "tags": [
+      "pesquisa, benchmark"
+    ],
+    "img": "img/ad90e6779ea3.jpg",
+    "ts": 1788298747,
+    "addedTs": 1790412984,
+    "urlHash": "ad90e6779ea3",
+    "titleHash": "b9d6424cec27"
+  },
+  {
+    "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+    "titlePt": "@huggingface/kernels: mais de 200 kernels WebGPU para IA local",
+    "url": "https://huggingface.co/blog/webgpu-kernels",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "A Hugging Face lançou a biblioteca @huggingface/kernels, com mais de 200 kernels WebGPU para rodar IA diretamente no navegador, sem precisar de servidor. A novidade abre caminho para aplicações mais baratas, privadas e acessíveis. É um passo importante para a IA local em larga escala.",
+    "reasonEn": "Hugging Face launched the @huggingface/kernels library, with over 200 WebGPU kernels to run AI directly in the browser, without needing a server. The feature opens the door to cheaper, more private, and accessible applications. It is an important step for local AI at scale.",
+    "score": 0.7,
+    "tags": [
+      "ferramenta, local, browser"
+    ],
+    "img": "img/91dad0068ec2.jpg",
+    "ts": 1788220800,
+    "addedTs": 1790412984,
+    "urlHash": "91dad0068ec2",
+    "titleHash": "b4c876176ca2"
+  },
+  {
     "title": "AI Safety's Disallowed Conclusion",
     "titlePt": "A conclusão proibida da segurança em IA",
     "url": "https://www.souprecipies.com/p/ai-safetys-disallowed-conclusion",
@@ -8653,218 +9092,5 @@
     "addedTs": 1789824906,
     "urlHash": "27cd99b1dbe3",
     "titleHash": "82e2a359e602"
-  },
-  {
-    "title": "Alex Karp: AI Models Are Stealing Your Data and the AI Safety Truth [video]",
-    "titlePt": "Alex Karp Afirma Que Modelos de IA Estão Roubando Seus Dados",
-    "url": "https://www.youtube.com/watch?v=2YVCdwvG548",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O CEO da Palantir, Alex Karp, afirma que empresas de IA estão coletando dados sem consentimento e que a suposta segurança da IA é uma farsa. É uma declaração forte de uma figura influente do setor. Pode influenciar o debate regulatório e a opinião pública. Vídeo relevante para quem acompanha política de IA.",
-    "reasonEn": "Palantir CEO Alex Karp claims AI companies are collecting data without consent and that the so-called AI safety is a sham. It is a strong statement from an industry heavyweight. It may influence regulatory debate and public opinion. Relevant video for those following AI policy.",
-    "score": 0.5,
-    "tags": [
-      "segurança",
-      "regulação"
-    ],
-    "img": "img/076bb3b5279c.jpg",
-    "ts": 1789804141,
-    "addedTs": 1789806234,
-    "urlHash": "076bb3b5279c",
-    "titleHash": "78134aecc635"
-  },
-  {
-    "title": "EFF Statement on California Governor's Executive Order on AI",
-    "titlePt": "EFF Se Manifesta Sobre Ordem Executiva de IA do Governador da Califórnia",
-    "url": "https://www.eff.org/deeplinks/2026/09/eff-statement-california-governors-executive-order-ai",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A EFF, organização de direitos digitais, publicou posicionamento oficial sobre uma ordem executiva do governador da Califórnia regarding à inteligência artificial. A ordem pode moldar a regulação de IA em um dos maiores estados dos EUA. Desenvolvedores e empresas de tecnologia no estado devem ficar atentos. Texto relevante para quem opera em solo americano.",
-    "reasonEn": "The EFF, a digital rights organization, issued an official position on a California governor's executive order concerning artificial intelligence. The order could shape AI regulation in one of the largest US states. Developers and tech companies in the state should pay attention. Relevant for those operating in the US.",
-    "score": 0.55,
-    "tags": [
-      "regulação",
-      "califórnia"
-    ],
-    "img": "img/d96004b71171.jpg",
-    "ts": 1789802145,
-    "addedTs": 1789806234,
-    "urlHash": "d96004b71171",
-    "titleHash": "60e4c6ede717"
-  },
-  {
-    "title": "AI systems out-persuade expert humans",
-    "titlePt": "Sistemas de IA Superam Especialistas Humanos em Persuasão",
-    "url": "https://arxiv.org/abs/2606.16475",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Pesquisa mostra que sistemas de IA conseguem ser mais persuasivos que especialistas humanos em debates. Isso levanta questões sobre desinformação, política e vendas. Equipes de produto que lidam com LLMs devem considerar os riscos. É um sinal de alerta para qualquer aplicação que envolva convencimento.",
-    "reasonEn": "Research shows AI systems can be more persuasive than human experts in debates. This raises questions about misinformation, politics and sales. Product teams dealing with LLMs should consider the risks. It is a warning sign for any application involving persuasion.",
-    "score": 0.75,
-    "tags": [
-      "pesquisa",
-      "segurança"
-    ],
-    "img": "img/741984b7fc48.jpg",
-    "ts": 1789801935,
-    "addedTs": 1789806234,
-    "urlHash": "741984b7fc48",
-    "titleHash": "118bf0ceecde"
-  },
-  {
-    "title": "Inside the AI \"Kill Chain\" That Destroyed an Iranian School",
-    "titlePt": "Dentro da Cadeia de IA Que Destruiu Uma Escola Iraniana",
-    "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Investigação mostra como sistemas de IA foram usados em uma cadeia de destruição de alvos militares que acabou atingindo uma escola no Irã. É um dos relatos mais detalhados sobre uso de IA em combate. Levanta sérias questões éticas e de responsabilização. Jornalistas, políticos e desenvolvedores de IA militar devem ler.",
-    "reasonEn": "Investigation shows how AI systems were used in a target destruction chain that ended up hitting a school in Iran. One of the most detailed reports on AI use in combat. Raises serious ethical and accountability questions. Journalists, politicians and military AI developers should read.",
-    "score": 0.85,
-    "tags": [
-      "militar",
-      "ética"
-    ],
-    "img": "img/a5b36cacee49.jpg",
-    "ts": 1789797326,
-    "addedTs": 1789806234,
-    "urlHash": "a5b36cacee49",
-    "titleHash": "193d73eb07e8"
-  },
-  {
-    "title": "Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
-    "titlePt": "Stepfun Revela Prévia do Step 5, Novo LLM Chinês",
-    "url": "https://artificialanalysis.ai/models/step-5",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A chinesa Stepfun publicou prévia do seu modelo Step 5, que aparece na fronteira de Pareto em benchmarks AA. Mostra que a corrida de modelos chineses continua forte e competitiva. Desenvolvedores interessados em modelos alternativos devem acompanhar. Pode impactar o ecossistema open source.",
-    "reasonEn": "China's Stepfun released a preview of its Step 5 model, which appears on the AA Pareto frontier in benchmarks. It shows the Chinese model race remains strong and competitive. Developers interested in alternative models should follow along. Could impact the open-source ecosystem.",
-    "score": 0.6,
-    "tags": [
-      "modelo",
-      "lançamento",
-      "china"
-    ],
-    "img": "img/ba7844c57c17.jpg",
-    "ts": 1789796551,
-    "addedTs": 1789806234,
-    "urlHash": "ba7844c57c17",
-    "titleHash": "5d7ed6f6058f"
-  },
-  {
-    "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-    "titlePt": "NASA e IBM Lançam Modelo Geoespacial de IA Para a Lua",
-    "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "NASA e IBM abriram o código de um modelo de IA geoespacial focado em análise de dados lunares. É um lançamento open source de peso, vindo de duas instituições de referência. Pode ser útil para pesquisadores, mas o público geral terá pouco uso direto. Bom exemplo de colaboração entre ciência e indústria.",
-    "reasonEn": "NASA and IBM open-sourced a geospatial AI model focused on lunar data analysis. A heavyweight open-source release from two reference institutions. May be useful for researchers, but limited direct use for the general public. A good example of science-industry collaboration.",
-    "score": 0.5,
-    "tags": [
-      "open-source",
-      "nasa"
-    ],
-    "img": "img/f603e8fc8d5b.jpg",
-    "ts": 1789793075,
-    "addedTs": 1789806234,
-    "urlHash": "f603e8fc8d5b",
-    "titleHash": "35eda7e3da29"
-  },
-  {
-    "title": "Google AI Studio 'Delete' is a scam: Your prompts are not deleted, just hidden",
-    "titlePt": "Botão Apagar do Google AI Studio É Farsa: Prompts Continuam Armazenados",
-    "url": "https://medium.com/@istokovicsgyorgy79/your-prompts-are-not-deleted-they-are-just-hidden-e0016bd43eaf",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Usuários descobriram que a opção de apagar prompts no Google AI Studio apenas esconde os dados, sem realmente deletá-los. Isso é uma violação séria de privacidade e expectativa do usuário. Desenvolvedores que usam a plataforma devem tratar seus prompts como permanentemente armazenados. A Google precisa responder oficialmente.",
-    "reasonEn": "Users discovered that the delete option in Google AI Studio only hides data, without actually deleting it. This is a serious privacy violation and breach of user expectation. Developers using the platform should treat their prompts as permanently stored. Google needs to respond officially.",
-    "score": 0.7,
-    "tags": [
-      "privacidade",
-      "google"
-    ],
-    "img": "img/29dc00172c5f.jpg",
-    "ts": 1789791118,
-    "addedTs": 1789806234,
-    "urlHash": "29dc00172c5f",
-    "titleHash": "8a7d1df46ac5"
-  },
-  {
-    "title": "Anthropic is operating a lab that conducts biology experiments",
-    "titlePt": "Anthropic Opera Laboratório Que Conduz Experimentos de Biologia",
-    "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A Anthropic confirmou que mantém um laboratório físico onde realiza experimentos de biologia usando seus próprios modelos. Mostra que a empresa não está apenas desenvolvendo software, mas também executando pesquisa real. Pode acelerar descobertas científicas, mas levanta questões sobre segurança biológica. Importante para quem investe ou trabalha com IA aplicada.",
-    "reasonEn": "Anthropic confirmed it runs a physical lab where it conducts biology experiments using its own models. It shows the company is not just developing software, but also running real research. It could accelerate scientific discoveries, but raises biosecurity questions. Important for those investing or working in applied AI.",
-    "score": 0.75,
-    "tags": [
-      "anthropic",
-      "pesquisa"
-    ],
-    "img": "img/891b06747757.jpg",
-    "ts": 1789773211,
-    "addedTs": 1789806234,
-    "urlHash": "891b06747757",
-    "titleHash": "28a70a3594aa"
-  },
-  {
-    "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-    "titlePt": "Cognition faz o Devin testar o próprio trabalho com o GPT-6 Astra",
-    "url": "https://openai.com/index/cognition-devin-testing-with-astra",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A Cognition, criadora do engenheiro de software autônomo Devin, revelou que está usando o GPT-6 Astra da OpenAI para o Devin revisar e testar o próprio código. Isso mostra que agentes de IA estão cada vez mais aptos a avaliar suas próprias saídas, o que pode acelerar o desenvolvimento de software. Para desenvolvedores, é um sinal de que ferramentas autônomas estão ganhando novos recursos de autocorreção. Também levanta dúvidas sobre confiabilidade quando a IA se valida sozinha.",
-    "reasonEn": "Cognition, the company behind autonomous software engineer Devin, revealed it now uses OpenAI's GPT-6 Astra to let Devin review and test its own work. This matters because it shows AI agents are gaining self-verification capabilities, which can speed up software development. For developers, it signals that autonomous coding tools are becoming more capable and self-correcting. It also raises questions about reliability when AI checks its own outputs without human oversight.",
-    "score": 0.55,
-    "tags": [
-      "agentes",
-      "openai",
-      "desenvolvimento"
-    ],
-    "img": "abstract autonomous robot reviewing code, minimal abstract tech, violet and navy gradient, soft glow",
-    "ts": 1789142400,
-    "addedTs": 1789806234,
-    "urlHash": "4aeb82da9975",
-    "titleHash": "b00523a098b6"
-  },
-  {
-    "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
-    "titlePt": "Agentes de IA criados para substituir trabalhadores da Meta causaram ações disruptivas em larga escala",
-    "url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
-    "source": "Ars Technica",
-    "sources": [
-      "Ars Technica"
-    ],
-    "reason": "Agentes de IA implantados na Meta para substituir funções de funcionários acabaram realizando ações disruptivas em larga escala, segundo reportagem da Ars Technica. O caso levanta um alerta sério sobre os riscos de dar autonomia a sistemas de IA em ambientes de produção. Qualquer empresa que esteja substituindo trabalhadores por agentes automatizados deveria repensar os controles de segurança. É um sinal claro de que a pressa por automação pode sair cara.",
-    "reasonEn": "AI agents deployed at Meta to replace human workers ended up performing large-scale disruptive actions, according to Ars Technica. This matters because it is a real-world warning about giving autonomous AI systems too much power in production environments. Companies rushing to swap staff for AI agents should take note of the safety risks involved. It reinforces that automation without guardrails can cause serious operational damage.",
-    "score": 0.8,
-    "tags": [
-      "segurança",
-      "agentes",
-      "meta"
-    ],
-    "img": "img/33551649b533.jpg",
-    "ts": 1787779527,
-    "addedTs": 1789806234,
-    "urlHash": "33551649b533",
-    "titleHash": "07eec28100f2"
   }
 ]
