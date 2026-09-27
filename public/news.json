@@ -1,5 +1,132 @@
 [
   {
+    "title": "Your AI Agent Forgot Half of What You Told It",
+    "titlePt": "Seu agente de IA esquece metade do que você disse",
+    "url": "https://www.oreilly.com/radar/your-ai-agent-already-forgot-half-of-what-you-told-it/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Agentes de IA frequentemente perdem contexto importante entre conversas, obrigando usuários a repetir informações. O artigo discute por que isso acontece e quais são as limitações atuais de memória. Pesquisadores propõem soluções, mas nenhuma resolve o problema de forma completa. Desenvolvedores que dependem desses agentes precisam estar cientes dessa falha. Para usuários finais, isso significa ajustar expectativas e documentar informações importantes externamente.",
+    "reasonEn": "AI agents often lose important context between conversations, forcing users to repeat information. The article discusses why this happens and what the current memory limitations are. Researchers propose solutions, but none fully solve the problem. Developers who depend on these agents need to be aware of this flaw. For end users, it means adjusting expectations and keeping external notes.",
+    "score": 0.75,
+    "tags": [
+      "agente",
+      "memória"
+    ],
+    "img": "img/42ad5ec1202f.jpg",
+    "ts": 1790514946,
+    "addedTs": 1790515513,
+    "urlHash": "42ad5ec1202f",
+    "titleHash": "0290be856611"
+  },
+  {
+    "title": "Human-AI partnerships are for alignment, not capability",
+    "titlePt": "Parcerias humano-IA visam alinhamento, não capacidade",
+    "url": "https://www.seangoedecke.com/human-ai-partnerships-are-for-alignment-not-capability/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo defende que o principal benefício da colaboração humano-IA é manter os sistemas alinhados aos valores humanos. Não se trata de ampliar capacidades, mas de garantir controle ético sobre as decisões automatizadas. A discussão é relevante para empresas que implantam IA em processos críticos. Reforça a ideia de que segurança vem antes de potência bruta. É um contraponto à narrativa de que IA mais inteligente é sempre melhor.",
+    "reasonEn": "The article argues that the main benefit of human-AI collaboration is keeping AI aligned with human values. It's not about expanding capabilities, but ensuring ethical control. The discussion is relevant for companies deploying AI in critical decisions. Reinforces the idea that safety comes before raw power. It's a counterpoint to the narrative that smarter AI is always better.",
+    "score": 0.5,
+    "tags": [
+      "alinhamento",
+      "ética"
+    ],
+    "img": "img/62716397a9de.jpg",
+    "ts": 1790514278,
+    "addedTs": 1790515513,
+    "urlHash": "62716397a9de",
+    "titleHash": "176108fc1e48"
+  },
+  {
+    "title": "AI Doesn't Need to Invent a Supervirus to Be Dangerous",
+    "titlePt": "IA não precisa inventar supervírus para ser perigosa",
+    "url": "https://liorzi.substack.com/p/ai-doesnt-need-to-invent-a-supervirus",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto lembra que os danos reais da IA não dependem de cenários extremos de bioterrorismo. Desinformação, viés algorítmico e automação de processos críticos já causam prejuízos concretos no dia a dia. É um alerta direto para gestores e formuladores de políticas públicas. Mostra que ameaças cotidianas merecem tanta atenção quanto ficção científica. A mensagem central é não subestimar riscos que já estão entre nós.",
+    "reasonEn": "The text reminds that real AI harms don't depend on extreme bioterrorism scenarios. Disinformation, algorithmic bias, and automation of critical processes already cause concrete damage daily. It's a direct warning for managers and policymakers. Shows that everyday threats deserve as much attention as science fiction. The central message is not to underestimate risks already among us.",
+    "score": 0.6,
+    "tags": [
+      "segurança",
+      "riscos"
+    ],
+    "img": "img/59be227bb119.jpg",
+    "ts": 1790513866,
+    "addedTs": 1790515513,
+    "urlHash": "59be227bb119",
+    "titleHash": "a2c1fedc96bb"
+  },
+  {
+    "title": "Show HN: Augur – Sandboxed macOS VMs with Xcode for AI Coding Agents",
+    "titlePt": "Augur: VMs macOS isoladas para agentes de código com IA",
+    "url": "https://github.com/h1d3mun3/augur",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Augur é uma ferramenta que cria máquinas virtuais macOS isoladas com Xcode pré-instalado, voltadas para agentes de IA que programam. Permite testar código gerado em ambiente seguro e descartável. Reduz o risco de danos ao sistema do desenvolvedor durante a execução. Útil para quem usa IA para gerar código em escala e precisa de confiável. Mostra a maturidade crescente do ecossistema de ferramentas para agentes.",
+    "reasonEn": "Augur is a tool that creates isolated macOS virtual machines with Xcode pre-installed, aimed at AI coding agents. It allows testing generated code in a safe, disposable environment. Reduces the risk of damage to the developer's system during execution. Useful for those using AI to generate code at scale and need reliable isolation. Shows the growing maturity of the agent tooling ecosystem.",
+    "score": 0.65,
+    "tags": [
+      "agente",
+      "ferramenta",
+      "código"
+    ],
+    "img": "img/a7381c6a5f06.jpg",
+    "ts": 1790513527,
+    "addedTs": 1790515513,
+    "urlHash": "a7381c6a5f06",
+    "titleHash": "63a7143ce49a"
+  },
+  {
+    "title": "Understanding the Four AI Risk Domains",
+    "titlePt": "Os quatro domínios de risco da IA, explicados",
+    "url": "https://sdarchitect.blog/2026/09/27/ai-risk-a-users-guide-part-iv-understanding-the-four-ai-risk-domains/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo propõe quatro categorias para classificar os riscos da inteligência artificial de forma estruturada. Ajuda equipes e gestores a pensar em mitigação com prioridades claras. A taxonomia facilita a comunicação entre áreas técnicas e de negócios dentro das empresas. É um recurso útil para quem precisa justificar investimentos em segurança de IA. Fornece uma linguagem comum para discutir o tema em diferentes níveis.",
+    "reasonEn": "The article proposes four categories to classify AI risks in a structured way. Helps teams and managers think about mitigation with clear priorities. The taxonomy facilitates communication between technical and business areas within companies. Useful resource for those needing to justify AI security investments. Provides common language to discuss the topic at different levels.",
+    "score": 0.5,
+    "tags": [
+      "segurança",
+      "riscos"
+    ],
+    "img": "img/69179669a572.jpg",
+    "ts": 1790512259,
+    "addedTs": 1790515513,
+    "urlHash": "69179669a572",
+    "titleHash": "c851f3914a33"
+  },
+  {
+    "title": "Andrew Ng: One Skill to Stay Relevant in the Age of AI [video]",
+    "titlePt": "Andrew Ng: a habilidade para sobreviver à era da IA",
+    "url": "https://www.youtube.com/watch?v=HTlf3KNNez0",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Andrew Ng apresenta em vídeo a habilidade que considera essencial para profissionais na era da IA. A mensagem central é priorizar adaptabilidade e aprendizado contínuo em vez de especialização rígida. Mais do que dominar uma tecnologia específica, o importante é aprender a aprender rápido. A dica é útil para desenvolvedores e gestores em transição de carreira. Curto, direto e com o peso de uma referência mundial em IA.",
+    "reasonEn": "Andrew Ng presents in video the skill he considers essential for professionals in the AI era. The central message is to prioritize adaptability and continuous learning over rigid specialization. More than mastering a specific technology, the important thing is learning to learn quickly. The tip is useful for developers and managers in career transition. Short, direct, with the weight of a global AI reference.",
+    "score": 0.6,
+    "tags": [
+      "carreira",
+      "aprendizado"
+    ],
+    "img": "img/b4deca8727b0.jpg",
+    "ts": 1790512146,
+    "addedTs": 1790515513,
+    "urlHash": "b4deca8727b0",
+    "titleHash": "147591454610"
+  },
+  {
     "title": "Despite canning the Copilot+ brand, \"most people love\" its AI assistant",
     "titlePt": "Microsoft abandona marca Copilot+ mas elogia seu assistente de IA",
     "url": "https://www.xda-developers.com/despite-canning-the-copilot-brand-most-people-love-its-ai-assistant-says-microsoft/",
@@ -9108,132 +9235,5 @@
     "addedTs": 1789912185,
     "urlHash": "b5500bc65035",
     "titleHash": "97dcd3546a0d"
-  },
-  {
-    "title": "KDE turns 30 and someone's brought an AI-native desktop proposal",
-    "titlePt": "KDE faz 30 anos com proposta de desktop nativo em IA",
-    "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O projeto KDE celebra 30 anos e alguém aproveitou para apresentar uma proposta de desktop nativo em IA. Isso pode mudar a forma como sistemas Linux integram agentes e assistentes no ambiente gráfico. Para usuários de Linux e desenvolvedores de desktop, é uma notícia com potencial de longo prazo. Ainda é proposta, não produto pronto.",
-    "reasonEn": "The KDE project celebrates 30 years and someone took the chance to present an AI-native desktop proposal. This could change how Linux systems integrate agents and assistants into the graphical environment. For Linux users and desktop developers, it is news with long-term potential. It is still a proposal, not a ready product.",
-    "score": 0.5,
-    "tags": [
-      "linux",
-      "desktop"
-    ],
-    "img": "img/952cba850401.jpg",
-    "ts": 1789889917,
-    "addedTs": 1789894528,
-    "urlHash": "952cba850401",
-    "titleHash": "d2518b186d19"
-  },
-  {
-    "title": "Global Challenges in AI Safety for Biosecurity",
-    "titlePt": "Desafios globais de segurança em IA para biossegurança",
-    "url": "https://www.lesswrong.com/posts/KH2JjfSrw6tJdmKzw/global-challenges-in-ai-safety-for-biosecurity",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Discussão no Hacker News sobre os riscos de uso indevido de IA em biologia, como criação de patógenos ou toxinas assistida por modelos. O tema biossegurança em IA é cada vez mais discutido por governos e laboratórios. Afeta pesquisadores, formuladores de políticas e qualquer empresa de biotecnologia usando modelos generativos. Vale ler para entender o lado regulatório e de risco.",
-    "reasonEn": "A Hacker News discussion on the risks of AI misuse in biology, such as model-assisted creation of pathogens or toxins. AI biosecurity is increasingly discussed by governments and labs. It affects researchers, policymakers, and any biotech company using generative models. Worth reading to understand the regulatory and risk side.",
-    "score": 0.6,
-    "tags": [
-      "segurança",
-      "regulação"
-    ],
-    "img": "img/fec010599628.jpg",
-    "ts": 1789887748,
-    "addedTs": 1789894528,
-    "urlHash": "fec010599628",
-    "titleHash": "bed182ca40b8"
-  },
-  {
-    "title": "Free scanner for exposed Supabase data in AI-built apps (Lovable, Bolt, Base44)",
-    "titlePt": "Scanner gratuito encontra dados Supabase expostos em apps de IA",
-    "url": "https://api.trustboost.dev/free-scan",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Foi divulgado um scanner gratuito que procura dados sensíveis expostos em apps criados com Lovable, Bolt e Base44, plataformas que usam Supabase como backend. O problema é real: muitos apps gerados por IA vão para produção sem revisão de segurança básica. Desenvolvedores que usam essas ferramentas devem rodar o scanner imediatamente. É aviso prático, não teoria.",
-    "reasonEn": "A free scanner was released that looks for exposed sensitive data in apps built with Lovable, Bolt, and Base44, platforms that use Supabase as backend. The problem is real: many AI-generated apps ship without basic security review. Developers using these tools should run the scanner immediately. It is a practical warning, not theory.",
-    "score": 0.5,
-    "tags": [
-      "segurança",
-      "devtools"
-    ],
-    "img": "img/5f8eb2fb673e.jpg",
-    "ts": 1789884847,
-    "addedTs": 1789894528,
-    "urlHash": "5f8eb2fb673e",
-    "titleHash": "fa6c0071ccd4"
-  },
-  {
-    "title": "Here’s How an AI Slowdown An AI Slowdown Could Be Enforced",
-    "titlePt": "Como uma desaceleração da IA poderia ser aplicada",
-    "url": "https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Discussão no Hacker News sobre mecanismos práticos para frear o avanço da IA, como limites de compute, licenciamento de chips e moratórias regulatórias. O debate é relevante porque cada vez mais governos tratam IA como infraestrutura crítica. Atinge fornecedores de GPU, grandes labs e qualquer empresa dependente de capacidade de treinamento. Vale ler para antecipar mudanças regulatórias.",
-    "reasonEn": "A Hacker News discussion on practical mechanisms to slow AI progress, such as compute caps, chip licensing, and regulatory moratoriums. The debate matters because more governments treat AI as critical infrastructure. It hits GPU vendors, big labs, and any company dependent on training capacity. Worth reading to anticipate regulatory shifts.",
-    "score": 0.5,
-    "tags": [
-      "regulação",
-      "política"
-    ],
-    "img": "img/9e5c2bff6d57.jpg",
-    "ts": 1789884599,
-    "addedTs": 1789894528,
-    "urlHash": "9e5c2bff6d57",
-    "titleHash": "3d8d2517743c"
-  },
-  {
-    "title": "Phylo brings frontier AI to more scientists with open models on Fireworks",
-    "titlePt": "Phylo leva IA de fronteira a mais cientistas com modelos abertos",
-    "url": "https://fireworks.ai/blog/phylo-brings-frontier-ai-to-more-scientists-with-open-models-on-fireworks",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Phylo disponibilizou modelos abertos de fronteira na plataforma Fireworks, mirando cientistas fora dos grandes labs. Isso reduz a barreira de entrada para pesquisa em ciências usando IA de ponta. Afeta pesquisadores acadêmicos e pequenas equipes de biotecnologia que antes dependiam de APIs fechadas. Sinal positivo para a tendência de IA aberta aplicada à ciência.",
-    "reasonEn": "Phylo made frontier open models available on the Fireworks platform, targeting scientists outside big labs. This lowers the entry barrier for cutting-edge AI research in science. It affects academic researchers and small biotech teams that previously relied on closed APIs. A positive signal for the open AI applied to science trend.",
-    "score": 0.5,
-    "tags": [
-      "ciência",
-      "modelos-abertos"
-    ],
-    "img": "img/688e00a4d467.jpg",
-    "ts": 1789882689,
-    "addedTs": 1789894528,
-    "urlHash": "688e00a4d467",
-    "titleHash": "95db09a8d01c"
-  },
-  {
-    "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
-    "titlePt": "Como os recursos da Hugging Face impulsionam a busca no Papers with Code",
-    "url": "https://huggingface.co/blog/pwc-search",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "A Hugging Face publicou um artigo explicando como seus produtos Inference Endpoints, Jobs e Buckets são usados pela plataforma Papers with Code para indexar e buscar artigos científicos com código. O texto mostra na prática como montar uma infraestrutura de busca escalável usando serviços gerenciados de IA. É útil para engenheiros e cientistas de dados que pensam em montar pipelines similares. Mostra também a integração entre duas plataformas importantes do ecossistema open source.",
-    "reasonEn": "Hugging Face published an article explaining how its Inference Endpoints, Jobs, and Buckets products are used by the Papers with Code platform to index and search scientific papers with code. The piece shows how to build a scalable search infrastructure using managed AI services. It is useful for engineers and data scientists considering similar pipelines. It also highlights the integration between two important platforms in the open source ecosystem.",
-    "score": 0.5,
-    "tags": [
-      "huggingface",
-      "infraestrutura",
-      "busca"
-    ],
-    "img": "img/966123ef613d.jpg",
-    "ts": 1787270400,
-    "addedTs": 1789894528,
-    "urlHash": "966123ef613d",
-    "titleHash": "f137c98c53ab"
   }
 ]
