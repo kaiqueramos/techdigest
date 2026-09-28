@@ -1,5 +1,203 @@
 [
   {
+    "title": "SeedRouter – One API for LLM, image and video models",
+    "titlePt": "SeedRouter: uma API única para LLMs, imagens e vídeo",
+    "url": "https://seedrouter.ai",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O SeedRouter oferece um ponto único para acessar modelos de linguagem, imagem e vídeo. Isso reduz o trabalho de integrar vários fornecedores. Para desenvolvedores que querem trocar de provedor sem reescrever código, é uma novidade prática. Ainda é cedo para saber a estabilidade e o custo real.",
+    "reasonEn": "SeedRouter offers a single entry point to access language, image, and video models. It reduces the work of integrating multiple vendors. For developers who want to switch providers without rewriting code, it is a practical new option. It is still early to know its stability and real cost.",
+    "score": 0.55,
+    "tags": [
+      "api",
+      "desenvolvedores",
+      "lançamento"
+    ],
+    "img": "img/902cd6e92360.jpg",
+    "ts": 1790577556,
+    "addedTs": 1790582416,
+    "urlHash": "902cd6e92360",
+    "titleHash": "f91aa9716d9c"
+  },
+  {
+    "title": "Publish facts AI agents can trust, instead of what they scraped",
+    "titlePt": "Publique fatos em que agentes de IA possam confiar",
+    "url": "https://profiles.skin/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo defende que sites publiquem dados estruturados e verificáveis em vez de texto que agentes raspam e distorcem. É uma mudança de mentalidade: pensar na IA como consumidora primária de informação. Afeta publishers, devs de agentes e qualquer pessoa cansada de alucinações.",
+    "reasonEn": "The article argues that sites should publish structured, verifiable data instead of free-form text that agents scrape and distort. It is a mindset shift: treating AI as a primary information consumer. It affects publishers, agent developers, and anyone tired of hallucinations.",
+    "score": 0.5,
+    "tags": [
+      "dados",
+      "agentes",
+      "publicação"
+    ],
+    "img": "img/0ce7e584e24d.jpg",
+    "ts": 1790577295,
+    "addedTs": 1790582416,
+    "urlHash": "0ce7e584e24d",
+    "titleHash": "69805fc1e895"
+  },
+  {
+    "title": "Ask HN: Using AI to develop software while being Anti-AI",
+    "titlePt": "Como usar IA para programar sendo contra a IA",
+    "url": "https://news.ycombinator.com/item?id=49874344",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Discussão no Hacker News sobre desenvolvedores que adotam IA no trabalho apesar de serem céticos. O tema expõe a tensão entre produtividade e princípios. Muitos relatos descrevem uso limitado, com revisão humana pesada. Não há conclusão única, mas é um debate real em equipes de engenharia.",
+    "reasonEn": "A Hacker News discussion about developers who adopt AI at work while remaining skeptical. The topic exposes the tension between output and principles. Many reports describe limited use with heavy human review. There is no single conclusion, but it is a real debate in engineering teams.",
+    "score": 0.5,
+    "tags": [
+      "trabalho",
+      "desenvolvedores",
+      "ética"
+    ],
+    "img": "img/23cb69859f0b.jpg",
+    "ts": 1790577000,
+    "addedTs": 1790582416,
+    "urlHash": "23cb69859f0b",
+    "titleHash": "0f56ba278016"
+  },
+  {
+    "title": "Putting the trace before the loop: observability-first AI agent design",
+    "titlePt": "Coloque o rastro antes do loop: agentes de IA com observabilidade primeiro",
+    "url": "https://dbln.me/blog/building-an-ai-agent-observability-first",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto defende que sistemas de agentes devem nascer já com observabilidade embutida, registrando cada passo. Isso facilita depurar, auditar e corrigir comportamentos inesperados. É uma boa prática para times que constroem agentes em produção. Diferente, mas complementar ao material já publicado sobre harnesses de observabilidade.",
+    "reasonEn": "The article argues that agent systems should be born with observability built in, logging each step. That makes it easier to debug, audit, and fix unexpected behaviors. It is a good practice for teams building agents in production. Different but complementary to the previously published material on observability harnesses.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "observabilidade",
+      "arquitetura"
+    ],
+    "img": "img/fe89d51673bb.jpg",
+    "ts": 1790573976,
+    "addedTs": 1790582416,
+    "urlHash": "fe89d51673bb",
+    "titleHash": "e84df69a6fb4"
+  },
+  {
+    "title": "Management is forcing us to use AI",
+    "titlePt": "Gestoria está obrigando a usar IA nas equipes",
+    "url": "https://news.ycombinator.com/item?id=49873913",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Relatos no Hacker News mostram empresas pressionando funcionários a adotar ferramentas de IA, às vezes sem treinamento ou métricas realistas. O problema afeta produtividade, moral e qualidade do código. É um sinal de alerta para líderes e pessoas em times técnicos lidarem com metas mal definidas.",
+    "reasonEn": "Hacker News reports show companies pressuring staff to adopt AI tools, sometimes without training or realistic metrics. The issue affects productivity, morale, and code quality. It is a warning sign for leaders and technical teams dealing with poorly set targets.",
+    "score": 0.6,
+    "tags": [
+      "trabalho",
+      "gestão",
+      "adoção"
+    ],
+    "img": "img/8cc022e2a886.jpg",
+    "ts": 1790572272,
+    "addedTs": 1790582416,
+    "urlHash": "8cc022e2a886",
+    "titleHash": "2dea00dc7f1b"
+  },
+  {
+    "title": "Ukraine's new military AI does more than watch the battlefield–it helps commande",
+    "titlePt": "Nova IA da Ucrânia vai além de vigiar o campo de batalha e ajuda a comandar",
+    "url": "https://euromaidanpress.com/2026/09/25/ukraines-new-military-ai-does-more-than-watch-the-battlefield-it-helps-commanders-plan-what-comes-next/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Ucrânia passou a usar IA que não só monitora o front, como sugere ações de comando. Isso muda o papel de sistemas automáticos em conflitos reais. Envolve riscos éticos e operacionais significativos. Importante para quem se importa com geopolítica e o futuro de armas autônomas.",
+    "reasonEn": "Ukraine has started using AI that not only monitors the front line but also suggests command actions. This changes the role of automated systems in real conflicts. It carries significant ethical and operational risks. Important for those who care about geopolitics and the future of autonomous weapons.",
+    "score": 0.55,
+    "tags": [
+      "militar",
+      "geopolítica",
+      "ética"
+    ],
+    "img": "img/c9a639473965.jpg",
+    "ts": 1790568783,
+    "addedTs": 1790582416,
+    "urlHash": "c9a639473965",
+    "titleHash": "d2b19a358d8d"
+  },
+  {
+    "title": "How the stories about all-powerful AI are swallowing the world",
+    "titlePt": "Como as narrativas sobre IA todo-poderosa estão dominando o debate",
+    "url": "https://www.bloodinthemachine.com/p/how-the-stories-about-all-powerful",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto analisa como histórias exageradas sobre uma IA quase onipotente ganharam espaço em mídia, política e negócios. O autor argumenta que esse discurso distorce riscos reais e benefícios concretos. É uma peça de opinião relevante para entender o clima atual em torno da tecnologia. Ajuda leitores a filtrar hype e focar no que importa.",
+    "reasonEn": "The piece examines how exaggerated stories of all-powerful AI have taken hold across media, politics and business. The author argues this narrative distorts both real risks and concrete benefits. It is a useful opinion piece for understanding today's AI climate. Helps readers separate hype from substance.",
+    "score": 0.55,
+    "tags": [
+      "opinião",
+      "narrativa",
+      "hype"
+    ],
+    "img": "img/622593813209.jpg",
+    "ts": 1790566735,
+    "addedTs": 1790582416,
+    "urlHash": "622593813209",
+    "titleHash": "6174080dd5a8"
+  },
+  {
+    "title": "Australia Senate Requests OpenAI, Anthropic CEOs Face AI Inquiry",
+    "titlePt": "Senado da Austrália convoca CEOs da OpenAI e Anthropic para audiência sobre IA",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-27/australia-senate-requests-openai-anthropic-ceos-face-ai-inquiry",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Senado australiano pediu formalmente que os CEOs da OpenAI e da Anthropic compareçam a uma audiência sobre os impactos da IA. O movimento sinaliza que governos estão apertando o cerco regulatório sobre grandes laboratórios. Para empresas e desenvolvedores, isso pode significar novas regras de operação na região. É um passo relevante na pressão global por governança de IA.",
+    "reasonEn": "Australia's Senate has formally asked the CEOs of OpenAI and Anthropic to appear at an inquiry on AI's impacts. The move signals tightening regulatory pressure on major labs. For companies and developers, it may mean new operating rules in the region. It is a meaningful step in the global push for AI governance.",
+    "score": 0.7,
+    "tags": [
+      "regulação",
+      "austrália",
+      "governo"
+    ],
+    "img": "img/3346fffa360c.jpg",
+    "ts": 1790566017,
+    "addedTs": 1790582416,
+    "urlHash": "3346fffa360c",
+    "titleHash": "bb57332970d6"
+  },
+  {
+    "title": "The next AI breakout will come from a services firm",
+    "titlePt": "Próximo salto da IA virá de uma empresa de serviços",
+    "url": "https://www.introspection.dev/manifesto",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto defende que o próximo grande avanço em IA aplicada não virá de uma startup modelo, mas de uma empresa de serviços tradicional. A tese é que essas empresas têm dados, clientes e problemas reais para aplicar IA com retorno. É uma análise estratégica relevante para investidores e fundadores. Ajuda a repensar onde está o próximo valor em IA.",
+    "reasonEn": "The piece argues the next big AI breakout will come from a services firm rather than a model startup. The thesis is that these companies hold the data, customers and real problems needed to deploy AI profitably. A strategic read for investors and founders. It reframes where the next AI value may sit.",
+    "score": 0.5,
+    "tags": [
+      "negócios",
+      "estratégia",
+      "serviços"
+    ],
+    "img": "img/dce80309c438.jpg",
+    "ts": 1790561333,
+    "addedTs": 1790582416,
+    "urlHash": "dce80309c438",
+    "titleHash": "9224238bacb3"
+  },
+  {
     "title": "GPT-6 Sol & Luna",
     "titlePt": "GPT-6 Sol e Luna aparece no ProductHunt",
     "url": "https://www.producthunt.com/products/openai",
@@ -8840,137 +9038,5 @@
     "addedTs": 1789982784,
     "urlHash": "c98268c012ce",
     "titleHash": "c9cfa3ebf220"
-  },
-  {
-    "title": "AI is breaking the academic sorting machine",
-    "titlePt": "IA está quebrando a máquina de classificação acadêmica",
-    "url": "https://lemire.me/blog/2026/09/20/ai-is-breaking-the-academic-sorting-machine/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Universidades foram desenhadas para selecionar e ordenar estudantes por meio de provas, redações e notas. Com a IA generativa, alunos conseguem produzir trabalhos de alto nível rapidamente, enfraquecendo esse sistema de triagem. O artigo discute como instituições, empresas e órgãos seletores terão que repensar a forma de avaliar talento. Quem se forma hoje e quem contrata novos profissionais sai diretamente afetado. É um sinal de alerta para reitores, recrutadores e candidatos.",
-    "reasonEn": "Universities were built to sort and rank students through exams, essays, and grades. With generative AI, students can produce high-quality work quickly, weakening this filtering system. The piece discusses how institutions, employers, and selection bodies will need to rethink how they evaluate talent. Anyone graduating today, plus recruiters and candidates, is directly affected. It is a warning sign for university leaders and HR teams alike.",
-    "score": 0.55,
-    "tags": [
-      "educação",
-      "trabalho",
-      "avaliação"
-    ],
-    "img": "img/b7c5c03e2a20.jpg",
-    "ts": 1789956553,
-    "addedTs": 1789957681,
-    "urlHash": "b7c5c03e2a20",
-    "titleHash": "5492884f28cb"
-  },
-  {
-    "title": "Why Bother with Lint Rules If AI Writes the Code?",
-    "titlePt": "Por que se preocupar com regras de lint se a IA escreve o código?",
-    "url": "https://allstead.dev/blog/why-lint-when-ai-writes-the-code",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O texto questiona se ainda vale a pena manter regras de lint quando o código vem de IA. A discussão mostra que muitas regras foram criadas para guiar humanos e perdem sentido com geradores automáticos. Desenvolvedores que adotam Copilot, Cursor ou ferramentas similares precisam repensar seus padrões de qualidade. É leitura útil para times que estão migrando o fluxo de trabalho para IA.",
-    "reasonEn": "The piece questions whether keeping lint rules is still worth it when code is generated by AI. The discussion shows many rules were designed to guide humans and lose meaning with automatic generators. Developers adopting Copilot, Cursor, or similar tools need to rethink their quality standards. Useful reading for teams moving their workflow to AI.",
-    "score": 0.62,
-    "tags": [
-      "desenvolvimento",
-      "qualidade",
-      "ia"
-    ],
-    "img": "img/79ba06386082.jpg",
-    "ts": 1789955819,
-    "addedTs": 1789957681,
-    "urlHash": "79ba06386082",
-    "titleHash": "6055d9ddf5be"
-  },
-  {
-    "title": "ZCode: Z.ai's coding agent harness. Powerful, intelligent, extensible",
-    "titlePt": "ZCode: harness de agente de codificação da Z.ai",
-    "url": "https://github.com/zai-org/ZCode",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Z.ai, empresa chinesa de IA, apresentou o ZCode, um harness para agentes de codificação descrito como poderoso e extensível. A ferramenta entra na corrida com Claude Code, Codex CLI e Gemini CLI. Para desenvolvedores, significa mais uma opção séria de automação de tarefas de programação. O lançamento reforça a tendência de empresas chinesas competindo diretamente no mercado global de dev tools.",
-    "reasonEn": "Z.ai, a Chinese AI company, has launched ZCode, a coding agent harness described as powerful and extensible. The tool joins the race alongside Claude Code, Codex CLI, and Gemini CLI. For developers, it means another serious option for automating programming tasks. The launch reinforces the trend of Chinese companies competing directly in the global dev tools market.",
-    "score": 0.65,
-    "tags": [
-      "lançamento",
-      "desenvolvimento",
-      "china"
-    ],
-    "img": "img/76544039edbe.jpg",
-    "ts": 1789954138,
-    "addedTs": 1789957681,
-    "urlHash": "76544039edbe",
-    "titleHash": "17dc675aebe1"
-  },
-  {
-    "title": "OpenPrompt – one workspace for developers using multiple AI coding tools",
-    "titlePt": "OpenPrompt: um workspace para devs que usam várias ferramentas de IA",
-    "url": "https://openprompt.tech",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O OpenPrompt propõe um espaço único para organizar e reutilizar prompts entre diferentes assistentes de codificação com IA. A ideia é evitar que o desenvolvedor fique alternando entre Claude, Cursor, Copilot e outros, cada um com suas próprias configurações. Pode economizar tempo e padronizar o uso interno em times. Útil para quem já vive nesse troca-troca de ferramentas.",
-    "reasonEn": "OpenPrompt offers a single workspace to organize and reuse prompts across different AI coding assistants. The idea is to stop developers from bouncing between Claude, Cursor, Copilot, and others, each with its own configuration. It can save time and standardize internal use across teams. Useful for anyone already juggling multiple tools.",
-    "score": 0.5,
-    "tags": [
-      "desenvolvimento",
-      "ferramentas",
-      "prompts"
-    ],
-    "img": "img/9eae9153c775.jpg",
-    "ts": 1789951514,
-    "addedTs": 1789957681,
-    "urlHash": "9eae9153c775",
-    "titleHash": "428c13d0cf54"
-  },
-  {
-    "title": "Two similar AI judges fail together 7.7x more often than independence predicts",
-    "titlePt": "Dois juízes de IA semelhantes falham juntos 7,7 vezes mais do que a independência prevê",
-    "url": "https://github.com/LAWLESS1987/covenant",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um estudo mostra que, ao usar dois modelos de linguagem como juízes de IA, eles erram em conjunto muito mais do que se fossem realmente independentes. Quando os modelos são parecidos, as falhas se sobrepõem e criam uma falsa sensação de validação. O resultado enfraquece a estratégia comum de usar um segundo LLM para auditar o primeiro. Times que constroem avaliações automatizadas devem repensar essa abordagem.",
-    "reasonEn": "A study shows that when using two language models as AI judges, they fail together far more than if they were truly independent. When the models are similar, errors overlap and create a false sense of validation. The finding weakens the common strategy of using a second LLM to audit the first. Teams building automated evaluations should rethink this approach.",
-    "score": 0.72,
-    "tags": [
-      "pesquisa",
-      "avaliação",
-      "llm"
-    ],
-    "img": "img/2b37a6cc4a6e.jpg",
-    "ts": 1789949553,
-    "addedTs": 1789957681,
-    "urlHash": "2b37a6cc4a6e",
-    "titleHash": "74ad43d25407"
-  },
-  {
-    "title": "A CERN for AI-assisted science",
-    "titlePt": "Um CERN para a ciência assistida por IA",
-    "url": "https://terrytao.wordpress.com/2026/09/17/a-cern-for-ai-assisted-science/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo propõe a criação de uma grande infraestrutura internacional dedicada a unir IA e ciência, no estilo do CERN de física de partículas. A ideia é oferecer dados, modelos e poder computacional compartilhado para acelerar descobertas em áreas como medicina, clima e materiais. Se avançar, pode mudar a forma como pesquisadores acessam ferramentas de IA. O conceito está em fase de discussão, ainda sem data de implementação.",
-    "reasonEn": "The article proposes creating a large international facility dedicated to combining AI and science, modeled after CERN in particle physics. The idea is to offer shared data, models, and compute to accelerate discoveries in areas like medicine, climate, and materials. If it moves forward, it could change how researchers access AI tools. The concept is still in discussion, with no implementation date.",
-    "score": 0.65,
-    "tags": [
-      "ciência",
-      "infraestrutura",
-      "pesquisa"
-    ],
-    "img": "img/90dcf7a05953.jpg",
-    "ts": 1789948839,
-    "addedTs": 1789957681,
-    "urlHash": "90dcf7a05953",
-    "titleHash": "bb16961afd74"
   }
 ]
