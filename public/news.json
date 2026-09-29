@@ -1,5 +1,374 @@
 [
   {
+    "title": "Show HN: Self healing AI Assistant with a 4B model on a Raspberry Pi5",
+    "titlePt": "Assistente de IA autorrecuperável roda em Raspberry Pi 5",
+    "url": "https://www.phntmcore.com/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um desenvolvedor publicou no Hacker News um projeto de assistente de IA com capacidade de autocorreção, usando um modelo de 4 bilhões de parâmetros em um Raspberry Pi 5. O sistema monitora o próprio desempenho e tenta se recuperar de falhas sem intervenção humana. O experimento mostra que é possível rodar LLMs leves com mecanismos de resiliência em hardware barato, o que interessa a quem monta soluções embarcadas.",
+    "reasonEn": "A developer posted on Hacker News a self-healing AI assistant project running a 4-billion-parameter model on a Raspberry Pi 5. The system monitors its own performance and tries to recover from failures without human help. The experiment shows that small LLMs can be paired with resilience mechanisms on cheap hardware, which is useful for anyone building edge AI solutions.",
+    "score": 0.6,
+    "tags": [
+      "edge",
+      "open-source",
+      "demo"
+    ],
+    "img": "img/e68ad533dde9.jpg",
+    "ts": 1790717359,
+    "addedTs": 1790718026,
+    "urlHash": "e68ad533dde9",
+    "titleHash": "561ed9429695"
+  },
+  {
+    "title": "CodeCrab – Local-first desktop app for AI code reviews",
+    "titlePt": "CodeCrab: app desktop local para revisar código com IA",
+    "url": "https://www.codecrab.ai/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O CodeCrab é um aplicativo desktop voltado para revisões de código com IA, com foco em operação local para preservar a privacidade do código. A proposta é evitar enviar o repositório para servidores externos, o que é relevante para empresas com políticas rígidas de segurança. A ferramenta pode interessar times que querem revisão automática sem abrir mão do controle dos dados.",
+    "reasonEn": "CodeCrab is a desktop app focused on AI-assisted code reviews, designed to run locally so code never leaves the user's machine. This local-first approach matters for companies with strict security policies. Teams wanting automated reviews without sending source code to external servers may find it useful.",
+    "score": 0.55,
+    "tags": [
+      "devtools",
+      "segurança",
+      "lançamento"
+    ],
+    "img": "img/15727e0e5ded.jpg",
+    "ts": 1790717235,
+    "addedTs": 1790718026,
+    "urlHash": "15727e0e5ded",
+    "titleHash": "33837f0e528b"
+  },
+  {
+    "title": "Software Investing in the Age of AI and Slower Growth",
+    "titlePt": "Investir em software na era da IA e do crescimento mais lento",
+    "url": "https://www.bain.com/insights/software-investing-in-the-age-of-ai-and-slower-growth-technology-report-2026/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo discute como o cenário de investimento em software está mudando com a chegada da IA generativa e a desaceleração do crescimento do setor. Ele analisa valuations, margens e como fundos estão recalibrando expectativas para empresas de SaaS e ferramentas de IA. Vale para fundadores, investidores e profissionais que querem entender as novas regras do jogo no mercado de software.",
+    "reasonEn": "The article examines how software investing is shifting with generative AI and slower industry growth. It covers valuations, margins, and how funds are recalibrating expectations for SaaS and AI tooling companies. Useful for founders, investors, and professionals trying to understand the new rules of the software market.",
+    "score": 0.55,
+    "tags": [
+      "negócios",
+      "investimento",
+      "análise"
+    ],
+    "img": "img/d807aa433586.jpg",
+    "ts": 1790716137,
+    "addedTs": 1790718026,
+    "urlHash": "d807aa433586",
+    "titleHash": "cef3a522e72a"
+  },
+  {
+    "title": "Beyond the Prompt Loop: Architecting AI Agent State Machines: Architecture, Late",
+    "titlePt": "Arquiteturas de máquinas de estado para agentes de IA",
+    "url": "https://news.ycombinator.com/item?id=49900500",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo defende que loops simples de prompt, o chamado \"prompt loop\", não bastam para agentes de IA em produção e propõe o uso de máquinas de estado explícitas. A abordagem ajuda a tornar o comportamento do agente mais previsível, depurável e testável. É leitura recomendada para engenheiros que estão saindo de provas de conceito e precisando colocar agentes em ambientes críticos.",
+    "reasonEn": "The article argues that simple prompt loops aren't enough for production AI agents and proposes explicit state machines instead. The approach makes agent behavior more predictable, debuggable, and testable. Recommended reading for engineers moving past prototypes and putting agents into critical environments.",
+    "score": 0.55,
+    "tags": [
+      "arquitetura",
+      "agentes",
+      "engenharia"
+    ],
+    "img": "img/43992867dba1.jpg",
+    "ts": 1790715767,
+    "addedTs": 1790718026,
+    "urlHash": "43992867dba1",
+    "titleHash": "63cacba42e94"
+  },
+  {
+    "title": "AMD Boosting AI/LLM Performance for Radeon iGPUs as Much as 18~23% with Linux7.4",
+    "titlePt": "AMD turbina desempenho de IA em iGPUs Radeon com Linux 7.4",
+    "url": "https://www.phoronix.com/review/amd-perfopt",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A AMD anunciou ganhos de até 18% a 23% em desempenho para cargas de IA e LLM em iGPUs Radeon graças a mudanças no kernel Linux 7.4. A melhoria vem de otimizações em drivers e subsistemas gráficos usados por bibliotecas de inferência. Desenvolvedores que rodam modelos em GPUs AMD, especialmente em notebooks e máquinas sem placa dedicada, devem atualizar o kernel para sentir o ganho.",
+    "reasonEn": "AMD reported up to 18–23% performance gains for AI and LLM workloads on Radeon iGPUs thanks to Linux 7.4 kernel changes. The improvement comes from driver and graphics subsystem optimizations used by inference libraries. Developers running models on AMD GPUs, especially on laptops or machines without dedicated cards, should update their kernel to benefit.",
+    "score": 0.75,
+    "tags": [
+      "amd",
+      "linux",
+      "performance"
+    ],
+    "img": "img/4be4017caf7e.jpg",
+    "ts": 1790715583,
+    "addedTs": 1790718026,
+    "urlHash": "4be4017caf7e",
+    "titleHash": "597be6b51e91"
+  },
+  {
+    "title": "Show HN: Fab – a fast browser CLI for AI agents",
+    "titlePt": "Fab: CLI rápida para agentes de IA no navegador",
+    "url": "https://github.com/ianks/fast-agentic-browser",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Fab é uma nova ferramenta de linha de comando para navegador, voltada a dar velocidade e praticidade a agentes de IA que precisam interagir com a web. A proposta é reduzir latência e simplificar fluxos de automação baseados em navegador, algo comum em scraping e automações agentic. Pode interessar desenvolvedores que constroem agentes e buscam uma camada de comando enxuta.",
+    "reasonEn": "Fab is a new browser-based command-line tool aimed at making AI agents that interact with the web faster and easier to operate. It focuses on reducing latency and simplifying browser automation flows, common in scraping and agentic automation. Useful for developers building agents who want a lean command layer.",
+    "score": 0.5,
+    "tags": [
+      "devtools",
+      "agentes",
+      "cli"
+    ],
+    "img": "img/0ab2b52f1f76.jpg",
+    "ts": 1790713659,
+    "addedTs": 1790718026,
+    "urlHash": "0ab2b52f1f76",
+    "titleHash": "e48249c0235f"
+  },
+  {
+    "title": "Calling the AI bluff: \"Make no mistakes\" made no difference",
+    "titlePt": "Desmascarando a IA: 'Não erre' não fez diferença",
+    "url": "https://earnanhonestdollar.com/bench/folklore",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um novo estudo mostra que pedir a modelos de IA que 'não cometam erros' praticamente não muda o resultado. Os testes compararam o desempenho com e sem essa instrução em diferentes tarefas. A descoberta revela o quanto os usuários ainda superestimam o efeito de prompts de aviso. Para quem usa IA no trabalho, é mais um sinal de que revisar a saída continua sendo essencial.",
+    "reasonEn": "A new study shows that asking AI models to 'make no mistakes' barely affects the outcome. The tests compared performance with and without that instruction across different tasks. The finding reveals how much users still overestimate the power of warning prompts. For anyone using AI at work, it is another reminder that reviewing the output remains essential.",
+    "score": 0.55,
+    "tags": [
+      "pesquisa",
+      "prompts"
+    ],
+    "img": "img/e4e2237f3e5a.jpg",
+    "ts": 1790713065,
+    "addedTs": 1790718026,
+    "urlHash": "e4e2237f3e5a",
+    "titleHash": "e1363c460642"
+  },
+  {
+    "title": "Is open-weight AI banned yet?",
+    "titlePt": "Modelos abertos de IA já foram proibidos?",
+    "url": "https://isopenweightaibannedyet.com",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto faz um raio-x das tentativas de governos ao redor do mundo de restringir modelos de IA de código aberto. Vários países já discutem limites por motivos de segurança e concorrência. Para desenvolvedores e empresas que dependem de modelos abertos, o tema é estratégico e pode moldar decisões de stack nos próximos anos. A leitura vale para acompanhar o cenário regulatório em movimento.",
+    "reasonEn": "The piece maps government attempts worldwide to restrict open-weight AI models. Several countries are already discussing limits for safety and competition reasons. For developers and companies that rely on open models, this is a strategic topic that could shape stack decisions in the coming years. Worth reading to keep up with a fast-moving regulatory landscape.",
+    "score": 0.6,
+    "tags": [
+      "regulação",
+      "modelos-abertos"
+    ],
+    "img": "img/7b2fc4e8adbd.jpg",
+    "ts": 1790712985,
+    "addedTs": 1790718026,
+    "urlHash": "7b2fc4e8adbd",
+    "titleHash": "a0d1f3192eea"
+  },
+  {
+    "title": "d1: Liquid AI's First Decision Model",
+    "titlePt": "d1: o primeiro modelo de decisão da Liquid AI",
+    "url": "https://docs.liquid.ai/lfm/models/decision-models",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Liquid AI lançou o d1, descrito como seu primeiro modelo focado em tomada de decisão. A proposta é oferecer uma arquitetura diferente das grandes redes generativas atuais, voltada para raciocínio estruturado. A novidade chega num momento de forte busca por modelos especializados fora do padrão LLM tradicional. Desenvolvedores e equipes de produto devem ficar de olho para avaliar ganhos de eficiência.",
+    "reasonEn": "Liquid AI released d1, billed as its first decision-focused model. The proposal offers an architecture different from today's large generative networks, aimed at structured reasoning. The launch comes amid strong demand for specialized models outside the traditional LLM pattern. Developers and product teams should keep an eye on it to evaluate efficiency gains.",
+    "score": 0.7,
+    "tags": [
+      "modelo",
+      "lançamento"
+    ],
+    "img": "img/4f6bca7924f1.jpg",
+    "ts": 1790712588,
+    "addedTs": 1790718026,
+    "urlHash": "4f6bca7924f1",
+    "titleHash": "8ce2941c505f"
+  },
+  {
+    "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+    "titlePt": "OpenAI negocia rodada de US$ 30 bi com valuation de US$ 1,4 tri",
+    "url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A OpenAI estaria em conversas avançadas para levantar US$ 30 bilhões em uma nova rodada de investimento. A valuation projetada de US$ 1,4 trilhão coloca a empresa entre as mais valiosas do mundo. O movimento reforça a pressão por receita e infraestrutura, já que a queima de caixa continua alta. O tamanho da rodada afeta todo o ecossistema, de parceiros a fornecedores de chips.",
+    "reasonEn": "OpenAI is reportedly in advanced talks to raise $30 billion in a new funding round. The projected $1.4 trillion valuation would rank the company among the most valuable in the world. The move adds pressure for revenue and infrastructure, since cash burn remains high. A round this large affects the whole ecosystem, from partners to chip suppliers.",
+    "score": 0.85,
+    "tags": [
+      "investimento",
+      "openai"
+    ],
+    "img": "img/36193bd2fd97.jpg",
+    "ts": 1790711557,
+    "addedTs": 1790718026,
+    "urlHash": "36193bd2fd97",
+    "titleHash": "e8f400cff8f7"
+  },
+  {
+    "title": "Here&#8217;s why OpenAI is absent from Nvidia&#8217;s industry-wide effort to end rogue AI agents",
+    "titlePt": "Por que a OpenAI ficou de fora do esforço da Nvidia contra agentes de IA descontrolados",
+    "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A Nvidia lidera um pacto da indústria para conter agentes de IA fora de controle, mas a OpenAI não aderiu. O motivo envolve divergências sobre escopo, governança e responsabilidade sobre modelos avançados. A ausência é significativa porque a OpenAI é uma das maiores operadoras de agentes do mercado. O episódio expõe fissuras na cooperação entre gigantes de IA em torno da segurança.",
+    "reasonEn": "Nvidia is leading an industry-wide pact to contain rogue AI agents, but OpenAI did not join. The reason involves disagreements over scope, governance and accountability for advanced models. The absence matters because OpenAI is one of the largest agent operators in the market. The episode exposes cracks in cooperation among AI giants on safety.",
+    "score": 0.7,
+    "tags": [
+      "openai",
+      "nvidia",
+      "segurança"
+    ],
+    "img": "img/6a8c56ed5523.jpg",
+    "ts": 1790706900,
+    "addedTs": 1790718026,
+    "urlHash": "6a8c56ed5523",
+    "titleHash": "d9a62cd5ba12"
+  },
+  {
+    "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
+    "titlePt": "Pesquisadores gravam vídeos alertando: superinteligência é tão perigosa quanto parece",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "Pesquisadores de IA publicaram uma série de vídeos curtos alertando que superinteligência representa riscos existenciais reais, não abstratos. A campanha é uma tentativa coordenada de pressionar governantes e o público antes de corridas tecnológicas por sistemas mais poderosos. A mensagem é direta: o perigo é exatamente o que o nome sugere. A mobilização pode influenciar debates regulatórios nos próximos meses.",
+    "reasonEn": "AI researchers released a series of short videos warning that superintelligence poses real, not abstract, existential risks. The campaign is a coordinated attempt to pressure policymakers and the public before the race toward more powerful systems accelerates. The message is blunt: the danger is exactly what the name suggests. The push may influence regulatory debates in the coming months.",
+    "score": 0.6,
+    "tags": [
+      "segurança",
+      "superinteligência"
+    ],
+    "img": "img/4715e6b9f27d.jpg",
+    "ts": 1790704491,
+    "addedTs": 1790718026,
+    "urlHash": "4715e6b9f27d",
+    "titleHash": "dba703650842"
+  },
+  {
+    "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT&#8217;s own office suite",
+    "titlePt": "OpenAI parte para cima da Microsoft com um pacote office dentro do ChatGPT",
+    "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A OpenAI lançou um conjunto de ferramentas de produtividade integrado ao ChatGPT, que lembra um office completo. A oferta compete diretamente com Microsoft 365 e Google Workspace, justamente com a Microsoft como maior investidor da empresa. O movimento marca a OpenAI como rival declarada de sua principal apoiadora. Para empresas, é um sinal de que a próxima briga será pela produtividade baseada em IA.",
+    "reasonEn": "OpenAI launched a productivity suite integrated into ChatGPT that feels like a full office package. The offering competes directly with Microsoft 365 and Google Workspace, even though Microsoft is the company's biggest investor. The move positions OpenAI as a declared rival of its main backer. For businesses, it signals that the next battleground will be AI-powered productivity.",
+    "score": 0.85,
+    "tags": [
+      "openai",
+      "produtividade",
+      "microsoft"
+    ],
+    "img": "img/2688204fcb28.jpg",
+    "ts": 1790703951,
+    "addedTs": 1790718026,
+    "urlHash": "2688204fcb28",
+    "titleHash": "64bae0851a24"
+  },
+  {
+    "title": "Protesters gather at OpenAI’s DevDay",
+    "titlePt": "Manifestantes se reúnem no DevDay da OpenAI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "Grupos críticos à OpenAI promoveram protestos durante o DevDay, evento anual de desenvolvedores da empresa. Os manifestantes questionam segurança, impacto no trabalho e o ritmo de lançamento de produtos. A mobilização mostra que a pressão pública sobre a OpenAI está crescendo junto com seu tamanho. Para acompanhar a empresa, vale entender os pontos de crítica em circulação.",
+    "reasonEn": "Groups critical of OpenAI staged protests during DevDay, the company's annual developer event. Demonstrators raised concerns about safety, labor impact and the pace of product releases. The mobilization shows public pressure on OpenAI is growing along with its size. To follow the company closely, it is worth understanding the criticisms being voiced.",
+    "score": 0.5,
+    "tags": [
+      "openai",
+      "protesto",
+      "devday"
+    ],
+    "img": "img/7b1e2c115f5f.jpg",
+    "ts": 1790703057,
+    "addedTs": 1790718026,
+    "urlHash": "7b1e2c115f5f",
+    "titleHash": "b4dc065e3cdc"
+  },
+  {
+    "title": "Meta is expanding its AI agent Muse to small businesses",
+    "titlePt": "Meta amplia o agente de IA Muse para pequenas empresas",
+    "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A Meta anunciou a expansão de seu agente Muse para pequenas empresas, depois de testes com usuários maiores. A oferta tenta capitalizar a base instalada de pequenas empresas que já usam plataformas Meta. O movimento coloca a empresa em concorrência direta com ferramentas da OpenAI, Google e Salesforce. Pequenos empreendedores passam a ter mais uma opção de automação com IA.",
+    "reasonEn": "Meta announced the expansion of its Muse agent to small businesses, after tests with larger users. The offering tries to capitalize on the installed base of small businesses already using Meta platforms. The move puts the company in direct competition with tools from OpenAI, Google and Salesforce. Small business owners now have another AI automation option.",
+    "score": 0.5,
+    "tags": [
+      "meta",
+      "agentes",
+      "pmes"
+    ],
+    "img": "img/ed2d14a75019.jpg",
+    "ts": 1790689650,
+    "addedTs": 1790718026,
+    "urlHash": "ed2d14a75019",
+    "titleHash": "6a66b44cb6bd"
+  },
+  {
+    "title": "Reco raises $55M as AI agent security startups crowd the market",
+    "titlePt": "Reco capta US$ 55 mi enquanto startups de segurança para agentes de IA se multiplicam",
+    "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A Reco levantou US$ 55 milhões para expandir sua plataforma de segurança voltada a agentes de IA corporativos. O aporte reflete o crescimento rápido do mercado de ferramentas de proteção para sistemas agênticos. Com agentes ganhando acesso a dados sensíveis, a demanda por governança e auditoria explodiu. A notícia indica uma nova camada do stack de IA que tende a se consolidar.",
+    "reasonEn": "Reco raised $55 million to expand its security platform focused on enterprise AI agents. The funding reflects fast growth in the market for tools that protect agentic systems. As agents gain access to sensitive data, demand for governance and auditing has exploded. The news points to a new layer of the AI stack that is likely to consolidate.",
+    "score": 0.5,
+    "tags": [
+      "investimento",
+      "segurança",
+      "agentes"
+    ],
+    "img": "img/3d7103a002f7.jpg",
+    "ts": 1790685000,
+    "addedTs": 1790718026,
+    "urlHash": "3d7103a002f7",
+    "titleHash": "907242324cf1"
+  },
+  {
+    "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
+    "titlePt": "Empresas chinesas de IA vão desacelerar? Democrata de alto escalão quer respostas",
+    "url": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "Um democrata influente na Câmara dos EUA pediu explicações sobre o ritmo de avanço de empresas chinesas de IA. O pedido formal pressiona por respostas sobre transferência de tecnologia e restrições de exportação. O movimento reflete a crescente politização da corrida global por IA. Desenvolvedores e investidores devem acompanhar, pois o tema pode virar políticas concretas.",
+    "reasonEn": "A senior House Democrat requested answers on the pace of advancement of Chinese AI companies. The formal request pressures for explanations on technology transfer and export restrictions. The move reflects the growing politicization of the global AI race. Developers and investors should pay attention, as the topic could turn into concrete policies.",
+    "score": 0.6,
+    "tags": [
+      "china",
+      "geopolítica",
+      "regulação"
+    ],
+    "img": "img/5c2891181608.jpg",
+    "ts": 1790683213,
+    "addedTs": 1790718026,
+    "urlHash": "5c2891181608",
+    "titleHash": "5e39fbbe8857"
+  },
+  {
     "title": "OpenAI launches Dots, its bubbly agentic avatar",
     "titlePt": "OpenAI lança Dots, seu avatar agênico e interativo",
     "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
@@ -7914,639 +8283,5 @@
     "addedTs": 1790121342,
     "urlHash": "10538c022345",
     "titleHash": "aae78e190e97"
-  },
-  {
-    "title": "Better prompt caching for GPT-6",
-    "titlePt": "Melhor cache de prompts para o GPT-6 (OpenAI)",
-    "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A OpenAI anunciou melhorias no cache de prompts para o GPT-6, prometendo reduzir custos e latência para usuários da API. A nova abordagem reaproveita resultados de chamadas semelhantes, evitando reprocessamento desnecessário em servidores. Desenvolvedores que fazem muitas requisições parecidas devem perceber queda significativa na conta. A medida também reduz o tempo de resposta em aplicações interativas. A empresa publicou detalhes técnicos da implementação para que equipes possam otimizar seus fluxos.",
-    "reasonEn": "OpenAI announced improvements to prompt caching for GPT-6, promising lower costs and latency for API users. The new approach reuses results from similar calls, avoiding unnecessary server reprocessing. Developers making many similar requests should see significant bill reductions. The change also shortens response time in interactive applications. The company published technical details so teams can optimize their workflows.",
-    "score": 0.75,
-    "tags": [
-      "gpt-6",
-      "openai",
-      "performance"
-    ],
-    "img": "img/f9027d80e820.jpg",
-    "ts": 1790110800,
-    "addedTs": 1790109626,
-    "urlHash": "f9027d80e820",
-    "titleHash": "df044f9cdacf"
-  },
-  {
-    "title": "Z.ai says sorry for slurping up your code, open sources ZCode",
-    "titlePt": "Z.ai pede desculpas por coletar código e abre o código do ZCode",
-    "url": "https://www.theregister.com/security/2026/09/22/zai-says-sorry-for-slurping-up-your-code-open-sources-zcode/5298300",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A empresa Z.ai admitiu publicamente que coletou código de repositórios sem pedir autorização aos autores. Como forma de reparação, abriu o código do ZCode sob licença permissiva para que a comunidade possa auditar e contribuir. O gesto tenta reconstruir a confiança após a polêmica, mas desenvolvedores permanecem céticos. O caso reacende o debate sobre uso ético de dados públicos para treinar modelos. Projetos afetados devem verificar se trechos seus foram incorporados.",
-    "reasonEn": "Z.ai publicly admitted it slurped code from repositories without asking authors for permission. As reparation, they open-sourced ZCode under a permissive license so the community can audit and contribute. The move tries to rebuild trust after the controversy, but developers remain skeptical. The case reignites debate about ethical use of public data to train models. Affected projects should check whether their code was incorporated.",
-    "score": 0.7,
-    "tags": [
-      "open-source",
-      "privacidade",
-      "ética"
-    ],
-    "img": "img/78da0664e572.jpg",
-    "ts": 1790107628,
-    "addedTs": 1790109626,
-    "urlHash": "78da0664e572",
-    "titleHash": "5b4b98160efe"
-  },
-  {
-    "title": "'Same sense of urgency': UN chief compares AI risk to nuclear weapons",
-    "titlePt": "Mesma sensação de urgência: chefe da ONU compara risco da IA a armas nucleares",
-    "url": "https://www.smh.com.au/politics/federal/australia-joins-call-for-ai-safeguards-amid-warnings-of-out-of-control-risks-20260922-p60zbe.html",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O secretário-geral das Nações Unidas comparou o risco da inteligência artificial ao perigo das armas nucleares e pediu ação coordenada imediata. Segundo ele, a humanidade precisa tratar a evolução da IA com a mesma seriedade dedicada à corrida armamentista do século passado. A declaração aumenta a pressão internacional por cooperação em segurança de modelos avançados. Governos de diversos países sinalizaram apoio à proposta de limitesglobais. Especialistas continuam divididos sobre a probabilidade real de riscos existenciais.",
-    "reasonEn": "The UN secretary-general compared AI risk to the danger of nuclear weapons and called for immediate coordinated action. He said humanity must treat the evolution of AI with the same seriousness given to the arms race of the last century. The statement increases international pressure for cooperation on advanced model safety. Governments from several countries signaled support for global limits. Experts remain divided on the real probability of existential risks.",
-    "score": 0.7,
-    "tags": [
-      "regulação",
-      "risco",
-      "onu"
-    ],
-    "img": "img/f1fdd3b9114f.jpg",
-    "ts": 1790107512,
-    "addedTs": 1790109626,
-    "urlHash": "f1fdd3b9114f",
-    "titleHash": "982cadf5e93b"
-  },
-  {
-    "title": "Agent's Memory Needs a Retention Policy",
-    "titlePt": "A memória do agente precisa de uma política de retenção",
-    "url": "https://memanto.ai/blog/your-agents-memory-needs-a-retention-policy",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um artigo técnico argumenta que agentes de inteligência artificial precisam de políticas explícitas de retenção de memória, semelhantes às de bancos de dados. Sem regras claras, agentes acumulam contexto desnecessário que aumenta custo e reduz desempenho. O autor propõe métodos para compactar, expirar e priorizar memórias antigas. A discussão afeta diretamente quem constrói assistentes e automações complexas. Adotar essas práticas pode melhorar a eficiência operacional dos agentes em produção.",
-    "reasonEn": "A technical article argues AI agents need explicit memory retention policies, similar to databases. Without clear rules, agents accumulate unnecessary context that raises costs and lowers performance. The author proposes methods to compress, expire and prioritize old memories. The discussion directly affects those building assistants and complex automations. Adopting these practices can improve operational efficiency of agents in production.",
-    "score": 0.5,
-    "tags": [
-      "agentes",
-      "arquitetura"
-    ],
-    "img": "img/38c96b7cc8b5.jpg",
-    "ts": 1790107492,
-    "addedTs": 1790109626,
-    "urlHash": "38c96b7cc8b5",
-    "titleHash": "309d4ca1d62b"
-  },
-  {
-    "title": "Are Meta's smart glasses training AI for robots?",
-    "titlePt": "Os óculos inteligentes da Meta estão treinando IA para robôs?",
-    "url": "https://proton.me/blog/meta-smart-glasses-ai-robots",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Uma reportagem investiga se os óculos inteligentes da Meta estão coletando dados que poderiam ser usados para treinar modelos voltados à robótica. Vídeos gravados em primeira pessoa fornecem informações valiosas sobre como humanos manipulam objetos no mundo real. Pesquisadores externos afirmam que esses dados são úteis para treinar sistemas de navegação e manipulação. A Meta não confirmou nem negou oficialmente o uso para robótica. Consumidores devem estar atentos às políticas de privacidade dos dispositivos conectados.",
-    "reasonEn": "A report investigates whether Meta's smart glasses are collecting data that could be used to train models aimed at robotics. First-person videos provide valuable information about how humans manipulate objects in the real world. External researchers say this data is useful for training navigation and manipulation systems. Meta has neither confirmed nor officially denied use for robotics. Consumers should pay attention to privacy policies of connected devices.",
-    "score": 0.55,
-    "tags": [
-      "meta",
-      "robótica",
-      "privacidade"
-    ],
-    "img": "img/57017e4870ff.jpg",
-    "ts": 1790107280,
-    "addedTs": 1790109626,
-    "urlHash": "57017e4870ff",
-    "titleHash": "5a936420ffc7"
-  },
-  {
-    "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
-    "titlePt": "Qualcomm lança dois novos chips para smartphones com foco em IA",
-    "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A Qualcomm anunciou dois novos processadores para smartphones com ênfase em inferência de inteligência artificial diretamente no aparelho. Os chips prometem rodar modelos grandes sem depender da nuvem, melhorando latência e privacidade. Fabricantes como Samsung e Xiaomi já planejam adotar os novos componentes. A estratégia reflete a tendência de mover cargas de IA para o hardware local. Isso pode reduzir custos de nuvem para desenvolvedores de aplicativos móveis.",
-    "reasonEn": "Qualcomm announced two new smartphone processors emphasizing on-device AI inference. The chips promise to run large models without relying on the cloud, improving latency and privacy. Manufacturers like Samsung and Xiaomi already plan to adopt the new components. The strategy reflects the trend of moving AI workloads to local hardware. This could reduce cloud costs for mobile app developers.",
-    "score": 0.65,
-    "tags": [
-      "hardware",
-      "qualcomm",
-      "móvel"
-    ],
-    "img": "img/8ea6cbfd1c90.jpg",
-    "ts": 1790107200,
-    "addedTs": 1790109626,
-    "urlHash": "8ea6cbfd1c90",
-    "titleHash": "0d8dfff29825"
-  },
-  {
-    "title": "Open source tool for building hierarchical agent loops",
-    "titlePt": "Ferramenta open source para construir loops hierárquicos de agentes",
-    "url": "https://github.com/plasma-ai/fractal",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um desenvolvedor publicou uma ferramenta de código aberto para facilitar a criação de loops hierárquicos entre agentes de inteligência artificial. O framework organiza agentes em camadas com responsabilidades específicas, semelhantes a uma estrutura organizacional. O objetivo é simplificar sistemas complexos com múltiplos agentes colaborando. O projeto está em estágio inicial, mas tem boa documentação. É útil para quem experimenta arquiteturasmultiagentes em projetos pessoais.",
-    "reasonEn": "A developer released an open source tool to ease building hierarchical loops between AI agents. The framework organizes agents into layers with specific responsibilities, similar to an organizational chart. The goal is simplifying complex systems with multiple collaborating agents. The project is in early stages but has good documentation. It is useful for those experimenting with multi-agent architectures in personal projects.",
-    "score": 0.5,
-    "tags": [
-      "open-source",
-      "agentes"
-    ],
-    "img": "img/d10c8f1dce43.jpg",
-    "ts": 1790106916,
-    "addedTs": 1790109626,
-    "urlHash": "d10c8f1dce43",
-    "titleHash": "ee6a8d2b75f4"
-  },
-  {
-    "title": "Microsoft disrupts AI-assisted platform that compromised 12,000",
-    "titlePt": "Microsoft derruba plataforma assistida por IA que comprometeu 12 mil contas",
-    "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
-    "source": "Ars Technica",
-    "sources": [
-      "Ars Technica"
-    ],
-    "reason": "A Microsoft desarticulou uma infraestrutura criminosa que combinava inteligência artificial com técnicas tradicionais para comprometer cerca de doze mil contas em todo o mundo. Os operadores usavam modelos de linguagem para criar e-mails de phishing mais convincentes e automatizar ataques. A ação foi fruto de meses de investigação reversa dos servidores de comando. A empresa alerta que crimes assistidos por IA estão crescendo rapidamente. Usuários devem redobrar cuidados com autenticação em duas etapas.",
-    "reasonEn": "Microsoft dismantled a criminal infrastructure that combined artificial intelligence with traditional techniques to compromise around twelve thousand accounts worldwide. The operators used language models to create more convincing phishing emails and automate attacks. The action came after months of reverse engineering the command servers. The company warns AI-assisted crime is growing rapidly. Users should step up two-factor authentication hygiene.",
-    "score": 0.7,
-    "tags": [
-      "segurança",
-      "microsoft",
-      "cibercrime"
-    ],
-    "img": "img/5e8b60d2c8d4.jpg",
-    "ts": 1790106347,
-    "addedTs": 1790109626,
-    "urlHash": "5e8b60d2c8d4",
-    "titleHash": "484ef78942a8"
-  },
-  {
-    "title": "AI Leaders Are Standing on a Liability Landmine",
-    "titlePt": "Líderes de IA estão em uma bomba-relógio de responsabilidade civil",
-    "url": "https://www.wsj.com/tech/ai/ai-leaders-are-standing-on-a-liability-landmine-736a8060",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um artigo de opinião argumenta que executivos de empresas de inteligência artificial enfrentam riscos legais crescentes por decisões tomadas por seus sistemas. À medida que modelos agem com mais autonomia, cresce a responsabilidade dos desenvolvedores por danos causados. Processos recentes já miram empresas por alucinações e geração de conteúdo prejudicial. A falta de clareza regulatória agrava a exposição dos líderes. O texto recomenda práticas de governança interna mais rigorosas para mitigar riscos.",
-    "reasonEn": "An opinion piece argues AI executives face growing legal risks over decisions made by their systems. As models act with more autonomy, developer responsibility for harms caused increases. Recent lawsuits already target companies for hallucinations and harmful content generation. Lack of regulatory clarity heightens leaders' exposure. The text recommends stricter internal governance practices to mitigate risks.",
-    "score": 0.55,
-    "tags": [
-      "legal",
-      "risco",
-      "governança"
-    ],
-    "img": "img/6ed88935f4dd.jpg",
-    "ts": 1790106012,
-    "addedTs": 1790109626,
-    "urlHash": "6ed88935f4dd",
-    "titleHash": "bb57ad4a4ff7"
-  },
-  {
-    "title": "DiscoBox: AI Coding Agents in Disposable Sandboxes",
-    "titlePt": "DiscoBox: agentes de codificação em sandboxes descartáveis",
-    "url": "https://github.com/discobox-ai/discobox",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um projeto open source chamado DiscoBox cria sandboxes descartáveis para rodar agentes de inteligência artificial que escrevem código. Cada execução acontece em ambiente isolado, evitando que ações maliciosas ou erros comprometam o sistema principal. A abordagem reduz riscos em pipelines automatizados. Desenvolvedores podem integrar a ferramenta a fluxos de trabalho existentes. A ideia lembra práticas de segurança usadas em navegadores modernos.",
-    "reasonEn": "An open source project called DiscoBox creates disposable sandboxes to run AI coding agents. Each execution happens in an isolated environment, preventing malicious actions or errors from compromising the main system. The approach reduces risks in automated pipelines. Developers can integrate the tool into existing workflows. The idea resembles security practices used in modern browsers.",
-    "score": 0.55,
-    "tags": [
-      "agentes",
-      "desenvolvimento",
-      "segurança"
-    ],
-    "img": "img/0be8595d4743.jpg",
-    "ts": 1790105353,
-    "addedTs": 1790109626,
-    "urlHash": "0be8595d4743",
-    "titleHash": "70cc519396bf"
-  },
-  {
-    "title": "GPT-6 Sol and Luna push the cost-efficiency frontier",
-    "titlePt": "GPT-6 Sol e Luna ampliam fronteira de custo-eficiência",
-    "url": "https://artificialanalysis.ai/articles/gpt-6-sol-and-luna-push-the-cost-efficiency-frontier",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A OpenAI anunciou duas novas variantes do modelo GPT-6 chamadas Sol e Luna, focadas em custo-eficiência para diferentes cenários. Sol é otimizado para baixa latência em tarefas simples, enquanto Luna equilibra qualidade e preço para casos corporativos. Ambos rodam em infraestrutura própria e são acessíveis via API. Desenvolvedores podem escolher a variante que melhor se adapta à sua carga de trabalho. A movimentação deve pressionar concorrentes a reduzirem preços.",
-    "reasonEn": "OpenAI announced two new GPT-6 variants called Sol and Luna, focused on cost-efficiency for different scenarios. Sol is optimized for low latency on simple tasks, while Luna balances quality and price for corporate cases. Both run on proprietary infrastructure and are accessible via API. Developers can pick the variant that best fits their workload. The move should pressure competitors to lower prices.",
-    "score": 0.75,
-    "tags": [
-      "gpt-6",
-      "modelo",
-      "openai"
-    ],
-    "img": "img/0c4a202e0e30.jpg",
-    "ts": 1790104908,
-    "addedTs": 1790109626,
-    "urlHash": "0c4a202e0e30",
-    "titleHash": "9c0ba6b69017"
-  },
-  {
-    "title": "Trump rejects global entity for AI oversight",
-    "titlePt": "Trump rejeita entidade global para supervisão de inteligência artificial",
-    "url": "https://www.politico.com/news/2026/09/22/trump-rejects-global-entity-ai-oversight-01087546",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O presidente dos Estados Unidos, Donald Trump, vetou a criação de uma entidade internacional dedicada à supervisão de inteligência artificial. A decisão contraria pedidos de aliados europeus e de grandes empresas de tecnologia que defendiam coordenação global. O governo americano prefere manter a regulação em âmbito nacional, alegando proteção à soberania. Analistas alertam que a medida pode fragmentar padrões internacionais. Outros países continuam negociando um marco na Organização das Nações Unidas.",
-    "reasonEn": "US President Donald Trump vetoed the creation of an international entity dedicated to AI oversight. The decision goes against requests from European allies and major tech companies that advocated global coordination. The US government prefers keeping regulation at the national level, citing protection of sovereignty. Analysts warn the move could fragment international standards. Other countries continue negotiating a framework at the United Nations.",
-    "score": 0.75,
-    "tags": [
-      "regulação",
-      "trump",
-      "política"
-    ],
-    "img": "img/4dd16b7ee950.jpg",
-    "ts": 1790104193,
-    "addedTs": 1790109626,
-    "urlHash": "4dd16b7ee950",
-    "titleHash": "41f37e11039a"
-  },
-  {
-    "title": "Maskr – Catch personal data before it reaches AI chatbots (100% client-side)",
-    "titlePt": "Maskr: capture dados pessoais antes que cheguem aos chatbots de IA",
-    "url": "https://chromewebstore.google.com/detail/maskr-private-ai-leak-gua/adncldmdaamhlpcccigfhdipjhpicebe",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Uma nova ferramenta chamada Maskr promete identificar e mascarar dados pessoais antes que sejam enviados a chatbots de inteligência artificial. Tudo funciona no lado do cliente, sem enviar informações para servidores externos. O projeto busca reduzir vazamentos acidentais de dados sensíveis em conversas com modelos generativos. Usuários preocupados com privacidade podem testar a extensão no navegador. A solução ainda está em fase inicial e cobre poucos serviços.",
-    "reasonEn": "A new tool called Maskr promises to identify and mask personal data before it is sent to AI chatbots. Everything runs on the client side, without sending information to external servers. The project aims to reduce accidental leaks of sensitive data in conversations with generative models. Users worried about privacy can test the browser extension. The solution is still in early stages and covers few services.",
-    "score": 0.5,
-    "tags": [
-      "privacidade",
-      "ferramenta"
-    ],
-    "img": "img/6a8ff551eff9.jpg",
-    "ts": 1790104077,
-    "addedTs": 1790109626,
-    "urlHash": "6a8ff551eff9",
-    "titleHash": "d5aa3dfa9b32"
-  },
-  {
-    "title": "Mirendil in talks to raise $1B at $5B valuation led by Kleiner Perkins",
-    "titlePt": "Mirendil negocia levantar US$ 1 bi em valuation de US$ 5 bi com Kleiner Perkins",
-    "url": "https://finance.yahoo.com/technology/ai/articles/ex-anthropic-staffers-self-improving-161648217.html",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A startup Mirendil está em conversas avançadas para captar um bilhão de dólares em nova rodada de investimentos, com valuation de cinco bilhões de dólares. A rodada é liderada pela Kleiner Perkins, tradicional fundo de capital de risco do Vale do Silício. A empresa ganhou tração no setor de infraestrutura para inteligência artificial e atende clientes corporativos. O movimento reflete o apetite contínuo de investidores por empresas do segmento. Consumidores devem ficar atentos a possíveis mudanças nos preços dos serviços que dependem desse tipo de fornecedor.",
-    "reasonEn": "Startup Mirendil is in advanced talks to raise one billion dollars in a new funding round at a five billion dollar valuation. The round is led by Kleiner Perkins, a traditional Silicon Valley venture capital firm. The company has gained traction in AI infrastructure and serves corporate clients. The move reflects investor appetite for companies in the segment. Consumers should watch for possible price changes in services that depend on this kind of provider.",
-    "score": 0.55,
-    "tags": [
-      "investimento",
-      "startup",
-      "infraestrutura"
-    ],
-    "img": "img/cfca5617e80f.jpg",
-    "ts": 1790103860,
-    "addedTs": 1790109626,
-    "urlHash": "cfca5617e80f",
-    "titleHash": "eb8173c9d0cb"
-  },
-  {
-    "title": "Countries propose global oversight body to manage AI dangers",
-    "titlePt": "Países propõem órgão global para supervisionar os perigos da inteligência artificial",
-    "url": "https://www.aljazeera.com/economy/2026/9/22/20-countries-propose-global-oversight-body-to-manage-ai-dangers",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Diversos países estão propondo a criação de um órgão internacional para supervisionar os riscos da inteligência artificial. A ideia surge em meio a preocupações crescentes com o avanço acelerado da tecnologia e seus possíveis impactos negativos. O objetivo seria coordenar respostas globais a perigos como desinformação, uso militar e perda de controle sobre sistemas autônomos. A proposta ainda está em fase de discussão, mas pode moldar a próxima geração de regras para a área.",
-    "reasonEn": "Several countries are proposing the creation of an international body to oversee the risks of artificial intelligence. The idea comes amid growing concerns about the accelerated advancement of the technology and its potential negative impacts. The goal would be to coordinate global responses to dangers such as disinformation, military use, and loss of control over autonomous systems. The proposal is still in the discussion phase but could shape the next generation of AI rules.",
-    "score": 0.85,
-    "tags": [
-      "regulação",
-      "global",
-      "segurança"
-    ],
-    "img": "img/ad1a14d5f56b.jpg",
-    "ts": 1790103642,
-    "addedTs": 1790109626,
-    "urlHash": "ad1a14d5f56b",
-    "titleHash": "22a047b5046e"
-  },
-  {
-    "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-    "titlePt": "OpenAI lança GPT-6 Sol e Luna, com custo menor e menos erros",
-    "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A OpenAI anunciou o lançamento do GPT-6, em duas versões chamadas Sol e Luna, com promessas de custo menor e menos erros de raciocínio. A nova geração busca resolver limitações conhecidas das versões anteriores, especialmente em tarefas longas e complexas. A empresa destaca ganhos de eficiência que podem baratear o uso em aplicações empresariais. Desenvolvedores e empresas que dependem da plataforma devem avaliar como a mudança impacta seus produtos.",
-    "reasonEn": "OpenAI announced the launch of GPT-6, in two versions called Sol and Luna, with promises of lower cost and fewer reasoning errors. The new generation aims to address known limitations of previous versions, especially in long and complex tasks. The company highlights efficiency gains that could reduce the cost of enterprise applications. Developers and companies relying on the platform should evaluate how the change impacts their products.",
-    "score": 0.9,
-    "tags": [
-      "lançamento",
-      "modelo",
-      "openai"
-    ],
-    "img": "img/25f12aed5a13.jpg",
-    "ts": 1790100000,
-    "addedTs": 1790109626,
-    "urlHash": "25f12aed5a13",
-    "titleHash": "3eb14fb4dd19"
-  },
-  {
-    "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-    "titlePt": "Como o UK AISI e o EvalEval estão tornando os testes de IA reproduzíveis",
-    "url": "https://huggingface.co/blog/evaleval-aisi",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "O AISI do Reino Unido e o projeto EvalEval estão criando padrões para tornar resultados de avaliações comparativas de inteligência artificial reproduzíveis por qualquer laboratório. A iniciativa busca combater práticas opacas que dificultam comparar modelos com justiça. Desenvolvedores podem confiar mais em números oficiais de desempenho. É um passo importante para amadurecimento do setor.",
-    "reasonEn": "The UK's AISI and the EvalEval project are creating standards to make AI benchmark results reproducible by any lab. The initiative aims to combat opaque practices that make it hard to fairly compare models. Developers can trust official performance numbers more. It is an important step for the sector's maturity.",
-    "score": 0.5,
-    "tags": [
-      "avaliação",
-      "reprodutibilidade",
-      "padrão"
-    ],
-    "img": "img/e9f63aa1f7aa.jpg",
-    "ts": 1790035200,
-    "addedTs": 1790109626,
-    "urlHash": "e9f63aa1f7aa",
-    "titleHash": "5cd636401543"
-  },
-  {
-    "title": "Graduating into Disruption: Labor Market Outcomes for AI-Exposed College Majors",
-    "titlePt": "Formandos enfrentam mercado de trabalho disruptivo por causa da IA",
-    "url": "https://www.census.gov/library/working-papers/2026/adrm/CES-WP-26-56.html",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Pesquisa analisa como cursos de graduação expostos à IA estão afetando os resultados profissionais dos recém-formados. Mostra quais carreiras estão em risco e quais ainda se mantêm estáveis. Importante para estudantes, universidades e profissionais que planejam sua trajetória. Também serve como sinal de alerta para empresas que dependem de mão de obra qualificada.",
-    "reasonEn": "Research analyzes how AI-exposed college majors are affecting career outcomes for recent graduates. It shows which careers are at risk and which remain stable. Important for students, universities, and professionals planning their career path. It also serves as a warning sign for companies that rely on qualified labor.",
-    "score": 0.6,
-    "tags": [
-      "mercado de trabalho",
-      "educação",
-      "pesquisa"
-    ],
-    "img": "img/3030305a93e1.jpg",
-    "ts": 1790099277,
-    "addedTs": 1790099424,
-    "urlHash": "3030305a93e1",
-    "titleHash": "c8b94ce49185"
-  },
-  {
-    "title": "Trump says the US is officially renaming AI to ‘super intelligence’",
-    "titlePt": "Trump diz que EUA vão renomear IA para 'superinteligência'",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "O governo dos Estados Unidos anunciou que vai substituir oficialmente o termo 'inteligência artificial' por 'superinteligência' em todos os documentos federais. A mudança reflete a estratégia do governo de posicionar o país como líder em IA avançada. O impacto é mais simbólico do que técnico, mas afeta a forma como órgãos públicos e contratos se referem à tecnologia. Empresas e pesquisadores que lidam com regulação devem acompanhar.",
-    "reasonEn": "The US government announced it will officially replace the term 'artificial intelligence' with 'super intelligence' in all federal documents. The change reflects the government's strategy to position the country as a leader in advanced AI. The impact is more symbolic than technical, but it affects how public agencies and contracts refer to the technology. Companies and researchers dealing with regulation should follow this closely.",
-    "score": 0.7,
-    "tags": [
-      "regulação",
-      "política",
-      "eua"
-    ],
-    "img": "img/a00d2fc3af07.jpg",
-    "ts": 1790099200,
-    "addedTs": 1790099424,
-    "urlHash": "a00d2fc3af07",
-    "titleHash": "c2aeb1f9c04b"
-  },
-  {
-    "title": "Are the Government's Conversations with AI Accessible Under Public Records Laws? [pdf]",
-    "titlePt": "Conversas do governo com IA são acessíveis por lei de transparência?",
-    "url": "https://reason.com/wp-content/uploads/2026/09/Are-the-Goverments-AI-Conversations-Accessible.pdf",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um artigo jurídico discute se as conversas que órgãos públicos têm com sistemas de IA estão sujeitas às leis de acesso à informação. A questão afeta transparência, prestação de contas e o direito dos cidadãos de saber como decisões são tomadas. É um tema relevante para jornalistas, advogados e servidores públicos. O debate está apenas começando e pode levar a novas regras.",
-    "reasonEn": "A legal article discusses whether conversations that public agencies have with AI systems are subject to freedom of information laws. The issue affects transparency, accountability, and citizens' right to know how decisions are made. It is relevant to journalists, lawyers, and public servants. The debate is just beginning and may lead to new rules.",
-    "score": 0.5,
-    "tags": [
-      "transparência",
-      "regulação",
-      "governo"
-    ],
-    "img": "img/f54bac9f25bb.jpg",
-    "ts": 1790097768,
-    "addedTs": 1790099424,
-    "urlHash": "f54bac9f25bb",
-    "titleHash": "93b01c6275fc"
-  },
-  {
-    "title": "Grok 4.7 Scores 46 on AI Intelligence Index, Puts SpaceXAI in Top 4 Labs",
-    "titlePt": "Grok 4.7 marca 46 no índice de IA e coloca SpaceXAI no top 4",
-    "url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A versão 4.7 do Grok, da SpaceXAI, atingiu 46 pontos em um índice independente de inteligência artificial. O resultado coloca a empresa entre as quatro melhores laboratórios do mundo em capacidade de modelo. É um sinal de avanço competitivo no setor. Importante para acompanhar o equilíbrio de forças entre as grandes empresas de IA.",
-    "reasonEn": "Grok version 4.7, from SpaceXAI, scored 46 on an independent AI intelligence index. The result places the company among the four best labs in the world in model capability. It is a sign of competitive progress in the sector. Important for tracking the balance of power among the major AI companies.",
-    "score": 0.6,
-    "tags": [
-      "benchmark",
-      "grok",
-      "modelo"
-    ],
-    "img": "img/653374de70e1.jpg",
-    "ts": 1790097178,
-    "addedTs": 1790099424,
-    "urlHash": "653374de70e1",
-    "titleHash": "49f5911590e0"
-  },
-  {
-    "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
-    "titlePt": "Anthropic lança Claude Opus 5.5 com mais segurança para cibersegurança",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Anthropic apresentou oficialmente o Claude Opus 5.5, nova versão do seu modelo mais avançado, com proteções reforçadas contra uso indevido em cibersegurança. A empresa afirma que o modelo detecta mais erros e reduz alucinações em tarefas complexas. O lançamento reforça a corrida entre Anthropic, OpenAI e Google. Desenvolvedores e empresas devem avaliar custo e ganho de produtividade.",
-    "reasonEn": "Anthropic officially unveiled Claude Opus 5.5, a new version of its most advanced model, with reinforced protections against misuse in cybersecurity. The company claims the model catches more errors and reduces hallucinations on complex tasks. The launch reinforces the race between Anthropic, OpenAI, and Google. Developers and companies should evaluate cost and productivity gains.",
-    "score": 0.85,
-    "tags": [
-      "anthropic",
-      "claude",
-      "lançamento"
-    ],
-    "img": "img/321c1f0bfff3.jpg",
-    "ts": 1790096634,
-    "addedTs": 1790099424,
-    "urlHash": "321c1f0bfff3",
-    "titleHash": "ff17fc572acc"
-  },
-  {
-    "title": "I run a production AI app for €60 a month. Here is the actual bill.",
-    "titlePt": "Mantenho um app de IA em produção por 60 euros por mês",
-    "url": "https://tailstory-app.com/en/blog/what-production-ai-actually-costs",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um desenvolvedor compartilha o custo real de manter um aplicativo de IA em produção, mostrando uma fatura mensal de cerca de 60 euros. O texto detalra quais serviços foram usados e onde dá para economizar. É referência prática para quem está planejando lançar produtos com IA. Ajuda a separar expectativa de realidade em custos de infraestrutura.",
-    "reasonEn": "A developer shares the real cost of keeping an AI app in production, showing a monthly bill of around 60 euros. The text details which services were used and where to save. It is a practical reference for those planning to launch AI products. It helps separate expectation from reality in infrastructure costs.",
-    "score": 0.5,
-    "tags": [
-      "custos",
-      "infraestrutura",
-      "startup"
-    ],
-    "img": "img/369c8df57ee8.jpg",
-    "ts": 1790096149,
-    "addedTs": 1790099424,
-    "urlHash": "369c8df57ee8",
-    "titleHash": "5473a6d6d675"
-  },
-  {
-    "title": "Siri AI Settlement Website Now Live",
-    "titlePt": "Site de indenização por acordo da Siri com IA está no ar",
-    "url": "https://www.macrumors.com/2026/09/20/siri-ai-settlement-website-now-live/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Já está disponível o site oficial para que consumidores participem do acordo relacionado às falhas de IA da Siri. Usuários que se sentiram lesados podem verificar elegibilidade e enviar pedidos. O caso envolveu alegações de que a assistente prometeu funções que não funcionavam bem. É uma notícia prática para milhões de donos de iPhones nos EUA.",
-    "reasonEn": "The official website is now available for consumers to participate in the settlement related to Siri's AI failures. Users who felt harmed can check eligibility and submit claims. The case involved allegations that the assistant promised features that did not work well. It is a practical news story for millions of iPhone owners in the US.",
-    "score": 0.7,
-    "tags": [
-      "apple",
-      "siri",
-      "consumidor"
-    ],
-    "img": "img/c7ae31eb238d.jpg",
-    "ts": 1790095855,
-    "addedTs": 1790099424,
-    "urlHash": "c7ae31eb238d",
-    "titleHash": "5aa3304446e8"
-  },
-  {
-    "title": "Armenia on track to become one of leading hubs for US AI infrastructure",
-    "titlePt": "Armênia a caminho de virar hub de infraestrutura de IA dos EUA",
-    "url": "https://armenpress.am/en/article/1261009",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Armênia está se posicionando como um polo estratégico para infraestrutura de IA ligada aos Estados Unidos. O país oferece energia barata, localização entre Europa e Ásia e incentivos governamentais. Grandes empresas podem usar o país para datacenters e treinamento de modelos. Mostra como a geopolítica da IA está se diversificando.",
-    "reasonEn": "Armenia is positioning itself as a strategic hub for US-linked AI infrastructure. The country offers cheap energy, a location between Europe and Asia, and government incentives. Large companies may use the country for data centers and model training. It shows how the geopolitics of AI is diversifying.",
-    "score": 0.55,
-    "tags": [
-      "infraestrutura",
-      "geopolítica",
-      "datacenter"
-    ],
-    "img": "img/96814bafe6cf.jpg",
-    "ts": 1790095513,
-    "addedTs": 1790099424,
-    "urlHash": "96814bafe6cf",
-    "titleHash": "a3a4d399fef6"
-  },
-  {
-    "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
-    "titlePt": "Anthropic lança Opus 5.5 com preços menores e desempenho de ponta",
-    "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A Anthropic anunciou o Opus 5.5, nova versão de seu modelo mais avançado, com preços reduzidos em relação à geração anterior. A empresa afirma que o modelo atinge desempenho competitivo com sistemas de referência do setor. A mudança pode pressionar concorrentes e diminuir custos para desenvolvedores e empresas que usam a API da Anthropic. A queda de preço também tende a acelerar a adoção em aplicações de produção. Equipes de produto devem revisar contratos e oramentos de IA em breve.",
-    "reasonEn": "Anthropic announced Opus 5.5, the new version of its most advanced model, with lower prices than the previous generation. The company claims the model achieves performance competitive with top-tier systems in the industry. The change may pressure competitors and reduce costs for developers and businesses using Anthropic's API. The price drop is also likely to accelerate adoption in production applications. Product teams should review their AI contracts and budgets soon.",
-    "score": 0.85,
-    "tags": [
-      "modelo",
-      "lançamento",
-      "preço"
-    ],
-    "img": "img/3021783d758a.jpg",
-    "ts": 1790094607,
-    "addedTs": 1790099424,
-    "urlHash": "3021783d758a",
-    "titleHash": "7b4397c769fb"
-  },
-  {
-    "title": "AstroForge is putting AI in command of its next spacecraft",
-    "titlePt": "AstroForge coloca IA no comando de sua próxima nave espacial",
-    "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A startup de mineração espacial AstroForge anunciou que usará inteligência artificial para pilotar e tomar decisões em sua próxima missão. A ideia é deixar o sistema autônomo identificar alvos e ajustar a trajetória sem intervenção humana direta. Trata-se de um dos primeiros casos de uso de IA no comando efetivo de naves espaciais. Se a missão for bem-sucedida, o modelo pode inspirar futuras operações de exploração e mineração fora da Terra.",
-    "reasonEn": "Space mining startup AstroForge announced it will use artificial intelligence to pilot and make decisions on its next mission. The idea is to let the autonomous system identify targets and adjust trajectory without direct human intervention. It is one of the first cases of AI effectively commanding a spacecraft. If the mission succeeds, the model could inspire future exploration and mining operations beyond Earth.",
-    "score": 0.5,
-    "tags": [
-      "espaço",
-      "ia",
-      "autônomo"
-    ],
-    "img": "img/caaf4b1f8cd6.jpg",
-    "ts": 1790089200,
-    "addedTs": 1790099424,
-    "urlHash": "caaf4b1f8cd6",
-    "titleHash": "503d70d6346f"
-  },
-  {
-    "title": "Nscale’s IPO will test Wall Street&#8217;s appetite for concentrated AI bets once again",
-    "titlePt": "IPO da Nscale vai testar de novo a fome de Wall Street por apostas em IA",
-    "url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A Nscale, provedora de infraestrutura para IA, está se preparando para abrir capital e testar o apetite dos investidores por empresas concentradas no setor. O IPO acontece em meio a forte interesse em infraestrutura de IA, mas também a preocupações com bolhas. O resultado pode influenciar outras empresas do segmento que consideram abrir capital em breve. Investidores e fundadores estão atentos ao desempenho das ações no primeiro pregão.",
-    "reasonEn": "Nscale, an AI infrastructure provider, is preparing to go public and test investor appetite for companies concentrated in the sector. The IPO comes amid strong interest in AI infrastructure but also concerns about bubbles. The outcome may influence other companies in the segment considering going public soon. Investors and founders are closely watching the stock's first-day performance.",
-    "score": 0.7,
-    "tags": [
-      "ipo",
-      "investimento",
-      "infraestrutura"
-    ],
-    "img": "img/1db4d52e35fa.jpg",
-    "ts": 1790079785,
-    "addedTs": 1790099424,
-    "urlHash": "1db4d52e35fa",
-    "titleHash": "42c245f48b6e"
-  },
-  {
-    "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
-    "titlePt": "Os últimos avanços e medos em IA podem ser mais hype do que realidade",
-    "url": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
-    "source": "MIT Tech Review",
-    "sources": [
-      "MIT Tech Review"
-    ],
-    "reason": "O MIT Technology Review argumenta que vários anúncios recentes sobre IA exageram tanto em resultados quanto em riscos. A publicação analisa como empresas e veículos de comunicação amplificam expectativas, gerando um ciclo de euforia e medo. O texto defende uma visão mais crítica e equilibrada sobre o que a tecnologia realmente entrega hoje. É uma leitura útil para quem quer separar fatos de manchetes sensacionalistas.",
-    "reasonEn": "MIT Technology Review argues that several recent AI announcements exaggerate both results and risks. The publication analyzes how companies and media outlets amplify expectations, creating a cycle of euphoria and fear. The piece defends a more critical and balanced view of what the technology actually delivers today. It's a useful read for anyone wanting to separate facts from sensationalist headlines.",
-    "score": 0.6,
-    "tags": [
-      "análise",
-      "hype"
-    ],
-    "img": "img/dfaf1de1a733.jpg",
-    "ts": 1790079000,
-    "addedTs": 1790099424,
-    "urlHash": "dfaf1de1a733",
-    "titleHash": "4616d3790a2a"
   }
 ]
