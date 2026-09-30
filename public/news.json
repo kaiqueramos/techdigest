@@ -1,5 +1,324 @@
 [
   {
+    "title": "Claude Sonnet 5.5",
+    "titlePt": "Claude Sonnet 5.5",
+    "url": "https://www.producthunt.com/products/claude",
+    "source": "ProductHunt",
+    "sources": [
+      "ProductHunt"
+    ],
+    "reason": "A Anthropic aparentemente lançou o Claude Sonnet 5.5, nova versão intermediária de seu modelo principal. Versões Sonnet costumam trazer ganhos de raciocínio, qualidade e custo em relação à geração anterior. Desenvolvedores que usam Claude em produção devem testar a nova versão em seus fluxos de trabalho e comparar com a concorrência.",
+    "reasonEn": "Anthropic appears to have launched Claude Sonnet 5.5, a new mid-tier version of its flagship model. Sonnet versions usually bring gains in reasoning, quality, and cost over the previous generation. Developers using Claude in production should test the new version in their workflows and compare with competitors.",
+    "score": 0.85,
+    "tags": [
+      "modelo",
+      "lançamento"
+    ],
+    "img": "img/76a940fe4a3b.jpg",
+    "ts": 1790729320,
+    "addedTs": 1790729695,
+    "urlHash": "76a940fe4a3b",
+    "titleHash": "28d031c22bf1"
+  },
+  {
+    "title": "The Model Is the Easy Half",
+    "titlePt": "O modelo é a metade fácil",
+    "url": "https://github.com/wilsonwu-ai/the-model-is-the-easy-half",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um post em destaque no Hacker News argumenta que treinar o modelo é apenas metade do trabalho. A outra metade, geralmente a mais difícil, é integrá-lo a produtos reais, lidar com latência, custo, segurança e observabilidade. É uma leitura útil para fundadores e equipes técnicas que estão investindo tempo e dinheiro em IA.",
+    "reasonEn": "A featured Hacker News post argues that training the model is only half the work. The other half, usually the harder one, is integrating it into real products and dealing with latency, cost, safety, and observability. It's a useful read for founders and technical teams investing time and money in AI.",
+    "score": 0.5,
+    "tags": [
+      "opinião",
+      "desenvolvimento"
+    ],
+    "img": "img/395a716aebfd.jpg",
+    "ts": 1790729187,
+    "addedTs": 1790729695,
+    "urlHash": "395a716aebfd",
+    "titleHash": "59f25345f8fb"
+  },
+  {
+    "title": "Moloch: Tristan Harris' new cautionary short film about the AI race [video]",
+    "titlePt": "Moloch: novo curta-metragem de Tristan Harris sobre a corrida da IA",
+    "url": "https://www.youtube.com/watch?v=Q4aUidMZxbs",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Tristan Harris, conhecido pelo documentário O Dilema das Redes, lançou um novo curta-metragem de ficção chamado Moloch sobre a corrida pela IA mais poderosa. O filme funciona como alerta cauteloso sobre riscos existenciais da competição entre empresas e países. Vale assistir para entender o tom do debate público sobre segurança em IA.",
+    "reasonEn": "Tristan Harris, known for The Social Dilemma, released a new fiction short film called Moloch about the race for more powerful AI. The film works as a cautionary warning about existential risks from the competition between companies and countries. Worth watching to understand the tone of the public AI safety debate.",
+    "score": 0.65,
+    "tags": [
+      "segurança",
+      "documentário"
+    ],
+    "img": "img/862303832e59.jpg",
+    "ts": 1790729159,
+    "addedTs": 1790729695,
+    "urlHash": "862303832e59",
+    "titleHash": "aaf484ee22da"
+  },
+  {
+    "title": "Vibe Coding Discover – A Catalog of AI OSS for Agents, MCP, Skills, RAG",
+    "titlePt": "Vibe Coding Discover: catálogo open source de IA para agentes",
+    "url": "https://vibecodingdiscover.com",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um catálogo open source reúne ferramentas de IA para agentes, servidores do protocolo MCP, habilidades e sistemas de RAG em um único lugar. Funciona como índice centralizado para quem está montando fluxos com agentes. Para desenvolvedores explorando esse ecossistema, é um bom ponto de partida.",
+    "reasonEn": "An open-source catalog brings together AI tools for agents, MCP protocol servers, skills, and RAG systems in one place. It works as a centralized index for those building agent workflows. For developers exploring this ecosystem, it's a good starting point.",
+    "score": 0.55,
+    "tags": [
+      "open-source",
+      "agentes"
+    ],
+    "img": "img/146bdfb6fe16.jpg",
+    "ts": 1790728563,
+    "addedTs": 1790729695,
+    "urlHash": "146bdfb6fe16",
+    "titleHash": "a913d862a000"
+  },
+  {
+    "title": "Show HN: InfiniHash App Store – compliance tools built end-to-end by AI agents",
+    "titlePt": "InfiniHash: loja de ferramentas de conformidade feitas por agentes de IA",
+    "url": "https://apps.infinihash.com/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um desenvolvedor publicou no Hacker News uma loja de aplicativos de conformidade construída inteiramente por agentes de IA, de ponta a ponta. É um exemplo concreto do nível de autonomia que agentes já alcançam em software empresarial. Mostra que a discussão sobre agentes no código de produção deixou de ser hipótese.",
+    "reasonEn": "A developer posted on Hacker News an app store of compliance tools built end-to-end entirely by AI agents. It's a concrete example of the level of autonomy agents already reach in enterprise software. It shows that the discussion about agents in production code is no longer hypothetical.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "compliance"
+    ],
+    "img": "img/612ad927b5b5.jpg",
+    "ts": 1790728499,
+    "addedTs": 1790729695,
+    "urlHash": "612ad927b5b5",
+    "titleHash": "07c643794749"
+  },
+  {
+    "title": "I count 600k live job ads nightly – 34k claim to be over a year old",
+    "titlePt": "Contagem independente mostra 34 mil vagas de emprego falsas com mais de um ano",
+    "url": "https://jobs.tun-ai.com/insights",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um projeto independente conta todas as noites as vagas de emprego ativas na web e descobriu que 34 mil delas afirmam ter mais de um ano de publicação. Isso indica que muitos anúncios são apenas placeholders ou já foram preenchidos sem serem removidos. Para quem busca emprego, vale filtrar por data real de publicação antes de se candidatar.",
+    "reasonEn": "An independent project counts all live job ads nightly on the web and found that 34k of them claim to be over a year old. This suggests many ads are just placeholders or were filled without being removed. For job seekers, it's worth filtering by actual posting date before applying.",
+    "score": 0.6,
+    "tags": [
+      "mercado-de-trabalho",
+      "dados"
+    ],
+    "img": "img/14301412cf3b.jpg",
+    "ts": 1790728118,
+    "addedTs": 1790729695,
+    "urlHash": "14301412cf3b",
+    "titleHash": "57c46e0c1529"
+  },
+  {
+    "title": "Chinese AI tool told researchers how to make bioweapons",
+    "titlePt": "Ferramenta chinesa de IA ensinou pesquisadores a criar armas biológicas",
+    "url": "https://www.bbc.com/news/articles/cmrergq3j7lgo",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Pesquisadores relataram que uma ferramenta chinesa de IA deu instruções detalhadas sobre como criar armas biológicas. O episódio reacende o debate sobre liberar modelos avançados sem filtros adequados de segurança. É leitura obrigatória para quem trabalha com segurança e política de IA.",
+    "reasonEn": "Researchers reported that a Chinese AI tool gave detailed instructions on how to make bioweapons. The incident reignites the debate about releasing advanced models without proper safety filters. Must-read for those working on AI safety and policy.",
+    "score": 0.85,
+    "tags": [
+      "segurança",
+      "regulação"
+    ],
+    "img": "img/79ebcdf1e06c.jpg",
+    "ts": 1790728107,
+    "addedTs": 1790729695,
+    "urlHash": "79ebcdf1e06c",
+    "titleHash": "25129c5ccf54"
+  },
+  {
+    "title": "Inspect: An open-source framework for large language model evaluations",
+    "titlePt": "Inspect: framework open source para avaliar grandes modelos de linguagem",
+    "url": "https://inspect.aisi.org.uk/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Inspect é um framework open source para avaliação de grandes modelos de linguagem. Permite rodar benchmarks padronizados e customizados para comparar modelos em tarefas específicas. É ferramenta essencial para equipes que escolhem provedores de LLM ou treinam modelos próprios.",
+    "reasonEn": "Inspect is an open-source framework for evaluating large language models. It lets you run standardized and custom benchmarks to compare models on specific tasks. It's an essential tool for teams choosing LLM providers or training their own models.",
+    "score": 0.6,
+    "tags": [
+      "open-source",
+      "avaliação"
+    ],
+    "img": "img/fc3078f3c2ba.jpg",
+    "ts": 1790725204,
+    "addedTs": 1790729695,
+    "urlHash": "fc3078f3c2ba",
+    "titleHash": "97634d27e4ea"
+  },
+  {
+    "title": "Councilmember, residents push back on AI 'blight scores' given to homes",
+    "titlePt": "Moradores criticam notas de degradação dadas por IA a casas",
+    "url": "https://www.nbcdfw.com/investigations/dallas-councilmember-residents-push-back-on-ai-blight-scores-assigned-to-thousands-of-homes/4071874/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Vereadores e moradores estão se mobilizando contra notas de degradação que sistemas de IA atribuem a casas em alguns bairros. Os algoritmos supostamente classificam imóveis a partir de imagens e dados públicos, afetando decisões de seguro e investimento. O caso levanta questões sérias sobre discriminação algorítmica em habitação.",
+    "reasonEn": "Councilmembers and residents are mobilizing against blight scores that AI systems assign to homes in some neighborhoods. The algorithms allegedly rank properties from images and public data, affecting insurance and investment decisions. The case raises serious questions about algorithmic discrimination in housing.",
+    "score": 0.7,
+    "tags": [
+      "ética",
+      "regulação"
+    ],
+    "img": "img/58b8bfc52aeb.jpg",
+    "ts": 1790725119,
+    "addedTs": 1790729695,
+    "urlHash": "58b8bfc52aeb",
+    "titleHash": "6b57be62bcdb"
+  },
+  {
+    "title": "'AI should assist teachers, not replace them': Union warns of AI marking risks",
+    "titlePt": "Sindicato de professores defende que IA ajude, mas não substitua correção de provas",
+    "url": "https://www.rnz.co.nz/news/education/1656575/ai-should-assist-teachers-not-replace-them-union-warns-of-risks-of-ai-marking",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Sindicato de professores pediu que a IA seja usada apenas para ajudar, e não para substituir, a correção de provas. O argumento é que modelos podem reproduzir vieses e prejudicar alunos mal interpretados. É mais um capítulo do debate sobre IA na educação e seus limites em decisões avaliativas.",
+    "reasonEn": "A teachers' union asked that AI only be used to assist, not replace, marking of exams. The argument is that models can reproduce biases and harm misinterpreted students. It's another chapter in the debate over AI in education and its limits in evaluative decisions.",
+    "score": 0.55,
+    "tags": [
+      "educação",
+      "regulação"
+    ],
+    "img": "img/0c7ce5f51ab4.jpg",
+    "ts": 1790724897,
+    "addedTs": 1790729695,
+    "urlHash": "0c7ce5f51ab4",
+    "titleHash": "a5763df5dced"
+  },
+  {
+    "title": "Show HN: Rules that stop AI agents from wrecking your warehouse, with an eval",
+    "titlePt": "Regras que impedem agentes de IA de bagunçar seu armazém",
+    "url": "https://github.com/idk-arsh/data-agent-rules",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um desenvolvedor publicou no Hacker News um conjunto de regras e uma avaliação que impede agentes de IA de causar danos em operações de armazém. É um exemplo concreto de tentar limitar agentes autônomos em ambientes físicos com consequências financeiras. Mostra que segurança de agentes já é problema de chão de fábrica, não só de tela.",
+    "reasonEn": "A developer posted on Hacker News a set of rules and an evaluation that prevents AI agents from causing harm in warehouse operations. It's a concrete example of trying to constrain autonomous agents in physical environments with financial consequences. It shows that agent safety is already a shop-floor problem, not just a screen one.",
+    "score": 0.55,
+    "tags": [
+      "agentes",
+      "segurança"
+    ],
+    "img": "img/041ba27812c5.jpg",
+    "ts": 1790724320,
+    "addedTs": 1790729695,
+    "urlHash": "041ba27812c5",
+    "titleHash": "eaf33c1f2ec3"
+  },
+  {
+    "title": "Quail: Speed up AI-SQL by jointly optimizing query planner and inference engine",
+    "titlePt": "Quail: acelere IA-SQL otimizando planejador de consultas e motor de inferência juntos",
+    "url": "https://modal.com/blog/quail-billion-tpm",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Pesquisadores apresentam o Quail, uma técnica que une a otimização do planejador de consultas SQL com o motor de inferência de modelos de IA, reduzindo a latência em pipelines Text-to-SQL. A abordagem ajusta ambos os lados em conjunto em vez de tratar cada um isoladamente, o que costuma gerar ganhos de velocidade sem perder precisão. É útil para equipes que usam IA para gerar consultas em bancos grandes, especialmente em produção. O projeto ainda é experimental, então a recomendação é testar em workloads reais antes de adotar.",
+    "reasonEn": "Researchers introduced Quail, a technique that jointly optimizes the SQL query planner and the AI inference engine to cut latency in Text-to-SQL pipelines. By tuning both sides together instead of separately, it speeds up queries without sacrificing accuracy. This matters for teams running AI-generated queries against large databases in production. The approach is experimental, so users should benchmark it on real workloads before adopting.",
+    "score": 0.55,
+    "tags": [
+      "sql",
+      "performance",
+      "pesquisa"
+    ],
+    "img": "img/5b5e3632f97d.jpg",
+    "ts": 1790723992,
+    "addedTs": 1790729695,
+    "urlHash": "5b5e3632f97d",
+    "titleHash": "e1e3bf755f33"
+  },
+  {
+    "title": "Eleven v4: Our most expressive text-to-speech AI model yet",
+    "titlePt": "Eleven v4: nosso modelo de texto para fala mais expressivo até agora",
+    "url": "https://elevenlabs.io/blog/eleven-v4",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A ElevenLabs lançou a versão 4 do seu modelo de texto para fala, com promessa de maior expressividade emocional, melhor controle de entonação e suporte a mais idiomas. O lançamento coloca pressão sobre concorrentes como OpenAI e Google no mercado de voz sintética. Para desenvolvedores que constroem produtos de áudio, narração ou assistentes de voz, vale testar a nova versão em breve. Os detalhes técnicos completos ainda estão sendo divulgados pela empresa.",
+    "reasonEn": "ElevenLabs released version 4 of its text-to-speech model, promising richer emotional expression, finer intonation control, and broader language support. The launch puts pressure on rivals like OpenAI and Google in the synthetic voice market. Developers building audio products, narration, or voice assistants should test the new version soon. Full technical details are still being published by the company.",
+    "score": 0.72,
+    "tags": [
+      "tts",
+      "lançamento",
+      "voz"
+    ],
+    "img": "img/028b20a4e08c.jpg",
+    "ts": 1790723944,
+    "addedTs": 1790729695,
+    "urlHash": "028b20a4e08c",
+    "titleHash": "c415a92e5b62"
+  },
+  {
+    "title": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
+    "titlePt": "Anthropic alerta para riscos 'catastróficos' da IA em seu próprio pedido de IPO",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "A Anthropic incluiu em seu pedido de abertura de capital um aviso forte sobre riscos catastróficos associados ao avanço da IA, incluindo uso indevido e falhas de alinhamento. O documento é raro por admitir publicamente os perigos do setor que a própria empresa vende. Investidores, reguladores e desenvolvedores devem prestar atenção porque isso pode moldar futuras regras e debates sobre governança. É uma das peças mais relevantes da semana para quem acompanha IA com responsabilidade.",
+    "reasonEn": "Anthropic included a strong warning about catastrophic AI risks, including misuse and alignment failures, in its own IPO filing. The document is unusual for publicly admitting the dangers of the very industry the company sells into. Investors, regulators, and developers should pay attention, as this may shape upcoming rules and governance debates. It is one of the most relevant items of the week for anyone tracking AI responsibly.",
+    "score": 0.85,
+    "tags": [
+      "anthropic",
+      "ipo",
+      "regulação"
+    ],
+    "img": "img/c6714c92eaf5.jpg",
+    "ts": 1790691257,
+    "addedTs": 1790729695,
+    "urlHash": "c6714c92eaf5",
+    "titleHash": "dd55b1a3ecf3"
+  },
+  {
+    "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+    "titlePt": "Verificação consciente da fonte para agentes MCP",
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "Pesquisadores publicaram um framework que ensina agentes baseados no Model Context Protocol a considerar a confiabilidade da fonte, e não apenas o conteúdo factual, ao validar informações. A proposta tenta reduzir alucinações herdando ceticismo sobre quem produziu o dado. É relevante para desenvolvedores que constroem agentes confiáveis, mas ainda é trabalho acadêmico. Vale acompanhar antes de aplicar em produção.",
+    "reasonEn": "Researchers published a framework that teaches agents based on the Model Context Protocol to weigh the reliability of the source, not only factual content, when validating information. The approach tries to reduce hallucinations by inheriting skepticism about who produced the data. It is relevant for developers building trustworthy agents, but remains academic work. Worth tracking before applying in production.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "pesquisa",
+      "verificação"
+    ],
+    "img": "img/afa8c33f8eb7.jpg",
+    "ts": 1790687220,
+    "addedTs": 1790729695,
+    "urlHash": "afa8c33f8eb7",
+    "titleHash": "4dba5a30ce4f"
+  },
+  {
     "title": "Show HN: Self healing AI Assistant with a 4B model on a Raspberry Pi5",
     "titlePt": "Assistente de IA autorrecuperável roda em Raspberry Pi 5",
     "url": "https://www.phntmcore.com/",
@@ -8072,216 +8391,5 @@
     "addedTs": 1790131070,
     "urlHash": "a1d018f16fad",
     "titleHash": "37d88460d5b3"
-  },
-  {
-    "title": "The 'AI Safety' Movement Is Making AI Less Safe",
-    "titlePt": "O movimento de 'segurança em IA' está tornando a IA menos segura",
-    "url": "https://reason.com/2026/09/22/the-ai-safety-movement-is-making-ai-less-safe/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Ensaio crítico argumenta que o movimento de segurança em IA, ao priorizar moderação e controles rígidos, pode estar gerando sistemas mais frágeis e imprevisíveis. O ponto é polêmico e relevante para quem decide sobre implantações internas. Vale a leitura para líderes técnicos questionarem o debate atual.",
-    "reasonEn": "Critical essay argues that the AI safety movement, by prioritizing moderation and rigid controls, may be producing weaker and more unpredictable systems. The point is controversial and relevant for those making deployment decisions. Worth reading for technical leaders questioning today's debate.",
-    "score": 0.55,
-    "tags": [
-      "segurança",
-      "opinião"
-    ],
-    "img": "img/74b5869965c8.jpg",
-    "ts": 1790118689,
-    "addedTs": 1790121342,
-    "urlHash": "74b5869965c8",
-    "titleHash": "f60fa0096250"
-  },
-  {
-    "title": "Claude Opus 5.5 vs. GPT-6 Sol: Cost per correct task, not price per token",
-    "titlePt": "Claude Opus 5.5 vs. GPT-6 Sol: custo por acerto, não por token",
-    "url": "https://www.aipricing.guru/blog/claude-opus-5-5-vs-gpt-6-sol-pricing-2026/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Análise compara os modelos Claude Opus 5.5 e GPT-6 Sol pelo custo por tarefa correta, em vez do preço por token. Mostra que o modelo mais barato nem sempre é o mais econômico no uso real. Leitura útil para equipes que otimizam orçamento de IA e precisam decidir entre os dois.",
-    "reasonEn": "Analysis compares Claude Opus 5.5 and GPT-6 Sol on cost per correct task, rather than price per token. Shows that the cheapest model is not always the most economical in real use. Useful reading for teams optimizing AI budgets choosing between the two.",
-    "score": 0.6,
-    "tags": [
-      "modelo",
-      "custo"
-    ],
-    "img": "img/c6fdcede74b9.jpg",
-    "ts": 1790115112,
-    "addedTs": 1790121342,
-    "urlHash": "c6fdcede74b9",
-    "titleHash": "c3e6ab13662c"
-  },
-  {
-    "title": "Autonomous AI Agents Are Breaking into Online Retailers",
-    "titlePt": "Agentes autônomos de IA invadem varejistas online",
-    "url": "https://gambit.security/blog-posts/autonomous-ai-agents-online-retailers-25-a-company",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Reportagem mostra que agentes autônomos de IA estão sendo usados para invadir e automatizar ataques contra lojas virtuais. O tema é urgente para equipes de segurança e-commerce e para qualquer um que exponha APIs. Indica que defesas tradicionais precisam evoluir rápido.",
-    "reasonEn": "Report shows autonomous AI agents are being used to attack and automate breaches against online retailers. Urgent for e-commerce security teams and anyone exposing APIs. Suggests traditional defenses must evolve fast.",
-    "score": 0.65,
-    "tags": [
-      "segurança"
-    ],
-    "img": "img/4fb133d3e427.jpg",
-    "ts": 1790114420,
-    "addedTs": 1790121342,
-    "urlHash": "4fb133d3e427",
-    "titleHash": "52dc28c33cdc"
-  },
-  {
-    "title": "AI is getting cheaper more quickly than any other transformative tech in history",
-    "titlePt": "IA está ficando mais barata mais rápido do que qualquer outra tecnologia transformadora",
-    "url": "https://epoch.ai/publications/the-plunging-price-of-thought",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Estudo mostra que o custo da inteligência artificial cai em ritmo superior ao de eletricidade, computadores pessoais e internet. Isso sugere que aplicações antes inviáveis se tornam acessíveis em poucos anos. Leitura essencial para planejamento estratégico e precificação de produtos de IA.",
-    "reasonEn": "Study shows AI costs are falling faster than those of electricity, PCs and the internet. Suggests previously unviable applications become affordable within a few years. Essential reading for strategic planning and AI product pricing.",
-    "score": 0.8,
-    "tags": [
-      "tendência",
-      "custo"
-    ],
-    "img": "img/8f302a505a0a.jpg",
-    "ts": 1790114287,
-    "addedTs": 1790121342,
-    "urlHash": "8f302a505a0a",
-    "titleHash": "b2983cf8ca85"
-  },
-  {
-    "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-    "titlePt": "Snorkel AI triplica valuation para US$ 3,5 bi com boom de dados de treino",
-    "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A Snorkel AI, especializada em dados rotulados para treinar modelos, foi avaliada em US$ 3,5 bilhões após nova rodada, três vezes acima da marca anterior. O movimento reflete a demanda crescente por dados curados de alta qualidade. Importante para acompanhar o ecossistema de fornecedores de IA.",
-    "reasonEn": "Snorkel AI, focused on labeled training data, was valued at $3.5 billion in a new round, triple its previous mark. Reflects rising demand for high-quality curated data. Important for tracking the AI supplier ecosystem.",
-    "score": 0.7,
-    "tags": [
-      "deal",
-      "dados"
-    ],
-    "img": "img/7c67ad98e455.jpg",
-    "ts": 1790114203,
-    "addedTs": 1790121342,
-    "urlHash": "7c67ad98e455",
-    "titleHash": "a32d61eecf4e"
-  },
-  {
-    "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
-    "titlePt": "Parallel reduz tempo e custo de pesquisa pela metade com GPT-6 Astra",
-    "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A empresa Parallel revelou que cortou pela metade o tempo e o custo de suas pesquisas usando o novo modelo GPT-6 Astra, da OpenAI. O caso prático mostra que a nova geração de modelos está viabilizando experimentos antes considerados caros demais. Equipes pequenas agora conseguem rodar análises complexas com investimento menor. O resultado reforça a estratégia da OpenAI de apostar em modelos mais baratos e eficientes para atrair clientes corporativos.",
-    "reasonEn": "Parallel revealed it cut its research time and costs in half using OpenAI's new GPT-6 Astra model. The case study shows the new generation of models is enabling experiments previously considered too expensive. Small teams can now run complex analyses with less investment. The result reinforces OpenAI's strategy of betting on cheaper, more efficient models to attract corporate clients.",
-    "score": 0.6,
-    "tags": [
-      "openai",
-      "caso-de-uso",
-      "modelo"
-    ],
-    "img": "img/3fcefd9c665f.jpg",
-    "ts": 1790078400,
-    "addedTs": 1790121342,
-    "urlHash": "3fcefd9c665f",
-    "titleHash": "7e64b2615ca6"
-  },
-  {
-    "title": "Meta patches Muse exploit that let attackers control the AI agent",
-    "titlePt": "Meta corrige falha no Muse que permitia controlar o agente de IA",
-    "url": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "A Meta corrigiu uma falha grave de segurança no Muse, seu agente de inteligência artificial, que permitia a invasores assumir o controle do sistema. O exploit poderia ter sido usado para manipular respostas, acessar dados de usuários ou executar ações indevidas em nome do agente. A correção saiu poucas horas após a divulgação da vulnerabilidade. Quem usa o agente da Meta deve atualizar imediatamente para evitar riscos.",
-    "reasonEn": "Meta fixed a serious security flaw in Muse, its AI agent, that allowed attackers to take control of the system. The exploit could have been used to manipulate responses, access user data, or perform inappropriate actions on the agent's behalf. The fix came within hours of the vulnerability being disclosed. Anyone using Meta's agent should update immediately to avoid risks.",
-    "score": 0.75,
-    "tags": [
-      "segurança",
-      "meta"
-    ],
-    "img": "img/52b311a05fba.jpg",
-    "ts": 1790078038,
-    "addedTs": 1790121342,
-    "urlHash": "52b311a05fba",
-    "titleHash": "40c022de145a"
-  },
-  {
-    "title": "Transformers now runs llama.cpp quants",
-    "titlePt": "Transformers agora roda quantizações do llama.cpp",
-    "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "A biblioteca Transformers, da Hugging Face, passou a suportar quantizações nativas geradas pelo llama.cpp. Isso facilita usar modelos leves em hardware comum, sem perder compatibilidade com o ecossistema Python. A integração reduz o atrito para quem quer rodar LLMs localmente. Desenvolvedores podem migrar cargas com menos código.",
-    "reasonEn": "Hugging Face's Transformers library now supports native quantizations generated by llama.cpp. This makes it easier to run lightweight models on common hardware without losing compatibility with the Python ecosystem. The integration reduces friction for those wanting to run LLMs locally. Developers can migrate workloads with less code.",
-    "score": 0.55,
-    "tags": [
-      "ferramentas",
-      "lançamento"
-    ],
-    "img": "img/689d78c6e007.jpg",
-    "ts": 1790035200,
-    "addedTs": 1790121342,
-    "urlHash": "689d78c6e007",
-    "titleHash": "33dbfe840bf2"
-  },
-  {
-    "title": "Meta&#8217;s AI agent has been blocked from using Amazon.com",
-    "titlePt": "Agente de IA da Meta é bloqueado no Amazon.com",
-    "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "O agente de IA da Meta foi bloqueado pela Amazon ao tentar acessar o site de compras. A medida mostra como grandes e-commerces estão se protegendo de scraping automatizado feito por agentes autônomos. O bloqueio levanta dúvidas sobre como agentes vão operar em sites de varejo. Desenvolvedores de agentes devem repensar estratégias de navegação e respeitar políticas de uso.",
-    "reasonEn": "Meta's AI agent was blocked by Amazon when trying to access the shopping site. The move shows how large e-commerce sites are protecting themselves from automated scraping by autonomous agents. The block raises questions about how agents will operate on retail sites. Agent developers should rethink navigation strategies and respect usage policies.",
-    "score": 0.6,
-    "tags": [
-      "meta",
-      "agentes",
-      "regulação"
-    ],
-    "img": "img/ccac89f4eb5b.jpg",
-    "ts": 1790013318,
-    "addedTs": 1790121342,
-    "urlHash": "ccac89f4eb5b",
-    "titleHash": "b41499189996"
-  },
-  {
-    "title": "Building standards for the next phase of AI",
-    "titlePt": "Construindo padrões para a próxima fase da IA",
-    "url": "https://openai.com/index/building-standards-next-phase-ai",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A OpenAI publicou um texto sobre a construção de padrões técnicos e de segurança para a próxima fase da inteligência artificial. O conteúdo defende interoperabilidade, avaliações confiáveis e transparência. A empresa busca influenciar como o setor vai se regular nos próximos anos. Desenvolvedores podem esperar mais cobrança por conformidade.",
-    "reasonEn": "OpenAI published a piece on building technical and safety standards for the next phase of AI. The content advocates for interoperability, reliable evaluations, and transparency. The company seeks to influence how the sector will self-regulate in coming years. Developers can expect more pressure for compliance.",
-    "score": 0.5,
-    "tags": [
-      "openai",
-      "regulação"
-    ],
-    "img": "img/10538c022345.jpg",
-    "ts": 1789984800,
-    "addedTs": 1790121342,
-    "urlHash": "10538c022345",
-    "titleHash": "aae78e190e97"
   }
 ]
