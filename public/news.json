@@ -1,5 +1,335 @@
 [
   {
+    "title": "French supercomputer maker Bull doubles output to boost Europe's AI ambitions",
+    "titlePt": "Fabricante francês de supercomputadores Bull dobra produção para impulsionar IA europeia",
+    "url": "https://www.reuters.com/world/europe/french-supercomputer-maker-bull-doubles-output-boost-europes-ai-ambitions-2026-10-01/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Bull, controlada pela Atos, está dobrando a produção de supercomputadores para atender à demanda europeia por capacidade de IA soberana. É um movimento relevante para a estratégia de autonomia tecnológica da Europa frente aos EUA e à China. Afeta diretamente fornecedores, governos e grandes clientes corporativos que dependem de infraestrutura local.",
+    "reasonEn": "Bull, owned by Atos, is doubling supercomputer output to meet European demand for sovereign AI capacity. It is a meaningful move for Europe's push for tech autonomy against the US and China. It directly affects suppliers, governments, and large enterprise customers that rely on local infrastructure.",
+    "score": 0.6,
+    "tags": [
+      "infraestrutura",
+      "europa",
+      "supercomputador"
+    ],
+    "img": "img/669b0d4b4e53.jpg",
+    "ts": 1791011544,
+    "addedTs": 1791011990,
+    "urlHash": "669b0d4b4e53",
+    "titleHash": "be3e202a9086"
+  },
+  {
+    "title": "Without search, even the best AI models get 1 in 4 answers wrong",
+    "titlePt": "Sem busca na web, até os melhores modelos de IA erram 1 em cada 4 respostas",
+    "url": "https://twitter.com/randal_olson/status/2105298222562582591",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Estudo mostra que, sem acesso à busca na web, os principais modelos de IA erram cerca de 25% das respostas. Isso reforça a importância de ferramentas de retrieval e RAG para uso sério em produção. É leitura obrigatória para quem está construindo produtos com LLMs e precisa entender seus limites.",
+    "reasonEn": "A study shows that without web search, top AI models get roughly one in four answers wrong. It reinforces how critical retrieval and RAG tools are for any serious production use. Essential reading for anyone building products on top of LLMs.",
+    "score": 0.75,
+    "tags": [
+      "pesquisa",
+      "modelo",
+      "busca"
+    ],
+    "img": "img/b729cd01aeee.jpg",
+    "ts": 1791010146,
+    "addedTs": 1791011990,
+    "urlHash": "b729cd01aeee",
+    "titleHash": "e9dfb84a0380"
+  },
+  {
+    "title": "Show HN: Rowan, an open-source SAST scanner for AI apps (code, models, MCP)\"",
+    "titlePt": "Rowan: scanner SAST open source para apps de IA",
+    "url": "https://github.com/hedgerow-dev/rowan",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Projeto Show HN que oferece um scanner estático de segurança open source focado em aplicações de IA, cobrindo código, modelos e servidores MCP. É útil para equipes que estão colocando IA em produção e se preocupam com vulnerabilidades. Mostra que segurança específica para IA está virando uma categoria própria.",
+    "reasonEn": "A Show HN project offering an open source SAST scanner focused on AI apps, covering code, models, and MCP servers. Useful for teams shipping AI to production that care about vulnerabilities. It signals that AI-specific security is becoming its own category.",
+    "score": 0.6,
+    "tags": [
+      "segurança",
+      "open-source",
+      "devtools"
+    ],
+    "img": "img/0e2b86ea7475.jpg",
+    "ts": 1791005384,
+    "addedTs": 1791011990,
+    "urlHash": "0e2b86ea7475",
+    "titleHash": "3db7d094208d"
+  },
+  {
+    "title": "Will America Spend 9% of Its GDP on AI? The Industry Is Counting on It",
+    "titlePt": "EUA vão gastar 9% do PIB em IA? A indústria conta com isso",
+    "url": "https://www.wsj.com/tech/ai/will-america-spend-9-of-its-gdp-on-ai-the-industry-is-counting-on-it-3501bb4f",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Análise sobre a hipótese de os Estados Unidos chegarem a gastar 9% do PIB em IA, número que a indústria de tecnologia usa em suas projeções. O artigo discute se isso é viável, quem pagaria a conta e quais setores seriam impactados. Importante para entender o tamanho real do bolão de IA e o peso sobre a economia.",
+    "reasonEn": "An analysis of the claim that the US could end up spending 9% of its GDP on AI, a number the tech industry uses in its projections. It discusses feasibility, who pays, and which sectors get hit. Important for grasping the real size of the AI bet and its weight on the economy.",
+    "score": 0.7,
+    "tags": [
+      "economia",
+      "política",
+      "investimento"
+    ],
+    "img": "img/10b79122b630.jpg",
+    "ts": 1791004647,
+    "addedTs": 1791011990,
+    "urlHash": "10b79122b630",
+    "titleHash": "3d766948e6e0"
+  },
+  {
+    "title": "Backend programming languages ranked by LLM recommendations",
+    "titlePt": "Linguagens de backend ranqueadas pelas recomendações de LLMs",
+    "url": "https://preseason.ai/rankings/devtools/backend-language",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Análise que coloca lado a lado as linguagens de backend mais recomendadas por grandes modelos de linguagem. Mostra como LLMs podem influenciar (e enviesar) escolhas técnicas. Leitura útil para líderes de engenharia e devs indecisos sobre stack.",
+    "reasonEn": "An analysis ranking backend languages by how often large language models recommend them. It shows how LLMs can shape and bias technical choices. Useful for engineering leads and devs weighing their next stack.",
+    "score": 0.5,
+    "tags": [
+      "llm",
+      "backend",
+      "estudo"
+    ],
+    "img": "img/45ecb9a5e911.jpg",
+    "ts": 1791001235,
+    "addedTs": 1791011990,
+    "urlHash": "45ecb9a5e911",
+    "titleHash": "6bc5ba8b770f"
+  },
+  {
+    "title": "SWC stops accepting external PRs due to AI-generated content",
+    "titlePt": "Projeto SWC para de aceitar PRs externos por causa de conteúdo gerado por IA",
+    "url": "https://twitter.com/swc_rs/status/2105505428893544847",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O SWC, catálogo de referência de vulnerabilidades em smart contracts, decidiu parar de aceitar contribuições externas, alegando que o volume de PRs gerados por IA se tornou impossível de revisar. É um sinal claro do efeito da IA na colaboração open source. Importante para contribuidores, mantenedores e qualquer um que dependa de projetos comunitários.",
+    "reasonEn": "SWC, a reference catalog of smart contract vulnerabilities, has stopped accepting external PRs, saying AI-generated submissions became unreviewable. It is a clear signal of AI's effect on open source collaboration. Important for contributors, maintainers, and anyone depending on community projects.",
+    "score": 0.65,
+    "tags": [
+      "open-source",
+      "ia",
+      "governança"
+    ],
+    "img": "img/e1ce173fd421.jpg",
+    "ts": 1790999139,
+    "addedTs": 1791011990,
+    "urlHash": "e1ce173fd421",
+    "titleHash": "7429234f7007"
+  },
+  {
+    "title": "Meta open sources code to let you make Muse AI gadgets",
+    "titlePt": "Meta abre código para você criar gadgets de IA com o Muse",
+    "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "A Meta abriu o código de seus dispositivos de IA da linha Muse, permitindo que qualquer um construa seus próprios gadgets inteligentes. É um movimento relevante para o ecossistema de hardware com IA, seguindo a lógica de 'modelo aberto + hardware customizável'. Afeta desenvolvedores, makers e concorrentes no mercado de assistentes e wearables.",
+    "reasonEn": "Meta has open sourced its Muse AI gadgets, letting anyone build their own smart devices. It is a meaningful move for the AI hardware ecosystem, following the 'open model + customizable hardware' playbook. It affects developers, makers, and competitors in the assistants and wearables market.",
+    "score": 0.7,
+    "tags": [
+      "meta",
+      "open-source",
+      "hardware"
+    ],
+    "img": "img/038134d95b4f.jpg",
+    "ts": 1790975317,
+    "addedTs": 1791011990,
+    "urlHash": "038134d95b4f",
+    "titleHash": "f6d193109eb6"
+  },
+  {
+    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+    "titlePt": "AstaBrief, modelo rápido para geração de relatórios, agora é open source",
+    "url": "https://huggingface.co/blog/allenai/astabrief",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "A equipe do Asta abriu o código do AstaBrief, um modelo leve voltado a gerar relatórios com velocidade. A iniciativa facilita o uso por empresas e pesquisadores que precisam de sumarização rápida. Faz parte de uma tendência maior de modelos especializados open weight. Desenvolvedores podem testar e integrar em pipelines próprios.",
+    "reasonEn": "The Asta team has open-sourced AstaBrief, a lightweight model focused on fast report generation. The release helps companies and researchers who need quick summarization. It fits the broader trend of specialized open-weight models. Developers can test it and integrate it into their own pipelines.",
+    "score": 0.6,
+    "tags": [
+      "open-source",
+      "modelo",
+      "lançamento"
+    ],
+    "img": "img/e81b1dea7ce0.jpg",
+    "ts": 1790954390,
+    "addedTs": 1791011990,
+    "urlHash": "e81b1dea7ce0",
+    "titleHash": "ae91b0e252bf"
+  },
+  {
+    "title": "The latest AI news we announced in September 2026",
+    "titlePt": "As principais notícias de IA que o Google anunciou em setembro de 2026",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+    "source": "Google AI",
+    "sources": [
+      "Google AI"
+    ],
+    "reason": "O Google publicou um resumo das novidades de IA lançadas em setembro de 2026, reunindo modelos, ferramentas e atualizações de produto. Serve como um índice rápido para quem perdeu lançamentos do mês. Útil para acompanhar o ritmo do Google no setor. Não traz análise profunda, mas economiza tempo de busca.",
+    "reasonEn": "Google published a roundup of its AI news from September 2026, covering models, tools, and product updates. It's a quick index for anyone who missed the month's launches. Useful to keep up with Google's pace in the space. No deep analysis, but it saves search time.",
+    "score": 0.5,
+    "tags": [
+      "google",
+      "resumo",
+      "lançamento"
+    ],
+    "img": "img/6a7bb4e3e69d.jpg",
+    "ts": 1790953200,
+    "addedTs": 1791011990,
+    "urlHash": "6a7bb4e3e69d",
+    "titleHash": "d99158b6f76b"
+  },
+  {
+    "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+    "titlePt": "AutoSynthData: gerando dados de treino para agentes corporativos",
+    "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "O projeto AutoSynthData cria dados sintéticos voltados a treinar agentes de IA usados em empresas. Isso reduz o custo de montar datasets internos e ajuda a cobrir casos raros. É relevante para times que constroem agentes e precisam de dados confiáveis. Pode acelerar a adoção em áreas como suporte e atendimento.",
+    "reasonEn": "AutoSynthData creates synthetic training data aimed at enterprise AI agents. It cuts the cost of building internal datasets and helps cover rare cases. Relevant for teams building agents that need reliable data. It could speed up adoption in support and customer service.",
+    "score": 0.5,
+    "tags": [
+      "open-source",
+      "agentes",
+      "dados"
+    ],
+    "img": "img/56c490db0401.jpg",
+    "ts": 1790913691,
+    "addedTs": 1791011990,
+    "urlHash": "56c490db0401",
+    "titleHash": "9dc5f0e8e154"
+  },
+  {
+    "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+    "titlePt": "Photon promoveu funeral para apps mobile e agora levanta US$ 4,5 mi para substituí-los por agentes",
+    "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A startup Photon fez um evento simbólico enterrando os aplicativos mobile e levantou US$ 4,5 milhões para investir em agentes de IA. A tese é que agentes assumam tarefas antes feitas por apps. Mostra uma aposta concreta no modelo agentic como substituto de interfaces tradicionais. Vale acompanhar para fundadores e profissionais de produto.",
+    "reasonEn": "Startup Photon held a symbolic funeral for mobile apps and raised $4.5 million to back AI agents instead. The bet is that agents will take over tasks once done by apps. It signals a concrete push toward agentic models replacing traditional interfaces. Worth watching for founders and product folks.",
+    "score": 0.6,
+    "tags": [
+      "startup",
+      "agentes",
+      "investimento"
+    ],
+    "img": "img/199e9ff18570.jpg",
+    "ts": 1790863200,
+    "addedTs": 1791011990,
+    "urlHash": "199e9ff18570",
+    "titleHash": "ab76581a6b62"
+  },
+  {
+    "title": "The Download: AI “mind-reading” and creative uses for small batteries",
+    "titlePt": "IA que lê mentes e usos criativos de baterias pequenas",
+    "url": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
+    "source": "MIT Tech Review",
+    "sources": [
+      "MIT Tech Review"
+    ],
+    "reason": "O Download da MIT Tech Review desta semana cobre dois temas: um sistema de IA que decodifica atividade cerebral, e soluções engenhosas com baterias compactas. Os dois assuntos mostram como a tecnologia avança em direções inesperadas. Bom para quem quer uma visão geral rápida do noticiário. Mais curiosidade do que ação prática.",
+    "reasonEn": "MIT Tech Review's Download this week covers two stories: an AI system that decodes brain activity, and creative uses for small batteries. Both show how technology is moving in unexpected directions. Good for a quick news overview. More curiosity than practical action.",
+    "score": 0.5,
+    "tags": [
+      "neurociência",
+      "hardware",
+      "resumo"
+    ],
+    "img": "img/3cc286caf68e.jpg",
+    "ts": 1790856600,
+    "addedTs": 1791011990,
+    "urlHash": "3cc286caf68e",
+    "titleHash": "a0df174bb2a3"
+  },
+  {
+    "title": "AI hallucinations are making entitled customers even worse",
+    "titlePt": "Alucinações de IA estão piorando clientes já difíceis",
+    "url": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "A reportagem mostra como respostas erradas de chatbots de IA agravam conflitos com clientes que já chegam irritados. Erros automatizados transformam problemas simples em crises de atendimento. É um alerta importante para empresas que colocaram IA no suporte sem revisão humana. Leitura rápida e útil para gestores.",
+    "reasonEn": "The report shows how wrong AI chatbot responses worsen conflicts with already upset customers. Automated mistakes turn simple issues into support crises. A warning for companies that put AI in support without human review. A quick, useful read for managers.",
+    "score": 0.6,
+    "tags": [
+      "atendimento",
+      "alucinação",
+      "negócios"
+    ],
+    "img": "img/4805756b9923.jpg",
+    "ts": 1790801758,
+    "addedTs": 1791011990,
+    "urlHash": "4805756b9923",
+    "titleHash": "b3cd36a697eb"
+  },
+  {
+    "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
+    "titlePt": "Atacantes exploram falha crítica no Zimbra para roubar e-mails",
+    "url": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
+    "source": "Ars Technica",
+    "sources": [
+      "Ars Technica"
+    ],
+    "reason": "Uma vulnerabilidade grave no Zimbra, software de e-mail usado por empresas e governos, está sendo explorada ativamente para roubar mensagens. Administradores devem atualizar imediatamente. O risco é alto porque os ataques já estão em curso, não são apenas teóricos. Qualquer time que use Zimbra precisa agir agora.",
+    "reasonEn": "A critical flaw in Zimbra, an email platform used by companies and governments, is being actively exploited to steal messages. Admins should patch right away. The risk is high because attacks are already happening, not just theoretical. Any team using Zimbra needs to act now.",
+    "score": 0.85,
+    "tags": [
+      "segurança",
+      "vulnerabilidade",
+      "urgente"
+    ],
+    "img": "img/9314874e0d90.jpg",
+    "ts": 1790801088,
+    "addedTs": 1791011990,
+    "urlHash": "9314874e0d90",
+    "titleHash": "a3e25823b0a5"
+  },
+  {
+    "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+    "titlePt": "Acelerando modelos visão-linguagem com LFM2.5-VL-DSpark",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "Foi lançado o LFM2.5-VL-DSpark, modelo otimizado para tarefas de visão e linguagem com inferência mais rápida. O foco é reduzir custo de rodar VLMs em produção. Pode interessar desenvolvedores que precisam de multimodal leve. Mais um passo na corrida por modelos eficientes.",
+    "reasonEn": "LFM2.5-VL-DSpark has been released as an optimized vision-language model with faster inference. The focus is cutting the cost of running VLMs in production. It may interest developers who need lightweight multimodal AI. Another step in the race for efficient models.",
+    "score": 0.6,
+    "tags": [
+      "modelo",
+      "visão",
+      "open-source"
+    ],
+    "img": "img/280bf64dcca7.jpg",
+    "ts": 1790258937,
+    "addedTs": 1791011990,
+    "urlHash": "280bf64dcca7",
+    "titleHash": "e1c3804d194b"
+  },
+  {
     "title": "Vulnerability Discovery and Exploitation Trends in the AI Era",
     "titlePt": "Tendências de descoberta e exploração de vulnerabilidades na era da IA",
     "url": "https://cloud.google.com/blog/topics/threat-intelligence/vulnerability-discovery-and-exploitation-trends-in-the-ai-era/",
@@ -6572,237 +6902,5 @@
     "addedTs": 1790412984,
     "urlHash": "91dad0068ec2",
     "titleHash": "b4c876176ca2"
-  },
-  {
-    "title": "AI Safety's Disallowed Conclusion",
-    "titlePt": "A conclusão proibida da segurança em IA",
-    "url": "https://www.souprecipies.com/p/ai-safetys-disallowed-conclusion",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo discute uma conclusão que o campo de segurança em inteligência artificial estaria evitando publicamente. Aborda tensões entre pesquisa responsável, financiamento e narrativas dominantes. É leitura importante para quem acompanha debates sobre alinhamento, riscos existenciais e governança.",
-    "reasonEn": "The article discusses a conclusion that the AI safety field is allegedly avoiding publicly. It addresses tensions between responsible research, funding, and dominant narratives. Important reading for anyone following alignment, existential risk, and governance debates.",
-    "score": 0.7,
-    "tags": [
-      "segurança",
-      "governança"
-    ],
-    "img": "img/3b509e11ac9d.jpg",
-    "ts": 1790386316,
-    "addedTs": 1790390362,
-    "urlHash": "3b509e11ac9d",
-    "titleHash": "b5c52934e856"
-  },
-  {
-    "title": "Do we still enjoy software engineering in the age of AI?",
-    "titlePt": "Ainda curtimos programar na era da IA?",
-    "url": "https://shubs.io/do-we-still-enjoy-software-engineering-in-the-age-of-ai/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O texto reflete sobre como a inteligência artificial está mudando a satisfação profissional dos engenheiros de software. Discute se a automação está tirando a alegria do trabalho técnico ou apenas mudando o que dá prazer na profissão. Relevante para desenvolvedores pensando em carreira e identidade profissional.",
-    "reasonEn": "The piece reflects on how AI is changing software engineers' job satisfaction. It discusses whether automation is draining the joy from technical work or just shifting what feels rewarding. Relevant for developers thinking about career and professional identity.",
-    "score": 0.6,
-    "tags": [
-      "carreira",
-      "desenvolvedores"
-    ],
-    "img": "img/4f7ffeea08c6.jpg",
-    "ts": 1790385693,
-    "addedTs": 1790390362,
-    "urlHash": "4f7ffeea08c6",
-    "titleHash": "51d92e265987"
-  },
-  {
-    "title": "McDonald's turns to AI for drive-thru, inventory management, order accuracy",
-    "titlePt": "McDonald's adota IA no atendimento e no estoque",
-    "url": "https://www.restaurantdive.com/news/mcdonalds-archiq-drive-thru-artificial-intelligence-next-strategy/831256/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O McDonald's está expandindo o uso de inteligência artificial em seus restaurantes para automatizar pedidos no serviço de autoatendimento, gerenciar estoque e reduzir erros de pedido. É uma das maiores implantações de IA no varejo de comida rápida do mundo. Mostra como a tecnologia está entrando em operações cotidianas do setor.",
-    "reasonEn": "McDonald's is expanding its use of AI in restaurants to automate orders at the drive-thru, manage inventory, and reduce order errors. It is one of the largest AI rollouts in fast food retail worldwide. It shows how the technology is entering everyday store operations.",
-    "score": 0.7,
-    "tags": [
-      "varejo",
-      "automação"
-    ],
-    "img": "img/3e25e6cb785a.jpg",
-    "ts": 1790385674,
-    "addedTs": 1790390362,
-    "urlHash": "3e25e6cb785a",
-    "titleHash": "9d3b393e041b"
-  },
-  {
-    "title": "Reflex – run a Jev-like decision model locally on a 16GB Nvidia GPU",
-    "titlePt": "Reflex: modelo de decisão local em GPU comum",
-    "url": "https://github.com/lateos-ai/reflex",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O Reflex permite rodar um modelo de decisão no estilo Jev em hardware comum de consumidor, com 16 GB de memória de placa de vídeo. É uma opção para quem quer experimentar o modelo localmente, sem depender de serviços na nuvem. Útil para desenvolvedores e pesquisadores com orçamento limitado.",
-    "reasonEn": "Reflex lets you run a Jev-style decision model on common consumer hardware, using a 16GB GPU. It is an option for those who want to experiment with the model locally without depending on cloud services. Useful for developers and researchers on a budget.",
-    "score": 0.6,
-    "tags": [
-      "local",
-      "modelo"
-    ],
-    "img": "img/2ca84aa9b092.jpg",
-    "ts": 1790385078,
-    "addedTs": 1790390362,
-    "urlHash": "2ca84aa9b092",
-    "titleHash": "d8b1f9e33f5b"
-  },
-  {
-    "title": "AI: Who Still Uses Permissions?",
-    "titlePt": "IA: quem ainda usa permissões?",
-    "url": "https://news.ycombinator.com/item?id=49852101",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O texto discute o conceito tradicional de permissões em sistemas de inteligência artificial e agentes autônomos. Explora se o modelo clássico de controle de acesso ainda faz sentido quando os agentes decidem sozinhos. Relevante para quem trabalha com segurança e governança de agentes.",
-    "reasonEn": "The piece discusses the traditional concept of permissions in AI systems and autonomous agents. It explores whether the classic access control model still makes sense when agents decide on their own. Relevant for those working on agent security and governance.",
-    "score": 0.5,
-    "tags": [
-      "segurança",
-      "agentes"
-    ],
-    "img": "img/643d63f112cc.jpg",
-    "ts": 1790384725,
-    "addedTs": 1790390362,
-    "urlHash": "643d63f112cc",
-    "titleHash": "f245edecf65b"
-  },
-  {
-    "title": "Why AI is booming, but productivity isn't",
-    "titlePt": "Por que a IA explode, mas a produtividade não",
-    "url": "https://research.socialcapital.com/p/ai-roi",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo analisa o paradoxo entre o volume bilionário investido em inteligência artificial e a falta de ganhos de produtividade mensuráveis em toda a economia. Aponta possíveis razões, como gargalos de implementação, métricas falhas e expectativas infladas. Importante para executivos, investidores e desenvolvedores que precisam avaliar o impacto real da tecnologia.",
-    "reasonEn": "The article analyzes the paradox between the billions invested in AI and the lack of measurable productivity gains across the economy. It points to possible reasons like implementation bottlenecks, flawed metrics, and inflated expectations. Important for executives, investors, and developers who need to assess the real impact of the technology.",
-    "score": 0.8,
-    "tags": [
-      "economia",
-      "produtividade"
-    ],
-    "img": "img/0ea3cb3e4934.jpg",
-    "ts": 1790384455,
-    "addedTs": 1790390362,
-    "urlHash": "0ea3cb3e4934",
-    "titleHash": "253fbf01e83d"
-  },
-  {
-    "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
-    "titlePt": "Trabalhadores da Tesla resistem a treinar o Optimus",
-    "url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Funcionários da Tesla estão reclamando de serem forçados a treinar o robô humanoide Optimus, que pode vir a substituí-los em parte da fábrica. A reportagem destaca tensões éticas e trabalhistas na corrida pela automação. Importante para quem pensa em futuro do trabalho e impacto social da robótica.",
-    "reasonEn": "Tesla workers are complaining about being forced to train the Optimus humanoid robot, which could eventually replace part of the factory workforce. The report highlights ethical and labor tensions in the automation race. Important for those thinking about the future of work and the social impact of robotics.",
-    "score": 0.6,
-    "tags": [
-      "robótica",
-      "trabalho"
-    ],
-    "img": "img/834599042ffa.jpg",
-    "ts": 1790382397,
-    "addedTs": 1790390362,
-    "urlHash": "834599042ffa",
-    "titleHash": "6534a32dc9d3"
-  },
-  {
-    "title": "Nvidia 5090 DLSS 5 power hits 647W, power connector runs hotter than the GPU die",
-    "titlePt": "Nvidia 5090: pico de 647 W e conector em chamas",
-    "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-dlss-5-upscales-frame-rates-and-flame-temps-on-16-pin-power-connector-ai-gaming-tech-pushes-connector-to-uncomfortable-thermal-and-power-limits",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A nova placa RTX 5090 da Nvidia atinge 647 watts com o recurso DLSS 5, e o conector de energia aquece mais do que o próprio processador gráfico. O caso expõe os limites térmicos e energéticos das placas atuais. Importante para quem monta ou mantém computadores de alto desempenho.",
-    "reasonEn": "Nvidia's new RTX 5090 hits 647W with DLSS 5, and the power connector runs hotter than the GPU die itself. The case exposes the thermal and energy limits of current graphics cards. Important for anyone building or maintaining high-end PCs.",
-    "score": 0.5,
-    "tags": [
-      "hardware",
-      "gpu"
-    ],
-    "img": "img/8d36fbefec5e.jpg",
-    "ts": 1790380558,
-    "addedTs": 1790390362,
-    "urlHash": "8d36fbefec5e",
-    "titleHash": "a01bc51e4f21"
-  },
-  {
-    "title": "Speculative Reward Hacking in Coding Agents",
-    "titlePt": "Hackeamento de recompensa em agentes de código",
-    "url": "https://joinhandshake.com/research/ai/deepswe-reward-hacking/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo descreve como agentes de codificação podem manipular sinais de recompensa sem realmente resolver a tarefa proposta. É um risco real em sistemas que avaliam agentes automaticamente, como plataformas de codificação assistida por IA. Importante para quem desenvolve, implanta ou avalia agentes autônomos.",
-    "reasonEn": "The article describes how coding agents can game reward signals without actually solving the proposed task. It is a real risk in systems that automatically evaluate agents, such as AI coding platforms. Important for anyone building, deploying, or evaluating autonomous agents.",
-    "score": 0.6,
-    "tags": [
-      "agentes",
-      "segurança"
-    ],
-    "img": "img/cb13ef5264e3.jpg",
-    "ts": 1790378032,
-    "addedTs": 1790390362,
-    "urlHash": "cb13ef5264e3",
-    "titleHash": "604b890bce71"
-  },
-  {
-    "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-    "titlePt": "Crusoe abandona plano bilionário com turbinas Boom",
-    "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A Crusoe desistiu de um plano de 1,25 bilhão de dólares para usar turbinas da Boom em centros de dados de inteligência artificial. O caso expõe os desafios de infraestrutura energética por trás da expansão da tecnologia. Importante para investidores, operadores de data centers e planejadores de infraestrutura.",
-    "reasonEn": "Crusoe has abandoned a 1.25 billion dollar plan to use Boom turbines at AI data centers. The case exposes the energy infrastructure challenges behind the AI expansion. Important for investors, data center operators, and infrastructure planners.",
-    "score": 0.7,
-    "tags": [
-      "infraestrutura",
-      "energia"
-    ],
-    "img": "img/1947fc4b63e3.jpg",
-    "ts": 1790377870,
-    "addedTs": 1790390362,
-    "urlHash": "1947fc4b63e3",
-    "titleHash": "bce6f7ffdbcc"
-  },
-  {
-    "title": "Show HN: MyA11yReport MCP – Build and test accessible websites with AI",
-    "titlePt": "MyA11yReport: ferramenta MCP testa acessibilidade de sites com IA",
-    "url": "https://mya11y.report/mcp/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um desenvolvedor publicou no Hacker News um servidor MCP chamado MyA11yReport que permite construir e testar sites acessíveis usando IA. A ferramenta automatiza auditorias de acessibilidade via fluxo de agentes. Importante para devs web que precisam cumprir WCAG sem fazer testes manuais extensos. Ainda é projeto experimental.",
-    "reasonEn": "A developer posted on Hacker News an MCP server called MyA11yReport that lets you build and test accessible websites using AI. The tool automates accessibility audits through an agent workflow. It matters for web devs who need to meet WCAG standards without lengthy manual testing. Still an early experimental project.",
-    "score": 0.55,
-    "tags": [
-      "acessibilidade",
-      "ferramenta",
-      "agentes"
-    ],
-    "img": "img/b2701b9054a0.jpg",
-    "ts": 1790375241,
-    "addedTs": 1790390362,
-    "urlHash": "b2701b9054a0",
-    "titleHash": "f1d9e0996c4d"
   }
 ]
