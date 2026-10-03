@@ -1,5 +1,354 @@
 [
   {
+    "title": "AgentSight: System-wide AI agent profiling and monitoring with eBPF",
+    "titlePt": "AgentSight: perfil e monitoramento de agentes de IA com eBPF",
+    "url": "https://github.com/eunomia-bpf/agentsight",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "AgentSight é uma nova ferramenta open source que usa eBPF para monitorar e perfilar agentes de IA em todo o sistema operacional. Permite observar o que esses agentes estão fazendo no nível do kernel, identificando chamadas de sistema, acessos a arquivos e comportamento de rede. É especialmente valioso para equipes de segurança e DevOps que precisam garantir que agentes autônomos não estão acessando dados sensíveis ou executando ações inesperadas. A abordagem via eBPF tem baixo overhead e não exige modificar o código do agente.",
+    "reasonEn": "AgentSight is a new open-source tool that uses eBPF to profile and monitor AI agents across the entire operating system. It lets teams observe what agents are doing at the kernel level, including system calls, file access, and network behavior. This is especially valuable for security and DevOps teams who need to ensure autonomous agents aren't accessing sensitive data or taking unexpected actions. The eBPF approach has low overhead and doesn't require changing the agent's code.",
+    "score": 0.75,
+    "tags": [
+      "segurança",
+      "agentes",
+      "devops"
+    ],
+    "img": "img/4c1fe2a8b83f.jpg",
+    "ts": 1791058047,
+    "addedTs": 1791058921,
+    "urlHash": "4c1fe2a8b83f",
+    "titleHash": "2d91dc7bce06"
+  },
+  {
+    "title": "Has AI impacted the labor market yet?",
+    "titlePt": "A IA já impactou o mercado de trabalho?",
+    "url": "https://aleximas.substack.com/p/has-ai-impacted-the-labor-market",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Discussão no Hacker News questiona se a inteligência artificial já está provocando mudanças concretas no emprego ou se o discurso sobre seu impacto ainda é mais hype do que realidade. O tópico reúne dados, experiências pessoais e argumentos de profissionais de diferentes áreas. É útil para quem quer entender sinais reais versus previsões exageradas sobre o futuro do trabalho.",
+    "reasonEn": "A Hacker News discussion questions whether AI is already driving real changes in jobs or whether the discourse about its impact is still more hype than reality. The thread gathers data, personal experiences, and arguments from professionals across fields. It's useful for anyone wanting to separate real signals from exaggerated predictions about the future of work.",
+    "score": 0.7,
+    "tags": [
+      "mercado de trabalho",
+      "análise"
+    ],
+    "img": "img/747a56a3ab57.jpg",
+    "ts": 1791057626,
+    "addedTs": 1791058921,
+    "urlHash": "747a56a3ab57",
+    "titleHash": "048b177141a6"
+  },
+  {
+    "title": "Anthropic tried to persuade Pope that AI could be conscious being",
+    "titlePt": "Anthropic tentou convencer o Papa de que a IA pode ser consciente",
+    "url": "https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Anthropic teria buscado uma audiência com o Vaticano para apresentar a ideia de que sistemas de inteligência artificial podem se tornar seres conscientes. A abordagem levanta questões filosóficas e éticas sobre como grandes laboratórios estão enquadrando o tema da consciência artificial. É uma história curiosa que mistura política corporativa, religião e debates sobre senciência em máquinas.",
+    "reasonEn": "Anthropic reportedly sought an audience with the Vatican to present the idea that AI systems could become conscious beings. The approach raises philosophical and ethical questions about how major labs are positioning the consciousness debate. It's a curious story mixing corporate politics, religion, and discussions about machine sentience.",
+    "score": 0.55,
+    "tags": [
+      "antropica",
+      "ética",
+      "filosofia"
+    ],
+    "img": "img/02956433a9ad.jpg",
+    "ts": 1791055990,
+    "addedTs": 1791058921,
+    "urlHash": "02956433a9ad",
+    "titleHash": "16f835aff36d"
+  },
+  {
+    "title": "PlushCrew – three agents that write, test, and return a working ZIP",
+    "titlePt": "PlushCrew: três agentes que escrevem, testam e devolvem um ZIP funcional",
+    "url": "https://www.plushcrew.ai",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "PlushCrew é uma ferramenta que orquestra três agentes de IA especializados para construir, testar e empacotar pequenos projetos, devolvendo o resultado como um arquivo ZIP pronto para uso. A proposta automatiza partes do fluxo de prototipagem que normalmente exigem várias ferramentas separadas. Pode acelerar MVPs e provas de conceito para desenvolvedores solo.",
+    "reasonEn": "PlushCrew is a tool that orchestrates three specialized AI agents to build, test, and package small projects, returning the result as a ready-to-use ZIP file. The approach automates parts of the prototyping flow that usually require several separate tools. It can speed up MVPs and proofs of concept for solo developers.",
+    "score": 0.65,
+    "tags": [
+      "agentes",
+      "produtividade",
+      "mvp"
+    ],
+    "img": "img/a9fead1df08a.jpg",
+    "ts": 1791055102,
+    "addedTs": 1791058921,
+    "urlHash": "a9fead1df08a",
+    "titleHash": "9ec5d5926764"
+  },
+  {
+    "title": "Show HN: AI code review optimized for precision over number of findings",
+    "titlePt": "Revisão de código com IA focada em precisão, não em volume",
+    "url": "https://vetoo.dev",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O projeto Show HN apresenta uma ferramenta de revisão de código com IA que prioriza poucos alertas de alta qualidade em vez de listas extensas de achados duvidosos. A proposta ataca um problema comum em revisores automáticos: muito ruído e baixa confiança. Para times de engenharia, significa menos interrupções e feedback mais acionável.",
+    "reasonEn": "The Show HN project presents an AI code review tool that prioritizes a few high-quality findings over extensive lists of doubtful ones. The approach tackles a common problem with automated reviewers: too much noise and low confidence. For engineering teams, it means fewer interruptions and more actionable feedback.",
+    "score": 0.75,
+    "tags": [
+      "engenharia",
+      "ferramenta",
+      "qualidade"
+    ],
+    "img": "img/072fa80fec85.jpg",
+    "ts": 1791054722,
+    "addedTs": 1791058921,
+    "urlHash": "072fa80fec85",
+    "titleHash": "be56ea5c3d97"
+  },
+  {
+    "title": "How China Is Winning the AI Race [video-essay]",
+    "titlePt": "Como a China está vencendo a corrida da IA",
+    "url": "https://www.youtube.com/watch?v=QdznbGzRWSw",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O vídeo-ensaio argumenta que a China está conquistando uma posição de vantagem estratégica na corrida global por inteligência artificial, com apoio estatal, escala de dados e infraestrutura energética. Discute implicações geopolíticas e o contraste com o ecossistema americano. Relevante para entender o cenário competitivo e onde decisões de cadeia de suprimentos e regulação podem levar.",
+    "reasonEn": "The video essay argues that China is gaining a strategic advantage in the global AI race, with state support, data scale, and energy infrastructure. It discusses geopolitical implications and the contrast with the American ecosystem. Relevant for understanding the competitive landscape and where supply chain and regulatory decisions may lead.",
+    "score": 0.65,
+    "tags": [
+      "china",
+      "geopolítica",
+      "estratégia"
+    ],
+    "img": "img/9a41fbdded2d.jpg",
+    "ts": 1791053821,
+    "addedTs": 1791058921,
+    "urlHash": "9a41fbdded2d",
+    "titleHash": "1be3147cef1d"
+  },
+  {
+    "title": "Google launches Project Suncatcher, a step towards AI data centers in space",
+    "titlePt": "Google lança Projeto Suncatcher: data centers de IA no espaço",
+    "url": "https://www.npr.org/2026/10/01/nx-s1-5983697/project-suncatcher-google-ai-data-center-space",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Google revelou o Projeto Suncatcher, uma iniciativa para colocar data centers de IA em órbita, aproveitando energia solar constante e refrigeração natural no espaço. A pesquisa envolve testes com satélites equipados com chips de IA da própria empresa. Se viável, a abordagem pode mudar radicalmente a infraestrutura de treinamento de modelos grandes nos próximos anos.",
+    "reasonEn": "Google unveiled Project Suncatcher, an initiative to place AI data centers in orbit, taking advantage of constant sunlight and natural cooling in space. The research involves tests with satellites equipped with the company's own AI chips. If viable, the approach could radically change the infrastructure for training large models in coming years.",
+    "score": 0.9,
+    "tags": [
+      "google",
+      "infraestrutura",
+      "espaço"
+    ],
+    "img": "img/22300884ee30.jpg",
+    "ts": 1791053789,
+    "addedTs": 1791058921,
+    "urlHash": "22300884ee30",
+    "titleHash": "11e38e3bca49"
+  },
+  {
+    "title": "Steer a coding agent on your own machine from Claude/ChatGPT (via MCP)",
+    "titlePt": "Controle um agente de codificação local pelo Claude ou ChatGPT via MCP",
+    "url": "https://remote.phyra.ai/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O projeto permite que você direcione um agente de codificação rodando na sua própria máquina a partir do Claude ou ChatGPT usando o protocolo MCP. É uma forma de combinar a interface de um LLM poderoso com execução local, mantendo o código e os dados sob seu controle. Útil para desenvolvedores que querem produtividade sem enviar código sensível para a nuvem.",
+    "reasonEn": "The project allows you to steer a coding agent running on your own machine from Claude or ChatGPT using the MCP protocol. It's a way to combine the interface of a powerful LLM with local execution, keeping code and data under your control. Useful for developers who want productivity without sending sensitive code to the cloud.",
+    "score": 0.75,
+    "tags": [
+      "agentes",
+      "mcp",
+      "desenvolvimento"
+    ],
+    "img": "img/28644aa98f40.jpg",
+    "ts": 1791053747,
+    "addedTs": 1791058921,
+    "urlHash": "28644aa98f40",
+    "titleHash": "4f2ce176a142"
+  },
+  {
+    "title": "Show HN: RepoGuard – Architecture linter for AI-generated code (Cursor, Claude)",
+    "titlePt": "RepoGuard: linter de arquitetura para código gerado por IA",
+    "url": "https://github.com/taylormatematica-beep/repoguard",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "RepoGuard é uma ferramenta que verifica automaticamente se o código produzido por IAs como Cursor e Claude segue padrões de arquitetura definidos pelo time. Ajuda a evitar que geração automática quebre convenções internas, especialmente em projetos grandes. Pode ser integrada a pipelines de revisão como uma camada adicional de qualidade.",
+    "reasonEn": "RepoGuard is a tool that automatically checks whether code produced by AIs like Cursor and Claude follows architecture standards defined by the team. It helps prevent automatic generation from breaking internal conventions, especially in large projects. It can be integrated into review pipelines as an additional quality layer.",
+    "score": 0.75,
+    "tags": [
+      "qualidade",
+      "engenharia",
+      "ia"
+    ],
+    "img": "img/942f4c6f2bdd.jpg",
+    "ts": 1791052630,
+    "addedTs": 1791058921,
+    "urlHash": "942f4c6f2bdd",
+    "titleHash": "d92810c9c0a6"
+  },
+  {
+    "title": "Show HN: Revline – an AI web app that researches TikTok and Instagram for you",
+    "titlePt": "Revline: app de IA que pesquisa TikTok e Instagram por você",
+    "url": "https://tryrevline.com/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Revline é um aplicativo que usa IA para vasculhar tendências e conteúdos no TikTok e Instagram sob demanda, retornando resumos e referências. É voltado para criadores e equipes de marketing que precisam acompanhar o que está em alta em redes sociais. Pode economizar horas de busca manual, mas levanta questões sobre termos de uso das plataformas.",
+    "reasonEn": "Revline is an app that uses AI to scan trends and content on TikTok and Instagram on demand, returning summaries and references. It's aimed at creators and marketing teams who need to track what's trending on social media. It can save hours of manual searching, but raises questions about the platforms' terms of use.",
+    "score": 0.5,
+    "tags": [
+      "redes sociais",
+      "marketing",
+      "consumidor"
+    ],
+    "img": "img/c58d94896e66.jpg",
+    "ts": 1791051618,
+    "addedTs": 1791058921,
+    "urlHash": "c58d94896e66",
+    "titleHash": "6680b6b27b22"
+  },
+  {
+    "title": "Georgia holds emergency meeting on AI exposing voters' secret ballots",
+    "titlePt": "Geórgia faz reunião de emergência sobre IA expondo votos secretos",
+    "url": "https://www.theguardian.com/us-news/2026/oct/02/midterms-ai-ballot-privacy",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Autoridades eleitorais da Geórgia convocaram uma reunião emergencial após relatos de que sistemas de IA conseguiram identificar eleitores a partir de imagens borradas de cédulas secretas. O incidente levanta preocupações sérias sobre privacidade e segurança do voto. É um sinal de alerta para outros estados e países que dependem de processos de auditoria visual.",
+    "reasonEn": "Election officials in Georgia called an emergency meeting after reports that AI systems managed to identify voters from blurred images of secret ballots. The incident raises serious concerns about voter privacy and security. It's a warning sign for other states and countries that rely on visual audit processes.",
+    "score": 0.85,
+    "tags": [
+      "eleições",
+      "privacidade",
+      "regulação"
+    ],
+    "img": "img/75ef53e0b6cb.jpg",
+    "ts": 1791050836,
+    "addedTs": 1791058921,
+    "urlHash": "75ef53e0b6cb",
+    "titleHash": "205c88277464"
+  },
+  {
+    "title": "Pop!_OS bans AI-generated code from much of its codebase",
+    "titlePt": "Pop!_OS proíbe código gerado por IA em boa parte do seu código-fonte",
+    "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A distribuição Linux Pop!_OS decidiu vetar contribuições com código gerado por inteligência artificial na maior parte de seu repositório. A justificativa envolve preocupações com licenciamento, qualidade e responsabilidade sobre o código enviado. É mais um sinal de que projetos open source estão endurecendo suas políticas sobre uso de IA generativa.",
+    "reasonEn": "The Pop!_OS Linux distribution decided to ban AI-generated code contributions across most of its repository. The justification involves concerns about licensing, quality, and responsibility for submitted code. It's another sign that open source projects are hardening their policies on generative AI use.",
+    "score": 0.8,
+    "tags": [
+      "open source",
+      "política",
+      "linux"
+    ],
+    "img": "img/4474df4c0f97.jpg",
+    "ts": 1791050223,
+    "addedTs": 1791058921,
+    "urlHash": "4474df4c0f97",
+    "titleHash": "dd89a38ddf67"
+  },
+  {
+    "title": "Manage end-user OAuth consent for AI agents with Amazon Bedrock AgentCore",
+    "titlePt": "Gerencie consentimento OAuth para agentes de IA com Amazon Bedrock AgentCore",
+    "url": "https://aws.amazon.com/blogs/machine-learning/manage-end-user-oauth-consent-for-ai-agents-with-amazon-bedrock-agentcore/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Amazon introduziu no Bedrock AgentCore um mecanismo para administrar consentimentos OAuth de usuários finais quando agentes de IA acessam serviços em seu nome. A funcionalidade busca resolver um ponto crítico: agentes agindo de forma autônoma precisam de permissões claras e auditáveis. É relevante para empresas que pretendem colocar agentes em produção sem abrir brechas de segurança.",
+    "reasonEn": "Amazon introduced a mechanism in Bedrock AgentCore to manage end-user OAuth consents when AI agents access services on their behalf. The feature addresses a critical point: autonomously acting agents need clear, auditable permissions. It's relevant for companies planning to put agents into production without opening security gaps.",
+    "score": 0.65,
+    "tags": [
+      "aws",
+      "segurança",
+      "agentes"
+    ],
+    "img": "img/a4d7ee588fda.jpg",
+    "ts": 1791049814,
+    "addedTs": 1791058921,
+    "urlHash": "a4d7ee588fda",
+    "titleHash": "54de89dd8fdf"
+  },
+  {
+    "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+    "titlePt": "Bots de IA 'Timmy', 'Ren' e 'Jackie' inundam redes sociais com conteúdo ruim",
+    "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+    "source": "Ars Technica",
+    "sources": [
+      "Ars Technica"
+    ],
+    "reason": "Pesquisadores identificaram três bots de IA, batizados Timmy, Ren e Jackie, publicando em massa conteúdo genérico e de baixa qualidade em redes sociais. O fenômeno é parte da explosão de 'AI slop' que polui timelines e confunde usuários. Plataformas ainda não conseguem filtrar esse tipo de conteúdo de forma eficaz. O tema é relevante para qualquer pessoa que consuma redes e para desenvolvedores que trabalham com moderação.",
+    "reasonEn": "Researchers identified three AI bots, called Timmy, Ren, and Jackie, mass-posting low-quality generic content on social media. The phenomenon is part of the AI slop explosion polluting feeds and confusing users. Platforms still cannot effectively filter this content. The topic matters to anyone using social networks and to developers working on moderation.",
+    "score": 0.7,
+    "tags": [
+      "redes sociais",
+      "moderação"
+    ],
+    "img": "img/0a67bb4610e1.jpg",
+    "ts": 1789419872,
+    "addedTs": 1791058921,
+    "urlHash": "0a67bb4610e1",
+    "titleHash": "a8cd097f1e11"
+  },
+  {
+    "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
+    "titlePt": "Técnica de 'ASCII smuggling' que atacava IA agora é usada por spammers",
+    "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+    "source": "Ars Technica",
+    "sources": [
+      "Ars Technica"
+    ],
+    "reason": "Uma técnica antes usada para enganar modelos de IA, chamada ASCII smuggling, foi adotada por spammers para esconder links maliciosos em mensagens aparentemente inofensivas. A mudança mostra que truques de segurança contra IA estão se tornando armas para atacantes. Isso afeta usuários comuns e desenvolvedores de filtros de spam. Vale acompanhar para reforçar defesas em sistemas de email e mensageria.",
+    "reasonEn": "A technique once used to trick AI models, called ASCII smuggling, has been adopted by spammers to hide malicious links inside seemingly innocent messages. The shift shows that AI-security tricks are becoming weapons for attackers. This affects everyday users and developers building spam filters. Worth tracking to harden defenses in email and messaging systems.",
+    "score": 0.6,
+    "tags": [
+      "segurança",
+      "spam"
+    ],
+    "img": "img/e703320cbb43.jpg",
+    "ts": 1788542292,
+    "addedTs": 1791058921,
+    "urlHash": "e703320cbb43",
+    "titleHash": "28c21c6b1591"
+  },
+  {
+    "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+    "titlePt": "NeoMME: um codificador multimodal nativo e multilíngue eficiente",
+    "url": "https://huggingface.co/blog/Hcompany/neomme",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "Pesquisadores publicaram no Hugging Face o NeoMME, um codificador multimodal e multilíngue projetado para ser mais eficiente que alternativas atuais. O modelo é voltado a aplicações que precisam processar texto, imagem e áudio com baixo custo computacional. O lançamento adiciona mais uma opção open source ao ecossistema. Relevante para engenheiros de machine learning e equipes que precisam de embeddings compactos.",
+    "reasonEn": "Researchers published NeoMME on Hugging Face, a multimodal and multilingual encoder designed to be more efficient than current alternatives. The model targets applications that need to process text, image, and audio at low compute cost. The release adds another open-source option to the ecosystem. Relevant for ML engineers and teams that need compact embeddings.",
+    "score": 0.6,
+    "tags": [
+      "pesquisa",
+      "multimodal",
+      "open source"
+    ],
+    "img": "img/fffbcba03b0b.jpg",
+    "ts": 1788441228,
+    "addedTs": 1791058921,
+    "urlHash": "fffbcba03b0b",
+    "titleHash": "ccbd48c9534d"
+  },
+  {
     "title": "AI Agents Need a System of Record, Not Just a Dashboard",
     "titlePt": "Agentes de IA precisam de um sistema de registro, não só de um dashboard",
     "url": "https://www.anuclei.com/blog/your-ai-agents-need-a-system-of-record",
