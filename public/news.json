@@ -1,5 +1,239 @@
 [
   {
+    "title": "Vulnerability Discovery and Exploitation Trends in the AI Era",
+    "titlePt": "Tendências de descoberta e exploração de vulnerabilidades na era da IA",
+    "url": "https://cloud.google.com/blog/topics/threat-intelligence/vulnerability-discovery-and-exploitation-trends-in-the-ai-era/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto no HackerNews analisa como ferramentas de IA estão mudando a forma como vulnerabilidades são encontradas e exploradas. Atacantes conseguem automatizar parte do processo, acelerando ataques. Defensores também ganham novos recursos para auditoria. É leitura recomendada para times de segurança e desenvolvedores de software crítico.",
+    "reasonEn": "The HackerNews write-up analyzes how AI tools are changing how vulnerabilities are found and exploited. Attackers can automate parts of the process, speeding up attacks. Defenders also gain new auditing resources. It's recommended reading for security teams and developers of critical software.",
+    "score": 0.65,
+    "tags": [
+      "segurança",
+      "ciberataques"
+    ],
+    "img": "img/ab41583e705d.jpg",
+    "ts": 1790985927,
+    "addedTs": 1790988600,
+    "urlHash": "ab41583e705d",
+    "titleHash": "431daee97908"
+  },
+  {
+    "title": "When AI Starts Writing Systems Code",
+    "titlePt": "Quando a IA começa a escrever código de sistemas",
+    "url": "https://www.coreauto.com/blog/when-ai-starts-writing-systems-code",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A discussão no HackerNews aborda o impacto de modelos de IA gerando código de baixo nível, como kernels e drivers. O tópico mostra casos reais e limitações ainda existentes. Para profissionais de engenharia, é relevante acompanhar até onde a IA já consegue chegar. Também levanta preocupações sérias sobre correção e segurança do código gerado.",
+    "reasonEn": "The HackerNews discussion covers the impact of AI models generating low-level code like kernels and drivers. The thread shows real cases and remaining limitations. For systems engineers, it's relevant to track how far AI already reaches. It also raises serious concerns about correctness and security of generated code.",
+    "score": 0.55,
+    "tags": [
+      "código",
+      "sistemas"
+    ],
+    "img": "img/4a260b5ee46d.jpg",
+    "ts": 1790985578,
+    "addedTs": 1790988600,
+    "urlHash": "4a260b5ee46d",
+    "titleHash": "2a38e0921fed"
+  },
+  {
+    "title": "Tinfoil private AI chat adds TEE-side content scanning",
+    "titlePt": "Tinfoil adiciona varredura de conteúdo via TEE em chat privado de IA",
+    "url": "https://tinfoil.sh/blog/2026-09-14-safety-without-compromising-privacy",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O serviço Tinfoil, que oferece chat de IA focado em privacidade, passou a fazer varredura de conteúdo no lado do TEE, ambiente de execução confiável. Isso adiciona uma camada de moderação sem expor dados ao provedor do serviço. Para usuários preocupados com privacidade, é uma evolução técnica importante. A tendência aponta para mais segurança em tempo de inferência.",
+    "reasonEn": "Tinfoil, a privacy-focused AI chat service, now performs content scanning on the TEE (trusted execution environment) side. This adds a moderation layer without exposing data to the provider. For privacy-conscious users, it's an important technical evolution. The trend points to more security at inference time.",
+    "score": 0.5,
+    "tags": [
+      "privacidade",
+      "segurança"
+    ],
+    "img": "img/388dd8e8fd86.jpg",
+    "ts": 1790985479,
+    "addedTs": 1790988600,
+    "urlHash": "388dd8e8fd86",
+    "titleHash": "9f12b0e415f3"
+  },
+  {
+    "title": "AI Cracks 217-Year-Old Napoleonic Cipher in 6 Hours,Revealing PreWar Deployments",
+    "titlePt": "IA decifra cifra napoleônica de 217 anos em seis horas",
+    "url": "https://finance.biggo.com/news/0e4a6995-1f3d-497b-9291-ad8cfdbb7b58",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Pesquisadores usaram IA para decifrar uma cifra de 217 anos usada na era napoleônica, revelando movimentos militares antes da guerra. O resultado mostra como técnicas modernas podem acelerar a criptoanálise histórica. A descoberta traz contexto inédito sobre aquele período. É um caso curioso que mistura história e tecnologia de ponta.",
+    "reasonEn": "Researchers used AI to crack a 217-year-old cipher from the Napoleonic era, revealing prewar military deployments. The result shows how modern techniques can speed up historical cryptanalysis. The discovery brings unprecedented context about that period. It's a curious case blending history and cutting-edge technology.",
+    "score": 0.6,
+    "tags": [
+      "história",
+      "criptoanálise"
+    ],
+    "img": "img/fce729fe8a29.jpg",
+    "ts": 1790983082,
+    "addedTs": 1790988600,
+    "urlHash": "fce729fe8a29",
+    "titleHash": "563d4b469076"
+  },
+  {
+    "title": "Access open‑weight, cyber‑capable models with one API key",
+    "titlePt": "Modelos abertos com habilidade cibernética via API única",
+    "url": "https://router.enclave.ai/login?next=%2F",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um novo serviço oferece acesso a modelos de peso aberto especializados em tarefas cibernéticas com uma única chave de API. A proposta facilita o uso de IA para segurança ofensiva e defensiva sem montar infraestrutura própria. Para pesquisadores e times de red team, simplifica bastante o trabalho. Também levanta discussões importantes sobre uso responsável dessas ferramentas.",
+    "reasonEn": "A new service offers access to open-weight models specialized in cyber tasks via a single API key. The pitch simplifies using AI for offensive and defensive security without building your own infrastructure. For researchers and red teams, it simplifies work a lot. It also sparks important discussions on responsible use of these tools.",
+    "score": 0.6,
+    "tags": [
+      "segurança",
+      "modelo"
+    ],
+    "img": "img/c874668bedc4.jpg",
+    "ts": 1790982472,
+    "addedTs": 1790988600,
+    "urlHash": "c874668bedc4",
+    "titleHash": "237e75724ca8"
+  },
+  {
+    "title": "LLMs Will Not Replace AI Compilers. They Will Call Them.",
+    "titlePt": "LLMs não vão substituir compiladores de IA, vão chamá-los",
+    "url": "https://aicompilers.github.io/2026/09/27/llms-will-not-replace-ai-compilers-they-will-call-them.html",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo defende que, em vez de substituírem compiladores especializados em IA, os LLMs vão passar a chamá-los como ferramentas sob demanda. A ideia é que modelos coordenem etapas em vez de fazer tudo diretamente. Isso muda o design de sistemas de IA em produção. Para arquitetos de software, é uma visão importante sobre o futuro próximo.",
+    "reasonEn": "The article argues that instead of replacing specialized AI compilers, LLMs will call them as tools on demand. The idea is that models coordinate steps rather than doing everything directly. This changes the design of AI systems in production. For software architects, it's an important view of the near future.",
+    "score": 0.55,
+    "tags": [
+      "compiladores",
+      "arquitetura"
+    ],
+    "img": "img/cd5e4c9f5f17.jpg",
+    "ts": 1790981847,
+    "addedTs": 1790988600,
+    "urlHash": "cd5e4c9f5f17",
+    "titleHash": "b0f342326e3a"
+  },
+  {
+    "title": "DeepSeek open sourced their Huawei Ascend programming stack",
+    "titlePt": "DeepSeek abre código de pilha para chips Huawei Ascend",
+    "url": "https://aistockwire.com/blog/deepseek-huawei-ascend-tilelang-open-source-nvidia-nvda-cuda-september-2026",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A DeepSeek abriu o código de sua pilha de programação otimizada para chips Ascend da Huawei. O movimento reduz a dependência de hardware americano e acelera o ecossistema chinês de IA. Para desenvolvedores, abre novas ferramentas de otimização em hardware específico. É um passo relevante na geopolítica dos semicondutores e merece atenção.",
+    "reasonEn": "DeepSeek open-sourced its programming stack optimized for Huawei Ascend chips. The move reduces dependence on American hardware and accelerates the Chinese AI ecosystem. For developers, it opens new optimization tools for specific hardware. It's a relevant step in semiconductor geopolitics and deserves attention.",
+    "score": 0.75,
+    "tags": [
+      "china",
+      "código-aberto"
+    ],
+    "img": "img/a88f3006c103.jpg",
+    "ts": 1790980011,
+    "addedTs": 1790988600,
+    "urlHash": "a88f3006c103",
+    "titleHash": "116d0fb12c49"
+  },
+  {
+    "title": "An AI radio DJ has shot to stardom in L.A. Human hosts aren't happy about it",
+    "titlePt": "DJ de IA faz sucesso em Los Angeles e irrita locutores humanos",
+    "url": "https://www.latimes.com/business/story/2026-10-02/ai-radio-star-dj-chatbots-airwaves-humans-pushing-back",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um DJ gerado por IA virou sensação em uma rádio de Los Angeles, atraindo audiência em pouco tempo. Locutores humanos reclamam da concorrência e levantam debates sobre substituição profissional. O caso ilustra como a IA já está impactando mídias tradicionais. Para profissionais do setor, é um sinal claro de alerta sobre o futuro da profissão.",
+    "reasonEn": "An AI-generated DJ became a sensation at an LA radio station, drawing audience quickly. Human hosts complain about the competition and spark debates on professional replacement. The case shows how AI is already impacting traditional media. For industry professionals, it's a clear warning sign about the future of the job.",
+    "score": 0.5,
+    "tags": [
+      "mídia",
+      "automação"
+    ],
+    "img": "img/c739d8771460.jpg",
+    "ts": 1790979641,
+    "addedTs": 1790988600,
+    "urlHash": "c739d8771460",
+    "titleHash": "3d6504755d49"
+  },
+  {
+    "title": "Reducing the cognitive load of AI changes",
+    "titlePt": "Reduzindo a carga cognitiva das mudanças com IA",
+    "url": "https://amoffat.github.io/blog/cognitive-load.html",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo discute como diminuir o esforço mental de equipes diante de mudanças constantes provocadas por inteligência artificial. A proposta é tratar a transição da mesma forma que se gerencia uma migração de tecnologia, com comunicação clara e treinamento contínuo. Isso importa porque muitas empresas adotam IA sem preparar times, gerando burnout e resistência. Profissionais de gestão e RH são os mais afetados, mas desenvolvedores também sentem o impacto no dia a dia.",
+    "reasonEn": "The article discusses how to reduce the mental load on teams facing constant AI-driven changes. The proposal is to treat the transition like any technology migration, with clear communication and ongoing training. It matters because many companies adopt AI without preparing staff, leading to burnout and resistance. Managers and HR are most affected, but developers also feel the impact daily.",
+    "score": 0.55,
+    "tags": [
+      "gestão",
+      "trabalho",
+      "adoção"
+    ],
+    "img": "img/cdd7b7c92beb.jpg",
+    "ts": 1790978808,
+    "addedTs": 1790988600,
+    "urlHash": "cdd7b7c92beb",
+    "titleHash": "5d02261350b9"
+  },
+  {
+    "title": "Meta stumbled onto a winning AI strategy",
+    "titlePt": "Meta tropeça em uma estratégia vencedora de IA",
+    "url": "https://www.computerworld.com/article/4228463/how-meta-stumbled-onto-a-winning-ai-strategy.html",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto mostra que a Meta chegou a uma estratégia de IA bem-sucedida quase por acidente, focando em modelos abertos e ecossistema de hardware próprio. A empresa descobriu que abrir código e construir dispositivos próprios atrai desenvolvedores e cria um efeito de rede difícil de copiar. Isso é relevante porque redefine a corrida da IA, mostrando que código aberto pode ser tão competitivo quanto modelos fechados. Investidores, concorrentes e desenvolvedores de IA devem prestar atenção nesse movimento.",
+    "reasonEn": "The piece shows that Meta landed on a winning AI strategy almost by accident, leaning on open models and its own hardware ecosystem. The company found that open-sourcing code and building its own devices attracts developers and creates a hard-to-copy network effect. It matters because it redefines the AI race, showing that open code can be as competitive as closed models. Investors, rivals, and AI developers should pay attention to this move.",
+    "score": 0.8,
+    "tags": [
+      "meta",
+      "estratégia",
+      "código-aberto"
+    ],
+    "img": "img/3d8ba5314239.jpg",
+    "ts": 1790978736,
+    "addedTs": 1790988600,
+    "urlHash": "3d8ba5314239",
+    "titleHash": "1bb73b1f0676"
+  },
+  {
+    "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+    "titlePt": "Dot, o agente da OpenAI, faz trabalho corporativo e pede seu jantar",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "A OpenAI apresentou o Dot, um agente de software voltado para empresas que também consegue cuidar de tarefas pessoais, como pedir comida. O produto mostra a aposta da empresa em agentes que misturam uso profissional e cotidiano. Para empresas, significa automatizar processos internos com a mesma tecnologia usada no dia a dia. Consumidores, por sua vez, ganham um assistente único que entende contexto de trabalho e vida pessoal.",
+    "reasonEn": "OpenAI unveiled Dot, a software agent aimed at businesses that can also handle personal tasks like ordering dinner. The product shows the company's bet on agents that blend professional and everyday use. For companies, it means automating internal processes with the same tech used in daily life. Consumers, meanwhile, get a single assistant that understands work and personal context.",
+    "score": 0.7,
+    "tags": [
+      "openai",
+      "agente",
+      "empresa"
+    ],
+    "img": "img/b19a7eb5407e.jpg",
+    "ts": 1790963760,
+    "addedTs": 1790988600,
+    "urlHash": "b19a7eb5407e",
+    "titleHash": "79e866f7dd83"
+  },
+  {
     "title": "Decide where your AI workload should run (local/edge/cloud)",
     "titlePt": "Onde rodar sua carga de IA: local, edge ou nuvem?",
     "url": "https://github.com/Keerthana0309/ai-workload-placement",
@@ -6570,93 +6804,5 @@
     "addedTs": 1790390362,
     "urlHash": "b2701b9054a0",
     "titleHash": "f1d9e0996c4d"
-  },
-  {
-    "title": "FTC chair suggests AI developers should be liable for conduct of agents",
-    "titlePt": "Presidente do FTC sugere que desenvolvedores de IA sejam responsabilizados por agentes",
-    "url": "https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O presidente do FTC, órgão regulador americano, afirmou que desenvolvedores de inteligência artificial devem ser responsabilizados pelo comportamento de seus agentes autônomos. A declaração marca uma posição mais agressiva da agência sobre a regulação do setor. Isso pode mudar como empresas projetam e implantam sistemas de IA, especialmente agentes que tomam decisões sozinhos. Desenvolvedores e startups precisam acompanhar esse debate para evitar riscos legais no futuro. A movimentação também reflete a crescente pressão dos governos sobre a indústria de IA.",
-    "reasonEn": "The chair of the FTC, the American regulator, stated that AI developers should be held liable for the behavior of their autonomous agents. The statement marks a more aggressive position from the agency on sector oversight. This could change how companies design and deploy AI systems, especially agents that make decisions on their own. Developers and startups need to follow this debate to avoid future legal risks. The move also reflects growing government pressure on the AI industry.",
-    "score": 0.85,
-    "tags": [
-      "regulação",
-      "agentes",
-      "FTC"
-    ],
-    "img": "img/47c113ba5cf0.jpg",
-    "ts": 1790376581,
-    "addedTs": 1790377098,
-    "urlHash": "47c113ba5cf0",
-    "titleHash": "a01b1dedeb01"
-  },
-  {
-    "title": "The Shift from Models to Compound AI Systems",
-    "titlePt": "A mudança de modelos para sistemas compostos de IA",
-    "url": "https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um artigo técnico discute como a indústria está migrando de modelos de IA isolados para sistemas compostos, que combinam múltiplos componentes. Essa abordagem busca melhorar desempenho e confiabilidade ao orquestrar diferentes modelos e ferramentas. Para desenvolvedores, é importante entender essa tendência porque ela influencia a arquitetura de aplicações modernas. A discussão está alinhada com o crescimento de agentes e fluxos multi-modelo no mercado. Vale a pena ler para quem planeja construir produtos de IA.",
-    "reasonEn": "A technical article discusses how the industry is moving from isolated AI models to compound systems that combine multiple components. This approach aims to improve performance and reliability by orchestrating different models and tools. For developers, it's important to understand this trend because it influences the architecture of modern applications. The discussion aligns with the growth of agents and multi-model workflows in the market. Worth reading for anyone planning to build AI products.",
-    "score": 0.55,
-    "tags": [
-      "arquitetura",
-      "agentes",
-      "tendência"
-    ],
-    "img": "img/21e41c09896d.jpg",
-    "ts": 1790376215,
-    "addedTs": 1790377098,
-    "urlHash": "21e41c09896d",
-    "titleHash": "a56a22391448"
-  },
-  {
-    "title": "Show HN: NerfWatch() – Track AI degradation with daily tests and community votes",
-    "titlePt": "NerfWatch: ferramenta rastreia degradação de IA com testes diários",
-    "url": "https://nerfwatch.lol",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O NerfWatch é uma nova ferramenta da comunidade Hacker News que monitora a degradação de modelos de IA ao longo do tempo. Ele executa uma bateria de testes diários e permite que usuários votem na qualidade das respostas. A ideia é detectar quando um modelo começa a regredir ou a se comportar de forma estranha após atualizações. É útil para desenvolvedores e equipes que dependem de APIs de IA em produção e precisam de visibilidade sobre mudanças silenciosas de comportamento.",
-    "reasonEn": "NerfWatch is a new Hacker News community tool that tracks AI model degradation over time. It runs a daily battery of tests and lets users vote on response quality. The goal is to detect when a model starts regressing or behaving strangely after updates. It's useful for developers and teams relying on AI APIs in production who need visibility into silent behavior changes.",
-    "score": 0.55,
-    "tags": [
-      "ferramenta",
-      "modelo",
-      "qualidade"
-    ],
-    "img": "img/28e3fdb6bf17.jpg",
-    "ts": 1790371272,
-    "addedTs": 1790377098,
-    "urlHash": "28e3fdb6bf17",
-    "titleHash": "e80c27ae5c9e"
-  },
-  {
-    "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
-    "titlePt": "Ricursive Intelligence: quando a IA começa a projetar seu próprio hardware",
-    "url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "Anna Goldie e Azalia Mirhoseini, fundadoras da Ricursive Intelligence, discutiram no TechCrunch Disrupt o futuro do design de hardware feito por IA. A empresa trabalha com sistemas que usam inteligência artificial para criar chips e componentes cada vez mais otimizados. O tema levanta questões profundas sobre o ciclo em que máquinas passam a projetar suas próprias sucessoras. A conversa é uma prévia do que esperar nos próximos anos da indústria de semicondutores.",
-    "reasonEn": "Anna Goldie and Azalia Mirhoseini, founders of Ricursive Intelligence, discussed the future of AI-designed hardware at TechCrunch Disrupt. The company works on systems that use AI to create increasingly optimized chips and components. The topic raises deep questions about the cycle in which machines start designing their own successors. The conversation is a preview of what to expect in the semiconductor industry in coming years.",
-    "score": 0.5,
-    "tags": [
-      "hardware",
-      "agente",
-      "entrevista"
-    ],
-    "img": "img/439dcfde53e4.jpg",
-    "ts": 1790348400,
-    "addedTs": 1790377098,
-    "urlHash": "439dcfde53e4",
-    "titleHash": "fadeaeac8912"
   }
 ]
