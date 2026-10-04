@@ -1,5 +1,194 @@
 [
   {
+    "title": "AI's 'Thought' Process Can No Longer Be Trusted",
+    "titlePt": "O 'pensamento' da IA não pode mais ser confiável",
+    "url": "https://www.wsj.com/tech/ai/ai-monitoring-chain-of-thought-research-b46a05fd",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo discute como os processos internos dos modelos de IA ficaram menos interpretáveis, dificultando confiar nas explicações que eles próprios geram. Isso é relevante para desenvolvedores que usam modelos em produtos críticos e precisam entender por que uma decisão foi tomada. A tendência aponta para a necessidade de novas ferramentas de auditoria. Quem depende de LLMs em produção deve ficar atento.",
+    "reasonEn": "The article discusses how the internal processes of AI models have become less interpretable, making it harder to trust the explanations they generate themselves. This matters for developers using models in critical products who need to understand why a decision was made. The trend points to the need for new auditing tools. Anyone relying on LLMs in production should pay attention.",
+    "score": 0.7,
+    "tags": [
+      "interpretabilidade",
+      "segurança"
+    ],
+    "img": "img/f5c789546e35.jpg",
+    "ts": 1791118605,
+    "addedTs": 1791120871,
+    "urlHash": "f5c789546e35",
+    "titleHash": "ed60ca400723"
+  },
+  {
+    "title": "Harden Your AI Agent",
+    "titlePt": "Como blindar seu agente de IA contra ataques",
+    "url": "https://sometechblog.com/harden-your-ai-agent",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O material traz orientações práticas para reforçar a segurança de agentes autônomos de IA. Cobre vetores comuns como injeção de prompt, exfiltração de dados e ações fora do escopo permitido. É leitura essencial para quem coloca agentes em produção com acesso a sistemas reais. Erros aqui podem gerar incidentes sérios em clientes e empresas.",
+    "reasonEn": "The material offers practical guidance to harden autonomous AI agents against attacks. It covers common vectors like prompt injection, data exfiltration, and out-of-scope actions. It's essential reading for anyone deploying agents in production with access to real systems. Mistakes here can lead to serious incidents for customers and businesses.",
+    "score": 0.7,
+    "tags": [
+      "segurança",
+      "agentes"
+    ],
+    "img": "img/5e9f10d23b25.jpg",
+    "ts": 1791117993,
+    "addedTs": 1791120871,
+    "urlHash": "5e9f10d23b25",
+    "titleHash": "808a724db296"
+  },
+  {
+    "title": "Fighting AI slop in science papers",
+    "titlePt": "Combatendo o lixo de IA em artigos científicos",
+    "url": "https://www.unite.ai/fighting-ai-slop-in-science-papers/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A discussão aborda o aumento de textos científicos gerados ou polidos por IA, com problemas de qualidade e originalidade. Editores e revisores relatam dificuldade crescente em filtrar esses conteúdos. Para a comunidade acadêmica, é um alerta sobre integridade científica. Pesquisadores e leitores precisam de mais atenção ao consumir papers novos.",
+    "reasonEn": "The discussion addresses the rise of AI-generated or AI-polished scientific texts with quality and originality issues. Editors and reviewers report growing difficulty in filtering this content. For the academic community, it's a warning about scientific integrity. Researchers and readers need to be more careful when consuming new papers.",
+    "score": 0.6,
+    "tags": [
+      "academia",
+      "integridade"
+    ],
+    "img": "img/1002d74a0a01.jpg",
+    "ts": 1791116820,
+    "addedTs": 1791120871,
+    "urlHash": "1002d74a0a01",
+    "titleHash": "2dfaf987fd90"
+  },
+  {
+    "title": "98% of US households aren't paying for AI yet",
+    "titlePt": "98% dos lares americanos ainda não pagam por IA",
+    "url": "https://www.a16z.news/p/state-of-markets-ii",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O dado mostra que, apesar do hype, a monetização direta de IA com consumidores ainda é minoria nos EUA. Reforça que o mercado B2B e os gastos de infraestrutura são hoje o motor real da indústria. Para quem trabalha com produto, isso indica que a corrida por assinaturas pessoais ainda tem muito espaço. Ajuda a calibrar expectativas de receita em produtos de IA voltados ao consumidor final.",
+    "reasonEn": "The data shows that despite the hype, direct AI monetization with consumers is still a minority in the US. It reinforces that the B2B market and infrastructure spending are today's real industry engine. For product people, it indicates the race for personal subscriptions still has lots of room. It helps calibrate revenue expectations for consumer-facing AI products.",
+    "score": 0.7,
+    "tags": [
+      "mercado",
+      "negócios"
+    ],
+    "img": "img/d32363acce41.jpg",
+    "ts": 1791116173,
+    "addedTs": 1791120871,
+    "urlHash": "d32363acce41",
+    "titleHash": "77afab03c55d"
+  },
+  {
+    "title": "AI Tells: Opus 5.5 Update",
+    "titlePt": "Opus 5.5: nova atualização do modelo da Anthropic",
+    "url": "https://graphite.io/five-percent/research/ai-tells-opus-5-5-update",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Há indícios de uma nova versão do modelo Claude Opus, marcada como 5.5. Atualizações de fronteira impactam preços, capacidade e ferramentas disponíveis para desenvolvedores. Vale acompanhar benchmarks e limites da nova versão antes de migrar cargas em produção. A comunidade técnica está testando o modelo em tarefas reais.",
+    "reasonEn": "There are signs of a new version of the Claude Opus model, marked as 5.5. Frontier updates affect prices, capability, and tools available to developers. It's worth following benchmarks and limits of the new version before migrating production workloads. The technical community is testing the model on real tasks.",
+    "score": 0.7,
+    "tags": [
+      "modelo",
+      "lançamento"
+    ],
+    "img": "img/80ae5a8d0e54.jpg",
+    "ts": 1791115442,
+    "addedTs": 1791120871,
+    "urlHash": "80ae5a8d0e54",
+    "titleHash": "62f3435433aa"
+  },
+  {
+    "title": "Asia-Pacific Journal Series – Introduction: Military AI Has Left the Laboratory",
+    "titlePt": "IA militar já deixou os laboratórios",
+    "url": "https://lieber.westpoint.edu/asia-pacific-ai-series-introduction-military-ai-has-left-laboratory/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A série do Asia-Pacific Journal discute a transição de sistemas de IA militar da pesquisa para uso operacional. O tema afeta geopolítica, defesa e também empresas de tecnologia com contratos governamentais. Para o público geral, é um lembrete de que a corrida armamentista em IA já está em campo. Desenvolvedores que trabalham com clientes sensíveis devem considerar implicações éticas e regulatórias.",
+    "reasonEn": "The Asia-Pacific Journal series discusses the transition of military AI systems from research to operational use. The topic affects geopolitics, defense, and also tech companies with government contracts. For the general public, it's a reminder that the AI arms race is already on the field. Developers working with sensitive clients should consider ethical and regulatory implications.",
+    "score": 0.5,
+    "tags": [
+      "militar",
+      "geopolítica"
+    ],
+    "img": "img/c2c1893f6e4e.jpg",
+    "ts": 1791113961,
+    "addedTs": 1791120871,
+    "urlHash": "c2c1893f6e4e",
+    "titleHash": "e37c07dfd929"
+  },
+  {
+    "title": "AI Policy Enforcement Report",
+    "titlePt": "Relatório de fiscalização de políticas de IA",
+    "url": "https://delinea.com/resources/ai-policy-enforcement-report",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O relatório analisa como empresas e governos estão aplicando (ou ignorando) políticas de uso de IA. Traz dados sobre incidentes, queixas e lacunas regulatórias. É leitura útil para profissionais de compliance, jurídico e produto. Ajuda a antecipar riscos e entender tendências regulatórias em diferentes jurisdições.",
+    "reasonEn": "The report analyzes how companies and governments are applying (or ignoring) AI usage policies. It brings data on incidents, complaints, and regulatory gaps. It's useful reading for compliance, legal, and product professionals. It helps anticipate risks and understand regulatory trends across jurisdictions.",
+    "score": 0.5,
+    "tags": [
+      "regulação",
+      "política"
+    ],
+    "img": "img/33e89db42077.jpg",
+    "ts": 1791111301,
+    "addedTs": 1791120871,
+    "urlHash": "33e89db42077",
+    "titleHash": "83ce68edb19f"
+  },
+  {
+    "title": "NIST AI SEC Core",
+    "titlePt": "NIST publica núcleo de segurança para sistemas de IA",
+    "url": "https://airc.nist.gov/airmf-resources/airmf/5-sec-core/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O NIST lançou um núcleo de práticas de segurança especificamente para sistemas de IA, buscando padronizar controles. É referência importante para empresas que precisam atender clientes corporativos e governos. Desenvolvedores devem usar como checklist ao desenhar e operar sistemas. Ajuda a alinhar equipes técnicas e de segurança em torno de boas práticas.",
+    "reasonEn": "NIST released a core of security practices specifically for AI systems, seeking to standardize controls. It's an important reference for companies serving enterprise and government clients. Developers should use it as a checklist when designing and operating systems. It helps align technical and security teams around best practices.",
+    "score": 0.7,
+    "tags": [
+      "segurança",
+      "regulação"
+    ],
+    "img": "img/10dea8f1112a.jpg",
+    "ts": 1791106661,
+    "addedTs": 1791120871,
+    "urlHash": "10dea8f1112a",
+    "titleHash": "3168f18f46a9"
+  },
+  {
+    "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+    "titlePt": "Jas Khaira, da Blackstone, fala sobre os próximos gigantes da IA",
+    "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "No TechCrunch Disrupt 2026, o investidor da Blackstone discutiu o que define as próximas grandes empresas de IA. A conversa mistura estratégia, capital e timing de mercado. Para fundadores e operadores, dá um termômetro de como o capital de risco enxerga o setor. Para o público geral, é mais uma peça no mosaico do momento atual da IA.",
+    "reasonEn": "At TechCrunch Disrupt 2026, the Blackstone investor discussed what defines the next big AI companies. The talk mixes strategy, capital, and market timing. For founders and operators, it gives a thermometer of how venture capital sees the sector. For the general public, it's another piece in the mosaic of the current AI moment.",
+    "score": 0.5,
+    "tags": [
+      "negócios",
+      "investimento"
+    ],
+    "img": "img/886b2bd43a36.jpg",
+    "ts": 1790962325,
+    "addedTs": 1791120871,
+    "urlHash": "886b2bd43a36",
+    "titleHash": "6fae4f84e260"
+  },
+  {
     "title": "Let AI agents use your site with 3 HTML attributes",
     "titlePt": "Deixe agentes de IA usarem seu site com apenas 3 atributos HTML",
     "url": "https://markodenic.tech/let-ai-agents-use-your-site-with-3-html-attributes/",
@@ -6624,132 +6813,5 @@
     "addedTs": 1790531976,
     "urlHash": "c97fc0583795",
     "titleHash": "3b765dbab42f"
-  },
-  {
-    "title": "Your AI Agent Forgot Half of What You Told It",
-    "titlePt": "Seu agente de IA esquece metade do que você disse",
-    "url": "https://www.oreilly.com/radar/your-ai-agent-already-forgot-half-of-what-you-told-it/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Agentes de IA frequentemente perdem contexto importante entre conversas, obrigando usuários a repetir informações. O artigo discute por que isso acontece e quais são as limitações atuais de memória. Pesquisadores propõem soluções, mas nenhuma resolve o problema de forma completa. Desenvolvedores que dependem desses agentes precisam estar cientes dessa falha. Para usuários finais, isso significa ajustar expectativas e documentar informações importantes externamente.",
-    "reasonEn": "AI agents often lose important context between conversations, forcing users to repeat information. The article discusses why this happens and what the current memory limitations are. Researchers propose solutions, but none fully solve the problem. Developers who depend on these agents need to be aware of this flaw. For end users, it means adjusting expectations and keeping external notes.",
-    "score": 0.75,
-    "tags": [
-      "agente",
-      "memória"
-    ],
-    "img": "img/42ad5ec1202f.jpg",
-    "ts": 1790514946,
-    "addedTs": 1790515513,
-    "urlHash": "42ad5ec1202f",
-    "titleHash": "0290be856611"
-  },
-  {
-    "title": "Human-AI partnerships are for alignment, not capability",
-    "titlePt": "Parcerias humano-IA visam alinhamento, não capacidade",
-    "url": "https://www.seangoedecke.com/human-ai-partnerships-are-for-alignment-not-capability/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo defende que o principal benefício da colaboração humano-IA é manter os sistemas alinhados aos valores humanos. Não se trata de ampliar capacidades, mas de garantir controle ético sobre as decisões automatizadas. A discussão é relevante para empresas que implantam IA em processos críticos. Reforça a ideia de que segurança vem antes de potência bruta. É um contraponto à narrativa de que IA mais inteligente é sempre melhor.",
-    "reasonEn": "The article argues that the main benefit of human-AI collaboration is keeping AI aligned with human values. It's not about expanding capabilities, but ensuring ethical control. The discussion is relevant for companies deploying AI in critical decisions. Reinforces the idea that safety comes before raw power. It's a counterpoint to the narrative that smarter AI is always better.",
-    "score": 0.5,
-    "tags": [
-      "alinhamento",
-      "ética"
-    ],
-    "img": "img/62716397a9de.jpg",
-    "ts": 1790514278,
-    "addedTs": 1790515513,
-    "urlHash": "62716397a9de",
-    "titleHash": "176108fc1e48"
-  },
-  {
-    "title": "AI Doesn't Need to Invent a Supervirus to Be Dangerous",
-    "titlePt": "IA não precisa inventar supervírus para ser perigosa",
-    "url": "https://liorzi.substack.com/p/ai-doesnt-need-to-invent-a-supervirus",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O texto lembra que os danos reais da IA não dependem de cenários extremos de bioterrorismo. Desinformação, viés algorítmico e automação de processos críticos já causam prejuízos concretos no dia a dia. É um alerta direto para gestores e formuladores de políticas públicas. Mostra que ameaças cotidianas merecem tanta atenção quanto ficção científica. A mensagem central é não subestimar riscos que já estão entre nós.",
-    "reasonEn": "The text reminds that real AI harms don't depend on extreme bioterrorism scenarios. Disinformation, algorithmic bias, and automation of critical processes already cause concrete damage daily. It's a direct warning for managers and policymakers. Shows that everyday threats deserve as much attention as science fiction. The central message is not to underestimate risks already among us.",
-    "score": 0.6,
-    "tags": [
-      "segurança",
-      "riscos"
-    ],
-    "img": "img/59be227bb119.jpg",
-    "ts": 1790513866,
-    "addedTs": 1790515513,
-    "urlHash": "59be227bb119",
-    "titleHash": "a2c1fedc96bb"
-  },
-  {
-    "title": "Show HN: Augur – Sandboxed macOS VMs with Xcode for AI Coding Agents",
-    "titlePt": "Augur: VMs macOS isoladas para agentes de código com IA",
-    "url": "https://github.com/h1d3mun3/augur",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Augur é uma ferramenta que cria máquinas virtuais macOS isoladas com Xcode pré-instalado, voltadas para agentes de IA que programam. Permite testar código gerado em ambiente seguro e descartável. Reduz o risco de danos ao sistema do desenvolvedor durante a execução. Útil para quem usa IA para gerar código em escala e precisa de confiável. Mostra a maturidade crescente do ecossistema de ferramentas para agentes.",
-    "reasonEn": "Augur is a tool that creates isolated macOS virtual machines with Xcode pre-installed, aimed at AI coding agents. It allows testing generated code in a safe, disposable environment. Reduces the risk of damage to the developer's system during execution. Useful for those using AI to generate code at scale and need reliable isolation. Shows the growing maturity of the agent tooling ecosystem.",
-    "score": 0.65,
-    "tags": [
-      "agente",
-      "ferramenta",
-      "código"
-    ],
-    "img": "img/a7381c6a5f06.jpg",
-    "ts": 1790513527,
-    "addedTs": 1790515513,
-    "urlHash": "a7381c6a5f06",
-    "titleHash": "63a7143ce49a"
-  },
-  {
-    "title": "Understanding the Four AI Risk Domains",
-    "titlePt": "Os quatro domínios de risco da IA, explicados",
-    "url": "https://sdarchitect.blog/2026/09/27/ai-risk-a-users-guide-part-iv-understanding-the-four-ai-risk-domains/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo propõe quatro categorias para classificar os riscos da inteligência artificial de forma estruturada. Ajuda equipes e gestores a pensar em mitigação com prioridades claras. A taxonomia facilita a comunicação entre áreas técnicas e de negócios dentro das empresas. É um recurso útil para quem precisa justificar investimentos em segurança de IA. Fornece uma linguagem comum para discutir o tema em diferentes níveis.",
-    "reasonEn": "The article proposes four categories to classify AI risks in a structured way. Helps teams and managers think about mitigation with clear priorities. The taxonomy facilitates communication between technical and business areas within companies. Useful resource for those needing to justify AI security investments. Provides common language to discuss the topic at different levels.",
-    "score": 0.5,
-    "tags": [
-      "segurança",
-      "riscos"
-    ],
-    "img": "img/69179669a572.jpg",
-    "ts": 1790512259,
-    "addedTs": 1790515513,
-    "urlHash": "69179669a572",
-    "titleHash": "c851f3914a33"
-  },
-  {
-    "title": "Andrew Ng: One Skill to Stay Relevant in the Age of AI [video]",
-    "titlePt": "Andrew Ng: a habilidade para sobreviver à era da IA",
-    "url": "https://www.youtube.com/watch?v=HTlf3KNNez0",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Andrew Ng apresenta em vídeo a habilidade que considera essencial para profissionais na era da IA. A mensagem central é priorizar adaptabilidade e aprendizado contínuo em vez de especialização rígida. Mais do que dominar uma tecnologia específica, o importante é aprender a aprender rápido. A dica é útil para desenvolvedores e gestores em transição de carreira. Curto, direto e com o peso de uma referência mundial em IA.",
-    "reasonEn": "Andrew Ng presents in video the skill he considers essential for professionals in the AI era. The central message is to prioritize adaptability and continuous learning over rigid specialization. More than mastering a specific technology, the important thing is learning to learn quickly. The tip is useful for developers and managers in career transition. Short, direct, with the weight of a global AI reference.",
-    "score": 0.6,
-    "tags": [
-      "carreira",
-      "aprendizado"
-    ],
-    "img": "img/b4deca8727b0.jpg",
-    "ts": 1790512146,
-    "addedTs": 1790515513,
-    "urlHash": "b4deca8727b0",
-    "titleHash": "147591454610"
   }
 ]
