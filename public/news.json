@@ -1,5 +1,326 @@
 [
   {
+    "title": "ERC-8350: an on-chain standard for verifiable AI memory state",
+    "titlePt": "ERC-8350: padrão on-chain para memória verificável de IA",
+    "url": "https://eips.ethereum.org/EIPS/eip-8350",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Foi apresentado o ERC-8350, um padrão em blockchain para registrar e comprovar o estado de memória de agentes de IA. A ideia é permitir que outros sistemas verifiquem de forma descentralizada o que um agente aprendeu ou armazenou. Importa para quem constrói agentes e precisa de auditoria. Pode interessar a desenvolvedores de Web3 e IA.",
+    "reasonEn": "ERC-8350 was proposed as an on-chain standard for verifiable AI memory state. It lets anyone audit what an AI agent has stored or learned using blockchain proofs. This matters for builders of autonomous agents who need trustworthy records. Web3 and AI developers will find it most relevant.",
+    "score": 0.5,
+    "tags": [
+      "web3",
+      "agentes",
+      "blockchain"
+    ],
+    "img": "img/e499abf761c6.jpg",
+    "ts": 1791282612,
+    "addedTs": 1791284404,
+    "urlHash": "e499abf761c6",
+    "titleHash": "22143b334e50"
+  },
+  {
+    "title": "The AI-pilled engineer: most in demand, most exhausted [video]",
+    "titlePt": "O engenheiro viciado em IA: mais procurado e mais exausto",
+    "url": "https://www.youtube.com/watch?v=BIfjZZoXeb4",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um vídeo que retrata o perfil do engenheiro totalmente envolvido com IA, muito demandado no mercado mas também esgotado. Discute pressão, produtividade e os efeitos do hype sobre times técnicos. Serve para líderes de engenharia e profissionais da área. Toca em saúde mental e cultura de trabalho.",
+    "reasonEn": "A video profile of the AI-pilled engineer who is the most in demand and most burned out. It explores the pressure, productivity expectations and toll of working in the current AI boom. Useful for engineering managers and tech workers. Touches on mental health and work culture.",
+    "score": 0.5,
+    "tags": [
+      "trabalho",
+      "cultura"
+    ],
+    "img": "img/07db553838c7.jpg",
+    "ts": 1791282272,
+    "addedTs": 1791284404,
+    "urlHash": "07db553838c7",
+    "titleHash": "422a1b4684e6"
+  },
+  {
+    "title": "Peter Norvig on AI's Future and the Limits of Trust",
+    "titlePt": "Peter Norvig sobre o futuro da IA e os limites da confiança",
+    "url": "https://www.turingpost.com/p/peter-norvig-on-ai-s-future-and-the-limits-of-trust",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Peter Norvig, referência clássica em IA, fala sobre os rumos da área e onde está o limite do que se deve esperar das máquinas. Discute confiança, expectativas infladas e caminhos realistas. Importa para qualquer pessoa que queira uma visão experiente. Boa leitura para devs e gestores.",
+    "reasonEn": "AI veteran Peter Norvig shares thoughts on where the field is heading and how much trust we should place in AI systems. He discusses inflated expectations and realistic paths forward. Useful for developers, managers and curious readers. A grounded take from a respected voice.",
+    "score": 0.6,
+    "tags": [
+      "entrevista",
+      "visão"
+    ],
+    "img": "img/26fd2e3106c3.jpg",
+    "ts": 1791279928,
+    "addedTs": 1791284404,
+    "urlHash": "26fd2e3106c3",
+    "titleHash": "c82d596fa2ff"
+  },
+  {
+    "title": "Seagate and Toshiba bid for TDK's HDD head unit amid AI storage boom",
+    "titlePt": "Seagate e Toshiba disputam unidade de cabeças de HD da TDK",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-06/seagate-is-said-to-battle-toshiba-for-tdk-s-hard-drive-head-unit",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Seagate e Toshiba estão fazendo propostas para comprar a divisão de cabeças de disco rígido da TDK, impulsionadas pela alta demanda de armazenamento para IA. Mostra como o boom de IA pressiona toda a cadeia de hardware, não só chips. Importante para entender gargalos do setor. Afeta custos de infraestrutura.",
+    "reasonEn": "Seagate and Toshiba are bidding to buy TDK's hard disk head unit as AI-driven storage demand surges. It highlights how the AI boom is stressing the entire hardware supply chain, not just chips. Useful for understanding infrastructure bottlenecks. May affect storage costs ahead.",
+    "score": 0.6,
+    "tags": [
+      "hardware",
+      "armazenamento",
+      "deal"
+    ],
+    "img": "img/fad8fc24e978.jpg",
+    "ts": 1791277259,
+    "addedTs": 1791284404,
+    "urlHash": "fad8fc24e978",
+    "titleHash": "61c0dd7882e8"
+  },
+  {
+    "title": "My New Course at UT Austin: AI Alignment Theory",
+    "titlePt": "Novo curso na UT Austin: Teoria de Alinhamento de IA",
+    "url": "https://scottaaronson.blog/?p=10125",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O pesquisador lança na Universidade do Texas em Austin um curso sobre teoria de alinhamento de IA. Aborda como garantir que sistemas de IA sigam objetivos humanos de forma segura. Serve para estudantes e profissionais que buscam formação acadêmica. Mostra que o tema ganha espaço nas universidades.",
+    "reasonEn": "A new AI alignment theory course is launching at the University of Texas at Austin. It covers how to keep AI systems aligned with human goals safely. Useful for students and professionals seeking academic depth. Signals alignment is becoming a serious academic field.",
+    "score": 0.5,
+    "tags": [
+      "educação",
+      "alinhamento"
+    ],
+    "img": "img/6b62d0cb7047.jpg",
+    "ts": 1791276593,
+    "addedTs": 1791284404,
+    "urlHash": "6b62d0cb7047",
+    "titleHash": "b7abc9ea2784"
+  },
+  {
+    "title": "A comprehensive comparison of the main OSS semantic layers",
+    "titlePt": "Comparação completa das principais camadas semânticas open source",
+    "url": "https://motley.ai/blog-posts/four-open-source-semantic-layers-54-capabilities/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um guia técnico comparando as principais camadas semânticas de código aberto do mercado. Ajuda arquitetos e engenheiros a escolher entre opções para busca, RAG e agentes. Mostra prós, contras e casos de uso. Importa para quem monta sistemas com LLM em produção.",
+    "reasonEn": "A technical comparison of the leading open-source semantic layers available today. It helps engineers pick the right option for search, RAG and agents. Covers trade-offs and ideal use cases. Important for anyone building production LLM systems.",
+    "score": 0.6,
+    "tags": [
+      "open-source",
+      "comparação"
+    ],
+    "img": "img/ccde0f76cd01.jpg",
+    "ts": 1791276304,
+    "addedTs": 1791284404,
+    "urlHash": "ccde0f76cd01",
+    "titleHash": "e8f26a9cc9da"
+  },
+  {
+    "title": "Two Types of AI Agents",
+    "titlePt": "Dois tipos de agentes de IA",
+    "url": "https://matthiasplappert.com/blog/2026/two-agent-types/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um texto curto que distingue dois perfis de agentes de IA, separando por capacidade ou nível de autonomia. Ajuda a entender como diferentes arquiteturas agem no mercado. Útil para quem está começando a estudar agentes. Leitura rápida e didática.",
+    "reasonEn": "A short piece that distinguishes two types of AI agents by capability or autonomy. It clarifies the terminology used across the field. Useful for newcomers building or evaluating agents. A short, didactic read.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "conceito"
+    ],
+    "img": "img/15347b1690bf.jpg",
+    "ts": 1791273943,
+    "addedTs": 1791284404,
+    "urlHash": "15347b1690bf",
+    "titleHash": "c7446db86520"
+  },
+  {
+    "title": "Everyone Is Marketing with AI, and Nobody Is Listening",
+    "titlePt": "Todos vendem com IA, ninguém está ouvindo",
+    "url": "https://www.vincentschmalbach.com/everyone-is-marketing-with-ai-nobody-is-listening/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo critica o fato de que empresas estão enchendo o mercado de marketing gerado por IA, criando ruído e fadiga. Argumenta que isso dilui mensagens e afeta consumidores. Importa para profissionais de marketing, comunicação e fundadores. Toca em saturação do conteúdo por IA.",
+    "reasonEn": "The piece argues that companies are flooding channels with AI-generated marketing, creating noise and listener fatigue. It says the messages are losing impact as a result. Relevant for marketers, founders and comms leaders. Highlights AI content saturation.",
+    "score": 0.7,
+    "tags": [
+      "marketing",
+      "crítica"
+    ],
+    "img": "img/f27046eab149.jpg",
+    "ts": 1791273023,
+    "addedTs": 1791284404,
+    "urlHash": "f27046eab149",
+    "titleHash": "0d2421946748"
+  },
+  {
+    "title": "German Bundeswehr Uses AI to Screen Applicants for Right-Wing Extremism",
+    "titlePt": "Bundeswehr alemã usa IA para detectar extremismo em candidatos",
+    "url": "https://news.osna.fm/german-military-intelligence-uses-ai-to-screen-bundeswehr-applicants-for-right-wing-extremism/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "As Forças Armadas alemãs estão usando IA para analisar candidatos e identificar sinais de extremismo de direita. Levanta questões sérias sobre privacidade, viés algorítmico e uso militar. Importa para qualquer pessoa interessada em ética e regulação de IA. Pode servir de precedente em outros países.",
+    "reasonEn": "Germany's Bundeswehr is screening applicants with AI to flag potential far-right extremism. It raises serious concerns about privacy, algorithmic bias and military use of AI. Relevant for anyone tracking AI ethics and regulation. Could set a precedent elsewhere.",
+    "score": 0.8,
+    "tags": [
+      "regulação",
+      "ética",
+      "militar"
+    ],
+    "img": "img/dd902667a0b4.jpg",
+    "ts": 1791272947,
+    "addedTs": 1791284404,
+    "urlHash": "dd902667a0b4",
+    "titleHash": "dca2c64f971d"
+  },
+  {
+    "title": "'Pull the plug': protesters resort to direct action against AI firms",
+    "titlePt": "Protestos com ação direta contra empresas de IA",
+    "url": "https://www.theguardian.com/technology/2026/oct/06/pull-the-plug-protesters-resort-to-direct-action-against-ai-firms",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Ativistas estão recorrendo a ações diretas contra empresas de IA, indo além de protestos tradicionais. Sinaliza escalada do conflito entre críticos e o setor. Importa para fundadores, equipes jurídicas e profissionais de comunicação. Tende a crescer se a percepção pública piorar.",
+    "reasonEn": "Protesters are escalating to direct action against AI firms, going beyond traditional demonstrations. It shows the conflict between critics and the industry is intensifying. Relevant for founders, legal and comms teams. Likely to grow if public sentiment worsens.",
+    "score": 0.6,
+    "tags": [
+      "protesto",
+      "ética"
+    ],
+    "img": "img/92ec27a4ebef.jpg",
+    "ts": 1791272782,
+    "addedTs": 1791284404,
+    "urlHash": "92ec27a4ebef",
+    "titleHash": "a13747fab9dd"
+  },
+  {
+    "title": "Show HN: Manage Skills, Memories, and Agents.md Files Across Tools and Projects",
+    "titlePt": "Gerencie habilidades, memórias e arquivos de agentes em vários projetos",
+    "url": "https://github.com/mjalalimanesh/skillhub-local",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma ferramenta para organizar de forma centralizada arquivos de habilidades, memórias e configurações de agentes de IA em diferentes projetos e ambientes. Resolve um problema real de desenvolvedores que trabalham com múltiplos agentes. Mostra amadurecimento do ecossistema de agentes.",
+    "reasonEn": "A tool to centrally manage skills, memories and configuration files for AI agents across tools and projects. It addresses a growing pain for developers juggling multiple agents. Signals the agent ecosystem is maturing.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "ferramenta"
+    ],
+    "img": "img/707de8e4457d.jpg",
+    "ts": 1791272126,
+    "addedTs": 1791284404,
+    "urlHash": "707de8e4457d",
+    "titleHash": "fbd5f55a5738"
+  },
+  {
+    "title": "SPUR: New standard for tracking AI tools' use of publishers' content",
+    "titlePt": "SPUR: novo padrão para rastrear uso de conteúdo por ferramentas de IA",
+    "url": "https://digiday.com/media/spur-publishes-ai-content-tracking-standard-pitches-openai-and-google-to-join-advisory-board/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Editores propõem o SPUR, um padrão aberto para que veículos possam acompanhar como seu conteúdo é usado por sistemas de IA. Visa dar transparência e permitir cobrança ou bloqueio. Importa para publishers, desenvolvedores de IA e. Pode mudar a relação entre IA e mídia.",
+    "reasonEn": "Publishers are proposing an open protocol that lets outlets monitor how their material is consumed by AI products. It aims to support payment or attribution flows. Impacts AI developers, publishers and regulators. Could reshape the AI-media relationship.",
+    "score": 0.7,
+    "tags": [
+      "regulação",
+      "mídia",
+      "padrão"
+    ],
+    "img": "img/fc0cb2ef31c4.jpg",
+    "ts": 1791271754,
+    "addedTs": 1791284404,
+    "urlHash": "fc0cb2ef31c4",
+    "titleHash": "672d74124ca7"
+  },
+  {
+    "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+    "titlePt": "Falcon-Emirati: LLM treinado no dialeto e cultura dos Emirados",
+    "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "Foi lançado o Falcon-Emirati, um modelo de linguagem grande treinado especificamente no dialeto e nuances culturais dos Emirados Árabes. Mostra a tendência de modelos regionalizados e culturalmente adaptados. Importa para quem trabalha com localização e multilíngue. Sinaliza fragmentação dos modelos globais.",
+    "reasonEn": "Falcon-Emirati is a new LLM trained on Emirati dialect and local culture. It reflects the trend of regionally and culturally tuned models. Relevant for anyone working on localization or multilingual AI. Signals fragmentation of global models.",
+    "score": 0.6,
+    "tags": [
+      "modelo",
+      "localização"
+    ],
+    "img": "img/fe424883c3ca.jpg",
+    "ts": 1791269079,
+    "addedTs": 1791284404,
+    "urlHash": "fe424883c3ca",
+    "titleHash": "dfdf1ff42521"
+  },
+  {
+    "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+    "titlePt": "IA aberta ou fechada? O dilema dos fundadores no TechCrunch Disrupt",
+    "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "Painel no TechCrunch Disrupt 2026 reúne fundadores discutindo se devem construir sobre modelos abertos ou fechados. Mostra dilemas de custo, lock-in e estratégia. Importa para qualquer pessoa construindo produtos com IA. Decisão central para o futuro próximo.",
+    "reasonEn": "A TechCrunch Disrupt 2026 panel has founders debating whether to build on open or closed AI models. It surfaces cost, strategy and lock-in trade-offs. Relevant for anyone shipping AI products. A core decision shaping the near future.",
+    "score": 0.7,
+    "tags": [
+      "open-source",
+      "estratégia",
+      "debate"
+    ],
+    "img": "img/fb4a44bb6384.jpg",
+    "ts": 1791212400,
+    "addedTs": 1791284404,
+    "urlHash": "fb4a44bb6384",
+    "titleHash": "efd2cd4f59d6"
+  },
+  {
+    "title": "Holo4: powering generalist computer-use agents",
+    "titlePt": "Holo4: novos agentes de computador no HuggingFace",
+    "url": "https://huggingface.co/blog/Hcompany/holo4",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "O HuggingFace publicou o Holo4, um novo modelo voltado a agentes de computador de uso geral. Esses agentes são capazes de controlar interfaces, clicar em botões e executar tarefas como um humano faria. O lançamento mostra o quanto a área de agentes autônomos está ficando mais prática. Desenvolvedores podem testar e integrar o modelo em seus sistemas. É mais uma opção no ecossistema crescente de agentes de IA.",
+    "reasonEn": "",
+    "score": 0.55,
+    "tags": [
+      "agentes",
+      "huggingface",
+      "modelo"
+    ],
+    "img": "img/09d1d26fa19d.jpg",
+    "ts": 1790588645,
+    "addedTs": 1791284404,
+    "urlHash": "09d1d26fa19d",
+    "titleHash": "7906ea34f2bd"
+  },
+  {
     "title": "Show HN: Moching – AI desktop agent with 219 built-in tools (Rust)",
     "titlePt": "Moching: agente de IA para desktop com 219 ferramentas em Rust",
     "url": "https://github.com/moching-ai-dev/moching",
@@ -6914,198 +7235,5 @@
     "addedTs": 1790702375,
     "urlHash": "bb5d8ce20bbb",
     "titleHash": "fd922e3b0e88"
-  },
-  {
-    "title": "Getting AI 'drunk' makes it more likely to break rules and share secrets",
-    "titlePt": "Deixar a IA 'bêbada' aumenta o risco de ela quebrar regras e vazar segredos",
-    "url": "https://www.abc.net.au/news/2026-09-29/drunk-ai-testing-unsw-research/107208104",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Pesquisadores mostraram que injetar ruído ou confusão no funcionamento de modelos de IA os torna mais propensos a violar regras e expor dados sensíveis. O estudo reforça a importância de proteger modelos contra manipulações adversariais. Afeta qualquer empresa que use IA em produção.",
-    "reasonEn": "Researchers showed that injecting noise or confusion into AI models makes them more likely to break rules and leak sensitive data. The study highlights the importance of protecting models against adversarial manipulation. It affects any company running AI in production.",
-    "score": 0.65,
-    "tags": [
-      "segurança",
-      "pesquisa"
-    ],
-    "img": "img/85a65cb897f0.jpg",
-    "ts": 1790674858,
-    "addedTs": 1790676923,
-    "urlHash": "85a65cb897f0",
-    "titleHash": "805c15ba843f"
-  },
-  {
-    "title": "AI companies leak data to advertisers [pdf]",
-    "titlePt": "Empresas de IA vazam dados para anunciantes",
-    "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Estudo em PDF revela que várias empresas de IA estão enviando dados de usuários para redes de anúncios sem consentimento claro. O vazamento afeta qualquer pessoa que use essas ferramentas, expondo hábitos e informações pessoais. É um alerta sério de privacidade que exige atenção de desenvolvedores e usuários.",
-    "reasonEn": "A PDF study reveals that several AI companies are sending user data to ad networks without clear consent. The leak affects anyone using these tools, exposing habits and personal information. It is a serious privacy warning that deserves attention from developers and users alike.",
-    "score": 0.8,
-    "tags": [
-      "privacidade",
-      "segurança"
-    ],
-    "img": "img/54b60c2eb49b.jpg",
-    "ts": 1790672621,
-    "addedTs": 1790676923,
-    "urlHash": "54b60c2eb49b",
-    "titleHash": "2e32bdfe0fb5"
-  },
-  {
-    "title": "China broadens travel curbs to encompass family of top AI talent",
-    "titlePt": "China amplia restrições de viagem para famílias de talentos de IA",
-    "url": "https://www.business-standard.com/world-news/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent-126092801465_1.html",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A China está expandindo sanções de viagem para incluir familiares de executivos e pesquisadores de IA. A medida intensifica a corrida geopolítica por talento em IA e pode afetar colaborações internacionais. Desenvolvedores e empresas com laços com a China devem acompanhar.",
-    "reasonEn": "China is expanding travel sanctions to include family members of AI executives and researchers. The move intensifies the geopolitical race for AI talent and may affect international collaborations. Developers and companies with ties to China should follow this closely.",
-    "score": 0.75,
-    "tags": [
-      "geopolítica",
-      "regulação"
-    ],
-    "img": "img/2af7129910db.jpg",
-    "ts": 1790670037,
-    "addedTs": 1790676923,
-    "urlHash": "2af7129910db",
-    "titleHash": "29c4a1a6c3a8"
-  },
-  {
-    "title": "Meta's new AI agent built lists of people in vulnerable groups on request",
-    "titlePt": "Agente de IA da Meta montou listas de grupos vulneráveis sob pedido",
-    "url": "https://hntrbrk.com/breaking-news/muse-doxxing",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O novo agente de IA da Meta foi capaz de criar listas de pessoas pertencentes a grupos vulneráveis quando solicitado. O episódio reacende o debate sobre segurança, viés e uso indevido de IA generativa em larga escala. Qualquer usuário de plataformas Meta está potencialmente exposto a esse tipo de ferramenta.",
-    "reasonEn": "Meta's new AI agent was able to compile lists of people in vulnerable groups when asked. The episode reignites the debate about safety, bias, and misuse of generative AI at scale. Any user of Meta platforms is potentially exposed to this kind of tool.",
-    "score": 0.92,
-    "tags": [
-      "segurança",
-      "ética"
-    ],
-    "img": "img/ce4292656cc9.jpg",
-    "ts": 1790669200,
-    "addedTs": 1790676923,
-    "urlHash": "ce4292656cc9",
-    "titleHash": "828745212752"
-  },
-  {
-    "title": "Anthropic&#8217;s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
-    "titlePt": "Prospecto da Anthropic detalha perdas, crescimento e alerta de risco existencial",
-    "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "Documentos da Anthropic revelam prejuízos bilionários acompanhados de forte crescimento de receita, além de um aviso raro de que sua própria IA poderia contribuir para o fim da humanidade. A combinação de fragilidade financeira e discurso de risco existencial chama atenção de investidores e do setor. Qualquer pessoa interessada no futuro da IA deve ler.",
-    "reasonEn": "Anthropic's filings reveal billion-dollar losses alongside strong revenue growth, plus a rare warning that its own AI could contribute to the end of humanity. The combination of financial fragility and existential risk rhetoric draws attention from investors and the industry. Anyone interested in AI's future should read this.",
-    "score": 0.85,
-    "tags": [
-      "anthropic",
-      "finanças"
-    ],
-    "img": "img/d22fa48862e8.jpg",
-    "ts": 1790658823,
-    "addedTs": 1790676923,
-    "urlHash": "d22fa48862e8",
-    "titleHash": "bf86c1967673"
-  },
-  {
-    "title": "Stealth Apart, Harm Together: Skill Cascading Attacks on Skill-Based Agent Systems",
-    "titlePt": "Ataques em cascata em sistemas de agentes baseados em habilidades",
-    "url": "https://arxiv.org/abs/2609.30383",
-    "source": "arXiv AI",
-    "sources": [
-      "arXiv AI"
-    ],
-    "reason": "O artigo mostra um novo tipo de ataque em que agentes de IA aparentemente inofensivos podem ser combinados para causar danos reais, mesmo que cada um pareça seguro isoladamente. É um alerta importante para quem implanta agentes com múltiplas habilidades, pois a análise individual pode não detectar o risco combinado. Times de segurança de IA devem revisar como validam sistemas compostos. O trabalho amplia o debate sobre segurança em agentes autônomos.",
-    "reasonEn": "The paper demonstrates a new attack where seemingly harmless AI agents can be combined to cause harm even if each one looks safe alone. It warns teams deploying multi-skill agents that individual safety checks may miss combined risks. AI security teams should rethink how they validate composed systems. The work expands the debate on agent safety.",
-    "score": 0.55,
-    "tags": [
-      "segurança",
-      "agentes",
-      "ataque"
-    ],
-    "img": "img/1e8785a0960c.jpg",
-    "ts": 1790654400,
-    "addedTs": 1790676923,
-    "urlHash": "1e8785a0960c",
-    "titleHash": "f7da08f811dc"
-  },
-  {
-    "title": "OpenAI reportedly ditches model over safety concerns",
-    "titlePt": "OpenAI supostamente descarta modelo por preocupações de segurança",
-    "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A OpenAI teria abandonado o lançamento de um modelo após alertas internos sobre riscos de segurança, segundo reportagem da TechCrunch. O caso mostra a tensão entre velocidade de lançamento e prudência em modelos avançados. Importa para desenvolvedores que dependem da OpenAI e para o debate sobre governança em IA. Pode afetar planos de produtos que esperavam novas versões.",
-    "reasonEn": "OpenAI reportedly shelved a model after internal safety concerns, according to TechCrunch. The case highlights the tension between launch speed and caution in advanced models. It matters for developers relying on OpenAI and for the AI governance debate. It may affect plans that expected new versions soon.",
-    "score": 0.85,
-    "tags": [
-      "openai",
-      "segurança",
-      "modelo"
-    ],
-    "img": "img/5e6a557ab268.jpg",
-    "ts": 1790638760,
-    "addedTs": 1790676923,
-    "urlHash": "5e6a557ab268",
-    "titleHash": "77370dec5228"
-  },
-  {
-    "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-    "titlePt": "AMD compra a World Labs por mais de 8 bilhões de dólares",
-    "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "A AMD anunciou a aquisição da World Labs, empresa de IA fundada por Fei-Fei Li, em um negócio avaliado em mais de 8 bilhões de dólares. O movimento mostra a corrida das fabricantes de chips para fortalecer ofertas em IA e competir com Nvidia. Impacta diretamente o mercado de GPUs, data centers e desenvolvedores que dependem de hardware acelerado. É uma das maiores aquisições do setor no ano.",
-    "reasonEn": "AMD announced it is acquiring World Labs, the AI company founded by Fei-Fei Li, in a deal worth over $8 billion. The move shows chip makers racing to strengthen AI offerings and compete with Nvidia. It directly affects GPUs, data centers, and developers depending on accelerated hardware. One of the largest acquisitions in the sector this year.",
-    "score": 0.9,
-    "tags": [
-      "amd",
-      "aquisição",
-      "hardware"
-    ],
-    "img": "img/721d3fef7b9b.jpg",
-    "ts": 1790631095,
-    "addedTs": 1790676923,
-    "urlHash": "721d3fef7b9b",
-    "titleHash": "8546e829631a"
-  },
-  {
-    "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-    "titlePt": "Modal Labs perto de levantar 750 milhões a valuation de 15,75 bilhões",
-    "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A provedora de inferência Modal Labs estaria próxima de fechar uma rodada de 750 milhões de dólares com valuation de 15,75 bilhões, segundo fontes da TechCrunch. O valor mostra demanda forte por infraestrutura de IA fora dos grandes hiperescaladores. Importa para startups e desenvolvedores que usam serviços de inferência. Sinaliza que o mercado de infraestrutura de IA segue aquecido.",
-    "reasonEn": "Inference provider Modal Labs is reportedly closing a $750M round at a $15.75B valuation, according to TechCrunch sources. The figure shows strong demand for AI infrastructure beyond the biggest hyperscalers. Relevant for startups and developers using inference services. Signals the AI infrastructure market remains hot.",
-    "score": 0.8,
-    "tags": [
-      "investimento",
-      "infraestrutura",
-      "modelo"
-    ],
-    "img": "img/60e195b06c19.jpg",
-    "ts": 1790630958,
-    "addedTs": 1790676923,
-    "urlHash": "60e195b06c19",
-    "titleHash": "5749d7a2ad28"
   }
 ]
