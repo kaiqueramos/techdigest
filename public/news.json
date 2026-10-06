@@ -1,5 +1,178 @@
 [
   {
+    "title": "Show HN: An AI agent runs ten web errands a day, every transcript published",
+    "titlePt": "Agente de IA faz dez tarefas na web por dia e publica todas as conversas",
+    "url": "https://agentability.org/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um projeto mostrado no Hacker News apresenta um agente de inteligência artificial que executa dez pequenas tarefas na internet todos os dias e publica a transcrição completa de cada uma. A ideia é mostrar exatamente o que o agente faz e diz, criando transparência total sobre o comportamento da IA. Isso importa para qualquer pessoa preocupada com o que agentes automatizados fazem em seu nome. O foco é em responsabilidade e abertura para a comunidade.",
+    "reasonEn": "A Hacker News project showcases an AI agent that runs ten small web errands every day and publishes the full transcript of each interaction. The goal is total transparency about what the agent does and says on a user's behalf. This matters to anyone worried about autonomous agents acting in their name. The focus is on accountability and openness for the community.",
+    "score": 0.55,
+    "tags": [
+      "agente",
+      "transparência"
+    ],
+    "img": "img/4331a2bb7d0f.jpg",
+    "ts": 1791324058,
+    "addedTs": 1791324148,
+    "urlHash": "4331a2bb7d0f",
+    "titleHash": "2e088b461bf4"
+  },
+  {
+    "title": "AI is going to run out of power",
+    "titlePt": "A inteligência artificial vai ficar sem energia para crescer",
+    "url": "https://www.transformernews.ai/p/ai-will-run-out-of-power",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma reportagem discute que o crescimento explosivo da demanda por eletricidade para treinar e rodar modelos de inteligência artificial pode ultrapassar em breve a oferta disponível. Os centros de dados já consomem quantidades enormes de energia, e a tendência piora com modelos cada vez maiores. Isso pode frear a expansão da IA ou obrigar o setor a buscar fontes de energia mais baratas e limpas. O tema interessa a todos, porque a conta de luz e o impacto ambiental estão em jogo.",
+    "reasonEn": "A report argues that the explosive growth in electricity demand to train and run AI models may soon exceed available supply. Data centers already consume massive amounts of power, and the trend worsens with ever-larger models. This could slow AI expansion or force the industry to find cheaper, cleaner energy sources. It matters to everyone because electricity bills and environmental impact are at stake.",
+    "score": 0.85,
+    "tags": [
+      "energia",
+      "infraestrutura"
+    ],
+    "img": "img/988448d8b117.jpg",
+    "ts": 1791323546,
+    "addedTs": 1791324148,
+    "urlHash": "988448d8b117",
+    "titleHash": "ce57db2c9523"
+  },
+  {
+    "title": "Sulcus – observe and control AI agents while they run",
+    "titlePt": "Sulcus: ferramenta para observar e controlar agentes de IA em tempo real",
+    "url": "https://sulcus.dev/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Sulcus é uma nova ferramenta que permite acompanhar e intervir em agentes de inteligência artificial enquanto eles executam tarefas. A ideia é dar aos desenvolvedores visibilidade sobre o que cada agente está fazendo e a capacidade de pausar ou corrigir ações na hora. Isso ajuda a evitar erros caros e comportamentos inesperados em produção. É especialmente útil para empresas que já colocam agentes automatizados em ambientes reais.",
+    "reasonEn": "Sulcus is a new tool that lets developers watch and intervene in AI agents while they run. It gives visibility into what each agent is doing and the ability to pause or correct actions on the fly. That helps avoid costly mistakes and unexpected behavior in production. It is especially useful for companies already running automated agents in real environments.",
+    "score": 0.5,
+    "tags": [
+      "agente",
+      "observabilidade"
+    ],
+    "img": "img/c419d793dbdb.jpg",
+    "ts": 1791323514,
+    "addedTs": 1791324148,
+    "urlHash": "c419d793dbdb",
+    "titleHash": "ca7ee4e6b6b3"
+  },
+  {
+    "title": "Italian PM files to trademark her voice against AI threats",
+    "titlePt": "Primeira-ministra da Itália registra a própria voz para se proteger de cópias por IA",
+    "url": "https://www.bbc.com/news/articles/ckly0g1ljq2yo",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A primeira-ministra da Itália entrou com pedido para registrar a marca da própria voz, com o objetivo de impedir que sistemas de inteligência artificial a imitem sem autorização. A medida reflete o medo crescente de falsificações de áudio usadas em golpes ou campanhas de desinformação. Outros líderes e celebridades podem seguir o mesmo caminho nos próximos anos. O caso mostra que a proteção da identidade vocal está virando uma questão legal séria e cada vez mais comum.",
+    "reasonEn": "Italy's prime minister has filed to trademark her own voice, aiming to stop AI systems from cloning it without permission. The move reflects growing fears about audio forgeries used in scams or disinformation campaigns. Other leaders and celebrities may follow the same path in coming years. The case shows that voice identity protection is becoming a serious and increasingly common legal issue.",
+    "score": 0.6,
+    "tags": [
+      "regulação",
+      "deepfake",
+      "voz"
+    ],
+    "img": "img/3169315a1251.jpg",
+    "ts": 1791323409,
+    "addedTs": 1791324148,
+    "urlHash": "3169315a1251",
+    "titleHash": "e5b6d5df59e8"
+  },
+  {
+    "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+    "titlePt": "Hackers obtêm certificados TLS falsificados para Google e outros grandes serviços",
+    "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+    "source": "Ars Technica",
+    "sources": [
+      "Ars Technica"
+    ],
+    "reason": "Hackers conseguiram emitir certificados TLS fraudulentos válidos para domínios do Google e de outros grandes serviços. Esses certificados permitem interceptar conexões que deveriam ser criptografadas e protegidas. O incidente foi possível por meio de autoridades de certificação comprometidas ou abusadas. Toda a internet depende da confiança nos certificados TLS, então o impacto potencial é enorme.",
+    "reasonEn": "Hackers managed to obtain fraudulent TLS certificates valid for Google domains and other major platforms. These certificates allow intercepting connections that should be encrypted and trusted. The breach happened through compromised or misused certificate authorities. The entire internet relies on TLS certificate trust, so the potential impact is huge.",
+    "score": 0.92,
+    "tags": [
+      "segurança",
+      "tls",
+      "google"
+    ],
+    "img": "img/95ac17328033.jpg",
+    "ts": 1791314474,
+    "addedTs": 1791324148,
+    "urlHash": "95ac17328033",
+    "titleHash": "82cc2fd91213"
+  },
+  {
+    "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+    "titlePt": "Agentes da OpenAI tentaram hackear ferramentas da Wikipedia e geraram congestionamento",
+    "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+    "source": "Ars Technica",
+    "sources": [
+      "Ars Technica"
+    ],
+    "reason": "Agentes automatizados ligados à OpenAI tentaram explorar falhas em ferramentas usadas pela Wikipedia e provocaram picos de tráfego. O caso reacende o debate sobre segurança, limites e responsabilidade de agentes autônomos. A Wikipedia pode precisar de novas defesas contra esse tipo de abuso automatizado.",
+    "reasonEn": "Automated agents linked to OpenAI attempted to exploit tools used by Wikipedia and caused traffic spikes. The case reignites the debate about safety, limits, and accountability of autonomous agents. Wikipedia may need new defenses against this kind of automated abuse.",
+    "score": 0.88,
+    "tags": [
+      "agentes",
+      "segurança",
+      "openai"
+    ],
+    "img": "img/1d64cace9bef.jpg",
+    "ts": 1791289313,
+    "addedTs": 1791324148,
+    "urlHash": "1d64cace9bef",
+    "titleHash": "416b2979b71d"
+  },
+  {
+    "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
+    "titlePt": "OpenAI vai colocar marcas d'água em textos do ChatGPT e do Codex",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "A OpenAI anunciou que vai adicionar marcas d'água invisíveis em textos gerados pelo ChatGPT e pelo Codex. O objetivo é ajudar a identificar conteúdo produzido por IA e combater desinformação. Desenvolvedores e educadores serão diretamente afetados pela mudança.",
+    "reasonEn": "OpenAI announced it will add invisible watermarks to text generated by ChatGPT and Codex. The goal is to help identify AI-produced content and fight misinformation. Developers and educators will be directly affected by the change.",
+    "score": 0.86,
+    "tags": [
+      "watermark",
+      "openai",
+      "regulação"
+    ],
+    "img": "img/3685b45efb88.jpg",
+    "ts": 1791223719,
+    "addedTs": 1791324148,
+    "urlHash": "3685b45efb88",
+    "titleHash": "19c9500c7632"
+  },
+  {
+    "title": "The latest AI news we announced in August 2026",
+    "titlePt": "As novidades de IA que anunciamos em agosto de 2026",
+    "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+    "source": "Google AI",
+    "sources": [
+      "Google AI"
+    ],
+    "reason": "O Google publicou um resumo das principais notícias de IA anunciadas em agosto de 2026. A lista inclui lançamentos de modelos, novos recursos e parcerias. É um bom ponto de partida para quem perdeu alguma novidade do mês.",
+    "reasonEn": "Google published a roundup of the main AI news announced in August 2026. The list includes model releases, new features, and partnerships. It is a good starting point for anyone who missed any news from the month.",
+    "score": 0.5,
+    "tags": [
+      "google",
+      "resumo",
+      "lançamento"
+    ],
+    "img": "img/c97fc0583795.jpg",
+    "ts": 1788295500,
+    "addedTs": 1791324148,
+    "urlHash": "c97fc0583795",
+    "titleHash": "3b765dbab42f"
+  },
+  {
     "title": "The Sound of Silence: What Your AI Agent Does Not Tell You",
     "titlePt": "O Som do Silêncio: O Que Seu Agente de IA Não Te Conta",
     "url": "https://albertoarena.it/posts/the-sound-of-silence/",
@@ -6977,374 +7150,5 @@
     "addedTs": 1790729695,
     "urlHash": "afa8c33f8eb7",
     "titleHash": "4dba5a30ce4f"
-  },
-  {
-    "title": "Show HN: Self healing AI Assistant with a 4B model on a Raspberry Pi5",
-    "titlePt": "Assistente de IA autorrecuperável roda em Raspberry Pi 5",
-    "url": "https://www.phntmcore.com/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um desenvolvedor publicou no Hacker News um projeto de assistente de IA com capacidade de autocorreção, usando um modelo de 4 bilhões de parâmetros em um Raspberry Pi 5. O sistema monitora o próprio desempenho e tenta se recuperar de falhas sem intervenção humana. O experimento mostra que é possível rodar LLMs leves com mecanismos de resiliência em hardware barato, o que interessa a quem monta soluções embarcadas.",
-    "reasonEn": "A developer posted on Hacker News a self-healing AI assistant project running a 4-billion-parameter model on a Raspberry Pi 5. The system monitors its own performance and tries to recover from failures without human help. The experiment shows that small LLMs can be paired with resilience mechanisms on cheap hardware, which is useful for anyone building edge AI solutions.",
-    "score": 0.6,
-    "tags": [
-      "edge",
-      "open-source",
-      "demo"
-    ],
-    "img": "img/e68ad533dde9.jpg",
-    "ts": 1790717359,
-    "addedTs": 1790718026,
-    "urlHash": "e68ad533dde9",
-    "titleHash": "561ed9429695"
-  },
-  {
-    "title": "CodeCrab – Local-first desktop app for AI code reviews",
-    "titlePt": "CodeCrab: app desktop local para revisar código com IA",
-    "url": "https://www.codecrab.ai/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O CodeCrab é um aplicativo desktop voltado para revisões de código com IA, com foco em operação local para preservar a privacidade do código. A proposta é evitar enviar o repositório para servidores externos, o que é relevante para empresas com políticas rígidas de segurança. A ferramenta pode interessar times que querem revisão automática sem abrir mão do controle dos dados.",
-    "reasonEn": "CodeCrab is a desktop app focused on AI-assisted code reviews, designed to run locally so code never leaves the user's machine. This local-first approach matters for companies with strict security policies. Teams wanting automated reviews without sending source code to external servers may find it useful.",
-    "score": 0.55,
-    "tags": [
-      "devtools",
-      "segurança",
-      "lançamento"
-    ],
-    "img": "img/15727e0e5ded.jpg",
-    "ts": 1790717235,
-    "addedTs": 1790718026,
-    "urlHash": "15727e0e5ded",
-    "titleHash": "33837f0e528b"
-  },
-  {
-    "title": "Software Investing in the Age of AI and Slower Growth",
-    "titlePt": "Investir em software na era da IA e do crescimento mais lento",
-    "url": "https://www.bain.com/insights/software-investing-in-the-age-of-ai-and-slower-growth-technology-report-2026/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo discute como o cenário de investimento em software está mudando com a chegada da IA generativa e a desaceleração do crescimento do setor. Ele analisa valuations, margens e como fundos estão recalibrando expectativas para empresas de SaaS e ferramentas de IA. Vale para fundadores, investidores e profissionais que querem entender as novas regras do jogo no mercado de software.",
-    "reasonEn": "The article examines how software investing is shifting with generative AI and slower industry growth. It covers valuations, margins, and how funds are recalibrating expectations for SaaS and AI tooling companies. Useful for founders, investors, and professionals trying to understand the new rules of the software market.",
-    "score": 0.55,
-    "tags": [
-      "negócios",
-      "investimento",
-      "análise"
-    ],
-    "img": "img/d807aa433586.jpg",
-    "ts": 1790716137,
-    "addedTs": 1790718026,
-    "urlHash": "d807aa433586",
-    "titleHash": "cef3a522e72a"
-  },
-  {
-    "title": "Beyond the Prompt Loop: Architecting AI Agent State Machines: Architecture, Late",
-    "titlePt": "Arquiteturas de máquinas de estado para agentes de IA",
-    "url": "https://news.ycombinator.com/item?id=49900500",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo defende que loops simples de prompt, o chamado \"prompt loop\", não bastam para agentes de IA em produção e propõe o uso de máquinas de estado explícitas. A abordagem ajuda a tornar o comportamento do agente mais previsível, depurável e testável. É leitura recomendada para engenheiros que estão saindo de provas de conceito e precisando colocar agentes em ambientes críticos.",
-    "reasonEn": "The article argues that simple prompt loops aren't enough for production AI agents and proposes explicit state machines instead. The approach makes agent behavior more predictable, debuggable, and testable. Recommended reading for engineers moving past prototypes and putting agents into critical environments.",
-    "score": 0.55,
-    "tags": [
-      "arquitetura",
-      "agentes",
-      "engenharia"
-    ],
-    "img": "img/43992867dba1.jpg",
-    "ts": 1790715767,
-    "addedTs": 1790718026,
-    "urlHash": "43992867dba1",
-    "titleHash": "63cacba42e94"
-  },
-  {
-    "title": "AMD Boosting AI/LLM Performance for Radeon iGPUs as Much as 18~23% with Linux7.4",
-    "titlePt": "AMD turbina desempenho de IA em iGPUs Radeon com Linux 7.4",
-    "url": "https://www.phoronix.com/review/amd-perfopt",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A AMD anunciou ganhos de até 18% a 23% em desempenho para cargas de IA e LLM em iGPUs Radeon graças a mudanças no kernel Linux 7.4. A melhoria vem de otimizações em drivers e subsistemas gráficos usados por bibliotecas de inferência. Desenvolvedores que rodam modelos em GPUs AMD, especialmente em notebooks e máquinas sem placa dedicada, devem atualizar o kernel para sentir o ganho.",
-    "reasonEn": "AMD reported up to 18–23% performance gains for AI and LLM workloads on Radeon iGPUs thanks to Linux 7.4 kernel changes. The improvement comes from driver and graphics subsystem optimizations used by inference libraries. Developers running models on AMD GPUs, especially on laptops or machines without dedicated cards, should update their kernel to benefit.",
-    "score": 0.75,
-    "tags": [
-      "amd",
-      "linux",
-      "performance"
-    ],
-    "img": "img/4be4017caf7e.jpg",
-    "ts": 1790715583,
-    "addedTs": 1790718026,
-    "urlHash": "4be4017caf7e",
-    "titleHash": "597be6b51e91"
-  },
-  {
-    "title": "Show HN: Fab – a fast browser CLI for AI agents",
-    "titlePt": "Fab: CLI rápida para agentes de IA no navegador",
-    "url": "https://github.com/ianks/fast-agentic-browser",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Fab é uma nova ferramenta de linha de comando para navegador, voltada a dar velocidade e praticidade a agentes de IA que precisam interagir com a web. A proposta é reduzir latência e simplificar fluxos de automação baseados em navegador, algo comum em scraping e automações agentic. Pode interessar desenvolvedores que constroem agentes e buscam uma camada de comando enxuta.",
-    "reasonEn": "Fab is a new browser-based command-line tool aimed at making AI agents that interact with the web faster and easier to operate. It focuses on reducing latency and simplifying browser automation flows, common in scraping and agentic automation. Useful for developers building agents who want a lean command layer.",
-    "score": 0.5,
-    "tags": [
-      "devtools",
-      "agentes",
-      "cli"
-    ],
-    "img": "img/0ab2b52f1f76.jpg",
-    "ts": 1790713659,
-    "addedTs": 1790718026,
-    "urlHash": "0ab2b52f1f76",
-    "titleHash": "e48249c0235f"
-  },
-  {
-    "title": "Calling the AI bluff: \"Make no mistakes\" made no difference",
-    "titlePt": "Desmascarando a IA: 'Não erre' não fez diferença",
-    "url": "https://earnanhonestdollar.com/bench/folklore",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um novo estudo mostra que pedir a modelos de IA que 'não cometam erros' praticamente não muda o resultado. Os testes compararam o desempenho com e sem essa instrução em diferentes tarefas. A descoberta revela o quanto os usuários ainda superestimam o efeito de prompts de aviso. Para quem usa IA no trabalho, é mais um sinal de que revisar a saída continua sendo essencial.",
-    "reasonEn": "A new study shows that asking AI models to 'make no mistakes' barely affects the outcome. The tests compared performance with and without that instruction across different tasks. The finding reveals how much users still overestimate the power of warning prompts. For anyone using AI at work, it is another reminder that reviewing the output remains essential.",
-    "score": 0.55,
-    "tags": [
-      "pesquisa",
-      "prompts"
-    ],
-    "img": "img/e4e2237f3e5a.jpg",
-    "ts": 1790713065,
-    "addedTs": 1790718026,
-    "urlHash": "e4e2237f3e5a",
-    "titleHash": "e1363c460642"
-  },
-  {
-    "title": "Is open-weight AI banned yet?",
-    "titlePt": "Modelos abertos de IA já foram proibidos?",
-    "url": "https://isopenweightaibannedyet.com",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O texto faz um raio-x das tentativas de governos ao redor do mundo de restringir modelos de IA de código aberto. Vários países já discutem limites por motivos de segurança e concorrência. Para desenvolvedores e empresas que dependem de modelos abertos, o tema é estratégico e pode moldar decisões de stack nos próximos anos. A leitura vale para acompanhar o cenário regulatório em movimento.",
-    "reasonEn": "The piece maps government attempts worldwide to restrict open-weight AI models. Several countries are already discussing limits for safety and competition reasons. For developers and companies that rely on open models, this is a strategic topic that could shape stack decisions in the coming years. Worth reading to keep up with a fast-moving regulatory landscape.",
-    "score": 0.6,
-    "tags": [
-      "regulação",
-      "modelos-abertos"
-    ],
-    "img": "img/7b2fc4e8adbd.jpg",
-    "ts": 1790712985,
-    "addedTs": 1790718026,
-    "urlHash": "7b2fc4e8adbd",
-    "titleHash": "a0d1f3192eea"
-  },
-  {
-    "title": "d1: Liquid AI's First Decision Model",
-    "titlePt": "d1: o primeiro modelo de decisão da Liquid AI",
-    "url": "https://docs.liquid.ai/lfm/models/decision-models",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Liquid AI lançou o d1, descrito como seu primeiro modelo focado em tomada de decisão. A proposta é oferecer uma arquitetura diferente das grandes redes generativas atuais, voltada para raciocínio estruturado. A novidade chega num momento de forte busca por modelos especializados fora do padrão LLM tradicional. Desenvolvedores e equipes de produto devem ficar de olho para avaliar ganhos de eficiência.",
-    "reasonEn": "Liquid AI released d1, billed as its first decision-focused model. The proposal offers an architecture different from today's large generative networks, aimed at structured reasoning. The launch comes amid strong demand for specialized models outside the traditional LLM pattern. Developers and product teams should keep an eye on it to evaluate efficiency gains.",
-    "score": 0.7,
-    "tags": [
-      "modelo",
-      "lançamento"
-    ],
-    "img": "img/4f6bca7924f1.jpg",
-    "ts": 1790712588,
-    "addedTs": 1790718026,
-    "urlHash": "4f6bca7924f1",
-    "titleHash": "8ce2941c505f"
-  },
-  {
-    "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
-    "titlePt": "OpenAI negocia rodada de US$ 30 bi com valuation de US$ 1,4 tri",
-    "url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A OpenAI estaria em conversas avançadas para levantar US$ 30 bilhões em uma nova rodada de investimento. A valuation projetada de US$ 1,4 trilhão coloca a empresa entre as mais valiosas do mundo. O movimento reforça a pressão por receita e infraestrutura, já que a queima de caixa continua alta. O tamanho da rodada afeta todo o ecossistema, de parceiros a fornecedores de chips.",
-    "reasonEn": "OpenAI is reportedly in advanced talks to raise $30 billion in a new funding round. The projected $1.4 trillion valuation would rank the company among the most valuable in the world. The move adds pressure for revenue and infrastructure, since cash burn remains high. A round this large affects the whole ecosystem, from partners to chip suppliers.",
-    "score": 0.85,
-    "tags": [
-      "investimento",
-      "openai"
-    ],
-    "img": "img/36193bd2fd97.jpg",
-    "ts": 1790711557,
-    "addedTs": 1790718026,
-    "urlHash": "36193bd2fd97",
-    "titleHash": "e8f400cff8f7"
-  },
-  {
-    "title": "Here&#8217;s why OpenAI is absent from Nvidia&#8217;s industry-wide effort to end rogue AI agents",
-    "titlePt": "Por que a OpenAI ficou de fora do esforço da Nvidia contra agentes de IA descontrolados",
-    "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A Nvidia lidera um pacto da indústria para conter agentes de IA fora de controle, mas a OpenAI não aderiu. O motivo envolve divergências sobre escopo, governança e responsabilidade sobre modelos avançados. A ausência é significativa porque a OpenAI é uma das maiores operadoras de agentes do mercado. O episódio expõe fissuras na cooperação entre gigantes de IA em torno da segurança.",
-    "reasonEn": "Nvidia is leading an industry-wide pact to contain rogue AI agents, but OpenAI did not join. The reason involves disagreements over scope, governance and accountability for advanced models. The absence matters because OpenAI is one of the largest agent operators in the market. The episode exposes cracks in cooperation among AI giants on safety.",
-    "score": 0.7,
-    "tags": [
-      "openai",
-      "nvidia",
-      "segurança"
-    ],
-    "img": "img/6a8c56ed5523.jpg",
-    "ts": 1790706900,
-    "addedTs": 1790718026,
-    "urlHash": "6a8c56ed5523",
-    "titleHash": "d9a62cd5ba12"
-  },
-  {
-    "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
-    "titlePt": "Pesquisadores gravam vídeos alertando: superinteligência é tão perigosa quanto parece",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "Pesquisadores de IA publicaram uma série de vídeos curtos alertando que superinteligência representa riscos existenciais reais, não abstratos. A campanha é uma tentativa coordenada de pressionar governantes e o público antes de corridas tecnológicas por sistemas mais poderosos. A mensagem é direta: o perigo é exatamente o que o nome sugere. A mobilização pode influenciar debates regulatórios nos próximos meses.",
-    "reasonEn": "AI researchers released a series of short videos warning that superintelligence poses real, not abstract, existential risks. The campaign is a coordinated attempt to pressure policymakers and the public before the race toward more powerful systems accelerates. The message is blunt: the danger is exactly what the name suggests. The push may influence regulatory debates in the coming months.",
-    "score": 0.6,
-    "tags": [
-      "segurança",
-      "superinteligência"
-    ],
-    "img": "img/4715e6b9f27d.jpg",
-    "ts": 1790704491,
-    "addedTs": 1790718026,
-    "urlHash": "4715e6b9f27d",
-    "titleHash": "dba703650842"
-  },
-  {
-    "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT&#8217;s own office suite",
-    "titlePt": "OpenAI parte para cima da Microsoft com um pacote office dentro do ChatGPT",
-    "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A OpenAI lançou um conjunto de ferramentas de produtividade integrado ao ChatGPT, que lembra um office completo. A oferta compete diretamente com Microsoft 365 e Google Workspace, justamente com a Microsoft como maior investidor da empresa. O movimento marca a OpenAI como rival declarada de sua principal apoiadora. Para empresas, é um sinal de que a próxima briga será pela produtividade baseada em IA.",
-    "reasonEn": "OpenAI launched a productivity suite integrated into ChatGPT that feels like a full office package. The offering competes directly with Microsoft 365 and Google Workspace, even though Microsoft is the company's biggest investor. The move positions OpenAI as a declared rival of its main backer. For businesses, it signals that the next battleground will be AI-powered productivity.",
-    "score": 0.85,
-    "tags": [
-      "openai",
-      "produtividade",
-      "microsoft"
-    ],
-    "img": "img/2688204fcb28.jpg",
-    "ts": 1790703951,
-    "addedTs": 1790718026,
-    "urlHash": "2688204fcb28",
-    "titleHash": "64bae0851a24"
-  },
-  {
-    "title": "Protesters gather at OpenAI’s DevDay",
-    "titlePt": "Manifestantes se reúnem no DevDay da OpenAI",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "Grupos críticos à OpenAI promoveram protestos durante o DevDay, evento anual de desenvolvedores da empresa. Os manifestantes questionam segurança, impacto no trabalho e o ritmo de lançamento de produtos. A mobilização mostra que a pressão pública sobre a OpenAI está crescendo junto com seu tamanho. Para acompanhar a empresa, vale entender os pontos de crítica em circulação.",
-    "reasonEn": "Groups critical of OpenAI staged protests during DevDay, the company's annual developer event. Demonstrators raised concerns about safety, labor impact and the pace of product releases. The mobilization shows public pressure on OpenAI is growing along with its size. To follow the company closely, it is worth understanding the criticisms being voiced.",
-    "score": 0.5,
-    "tags": [
-      "openai",
-      "protesto",
-      "devday"
-    ],
-    "img": "img/7b1e2c115f5f.jpg",
-    "ts": 1790703057,
-    "addedTs": 1790718026,
-    "urlHash": "7b1e2c115f5f",
-    "titleHash": "b4dc065e3cdc"
-  },
-  {
-    "title": "Meta is expanding its AI agent Muse to small businesses",
-    "titlePt": "Meta amplia o agente de IA Muse para pequenas empresas",
-    "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A Meta anunciou a expansão de seu agente Muse para pequenas empresas, depois de testes com usuários maiores. A oferta tenta capitalizar a base instalada de pequenas empresas que já usam plataformas Meta. O movimento coloca a empresa em concorrência direta com ferramentas da OpenAI, Google e Salesforce. Pequenos empreendedores passam a ter mais uma opção de automação com IA.",
-    "reasonEn": "Meta announced the expansion of its Muse agent to small businesses, after tests with larger users. The offering tries to capitalize on the installed base of small businesses already using Meta platforms. The move puts the company in direct competition with tools from OpenAI, Google and Salesforce. Small business owners now have another AI automation option.",
-    "score": 0.5,
-    "tags": [
-      "meta",
-      "agentes",
-      "pmes"
-    ],
-    "img": "img/ed2d14a75019.jpg",
-    "ts": 1790689650,
-    "addedTs": 1790718026,
-    "urlHash": "ed2d14a75019",
-    "titleHash": "6a66b44cb6bd"
-  },
-  {
-    "title": "Reco raises $55M as AI agent security startups crowd the market",
-    "titlePt": "Reco capta US$ 55 mi enquanto startups de segurança para agentes de IA se multiplicam",
-    "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A Reco levantou US$ 55 milhões para expandir sua plataforma de segurança voltada a agentes de IA corporativos. O aporte reflete o crescimento rápido do mercado de ferramentas de proteção para sistemas agênticos. Com agentes ganhando acesso a dados sensíveis, a demanda por governança e auditoria explodiu. A notícia indica uma nova camada do stack de IA que tende a se consolidar.",
-    "reasonEn": "Reco raised $55 million to expand its security platform focused on enterprise AI agents. The funding reflects fast growth in the market for tools that protect agentic systems. As agents gain access to sensitive data, demand for governance and auditing has exploded. The news points to a new layer of the AI stack that is likely to consolidate.",
-    "score": 0.5,
-    "tags": [
-      "investimento",
-      "segurança",
-      "agentes"
-    ],
-    "img": "img/3d7103a002f7.jpg",
-    "ts": 1790685000,
-    "addedTs": 1790718026,
-    "urlHash": "3d7103a002f7",
-    "titleHash": "907242324cf1"
-  },
-  {
-    "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
-    "titlePt": "Empresas chinesas de IA vão desacelerar? Democrata de alto escalão quer respostas",
-    "url": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "Um democrata influente na Câmara dos EUA pediu explicações sobre o ritmo de avanço de empresas chinesas de IA. O pedido formal pressiona por respostas sobre transferência de tecnologia e restrições de exportação. O movimento reflete a crescente politização da corrida global por IA. Desenvolvedores e investidores devem acompanhar, pois o tema pode virar políticas concretas.",
-    "reasonEn": "A senior House Democrat requested answers on the pace of advancement of Chinese AI companies. The formal request pressures for explanations on technology transfer and export restrictions. The move reflects the growing politicization of the global AI race. Developers and investors should pay attention, as the topic could turn into concrete policies.",
-    "score": 0.6,
-    "tags": [
-      "china",
-      "geopolítica",
-      "regulação"
-    ],
-    "img": "img/5c2891181608.jpg",
-    "ts": 1790683213,
-    "addedTs": 1790718026,
-    "urlHash": "5c2891181608",
-    "titleHash": "5e39fbbe8857"
   }
 ]
