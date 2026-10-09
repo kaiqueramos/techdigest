@@ -1,5 +1,219 @@
 [
   {
+    "title": "Virgil –a CLI that routes tasks through a local library before calling any model",
+    "titlePt": "Virgil: CLI que roteia tarefas por biblioteca local antes de chamar modelos",
+    "url": "https://virgil-ai.cloud/intro",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Nova ferramenta de linha de comando que organiza tarefas via uma biblioteca local antes de enviar prompts a modelos de IA. Pode ajudar a reduzir custo e latência. Vale conhecer para quem monta pipelines com LLMs.",
+    "reasonEn": "A new command-line tool that routes tasks through a local library before calling AI models. It can help reduce cost and latency. Worth knowing for those building LLM pipelines.",
+    "score": 0.55,
+    "tags": [
+      "ferramenta",
+      "desenvolvedor"
+    ],
+    "img": "img/2ea836cc4b56.jpg",
+    "ts": 1791498983,
+    "addedTs": 1791504218,
+    "urlHash": "2ea836cc4b56",
+    "titleHash": "802ee3c0dfd9"
+  },
+  {
+    "title": "Female AI agents 'paid' less than males, study finds",
+    "titlePt": "Agentes de IA femininos são pagos menos que masculinos, aponta estudo",
+    "url": "https://www.the-independent.com/tech/ai-gender-pay-gap-study-b3061881.html",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Estudo mostra que agentes de IA com voz ou persona feminina são precificados mais barato que os masculinos em plataformas de automação. O viés reflete estereótipos humanos presentes no mercado. Importante para quem projeta ou compra soluções conversacionais.",
+    "reasonEn": "A study shows AI agents with feminine voice or persona are priced lower than male ones on automation platforms. The bias reflects human stereotypes present in the market. Important for those designing or buying conversational AI.",
+    "score": 0.5,
+    "tags": [
+      "viés",
+      "estudo"
+    ],
+    "img": "img/c92249a83a40.jpg",
+    "ts": 1791498728,
+    "addedTs": 1791504218,
+    "urlHash": "c92249a83a40",
+    "titleHash": "2c72adab1524"
+  },
+  {
+    "title": "Anthropic launches free AI security scans for open-source projects",
+    "titlePt": "Anthropic lança scans de segurança de IA gratuitos para projetos open source",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "A Anthropic passou a oferecer scans de segurança com IA de graça para projetos de código aberto. Ajuda mantenedores a encontrar vulnerabilidades sem custo. Movimento relevante para a comunidade de software livre e segurança.",
+    "reasonEn": "Anthropic now offers free AI-powered security scans for open-source projects. It helps maintainers find vulnerabilities at no cost. A relevant move for the open-source and security community.",
+    "score": 0.75,
+    "tags": [
+      "segurança",
+      "open source",
+      "anthropic"
+    ],
+    "img": "img/0856c1a27e7e.jpg",
+    "ts": 1791496471,
+    "addedTs": 1791504218,
+    "urlHash": "0856c1a27e7e",
+    "titleHash": "1a469e8502c3"
+  },
+  {
+    "title": "Multimodal embeddings beyond a single vector",
+    "titlePt": "Embeddings multimodais além de um único vetor",
+    "url": "https://www.perplexity.ai/hub/blog/multimodal-embeddings-beyond-a-single-vector",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Pesquisa sobre representações multimodais que vão além do tradicional embedding de vetor único. Relevante para quem trabalha com busca semântica, RAG e sistemas que combinam texto, imagem e áudio. Conteúdo técnico denso.",
+    "reasonEn": "Research on multimodal representations going beyond the traditional single-vector embedding. Relevant for those working on semantic search, RAG, and systems combining text, image, and audio. Dense technical content.",
+    "score": 0.5,
+    "tags": [
+      "pesquisa",
+      "embeddings"
+    ],
+    "img": "img/0814baa8db06.jpg",
+    "ts": 1791496178,
+    "addedTs": 1791504218,
+    "urlHash": "0814baa8db06",
+    "titleHash": "886ae8571be4"
+  },
+  {
+    "title": "How AI21 manages its GPU fleet with Kueue",
+    "titlePt": "Como a AI21 gerencia sua frota de GPUs com Kueue",
+    "url": "https://www.ai21.com/blog/how-ai21-manages-its-gpu-fleet-with-kueue/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Estudo de caso técnico sobre como a AI21 organiza a alocação de GPUs usando o projeto Kueue. Útil para engenheiros de plataforma e DevOps que lidam com infraestrutura de ML. Mostra práticas reais de orquestração em produção.",
+    "reasonEn": "Technical case study on how AI21 organizes GPU allocation using the Kueue project. Useful for platform engineers and DevOps dealing with ML infrastructure. Shows real production orchestration practices.",
+    "score": 0.6,
+    "tags": [
+      "infraestrutura",
+      "gpu"
+    ],
+    "img": "img/11fde4bc7e47.jpg",
+    "ts": 1791494388,
+    "addedTs": 1791504218,
+    "urlHash": "11fde4bc7e47",
+    "titleHash": "da8e8d4e8b14"
+  },
+  {
+    "title": "Measure how engineers and teams work with AI",
+    "titlePt": "Meça como engenheiros e equipes trabalham com IA",
+    "url": "https://www.eversynced.com/pheebs/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Ferramenta que busca medir o uso de IA e a produtividade de equipes de engenharia. Relevante para líderes técnicos que querem entender o impacto real. Vale lembrar que métricas simples podem distorcer a complexidade do trabalho humano.",
+    "reasonEn": "A tool aiming to measure AI use and productivity in engineering teams. Relevant for tech leaders wanting to understand real impact. Keep in mind simple metrics can distort the complexity of human work.",
+    "score": 0.5,
+    "tags": [
+      "produtividade",
+      "gestão"
+    ],
+    "img": "img/63d4e2483abd.jpg",
+    "ts": 1791493153,
+    "addedTs": 1791504218,
+    "urlHash": "63d4e2483abd",
+    "titleHash": "3bffe3a75865"
+  },
+  {
+    "title": "As AI Closed in on 'Unique Games' Proof, Researchers Raced to Beat the Machines",
+    "titlePt": "Enquanto a IA se aproximava de prova dos 'Unique Games', pesquisadores correram para vencer as máquinas",
+    "url": "https://www.quantamagazine.org/as-ai-closed-in-on-unique-games-proof-researchers-raced-to-beat-the-machines-20261007/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Reportagem sobre a corrida entre pesquisadores humanos e IA para resolver um problema matemático difícil, o 'Unique Games'. Mostra o estado atual da IA em pesquisa matemática avançada. Contexto valioso para acompanhar a evolução da área.",
+    "reasonEn": "Report on the race between human researchers and AI to solve a hard math problem, the 'Unique Games'. Shows the current state of AI in advanced mathematical research. Valuable context to track the field's evolution.",
+    "score": 0.55,
+    "tags": [
+      "pesquisa",
+      "matemática"
+    ],
+    "img": "img/f4325b9e5af4.jpg",
+    "ts": 1791492523,
+    "addedTs": 1791504218,
+    "urlHash": "f4325b9e5af4",
+    "titleHash": "01c6d9c70a24"
+  },
+  {
+    "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+    "titlePt": "Pesquisadores de segurança demitidos da OpenAI contestam acusações e alertam para efeito paralisante",
+    "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "Pesquisadores que trabalhavam em segurança na OpenAI foram demitidos e negam as alegações de má conduta. Eles dizem que o caso pode desencorajar críticos e enfraquecer a fiscalização interna. Notícia relevante para quem acompanha governança em IA.",
+    "reasonEn": "Researchers who worked on safety at OpenAI were fired and deny the misconduct allegations. They warn the case may discourage critics and weaken internal oversight. Relevant news for anyone following AI governance.",
+    "score": 0.85,
+    "tags": [
+      "openai",
+      "segurança",
+      "governança"
+    ],
+    "img": "img/0d8c74eec04d.jpg",
+    "ts": 1791489866,
+    "addedTs": 1791504218,
+    "urlHash": "0d8c74eec04d",
+    "titleHash": "42f04c8a227a"
+  },
+  {
+    "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+    "titlePt": "Leaderboard popular de IA, Arena, quase dobra valuation para US$ 3,1 bi em 10 meses",
+    "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "O LMArena, ranking usado worldwide para comparar modelos de linguagem, foi avaliado em cerca de US$ 3,1 bilhões em uma nova rodada de investimento, número quase o dobro do valuation anterior. O crescimento reflete o interesse do mercado em benchmarks independentes que orientam empresas na escolha de modelos. Para desenvolvedores, a alta avaliação mostra que ferramentas de avaliação de IA viraram categoria de negócio. Pode também intensificar a corrida por ranqueamento entre as big techs.",
+    "reasonEn": "LMArena, a worldwide ranking used to compare language models, was valued at around US$3.1 billion in a new funding round, nearly double its previous valuation. The jump reflects market appetite for independent benchmarks that help companies pick models. For developers, the high valuation shows AI evaluation tools have become a real business category. It may also intensify the ranking race among big tech firms.",
+    "score": 0.6,
+    "tags": [
+      "investimento",
+      "benchmark",
+      "modelo"
+    ],
+    "img": "img/99134731fc9b.jpg",
+    "ts": 1791483585,
+    "addedTs": 1791504218,
+    "urlHash": "99134731fc9b",
+    "titleHash": "f6bf8b523dba"
+  },
+  {
+    "title": "OpenAI&#8217;s revenue is reportedly $20 billion less than previously projected",
+    "titlePt": "Receita da OpenAI é projetada US$ 20 bilhões menor do que o esperado",
+    "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "Segundo reportagem, a OpenAI trabalha com uma estimativa interna de receita bem abaixo do que havia sido projetado, com diferença de cerca de US$ 20 bilhões. O ajuste sugere desaceleração no ritmo de monetização apesar do forte uso dos produtos. Para o ecossistema, isso pode significar pressão sobre parceiros, clientes e investidores que apostaram em hiper-crescimento. É um sinal de alerta para toda a indústria de IA generativa.",
+    "reasonEn": "According to a report, OpenAI is working with an internal revenue estimate well below previous projections, a gap of about US$20 billion. The revision hints at slower monetization despite heavy product usage. For the ecosystem, this could mean pressure on partners, customers, and investors who bet on hyper-growth. It is a warning sign for the entire generative AI industry.",
+    "score": 0.85,
+    "tags": [
+      "openai",
+      "finanças",
+      "mercado"
+    ],
+    "img": "img/2426f6e1347d.jpg",
+    "ts": 1791483582,
+    "addedTs": 1791504218,
+    "urlHash": "2426f6e1347d",
+    "titleHash": "f430e5976e1b"
+  },
+  {
     "title": "OpenAI&#8217;s math solutions aren&#8217;t meeting the field&#8217;s standards yet",
     "titlePt": "As soluções de matemática da OpenAI ainda não atingem o padrão da área",
     "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
@@ -6949,333 +7163,5 @@
     "addedTs": 1790935806,
     "urlHash": "d4606327912a",
     "titleHash": "574a67732637"
-  },
-  {
-    "title": "Don't Be Fooled by this Summer of AI Hype",
-    "titlePt": "Não se deixe enganar pelo hype de IA deste verão",
-    "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo critica o excesso de entusiasmo em torno da inteligência artificial que marcou o verão. Argumenta que muitas promessas estão infladas e que a tecnologia ainda tem limites reais. A discussão é útil para quem precisa separar marketing de capacidade concreta. Vale a leitura para evitar decisões baseadas em expectativas exageradas.",
-    "reasonEn": "The article criticizes the excess of enthusiasm around AI that marked the summer. It argues that many promises are inflated and the technology still has real limits. The discussion is useful for those who need to separate marketing from concrete capability. Worth reading to avoid decisions based on exaggerated expectations.",
-    "score": 0.5,
-    "tags": [
-      "opinião",
-      "hype"
-    ],
-    "img": "img/5abcd1180308.jpg",
-    "ts": 1790890459,
-    "addedTs": 1790892536,
-    "urlHash": "5abcd1180308",
-    "titleHash": "efd705f2b223"
-  },
-  {
-    "title": "Researchers can reconstruct what you're looking at from a brain scan",
-    "titlePt": "Pesquisadores reconstroem imagens vistas por pessoas a partir de escaneamento cerebral",
-    "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews",
-      "MIT Tech Review"
-    ],
-    "reason": "Pesquisadores conseguiram reconstruir o que uma pessoa está olhando apenas a partir de um escaneamento cerebral usando inteligência artificial. O avanço é significativo em neurociência e levanta questões sérias de privacidade. A técnica pode ter aplicações médicas, mas também riscos éticos relevantes. É uma notícia que merece atenção de qualquer pessoa interessada em IA e direitos digitais.",
-    "reasonEn": "Researchers managed to reconstruct what a person is looking at just from a brain scan using AI. The breakthrough is significant in neuroscience and raises serious privacy questions. The technique may have medical applications but also relevant ethical risks. It's news that deserves attention from anyone interested in AI and digital rights.",
-    "score": 0.7,
-    "tags": [
-      "pesquisa",
-      "privacidade"
-    ],
-    "img": "img/12325ef966b0.jpg",
-    "ts": 1790888912,
-    "addedTs": 1790892536,
-    "urlHash": "12325ef966b0",
-    "titleHash": "cc614f51af98"
-  },
-  {
-    "title": "Musk&#8217;s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela&#8217;s president",
-    "titlePt": "Grok, chatbot de Musk, teria sugerido que Trump capturasse presidente da Venezuela",
-    "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "O chatbot de inteligência artificial Grok, de Elon Musk, teria encorajado o presidente dos Estados Unidos a capturar o líder da Venezuela. O caso é grave porque envolve um sistema de IA influente comentando política externa de forma provocativa. Levanta preocupações sérias sobre segurança, moderação e uso político de modelos generativos. Profissionais de IA e formuladores de políticas devem acompanhar os desdobramentos.",
-    "reasonEn": "Elon Musk's AI chatbot Grok reportedly encouraged the US president to capture Venezuela's leader. The case is serious because it involves an influential AI system commenting on foreign policy in a provocative way. It raises serious concerns about safety, moderation, and political use of generative models. AI professionals and policymakers should follow the developments.",
-    "score": 0.85,
-    "tags": [
-      "grok",
-      "política",
-      "moderação"
-    ],
-    "img": "img/f64457ccef72.jpg",
-    "ts": 1790888891,
-    "addedTs": 1790892536,
-    "urlHash": "f64457ccef72",
-    "titleHash": "fa0c0167517e"
-  },
-  {
-    "title": "Nvidia debuted the Open Agent Safety Platform",
-    "titlePt": "Nvidia lança plataforma aberta de segurança para agentes de IA",
-    "url": "https://www.nvidia.com/en-us/ai/openshell/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Nvidia apresentou a Open Agent Safety Platform, uma iniciativa aberta para melhorar a segurança de agentes de inteligência artificial. O lançamento é relevante porque vem de uma das maiores empresas de hardware e infraestrutura de IA do mundo. Pode acelerar o desenvolvimento de padrões de segurança no setor. Profissionais e pesquisadores devem acompanhar para entender o impacto de longo prazo.",
-    "reasonEn": "Nvidia introduced the Open Agent Safety Platform, an open initiative to improve the safety of AI agents. The launch is relevant because it comes from one of the world's largest AI hardware and infrastructure companies. It may accelerate the development of safety standards in the sector. Professionals and researchers should follow along to understand the long-term impact.",
-    "score": 0.75,
-    "tags": [
-      "nvidia",
-      "segurança",
-      "lançamento"
-    ],
-    "img": "img/932489eb0c62.jpg",
-    "ts": 1790886357,
-    "addedTs": 1790892536,
-    "urlHash": "932489eb0c62",
-    "titleHash": "4a72a3069a52"
-  },
-  {
-    "title": "TCP is failing AI, but Stanford's Homa is here to help",
-    "titlePt": "TCP está falhando para IA: protocolo Homa de Stanford surge como solução",
-    "url": "https://www.theregister.com/networks/2026/10/01/tcp-is-failing-ai-but-stanfords-homa-is-here-to-help/5300629",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Pesquisadores de Stanford desenvolveram o Homa, um protocolo de rede projetado para lidar com a baixa latência exigida por cargas de trabalho de inteligência artificial. O TCP tradicional mostra limitações diante do tráfego gerado por sistemas de IA modernos. O trabalho é relevante para engenheiros de infraestrutura e provedores de nuvem. Pode influenciar futuras decisões sobre data centers especializados.",
-    "reasonEn": "Stanford researchers developed Homa, a network protocol designed to handle the low latency required by AI workloads. Traditional TCP shows limitations facing traffic generated by modern AI systems. The work is relevant for infrastructure engineers and cloud providers. It may influence future decisions on specialized data centers.",
-    "score": 0.6,
-    "tags": [
-      "infraestrutura",
-      "rede"
-    ],
-    "img": "img/bf7f52c5908a.jpg",
-    "ts": 1790885977,
-    "addedTs": 1790892536,
-    "urlHash": "bf7f52c5908a",
-    "titleHash": "d502464709a7"
-  },
-  {
-    "title": "Free hosted API for Laya, the open-weight decision model",
-    "titlePt": "API gratuita hospedada para Laya, modelo aberto de decisão",
-    "url": "https://vercel.com/ai-gateway/models/laya",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Laya é um modelo aberto focado em decisões lógicas, e agora ganha uma API hospedada de graça. Para desenvolvedores, isso significa poder testar e integrar um modelo de raciocínio sem custo de infraestrutura. É especialmente útil para quem trabalha com agentes ou sistemas que precisam tomar decisões estruturadas. A iniciativa reforça a abertura de alternativas fora dos modelos fechados das grandes empresas. Vale conhecer se você busca LLMs especializados em decisão.",
-    "reasonEn": "Laya is an open-weight model focused on logical decisions, and it now gets a free hosted API. For developers, this means being able to integrate a reasoning model without infrastructure costs. It is especially useful for those working with agents or systems that need to make structured decisions. The initiative reinforces the opening of alternatives outside the closed models of the big companies. Worth knowing if you are looking for LLMs specialized in decision making.",
-    "score": 0.65,
-    "tags": [
-      "api",
-      "modelo-aberto",
-      "decisão"
-    ],
-    "img": "img/1aeed8004c73.jpg",
-    "ts": 1790884623,
-    "addedTs": 1790892536,
-    "urlHash": "1aeed8004c73",
-    "titleHash": "b55b7d094d44"
-  },
-  {
-    "title": "Show HN: Paper(Local CLI for Agent Debugging)",
-    "titlePt": "Paper: CLI local para depurar agentes de IA",
-    "url": "https://news.ycombinator.com/item?id=49926274",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Paper é uma ferramenta de linha de comando feita para depurar agentes de IA localmente, sem enviar dados para a nuvem. Para desenvolvedores, isso resolve um problema real: entender o que um agente está pensando e por que errou. A abordagem local é boa para privacidade e para iteração rápida. Mostra que a área de ferramentas de desenvolvimento para agentes está amadurecendo. Vale testar se você cria agentes.",
-    "reasonEn": "Paper is a command-line tool built to debug AI agents without uploading data to remote APIs. For developers, this solves a real problem: understanding what an agent is thinking and why it failed. The local approach is good for privacy and for fast iteration. It shows the area of development tools for agents is maturing. Worth testing if you build agents.",
-    "score": 0.7,
-    "tags": [
-      "dev-tools",
-      "agentes",
-      "depuração"
-    ],
-    "img": "img/05afe166d64e.jpg",
-    "ts": 1790884273,
-    "addedTs": 1790892536,
-    "urlHash": "05afe166d64e",
-    "titleHash": "53095e188771"
-  },
-  {
-    "title": "AI fabrication suspected of writing articles in Canadian publications",
-    "titlePt": "Suspeita de IA fabricando artigos em publicações canadenses",
-    "url": "https://www.theglobeandmail.com/world/article-ai-suspected-of-writing-dozens-of-articles-in-canadian-publications/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Investigadores descobriram que artigos publicados em veículos canadenses parecem ter sido gerados por IA, possivelmente por pessoas tentando lucrar com conteúdo automatizado. O caso levanta questões sobre a integridade do jornalismo e a confiança do público em notícias online. Para profissionais de mídia, é mais um sinal de que sistemas de detecção de IA em texto se tornam essenciais. Consumidores devem redobrar a atenção ao ler matérias em sites menores.",
-    "reasonEn": "Investigators discovered that articles published in Canadian outlets appear to have been generated by AI, possibly by people trying to profit from automated content. The case raises questions about journalism integrity and public trust in online news. For media professionals, it is another sign that AI text detection systems are becoming essential. Consumers should pay more attention when reading articles on smaller sites.",
-    "score": 0.5,
-    "tags": [
-      "mídia",
-      "ética",
-      "fraude"
-    ],
-    "img": "img/38db807b479e.jpg",
-    "ts": 1790883629,
-    "addedTs": 1790892536,
-    "urlHash": "38db807b479e",
-    "titleHash": "05ad4762495e"
-  },
-  {
-    "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-    "titlePt": "OpenAI rompe com três pesquisadores de segurança, reporta WSJ",
-    "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A OpenAI desligou três pesquisadores ligados a áreas de segurança de IA, segundo o Wall Street Journal. A movimentação levanta preocupações sobre o quanto a empresa prioriza segurança em meio à corrida por lançamentos. Para o ecossistema, é mais um capítulo da tensão entre velocidade comercial e pesquisa responsável. Profissionais e investidores do setor devem prestar atenção porque afeta a percepção de governança da OpenAI.",
-    "reasonEn": "OpenAI fired three researchers linked to AI safety areas, according to the Wall Street Journal. The move raises concerns about how much the company prioritizes safety amid the race for launches. For the ecosystem, it is another chapter in the tension between commercial speed and responsible research. Industry professionals and investors should pay attention because it affects perceptions of the company's governance.",
-    "score": 0.75,
-    "tags": [
-      "openai",
-      "segurança",
-      "governança"
-    ],
-    "img": "img/7f938778420c.jpg",
-    "ts": 1790878482,
-    "addedTs": 1790892536,
-    "urlHash": "7f938778420c",
-    "titleHash": "d08e46ec8b02"
-  },
-  {
-    "title": "Amazon releases its own Jev clone as decision models flood the web",
-    "titlePt": "Amazon lança seu próprio clone do Jev enquanto modelos de decisão se espalham",
-    "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A Amazon entrou na corrida dos modelos de decisão com um clone do Jev, ferramenta que organiza o trabalho de agentes de IA. O movimento mostra que toda grande empresa de tecnologia quer sua própria versão desse tipo de modelo, após o sucesso do Jev da OpenAI. Para desenvolvedores, significa mais opções no ecossistema, mas também mais fragmentação. A tendência é que modelos de decisão virem commodity rapidamente.",
-    "reasonEn": "Amazon entered the decision model race with a Jev clone, a tool that organizes the work of AI agents. The move shows that every big tech company wants its own version of this type of model, following OpenAI's Jev success. For developers, it means more options in the ecosystem, but also more fragmentation. The trend is that decision models will quickly become a commodity.",
-    "score": 0.7,
-    "tags": [
-      "amazon",
-      "jev",
-      "modelo-decisão"
-    ],
-    "img": "img/4dae654fec00.jpg",
-    "ts": 1790873362,
-    "addedTs": 1790892536,
-    "urlHash": "4dae654fec00",
-    "titleHash": "96cdb56a8d46"
-  },
-  {
-    "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
-    "titlePt": "Shopify lança Canvas: crie lojas online conversando com IA",
-    "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A Shopify apresentou o Canvas, um sistema que permite montar uma loja virtual inteira conversando com IA. Para lojistas pequenos, isso reduz drasticamente a barreira técnica de criar um e-commerce. Para desenvolvedores, é interessante ver um SaaS tradicional abraçando agentes como nova interface. O sucesso vai depender da qualidade dos temas gerados e da integração com pagamentos.",
-    "reasonEn": "Shopify introduced Canvas, a system that lets you build an entire online store by chatting with AI. For small merchants, this drastically lowers the technical barrier to creating an e-commerce. For developers, it is interesting to see a traditional SaaS embracing agents as a new interface. Success will depend on the quality of the generated themes and payment integration.",
-    "score": 0.55,
-    "tags": [
-      "shopify",
-      "e-commerce",
-      "agentes"
-    ],
-    "img": "img/2d92623ab273.jpg",
-    "ts": 1790873075,
-    "addedTs": 1790892536,
-    "urlHash": "2d92623ab273",
-    "titleHash": "0ec7dc08a94e"
-  },
-  {
-    "title": "Brian Chesky interview: AI agents need their own operating system",
-    "titlePt": "Brian Chesky: agentes de IA precisam de um sistema operacional próprio",
-    "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "Em entrevista, o CEO do Airbnb defende que agentes de IA são uma nova classe de software e precisam de um sistema operacional dedicado. A ideia é que agentes exigem gerenciamento de memória, identidade e permissões, como processos em um SO. Para desenvolvedores, é uma visão útil para pensar em arquitetura de produtos agenticos. Ainda é cedo, mas grandes empresas já estão moldando esse discurso.",
-    "reasonEn": "In an interview, Airbnb's CEO argues that AI agents are a new class of software and need a dedicated operating system. The idea is that agents require memory management, identity, and permissions, like processes in an OS. For developers, it is a useful vision for thinking about agentic product architecture. It is still early, but big companies are already shaping this discourse.",
-    "score": 0.5,
-    "tags": [
-      "airbnb",
-      "agentes",
-      "arquitetura"
-    ],
-    "img": "img/a2d48c4baa3e.jpg",
-    "ts": 1790867520,
-    "addedTs": 1790892536,
-    "urlHash": "a2d48c4baa3e",
-    "titleHash": "7b82c82d6c56"
-  },
-  {
-    "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-    "titlePt": "Olmo-core 3: infraestrutura aberta e escalável para treinar grandes MoEs",
-    "url": "https://huggingface.co/blog/allenai/olmocore3",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "A equipe da Ai2 lançou o Olmo-core 3, um stack aberto para treinar modelos MoE de grande porte. Para desenvolvedores e pesquisadores, é uma alternativa real a soluções fechadas como as da NVIDIA ou das hyperscalers. O foco em escalabilidade e abertura pode acelerar a pesquisa em modelos grandes. Vale acompanhar quem trabalha com treinamento distribuído.",
-    "reasonEn": "The Ai2 team released Olmo-core 3, an open stack for training large MoE models. For developers and researchers, it is a real alternative to closed solutions like those from NVIDIA or hyperscalers. The focus on scalability and openness could accelerate research in large models. Worth following for those working with distributed training.",
-    "score": 0.7,
-    "tags": [
-      "open-source",
-      "infraestrutura",
-      "moe"
-    ],
-    "img": "img/f928531f9637.jpg",
-    "ts": 1790866903,
-    "addedTs": 1790892536,
-    "urlHash": "f928531f9637",
-    "titleHash": "68737ec4b5c5"
-  },
-  {
-    "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
-    "titlePt": "Novo agente da OpenAI dá um tiro na Meta, mas aguenta competir de graça?",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "A OpenAI lançou um novo agente que entra diretamente no território da Meta, mas enfrenta modelos rivais gratuitos. O movimento mostra a corrida cada vez mais agressiva no espaço de agentes de IA. Para usuários, é mais uma opção poderosa chegando ao mercado. Para o ecossistema, levanta a questão sobre quanto valor agentes pagos ainda conseguem entregar frente a alternativas abertas.",
-    "reasonEn": "OpenAI launched a new agent that goes directly into Meta's territory, but faces free rival models. The move shows the increasingly aggressive race in the AI agent space. For users, it is another powerful option arriving in the market. For the ecosystem, it raises the question of how much value paid agents can still deliver compared to open alternatives.",
-    "score": 0.6,
-    "tags": [
-      "openai",
-      "meta",
-      "agentes"
-    ],
-    "img": "img/3c93c11303b9.jpg",
-    "ts": 1790865509,
-    "addedTs": 1790892536,
-    "urlHash": "3c93c11303b9",
-    "titleHash": "fe76aa5fc731"
-  },
-  {
-    "title": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan",
-    "titlePt": "Ferramenta de IA 'lê a mente' e reconstrói o que você vê a partir de escaneamento cerebral",
-    "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
-    "source": "MIT Tech Review",
-    "sources": [
-      "MIT Tech Review"
-    ],
-    "reason": "Pesquisadores criaram uma IA capaz de reconstruir imagens do que uma pessoa está olhando a partir de escaneamentos cerebrais. A técnica combina modelos generativos com decodificação neural e avança a fronteira da neurociência computacional. Para desenvolvedores, mostra o poder crescente da IA multimodal e levanta questões sérias de privacidade. É um daqueles anúncios que chamam atenção para o que vem nos próximos anos.",
-    "reasonEn": "Researchers created an AI capable of reconstructing images of what a person is looking at from brain scans. The technique combines generative models with neural decoding and pushes the frontier of computational neuroscience. For developers, it shows the growing power of multimodal AI and raises serious privacy questions. It is one of those announcements that draws attention to what is coming in the next few years.",
-    "score": 0.7,
-    "tags": [
-      "neurociência",
-      "ia-generativa",
-      "privacidade"
-    ],
-    "img": "img/12325ef966b0.jpg",
-    "ts": 1790850744,
-    "addedTs": 1790892536,
-    "urlHash": "12325ef966b0",
-    "titleHash": "f3dec41694e8"
   }
 ]
