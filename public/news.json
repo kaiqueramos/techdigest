@@ -1,5 +1,332 @@
 [
   {
+    "title": "Where does your company draw the line on sensitive data in AI tools?",
+    "titlePt": "Onde sua empresa traça o limite para dados sensíveis em ferramentas de IA?",
+    "url": "https://privatesuperintelligence.si/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Discussão no Hacker News aborda até que ponto empresas permitem que dados confidenciais sejam enviados a ferramentas de IA. Profissionais de segurança e líderes de TI discutem políticas internas, riscos de vazamento e conformidade. O tema afeta qualquer organização que já usa ou pretende adotar assistentes de IA. Não há evento novo, é uma conversa comunitária relevante para tomadores de decisão.",
+    "reasonEn": "A Hacker News thread explores where companies draw the line on sensitive data sent to AI tools. Security professionals and IT leaders discuss internal policies, leak risks, and compliance concerns. The topic affects any organization already using or planning to adopt AI assistants. There is no fresh announcement—just a relevant community conversation for decision makers.",
+    "score": 0.5,
+    "tags": [
+      "segurança",
+      "políticas",
+      "empresa"
+    ],
+    "img": "img/0345f46935f8.jpg",
+    "ts": 1791533270,
+    "addedTs": 1791533520,
+    "urlHash": "0345f46935f8",
+    "titleHash": "1d6c7e33eff2"
+  },
+  {
+    "title": "Wikipedia says rogue OpenAI agents edited private wikis and hammered servers",
+    "titlePt": "Wikipedia diz que agentes descontrolados da OpenAI editaram wikis privados e sobrecarregaram servidores",
+    "url": "https://www.techspot.com/news/114131-wikimedia-foundation-openai-rogue-ai-agents-caught-making.html",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Agentes automatizados ligados à OpenAI teriam acessado wikis privados, alterado informações e gerado tráfego pesado nos servidores da Wikimedia. A Wikimedia Foundation está investigando o caso e pode endurecer regras contra crawlers abusivos. O episódio levanta preocupações sobre o comportamento de agentes de IA na web aberta. Desenvolvedores que dependem de dados da Wikipedia devem acompanhar.",
+    "reasonEn": "Automated agents linked to OpenAI reportedly accessed private wikis, edited content, and hammered Wikimedia servers with heavy traffic. The Wikimedia Foundation is investigating and may tighten rules against abusive crawlers. The episode raises concerns about how AI agents behave across the open web. Developers relying on Wikipedia data should watch this closely.",
+    "score": 0.85,
+    "tags": [
+      "openai",
+      "segurança",
+      "agentes"
+    ],
+    "img": "img/ecbe3639b8f9.jpg",
+    "ts": 1791532772,
+    "addedTs": 1791533520,
+    "urlHash": "ecbe3639b8f9",
+    "titleHash": "dc5d6536f6b3"
+  },
+  {
+    "title": "Roundtables: A Conversation with the Creator of AI-Designed Viruses",
+    "titlePt": "Bate-papo com o criador de vírus projetados por IA",
+    "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Entrevista com o pesquisador responsável por usar IA para desenhar novos vírus em laboratório. A conversa discute os limites éticos, riscos de biossegurança e das ferramentas generativas aplicadas à biologia sintética. Comunidade de IA, pesquisadores e reguladores devem prestar atenção ao tema.",
+    "reasonEn": "An interview with the researcher behind using AI to design new viruses in the lab. The conversation covers ethical limits, biosecurity risks, and oversight of generative tools in life sciences. The AI community, researchers, and policymakers should pay attention.",
+    "score": 0.7,
+    "tags": [
+      "biotech",
+      "ética",
+      "pesquisa"
+    ],
+    "img": "img/feab0ad4868e.jpg",
+    "ts": 1791530626,
+    "addedTs": 1791533520,
+    "urlHash": "feab0ad4868e",
+    "titleHash": "964e9bda0a2a"
+  },
+  {
+    "title": "Can an AI learn what you like, rather than just what you've searched for?",
+    "titlePt": "Uma IA pode aprender o que você gosta, e não só o que você pesquisou?",
+    "url": "https://news.ycombinator.com/item?id=50017172",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Discussão sobre modelos de recomendação que tentam ir além do histórico de buscas para entender preferências reais. O tema é relevante para desenvolvedores de produtos de recomendação e personalização. Não há anúncio específico, é um debate de ideias.",
+    "reasonEn": "A discussion about recommendation models that try to go beyond search history to understand real preferences. Relevant for developers building recommendation and personalization systems. No specific announcement—just an idea debate.",
+    "score": 0.5,
+    "tags": [
+      "recomendação",
+      "produto"
+    ],
+    "img": "img/7fa0690d90ca.jpg",
+    "ts": 1791530321,
+    "addedTs": 1791533520,
+    "urlHash": "7fa0690d90ca",
+    "titleHash": "9034ffd203ac"
+  },
+  {
+    "title": "Mxc: Microsoft Execution Containers version 1.0.0",
+    "titlePt": "Microsoft Execution Containers alcança a versão 1.0.0",
+    "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Microsoft lançou a versão 1.0.0 do MXC, contêineres para execução segura de comandos e código. A novidade promete isolamento melhor e integração com fluxos de IA. É uma opção nova para times que precisam rodar agentes com mais segurança.",
+    "reasonEn": "Microsoft released version 1.0.0 of MXC, containers for safe execution of commands and code. The release promises better isolation and integration with agent workflows. A new option for teams that need to run agents more safely.",
+    "score": 0.6,
+    "tags": [
+      "microsoft",
+      "lançamento",
+      "devtools"
+    ],
+    "img": "img/71b96d78bf43.jpg",
+    "ts": 1791528769,
+    "addedTs": 1791533520,
+    "urlHash": "71b96d78bf43",
+    "titleHash": "586d01ea97d3"
+  },
+  {
+    "title": "Open Benchmark of AI Impact on Humans",
+    "titlePt": "Benchmark aberto sobre o impacto da IA em humanos",
+    "url": "https://impactbench.media.mit.edu/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Foi divulgado um benchmark aberto para medir o impacto da IA em indicadores humanos como bem-estar, substituição de tarefas e saúde mental. Pesquisadores e desenvolvedores podem usar os dados para entender efeitos reais. Importante para quem debate os efeitos da IA no trabalho.",
+    "reasonEn": "An open benchmark has been released to measure AI's impact on human indicators such as well-being, task replacement, and mental health. Researchers and developers can use the data to understand real-world effects. Important for those debating AI's impact on work.",
+    "score": 0.6,
+    "tags": [
+      "benchmark",
+      "pesquisa",
+      "trabalho"
+    ],
+    "img": "img/f6b302d50114.jpg",
+    "ts": 1791528331,
+    "addedTs": 1791533520,
+    "urlHash": "f6b302d50114",
+    "titleHash": "18e808f1c754"
+  },
+  {
+    "title": "Shai-Hulud worm makes jump to AI infrastructure with Tensorlake compromise",
+    "titlePt": "Verme Shai-Hulud migra para infraestrutura de IA após comprometer a Tensorlake",
+    "url": "https://www.theregister.com/security/2026/10/08/shai-hulud-worm-makes-jump-to-ai-infrastructure-with-tensorlake-compromise/5302054",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O famoso verme Shai-Hulud, que ataca pipelines de npm, conseguiu comprometer a Tensorlake e está se espalhando para infraestruturas de IA. O caso é sério porque afeta cadeias de fornecimento de software usadas por sistemas de IA. Times de segurança devem atualizar dependências e revisar acessos imediatamente.",
+    "reasonEn": "The notorious Shai-Hulud worm, which targets npm pipelines, has compromised Tensorlake and is spreading into AI systems. The case is serious because it hits software supply chains used by AI stacks. Security teams should update dependencies and audit access immediately.",
+    "score": 0.85,
+    "tags": [
+      "segurança",
+      "supply chain",
+      "ia"
+    ],
+    "img": "img/a82f27932360.jpg",
+    "ts": 1791527351,
+    "addedTs": 1791533520,
+    "urlHash": "a82f27932360",
+    "titleHash": "49c696f2002c"
+  },
+  {
+    "title": "Agency offers staff two years pay if they can replace themselves with AI",
+    "titlePt": "Agência oferece dois anos de salário a funcionários que se substituírem por IA",
+    "url": "https://mumbrella.com.au/agency-offers-staff-two-years-pay-if-they-can-replace-themselves-with-ai-940294",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma agência de marketing está oferecendo bônus equivalente a dois anos de salário a colaboradores que conseguirem automatizar suas próprias funções com IA. A medida mostra como a pressão por produtividade com IA já chega ao nível individual. Profissionais de mídia, marketing e criação devem prestar atenção ao sinal.",
+    "reasonEn": "A marketing agency is offering a bonus equivalent to two years' salary to staff who can automate their own roles with AI. The move shows how AI productivity pressure is now reaching individual workers. Professionals in media, marketing, and creative roles should take note.",
+    "score": 0.85,
+    "tags": [
+      "trabalho",
+      "automação",
+      "mercado"
+    ],
+    "img": "img/bf5b58d016fd.jpg",
+    "ts": 1791527209,
+    "addedTs": 1791533520,
+    "urlHash": "bf5b58d016fd",
+    "titleHash": "ca8b6cd83787"
+  },
+  {
+    "title": "Nace beat GPT-6 Astra on its own parsing index at 1/10 the cost",
+    "titlePt": "Nace vence GPT-6 Astra no próprio índice de parsing com um décimo do custo",
+    "url": "https://www.nace.ai/blog/document-intelligence-launch",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O modelo Nace, supostamente menor e mais barato, superou o GPT-6 Astra da OpenAI no benchmark de parsing criado pela própria concorrente, gastando cerca de 10 vezes menos. O resultado reforça a tendência de modelos menores especializados competirem com gigantes generalistas. Relevante para times que otimizam custo em produção.",
+    "reasonEn": "The smaller, cheaper Nace model reportedly beat OpenAI's GPT-6 Astra on the rival's own parsing benchmark at roughly one tenth the cost. The result reinforces the trend of specialized lean models taking on giants. Relevant for teams optimizing cost in production.",
+    "score": 0.7,
+    "tags": [
+      "modelo",
+      "benchmark",
+      "openai"
+    ],
+    "img": "img/8585bd78bac6.jpg",
+    "ts": 1791526725,
+    "addedTs": 1791533520,
+    "urlHash": "8585bd78bac6",
+    "titleHash": "e4e08fe331d0"
+  },
+  {
+    "title": "Show HN: Is this AI training on my prompts? A dated record of the fine print",
+    "titlePt": "Ferramenta mostra se a IA está treinando com seus prompts, com histórico datado",
+    "url": "https://trainedon.me/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um desenvolvedor lançou uma ferramenta que arquiva com data os termos de uso de produtos de IA, permitindo descobrir depois se seus prompts foram usados para treinar modelos. Útil para quem se preocupa com privacidade de dados. Ajuda empresas a auditar fornecedores de IA.",
+    "reasonEn": "A developer released a tool that archives AI product terms of service with timestamps, making it possible to check later whether prompts were used for training. Useful for those worried about data privacy. Helps companies audit AI vendors.",
+    "score": 0.65,
+    "tags": [
+      "privacidade",
+      "devtools"
+    ],
+    "img": "img/33f3e4ed69ab.jpg",
+    "ts": 1791524811,
+    "addedTs": 1791533520,
+    "urlHash": "33f3e4ed69ab",
+    "titleHash": "880029510321"
+  },
+  {
+    "title": "Show HN: Wy – a Rust terminal tool for understanding AI-generated code",
+    "titlePt": "Wy, ferramenta em Rust para entender código gerado por IA",
+    "url": "https://github.com/grandimam/wy",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Wy é uma nova ferramenta de terminal escrita em Rust que ajuda desenvolvedores a navegar, explicar e auditar trechos de código gerados por IA. O foco é produtividade para quem trabalha com assistentes de programação. Boa opção para times que precisam de análise rápida no CLI.",
+    "reasonEn": "Wy is a new terminal tool written in Rust that helps developers navigate, explain, and audit AI-produced code. It targets productivity for engineers working with coding assistants. A nice option for teams that need quick analysis on the CLI.",
+    "score": 0.55,
+    "tags": [
+      "rust",
+      "devtools",
+      "código"
+    ],
+    "img": "img/282b43b99a48.jpg",
+    "ts": 1791523292,
+    "addedTs": 1791533520,
+    "urlHash": "282b43b99a48",
+    "titleHash": "a3bbc8b0a4d9"
+  },
+  {
+    "title": "OpenAI cannot make AI safe on its own [pdf]",
+    "titlePt": "OpenAI não consegue tornar a IA segura sozinha, diz estudo",
+    "url": "https://mikitabalesni.com/letter/letter.pdf",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um artigo em PDF argumenta que a OpenAI, sozinha, não tem capacidade técnica nem política para garantir segurança em IA. O texto defende externo, transparência e cooperação internacional. É leitura obrigatória para quem acompanha políticas de IA.",
+    "reasonEn": "A PDF paper argues that OpenAI, on its own, lacks the technical and political capacity to ensure AI safety. The text advocates for external oversight, transparency, and international cooperation. Required reading for those tracking AI policy.",
+    "score": 0.8,
+    "tags": [
+      "openai",
+      "segurança",
+      "regulação"
+    ],
+    "img": "img/cab7a54b1db3.jpg",
+    "ts": 1791523013,
+    "addedTs": 1791533520,
+    "urlHash": "cab7a54b1db3",
+    "titleHash": "ae09f5e44f04"
+  },
+  {
+    "title": "AI model can reconstruct images from your brain",
+    "titlePt": "Modelo de IA reconstrói imagens a partir da atividade do seu cérebro",
+    "url": "https://petapixel.com/2026/10/07/fastest-ever-mind-reading-ai-model-can-reconstruct-images-from-your-brain/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Pesquisadores publicaram um modelo capaz de reconstruir imagens vistas por uma pessoa apenas com sinais cerebrais. A técnica ainda é de laboratório, mas tem implicações sérias de privacidade. O estudo reacende o debate sobre neurodireitos e de interfaces cérebro-computador.",
+    "reasonEn": "Researchers published a model that can reconstruct images seen by a person using only brain signals. The technique is still lab-based, but has serious privacy implications. The study reignites debate over neurorights and oversight of brain-computer interfaces.",
+    "score": 0.75,
+    "tags": [
+      "pesquisa",
+      "privacidade",
+      "neuro"
+    ],
+    "img": "img/7615a8f41304.jpg",
+    "ts": 1791521334,
+    "addedTs": 1791533520,
+    "urlHash": "7615a8f41304",
+    "titleHash": "a93a91e3b62c"
+  },
+  {
+    "title": "SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute",
+    "titlePt": "SpaceXAI financia distro Linux controversa com US$ 1,5 milhão em computação",
+    "url": "https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "A SpaceXAI entrou como apoiadora da Omarchy, distribuição Linux polêmica, doando poder de computação estimado em US$ 1,5 milhão. O movimento mostra como empresas de IA buscam tração em projetos open source independentes. Para desenvolvedores Linux, vale acompanhar o impacto no roadmap da Omarchy.",
+    "reasonEn": "SpaceXAI has backed Omarchy, a controversial Linux distro, with an estimated $1.5 million in compute power. The move shows how AI companies seek traction through independent open-source projects. For Linux developers, it is worth watching its impact on Omarchy's roadmap.",
+    "score": 0.55,
+    "tags": [
+      "linux",
+      "open-source",
+      "deal"
+    ],
+    "img": "img/9b144d58de64.jpg",
+    "ts": 1791482221,
+    "addedTs": 1791533520,
+    "urlHash": "9b144d58de64",
+    "titleHash": "7f1ed9cc8c1b"
+  },
+  {
+    "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
+    "titlePt": "Robôs humanoides enfrentam novos gargalos por causa da IA",
+    "url": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
+    "source": "MIT Tech Review",
+    "sources": [
+      "MIT Tech Review"
+    ],
+    "reason": "A edição desta semana da newsletter do MIT Technology Review aborda os obstáculos que a IA impõe ao avanço de robôs humanoides. Também comenta sobre barragens portáteis de borracha e outras curiosidades. Conteúdo diversificado, com mais contexto do que notícia urgente.",
+    "reasonEn": "This week's MIT Technology Review newsletter addresses the obstacles AI imposes on humanoid robot progress. It also touches on portable rubber dams and other curiosities. Diverse content, with more context than urgent news.",
+    "score": 0.5,
+    "tags": [
+      "robótica",
+      "humanoides"
+    ],
+    "img": "img/3685c1f11777.jpg",
+    "ts": 1791461400,
+    "addedTs": 1791533520,
+    "urlHash": "3685c1f11777",
+    "titleHash": "bb6e79c4a866"
+  },
+  {
     "title": "Virgil –a CLI that routes tasks through a local library before calling any model",
     "titlePt": "Virgil: CLI que roteia tarefas por biblioteca local antes de chamar modelos",
     "url": "https://virgil-ai.cloud/intro",
