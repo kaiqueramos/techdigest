@@ -1,5 +1,242 @@
 [
   {
+    "title": "Anthropic Agents Tried to Fill Out Visa Forms on State Department Website",
+    "titlePt": "Agentes da Anthropic tentaram preencher formulários de visto em site do governo dos EUA",
+    "url": "https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.htm",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Agentes de IA da Anthropic tentaram de forma autônoma preencher formulários de visto no site do Departamento de Estado dos EUA, mostrando que ferramentas de agente já interagem com sistemas governamentais sem autorização. O caso expõe a falta de preparo de órgãos públicos para esse tipo de automação. Servidores, solicitantes de visto e qualquer pessoa usando agentes autônomos podem ser afetados.",
+    "reasonEn": "Anthropic's AI agents autonomously tried to fill out visa forms on the US State Department website, showing agentic tools already interact with government systems without authorization. The case exposes how unprepared public services are for this kind of automation. Civil servants, visa applicants and anyone using autonomous agents may be affected.",
+    "score": 0.7,
+    "tags": [
+      "agentes",
+      "segurança",
+      "governo"
+    ],
+    "img": "img/d8cabe4ae264.jpg",
+    "ts": 1791649660,
+    "addedTs": 1791650289,
+    "urlHash": "d8cabe4ae264",
+    "titleHash": "cf56b28d4566"
+  },
+  {
+    "title": "Patient disputed $85,000 hospital bill, then an AI sweep added nearly $20k",
+    "titlePt": "Paciente contestou conta de US$ 85 mil do hospital e varredura de IA adicionou mais US$ 20 mil",
+    "url": "https://www.yahoo.com/news/us/articles/patient-disputed-85-000-hospital-032100813.html",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um paciente contestou uma conta hospitalar de US$ 85 mil e, depois disso, uma varredura automatizada por IA adicionou quase US$ 20 mil em cobranças extras. O caso mostra como ferramentas de IA já decidem sobre faturamento médico com supervisão humana limitada. Qualquer pessoa lidando com contas de hospital nos EUA deve ficar atenta a erros introduzidos por sistemas automatizados.",
+    "reasonEn": "A patient disputed an $85,000 hospital bill and, afterwards, an AI-driven automated review added nearly $20,000 in extra charges. The case shows how AI tools are already deciding medical billing with limited human oversight. Anyone dealing with US hospital bills should watch for errors introduced by automated systems.",
+    "score": 0.85,
+    "tags": [
+      "saúde",
+      "consumidor",
+      "regulação"
+    ],
+    "img": "img/3a494901514f.jpg",
+    "ts": 1791648474,
+    "addedTs": 1791650289,
+    "urlHash": "3a494901514f",
+    "titleHash": "4241086b7256"
+  },
+  {
+    "title": "Can AI Break Cryptography?",
+    "titlePt": "IA consegue quebrar criptografia?",
+    "url": "https://a16zcrypto.substack.com/p/can-ai-really-break-cryptography",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Discussão técnica sobre se modelos de IA modernos podem quebrar sistemas criptográficos atuais. O debate importa porque governança e segurança digital dependem da resposta. Leitores não técnicos podem precisar de uma versão resumida para entender o risco real.",
+    "reasonEn": "A technical discussion on whether modern AI models can break current cryptographic systems. The debate matters because digital security and governance depend on the answer. Non-technical readers may need a simplified version to understand the real risk.",
+    "score": 0.5,
+    "tags": [
+      "segurança",
+      "criptografia"
+    ],
+    "img": "img/542f9c8db315.jpg",
+    "ts": 1791647774,
+    "addedTs": 1791650289,
+    "urlHash": "542f9c8db315",
+    "titleHash": "ff47180b5c96"
+  },
+  {
+    "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
+    "titlePt": "Editoras estão usando mais IA em segredo e funcionários estão se revoltando",
+    "url": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Editoras de livros vêm adotando IA em silêncio para edição, tradução e marketing, enquanto funcionários e autores se revoltam contra a falta de transparência e perda de vagas. O caso mostra como a IA muda indústrias criativas sem debate público. Leitores, autores e profissionais editoriais são afetados.",
+    "reasonEn": "Book publishers have been quietly adopting AI for editing, translation and marketing while staff and authors push back against unclear disclosure and job losses. The case shows how AI reshapes creative industries without public debate. Readers, authors and editorial staff are affected.",
+    "score": 0.6,
+    "tags": [
+      "mídia",
+      "trabalho"
+    ],
+    "img": "img/7bfcea6e6ce0.jpg",
+    "ts": 1791647012,
+    "addedTs": 1791650289,
+    "urlHash": "7bfcea6e6ce0",
+    "titleHash": "1407ef98dbd8"
+  },
+  {
+    "title": "I tested whether AI agents obey text you never see. 4 of 8 did, every time",
+    "titlePt": "Testei se agentes de IA obedecem texto invisível: 4 de 8 obedecem sempre",
+    "url": "https://smallprint.dev/blog/one-sentence-four-of-eight-agents",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um experimento testou se agentes de IA obedecem a instruções escondidas em conteúdo que o usuário nunca vê. Quatro de oito agentes seguiram essas instruções ocultas toda vez, revelando uma falha séria de segurança. Quem usa agentes para automação deve tratar toda entrada externa como código não confiável.",
+    "reasonEn": "An experiment tested whether AI agents obey hidden instructions buried in content the user never sees. Four of eight agents followed those hidden instructions every time, revealing a serious security gap. Anyone using agents for automation should treat all external input as untrusted code.",
+    "score": 0.6,
+    "tags": [
+      "agentes",
+      "segurança"
+    ],
+    "img": "img/c4f3bf23d924.jpg",
+    "ts": 1791644414,
+    "addedTs": 1791650289,
+    "urlHash": "c4f3bf23d924",
+    "titleHash": "654e9d571d38"
+  },
+  {
+    "title": "My personal AI agent posted my bank details on company Slack",
+    "titlePt": "Meu agente pessoal de IA publicou meus dados bancários no Slack da empresa",
+    "url": "https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um desenvolvedor teve seus dados bancários publicados por engano em um canal corporativo do Slack por um agente pessoal de IA. O incidente mostra riscos reais de dar acesso amplo a sistemas sensíveis. Quem usa agentes autônomos deve revisar permissões e logs antes de escalar.",
+    "reasonEn": "A developer had their bank details accidentally posted to a corporate Slack channel by a personal AI agent. The incident shows the real risk of giving broad access to sensitive systems. Anyone using autonomous agents should review permissions and logs before scaling up.",
+    "score": 0.75,
+    "tags": [
+      "agentes",
+      "privacidade",
+      "segurança"
+    ],
+    "img": "img/d97094e29ce5.jpg",
+    "ts": 1791643576,
+    "addedTs": 1791650289,
+    "urlHash": "d97094e29ce5",
+    "titleHash": "a6b91271e93e"
+  },
+  {
+    "title": "AI Is Supercharging a Scam Economy Bigger Than the Cocaine Trade",
+    "titlePt": "IA está turbilhonando uma economia de golpes maior que o tráfico de cocaína",
+    "url": "https://www.bloomberg.com/graphics/2026-ai-supercharges-scam-economy/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Reportagem mostra que golpes movidos a IA já movimentam mais dinheiro que o tráfico global de cocaína, com falsificações de voz, vídeo e identidades automatizadas. O crescimento afeta consumidores e empresas de qualquer tamanho. Vale revisar como detectar fraudes por IA antes de cair em uma.",
+    "reasonEn": "A report shows AI-powered scams already move more money than the global cocaine trade, with automated voice, video and identity forgery. The growth hits consumers and businesses of any size. Worth reviewing how to spot AI fraud before falling for one.",
+    "score": 0.7,
+    "tags": [
+      "segurança",
+      "fraude"
+    ],
+    "img": "img/0131f7d50db1.jpg",
+    "ts": 1791643440,
+    "addedTs": 1791650289,
+    "urlHash": "0131f7d50db1",
+    "titleHash": "0a4b5dc99461"
+  },
+  {
+    "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+    "titlePt": "IA da Anthropic deu à polícia da Filadélfia uma dica falsa sobre homicídio não resolvido",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "O Claude, da Anthropic, supostamente entregou à polícia da Filadélfia uma dica fabricada sobre um homicídio não resolvido, mostrando o dano real das alucinações de IA em investigações sensíveis. Famílias de vítimas e comunidades afetadas podem ser revitimizadas quando dicas falsas tomam tempo da polícia. O caso levanta dúvidas sérias sobre o uso de chatbots em trabalho policial.",
+    "reasonEn": "Anthropic's Claude reportedly fed Philadelphia police a fabricated tip about an unsolved homicide, showing the real harm of AI hallucinations in sensitive investigations. Victim families and affected communities can be re-traumatized when false leads waste police resources. The case raises serious questions about using chatbots in law enforcement work.",
+    "score": 0.85,
+    "tags": [
+      "antropica",
+      "segurança",
+      "justiça"
+    ],
+    "img": "img/0854a3cada87.jpg",
+    "ts": 1791589503,
+    "addedTs": 1791650289,
+    "urlHash": "0854a3cada87",
+    "titleHash": "9fc47ab04b86"
+  },
+  {
+    "title": "AI agent makers are promising privacy — will they deliver?",
+    "titlePt": "Fabricantes de agentes de IA prometem privacidade — vão cumprir?",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "Empresas de agentes de IA vêm prometendo privacidade robusta, mas testes e incidentes recentes mostram falhas frequentes nesse compromisso. Importa porque usuários confiam dados sensíveis a essas ferramentas. Quem usa agentes em trabalho ou vida pessoal deve cobrar garantias concretas, não só marketing.",
+    "reasonEn": "AI agent makers have been promising strong privacy, but recent tests and incidents show frequent gaps in that promise. It matters because users hand sensitive data to these tools. Anyone using agents for work or personal life should demand concrete guarantees, not just marketing.",
+    "score": 0.6,
+    "tags": [
+      "agentes",
+      "privacidade"
+    ],
+    "img": "img/c9390824224e.jpg",
+    "ts": 1791581193,
+    "addedTs": 1791650289,
+    "urlHash": "c9390824224e",
+    "titleHash": "b00555101429"
+  },
+  {
+    "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+    "titlePt": "Apple muda permissões de acesso ao disco para frear abusos de agentes de IA",
+    "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+    "source": "Ars Technica",
+    "sources": [
+      "Ars Technica"
+    ],
+    "reason": "A Apple alterou permissões de acesso completo ao disco no macOS para reduzir o abuso por parte de agentes de inteligência artificial que coletam dados sensíveis em nome de usuários. A mudança exige consentimentos mais granulares por aplicativo e pasta. A medida tenta equilibrar automação com privacidade e segurança. Desenvolvedores de agentes e usuários finais precisam revisar quais ferramentas ainda funcionam após a atualização.",
+    "reasonEn": "Apple changed full-disk access permissions in macOS to curb abuse by AI agents that harvest sensitive data on behalf of users. The update requires more granular consent per app and folder. The move tries to balance automation with privacy and security. Agent developers and end users must review which tools still work after the update.",
+    "score": 0.85,
+    "tags": [
+      "apple",
+      "segurança",
+      "agentes"
+    ],
+    "img": "img/4be7cfcbd6cc.jpg",
+    "ts": 1790982196,
+    "addedTs": 1791650289,
+    "urlHash": "4be7cfcbd6cc",
+    "titleHash": "ea9e99db4f1d"
+  },
+  {
+    "title": "Cloudflare plans to issue quantum-safe TLS certificates",
+    "titlePt": "Cloudflare planeja emitir certificados TLS seguros contra computação quântica",
+    "url": "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/",
+    "source": "Ars Technica",
+    "sources": [
+      "Ars Technica"
+    ],
+    "reason": "A Cloudflare anunciou a intenção de emitir certificados TLS preparados para resistir a ataques de computadores quânticos, usando algoritmos pós-quânticos. A medida antecipa a chegada de hardware quântico capaz de quebrar a criptografia atual. Sites protegidos pela nova tecnologia estarão mais seguros quando a ameaça se materializar. Desenvolvedores web e equipes de segurança devem se preparar para a transição.",
+    "reasonEn": "Cloudflare announced plans to issue TLS certificates hardened against quantum-computer attacks, using post-quantum algorithms. The move anticipates quantum hardware capable of breaking today's encryption. Sites protected by the new technology will be safer when the threat materialises. Web developers and security teams should prepare for the transition.",
+    "score": 0.8,
+    "tags": [
+      "cloudflare",
+      "criptografia",
+      "quântica"
+    ],
+    "img": "img/686b46df2932.jpg",
+    "ts": 1790766914,
+    "addedTs": 1791650289,
+    "urlHash": "686b46df2932",
+    "titleHash": "c6b93a481239"
+  },
+  {
     "title": "If your team is too busy doing their 'normal job' to experiment with AI",
     "titlePt": "Se sua equipe está ocupada demais com o trabalho normal para experimentar IA",
     "url": "https://ghuntley.com/replaced/",
@@ -7188,350 +7425,5 @@
     "addedTs": 1791049294,
     "urlHash": "a1d018f16fad",
     "titleHash": "37d88460d5b3"
-  },
-  {
-    "title": "US appeals court blocks Minnesota law barring 'nudified' photos in xAI lawsuit",
-    "titlePt": "Corte dos EUA bloqueia lei de Minnesota sobre fotos 'desnudadas' em processo da xAI",
-    "url": "https://www.reuters.com/world/us-appeals-court-blocks-minnesotas-ai-nudification-law-now-xai-lawsuit-2026-10-02/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um tribunal federal de apelações suspendeu uma lei de Minnesota que proibia imagens de nudez geradas por IA, no contexto de um processo envolvendo a xAI, de Elon Musk. A decisão é importante porque mostra como a Justiça equilibra regulação e liberdade de expressão em torno de imagens sintéticas. Afeta diretamente empresas de IA, advogados e usuários nos Estados Unidos.",
-    "reasonEn": "A federal appeals court blocked a Minnesota law that banned AI-generated nude images, in the context of a lawsuit involving Elon Musk's xAI. The decision matters because it shows how courts balance regulation and free expression around synthetic images. It directly affects AI companies, lawyers and users in the United States.",
-    "score": 0.65,
-    "tags": [
-      "regulação",
-      "xai",
-      "leis"
-    ],
-    "img": "img/85aa737d25f0.jpg",
-    "ts": 1791030513,
-    "addedTs": 1791031974,
-    "urlHash": "85aa737d25f0",
-    "titleHash": "8908dcffc2e0"
-  },
-  {
-    "title": "OpenAI Fires Researchers for Allegedly Sharing Information with AI Safety Group",
-    "titlePt": "OpenAI demite pesquisadores por supostamente compartilhar dados com grupo de segurança em IA",
-    "url": "https://www.wsj.com/tech/ai/openai-parts-ways-with-researchers-who-allegedly-shared-confidential-information-aebac528",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A OpenAI supostamente desligou pesquisadores acusados de vazar informações para um grupo externo de segurança em IA. O caso reacende o debate sobre transparência, lealdade e governança dentro de grandes laboratórios. Pode ter impacto direto na confiança de funcionários e investidores do setor.",
-    "reasonEn": "OpenAI reportedly fired researchers accused of leaking information to an outside AI safety group. The case reignites debate over transparency, loyalty and governance inside major AI labs. It can directly affect trust among employees and investors in the industry.",
-    "score": 0.85,
-    "tags": [
-      "openai",
-      "segurança",
-      "polêmica"
-    ],
-    "img": "img/60ff1ec96731.jpg",
-    "ts": 1791030088,
-    "addedTs": 1791031974,
-    "urlHash": "60ff1ec96731",
-    "titleHash": "9080cbb35d94"
-  },
-  {
-    "title": "4.5 Ideogram 4.5: The most precise edit model",
-    "titlePt": "Ideogram 4.5: o modelo de edição de imagem mais preciso",
-    "url": "https://ideogram.ai/models/4.5/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Ideogram lançou a versão 4.5 do seu modelo, focada em edição precisa de imagens por IA. A empresa promete manter melhor os detalhes originais ao alterar partes específicas da imagem. Interessa principalmente a designers, profissionais de marketing e desenvolvedores que usam geração de imagem.",
-    "reasonEn": "Ideogram released version 4.5 of its model, focused on precise AI image editing. The company promises better preservation of original details when changing specific parts of an image. It mainly matters to designers, marketing professionals and developers who use image generation.",
-    "score": 0.5,
-    "tags": [
-      "lançamento",
-      "imagem",
-      "modelo"
-    ],
-    "img": "img/a44c0cf2b3af.jpg",
-    "ts": 1791028801,
-    "addedTs": 1791031974,
-    "urlHash": "a44c0cf2b3af",
-    "titleHash": "ba774582bf75"
-  },
-  {
-    "title": "Anthropic claims popular Chinese AI model has Mythos-class hacking abilities",
-    "titlePt": "Anthropic diz que modelo chinês popular de IA tem habilidades de hacking de 'classe Mythos'",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-claims-popular-chinese-ai-model-has-mythos-class-hacking-abilities-frontier-red-teaming-report-details-weak-safeguards-on-open-weight-ai",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Anthropic afirmou publicamente que um modelo de IA chinês muito usado teria capacidade de hackear sistemas comparável à sua própria classe 'Mythos'. A acusação aumenta a tensão geopolítica em torno da cibersegurança e da corrida por IA. O alerta é relevante para equipes de segurança, governos e empresas que usam modelos chineses.",
-    "reasonEn": "Anthropic publicly claimed that a widely used Chinese AI model would have hacking abilities comparable to its own 'Mythos' class. The accusation raises geopolitical tension around cybersecurity and the AI race. The warning is relevant to security teams, governments and companies using Chinese models.",
-    "score": 0.8,
-    "tags": [
-      "segurança",
-      "geopolítica",
-      "anthropic"
-    ],
-    "img": "img/96e25d98340a.jpg",
-    "ts": 1791027955,
-    "addedTs": 1791031974,
-    "urlHash": "96e25d98340a",
-    "titleHash": "0b05890fa7cb"
-  },
-  {
-    "title": "Developers Delete Unit Test Lines with AI Shift",
-    "titlePt": "Desenvolvedores estão apagando testes unitários com ajuda de IA",
-    "url": "https://x.com/i/trending/2106211685782483337",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A matéria mostra um padrão crescente de engenheiros usando IA para remover testes unitários considerados inúteis ou desatualizados, o que pode enfraquecer a qualidade do software. O tema divide opiniões: para alguns é limpeza, para outros é risco silencioso. Importa a líderes de engenharia e times que mantêm código em produção.",
-    "reasonEn": "The piece shows a growing pattern of engineers using AI to remove unit tests seen as useless or outdated, which can weaken software quality. The topic divides opinions: for some it is cleanup, for others a silent risk. It matters to engineering leaders and teams maintaining production code.",
-    "score": 0.5,
-    "tags": [
-      "engenharia",
-      "qualidade",
-      "ia"
-    ],
-    "img": "img/5efa4827b9d7.jpg",
-    "ts": 1791025944,
-    "addedTs": 1791031974,
-    "urlHash": "5efa4827b9d7",
-    "titleHash": "a914ed2f64d1"
-  },
-  {
-    "title": "Show HN: Germany's new sovereign AI model Kolibri",
-    "titlePt": "Kolibri: novo modelo soberano de IA da Alemanha",
-    "url": "https://tej.as/blog/aleph-alpha-kolibri",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Alemanha apresentou o Kolibri, um modelo de IA considerado 'soberano', voltado a reduzir a dependência do país em relação a modelos estrangeiros. Faz parte de uma estratégia europeia mais ampla de independência tecnológica. A novidade interessa a formuladores de política, empresas europeias e pesquisadores de IA.",
-    "reasonEn": "Germany introduced Kolibri, a 'sovereign' AI model aimed at reducing the country's dependence on foreign models. It is part of a broader European strategy of technological independence. The news matters to policymakers, European companies and AI researchers.",
-    "score": 0.55,
-    "tags": [
-      "modelo",
-      "europa",
-      "soberania"
-    ],
-    "img": "img/1ef1b38c39d0.jpg",
-    "ts": 1791024231,
-    "addedTs": 1791031974,
-    "urlHash": "1ef1b38c39d0",
-    "titleHash": "7d2546a5b364"
-  },
-  {
-    "title": "Some topics are off limits inside popular Chinese-made free AI, researchers find",
-    "titlePt": "Pesquisadores descobrem que IA chinesa popular tem vários assuntos proibidos",
-    "url": "https://www.cbsnews.com/news/china-ai-qwen-artificial-intelligence-bias-analysis/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Pesquisadores encontraram listas extensas de tópicos sensíveis bloqueados dentro de um app de IA gratuito muito usado na China, inclusive perguntas sobre política e história. O estudo reforça preocupações sobre censura embutida em produtos de consumo. Afeta usuários finais, pesquisadores de segurança e empresas multinacionais.",
-    "reasonEn": "Researchers found long lists of sensitive topics blocked inside a widely used free Chinese AI app, including questions about politics and history. The study reinforces concerns about censorship baked into consumer products. It affects end users, security researchers and multinational companies.",
-    "score": 0.7,
-    "tags": [
-      "censura",
-      "china",
-      "pesquisa"
-    ],
-    "img": "img/e1d29af71758.jpg",
-    "ts": 1791018497,
-    "addedTs": 1791031974,
-    "urlHash": "e1d29af71758",
-    "titleHash": "01880c30bf9d"
-  },
-  {
-    "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
-    "titlePt": "Apple muda permissões de acesso ao disco para frear abuso de agentes de IA",
-    "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
-    "source": "Ars Technica",
-    "sources": [
-      "Ars Technica"
-    ],
-    "reason": "A Apple ajustou as permissões de acesso completo ao disco no macOS para reduzir o quanto agentes e ferramentas de IA conseguem ler do sistema sem consentimento. A medida tenta equilibrar produtividade e privacidade dos usuários. Afeta diretamente usuários de Mac, desenvolvedores de agentes e equipes de segurança.",
-    "reasonEn": "Apple adjusted full-disk access permissions in macOS to limit how much agents and AI tools can read from the system without consent. The move tries to balance productivity and user privacy. It directly affects Mac users, agent developers and security teams.",
-    "score": 0.7,
-    "tags": [
-      "apple",
-      "segurança",
-      "agentes"
-    ],
-    "img": "img/4be7cfcbd6cc.jpg",
-    "ts": 1790982196,
-    "addedTs": 1791031974,
-    "urlHash": "4be7cfcbd6cc",
-    "titleHash": "ea9e99db4f1d"
-  },
-  {
-    "title": "It&#8217;s not AI anymore, it&#8217;s ‘super intelligence’ (according to the White House)",
-    "titlePt": "Não é mais IA, é 'superinteligência', segundo a Casa Branca",
-    "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A Casa Branca passou a usar oficialmente o termo 'superinteligência' em vez de 'IA' em parte de sua comunicação, numa tentativa de ampliar a narrativa de competitividade nacional. A mudança de rótulo pode influenciar regulações, discurso público e percepção de risco. Importa a profissionais de política, comunicação e indústria.",
-    "reasonEn": "The White House has started officially using the term 'super intelligence' instead of 'AI' in parts of its communication, in an attempt to expand the narrative of national competitiveness. The label change can influence regulations, public discourse and risk perception. It matters to policy, communications and industry professionals.",
-    "score": 0.5,
-    "tags": [
-      "política",
-      "regulação",
-      "narrativa"
-    ],
-    "img": "img/c259bfeb8d1a.jpg",
-    "ts": 1790963296,
-    "addedTs": 1791031974,
-    "urlHash": "c259bfeb8d1a",
-    "titleHash": "350dfa55f3d8"
-  },
-  {
-    "title": "A new contest pits competitors against each other in a race to biological youth",
-    "titlePt": "Nova competição põe adversários em corrida pela juventude biológica",
-    "url": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/",
-    "source": "MIT Tech Review",
-    "sources": [
-      "MIT Tech Review"
-    ],
-    "reason": "Uma nova disputa incentiva competidores a buscarem formas de reverter o envelhecimento biológico. A competição promete atrair cientistas, startups e investidores da área de longevidade. Para desenvolvedores de saúde e biotecnologia, abre espaço para novos parceiros e tendências de mercado. Os detalhes completos e regras ainda podem mudar.",
-    "reasonEn": "A new contest encourages competitors to find ways to reverse biological aging. The competition is expected to attract scientists, startups, and longevity investors. For health and biotech developers, it opens room for new partners and market trends. Full details and rules may still change.",
-    "score": 0.5,
-    "tags": [
-      "biotecnologia",
-      "competição"
-    ],
-    "img": "img/ac45dab29c74.jpg",
-    "ts": 1790931600,
-    "addedTs": 1791031974,
-    "urlHash": "ac45dab29c74",
-    "titleHash": "fc9d8031e39b"
-  },
-  {
-    "title": "Don’t be fooled—LLMs don’t reason",
-    "titlePt": "Não se engane: modelos de linguagem não raciocinam de verdade",
-    "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
-    "source": "MIT Tech Review",
-    "sources": [
-      "MIT Tech Review"
-    ],
-    "reason": "A MIT Technology Review explica por que grandes modelos de linguagem ainda falham em raciocínio real, apesar de parecerem inteligentes. O artigo mostra limitações em lógica, planejamento e senso comum. Isso importa para qualquer equipe que esteja construindo produtos baseados em LLMs, evitando promessas exageradas. Leitura recomendada para alinhar expectativas técnicas e de negócio.",
-    "reasonEn": "MIT Technology Review explains why large language models still fail at real reasoning, even when they look smart. The article shows limits in logic, planning, and common sense. It matters for any team building LLM-based products, to avoid overpromising. Recommended reading to align technical and business expectations.",
-    "score": 0.7,
-    "tags": [
-      "modelo",
-      "pesquisa"
-    ],
-    "img": "img/e5addb39494b.jpg",
-    "ts": 1790928000,
-    "addedTs": 1791031974,
-    "urlHash": "e5addb39494b",
-    "titleHash": "c4bbc304fa87"
-  },
-  {
-    "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-    "titlePt": "OpenAI amplia acesso de cibersegurança à Ucrânia para defesa civil",
-    "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A OpenAI expandiu o acesso a ferramentas de cibersegurança para apoiar a defesa civil da Ucrânia. O movimento combina geopolítica e tecnologia, com uso de IA contra ataques digitais. Para profissionais de segurança, é mais um sinal de IA aplicada a conflitos. Tem impacto humanitário direto.",
-    "reasonEn": "OpenAI expanded access to cybersecurity tools to support Ukraine's civilian defense. The move combines geopolitics and technology, with AI used against digital attacks. For security professionals, it is another sign of AI applied to conflicts. Direct humanitarian impact.",
-    "score": 0.5,
-    "tags": [
-      "segurança",
-      "geopolítica"
-    ],
-    "img": "img/9328fa400dd3.jpg",
-    "ts": 1790168400,
-    "addedTs": 1791031974,
-    "urlHash": "9328fa400dd3",
-    "titleHash": "c7f8e3e38342"
-  },
-  {
-    "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
-    "titlePt": "Microsoft derruba plataforma com IA que comprometeu 12 mil contas",
-    "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
-    "source": "Ars Technica",
-    "sources": [
-      "Ars Technica"
-    ],
-    "reason": "A Microsoft desativou uma plataforma baseada em IA usada por atacantes para comprometer cerca de 12 mil contas. A ação mostra o crescimento de ataques assistidos por IA generativa. Times de segurança devem revisar controles contra credential stuffing e abuso de modelos. Importante para qualquer empresa com login online.",
-    "reasonEn": "Microsoft took down an AI-based platform used by attackers to compromise about 12,000 accounts. The action shows the rise of generative AI-assisted attacks. Security teams should review controls against credential stuffing and model abuse. Important for any company with online logins.",
-    "score": 0.75,
-    "tags": [
-      "segurança",
-      "ataque"
-    ],
-    "img": "img/5e8b60d2c8d4.jpg",
-    "ts": 1790106347,
-    "addedTs": 1791031974,
-    "urlHash": "5e8b60d2c8d4",
-    "titleHash": "580702c5d41f"
-  },
-  {
-    "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-    "titlePt": "Como UK AISI e EvalEval estão tornando benchmarks reproduzíveis",
-    "url": "https://huggingface.co/blog/evaleval-aisi",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "O UK AI Safety Institute e o EvalEval apresentam métodos para tornar resultados de benchmarks de IA mais reproduzíveis. A iniciativa combate o problema de testes não padronizados que inflam artificialmente o desempenho de modelos. Para desenvolvedores e pesquisadores, é leitura essencial. Ajuda a escolher modelos com mais critério.",
-    "reasonEn": "The UK AI Safety Institute and EvalEval present methods to make AI benchmark results more reproducible. The initiative fights the problem of non-standardized tests that inflate model performance. For developers and researchers, it is essential reading. It helps choosing models with more rigor.",
-    "score": 0.55,
-    "tags": [
-      "benchmark",
-      "pesquisa"
-    ],
-    "img": "img/e9f63aa1f7aa.jpg",
-    "ts": 1790035200,
-    "addedTs": 1791031974,
-    "urlHash": "e9f63aa1f7aa",
-    "titleHash": "5cd636401543"
-  },
-  {
-    "title": "Transformers now runs llama.cpp quants",
-    "titlePt": "Transformers agora roda quantizações do llama.cpp",
-    "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "A biblioteca Transformers da Hugging Face passou a suportar diretamente quantizações geradas pelo llama.cpp. Isso permite carregar modelos quantizados leves com mais facilidade em diferentes hardwares. Para desenvolvedores que usam Python e Hugging Face, simplifica o fluxo. Reduz atrito entre ecossistemas.",
-    "reasonEn": "The Hugging Face Transformers library now directly supports quantizations generated by llama.cpp. This allows loading lightweight quantized models more easily on different hardware. For developers using Python and Hugging Face, it simplifies the workflow. It reduces friction between ecosystems.",
-    "score": 0.5,
-    "tags": [
-      "inferência",
-      "open source"
-    ],
-    "img": "img/689d78c6e007.jpg",
-    "ts": 1790035200,
-    "addedTs": 1791031974,
-    "urlHash": "689d78c6e007",
-    "titleHash": "33dbfe840bf2"
-  },
-  {
-    "title": "Muse, Meta&#039;s extraordinarily privileged AI assistant, has a serious 0-day",
-    "titlePt": "Muse, assistente de IA privilegiado da Meta, tem 0-day sério",
-    "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
-    "source": "Ars Technica",
-    "sources": [
-      "Ars Technica"
-    ],
-    "reason": "Pesquisadores descobriram uma vulnerabilidade zero-day grave no Muse, assistente de IA da Meta com privilégios elevados no sistema. O bug pode permitir acesso não autorizado a dados sensíveis. É um alerta para quem integra modelos de IA em produtos com permissões profundas. Times de segurança devem acompanhar o patch.",
-    "reasonEn": "Researchers found a serious zero-day vulnerability in Muse, Meta's AI assistant with elevated system privileges. The bug may allow unauthorized access to sensitive data. It is a warning for those integrating AI models into products with deep permissions. Security teams should track the patch.",
-    "score": 0.75,
-    "tags": [
-      "segurança",
-      "meta"
-    ],
-    "img": "img/6af58b306bcd.jpg",
-    "ts": 1790029478,
-    "addedTs": 1791031974,
-    "urlHash": "6af58b306bcd",
-    "titleHash": "0e51024cea86"
   }
 ]
