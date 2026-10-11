@@ -1,5 +1,524 @@
 [
   {
+    "title": "'AI slop' hides the conversations we should be having",
+    "titlePt": "O lixo de IA esconde as conversas que precisamos ter",
+    "url": "https://doi.org/10.1038/s44387-026-00161-8",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um artigo de opinião discute como o volume de conteúdo gerado por IA de baixa qualidade, apelidado de lixo de IA, está abafando conversas importantes sobre os reais impactos da tecnologia. O autor argumenta que essa avalanche de textos sem relevância desvia a atenção do que realmente importa. O tema afeta usuários, criadores e profissionais de comunicação que precisam separar o joio do trigo. É uma reflexão útil sobre como consumir informação na era dos modelos generativos.",
+    "reasonEn": "An opinion piece discusses how the flood of low-quality AI-generated content, dubbed AI slop, is drowning out important conversations about the technology's real impacts. The author argues that this avalanche of irrelevant text distracts from what truly matters. The issue affects users, creators, and communication professionals who need to separate signal from noise. It's a useful reflection on how to consume information in the era of generative models.",
+    "score": 0.5,
+    "tags": [
+      "opinião",
+      "mídia"
+    ],
+    "img": "img/2b1d13cf16cb.jpg",
+    "ts": 1791674174,
+    "addedTs": 1791678931,
+    "urlHash": "2b1d13cf16cb",
+    "titleHash": "93598d426858"
+  },
+  {
+    "title": "A mountain of AI math, a few precious bytes",
+    "titlePt": "Uma montanha de matemática de IA, poucos bytes para o usuário",
+    "url": "https://blog.adafruit.com/2026/10/10/a-mountain-of-ai-math-a-few-precious-bytes/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo comenta a desproporção entre a quantidade massiva de matemática envolvida em sistemas modernos de IA e o número relativamente pequeno de bytes que chegam ao usuário final. Discute como modelos enormes com bilhões de parâmetros entregam resultados compactos para o consumidor. A reflexão ajuda a entender por que a IA exige tantos recursos computacionais. É um olhar técnico sobre o contraste entre escala e utilidade.",
+    "reasonEn": "The article comments on the disproportion between the massive amount of math involved in modern AI systems and the relatively small number of bytes that reach the end user. It discusses how enormous models with billions of parameters deliver compact results to consumers. The reflection helps explain why AI demands so many computational resources. It's a technical look at the contrast between scale and utility.",
+    "score": 0.6,
+    "tags": [
+      "análise",
+      "modelo"
+    ],
+    "img": "img/11e946093c0a.jpg",
+    "ts": 1791671901,
+    "addedTs": 1791678931,
+    "urlHash": "11e946093c0a",
+    "titleHash": "f58d972d6b92"
+  },
+  {
+    "title": "A Stark Warning from a Former AI Doomer",
+    "titlePt": "Alerta firme de um ex-IA doomer",
+    "url": "https://podcasts.apple.com/us/podcast/a-stark-warning-from-a-former-ai-doomer/id1515786216?i=1000793842983",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um ex-pesquisador conhecido por alertar sobre riscos existenciais da IA voltou a se manifestar com um alerta firme sobre os perigos atuais. O texto discute como algumas previsões pessimistas se concretizaram e outras falharam. A opinião ajuda a entender o debate sobre segurança em IA sem fanatismo. Profissionais e curiosos ganham contexto sobre o estado real da discussão. É leitura recomendada para quem quer entender o cenário de quem trabalha na área há anos.",
+    "reasonEn": "A former researcher known for warning about existential AI risks spoke again with a firm warning about current dangers. The text discusses how some pessimistic predictions came true while others failed. The opinion helps understand the AI safety debate without fanaticism. Professionals and curious readers gain context on the real state of the discussion. Recommended reading for anyone wanting context from someone who has worked in the field for years.",
+    "score": 0.6,
+    "tags": [
+      "segurança",
+      "opinião"
+    ],
+    "img": "img/55ca478a2ca2.jpg",
+    "ts": 1791670774,
+    "addedTs": 1791678931,
+    "urlHash": "55ca478a2ca2",
+    "titleHash": "1f3e4d4d85e9"
+  },
+  {
+    "title": "We're All Working for AI Now",
+    "titlePt": "Estamos todos trabalhando para a IA agora",
+    "url": "https://medium.com/@mustafaydemir/were-all-working-for-ai-now-19353aa51e82",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo defende que, na prática, muitos profissionais hoje trabalham mais para a IA do que com a IA. Argumenta que tarefas como revisar, corrigir e validar saídas de modelos estão consumindo o tempo que poderia ser usado em trabalho criativo. A discussão toca em produtividade, ergonomia cognitiva e futuro do trabalho. Afeta desenvolvedores, redatores e qualquer pessoa que usa ferramentas de IA no dia a dia. Vale a pena para repensar como usar essas ferramentas com mais eficiência.",
+    "reasonEn": "The article argues that in practice many professionals now work more for AI than with AI. It claims that tasks like reviewing, correcting, and validating model outputs consume time that could be used for creative work. The discussion touches productivity, cognitive ergonomics, and the future of work. It affects developers, writers, and anyone using AI tools daily. Worth reading to rethink how to use these tools more efficiently.",
+    "score": 0.5,
+    "tags": [
+      "trabalho",
+      "opinião"
+    ],
+    "img": "img/fae6ad0d7207.jpg",
+    "ts": 1791670143,
+    "addedTs": 1791678931,
+    "urlHash": "fae6ad0d7207",
+    "titleHash": "090f53d0fc43"
+  },
+  {
+    "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+    "titlePt": "Nadella defende freio de emergência para IA",
+    "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "Em entrevista, o CEO da Microsoft Satya Nadella afirmou que todos os modelos de IA devem ser tratados como potencialmente comprometidos. Ele pediu um freio de emergência para sistemas avançados diante de preocupações crescentes com segurança. A fala ganha peso por vir de quem lidera uma das maiores empresas de tecnologia do mundo. O posicionamento pode influenciar novos padrões da indústria e a discussão regulatória global. Desenvolvedores e empresas devem acompanhar os desdobramentos.",
+    "reasonEn": "In an interview, Microsoft CEO Satya Nadella said all AI models should be treated as potentially compromised. He called for an emergency brake on advanced systems amid growing safety concerns. The remarks carry weight because they come from the leader of one of the world's biggest tech companies. The position may influence new industry standards and the global regulatory debate. Developers and companies should follow developments closely.",
+    "score": 0.9,
+    "tags": [
+      "microsoft",
+      "segurança"
+    ],
+    "img": "img/13ca25f147a7.jpg",
+    "ts": 1791668871,
+    "addedTs": 1791678931,
+    "urlHash": "13ca25f147a7",
+    "titleHash": "681560c136c9"
+  },
+  {
+    "title": "The Token Economy: Why Falling Token Prices Have Not Lowered AI Bills",
+    "titlePt": "Por que a queda no preço dos tokens não baixou as contas de IA",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7562258",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Apesar da queda nos preços por token cobrados por fornecedores de IA, as contas finais das empresas não estão caindo na mesma proporção. O aumento no volume de uso está compensando qualquer economia com preços unitários. Modelos mais caros e agentes que gastam mais tokens por tarefa também mudam a equação. É leitura essencial para líderes de produto e finanças que planejam orçamentos de IA. Desenvolvedores que constroem produtos baseados em LLMs encontram dados úteis.",
+    "reasonEn": "Despite falling per-token prices charged by AI vendors, companies' final bills are not dropping proportionally. Increased usage volume is offsetting any savings from unit prices. Pricier models and agents that spend more tokens per task also change the equation. Essential reading for product and finance leaders planning AI budgets. Developers building products on top of LLMs find useful data.",
+    "score": 0.65,
+    "tags": [
+      "economia",
+      "llm"
+    ],
+    "img": "img/cd3561e14ec1.jpg",
+    "ts": 1791667132,
+    "addedTs": 1791678931,
+    "urlHash": "cd3561e14ec1",
+    "titleHash": "b3c0c5aa0eb6"
+  },
+  {
+    "title": "I bet AI would invent its own language; Claude Opus's survived every copy",
+    "titlePt": "Aposta que IA inventaria a própria linguagem e Claude Opus confirmou",
+    "url": "https://claude.ai/artifact/KNR1u48RyraRAy6hi64wc8",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um experimento mostra que o Claude Opus, da Anthropic, aparentemente desenvolveu uma espécie de linguagem própria que sobreviveu a cada tentativa de cópia. Os pesquisadores apostaram que a IA inventaria um idioma e ela confirmou a teoria. O achado intriga porque sugere comportamentos emergentes não programados explicitamente. Pode interessar pesquisadores de IA, linguistas e desenvolvedores. Ainda é cedo para afirmar o que significa, mas abre novas perguntas sobre treinamento e emergência.",
+    "reasonEn": "An experiment shows that Anthropic's Claude Opus apparently developed a kind of own language that survived every copy attempt. The researchers bet AI would invent a language and it confirmed the theory. The finding intrigues because it suggests emergent behaviors not explicitly programmed. It may interest AI researchers, linguists, and developers. It's still early to say what it means, but it opens new questions about training and emergence.",
+    "score": 0.55,
+    "tags": [
+      "pesquisa",
+      "emergência"
+    ],
+    "img": "img/f5cd9f2aea3b.jpg",
+    "ts": 1791666144,
+    "addedTs": 1791678931,
+    "urlHash": "f5cd9f2aea3b",
+    "titleHash": "7d1bbd0e876e"
+  },
+  {
+    "title": "Cyber Resilience Guide: Zero Trust, AI Security and Ransomware Recovery",
+    "titlePt": "Guia de resiliência cibernética: confiança zero, IA e ransomware",
+    "url": "https://phpscientist.com/blog/cyber-resilience-implementation-guide-ai-ransomware-zero-trust/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um guia de resiliência cibernética aborda conceitos de confiança zero, segurança em IA e recuperação contra ransomware. Oferece práticas recomendadas para empresas que querem proteger seus sistemas. Inclui orientações específicas sobre como auditar aplicações que usam modelos de linguagem. É voltado para equipes de segurança e infraestrutura, mas tem pontos úteis para desenvolvedores. Ajuda a entender os novos riscos trazidos pela adoção de IA nas operações corporativas.",
+    "reasonEn": "A cyber resilience guide covers zero trust concepts, AI security, and ransomware recovery. It offers best practices for companies wanting to protect their systems. It includes specific guidance on auditing applications that use language models. It's aimed at security and infrastructure teams but has useful points for developers. Helps understand new risks brought by AI adoption in corporate operations.",
+    "score": 0.5,
+    "tags": [
+      "segurança"
+    ],
+    "img": "img/1899d0a93346.jpg",
+    "ts": 1791663461,
+    "addedTs": 1791678931,
+    "urlHash": "1899d0a93346",
+    "titleHash": "43ed43d94d5d"
+  },
+  {
+    "title": "Nikon microscopic video competition winner disqualified for using generative AI",
+    "titlePt": "Vencedor de concurso de vídeo microscópico da Nikon é desclassificado por usar IA generativa",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "Um fotógrafo que venceu um concurso de vídeo microscópico promovido pela Nikon foi desclassificado após a empresa descobrir que ele usou inteligência artificial generativa para criar parte do material. A decisão reacende o debate sobre autenticidade em premiações de arte e fotografia. Profissionais e amadores que competem precisam ficar atentos às regras sobre uso de IA. Para qualquer pessoa interessada em concursos criativos, o caso serve de alerta sobre os limites éticos e técnicos do uso de ferramentas automatizadas.",
+    "reasonEn": "A photographer who won a Nikon microscopic video competition has been disqualified after the company discovered he used generative AI to produce part of the footage. The decision reignites debate about authenticity in photography and art awards. Professionals and amateurs entering contests need to pay close attention to the rules around AI use. For anyone interested in creative competitions, this case is a warning about the ethical and technical boundaries of automated tools.",
+    "score": 0.6,
+    "tags": [
+      "ética",
+      "prêmio",
+      "ia-generativa"
+    ],
+    "img": "img/57fe1472ddc3.jpg",
+    "ts": 1791569217,
+    "addedTs": 1791678931,
+    "urlHash": "57fe1472ddc3",
+    "titleHash": "3ab61cea7cbd"
+  },
+  {
+    "title": "Danu Robotics&#8217; fight to build a better recycling robot",
+    "titlePt": "Danu Robotics quer criar um robô de reciclagem melhor",
+    "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A startup Danu Robotics está desenvolvendo um robô capaz de identificar e separar materiais recicláveis com mais precisão que os sistemas atuais. A empresa quer resolver um problema antigo da indústria de reciclagem, que ainda depende muito de trabalho manual. Se conseguir, pode reduzir custos e aumentar a eficiência em centros de triagem. O projeto interessa a municípios, empresas de saneamento e ao setor de sustentabilidade.",
+    "reasonEn": "Startup Danu Robotics is building a robot that can identify and sort recyclable materials more accurately than current systems. The company wants to solve a long-standing problem in the recycling industry, which still relies heavily on manual labor. If successful, it could lower costs and boost efficiency at sorting facilities. The project matters to cities, waste management companies and the broader sustainability sector.",
+    "score": 0.5,
+    "tags": [
+      "robótica",
+      "reciclagem",
+      "hardware"
+    ],
+    "img": "img/9e27a5c3a3f7.jpg",
+    "ts": 1791564300,
+    "addedTs": 1791678931,
+    "urlHash": "9e27a5c3a3f7",
+    "titleHash": "3507c628c92f"
+  },
+  {
+    "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+    "titlePt": "Pollo AI transforma ideias criativas em campanhas com a OpenAI",
+    "url": "https://openai.com/index/pollo-ai",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "A Pollo AI anunciou uma integração com a OpenAI que permite transformar ideias criativas em campanhas de publicidade prontas. A ferramenta promete acelerar o trabalho de equipes de marketing usando modelos generativos. Pode reduzir o tempo de produção e baratear campanhas para pequenas empresas. A novidade interessa principalmente a profissionais de marketing e comunicação.",
+    "reasonEn": "Pollo AI announced an integration with OpenAI that turns creative ideas into ready-made advertising campaigns. The tool promises to speed up marketing teams' work using generative models. It could cut production time and lower costs for small businesses. The news matters mainly to marketing and communications professionals.",
+    "score": 0.5,
+    "tags": [
+      "marketing",
+      "integração",
+      "openai"
+    ],
+    "img": "img/855092fba1df.jpg",
+    "ts": 1791460800,
+    "addedTs": 1791678931,
+    "urlHash": "855092fba1df",
+    "titleHash": "2b34873823c4"
+  },
+  {
+    "title": "LegalOn halves Codex costs while maintaining development speed",
+    "titlePt": "LegalOn reduz pela metade os custos com Codex mantendo a velocidade",
+    "url": "https://openai.com/index/legalon-halves-codex-costs",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "A LegalOn, empresa de tecnologia jurídica, conseguiu cortar em 50% os custos com o Codex da OpenAI sem perder velocidade de desenvolvimento. O case mostra como empresas podem otimizar o uso de modelos de IA para reduzir despesas. É um exemplo prático de economia real para times de engenharia. Interessa a líderes de tecnologia e gestores que precisam controlar orçamento com IA.",
+    "reasonEn": "Legal tech company LegalOn managed to cut its OpenAI Codex costs in half without slowing down development. The case shows how companies can optimize AI model usage to reduce expenses. It is a practical example of real savings for engineering teams. This matters to tech leaders and managers who need to control AI budgets.",
+    "score": 0.6,
+    "tags": [
+      "custos",
+      "openai",
+      "jurídico"
+    ],
+    "img": "img/45d6a2b79938.jpg",
+    "ts": 1791460800,
+    "addedTs": 1791678931,
+    "urlHash": "45d6a2b79938",
+    "titleHash": "5c43c7350de2"
+  },
+  {
+    "title": "The model that didn&apos;t exist, so you made it yourself",
+    "titlePt": "O modelo que não existia, então você mesmo criou",
+    "url": "https://huggingface.co/blog/building-with-ml-intern",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "A Hugging Face destaca um projeto comunitário em que usuários criaram e compartilharam um modelo que ainda não existia oficialmente. A história reforça o poder da comunidade open source para preencher demandas não atendidas por grandes empresas. Mostra como qualquer pessoa pode contribuir com modelos de IA acessíveis. Interessa a desenvolvedores e entusiastas de IA de código aberto.",
+    "reasonEn": "Hugging Face highlights a community project where users created and shared a model that did not yet officially exist. The story reinforces the power of the open source community to fill demands not met by large companies. It shows how anyone can contribute accessible AI models. This matters to developers and open source AI enthusiasts.",
+    "score": 0.6,
+    "tags": [
+      "open-source",
+      "comunidade",
+      "modelo"
+    ],
+    "img": "img/ffd281819637.jpg",
+    "ts": 1791417600,
+    "addedTs": 1791678931,
+    "urlHash": "ffd281819637",
+    "titleHash": "81aa16393eaf"
+  },
+  {
+    "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+    "titlePt": "Radisson integra busca de hotéis ao ChatGPT",
+    "url": "https://openai.com/index/radisson",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "A rede hoteleira Radisson passou a permitir a busca e descoberta de hotéis diretamente pelo ChatGPT. Usuários poderão planejar viagens e encontrar acomodações sem sair do assistente de IA. A novidade mostra como grandes marcas estão apostando em agentes de IA como novo canal de venda. Interessa a profissionais de turismo, hotelaria e desenvolvedores de interfaces conversacionais.",
+    "reasonEn": "Hotel chain Radisson now lets users search and discover hotels directly through ChatGPT. Travelers can plan trips and find accommodations without leaving the AI assistant. The move shows how major brands are betting on AI agents as a new sales channel. This matters to tourism and hospitality professionals as well as conversational interface developers.",
+    "score": 0.6,
+    "tags": [
+      "hotelaria",
+      "chatgpt",
+      "agente"
+    ],
+    "img": "img/4e324623ab7c.jpg",
+    "ts": 1791356400,
+    "addedTs": 1791678931,
+    "urlHash": "4e324623ab7c",
+    "titleHash": "cd37cadb2196"
+  },
+  {
+    "title": "GPT-6 and Intelligent UI for everyone",
+    "titlePt": "GPT-6 e Interface Inteligente para todos",
+    "url": "https://openai.com/index/gpt-6-for-everyone",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "O post discute a chegada do GPT-6 e a ideia de uma interface inteligente acessível a qualquer usuário. A promessa é tornar a interação com IA mais natural e personalizada, eliminando a necessidade de conhecimento técnico. Se confirmada, a novidade pode mudar como pessoas comuns usam tecnologia no dia a dia. É relevante para qualquer pessoa interessada em tendências de IA e produtos digitais.",
+    "reasonEn": "The post discusses the arrival of GPT-6 and the idea of an intelligent interface accessible to everyone. The promise is to make AI interaction more natural and personalized, removing the need for technical knowledge. If confirmed, it could change how ordinary people use technology daily. It is relevant to anyone interested in AI trends and digital products.",
+    "score": 0.7,
+    "tags": [
+      "gpt-6",
+      "lançamento",
+      "interface"
+    ],
+    "img": "img/a097ef0d441a.jpg",
+    "ts": 1791331200,
+    "addedTs": 1791678931,
+    "urlHash": "a097ef0d441a",
+    "titleHash": "354a37b143a4"
+  },
+  {
+    "title": "How Jump Trading is scaling quant research with ChatGPT",
+    "titlePt": "Jump Trading amplia pesquisa quantitativa com ChatGPT",
+    "url": "https://openai.com/index/jump-trading",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "A Jump Trading, uma das maiores empresas de trading quantitativo do mundo, está usando o ChatGPT para escalar sua pesquisa de mercado. A iniciativa mostra como o setor financeiro adota IA para acelerar análises complexas e encontrar padrões. Pode trazer ganhos de eficiência, mas também riscos se os modelos forem mal calibrados. Interessa a profissionais de finanças, dados e IA aplicada.",
+    "reasonEn": "Jump Trading, one of the world's largest quantitative trading firms, is using ChatGPT to scale its market research. The move shows how the financial sector is adopting AI to speed up complex analysis and find patterns. It may bring efficiency gains, but also risks if the models are poorly calibrated. This matters to finance, data and applied AI professionals.",
+    "score": 0.5,
+    "tags": [
+      "finanças",
+      "chatgpt",
+      "pesquisa"
+    ],
+    "img": "img/ebb413cc5359.jpg",
+    "ts": 1791288000,
+    "addedTs": 1791678931,
+    "urlHash": "ebb413cc5359",
+    "titleHash": "017b9442af44"
+  },
+  {
+    "title": "The Agent Said It Was Done. The Database Disagreed.",
+    "titlePt": "O agente disse que terminou. O banco de dados discordou.",
+    "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "O post da Hugging Face discute um problema comum em agentes de IA: eles afirmam ter concluído uma tarefa, mas o banco de dados mostra que nada foi realmente feito. O artigo destaca a importância de validação rigorosa antes de confiar em resultados automáticos. É um alerta essencial para quem está construindo ou usando agentes em produção. O tema interessa a desenvolvedores, engenheiros de dados e líderes de produto.",
+    "reasonEn": "The Hugging Face post discusses a common problem with AI agents: they claim to have finished a task, but the database shows nothing was actually done. The article highlights the importance of rigorous validation before trusting automated results. It is an essential warning for anyone building or using agents in production. The topic matters to developers, data engineers and product leaders.",
+    "score": 0.7,
+    "tags": [
+      "agente",
+      "validação",
+      "bug"
+    ],
+    "img": "img/bd1136d0fcfd.jpg",
+    "ts": 1791068208,
+    "addedTs": 1791678931,
+    "urlHash": "bd1136d0fcfd",
+    "titleHash": "8903760620cc"
+  },
+  {
+    "title": "Chatham scales its capital markets expertise with OpenAI",
+    "titlePt": "Chatham amplia expertise em mercados de capitais com a OpenAI",
+    "url": "https://openai.com/index/chatham-financial",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "A Chatham, empresa de consultoria financeira, está usando ferramentas da OpenAI para ampliar sua expertise em mercados de capitais. A integração busca acelerar análises e melhorar o atendimento a clientes corporativos. Mostra como consultorias tradicionais adotam IA para ganhar produtividade. Pode interessar a profissionais de finanças e gestão empresarial.",
+    "reasonEn": "Financial consultancy Chatham is using OpenAI tools to expand its capital markets expertise. The integration aims to speed up analysis and improve service to corporate clients. It shows how traditional consultancies are adopting AI to boost productivity. It may interest finance and business management professionals.",
+    "score": 0.5,
+    "tags": [
+      "finanças",
+      "openai",
+      "consultoria"
+    ],
+    "img": "img/882596cbc763.jpg",
+    "ts": 1790899200,
+    "addedTs": 1791678931,
+    "urlHash": "882596cbc763",
+    "titleHash": "8259ce79106b"
+  },
+  {
+    "title": "How Albertsons Companies is reimagining retail from the inside out",
+    "titlePt": "Albertsons Companies reimagina o varejo de dentro para fora",
+    "url": "https://openai.com/index/albertsons-reimagining-retail",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "A rede de supermercados Albertsons está usando IA para repensar suas operações internas e a experiência do cliente. A estratégia inclui automação de processos, análise de dados e personalização de ofertas. Mostra como grandes varejistas estão se transformando digitalmente. Interessa a profissionais de varejo, logística e tecnologia.",
+    "reasonEn": "Supermarket chain Albertsons is using AI to rethink its internal operations and customer experience. The strategy includes process automation, data analysis and offer personalization. It shows how large retailers are undergoing digital transformation. It matters to retail, logistics and technology professionals.",
+    "score": 0.5,
+    "tags": [
+      "varejo",
+      "automação",
+      "ia"
+    ],
+    "img": "img/637d3dfa247f.jpg",
+    "ts": 1790870400,
+    "addedTs": 1791678931,
+    "urlHash": "637d3dfa247f",
+    "titleHash": "a5c0a2a0395c"
+  },
+  {
+    "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+    "titlePt": "The Den libera 10-15 horas por semana com ChatGPT Work",
+    "url": "https://openai.com/index/the-den-family-social",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "A empresa The Den afirma ter recuperado entre 10 e 15 horas semanais por funcionário ao adotar o ChatGPT Work. O ganho de tempo é reinvestido em crescimento e projetos estratégicos. É mais um case de produtividade com IA generativa no mundo corporativo. Mostra resultados reais e mensuráveis que podem interessar a pequenos e médios empresários.",
+    "reasonEn": "Company The Den reports recovering between 10 and 15 hours per employee per week by adopting ChatGPT Work. The saved time is reinvested into growth and strategic projects. It is another productivity case study with generative AI in the corporate world. It shows real, measurable results that may interest small and medium business owners.",
+    "score": 0.5,
+    "tags": [
+      "produtividade",
+      "chatgpt",
+      "negócios"
+    ],
+    "img": "img/2167384f51e2.jpg",
+    "ts": 1790812800,
+    "addedTs": 1791678931,
+    "urlHash": "2167384f51e2",
+    "titleHash": "6d62d3816816"
+  },
+  {
+    "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+    "titlePt": "Microsoft desarticula plataforma de IA que comprometeu 12 mil contas",
+    "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+    "source": "Ars Technica",
+    "sources": [
+      "Ars Technica"
+    ],
+    "reason": "A Microsoft anunciou a derrubada de uma plataforma que usava IA para atacar cerca de 12 mil contas online. A operação fazia parte de um esquema de fraude digital que explorava modelos generativos para enganar usuários. O caso mostra como criminosos estão adotando IA em escala e como grandes empresas respondem. É leitura essencial para profissionais de segurança e qualquer pessoa preocupada com golpes digitais.",
+    "reasonEn": "Microsoft announced it has taken down an AI-powered platform that compromised about 12,000 online accounts. The operation was part of a digital fraud scheme exploiting generative models to deceive users. The case shows how criminals are adopting AI at scale and how big companies are responding. It is essential reading for security professionals and anyone worried about digital scams.",
+    "score": 0.8,
+    "tags": [
+      "segurança",
+      "fraude",
+      "microsoft"
+    ],
+    "img": "img/5e8b60d2c8d4.jpg",
+    "ts": 1790106347,
+    "addedTs": 1791678931,
+    "urlHash": "5e8b60d2c8d4",
+    "titleHash": "580702c5d41f"
+  },
+  {
+    "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+    "titlePt": "Como UK AISI e EvalEval tornam benchmarks de IA reproduzíveis",
+    "url": "https://huggingface.co/blog/evaleval-aisi",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "A UK AISI, agência britânica de segurança em IA, e o projeto EvalEval estão trabalhando para tornar os resultados de benchmarks de IA reproduzíveis e confiáveis. A iniciativa busca padronizar a forma como modelos são avaliados, evitando comparações enganosas. É um passo importante para a maturidade do setor. Interessa a pesquisadores, desenvolvedores e reguladores de IA.",
+    "reasonEn": "The UK AISI, Britain's AI safety agency, and the EvalEval project are working to make AI benchmark results reproducible and trustworthy. The initiative aims to standardize how models are evaluated, avoiding misleading comparisons. It is an important step toward sector maturity. It matters to AI researchers, developers and regulators.",
+    "score": 0.7,
+    "tags": [
+      "benchmark",
+      "regulação",
+      "avaliação"
+    ],
+    "img": "img/e9f63aa1f7aa.jpg",
+    "ts": 1790035200,
+    "addedTs": 1791678931,
+    "urlHash": "e9f63aa1f7aa",
+    "titleHash": "5cd636401543"
+  },
+  {
+    "title": "Transformers now runs llama.cpp quants",
+    "titlePt": "Transformers agora roda quantizações do llama.cpp",
+    "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "A biblioteca Transformers da Hugging Face passou a suportar quantizações no formato llama.cpp, um padrão popular para comprimir modelos de IA. Isso permite rodar modelos grandes com menos memória, facilitando o uso em hardware comum. É uma boa notícia para desenvolvedores que trabalham com IA em máquinas limitadas. A novidade reduz barreiras de entrada para experimentação local.",
+    "reasonEn": "Hugging Face's Transformers library now supports llama.cpp quantizations, a popular format for compressing AI models. This allows large models to run with less memory, making them easier to use on common hardware. It is good news for developers running AI on limited machines. The update lowers barriers to local experimentation.",
+    "score": 0.6,
+    "tags": [
+      "huggingface",
+      "otimização",
+      "llama"
+    ],
+    "img": "img/689d78c6e007.jpg",
+    "ts": 1790035200,
+    "addedTs": 1791678931,
+    "urlHash": "689d78c6e007",
+    "titleHash": "33dbfe840bf2"
+  },
+  {
+    "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+    "titlePt": "Criador do oMLX Jun Kim se junta à Hugging Face",
+    "url": "https://huggingface.co/blog/omlx",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "Jun Kim, criador e mantenedor do projeto oMLX para a comunidade MLX, foi contratado pela Hugging Face para apoiar o ecossistema. A contratação reforça o compromisso da empresa com ferramentas para Apple Silicon. A notícia mostra que o mercado de IA em hardware da Apple segue crescendo. Interessa a desenvolvedores que trabalham com MLX e modelos locais.",
+    "reasonEn": "Jun Kim, creator and maintainer of the oMLX project for the MLX community, has joined Hugging Face to support the ecosystem. The hire reinforces the company's focus on tools for Apple Silicon. The news shows the AI market on Apple hardware continues to grow. It matters to developers working with MLX and local models.",
+    "score": 0.5,
+    "tags": [
+      "huggingface",
+      "mlx",
+      "contratação"
+    ],
+    "img": "img/6b3083011aeb.jpg",
+    "ts": 1790035200,
+    "addedTs": 1791678931,
+    "urlHash": "6b3083011aeb",
+    "titleHash": "e3efc0df6a35"
+  },
+  {
     "title": "Nvidia reportedly halts GeForce RTX 5090 production in favor of data center GPUs",
     "titlePt": "Nvidia suspende produção da RTX 5090 para priorizar GPUs de data center",
     "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-halts-geforce-rtx-5090-production-in-favor-of-ai-data-center-and-professional-gpus-impending-supply-drought-expected-to-drive-up-prices-rtx-5080-24gb-rumored-as-new-gaming-flagship",
@@ -6730,240 +7249,5 @@
     "addedTs": 1791099349,
     "urlHash": "ad90e6779ea3",
     "titleHash": "b9d6424cec27"
-  },
-  {
-    "title": "AI share of US market cap",
-    "titlePt": "Participação da IA no valor de mercado dos EUA",
-    "url": "https://theinference.org/indexes/ai-share?range=max",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O conteúdo apresenta quanto do valor de mercado acionário americano hoje vem de empresas de inteligência artificial. É um retrato numérico importante para investidores e para quem acompanha o peso econômico do setor. Mostra o quanto a narrativa de IA já está embutida nos preços das ações.",
-    "reasonEn": "The post shows how much of the US stock market capitalization today is tied to artificial intelligence companies. An important data point for investors and anyone tracking the sector's economic weight. It highlights how much of the AI hype is already priced in.",
-    "score": 0.5,
-    "tags": [
-      "mercado",
-      "dados"
-    ],
-    "img": "img/168c85d11702.jpg",
-    "ts": 1791069582,
-    "addedTs": 1791072913,
-    "urlHash": "168c85d11702",
-    "titleHash": "0933d7c0e4f2"
-  },
-  {
-    "title": "The Mulleted, Meme-Loving Billionaire Behind Meta's Hit AI App",
-    "titlePt": "O bilionário por trás do app de IA da Meta",
-    "url": "https://www.wsj.com/tech/ai/alexandr-wang-muse-meta-efae7659",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A reportagem traça o perfil do executivo responsável pelo aplicativo de IA da Meta que virou febre. Ajuda a entender quem está tomando decisões estratégicas sobre IA na maior rede social do mundo. Importante para acompanhar poder e influência no setor de tecnologia.",
-    "reasonEn": "The article profiles the executive behind Meta's viral AI app. It helps clarify who is making strategic AI decisions inside the world's largest social network. Relevant for tracking power and influence across the tech industry.",
-    "score": 0.5,
-    "tags": [
-      "meta",
-      "perfil"
-    ],
-    "img": "img/0b133c198928.jpg",
-    "ts": 1791069063,
-    "addedTs": 1791072913,
-    "urlHash": "0b133c198928",
-    "titleHash": "0e6c5abc3046"
-  },
-  {
-    "title": "The Agent Said It Was Done. The Database Disagreed.",
-    "titlePt": "O agente disse que terminou. O banco de dados discordou.",
-    "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "O artigo discute um problema clássico: agentes de IA que afirmam ter concluído uma tarefa, mas o estado real do banco de dados mostra outra coisa. O texto argumenta que agentes precisam de sistemas de registro, não apenas de painéis bonitos. É leitura recomendada para quem trabalha com agentes em produção.",
-    "reasonEn": "The article highlights a recurring issue: AI agents claim a task is done while the database state says otherwise. The author argues agents need proper systems of record, not just dashboards. Recommended reading for anyone running agents in production.",
-    "score": 0.6,
-    "tags": [
-      "agente",
-      "engenharia"
-    ],
-    "img": "img/bd1136d0fcfd.jpg",
-    "ts": 1791068208,
-    "addedTs": 1791072913,
-    "urlHash": "bd1136d0fcfd",
-    "titleHash": "8903760620cc"
-  },
-  {
-    "title": "When Does Automating AI Research Produce Explosive Growth? [pdf]",
-    "titlePt": "Quando automatizar a pesquisa em IA gera crescimento explosivo?",
-    "url": "https://basilhalperin.com/papers/singularities.pdf",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo em PDF analisa cenários em que a automação da própria pesquisa em IA poderia disparar um ciclo de crescimento acelerado. É uma leitura densa, voltada para quem pensa em estratégia de longo prazo no setor. Tem implicações para políticas de investimento e de segurança em IA.",
-    "reasonEn": "The PDF analyzes scenarios where automating AI research itself could trigger an explosive growth cycle. A dense read aimed at long-term AI strategy. It has implications for investment and AI safety policy.",
-    "score": 0.5,
-    "tags": [
-      "pesquisa",
-      "estratégia"
-    ],
-    "img": "img/32a492f58cb2.jpg",
-    "ts": 1791066130,
-    "addedTs": 1791072913,
-    "urlHash": "32a492f58cb2",
-    "titleHash": "eb474c90ccf8"
-  },
-  {
-    "title": "Can AI self-improvement overcome diminishing returns?",
-    "titlePt": "A autoaperfeiçoamento da IA consegue vencer os retornos decrescentes?",
-    "url": "https://www.rameznaam.com/p/ai-rsi-isnt-leading-to-super-intelligence",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo debate se ciclos de autoaperfeiçoamento em IA realmente escapam da desaceleração de retorno observada em outras tecnologias. É uma análise técnica para quem acompanha debates sobre escalabilidade e limites do progresso. Tem implicações paravaluation de empresas que apostam em IA cada vez mais poderosa.",
-    "reasonEn": "The piece discusses whether AI self-improvement cycles can escape the diminishing returns seen in other technologies. A technical analysis aimed at readers tracking scalability debates. Relevant for valuing companies betting on ever-more-powerful AI.",
-    "score": 0.5,
-    "tags": [
-      "pesquisa",
-      "estratégia"
-    ],
-    "img": "img/07c1873e3e1e.jpg",
-    "ts": 1791065870,
-    "addedTs": 1791072913,
-    "urlHash": "07c1873e3e1e",
-    "titleHash": "13fb4dee5d21"
-  },
-  {
-    "title": "Nikon 'Re-Reviewing' Winner of Small World in Motion Contest After AI Accusation",
-    "titlePt": "Nikon revisa vencedor de concurso após acusação de uso de IA",
-    "url": "https://petapixel.com/2026/10/01/nikon-re-reviewing-winner-of-small-world-in-motion-contest-after-ai-accusation/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Nikon anunciou que está reavaliando o vencedor de uma competição de microscopia após suspeitas de que tenha usado inteligência artificial na produção. É mais um caso emblemático da linha tênue entre uso legítimo de IA e fraude em premiações. Importante para a comunidade científica e fotográfica.",
-    "reasonEn": "Nikon is re-reviewing the winner of a microscopy contest after accusations that AI was used to create the entry. Another emblematic case in the gray zone between legitimate AI use and award fraud. Relevant for the scientific and photography communities.",
-    "score": 0.5,
-    "tags": [
-      "polêmica",
-      "mídia"
-    ],
-    "img": "img/26f4e474f1fd.jpg",
-    "ts": 1791064967,
-    "addedTs": 1791072913,
-    "urlHash": "26f4e474f1fd",
-    "titleHash": "79e3b51e0e4e"
-  },
-  {
-    "title": "The University of Cambridge opposes Turnitin AI training plans",
-    "titlePt": "Universidade de Cambridge se opõe aos planos da Turnitin de treinar IA",
-    "url": "https://www.varsity.co.uk/news/32158",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Universidade de Cambridge manifestou oposição formal aos planos da Turnitin de usar trabalhos de alunos para treinar modelos de inteligência artificial. É um movimento relevante na tensão entre dados educacionais e IA comercial. Pode influenciar políticas de outras universidades e fornecedores.",
-    "reasonEn": "The University of Cambridge formally opposes Turnitin's plans to use student work to train AI models. A notable move in the tension between educational data and commercial AI. Could influence policies at other universities and vendors.",
-    "score": 0.6,
-    "tags": [
-      "educação",
-      "regulação"
-    ],
-    "img": "img/de590a0fc139.jpg",
-    "ts": 1791064078,
-    "addedTs": 1791072913,
-    "urlHash": "de590a0fc139",
-    "titleHash": "f381acde8742"
-  },
-  {
-    "title": "A Beginner's Guide to Running AI Models Locally",
-    "titlePt": "Guia para iniciantes: rodando modelos de IA localmente",
-    "url": "https://www.itsthatlady.dev/blog/beginners-guide-to-local-ai/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um tutorial prático ensina como rodar modelos de IA no próprio computador, sem depender de serviços na nuvem. É útil para desenvolvedores e curiosos que querem privacidade, menor custo ou experimentar sem limites de uso. O guia cobre desde a escolha de hardware até os primeiros comandos. Reduz a barreira de entrada para quem está começando.",
-    "reasonEn": "A practical tutorial shows how to run AI models on your own computer, without relying on cloud services. It is useful for developers and curious users who want more privacy, lower costs, or freedom from usage limits. The guide covers everything from picking hardware to running your first commands. It lowers the entry barrier for beginners.",
-    "score": 0.6,
-    "tags": [
-      "tutorial",
-      "modelo",
-      "local"
-    ],
-    "img": "img/cd8068648988.jpg",
-    "ts": 1791061277,
-    "addedTs": 1791072913,
-    "urlHash": "cd8068648988",
-    "titleHash": "8b3053cee1dd"
-  },
-  {
-    "title": "Pope Leo XIV is not a fan of AI-generated art",
-    "titlePt": "Papa Leão XIV não é fã de arte gerada por IA",
-    "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "O Papa Leão XIV se manifestou contra o uso de inteligência artificial para criar arte, criticando a desumanização que isso representa. A fala tem peso porque vem da maior liderança da Igreja Católica e pode influenciar debates sobre autoria e criatividade. O tema interessa a artistas, empresas de mídia e qualquer pessoa que trabalhe com conteúdo. É uma posição clara e citável.",
-    "reasonEn": "Pope Leo XIV has spoken out against using AI to create art, criticizing the dehumanization it represents. His words carry weight as the leader of the Catholic Church and may shape debates on authorship and creativity. The topic matters to artists, media companies, and anyone working with content. It is a clear, quotable stance.",
-    "score": 0.6,
-    "tags": [
-      "regulação",
-      "arte",
-      "sociedade"
-    ],
-    "img": "img/d30de3388ab4.jpg",
-    "ts": 1790955581,
-    "addedTs": 1791072913,
-    "urlHash": "d30de3388ab4",
-    "titleHash": "2c8e4da3aaa4"
-  },
-  {
-    "title": "New insights from Google’s AI & Economy ATLAS",
-    "titlePt": "Novos insights do ATLAS de IA e Economia do Google",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
-    "source": "Google AI",
-    "sources": [
-      "Google AI"
-    ],
-    "reason": "O Google publicou novos dados e análises do seu projeto ATLAS, que estuda o impacto econômico da IA. Pode trazer indicadores úteis sobre produtividade, mercado de trabalho e adoção. Vale para pesquisadores, gestores e curiosos atentos a tendências. Mais relevante que os posts institucionais genéricos da empresa.",
-    "reasonEn": "Google published new data and analysis from its ATLAS project, which studies AI's economic impact. It may offer useful indicators on productivity, the labor market, and adoption. It is worth reading for researchers, managers, and anyone tracking trends. More relevant than the company's generic institutional posts.",
-    "score": 0.5,
-    "tags": [
-      "google",
-      "pesquisa",
-      "economia"
-    ],
-    "img": "img/b21c5e1ffc81.jpg",
-    "ts": 1789477200,
-    "addedTs": 1791072913,
-    "urlHash": "b21c5e1ffc81",
-    "titleHash": "709fd2ef8c32"
-  },
-  {
-    "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-    "titlePt": "Ajustando um modelo de 350M para saídas estruturadas em 100 passos de GRPO",
-    "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "O post mostra como ajustar um modelo de 350 milhões de parâmetros usando apenas 100 passos de GRPO para melhorar saídas estruturadas. É conteúdo técnico e útil para desenvolvedores que trabalham com modelos pequenos e tarefas específicas. Demonstra que ajustes enxutos podem trazer bons resultados. Boa leitura para quem mexe em fine-tuning.",
-    "reasonEn": "The post shows how to fine-tune a 350M parameter model using just 100 GRPO steps to improve structured outputs. It is technical content useful for developers working with small models and specific tasks. It shows that lean fine-tuning can deliver solid results. A good read for anyone into fine-tuning.",
-    "score": 0.7,
-    "tags": [
-      "modelo",
-      "tutorial",
-      "huggingface"
-    ],
-    "img": "img/a139f80b1592.jpg",
-    "ts": 1788393600,
-    "addedTs": 1791072913,
-    "urlHash": "a139f80b1592",
-    "titleHash": "2dda7e705a83"
   }
 ]
