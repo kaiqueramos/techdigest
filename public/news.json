@@ -1,5 +1,389 @@
 [
   {
+    "title": "Show HN: The first open-weight model for general deterministic task",
+    "titlePt": "Primeiro modelo open-weight para tarefas determinísticas gerais",
+    "url": "https://huggingface.co/interfaze-ai/interfaze-1-lite",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um hacker publicou no Show HN o que afirma ser o primeiro modelo de pesos abertos dedicado a tarefas determinísticas de uso geral. Se a alegação se confirmar, abre caminho para comportamentos de IA mais previsíveis em automações e testes. É relevante para desenvolvedores que precisam de saídas reproduzíveis sem depender de APIs fechadas.",
+    "reasonEn": "A hacker posted on Show HN what they claim is the first open-weight model dedicated to general deterministic tasks. If the claim holds up, it paves the way for more predictable AI behavior in automations and tests. It is relevant for developers who need reproducible outputs without depending on closed APIs.",
+    "score": 0.55,
+    "tags": [
+      "modelo",
+      "open-source"
+    ],
+    "img": "img/0d8aa67c0358.jpg",
+    "ts": 1791911168,
+    "addedTs": 1791911744,
+    "urlHash": "0d8aa67c0358",
+    "titleHash": "34ea79380206"
+  },
+  {
+    "title": "Releasing AI-Generated Software",
+    "titlePt": "Lançando software gerado por IA",
+    "url": "https://blog.ploeh.dk/2026/10/12/releasing-ai-generated-software/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Discussão no Hacker News sobre como lidar com o lançamento de software construído de forma majoritária por IA. O tema interessa a desenvolvedores e líderes de produto que precisam decidir políticas internas sobre autoria, manutenção e licenciamento. Ainda é cedo, mas a conversa mostra pressão crescente por padrões claros.",
+    "reasonEn": "A Hacker News thread about handling the release of software built largely by AI. The topic matters for developers and product leaders who need to decide internal policies on authorship, maintenance and licensing. It is early, but the conversation shows growing pressure for clear standards.",
+    "score": 0.5,
+    "tags": [
+      "desenvolvimento",
+      "debate"
+    ],
+    "img": "img/e68bbb8cb251.jpg",
+    "ts": 1791911120,
+    "addedTs": 1791911744,
+    "urlHash": "e68bbb8cb251",
+    "titleHash": "5b1902395f87"
+  },
+  {
+    "title": "LFM2.5-24B-A2B: Built for Fast On-Device Agents",
+    "titlePt": "LFM2.5-24B-A2B: feito para agentes rápidos no dispositivo",
+    "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Liquid AI traz um modelo de 24 bilhões de parâmetros projetado para rodar agentes localmente em hardware comum. O objetivo é cortar a dependência da nuvem e reduzir latência, algo importante para assistentes pessoais e apps sensíveis. Indica que a corrida por IA no próprio dispositivo está acelerando e pode mudar custos para muitas empresas.",
+    "reasonEn": "Liquid AI is shipping a 24B-parameter model designed to run agents locally on common hardware. The goal is to cut cloud dependence and reduce latency, which matters for personal assistants and privacy-sensitive apps. It signals that the on-device AI race is accelerating and could change costs for many companies.",
+    "score": 0.8,
+    "tags": [
+      "modelo",
+      "on-device"
+    ],
+    "img": "img/364f5f1cad75.jpg",
+    "ts": 1791910815,
+    "addedTs": 1791911744,
+    "urlHash": "364f5f1cad75",
+    "titleHash": "fe49c48ab618"
+  },
+  {
+    "title": "Kroger to lay off 3k corporate employees over 3 years as it leans into AI",
+    "titlePt": "Kroger vai cortar 3 mil cargos corporativos em três anos para investir em IA",
+    "url": "https://apnews.com/article/kroger-layoffs-grocery-job-cuts-30f0a5d88377e9969ce8994644e14498",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A gigante americana de supermercados Kroger anunciou a eliminação de cerca de três mil vagas administrativas ao longo de três anos para acelerar a adoção de inteligência artificial. O movimento afeta diretamente funcionários de escritório, mas também sinaliza como empresas tradicionais estão reestruturando áreas inteiras em torno de IA. Serve como termômetro de como a automação está chegando a setores pouco digitalizados.",
+    "reasonEn": "American grocery giant Kroger announced it will cut roughly 3,000 corporate roles over three years to accelerate AI adoption. The move directly impacts office workers and signals how traditional companies are restructuring entire departments around AI. It works as a thermometer for how automation is reaching less digitized sectors.",
+    "score": 0.85,
+    "tags": [
+      "negócios",
+      "automação"
+    ],
+    "img": "img/9139ddb82e67.jpg",
+    "ts": 1791910197,
+    "addedTs": 1791911744,
+    "urlHash": "9139ddb82e67",
+    "titleHash": "a27fbb3e094f"
+  },
+  {
+    "title": "What we learned from building 1M+ cloud agents",
+    "titlePt": "O que aprendemos ao construir mais de 1 milhão de agentes na nuvem",
+    "url": "https://unreallabs.ai/blog/what-we-learned-from-building-cloud-agents/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma equipe compartilha no Hacker News as lições obtidas ao operar mais de um milhão de agentes em produção na nuvem. Os pontos passam por custos de orquestração, latência, tratamento de falhas e governança. É leitura útil para qualquer empresa pensando em escalar agentes além de provas de conceito.",
+    "reasonEn": "A team is sharing on Hacker News the lessons learned from running more than one million agents in production on the cloud. The points cover orchestration costs, latency, failure handling and governance. It is useful reading for any company thinking about scaling agents beyond proofs of concept.",
+    "score": 0.6,
+    "tags": [
+      "agentes",
+      "operações"
+    ],
+    "img": "img/d2177803c36d.jpg",
+    "ts": 1791910044,
+    "addedTs": 1791911744,
+    "urlHash": "d2177803c36d",
+    "titleHash": "3a0b7bfcb2eb"
+  },
+  {
+    "title": "Gemini 4 Argon is now available for developers",
+    "titlePt": "Gemini 4 Argon já está disponível para desenvolvedores",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A nova geração do modelo do Google, Gemini 4 Argon, foi liberada com acesso geral e novas APIs para desenvolvedores. A versão promete mais capacidade de raciocínio e janelas de contexto maiores, mudando o cálculo de custo e desempenho de produtos baseados em IA. É um dos movimentos mais relevantes da semana para quem constrói sobre modelos de fronteira.",
+    "reasonEn": "Google's new generation model, Gemini 4 Argon, has been released with general access and new APIs for developers. The version promises stronger reasoning and larger context windows, changing the cost and performance math for AI products. It is one of the most relevant moves this week for anyone building on frontier models.",
+    "score": 0.85,
+    "tags": [
+      "modelo",
+      "lançamento"
+    ],
+    "img": "img/54e63c7fa18f.jpg",
+    "ts": 1791909564,
+    "addedTs": 1791911744,
+    "urlHash": "54e63c7fa18f",
+    "titleHash": "b86189861524"
+  },
+  {
+    "title": "Chinese cheap LLMs could trigger trillion-dollar AI infrastructure reset",
+    "titlePt": "LLMs chineses baratos podem provocar uma reestruturação trilionária em infraestrutura de IA",
+    "url": "https://www.theregister.com/paas-and-iaas/2026/10/13/cheap-chinese-and-open-source-llms-could-trigger-trillion-dollar-ai-infrastructure-reset/5302774",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Análise alerta que modelos chineses de baixo custo estão forçando empresas ocidentais a repensar contratos bilionários de chips e data centers. Se a tendência se confirmar, pode desvalorizar parte da infraestrutura já construída e redistribuir investimentos globalmente. Importa para investidores, fornecedores e qualquer empresa planejando gastos de longo prazo com IA.",
+    "reasonEn": "An analysis warns that low-cost Chinese models are forcing Western companies to rethink their billion-dollar chip and data center contracts. If the trend holds, it could devalue part of the infrastructure already built and redistribute investment globally. It matters for investors, vendors and any company planning long-term AI spending.",
+    "score": 0.8,
+    "tags": [
+      "mercado",
+      "infraestrutura"
+    ],
+    "img": "img/deac2aeb2d60.jpg",
+    "ts": 1791909151,
+    "addedTs": 1791911744,
+    "urlHash": "deac2aeb2d60",
+    "titleHash": "6c9cac5b7b57"
+  },
+  {
+    "title": "Smash 64 Recomp Developer kicked for using AI (me)",
+    "titlePt": "Desenvolvedor de projeto de Smash 64 é removido por usar IA",
+    "url": "https://www.timeextension.com/news/2026/10/super-smash-bros-for-n64-is-getting-a-non-ai-slop-recomp-with-smash-remix-support",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O mantenedor de um projeto de recompilação de Smash 64 foi retirado após admitir uso de IA no código, gerando debate sobre limites éticos em projetos da comunidade. O episódio reacende a discussão sobre transparência, crédito e qualidade em contribuições open source. Serve de alerta para equipes e comunidades sobre como tratar contribuições assistidas por IA.",
+    "reasonEn": "The maintainer of a Smash 64 recompilation project was removed after admitting AI was used in the code, sparking debate about ethical limits in community projects. The episode reignites the discussion about transparency, credit and quality in open-source contributions. It is a warning for teams and communities on how to handle AI-assisted contributions.",
+    "score": 0.55,
+    "tags": [
+      "comunidade",
+      "ética"
+    ],
+    "img": "img/fb9e42adc72d.jpg",
+    "ts": 1791909012,
+    "addedTs": 1791911744,
+    "urlHash": "fb9e42adc72d",
+    "titleHash": "4a064a967ad9"
+  },
+  {
+    "title": "Agentic AI for network incident response",
+    "titlePt": "IA agêntica para resposta a incidentes de rede",
+    "url": "https://commandline.microsoft.com/ai-agent-copilot-autopilot-layered-model-production-network-incidents-on-call-engineers/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Discussão no Hacker News sobre o uso de agentes autônomos para investigar e conter incidentes em redes corporativas. A promessa é reduzir tempo médio de resposta e automatizar triagem inicial, mas há riscos novos de agentes tomando ações amplas em infraestrutura crítica. Tema relevante para equipes de segurança e operações de TI.",
+    "reasonEn": "A Hacker News thread on using autonomous agents to investigate and contain incidents on corporate networks. The promise is reducing mean response time and automating initial triage, but there are new risks of agents taking broad actions on critical infrastructure. Relevant for security and IT operations teams.",
+    "score": 0.6,
+    "tags": [
+      "segurança",
+      "agentes"
+    ],
+    "img": "img/9f4f7580521b.jpg",
+    "ts": 1791909005,
+    "addedTs": 1791911744,
+    "urlHash": "9f4f7580521b",
+    "titleHash": "df402d690dbd"
+  },
+  {
+    "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+    "titlePt": "Satlyt capta US$ 8 milhões para rodar IA em satélites",
+    "url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A startup Satlyt, criada por um ex-gerente de produto de Google e SpaceX, levantou oito milhões de dólares para executar modelos de IA diretamente em órbita. A proposta é processar dados de satélite localmente, sem precisar enviá-los todos para a Terra, o que reduz custo e latência. Pode impulsionar monitoramento ambiental, defesa e telecomunicações com respostas quase em tempo real.",
+    "reasonEn": "Startup Satlyt, founded by a former Google and SpaceX product manager, raised $8 million to run AI models directly in orbit. The proposal is to process satellite data locally without sending it all back to Earth, reducing cost and latency. It could boost environmental monitoring, defense and telecommunications with near-real-time responses.",
+    "score": 0.7,
+    "tags": [
+      "startup",
+      "investimento"
+    ],
+    "img": "img/8a08bb90a08a.jpg",
+    "ts": 1791909000,
+    "addedTs": 1791911744,
+    "urlHash": "8a08bb90a08a",
+    "titleHash": "ff983a61d82b"
+  },
+  {
+    "title": "Agent's Memory Needs a Retention Policy",
+    "titlePt": "A memória de agentes precisa de uma política de retenção",
+    "url": "https://memanto.ai/blog/your-agents-memory-needs-a-retention-policy",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Texto publicado no Hacker News argumenta que agentes de IA em produção precisam de regras claras de retenção de memória, semelhantes a políticas de dados tradicionais. Sem isso, crescem os custos, o ruído e o risco de exposição de informações antigas. O tema é útil para qualquer time construindo agentes que conversam por longos períodos.",
+    "reasonEn": "A Hacker News post argues that AI agents in production need clear memory retention rules, similar to traditional data policies. Without them, costs, noise and the risk of exposing old information all grow. The topic is useful for any team building agents that talk over long periods.",
+    "score": 0.55,
+    "tags": [
+      "agentes",
+      "arquitetura"
+    ],
+    "img": "img/38c96b7cc8b5.jpg",
+    "ts": 1791908256,
+    "addedTs": 1791911744,
+    "urlHash": "38c96b7cc8b5",
+    "titleHash": "309d4ca1d62b"
+  },
+  {
+    "title": "AiID launches ID-authentication software built for imperfect scans",
+    "titlePt": "AiID lança software de autenticação de IDs feito para digitalizações ruins",
+    "url": "https://runtimewire.com/article/aiid-frictionless-id-launch-brandon-currul",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A AiID apresentou um sistema de verificação de identidade voltado a documentos digitalizados em baixa qualidade, comuns em cadastros via celular. O foco é reduzir fraudes em onboarding digital sem exigir hardware sofisticado. Atende fintechs, bancos digitais e qualquer fluxo de KYC que sofra com scans imperfeitos.",
+    "reasonEn": "AiID has launched an identity verification system built for low-quality document scans, common in mobile onboarding. The focus is reducing fraud in digital onboarding without requiring sophisticated hardware. It serves fintechs, digital banks and any KYC flow that suffers from imperfect scans.",
+    "score": 0.65,
+    "tags": [
+      "segurança",
+      "lançamento"
+    ],
+    "img": "img/979895660b13.jpg",
+    "ts": 1791907726,
+    "addedTs": 1791911744,
+    "urlHash": "979895660b13",
+    "titleHash": "47cb9019a103"
+  },
+  {
+    "title": "AI causes uproar in mathematics after OpenAI shares 722 manuscripts and proofs",
+    "titlePt": "IA causa polêmica na matemática após OpenAI compartilhar 722 manuscritos e provas",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-causes-uproar-in-mathematics-as-experts-warn-against-sharing-research-with-llms-after-openai-shares-722-manuscripts-and-proofs-professor-argues-that-the-field-must-focus-on-building-community-over-raw-solutions",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A OpenAI publicou um conjunto enorme de 722 manuscritos e provas matemáticas gerados por IA, provocando forte reação na comunidade matemática. Matemáticos reclamam que o material contém erros sutis e mistura resultados verdadeiros com afirmações inventadas, o que pode poluir a literatura científica. O caso reacende o debate sobre o uso de IA para produção acadêmica confiável. Pesquisadores e editores precisam decidir como lidar com esse tipo de conteúdo.",
+    "reasonEn": "OpenAI released a large set of 722 math manuscripts and proofs generated by AI, triggering a strong backlash from the mathematics community. Mathematicians complain that the material contains subtle errors and mixes valid results with invented claims, potentially polluting scientific literature. The episode reignites the debate over using AI to produce trustworthy academic work. Researchers and editors now need to decide how to handle this kind of content.",
+    "score": 0.62,
+    "tags": [
+      "ia",
+      "academia",
+      "polêmica"
+    ],
+    "img": "img/bb8ef62859cc.jpg",
+    "ts": 1791907629,
+    "addedTs": 1791911744,
+    "urlHash": "bb8ef62859cc",
+    "titleHash": "c3d6676a3c36"
+  },
+  {
+    "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+    "titlePt": "Amex cria framework para impedir que agentes de IA façam compras não autorizadas",
+    "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A American Express apresentou um conjunto de regras técnicas para limitar o que agentes de IA podem comprar em nome dos usuários. O framework define limites de valor, autenticação e canais permitidos, tentando evitar transações abusivas. É uma resposta prática ao crescimento de agentes autônomos que acessam carteiras e cartões. Bancos, fintechs e desenvolvedores de agentes terão que adaptar seus sistemas a padrões parecidos.",
+    "reasonEn": "American Express introduced a set of technical rules to limit what AI agents can buy on behalf of users. The framework defines spending caps, authentication, and allowed channels, aiming to block unauthorized transactions. It is a practical response to the rise of autonomous agents that tap into wallets and cards. Banks, fintechs, and agent developers will need to adapt their systems to similar standards.",
+    "score": 0.78,
+    "tags": [
+      "agentes",
+      "segurança",
+      "finanças"
+    ],
+    "img": "img/3aa63102ae81.jpg",
+    "ts": 1791896400,
+    "addedTs": 1791911744,
+    "urlHash": "3aa63102ae81",
+    "titleHash": "208d0860f916"
+  },
+  {
+    "title": "Google finally releases Gemini 4 Argon",
+    "titlePt": "Google finalmente lança Gemini 4 Argon",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "O Google disponibilizou o Gemini 4 Argon, novo modelo da família Gemini, focado em raciocínio avançado e tarefas de programação complexas. A empresa destaca resultados fortes em matemática, lógica e agentes longos. O lançamento intensifica a disputa com OpenAI e Anthropic pelo topo dos benchmarks. Desenvolvedores podem testar o modelo via API e no AI Studio.",
+    "reasonEn": "Google rolled out Gemini 4 Argon, the newest model in the Gemini family, focused on advanced reasoning and complex coding tasks. The company highlights strong results on math, logic, and long-running agents. The launch intensifies the race with OpenAI and Anthropic for top benchmark scores. Developers can try the model via API and in AI Studio.",
+    "score": 0.82,
+    "tags": [
+      "google",
+      "modelo",
+      "lançamento"
+    ],
+    "img": "img/f9f5ac5db3b6.jpg",
+    "ts": 1791893557,
+    "addedTs": 1791911744,
+    "urlHash": "f9f5ac5db3b6",
+    "titleHash": "f8fa4f4027ac"
+  },
+  {
+    "title": "The Download: open model trade-offs and geothermal power’s promise",
+    "titlePt": "Resumo da semana: trade-offs de modelos abertos e o futuro da energia geotérmica",
+    "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
+    "source": "MIT Tech Review",
+    "sources": [
+      "MIT Tech Review"
+    ],
+    "reason": "O boletim do MIT Technology Review desta semana discute os benefícios e riscos dos modelos de IA abertos, citando casos de uso e tensões regulatórias. Também destaca promessas da energia geotérmica como alternativa estável para data centers de IA. A edição traz ainda uma curadoria de outros artigos relevantes. É leitura útil para quem quer atualizar a visão geral do setor em poucos minutos.",
+    "reasonEn": "This week's MIT Technology Review digest covers the trade-offs of open AI models, listing use cases and regulatory tensions. It also spotlights geothermal energy as a steady power source for AI data centers. The edition curates additional relevant reads. It is a useful update for anyone wanting a quick overview of the sector.",
+    "score": 0.5,
+    "tags": [
+      "newsletter",
+      "modelos abertos",
+      "energia"
+    ],
+    "img": "img/922f233d2b02.jpg",
+    "ts": 1791892800,
+    "addedTs": 1791911744,
+    "urlHash": "922f233d2b02",
+    "titleHash": "4545e5bedfc1"
+  },
+  {
+    "title": "Open models have real benefits. Do they outweigh the risks?",
+    "titlePt": "Modelos abertos trazem benefícios reais. Os riscos compensam?",
+    "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+    "source": "MIT Tech Review",
+    "sources": [
+      "MIT Tech Review"
+    ],
+    "reason": "O MIT Technology Review publica uma análise equilibrada sobre os prós e contras dos modelos de IA de código aberto. Do lado positivo, há transparência, auditabilidade e custos menores para desenvolvedores. Do lado negativo, aumentam riscos de uso indevido, jailbreaks e desinformação. O artigo recomenda políticas de uso responsáveis e mais pesquisa sobre segurança. Leitores devem sair com uma visão menos binária do debate.",
+    "reasonEn": "MIT Technology Review published a balanced look at the pros and cons of open-weight AI models. On the plus side there is transparency, auditability, and lower costs for developers. On the downside, risks of misuse, jailbreaks, and disinformation grow. The piece calls for responsible-use policies and more safety research. Readers come away with a less black-and-white view of the debate.",
+    "score": 0.6,
+    "tags": [
+      "modelos abertos",
+      "segurança",
+      "regulação"
+    ],
+    "img": "img/aa865376889f.jpg",
+    "ts": 1791885600,
+    "addedTs": 1791911744,
+    "urlHash": "aa865376889f",
+    "titleHash": "fcd500718c5b"
+  },
+  {
+    "title": "AI labs are buying data from dead startups to train their models",
+    "titlePt": "Laboratórios de IA compram dados de startups falidas para treinar modelos",
+    "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+    "source": "MIT Tech Review",
+    "sources": [
+      "MIT Tech Review"
+    ],
+    "reason": "Grandes empresas de IA estão adquirindo bases de dados de startups que fecharam, usando esse conteúdo para treinar novos modelos. A prática levanta dúvidas sobre licenciamento, privacidade e respeito aos termos originais dos dados. Startups em dificuldade encontram uma nova forma de monetizar ativos restantes. O tema provavelmente chegará aos tribunais e a debates regulatórios nos próximos meses.",
+    "reasonEn": "Major AI labs are buying datasets from defunct startups and using that content to train new models. The practice raises questions about licensing, privacy, and respect for the original data terms. Struggling startups get a new way to monetize leftover assets. The topic will likely reach courts and regulators in the coming months.",
+    "score": 0.68,
+    "tags": [
+      "dados",
+      "treinamento",
+      "negócio"
+    ],
+    "img": "img/a2f578c60a47.jpg",
+    "ts": 1791882000,
+    "addedTs": 1791911744,
+    "urlHash": "a2f578c60a47",
+    "titleHash": "b1d371981f8b"
+  },
+  {
     "title": "AI-native Android OS running agents to operate your phone",
     "titlePt": "Sistema Android nativo de IA roda agentes que operam o celular",
     "url": "https://github.com/AgentVis-OS/aiphone_assistant",
@@ -6846,326 +7230,5 @@
     "addedTs": 1791308280,
     "urlHash": "de66b423d3f3",
     "titleHash": "1a7517450470"
-  },
-  {
-    "title": "ERC-8350: an on-chain standard for verifiable AI memory state",
-    "titlePt": "ERC-8350: padrão on-chain para memória verificável de IA",
-    "url": "https://eips.ethereum.org/EIPS/eip-8350",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Foi apresentado o ERC-8350, um padrão em blockchain para registrar e comprovar o estado de memória de agentes de IA. A ideia é permitir que outros sistemas verifiquem de forma descentralizada o que um agente aprendeu ou armazenou. Importa para quem constrói agentes e precisa de auditoria. Pode interessar a desenvolvedores de Web3 e IA.",
-    "reasonEn": "ERC-8350 was proposed as an on-chain standard for verifiable AI memory state. It lets anyone audit what an AI agent has stored or learned using blockchain proofs. This matters for builders of autonomous agents who need trustworthy records. Web3 and AI developers will find it most relevant.",
-    "score": 0.5,
-    "tags": [
-      "web3",
-      "agentes",
-      "blockchain"
-    ],
-    "img": "img/e499abf761c6.jpg",
-    "ts": 1791282612,
-    "addedTs": 1791284404,
-    "urlHash": "e499abf761c6",
-    "titleHash": "22143b334e50"
-  },
-  {
-    "title": "The AI-pilled engineer: most in demand, most exhausted [video]",
-    "titlePt": "O engenheiro viciado em IA: mais procurado e mais exausto",
-    "url": "https://www.youtube.com/watch?v=BIfjZZoXeb4",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um vídeo que retrata o perfil do engenheiro totalmente envolvido com IA, muito demandado no mercado mas também esgotado. Discute pressão, produtividade e os efeitos do hype sobre times técnicos. Serve para líderes de engenharia e profissionais da área. Toca em saúde mental e cultura de trabalho.",
-    "reasonEn": "A video profile of the AI-pilled engineer who is the most in demand and most burned out. It explores the pressure, productivity expectations and toll of working in the current AI boom. Useful for engineering managers and tech workers. Touches on mental health and work culture.",
-    "score": 0.5,
-    "tags": [
-      "trabalho",
-      "cultura"
-    ],
-    "img": "img/07db553838c7.jpg",
-    "ts": 1791282272,
-    "addedTs": 1791284404,
-    "urlHash": "07db553838c7",
-    "titleHash": "422a1b4684e6"
-  },
-  {
-    "title": "Peter Norvig on AI's Future and the Limits of Trust",
-    "titlePt": "Peter Norvig sobre o futuro da IA e os limites da confiança",
-    "url": "https://www.turingpost.com/p/peter-norvig-on-ai-s-future-and-the-limits-of-trust",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Peter Norvig, referência clássica em IA, fala sobre os rumos da área e onde está o limite do que se deve esperar das máquinas. Discute confiança, expectativas infladas e caminhos realistas. Importa para qualquer pessoa que queira uma visão experiente. Boa leitura para devs e gestores.",
-    "reasonEn": "AI veteran Peter Norvig shares thoughts on where the field is heading and how much trust we should place in AI systems. He discusses inflated expectations and realistic paths forward. Useful for developers, managers and curious readers. A grounded take from a respected voice.",
-    "score": 0.6,
-    "tags": [
-      "entrevista",
-      "visão"
-    ],
-    "img": "img/26fd2e3106c3.jpg",
-    "ts": 1791279928,
-    "addedTs": 1791284404,
-    "urlHash": "26fd2e3106c3",
-    "titleHash": "c82d596fa2ff"
-  },
-  {
-    "title": "Seagate and Toshiba bid for TDK's HDD head unit amid AI storage boom",
-    "titlePt": "Seagate e Toshiba disputam unidade de cabeças de HD da TDK",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-06/seagate-is-said-to-battle-toshiba-for-tdk-s-hard-drive-head-unit",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Seagate e Toshiba estão fazendo propostas para comprar a divisão de cabeças de disco rígido da TDK, impulsionadas pela alta demanda de armazenamento para IA. Mostra como o boom de IA pressiona toda a cadeia de hardware, não só chips. Importante para entender gargalos do setor. Afeta custos de infraestrutura.",
-    "reasonEn": "Seagate and Toshiba are bidding to buy TDK's hard disk head unit as AI-driven storage demand surges. It highlights how the AI boom is stressing the entire hardware supply chain, not just chips. Useful for understanding infrastructure bottlenecks. May affect storage costs ahead.",
-    "score": 0.6,
-    "tags": [
-      "hardware",
-      "armazenamento",
-      "deal"
-    ],
-    "img": "img/fad8fc24e978.jpg",
-    "ts": 1791277259,
-    "addedTs": 1791284404,
-    "urlHash": "fad8fc24e978",
-    "titleHash": "61c0dd7882e8"
-  },
-  {
-    "title": "My New Course at UT Austin: AI Alignment Theory",
-    "titlePt": "Novo curso na UT Austin: Teoria de Alinhamento de IA",
-    "url": "https://scottaaronson.blog/?p=10125",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O pesquisador lança na Universidade do Texas em Austin um curso sobre teoria de alinhamento de IA. Aborda como garantir que sistemas de IA sigam objetivos humanos de forma segura. Serve para estudantes e profissionais que buscam formação acadêmica. Mostra que o tema ganha espaço nas universidades.",
-    "reasonEn": "A new AI alignment theory course is launching at the University of Texas at Austin. It covers how to keep AI systems aligned with human goals safely. Useful for students and professionals seeking academic depth. Signals alignment is becoming a serious academic field.",
-    "score": 0.5,
-    "tags": [
-      "educação",
-      "alinhamento"
-    ],
-    "img": "img/6b62d0cb7047.jpg",
-    "ts": 1791276593,
-    "addedTs": 1791284404,
-    "urlHash": "6b62d0cb7047",
-    "titleHash": "b7abc9ea2784"
-  },
-  {
-    "title": "A comprehensive comparison of the main OSS semantic layers",
-    "titlePt": "Comparação completa das principais camadas semânticas open source",
-    "url": "https://motley.ai/blog-posts/four-open-source-semantic-layers-54-capabilities/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um guia técnico comparando as principais camadas semânticas de código aberto do mercado. Ajuda arquitetos e engenheiros a escolher entre opções para busca, RAG e agentes. Mostra prós, contras e casos de uso. Importa para quem monta sistemas com LLM em produção.",
-    "reasonEn": "A technical comparison of the leading open-source semantic layers available today. It helps engineers pick the right option for search, RAG and agents. Covers trade-offs and ideal use cases. Important for anyone building production LLM systems.",
-    "score": 0.6,
-    "tags": [
-      "open-source",
-      "comparação"
-    ],
-    "img": "img/ccde0f76cd01.jpg",
-    "ts": 1791276304,
-    "addedTs": 1791284404,
-    "urlHash": "ccde0f76cd01",
-    "titleHash": "e8f26a9cc9da"
-  },
-  {
-    "title": "Two Types of AI Agents",
-    "titlePt": "Dois tipos de agentes de IA",
-    "url": "https://matthiasplappert.com/blog/2026/two-agent-types/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um texto curto que distingue dois perfis de agentes de IA, separando por capacidade ou nível de autonomia. Ajuda a entender como diferentes arquiteturas agem no mercado. Útil para quem está começando a estudar agentes. Leitura rápida e didática.",
-    "reasonEn": "A short piece that distinguishes two types of AI agents by capability or autonomy. It clarifies the terminology used across the field. Useful for newcomers building or evaluating agents. A short, didactic read.",
-    "score": 0.5,
-    "tags": [
-      "agentes",
-      "conceito"
-    ],
-    "img": "img/15347b1690bf.jpg",
-    "ts": 1791273943,
-    "addedTs": 1791284404,
-    "urlHash": "15347b1690bf",
-    "titleHash": "c7446db86520"
-  },
-  {
-    "title": "Everyone Is Marketing with AI, and Nobody Is Listening",
-    "titlePt": "Todos vendem com IA, ninguém está ouvindo",
-    "url": "https://www.vincentschmalbach.com/everyone-is-marketing-with-ai-nobody-is-listening/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo critica o fato de que empresas estão enchendo o mercado de marketing gerado por IA, criando ruído e fadiga. Argumenta que isso dilui mensagens e afeta consumidores. Importa para profissionais de marketing, comunicação e fundadores. Toca em saturação do conteúdo por IA.",
-    "reasonEn": "The piece argues that companies are flooding channels with AI-generated marketing, creating noise and listener fatigue. It says the messages are losing impact as a result. Relevant for marketers, founders and comms leaders. Highlights AI content saturation.",
-    "score": 0.7,
-    "tags": [
-      "marketing",
-      "crítica"
-    ],
-    "img": "img/f27046eab149.jpg",
-    "ts": 1791273023,
-    "addedTs": 1791284404,
-    "urlHash": "f27046eab149",
-    "titleHash": "0d2421946748"
-  },
-  {
-    "title": "German Bundeswehr Uses AI to Screen Applicants for Right-Wing Extremism",
-    "titlePt": "Bundeswehr alemã usa IA para detectar extremismo em candidatos",
-    "url": "https://news.osna.fm/german-military-intelligence-uses-ai-to-screen-bundeswehr-applicants-for-right-wing-extremism/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "As Forças Armadas alemãs estão usando IA para analisar candidatos e identificar sinais de extremismo de direita. Levanta questões sérias sobre privacidade, viés algorítmico e uso militar. Importa para qualquer pessoa interessada em ética e regulação de IA. Pode servir de precedente em outros países.",
-    "reasonEn": "Germany's Bundeswehr is screening applicants with AI to flag potential far-right extremism. It raises serious concerns about privacy, algorithmic bias and military use of AI. Relevant for anyone tracking AI ethics and regulation. Could set a precedent elsewhere.",
-    "score": 0.8,
-    "tags": [
-      "regulação",
-      "ética",
-      "militar"
-    ],
-    "img": "img/dd902667a0b4.jpg",
-    "ts": 1791272947,
-    "addedTs": 1791284404,
-    "urlHash": "dd902667a0b4",
-    "titleHash": "dca2c64f971d"
-  },
-  {
-    "title": "'Pull the plug': protesters resort to direct action against AI firms",
-    "titlePt": "Protestos com ação direta contra empresas de IA",
-    "url": "https://www.theguardian.com/technology/2026/oct/06/pull-the-plug-protesters-resort-to-direct-action-against-ai-firms",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Ativistas estão recorrendo a ações diretas contra empresas de IA, indo além de protestos tradicionais. Sinaliza escalada do conflito entre críticos e o setor. Importa para fundadores, equipes jurídicas e profissionais de comunicação. Tende a crescer se a percepção pública piorar.",
-    "reasonEn": "Protesters are escalating to direct action against AI firms, going beyond traditional demonstrations. It shows the conflict between critics and the industry is intensifying. Relevant for founders, legal and comms teams. Likely to grow if public sentiment worsens.",
-    "score": 0.6,
-    "tags": [
-      "protesto",
-      "ética"
-    ],
-    "img": "img/92ec27a4ebef.jpg",
-    "ts": 1791272782,
-    "addedTs": 1791284404,
-    "urlHash": "92ec27a4ebef",
-    "titleHash": "a13747fab9dd"
-  },
-  {
-    "title": "Show HN: Manage Skills, Memories, and Agents.md Files Across Tools and Projects",
-    "titlePt": "Gerencie habilidades, memórias e arquivos de agentes em vários projetos",
-    "url": "https://github.com/mjalalimanesh/skillhub-local",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Uma ferramenta para organizar de forma centralizada arquivos de habilidades, memórias e configurações de agentes de IA em diferentes projetos e ambientes. Resolve um problema real de desenvolvedores que trabalham com múltiplos agentes. Mostra amadurecimento do ecossistema de agentes.",
-    "reasonEn": "A tool to centrally manage skills, memories and configuration files for AI agents across tools and projects. It addresses a growing pain for developers juggling multiple agents. Signals the agent ecosystem is maturing.",
-    "score": 0.5,
-    "tags": [
-      "agentes",
-      "ferramenta"
-    ],
-    "img": "img/707de8e4457d.jpg",
-    "ts": 1791272126,
-    "addedTs": 1791284404,
-    "urlHash": "707de8e4457d",
-    "titleHash": "fbd5f55a5738"
-  },
-  {
-    "title": "SPUR: New standard for tracking AI tools' use of publishers' content",
-    "titlePt": "SPUR: novo padrão para rastrear uso de conteúdo por ferramentas de IA",
-    "url": "https://digiday.com/media/spur-publishes-ai-content-tracking-standard-pitches-openai-and-google-to-join-advisory-board/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Editores propõem o SPUR, um padrão aberto para que veículos possam acompanhar como seu conteúdo é usado por sistemas de IA. Visa dar transparência e permitir cobrança ou bloqueio. Importa para publishers, desenvolvedores de IA e. Pode mudar a relação entre IA e mídia.",
-    "reasonEn": "Publishers are proposing an open protocol that lets outlets monitor how their material is consumed by AI products. It aims to support payment or attribution flows. Impacts AI developers, publishers and regulators. Could reshape the AI-media relationship.",
-    "score": 0.7,
-    "tags": [
-      "regulação",
-      "mídia",
-      "padrão"
-    ],
-    "img": "img/fc0cb2ef31c4.jpg",
-    "ts": 1791271754,
-    "addedTs": 1791284404,
-    "urlHash": "fc0cb2ef31c4",
-    "titleHash": "672d74124ca7"
-  },
-  {
-    "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-    "titlePt": "Falcon-Emirati: LLM treinado no dialeto e cultura dos Emirados",
-    "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "Foi lançado o Falcon-Emirati, um modelo de linguagem grande treinado especificamente no dialeto e nuances culturais dos Emirados Árabes. Mostra a tendência de modelos regionalizados e culturalmente adaptados. Importa para quem trabalha com localização e multilíngue. Sinaliza fragmentação dos modelos globais.",
-    "reasonEn": "Falcon-Emirati is a new LLM trained on Emirati dialect and local culture. It reflects the trend of regionally and culturally tuned models. Relevant for anyone working on localization or multilingual AI. Signals fragmentation of global models.",
-    "score": 0.6,
-    "tags": [
-      "modelo",
-      "localização"
-    ],
-    "img": "img/fe424883c3ca.jpg",
-    "ts": 1791269079,
-    "addedTs": 1791284404,
-    "urlHash": "fe424883c3ca",
-    "titleHash": "dfdf1ff42521"
-  },
-  {
-    "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
-    "titlePt": "IA aberta ou fechada? O dilema dos fundadores no TechCrunch Disrupt",
-    "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "Painel no TechCrunch Disrupt 2026 reúne fundadores discutindo se devem construir sobre modelos abertos ou fechados. Mostra dilemas de custo, lock-in e estratégia. Importa para qualquer pessoa construindo produtos com IA. Decisão central para o futuro próximo.",
-    "reasonEn": "A TechCrunch Disrupt 2026 panel has founders debating whether to build on open or closed AI models. It surfaces cost, strategy and lock-in trade-offs. Relevant for anyone shipping AI products. A core decision shaping the near future.",
-    "score": 0.7,
-    "tags": [
-      "open-source",
-      "estratégia",
-      "debate"
-    ],
-    "img": "img/fb4a44bb6384.jpg",
-    "ts": 1791212400,
-    "addedTs": 1791284404,
-    "urlHash": "fb4a44bb6384",
-    "titleHash": "efd2cd4f59d6"
-  },
-  {
-    "title": "Holo4: powering generalist computer-use agents",
-    "titlePt": "Holo4: novos agentes de computador no HuggingFace",
-    "url": "https://huggingface.co/blog/Hcompany/holo4",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "O HuggingFace publicou o Holo4, um novo modelo voltado a agentes de computador de uso geral. Esses agentes são capazes de controlar interfaces, clicar em botões e executar tarefas como um humano faria. O lançamento mostra o quanto a área de agentes autônomos está ficando mais prática. Desenvolvedores podem testar e integrar o modelo em seus sistemas. É mais uma opção no ecossistema crescente de agentes de IA.",
-    "reasonEn": "",
-    "score": 0.55,
-    "tags": [
-      "agentes",
-      "huggingface",
-      "modelo"
-    ],
-    "img": "img/09d1d26fa19d.jpg",
-    "ts": 1790588645,
-    "addedTs": 1791284404,
-    "urlHash": "09d1d26fa19d",
-    "titleHash": "7906ea34f2bd"
   }
 ]
