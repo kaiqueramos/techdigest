@@ -1,5 +1,246 @@
 [
   {
+    "title": "OCP 2026: Agentic AI Pushes the Data Center from Chip to Grid",
+    "titlePt": "OCP 2026: IA agêntica pressiona data centers do chip à rede elétrica",
+    "url": "https://www.datacenterfrontier.com/hyperscale/article/55411534/ocp-2026-agentic-ai-pushes-the-data-center-from-chip-to-grid",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A conferência Open Compute Project 2026 destaca como a chegada da IA agêntica exige repensar toda a infraestrutura de data centers, indo desde o processador até a rede elétrica. Grandes operadores de nuvem já planejam mudanças profundas para acomodar a nova demanda de computação. Isso afeta diretamente custos, disponibilidade de energia e estratégia de empresas de tecnologia. Quem investe ou usa serviços de nuvem deve prestar atenção.",
+    "reasonEn": "The Open Compute Project 2026 conference highlights how the rise of agentic AI demands rethinking the entire data center stack, from chips to the power grid. Major cloud operators are already planning deep changes to handle the new compute demand. This impacts costs, energy availability, and tech company strategy. Anyone investing in or using cloud services should pay attention.",
+    "score": 0.85,
+    "tags": [
+      "infraestrutura",
+      "agentes",
+      "datacenter"
+    ],
+    "img": "img/fbd59a15b2ec.jpg",
+    "ts": 1791944356,
+    "addedTs": 1791946105,
+    "urlHash": "fbd59a15b2ec",
+    "titleHash": "370608aaba31"
+  },
+  {
+    "title": "An Open Letter on AI and Cybersecurity from the Scientific Community",
+    "titlePt": "Carta aberta da comunidade científica sobre IA e cibersegurança",
+    "url": "https://ai-security-letter.org/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Pesquisadores renomados assinaram uma carta aberta alertando sobre os riscos crescentes da combinação entre IA e cibersegurança. O documento pede mais transparência e coordenação entre governos e setor privado. Pode influenciar novas regulamentações nos próximos meses. Gestores de segurança da informação devem ler.",
+    "reasonEn": "Renowned researchers signed an open letter warning about growing risks of combining AI with cybersecurity. The document calls for more transparency and coordination between governments and the private sector. It could influence new regulations in coming months. Security managers should read it.",
+    "score": 0.8,
+    "tags": [
+      "regulação",
+      "segurança",
+      "cibersegurança"
+    ],
+    "img": "img/60c5e5e65a42.jpg",
+    "ts": 1791942306,
+    "addedTs": 1791946105,
+    "urlHash": "60c5e5e65a42",
+    "titleHash": "80b6d5d9c7be"
+  },
+  {
+    "title": "Apples to Apples: Getting Type Mappings Right in LLM-Based Code Translation",
+    "titlePt": "Como acertar mapeamento de tipos na tradução de código com LLM",
+    "url": "https://www.codemetal.ai/research/apples-to-apples-getting-type-mappings-right-in-llm-based-code-translation",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Artigo técnico aprofundado sobre um problema clássico: quando LLMs traduzem código entre linguagens, mapeamentos errados de tipos causam bugs sutis. Muito relevante para times que estão usando IA para migrar sistemas legados. Mostra armadilhas reais e soluções práticas. Vale a leitura para desenvolvedores sêniores.",
+    "reasonEn": "In-depth technical piece on a classic problem: when LLMs translate code between languages, wrong type mappings cause subtle bugs. Highly relevant for teams using AI to migrate legacy systems. Shows real pitfalls and practical solutions. Worth the read for senior developers.",
+    "score": 0.55,
+    "tags": [
+      "llm",
+      "engenharia"
+    ],
+    "img": "img/80eb54722137.jpg",
+    "ts": 1791940790,
+    "addedTs": 1791946105,
+    "urlHash": "80eb54722137",
+    "titleHash": "475694289400"
+  },
+  {
+    "title": "Character.ai files for Chapter 11 bankruptcy. Disney makes a bid",
+    "titlePt": "Character.ai pede falência e a Disney faz proposta de compra",
+    "url": "https://www.cnbc.com/2026/10/13/character-ai-chapter-11-disney-bid.html",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Character.ai, conhecida pelos chatbots de personagens, entrou com pedido de falência nos EUA. A Disney já apresentou uma oferta para adquirir a empresa, o que pode mudar o cenário de personagens virtuais baseados em IA. O movimento reflete a dificuldade de monetizar chatbots de companhia. Tem impacto direto no mercado de entretenimento digital.",
+    "reasonEn": "Character.ai, famous for character-based chatbots, filed for bankruptcy in the US. Disney has presented a bid to acquire the company, which could change the landscape of AI-based virtual characters. The move reflects the difficulty of monetizing companion chatbots. Directly impacts the digital entertainment market.",
+    "score": 0.95,
+    "tags": [
+      "falência",
+      "deal",
+      "entretenimento"
+    ],
+    "img": "img/7bb669e3da6d.jpg",
+    "ts": 1791939903,
+    "addedTs": 1791946105,
+    "urlHash": "7bb669e3da6d",
+    "titleHash": "387f8d471813"
+  },
+  {
+    "title": "Show HN: Benchmark coding agents on deploying apps",
+    "titlePt": "Benchmark para agentes de código em deploy de apps",
+    "url": "https://github.com/cloudishai/ai-deploy-bench",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Projeto para medir o desempenho real de agentes de IA na tarefa de colocar aplicações em produção. Vai além dos benchmarks tradicionais de geração de código e foca em resultados práticos. Importante para times que escolhem ferramentas de coding agent assistida. Sinal de amadurecimento do ecossistema de avaliação.",
+    "reasonEn": "Project to measure real-world performance of AI agents on deploying applications to production. Goes beyond traditional code-generation benchmarks and focuses on practical results. Important for teams choosing AI coding agent tools. Sign of ecosystem maturity in evaluation.",
+    "score": 0.5,
+    "tags": [
+      "benchmark",
+      "agentes",
+      "devtools"
+    ],
+    "img": "img/7c03c77e569f.jpg",
+    "ts": 1791936464,
+    "addedTs": 1791946105,
+    "urlHash": "7c03c77e569f",
+    "titleHash": "651ee0d3a26c"
+  },
+  {
+    "title": "Show HN: Jevcrawl – A web crawler for AI agents with no LLM in the crawl loop",
+    "titlePt": "Jevcrawl: crawler para agentes de IA sem LLM no loop",
+    "url": "https://github.com/RayenMlayeh/jevcrawl",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Ferramenta de web crawler otimizada para alimentar agentes de IA, com a proposta de não usar LLM durante o crawling, reduzindo custo. Abordagem engenhosa para resolver gargalo comum em sistemas agentes. Relevante para quem trabalha com scraping inteligente e agentes autônomos. Demonstra boa engenharia.",
+    "reasonEn": "Web crawler tool optimized to feed AI agents, with the proposal of not using an LLM during crawling to reduce cost. Clever approach to solve a common bottleneck in agent systems. Relevant for those working with intelligent scraping and autonomous agents. Shows good engineering.",
+    "score": 0.5,
+    "tags": [
+      "devtools",
+      "agentes",
+      "open-source"
+    ],
+    "img": "img/56871c2eccd1.jpg",
+    "ts": 1791934520,
+    "addedTs": 1791946105,
+    "urlHash": "56871c2eccd1",
+    "titleHash": "c8cd84e4bff5"
+  },
+  {
+    "title": "AI's quiet safety gatekeepers are stepping into the spotlight",
+    "titlePt": "Moderadores silenciosos de IA saem dos bastidores",
+    "url": "https://www.cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Times internos de empresas de IA que filtram conteúdo perigoso estão sendo mais expostos e cobrados. Isso inclui revisores de dados, red-teams e equipes de segurança de modelos. Sinaliza maior pressão regulatória e social sobre segurança em IA. Profissionais de compliance e gestão de risco devem acompanhar.",
+    "reasonEn": "Internal teams at AI companies that filter dangerous content are being put in the spotlight and held accountable. This includes data reviewers, red teams, and model safety teams. Signals growing regulatory and social pressure on AI safety. Compliance and risk management professionals should follow.",
+    "score": 0.7,
+    "tags": [
+      "segurança",
+      "regulação",
+      "moderação"
+    ],
+    "img": "img/372ef801f6cc.jpg",
+    "ts": 1791934129,
+    "addedTs": 1791946105,
+    "urlHash": "372ef801f6cc",
+    "titleHash": "30fd33db03b4"
+  },
+  {
+    "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+    "titlePt": "Cientistas implantam chip que restaura visão em paciente",
+    "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A Science Corporation realizou com sucesso o primeiro implante de um chip restaurador de visão em um paciente com doença de Stargardt. A tecnologia combina chip neural com IA e promete devolver parte da visão a pessoas com degeneração macular. Avanço relevante na interseção entre biotecnologia e IA. Pode abrir caminho para novos tratamentos.",
+    "reasonEn": "",
+    "score": 0.85,
+    "tags": [
+      "biotech",
+      "saúde",
+      "chip"
+    ],
+    "img": "img/89f4f685d9b7.jpg",
+    "ts": 1791933211,
+    "addedTs": 1791946105,
+    "urlHash": "89f4f685d9b7",
+    "titleHash": "f0f869f5f326"
+  },
+  {
+    "title": "Cerebras CEO says we&#8217;re nearing a future where everyone has a personal AI assistant at home",
+    "titlePt": "CEO da Cerebras prevê assistente pessoal de IA em casa",
+    "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "O CEO da Cerebras afirmou que estamos perto de ter IA pessoal dedicada em casa, graças ao barateamento de hardware e modelos. A Cerebras compete no segmento de chips de IA de alto desempenho. Indica se prepara para uma onda de produtos residenciais com IA dedicada. Desenvolvedores de hardware e software devem observar.",
+    "reasonEn": "Cerebras CEO stated we are close to having dedicated personal AI at home, thanks to cheaper hardware and models. Cerebras is a competitor in the high-performance AI chip segment. Indicates preparation for a wave of residential products featuring dedicated AI. Hardware and software developers should watch.",
+    "score": 0.7,
+    "tags": [
+      "hardware",
+      "assistentes",
+      "tendências"
+    ],
+    "img": "img/7a61b7adbf1b.jpg",
+    "ts": 1791932734,
+    "addedTs": 1791946105,
+    "urlHash": "7a61b7adbf1b",
+    "titleHash": "9c32167fc0b5"
+  },
+  {
+    "title": "Cerebras CEO pushes back on AI doomsday warnings",
+    "titlePt": "CEO da Cerebras critica previsões apocalípticas sobre IA",
+    "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "O CEO da Cerebras, fabricante de chips voltados para inteligência artificial, veio a público contestar os alertas pessimistas sobre o futuro da IA. Ele argumenta que o debate sobre um possível 'apocalipse tecnológico' desvia a atenção do trabalho real da indústria. A fala importa porque revela uma divisão interna no setor entre executivos alarmistas e os mais pragmáticos. Para empresas e desenvolvedores, esse tipo de posicionamento pode influenciar investimentos e o tom da regulação.",
+    "reasonEn": "The CEO of Cerebras, an AI chip maker, publicly pushed back against pessimistic warnings about the future of AI. He argues the doomsday debate distracts from the industry's real work. The statement matters because it shows a split among tech executives between alarmist and pragmatic camps. It could influence how companies and regulators approach the technology.",
+    "score": 0.55,
+    "tags": [
+      "indústria",
+      "chips",
+      "debate"
+    ],
+    "img": "img/b887f8768cd8.jpg",
+    "ts": 1791931019,
+    "addedTs": 1791946105,
+    "urlHash": "b887f8768cd8",
+    "titleHash": "74b0cb92c4e7"
+  },
+  {
+    "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
+    "titlePt": "Character.AI pede falência após apenas 5 anos",
+    "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A plataforma de chatbots interativos Character.AI entrou com pedido de falência nos Estados Unidos, apenas cinco anos depois da sua criação. A empresa havia se tornado popular com personagens gerados por IA e milhões de usuários, mas não conseguiu se sustentar como negócio. O caso mostra como mesmo empresas com tração no setor de IA conversacional enfrentam dificuldade de monetização. Afeta investidores, usuários e todo o mercado de chatbots.",
+    "reasonEn": "Interactive chatbot platform Character.AI filed for bankruptcy in the US, just five years after launch. It had become popular thanks to AI personas and millions of users, but could not stay financially viable. The case shows that even traction-heavy companies struggle to monetize in conversational AI. It affects investors, users, and the chatbot market.",
+    "score": 0.8,
+    "tags": [
+      "empresa",
+      "chatbots",
+      "falência"
+    ],
+    "img": "img/b2fa807e4b0d.jpg",
+    "ts": 1791894222,
+    "addedTs": 1791946105,
+    "urlHash": "b2fa807e4b0d",
+    "titleHash": "3df73223c855"
+  },
+  {
     "title": "It’s ‘incomprehensible’ that Instagram allowed an AI image of Mia Goth to spread, say her reps",
     "titlePt": "Representantes de Mia Goth criticam Instagram por imagem gerada por IA",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
