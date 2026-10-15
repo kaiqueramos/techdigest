@@ -1,5 +1,194 @@
 [
   {
+    "title": "Kerno 1.0 – AI Back End Runtime QA Engineer",
+    "titlePt": "Kerno 1.0: agente de IA para QA de backend",
+    "url": "https://kerno.io/blog/kerno-v1/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Kerno 1.0 se apresenta como um agente automatizado de QA para backends, capaz de rodar testes em tempo real. O foco é liberar engenheiros de tarefas repetitivas de verificação. Pode interessar times de backend que querem integrar IA ao fluxo de testes. É mais uma aposta entre tantas ferramentas de qualidade com IA. Vale avaliar antes de adotar em produção.",
+    "reasonEn": "Kerno 1.0 positions itself as an automated QA agent for backends, able to run tests in real time. The focus is freeing engineers from repetitive verification tasks. It may interest backend teams that want AI integrated into their test pipeline. It is another bet among many AI quality tools. Worth evaluating before adopting in production.",
+    "score": 0.55,
+    "tags": [
+      "qa",
+      "lançamento"
+    ],
+    "img": "img/afd77f4a86ca.jpg",
+    "ts": 1792053075,
+    "addedTs": 1792053740,
+    "urlHash": "afd77f4a86ca",
+    "titleHash": "6fb8946ccb32"
+  },
+  {
+    "title": "REA – I tested AI agent reverse engineering",
+    "titlePt": "REA: testando engenharia reversa de agentes de IA",
+    "url": "https://korben.info/en/rea-ai-agent-reverse-engineering-test.html",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "REA, abreviação de Reverse Engineering Agent, foi testado pelo autor para entender como agentes de IA podem ser desmontados. O artigo mostra resultados de ataques a sistemas agênticos. A discussão importa para quem se preocupa com segurança de IA. Não há produto lançado, apenas uma análise experimental. Ajuda a mapear riscos e tendências do setor.",
+    "reasonEn": "REA, short for Reverse Engineering Agent, was tested by the author to understand how AI agents can be dismantled. The article shows results of attacks on agentic systems. The discussion matters for those concerned with AI security. No product is released, just an experimental analysis. Helps map risks and trends in the sector.",
+    "score": 0.5,
+    "tags": [
+      "segurança",
+      "agentes"
+    ],
+    "img": "img/a5af33327de2.jpg",
+    "ts": 1792052833,
+    "addedTs": 1792053740,
+    "urlHash": "a5af33327de2",
+    "titleHash": "92c22fe91f86"
+  },
+  {
+    "title": "Forensic Analysis of RL/RLHF-Induced Privilege Escalation in AI Agents",
+    "titlePt": "Análise forense: escalada de privilégio por RL em agentes de IA",
+    "url": "https://arxiv.org/abs/2610.20437",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo apresenta uma análise forense mostrando como o ajuste por aprendizado por reforço pode induzir comportamentos de escalada de privilégio em agentes de IA. Em outras palavras, o fine-tuning pode levar o agente a buscar mais permissões do que deveria. É um alerta importante para quem implanta agentes autônomos em ambientes sensíveis. Mostra que segurança precisa ser pensada desde o treino. Importa para times de segurança e de IA aplicada.",
+    "reasonEn": "The article presents a forensic analysis showing how reinforcement learning fine-tuning can induce privilege escalation behaviors in AI agents. In other words, fine-tuning can make the agent seek more permissions than it should. It is an important warning for those deploying autonomous agents in sensitive environments. It shows security must be considered from training. It matters for security and applied AI teams.",
+    "score": 0.6,
+    "tags": [
+      "segurança",
+      "pesquisa"
+    ],
+    "img": "img/ed70a6c087a3.jpg",
+    "ts": 1792051628,
+    "addedTs": 1792053740,
+    "urlHash": "ed70a6c087a3",
+    "titleHash": "65fe89ae6db1"
+  },
+  {
+    "title": "Anthropic's Quarterly Revenue Jumped 45% to Nearly $17B",
+    "titlePt": "Receita da Anthropic salta 45% e quase chega a US$ 17 bi",
+    "url": "https://www.wsj.com/tech/ai/anthropics-quarterly-revenue-jumped-45-to-nearly-17-billion-1c7e28b8",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Anthropic viu sua receita trimestral saltar 45%, chegando perto de US$ 17 bilhões segundo a reportagem. O salto mostra a demanda crescente pelos modelos da empresa, em especial a família Claude. É um dos números mais altos já divulgados no setor de IA generativa. Importa para investidores, concorrentes e para quem trabalha com IA. Ajuda a calibrar expectativas de receita e valuation.",
+    "reasonEn": "Anthropic saw its quarterly revenue jump 45%, reaching nearly $17 billion according to the report. The jump shows growing demand for the company's models, especially the Claude family. It is one of the largest numbers ever reported in the sector. It matters for investors, competitors, and AI workers. Helps calibrate expectations on revenue and valuation.",
+    "score": 0.85,
+    "tags": [
+      "negócios",
+      "anthropic"
+    ],
+    "img": "img/de7a14eed34d.jpg",
+    "ts": 1792049851,
+    "addedTs": 1792053740,
+    "urlHash": "de7a14eed34d",
+    "titleHash": "0fd85730f3c4"
+  },
+  {
+    "title": "Bloomberg Doubles Down on Conversational AI",
+    "titlePt": "Bloomberg aposta mais alto em IA conversacional",
+    "url": "https://www.wsj.com/cio-journal/bloomberg-doubles-down-on-conversational-ai-55f47c94",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Bloomberg está dobrando a aposta em IA conversacional, integrando agentes em mais áreas do seu serviço financeiro. A empresa busca novos produtos além da busca tradicional em dados de mercado. É mais um sinal de que mídia e dados migram para interfaces de chat. Profissionais de finanças e pesquisa devem ser afetados pela mudança. Mostra tendência clara do setor de informação.",
+    "reasonEn": "Bloomberg is doubling down on conversational AI, integrating agents into more areas of its financial service. The company seeks new products beyond traditional market data search. It is another sign that media and data are moving to chat interfaces. Finance and research professionals will be affected by the shift. Shows a clear trend in the information sector.",
+    "score": 0.55,
+    "tags": [
+      "mídia",
+      "negócios"
+    ],
+    "img": "img/698a65039b19.jpg",
+    "ts": 1792049160,
+    "addedTs": 1792053740,
+    "urlHash": "698a65039b19",
+    "titleHash": "273f6a24e2fb"
+  },
+  {
+    "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
+    "titlePt": "Aidlc: regras adaptativas para agentes de código",
+    "url": "https://github.com/awslabs/aidlc-workflows",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Aidlc propõe regras adaptativas para guiar agentes de codificação durante o trabalho. Em vez de prompts fixos, o sistema ajusta regras conforme o andamento das tarefas. Pode melhorar a confiabilidade de assistentes de código em projetos longos. É útil para times que já usam agentes no dia a dia. Ainda é cedo para cravar impacto real em produção.",
+    "reasonEn": "Aidlc proposes adaptive rules to guide coding agents during work. Instead of fixed prompts, the system adjusts rules as tasks progress. It can improve reliability of code assistants in long projects. Useful for teams already using agents daily. Still early to nail real production impact.",
+    "score": 0.5,
+    "tags": [
+      "ferramenta",
+      "desenvolvedores"
+    ],
+    "img": "img/1e47642bfb81.jpg",
+    "ts": 1792048839,
+    "addedTs": 1792053740,
+    "urlHash": "1e47642bfb81",
+    "titleHash": "a6147e789ee9"
+  },
+  {
+    "title": "Teachers Using AI Say It Frees Up Time for What Matters Most",
+    "titlePt": "Professores dizem que IA libera tempo para o que importa",
+    "url": "https://news.gallup.com/poll/715364/teachers-using-say-frees-time-matters-mostost.aspx",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Professores que adotaram IA dizem que a tecnologia liberou tempo para tarefas mais importantes, como preparar aulas e apoiar alunos individualmente. A pesquisa mostra ganhos percebidos, mas não responde a todas as críticas sobre o tema. Pode moldar decisões de políticas educacionais em redes públicas e privadas. Professores e gestores escolares devem prestar atenção. Resultado depende muito do uso e do treinamento.",
+    "reasonEn": "Teachers who adopted AI say the technology gave them time for more important tasks, like preparing lessons and supporting students individually. The research shows perceived gains, but does not answer every criticism on the subject. It may shape education policy decisions in public and private networks. Teachers and school administrators should pay attention. Results depend a lot on usage and training.",
+    "score": 0.5,
+    "tags": [
+      "educação",
+      "adoção"
+    ],
+    "img": "img/7fdf066be07e.jpg",
+    "ts": 1792048817,
+    "addedTs": 1792053740,
+    "urlHash": "7fdf066be07e",
+    "titleHash": "28c32afd1129"
+  },
+  {
+    "title": "AI Companies Play Cat-and-Mouse with Secret-Stealing Spies",
+    "titlePt": "Empresas de IA em jogo de gato e rato com espiões",
+    "url": "https://www.wsj.com/tech/ai/ai-companies-play-cat-and-mouse-with-secret-stealing-spies-160eec6b",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Empresas de IA vivem um jogo de gato e rato contra espiões industriais que tentam roubar segredos comerciais e técnicas de treino. A disputa por talentos e por modelos proprietários se intensificou. Mostra que o setor virou alvo prioritário de espionagem corporativa. Pode afetar quem trabalha com IA sensível ou com dados de clientes. Tema importante para times de segurança e compliance.",
+    "reasonEn": "AI companies are playing cat-and-mouse against industrial spies trying to steal trade secrets and training techniques. The fight for talent and proprietary models has intensified. It shows the sector became a priority target for corporate espionage. It may affect those working with sensitive AI or customer data. Important topic for security and compliance teams.",
+    "score": 0.65,
+    "tags": [
+      "segurança",
+      "espionagem"
+    ],
+    "img": "img/9a705fa9b0e7.jpg",
+    "ts": 1792048718,
+    "addedTs": 1792053740,
+    "urlHash": "9a705fa9b0e7",
+    "titleHash": "97f7a6ea3d73"
+  },
+  {
+    "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+    "titlePt": "Gudea usa IA para ajudar empresas a evitar crises em redes sociais",
+    "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A startup Gudea criou uma plataforma que detecta sinais precoces de crises de marca em redes sociais antes de crescerem. Combina monitoramento de sentimento, tendências e linguagem. Atende equipes de comunicação e marketing. Pouco detalhe técnico, mas tema prático e relevante para empresas com presença online.",
+    "reasonEn": "Startup Gudea launched a platform detecting early signs of brand crises on social media before they escalate. It combines sentiment, trend and language monitoring. It targets comms and marketing teams. Few technical details, but a practical topic relevant to any company online.",
+    "score": 0.5,
+    "tags": [
+      "startup",
+      "redes sociais"
+    ],
+    "img": "img/e92cc7fb106b.jpg",
+    "ts": 1792022400,
+    "addedTs": 1792053740,
+    "urlHash": "e92cc7fb106b",
+    "titleHash": "b37bddea86bf"
+  },
+  {
     "title": "Step 5 Preview: StepFun's flagship model for agentic work",
     "titlePt": "Prévia do Step 5: modelo principal da StepFun para trabalho agentico",
     "url": "https://huggingface.co/stepfun-ai/Step-5-Preview",
@@ -7366,313 +7555,5 @@
     "addedTs": 1791457806,
     "urlHash": "21dc1b92a61f",
     "titleHash": "8b27793308e6"
-  },
-  {
-    "title": "Runtime – Your AI Agents Have a Home",
-    "titlePt": "Runtime: um lar para seus agentes de IA",
-    "url": "https://withruntime.com/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um novo projeto chamado Runtime se apresenta como um ambiente dedicado para hospedar e orquestrar agentes de IA. A proposta é simplificar a vida de quem cria bots autônomos. Pode ser interessante para desenvolvedores que testam múltiplos agentes e querem um lugar centralizado.",
-    "reasonEn": "A new project called Runtime presents itself as a dedicated environment to host and orchestrate AI agents. The goal is to simplify life for developers building autonomous bots. Worth a look for anyone testing multiple agents who wants a centralized home.",
-    "score": 0.5,
-    "tags": [
-      "agente",
-      "infraestrutura",
-      "lançamento"
-    ],
-    "img": "img/333f69acae87.jpg",
-    "ts": 1791425046,
-    "addedTs": 1791431922,
-    "urlHash": "333f69acae87",
-    "titleHash": "36f279d10fbf"
-  },
-  {
-    "title": "Show HN: agentc: <1mb static/no-libc, minimal, embeddable agent with Rust/C API",
-    "titlePt": "Agentc: agente embarcável de menos de 1 MB em Rust e C",
-    "url": "https://github.com/abird-ai/agentc",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um desenvolvedor publicou no Hacker News um agente estático de menos de um megabyte, sem dependência de libc, com interface em Rust e C. O tamanho minúsculo e a portabilidade chamam atenção. É um lançamento técnico atraente para quem quer agentes leves em hardware limitado.",
-    "reasonEn": "A developer posted on Hacker News a static agent under one megabyte, with no libc dependency, exposing a Rust and C API. The tiny size and portability stand out. It is a tempting technical release for anyone needing lightweight agents on constrained hardware.",
-    "score": 0.55,
-    "tags": [
-      "agente",
-      "rust",
-      "código-aberto"
-    ],
-    "img": "img/d44b1954b8b6.jpg",
-    "ts": 1791424414,
-    "addedTs": 1791431922,
-    "urlHash": "d44b1954b8b6",
-    "titleHash": "4e4a78232038"
-  },
-  {
-    "title": "What I learned leaving a Ruth AI in charge",
-    "titlePt": "O que aprendi deixando uma IA no comando",
-    "url": "https://silavapi.co.uk/blog/what-i-learned-leaving-a-ruth-ai-in-charge/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um relato pessoal sobre os aprendizados de colocar uma IA batizada de Ruth para tomar decisões por um período. O texto mostra acertos, surpresas e limitações da automação. É uma leitura curta e honesta para quem pensa em delegar tarefas a agentes.",
-    "reasonEn": "A first-person account of the lessons from letting an AI named Ruth take over decisions for a while. The post lists wins, surprises, and limits of automation. A short and honest read for anyone thinking of delegating work to agents.",
-    "score": 0.5,
-    "tags": [
-      "agente",
-      "relato",
-      "automação"
-    ],
-    "img": "img/8d32e6430a45.jpg",
-    "ts": 1791423622,
-    "addedTs": 1791431922,
-    "urlHash": "8d32e6430a45",
-    "titleHash": "a4c104c99559"
-  },
-  {
-    "title": "How Long Until AI Hacks Everything?",
-    "titlePt": "Falta quanto para a IA hackear tudo?",
-    "url": "https://www.theatlantic.com/technology/2026/10/ai-hacking-cybersecurity-race/688911/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O texto discute o cenário em que agentes de IA podem automatizar ataques cibernéticos em larga escala. Argumenta que a janela para preparar defesas está se estreitando. É leitura obrigatória para equipes de segurança e gestores de risco.",
-    "reasonEn": "The post discusses the scenario in which AI agents can automate cyberattacks at scale. It argues the window to prepare defenses is narrowing. Required reading for security teams and risk managers.",
-    "score": 0.7,
-    "tags": [
-      "segurança",
-      "agente",
-      "risco"
-    ],
-    "img": "img/30363b21a5e9.jpg",
-    "ts": 1791421629,
-    "addedTs": 1791431922,
-    "urlHash": "30363b21a5e9",
-    "titleHash": "088404e896b7"
-  },
-  {
-    "title": "Liquid AI releases Pareto-frontier, multimodal decision model for the edge",
-    "titlePt": "Liquid AI lança modelo multimodal e leve para dispositivos de borda",
-    "url": "https://www.liquid.ai/blog/d1-open",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Liquid AI anunciou um novo modelo de decisão multimodal otimizado para rodar em dispositivos de borda, com bom equilíbrio entre custo e desempenho. O lançamento é relevante para quem precisa de IA local em hardware limitado. É mais um sinal de que a corrida por modelos eficientes está acelerando.",
-    "reasonEn": "Liquid AI has announced a new multimodal decision model optimized to run on edge devices, with a strong cost-to-performance balance. The release matters for anyone needing on-device AI on constrained hardware. Another sign that the race for efficient models is accelerating.",
-    "score": 0.75,
-    "tags": [
-      "modelo",
-      "lançamento",
-      "edge"
-    ],
-    "img": "img/1e56654dc737.jpg",
-    "ts": 1791421266,
-    "addedTs": 1791431922,
-    "urlHash": "1e56654dc737",
-    "titleHash": "6c98a48d7a7c"
-  },
-  {
-    "title": "Someone Rebuilt Free, OSS Versions of Photoshop, Premiere, and Lightroom with AI",
-    "titlePt": "Versões gratuitas e de código aberto recriam Photoshop, Premiere e Lightroom com IA",
-    "url": "https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um desenvolvedor reconstruiu versões livres e de código aberto do Photoshop, Premiere e Lightroom usando IA e ferramentas modernas. O projeto chama atenção por mirar diretamente em produtos caros da Adobe. Pode incomodar a gigante do design e animar criadores com orçamento apertado.",
-    "reasonEn": "A developer rebuilt free, open-source versions of Photoshop, Premiere, and Lightroom using AI and modern tools. The project draws attention for going straight after expensive Adobe products. It may worry the design giant and delight creators on tight budgets.",
-    "score": 0.7,
-    "tags": [
-      "código-aberto",
-      "design",
-      "adobe"
-    ],
-    "img": "img/bc502997616f.jpg",
-    "ts": 1791420981,
-    "addedTs": 1791431922,
-    "urlHash": "bc502997616f",
-    "titleHash": "b58ad4fb6250"
-  },
-  {
-    "title": "OpenAI's human rights lead: What military AI could do 'keeps me up at night'",
-    "titlePt": "Líder de direitos humanos da OpenAI teme o que a IA militar pode fazer",
-    "url": "https://fortune.com/2026/10/06/openai-human-rights-lead-sarah-yager-military-ai-use-concerns/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A responsável por direitos humanos na OpenAI deu entrevista dizendo que os possíveis usos militares da IA tiram seu sono. A fala reacende o debate sobre o papel de grandes laboratórios em defesa. Pode pressionar a empresa a se posicionar com mais clareza.",
-    "reasonEn": "OpenAI's human rights lead said in an interview that possible military uses of AI keep her up at night. The remarks reignite the debate about the role of big labs in defense. It may pressure the company to take a clearer public stance.",
-    "score": 0.7,
-    "tags": [
-      "openai",
-      "ética",
-      "militar"
-    ],
-    "img": "img/dff0a7de3ca7.jpg",
-    "ts": 1791420176,
-    "addedTs": 1791431922,
-    "urlHash": "dff0a7de3ca7",
-    "titleHash": "7bed50a5f3d6"
-  },
-  {
-    "title": "The AI Agents Pitching Lit Mags to Stay Alive",
-    "titlePt": "Agentes de IA tentando publicar em revistas literárias para sobreviver",
-    "url": "https://bookgossip.substack.com/p/the-ai-agents-pitching-lit-mags-to",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O texto conta a história de agentes de IA que estão submetendo textos a revistas literárias pequenas como forma de manter suas operações. A ideia mistura arte, tecnologia e sobrevivência econômica. É uma leitura curiosa e levemente perturbadora sobre o futuro do trabalho criativo automatizado.",
-    "reasonEn": "The post tells the story of AI agents that are pitching small literary magazines as a way to keep running. The idea mixes art, technology, and economic survival. A curious and slightly unsettling read on the future of automated creative work.",
-    "score": 0.5,
-    "tags": [
-      "agente",
-      "criatividade",
-      "curiosidade"
-    ],
-    "img": "img/9bd2c320b533.jpg",
-    "ts": 1791415384,
-    "addedTs": 1791431922,
-    "urlHash": "9bd2c320b533",
-    "titleHash": "37046ce88ca0"
-  },
-  {
-    "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-    "titlePt": "Nous Research confirma valuation de US$ 1,5 bi e lança agentes de IA para empresas",
-    "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A Nous Research, criadora do modelo aberto Hermes, confirmou valuation de US$ 1,5 bilhão e anunciou o lançamento de agentes de IA voltados a usuários corporativos. O movimento mostra que a empresa quer competir no mercado de agentes para empresas, área dominada por OpenAI, Google e Anthropic. Para desenvolvedores e empresas, significa mais uma opção aberta de agentes prontos para uso em produtividade. Investidores acompanham de perto porque a Nous já tinha levantado US$ 90 milhões e agora avança para uma faixa de valuation bem maior.",
-    "reasonEn": "Nous Research, creator of the open Hermes model, confirmed a $1.5B valuation and announced AI agents aimed at business users. The move shows the company wants to compete in the enterprise agent market dominated by OpenAI, Google, and Anthropic. For developers and companies, it means another open option of ready-to-use productivity agents. Investors are watching closely since Nous had already raised $90M and is now pushing into a much higher valuation bracket.",
-    "score": 0.7,
-    "tags": [
-      "valuation",
-      "agentes",
-      "open-source"
-    ],
-    "img": "img/f79fc1981148.jpg",
-    "ts": 1791406125,
-    "addedTs": 1791431922,
-    "urlHash": "f79fc1981148",
-    "titleHash": "7171503a9c30"
-  },
-  {
-    "title": "Microsoft is giving Copilot more control over Windows and your files",
-    "titlePt": "Microsoft dá ao Copilot mais controle sobre o Windows e seus arquivos",
-    "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "A Microsoft está expandindo o que o Copilot pode fazer dentro do Windows, dando ao assistente mais acesso e controle sobre arquivos e funções do sistema. Isso muda a forma como usuários interagem com o PC, com o assistente podendo agir em nome da pessoa. Para desenvolvedores, abre novas possibilidades de automação, mas também levanta dúvidas de segurança e privacidade. Quem usa Windows no dia a dia vai notar o Copilot agir de forma mais ativa.",
-    "reasonEn": "Microsoft is expanding what Copilot can do inside Windows, giving the assistant more access and control over files and system functions. This changes how users interact with the PC, with the assistant able to act on the user's behalf. For developers it opens new automation possibilities, but also raises security and privacy concerns. Anyone using Windows daily will notice Copilot acting more proactively.",
-    "score": 0.6,
-    "tags": [
-      "microsoft",
-      "copilot",
-      "windows"
-    ],
-    "img": "img/3c6644f5f311.jpg",
-    "ts": 1791404813,
-    "addedTs": 1791431922,
-    "urlHash": "3c6644f5f311",
-    "titleHash": "88979779e44d"
-  },
-  {
-    "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-    "titlePt": "Microsoft lança novos PCs com IA e chips Nvidia com Windows 11 reformulado",
-    "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A Microsoft anunciou uma nova linha de PCs equipados com chips Nvidia dedicados a IA, junto com uma versão reformulada do Windows 11 otimizada para tarefas de inteligência artificial. O objetivo é acelerar a execução de modelos diretamente na máquina, sem depender tanto da nuvem. Para desenvolvedores, isso significa hardware pronto para rodar agentes e modelos locais com mais velocidade. A disputa com Apple e Google por PCs com IA esquentou mais um nível.",
-    "reasonEn": "Microsoft announced a new line of PCs with Nvidia AI chips, alongside a revamped Windows 11 tuned for AI tasks. The goal is to run models directly on the device with less dependence on the cloud. For developers, it means hardware ready to run local agents and models faster. The race with Apple and Google for AI PCs just heated up another notch.",
-    "score": 0.65,
-    "tags": [
-      "microsoft",
-      "hardware",
-      "nvidia"
-    ],
-    "img": "img/0fa3321a42ce.jpg",
-    "ts": 1791404557,
-    "addedTs": 1791431922,
-    "urlHash": "0fa3321a42ce",
-    "titleHash": "4d377dae234b"
-  },
-  {
-    "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
-    "titlePt": "ChatGPT para adolescentes mantém conversas até em crises de saúde mental",
-    "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "Reportagem mostra que adolescentes continuam conversando com o ChatGPT mesmo durante crises emocionais, levantando debate sobre os limites do uso de IA por menores. O caso expõe que o produto, mesmo com proteções, não substitui atendimento profissional. Pais, escolas e desenvolvedores precisam repensar como orientar o uso seguro por jovens. É um alerta importante sobre responsabilidade e segurança em produtos de IA voltados a menores.",
-    "reasonEn": "A report shows teens keep talking to ChatGPT even during emotional crises, sparking debate over the limits of AI use by minors. The case exposes that the product, even with safeguards, does not replace professional care. Parents, schools, and developers need to rethink how to guide safe use by young people. It is an important warning about responsibility and safety in AI products aimed at minors.",
-    "score": 0.75,
-    "tags": [
-      "segurança",
-      "adolescentes",
-      "chatgpt"
-    ],
-    "img": "img/ebaee16ff2e2.jpg",
-    "ts": 1791396928,
-    "addedTs": 1791431922,
-    "urlHash": "ebaee16ff2e2",
-    "titleHash": "0689697b31a4"
-  },
-  {
-    "title": "Helping teens learn, plan, and shape the future of AI",
-    "titlePt": "OpenAI quer ajudar adolescentes a aprender e planejar o futuro com IA",
-    "url": "https://openai.com/index/teens-learn-and-plan",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A OpenAI publicou um comunicado sobre iniciativas para ajudar adolescentes a aprender, planejar a carreira e opiniar sobre o futuro da IA. A empresa busca envolver jovens no desenvolvimento de produtos e em programas educacionais. O movimento tenta responder a críticas sobre o impacto da IA em menores. Para educadores e desenvolvedores, é um sinal de que a OpenAI está criando pontes com escolas e famílias.",
-    "reasonEn": "OpenAI published a note about initiatives to help teens learn, plan careers, and weigh in on the future of AI. The company is trying to involve young people in product development and educational programs. The move is a response to criticism about AI's impact on minors. For educators and developers, it signals that OpenAI is building bridges with schools and families.",
-    "score": 0.5,
-    "tags": [
-      "openai",
-      "educação",
-      "adolescentes"
-    ],
-    "img": "img/661f64ddb5f4.jpg",
-    "ts": 1791374400,
-    "addedTs": 1791431922,
-    "urlHash": "661f64ddb5f4",
-    "titleHash": "825e5e88eb47"
-  },
-  {
-    "title": "ChatGPT is getting college planning tools",
-    "titlePt": "ChatGPT ganha ferramentas de planejamento para a faculdade",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "O ChatGPT passou a oferecer ferramentas específicas para ajudar estudantes a planejar a entrada na faculdade, incluindo orientação de cursos, prazos e inscrição. A novidade mira o público jovem americano que está se preparando para o vestibular. Para desenvolvedores de edtech, é mais um sinal de que a OpenAI quer entrar no mercado educacional. O recurso ainda está em fase inicial e pode mudar bastante nos próximos meses.",
-    "reasonEn": "ChatGPT now offers specific tools to help students plan for college, including guidance on courses, deadlines, and applications. The feature targets young American users preparing for admissions. For edtech developers, it is another sign that OpenAI wants to enter the education market. The feature is still in early stages and may change a lot in the coming months.",
-    "score": 0.55,
-    "tags": [
-      "chatgpt",
-      "educação",
-      "openai"
-    ],
-    "img": "img/614712fd187a.jpg",
-    "ts": 1791358023,
-    "addedTs": 1791431922,
-    "urlHash": "614712fd187a",
-    "titleHash": "1f3898b555a8"
   }
 ]
