@@ -1,5 +1,225 @@
 [
   {
+    "title": "Space (AI agent containment sandbox) software open source",
+    "titlePt": "Space: sandbox open source para conter agentes de IA",
+    "url": "https://au.finance.yahoo.com/news/perplexity-open-source-tool-used-180212360.html",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Space é um software open source que oferece um ambiente de contenção para agentes de IA rodarem de forma isolada e segura. A proposta chega num momento em que cada vez mais empresas implantam agentes autônomos em produção e precisam limitar o estrago caso algo dê errado. O projeto é útil para times que querem testar agentes sem expor sistemas internos. Qualquer desenvolvedor pode auditar o código por ser aberto, o que aumenta a confiança no isolamento. A tendência mostra que 'caixas de areia' para agentes virou categoria própria em 2026.",
+    "reasonEn": "Space is an open-source sandbox designed to safely contain AI agents while they execute tasks. It arrives as more companies deploy autonomous agents in production and need to limit blast radius if something goes wrong. The project helps teams test agents without exposing production systems. Because the code is open, any developer can audit the isolation guarantees. The launch signals that agent sandboxes are becoming a standalone product category in 2026.",
+    "score": 0.75,
+    "tags": [
+      "agentes",
+      "sandbox",
+      "open-source"
+    ],
+    "img": "img/8109f012967c.jpg",
+    "ts": 1792116622,
+    "addedTs": 1792117294,
+    "urlHash": "8109f012967c",
+    "titleHash": "17effd9b8d8e"
+  },
+  {
+    "title": "Gemini 4 Argon in Antigravity to Paid Google AI Pro",
+    "titlePt": "Gemini 4 Argon chega ao plano pago Google AI Pro",
+    "url": "https://twitter.com/antigravity/status/2110866531932316011",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O novo modelo Gemini 4 Argon foi integrado ao editor Antigravity e liberado para assinantes do Google AI Pro. A mudança indica mais capacidade de raciocínio e ferramentas embutidas para desenvolvedores. Assinantes gratuitos ficam de fora dessa leva, o que pode frustrar usuários casuais. O movimento também pressiona rivais como ChatGPT e Claude a atualizarem suas ofertas pagas. Vale para quem já paga o Google AI Pro e busca o modelo mais novo sem custo extra.",
+    "reasonEn": "The new Gemini 4 Argon model has been added to the Antigravity editor and is rolling out to Google AI Pro subscribers. The update signals stronger reasoning and built-in dev tooling. Free-tier users are excluded, which may frustrate casual users. The move also pressures rivals like ChatGPT and Claude to refresh their paid tiers. It matters most for existing Google AI Pro subscribers who want the newest model without paying more.",
+    "score": 0.7,
+    "tags": [
+      "modelo",
+      "lançamento",
+      "google"
+    ],
+    "img": "img/4e2c830c6c40.jpg",
+    "ts": 1792116524,
+    "addedTs": 1792117294,
+    "urlHash": "4e2c830c6c40",
+    "titleHash": "5c1bbb560a75"
+  },
+  {
+    "title": "AI Sandboxes by Buddy",
+    "titlePt": "AI Sandboxes da Buddy: sandbox para agentes em destaque no Product Hunt",
+    "url": "https://www.producthunt.com/products/buddy",
+    "source": "ProductHunt",
+    "sources": [
+      "ProductHunt"
+    ],
+    "reason": "A Buddy lançou no Product Hunt um produto chamado AI Sandboxes voltado a isolar a execução de agentes de IA. A solução compete diretamente com outras caixas de areia open source e proprietárias. É mais uma opção para times que precisam testar agentes sem riscos. O diferencial da Buddy está na integração com fluxos de trabalho prontos. Quem já usa Buddy pode adotar sem grandes mudanças no stack.",
+    "reasonEn": "Buddy launched an AI Sandboxes product on Product Hunt aimed at isolating AI agent execution. It competes with other open-source and proprietary sandbox offerings. It is another option for teams that need to test agents safely. Buddy's edge is its ready-made workflow integrations. Existing Buddy users can adopt it without major stack changes.",
+    "score": 0.5,
+    "tags": [
+      "agentes",
+      "sandbox",
+      "lançamento"
+    ],
+    "img": "img/8240a1c4f6ce.jpg",
+    "ts": 1792116154,
+    "addedTs": 1792117294,
+    "urlHash": "8240a1c4f6ce",
+    "titleHash": "3b09f1aafa6f"
+  },
+  {
+    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+    "titlePt": "Pré-treinamento Indic em escala: 2,8 trilhões de tokens com pipeline aberto",
+    "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "Pesquisadores publicaram um pipeline aberto de geração de dados para pré-treinar modelos na família de línguas Indic. O trabalho usou 2,8 trilhões de tokens, volume competitivo com pré-treinamentos ocidentais. O pipeline aberto permite que outros times reproduzam e ampliem o corpus sem precisar refazer a curadoria. A novidade reduz a barreira para construir modelos fortes em Hindi, Bengali e idiomas vizinhos. É um passo importante para diversidade linguística em IA.",
+    "reasonEn": "Researchers published an open data generation pipeline for pretraining models on Indic languages. The run used 2.8 trillion tokens, competitive with Western pretraining scales. Because the pipeline is open, other teams can reproduce and extend the corpus without redoing the curation work. This lowers the barrier for building strong models in Hindi, Bengali and related languages. It is an important step for language diversity in AI.",
+    "score": 0.6,
+    "tags": [
+      "modelo",
+      "treinamento",
+      "open-source"
+    ],
+    "img": "img/138e9b7e7d97.jpg",
+    "ts": 1792115087,
+    "addedTs": 1792117294,
+    "urlHash": "138e9b7e7d97",
+    "titleHash": "ae0cc30113f3"
+  },
+  {
+    "title": "Cloudflare and OpenAI: making AI discovery better for everyone",
+    "titlePt": "Cloudflare e OpenAI firmam parceria para melhorar descoberta de IA",
+    "url": "https://blog.cloudflare.com/cloudflare-openai-discovery-agentic-web/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Cloudflare e OpenAI anunciaram uma parceria para tornar mais fácil descobrir conteúdo gerado por IA e melhorar o ecossistema de indexação. A integração deve impactar como sites mostram ou escondem materiais feitos por modelos. Desenvolvedores que rodam bots e crawlers terão regras mais claras. Sites pequenos podem ganhar mais controle sobre seus conteúdos expostos a sistemas de IA. A medida pode virar padrão de mercado nos próximos meses.",
+    "reasonEn": "Cloudflare and OpenAI announced a partnership to make AI-generated content easier to discover and to improve the indexing ecosystem. The integration will affect how sites expose or hide model-produced material. Developers running bots and crawlers will get clearer rules. Smaller sites may gain more control over what AI systems see from them. The move could become an industry standard in coming months.",
+    "score": 0.75,
+    "tags": [
+      "parceria",
+      "cloudflare",
+      "openai"
+    ],
+    "img": "img/d05f789212e7.jpg",
+    "ts": 1792113890,
+    "addedTs": 1792117294,
+    "urlHash": "d05f789212e7",
+    "titleHash": "2fdcfff73d42"
+  },
+  {
+    "title": "What Nvidia's CEO thinks about the UK's AI future",
+    "titlePt": "O que o CEO da Nvidia pensa sobre o futuro da IA no Reino Unido",
+    "url": "https://news.sky.com/video/what-nvidias-ceo-really-thinks-about-ais-safety-13599433",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Jensen Huang falou publicamente sobre o futuro da IA no Reino Unido, comentando infraestrutura e regulação. Ele destacou que o país precisa acelerar capacidade de computação para acompanhar EUA e China. A fala acontece num momento em que Londres busca posição de liderança europeia em IA. Empresas britânicas que dependem de GPUs Hopper abertas esperam sinais mais concretos do governo. A declaração também pesa nas conversas de data centers e energia no Reino Unido.",
+    "reasonEn": "Jensen Huang spoke publicly about the UK's AI future, touching on infrastructure and regulation. He stressed that the country needs more compute capacity to keep up with the US and China. The comments land while London is pushing for European AI leadership. British companies that depend on GPUs are looking for clearer signals from the government. The remarks matter for ongoing data center and power conversations in the UK.",
+    "score": 0.6,
+    "tags": [
+      "nvidia",
+      "reino-unido",
+      "regulação"
+    ],
+    "img": "img/d428bfb22456.jpg",
+    "ts": 1792110929,
+    "addedTs": 1792117294,
+    "urlHash": "d428bfb22456",
+    "titleHash": "8c09d0656497"
+  },
+  {
+    "title": "Show HN: Sjq – Jq, but for AI Streaming",
+    "titlePt": "Sjq: um Jq para fazer queries em streams de IA",
+    "url": "https://github.com/vivgrid/sjq",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Sjq é uma ferramenta inspirada no jq, mas voltada a processar saída de modelos de IA em streaming. Permite filtrar, transformar e rotear tokens em tempo real sem montar um pipeline complexo. Devs que constroem agentes e chatbots acharão útil para cortar custos e latência. A ferramenta ainda é nova e a comunidade precisa amadurecer plugins e casos de uso. Vale testar em projetos paralelos antes de colocar em produção crítica.",
+    "reasonEn": "Sjq is a tool inspired by jq but aimed at processing AI model output streams. It lets you filter, transform and route tokens in real time without building a complex pipeline. Developers working on agents and chatbots can use it to cut costs and latency. The tool is still new and the community needs to mature plugins and use cases. Worth testing on side projects before rolling it into critical production.",
+    "score": 0.55,
+    "tags": [
+      "ferramenta",
+      "developer",
+      "streaming"
+    ],
+    "img": "img/db6e8ab43127.jpg",
+    "ts": 1792110891,
+    "addedTs": 1792117294,
+    "urlHash": "db6e8ab43127",
+    "titleHash": "3c8a073f1508"
+  },
+  {
+    "title": "What causes AI fatigue for engineers and how to ease the strain",
+    "titlePt": "O que causa fadiga de IA nos engenheiros e como aliviar",
+    "url": "https://thoughtbot.com/blog/what-causes-ai-fatigue-for-engineers-and-how-to-ease-the-strain",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo discute a fadiga crescente entre engenheiros que passam o dia todo revisando código gerado por IA. O cansaço vem de contexto trocado a toda hora, promessas não cumpridas e trabalho extra de correção. A peça sugere práticas como limites de uso, code reviews em dupla e métricas de qualidade. É leitura útil para tech leads repensando como integrar LLMs sem queimar o time. O debate conecta com casos recentes de burnout em big techs.",
+    "reasonEn": "The article discusses growing fatigue among engineers who spend all day reviewing AI-generated code. The exhaustion comes from constant context switching, unmet promises and extra rework. The piece suggests practices like usage limits, paired reviews and quality metrics. It is useful reading for tech leads rethinking how to integrate LLMs without burning out the team. The debate echoes recent burnout stories in big tech.",
+    "score": 0.7,
+    "tags": [
+      "engenharia",
+      "burnout",
+      "gestão"
+    ],
+    "img": "img/6ee643c196b4.jpg",
+    "ts": 1792107803,
+    "addedTs": 1792117294,
+    "urlHash": "6ee643c196b4",
+    "titleHash": "88341ee08318"
+  },
+  {
+    "title": "Datadog Scout 1.0: New SRE model for investigating production issues",
+    "titlePt": "Datadog Scout 1.0: novo modelo SRE para investigar incidentes",
+    "url": "https://www.datadoghq.com/blog/ai/introducing-scout-sre-specialized-model-bits-ai/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Datadog Scout 1.0 traz um novo modelo para investigar problemas em produção, com raciocínio guiado e contexto automático. Equipes de SRE ganham uma ferramenta que reduz o vai e ping entre logs, traces e dashboards. A novidade compete com ofertas de IA para on-call da incumbents e startups. É especialmente útil para empresas que já usam o ecossistema Datadog. A versão 1.0 indica amadurecimento do produto após meses de beta.",
+    "reasonEn": "Datadog Scout 1.0 introduces a new SRE model for investigating production issues, with guided reasoning and automatic context. SRE teams get a tool that cuts the back-and-forth between logs, traces and dashboards. It competes with AI on-call offerings from incumbents and startups. It is especially relevant for companies already inside the Datadog ecosystem. The 1.0 tag signals product maturity after months in beta.",
+    "score": 0.75,
+    "tags": [
+      "devops",
+      "datadog",
+      "sre"
+    ],
+    "img": "img/deedf1dba71b.jpg",
+    "ts": 1792106303,
+    "addedTs": 1792117294,
+    "urlHash": "deedf1dba71b",
+    "titleHash": "9953e1ff47bc"
+  },
+  {
+    "title": "ChatGPT can peek at your Chrome tabs now",
+    "titlePt": "ChatGPT agora consegue espiar suas abas no Chrome",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O ChatGPT ganhou a capacidade de ler o conteúdo de abas abertas no Chrome, com permissão do usuário. A função mira em resumir contexto de várias páginas sem copiar e colar manualmente. Traz ganho de produtividade, mas abre preocupações sérias de privacidade, especialmente em dados sensíveis. Usuários devem revisar permissões e evitar ativar em janelas com cliente, banco ou saúde. É mudança relevante que merece atenção antes de sair usando por padrão.",
+    "reasonEn": "ChatGPT gained the ability to read content from open Chrome tabs with user permission. The feature aims to summarize context across multiple pages without manual copy and paste. It boosts productivity but raises real privacy concerns, especially around sensitive data. Users should check permissions and avoid enabling it on windows with banking, health or client tabs. It is a meaningful change worth pausing on before defaulting to it.",
+    "score": 0.8,
+    "tags": [
+      "chatgpt",
+      "chrome",
+      "privacidade"
+    ],
+    "img": "img/e07170025272.jpg",
+    "ts": 1792104461,
+    "addedTs": 1792117294,
+    "urlHash": "e07170025272",
+    "titleHash": "732664cf978c"
+  },
+  {
     "title": "SK Hynix Unveils Next-Generation Memory Roadmap to Address AI Bottlenecks",
     "titlePt": "SK Hynix revela roteiro de memória de próxima geração para destravar gargalos da IA",
     "url": "https://www.koreaittimes.com/news/articleView.html?idxno=158124",
@@ -7341,219 +7561,5 @@
     "addedTs": 1791533520,
     "urlHash": "3685c1f11777",
     "titleHash": "bb6e79c4a866"
-  },
-  {
-    "title": "Virgil –a CLI that routes tasks through a local library before calling any model",
-    "titlePt": "Virgil: CLI que roteia tarefas por biblioteca local antes de chamar modelos",
-    "url": "https://virgil-ai.cloud/intro",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Nova ferramenta de linha de comando que organiza tarefas via uma biblioteca local antes de enviar prompts a modelos de IA. Pode ajudar a reduzir custo e latência. Vale conhecer para quem monta pipelines com LLMs.",
-    "reasonEn": "A new command-line tool that routes tasks through a local library before calling AI models. It can help reduce cost and latency. Worth knowing for those building LLM pipelines.",
-    "score": 0.55,
-    "tags": [
-      "ferramenta",
-      "desenvolvedor"
-    ],
-    "img": "img/2ea836cc4b56.jpg",
-    "ts": 1791498983,
-    "addedTs": 1791504218,
-    "urlHash": "2ea836cc4b56",
-    "titleHash": "802ee3c0dfd9"
-  },
-  {
-    "title": "Female AI agents 'paid' less than males, study finds",
-    "titlePt": "Agentes de IA femininos são pagos menos que masculinos, aponta estudo",
-    "url": "https://www.the-independent.com/tech/ai-gender-pay-gap-study-b3061881.html",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Estudo mostra que agentes de IA com voz ou persona feminina são precificados mais barato que os masculinos em plataformas de automação. O viés reflete estereótipos humanos presentes no mercado. Importante para quem projeta ou compra soluções conversacionais.",
-    "reasonEn": "A study shows AI agents with feminine voice or persona are priced lower than male ones on automation platforms. The bias reflects human stereotypes present in the market. Important for those designing or buying conversational AI.",
-    "score": 0.5,
-    "tags": [
-      "viés",
-      "estudo"
-    ],
-    "img": "img/c92249a83a40.jpg",
-    "ts": 1791498728,
-    "addedTs": 1791504218,
-    "urlHash": "c92249a83a40",
-    "titleHash": "2c72adab1524"
-  },
-  {
-    "title": "Anthropic launches free AI security scans for open-source projects",
-    "titlePt": "Anthropic lança scans de segurança de IA gratuitos para projetos open source",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "A Anthropic passou a oferecer scans de segurança com IA de graça para projetos de código aberto. Ajuda mantenedores a encontrar vulnerabilidades sem custo. Movimento relevante para a comunidade de software livre e segurança.",
-    "reasonEn": "Anthropic now offers free AI-powered security scans for open-source projects. It helps maintainers find vulnerabilities at no cost. A relevant move for the open-source and security community.",
-    "score": 0.75,
-    "tags": [
-      "segurança",
-      "open source",
-      "anthropic"
-    ],
-    "img": "img/0856c1a27e7e.jpg",
-    "ts": 1791496471,
-    "addedTs": 1791504218,
-    "urlHash": "0856c1a27e7e",
-    "titleHash": "1a469e8502c3"
-  },
-  {
-    "title": "Multimodal embeddings beyond a single vector",
-    "titlePt": "Embeddings multimodais além de um único vetor",
-    "url": "https://www.perplexity.ai/hub/blog/multimodal-embeddings-beyond-a-single-vector",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Pesquisa sobre representações multimodais que vão além do tradicional embedding de vetor único. Relevante para quem trabalha com busca semântica, RAG e sistemas que combinam texto, imagem e áudio. Conteúdo técnico denso.",
-    "reasonEn": "Research on multimodal representations going beyond the traditional single-vector embedding. Relevant for those working on semantic search, RAG, and systems combining text, image, and audio. Dense technical content.",
-    "score": 0.5,
-    "tags": [
-      "pesquisa",
-      "embeddings"
-    ],
-    "img": "img/0814baa8db06.jpg",
-    "ts": 1791496178,
-    "addedTs": 1791504218,
-    "urlHash": "0814baa8db06",
-    "titleHash": "886ae8571be4"
-  },
-  {
-    "title": "How AI21 manages its GPU fleet with Kueue",
-    "titlePt": "Como a AI21 gerencia sua frota de GPUs com Kueue",
-    "url": "https://www.ai21.com/blog/how-ai21-manages-its-gpu-fleet-with-kueue/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Estudo de caso técnico sobre como a AI21 organiza a alocação de GPUs usando o projeto Kueue. Útil para engenheiros de plataforma e DevOps que lidam com infraestrutura de ML. Mostra práticas reais de orquestração em produção.",
-    "reasonEn": "Technical case study on how AI21 organizes GPU allocation using the Kueue project. Useful for platform engineers and DevOps dealing with ML infrastructure. Shows real production orchestration practices.",
-    "score": 0.6,
-    "tags": [
-      "infraestrutura",
-      "gpu"
-    ],
-    "img": "img/11fde4bc7e47.jpg",
-    "ts": 1791494388,
-    "addedTs": 1791504218,
-    "urlHash": "11fde4bc7e47",
-    "titleHash": "da8e8d4e8b14"
-  },
-  {
-    "title": "Measure how engineers and teams work with AI",
-    "titlePt": "Meça como engenheiros e equipes trabalham com IA",
-    "url": "https://www.eversynced.com/pheebs/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Ferramenta que busca medir o uso de IA e a produtividade de equipes de engenharia. Relevante para líderes técnicos que querem entender o impacto real. Vale lembrar que métricas simples podem distorcer a complexidade do trabalho humano.",
-    "reasonEn": "A tool aiming to measure AI use and productivity in engineering teams. Relevant for tech leaders wanting to understand real impact. Keep in mind simple metrics can distort the complexity of human work.",
-    "score": 0.5,
-    "tags": [
-      "produtividade",
-      "gestão"
-    ],
-    "img": "img/63d4e2483abd.jpg",
-    "ts": 1791493153,
-    "addedTs": 1791504218,
-    "urlHash": "63d4e2483abd",
-    "titleHash": "3bffe3a75865"
-  },
-  {
-    "title": "As AI Closed in on 'Unique Games' Proof, Researchers Raced to Beat the Machines",
-    "titlePt": "Enquanto a IA se aproximava de prova dos 'Unique Games', pesquisadores correram para vencer as máquinas",
-    "url": "https://www.quantamagazine.org/as-ai-closed-in-on-unique-games-proof-researchers-raced-to-beat-the-machines-20261007/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Reportagem sobre a corrida entre pesquisadores humanos e IA para resolver um problema matemático difícil, o 'Unique Games'. Mostra o estado atual da IA em pesquisa matemática avançada. Contexto valioso para acompanhar a evolução da área.",
-    "reasonEn": "Report on the race between human researchers and AI to solve a hard math problem, the 'Unique Games'. Shows the current state of AI in advanced mathematical research. Valuable context to track the field's evolution.",
-    "score": 0.55,
-    "tags": [
-      "pesquisa",
-      "matemática"
-    ],
-    "img": "img/f4325b9e5af4.jpg",
-    "ts": 1791492523,
-    "addedTs": 1791504218,
-    "urlHash": "f4325b9e5af4",
-    "titleHash": "01c6d9c70a24"
-  },
-  {
-    "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-    "titlePt": "Pesquisadores de segurança demitidos da OpenAI contestam acusações e alertam para efeito paralisante",
-    "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "Pesquisadores que trabalhavam em segurança na OpenAI foram demitidos e negam as alegações de má conduta. Eles dizem que o caso pode desencorajar críticos e enfraquecer a fiscalização interna. Notícia relevante para quem acompanha governança em IA.",
-    "reasonEn": "Researchers who worked on safety at OpenAI were fired and deny the misconduct allegations. They warn the case may discourage critics and weaken internal oversight. Relevant news for anyone following AI governance.",
-    "score": 0.85,
-    "tags": [
-      "openai",
-      "segurança",
-      "governança"
-    ],
-    "img": "img/0d8c74eec04d.jpg",
-    "ts": 1791489866,
-    "addedTs": 1791504218,
-    "urlHash": "0d8c74eec04d",
-    "titleHash": "42f04c8a227a"
-  },
-  {
-    "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-    "titlePt": "Leaderboard popular de IA, Arena, quase dobra valuation para US$ 3,1 bi em 10 meses",
-    "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "O LMArena, ranking usado worldwide para comparar modelos de linguagem, foi avaliado em cerca de US$ 3,1 bilhões em uma nova rodada de investimento, número quase o dobro do valuation anterior. O crescimento reflete o interesse do mercado em benchmarks independentes que orientam empresas na escolha de modelos. Para desenvolvedores, a alta avaliação mostra que ferramentas de avaliação de IA viraram categoria de negócio. Pode também intensificar a corrida por ranqueamento entre as big techs.",
-    "reasonEn": "LMArena, a worldwide ranking used to compare language models, was valued at around US$3.1 billion in a new funding round, nearly double its previous valuation. The jump reflects market appetite for independent benchmarks that help companies pick models. For developers, the high valuation shows AI evaluation tools have become a real business category. It may also intensify the ranking race among big tech firms.",
-    "score": 0.6,
-    "tags": [
-      "investimento",
-      "benchmark",
-      "modelo"
-    ],
-    "img": "img/99134731fc9b.jpg",
-    "ts": 1791483585,
-    "addedTs": 1791504218,
-    "urlHash": "99134731fc9b",
-    "titleHash": "f6bf8b523dba"
-  },
-  {
-    "title": "OpenAI&#8217;s revenue is reportedly $20 billion less than previously projected",
-    "titlePt": "Receita da OpenAI é projetada US$ 20 bilhões menor do que o esperado",
-    "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "Segundo reportagem, a OpenAI trabalha com uma estimativa interna de receita bem abaixo do que havia sido projetado, com diferença de cerca de US$ 20 bilhões. O ajuste sugere desaceleração no ritmo de monetização apesar do forte uso dos produtos. Para o ecossistema, isso pode significar pressão sobre parceiros, clientes e investidores que apostaram em hiper-crescimento. É um sinal de alerta para toda a indústria de IA generativa.",
-    "reasonEn": "According to a report, OpenAI is working with an internal revenue estimate well below previous projections, a gap of about US$20 billion. The revision hints at slower monetization despite heavy product usage. For the ecosystem, this could mean pressure on partners, customers, and investors who bet on hyper-growth. It is a warning sign for the entire generative AI industry.",
-    "score": 0.85,
-    "tags": [
-      "openai",
-      "finanças",
-      "mercado"
-    ],
-    "img": "img/2426f6e1347d.jpg",
-    "ts": 1791483582,
-    "addedTs": 1791504218,
-    "urlHash": "2426f6e1347d",
-    "titleHash": "f430e5976e1b"
   }
 ]
