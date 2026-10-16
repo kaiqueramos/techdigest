@@ -1,5 +1,291 @@
 [
   {
+    "title": "It Ain't AGI Until H100s Go for $30 an Hour",
+    "titlePt": "Não teremos AGI até H100 custar US$ 30 por hora",
+    "url": "https://corbt.com/posts/it-aint-agi-until-h100s-go-for-30-an-hour",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto discute um marco econômico para a chegada da AGI: enquanto uma hora de GPU H100 custar caro, o ciclo de investimento em IA continua insustentável. A tese é provocadora e toca em infraestrutura, custo de capital e estratégia das big techs. Desenvolvedores e líderes técnicos devem ler para entender o humor do mercado e o possível ponto de virada.",
+    "reasonEn": "The article proposes an economic milestone for AGI: as long as an H100 GPU hour stays expensive, the AI investment cycle remains unsustainable. The thesis is provocative, touching on infrastructure, capital cost and big-tech strategy. Developers and tech leaders should read it to gauge market sentiment and a possible turning point.",
+    "score": 0.7,
+    "tags": [
+      "AGI",
+      "economia",
+      "infraestrutura"
+    ],
+    "img": "img/ce761b054b9b.jpg",
+    "ts": 1792159768,
+    "addedTs": 1792160744,
+    "urlHash": "ce761b054b9b",
+    "titleHash": "c93c36ab6f1b"
+  },
+  {
+    "title": "MeshXFS: A clustered filesystem built on XFS, written by AI",
+    "titlePt": "MeshXFS: sistema de arquivos clusterizado escrito por IA",
+    "url": "https://github.com/sshoecraft/meshxfs",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "MeshXFS é um sistema de arquivos clusterizado construído sobre XFS, cujo código foi em grande parte gerado por IA. É um caso interessante de uso real de IA em software de baixo nível, algo raro e arriscado. Desenvolvedores de sistemas devem observar como o projeto evolui, pois bugs em camada de armazenamento podem ser destrutivos.",
+    "reasonEn": "MeshXFS is a clustered filesystem built on top of XFS, with most of its code written by AI. It is a rare and risky example of real AI use in low-level systems software. Systems developers should watch how the project evolves, since bugs in the storage layer can be destructive.",
+    "score": 0.55,
+    "tags": [
+      "sistemas",
+      "IA-código",
+      "armazenamento"
+    ],
+    "img": "img/f8f9efa18bd8.jpg",
+    "ts": 1792159709,
+    "addedTs": 1792160744,
+    "urlHash": "f8f9efa18bd8",
+    "titleHash": "465a749eb1ba"
+  },
+  {
+    "title": "Meta’s new terms may allow it to train AI on news sites for free",
+    "titlePt": "Meta pode treinar IA de graça com conteúdo de sites de notícias",
+    "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "A Meta atualizou seus termos de uso de forma a permitir o uso de conteúdo de sites de notícias para treinar modelos de IA, muitas vezes sem compensação direta. Veículos de comunicação e editores serão os mais afetados, e o tema pode reacender debates sobre remuneração por dados. Profissionais de mídia e equipes jurídicas devem acompanhar de perto.",
+    "reasonEn": "Meta updated its terms of service in a way that may allow it to train AI models on news site content, often without direct compensation. News outlets and publishers are the most affected, and the move could reignite debates about paying for data. Media professionals and legal teams should follow this closely.",
+    "score": 0.9,
+    "tags": [
+      "regulação",
+      "mídia",
+      "modelo"
+    ],
+    "img": "img/ca580b1475b7.jpg",
+    "ts": 1792159360,
+    "addedTs": 1792160744,
+    "urlHash": "ca580b1475b7",
+    "titleHash": "cb21814ed74c"
+  },
+  {
+    "title": "PhD students who write dissertation with AI less likely to stay in academia",
+    "titlePt": "Doutorandos que usam IA na tese tendem a deixar a academia",
+    "url": "https://www.nature.com/articles/d41586-026-03253-2",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Estudo indica que doutorandos que escrevem a dissertação com ajuda de IA têm menor probabilidade de continuar na carreira acadêmica. Os autores sugerem que o uso excessivo pode enfraquecer a formação de pesquisa independente. Pesquisadores, orientadores e universidades devem refletir sobre o papel da IA na formação científica.",
+    "reasonEn": "A study suggests PhD students who write their dissertation with AI help are less likely to stay in academia. The authors argue that heavy AI use may weaken independent research training. Researchers, advisors and universities should reflect on AI's role in scientific formation.",
+    "score": 0.6,
+    "tags": [
+      "pesquisa",
+      "educação",
+      "estudo"
+    ],
+    "img": "img/0d442ac7397a.jpg",
+    "ts": 1792159211,
+    "addedTs": 1792160744,
+    "urlHash": "0d442ac7397a",
+    "titleHash": "c4998f32fef6"
+  },
+  {
+    "title": "Amazon introduces 2 new AI products from Bee: Bee Frontier and Bee Eclipse",
+    "titlePt": "Amazon lança dois produtos de IA da Bee: Frontier e Eclipse",
+    "url": "https://www.aboutamazon.com/news/devices/amazon-personal-ai-bee-frontier-bee-eclipse",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Amazon apresentou dois novos produtos de IA da sua divisão Bee, chamados Frontier e Eclipse. A movimentação reforça a estratégia da empresa em agentes sempre ativos, possivelmente vestíveis. Desenvolvedores e parceiros devem observar como esses produtos dialogam com o ecossistema Alexa e AWS.",
+    "reasonEn": "Amazon introduced two new AI products from its Bee division, Frontier and Eclipse. The move reinforces the company's strategy around always-on agents, possibly wearables. Developers and partners should watch how these products interact with the Alexa and AWS ecosystem.",
+    "score": 0.75,
+    "tags": [
+      "amazon",
+      "lançamento",
+      "agentes"
+    ],
+    "img": "img/3d3f739df819.jpg",
+    "ts": 1792158682,
+    "addedTs": 1792160744,
+    "urlHash": "3d3f739df819",
+    "titleHash": "676ddab3dc15"
+  },
+  {
+    "title": "The evolution of LLM tool-use from API calls to agentic applications (2025)",
+    "titlePt": "A evolução do uso de ferramentas por LLMs em 2025",
+    "url": "https://bdtechtalks.com/2025/12/29/llm-tool-use-agentic-ai/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo traça a evolução do uso de ferramentas em LLMs, das chamadas de API até aplicações agentic completas. Ajuda a entender a mudança de paradigma de modelos que respondem para modelos que agem. Recomendado para arquitetos e líderes técnicos planejando produtos com IA.",
+    "reasonEn": "The article traces the evolution of tool use in LLMs, from API calls to full agentic applications. It helps understand the paradigm shift from models that answer to models that act. Recommended for architects and tech leaders planning AI products.",
+    "score": 0.6,
+    "tags": [
+      "agentes",
+      "LLM",
+      "análise"
+    ],
+    "img": "img/7d28cbb5302c.jpg",
+    "ts": 1792158179,
+    "addedTs": 1792160744,
+    "urlHash": "7d28cbb5302c",
+    "titleHash": "6011cf0c7ca6"
+  },
+  {
+    "title": "LLMs have a problem with functional programming",
+    "titlePt": "LLMs têm dificuldade com programação funcional",
+    "url": "https://kevinaleman.com/ai-has-a-problem-with-functional-programming/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Análise mostra que modelos de linguagem têm desempenho pior em paradigmas funcionais como Haskell, mesmo sendo bons em linguagens imperativas. O motivo provável é a distribuição dos dados de treino. Relevante para quem avalia LLMs em código real ou ensina programação funcional.",
+    "reasonEn": "Analysis shows language models perform worse on functional paradigms like Haskell, even though they are good on imperative languages. The likely reason is the distribution of training data. Relevant for anyone evaluating LLMs on real code or teaching functional programming.",
+    "score": 0.55,
+    "tags": [
+      "LLM",
+      "pesquisa",
+      "linguagens"
+    ],
+    "img": "img/27af1bcac05f.jpg",
+    "ts": 1792157810,
+    "addedTs": 1792160744,
+    "urlHash": "27af1bcac05f",
+    "titleHash": "6a22b69278c6"
+  },
+  {
+    "title": "Introducing Beam: Reflection’s 501B open-weight model",
+    "titlePt": "Reflection lança Beam, modelo aberto de 501 bilhões de parâmetros",
+    "url": "https://reflection.ai/blog/beam-is-available",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Reflection AI apresentou o Beam, um modelo de peso aberto com 501 bilhões de parâmetros, mirando competir com os principais modelos fechados e abertos do mercado. O lançamento foi destacado no Hacker News e o modelo também foi disponibilizado no Hugging Face. Desenvolvedores devem testar o modelo para entender seu custo, latência e qualidade antes de qualquer adoção em produto.",
+    "reasonEn": "Reflection AI released Beam, a 501-billion parameter open-weight model, aiming to compete with the top closed and open models. The launch was highlighted on Hacker News and the model was also made available on Hugging Face. Developers should test the model to understand its cost, latency and quality before any product adoption.",
+    "score": 0.92,
+    "tags": [
+      "modelo",
+      "open-weight",
+      "lançamento"
+    ],
+    "img": "img/2948e4f52617.jpg",
+    "ts": 1792157670,
+    "addedTs": 1792160744,
+    "urlHash": "2948e4f52617",
+    "titleHash": "839116552ed5"
+  },
+  {
+    "title": "D1-Ultra: Introducing the Best Decision Model",
+    "titlePt": "D1-Ultra: novo modelo focado em decisões",
+    "url": "https://www.liquid.ai/blog/d1-ultra",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Foi apresentado o D1-Ultra, um modelo especializado em tarefas de decisão, com benchmarks que prometem superar rivais. O foco em decisão mira casos de uso agentic e raciocínio sob restrição. Vale acompanhar para times que precisam de planejamento e escolha de ações em sistemas autônomos.",
+    "reasonEn": "D1-Ultra was introduced as a model specialized in decision tasks, with benchmarks claiming to outperform rivals. The focus on decision targets agentic use cases and reasoning under constraints. Worth following for teams needing planning and action selection in autonomous systems.",
+    "score": 0.7,
+    "tags": [
+      "modelo",
+      "decisão",
+      "lançamento"
+    ],
+    "img": "img/3719b30a627a.jpg",
+    "ts": 1792157165,
+    "addedTs": 1792160744,
+    "urlHash": "3719b30a627a",
+    "titleHash": "9e7a72a52132"
+  },
+  {
+    "title": "Show HN: Heldkeys, see which credentials your AI coding agent can reach",
+    "titlePt": "Heldkeys: veja quais credenciais seu agente de código pode alcançar",
+    "url": "https://github.com/hugomn/heldkeys",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A ferramenta Heldkeys mostra quais credenciais e segredos estão acessíveis ao seu agente de codificação com IA, ajudando a evitar vazamentos em pipelines automatizados. É uma leitura relevante para qualquer time que já usa ou pretende usar agentes para escrever código. Segurança de credenciais em fluxos agentic virou um tema crítico.",
+    "reasonEn": "The Heldkeys tool surfaces which credentials and secrets are reachable by your AI coding agent, helping avoid leaks in automated pipelines. A relevant read for any team already using or planning to use agents to write code. Credential security in agentic flows is now a critical topic.",
+    "score": 0.65,
+    "tags": [
+      "segurança",
+      "agentes",
+      "credenciais"
+    ],
+    "img": "img/7b5060b5fc6d.jpg",
+    "ts": 1792156648,
+    "addedTs": 1792160744,
+    "urlHash": "7b5060b5fc6d",
+    "titleHash": "0dbee6608d14"
+  },
+  {
+    "title": "Show HN: AegisKernel – Zero-trust deterministic security runtime for AI agents",
+    "titlePt": "AegisKernel: runtime de segurança zero-trust para agentes de IA",
+    "url": "https://github.com/adikshatriyag-crypto/aegis-kernel",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O AegisKernel é um runtime determinístico com postura zero-trust voltado a agentes de IA, controlando o que eles podem acessar no sistema. Surge como resposta ao aumento de riscos de agentes operando com privilégios. Relevante para engenheiros de segurança e plataformas que hospedam agentes em produção.",
+    "reasonEn": "AegisKernel is a deterministic zero-trust runtime aimed at AI agents, controlling what they can access on the system. It emerges as a response to growing agent risk when running with privileges. Relevant for security engineers and platforms hosting agents in production.",
+    "score": 0.6,
+    "tags": [
+      "segurança",
+      "agentes",
+      "zero-trust"
+    ],
+    "img": "img/4739348ea32c.jpg",
+    "ts": 1792156546,
+    "addedTs": 1792160744,
+    "urlHash": "4739348ea32c",
+    "titleHash": "fec20b898fd5"
+  },
+  {
+    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+    "titlePt": "Beam: modelo aberto de 501 bilhões de parâmetros totalmente customizável",
+    "url": "https://huggingface.co/blog/reflection-beam",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "A Hugging Face anunciou a chegada do Beam, um modelo de IA com 501 bilhões de parâmetros e totalmente aberto. Usuários podem baixar, modificar e escalar o modelo sem restrições. É um dos maiores modelos abertos já disponibilizados, competindo em escala com sistemas fechados. Desenvolvedores ganham mais uma opção poderosa para rodar localmente ou em sua própria infraestrutura.",
+    "reasonEn": "Hugging Face announced the arrival of Beam, a fully open AI model with 501 billion parameters. Users can download, modify, and scale the model without restrictions. It is one of the largest open models ever released, rivaling the scale of closed systems. Developers gain another powerful option to run locally or on their own infrastructure.",
+    "score": 0.85,
+    "tags": [
+      "modelo",
+      "lançamento",
+      "open-source"
+    ],
+    "img": "img/c9a6184923cc.jpg",
+    "ts": 1792108800,
+    "addedTs": 1792160744,
+    "urlHash": "c9a6184923cc",
+    "titleHash": "4e66667848e1"
+  },
+  {
+    "title": "Bluesky&#8217;s AI tool now lets you make games and apps to share on social",
+    "titlePt": "Bluesky ganha ferramenta de IA para criar jogos e apps sociais",
+    "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "A rede social Bluesky passou a permitir criar aplicativos e jogos com IA dentro da própria plataforma. Usuários podem gerar essas ferramentas e compartilhá-las com outros membros sem sair do feed. A novidade transforma o Bluesky em um espaço para prototipar e distribuir pequenos produtos. Desenvolvedores e criadores ganham um novo ambiente para distribuir ideias com menos barreiras.",
+    "reasonEn": "Social network Bluesky now lets users create apps and games with AI inside the platform itself. Users can generate these tools and share them with other members without leaving the feed. The feature turns Bluesky into a space to prototype and distribute small products. Developers and creators gain a new environment to distribute ideas with fewer barriers.",
+    "score": 0.6,
+    "tags": [
+      "redes sociais",
+      "IA",
+      "plataforma"
+    ],
+    "img": "img/e85c6a5b67da.jpg",
+    "ts": 1792094236,
+    "addedTs": 1792160744,
+    "urlHash": "e85c6a5b67da",
+    "titleHash": "8925bb46c9a8"
+  },
+  {
     "title": "Hopper HQ: An office building where Claude agents gets a desk",
     "titlePt": "Hopper HQ: prédios de escritórios com mesas para agentes Claude",
     "url": "https://github.com/FairMind-Gen-AI-Studio/hopper-hq",
