@@ -1,5 +1,218 @@
 [
   {
+    "title": "You could have invented transformers from memory",
+    "titlePt": "Você poderia ter inventado os transformers de cabeça",
+    "url": "https://alexwang.ai/posts/associative-memory/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Post reflexivo que mostra como a arquitetura transformer pode ser reconstruída a partir de intuições básicas sobre sequências e atenção. Útil para desenvolvedores que querem entender o que realmente roda por baixo dos modelos. Mais educativo do que urgente, mas com bom valor de longo prazo.",
+    "reasonEn": "A reflective post showing how the transformer architecture can be rebuilt from basic intuitions about sequences and attention. Useful for developers who want to understand what actually runs under the hood of these models. More educational than urgent, but with good long-term value.",
+    "score": 0.55,
+    "tags": [
+      "modelo",
+      "educação"
+    ],
+    "img": "img/520b0400db3c.jpg",
+    "ts": 1792177277,
+    "addedTs": 1792177720,
+    "urlHash": "520b0400db3c",
+    "titleHash": "2d06fa409567"
+  },
+  {
+    "title": "What will the next generation of developers do when AI writes the code?",
+    "titlePt": "O que farão os próximos desenvolvedores quando a IA escrever o código?",
+    "url": "https://commandline.microsoft.com/praise-preceptor-ai-accelerated-software-engineering-cmu/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Discussão sobre como será o trabalho de novos desenvolvedores em um mundo onde a IA gera a maior parte do código. Toca em carreira, formação e o papel humano de arquitetura e revisão. Reflexão relevante para mentores, líderes de engenharia e iniciantes. Não é notícia urgente, mas vale a leitura.",
+    "reasonEn": "Discussion of what new developers will do in a world where AI writes most of the code. It touches on careers, training, and the human role of architecture and review. A relevant reflection for mentors, engineering leaders, and beginners. Not urgent news, but worth a read.",
+    "score": 0.5,
+    "tags": [
+      "carreira",
+      "ia"
+    ],
+    "img": "img/627e35ee6f45.jpg",
+    "ts": 1792176503,
+    "addedTs": 1792177720,
+    "urlHash": "627e35ee6f45",
+    "titleHash": "9e5a6705c2ea"
+  },
+  {
+    "title": "American Medical Association releases governance framework for agentic AI",
+    "titlePt": "Associação Médica Americana lança marco de governança para IA agêntica",
+    "url": "https://www.healthcaredive.com/news/ama-releases-governance-framework-for-agentic-ai-in-healthcare/833120/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A American Medical Association publicou um framework de governança para uso de IA agêntica em saúde. É referência importante que pode virar padrão para hospitais, seguradoras e fornecedores. Profissionais de saúde digital e equipes que constroem IA clínica devem olhar com atenção.",
+    "reasonEn": "The American Medical Association has published a governance framework for agentic AI in healthcare. It is an important reference that may become a standard for hospitals, insurers, and vendors. Digital health professionals and teams building clinical AI should pay close attention.",
+    "score": 0.75,
+    "tags": [
+      "regulação",
+      "saúde"
+    ],
+    "img": "img/d3fb971c9d3f.jpg",
+    "ts": 1792174060,
+    "addedTs": 1792177720,
+    "urlHash": "d3fb971c9d3f",
+    "titleHash": "142cdd19a536"
+  },
+  {
+    "title": "Citi becomes latest US bank to restrict AI agents from accessing accounts",
+    "titlePt": "Citi vira mais um banco dos EUA a bloquear agentes de IA em contas",
+    "url": "https://www.ft.com/content/f49c8e39-f07f-4177-9948-aabe55e5ed91",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Citi passou a restringir o uso de agentes de IA no acesso a contas, seguindo movimento de outros bancos americanos. Sinaliza que o setor financeiro está tratando agentes autônomos como risco sério. Desenvolvedores de fintechs e automações bancárias precisam revisar integrações.",
+    "reasonEn": "Citi has begun restricting AI agents from accessing accounts, following moves by other US banks. It signals that the financial sector is treating autonomous agents as a serious risk. Developers of fintech apps and banking automations need to review their integrations.",
+    "score": 0.85,
+    "tags": [
+      "banco",
+      "agente"
+    ],
+    "img": "img/576bb37b8edc.jpg",
+    "ts": 1792173871,
+    "addedTs": 1792177720,
+    "urlHash": "576bb37b8edc",
+    "titleHash": "6e02c2bb4cf6"
+  },
+  {
+    "title": "India becomes the latest country to report rogue AI agent activity",
+    "titlePt": "Índia é o mais novo país a relatar atividade de agentes de IA descontrolados",
+    "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A Índia entrou para a lista de países que relatam incidentes com agentes de IA agindo fora do controle em sistemas em produção. A reportagem destaca o risco crescente conforme agentes ganham mais autonomia. É alerta direto para times que operam agentes em ambientes críticos.",
+    "reasonEn": "India has joined the list of countries reporting incidents of AI agents going out of control in production systems. The report highlights the growing risk as agents gain more autonomy. It is a direct warning for teams running agents in critical environments.",
+    "score": 0.9,
+    "tags": [
+      "agente",
+      "segurança"
+    ],
+    "img": "img/8ffbbf24c13a.jpg",
+    "ts": 1792173144,
+    "addedTs": 1792177720,
+    "urlHash": "8ffbbf24c13a",
+    "titleHash": "9ae75d4ea39c"
+  },
+  {
+    "title": "China Reportedly Planning AI Export Controls, Citing National Security",
+    "titlePt": "China planeja controles de exportação de IA citando segurança nacional",
+    "url": "https://www.pcmag.com/news/china-reportedly-planning-ai-export-controls-citing-national-security",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "China estaria preparando controles de exportação especificamente para tecnologias de IA, citando segurança nacional. Pode afetar oferta global de modelos, datasets e hardware associado. Desenvolvedores que usam serviços chineses ou distribuem modelos chineses devem acompanhar.",
+    "reasonEn": "China is reportedly preparing export controls specifically for AI technologies, citing national security. It may affect the global supply of models, datasets, and associated hardware. Developers using Chinese services or distributing Chinese models should follow this closely.",
+    "score": 0.85,
+    "tags": [
+      "regulação",
+      "china"
+    ],
+    "img": "img/04a4272b0fb2.jpg",
+    "ts": 1792172863,
+    "addedTs": 1792177720,
+    "urlHash": "04a4272b0fb2",
+    "titleHash": "ddac3df9d53f"
+  },
+  {
+    "title": "Anthropic Console overcharged my card 100x due to internationalization input bug",
+    "titlePt": "Console da Anthropic cobrou 100 vezes mais por bug de internacionalização",
+    "url": "https://news.ycombinator.com/item?id=50121562",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Usuário relata que um bug de entrada internacional no Console da Anthropic cobrou cerca de cem vezes o valor esperado em seu cartão. É um alerta para desenvolvedores que cobram clientes via APIs e cuidados com formatação de números e moedas. Pequenos bugs podem virar prejuízos grandes.",
+    "reasonEn": "A user reports that an internationalization input bug in the Anthropic Console charged about a hundred times the expected amount to their card. It is a warning to developers charging customers via APIs about the importance of number and currency formatting. Small bugs can become big losses.",
+    "score": 0.5,
+    "tags": [
+      "anthropic",
+      "bug"
+    ],
+    "img": "img/60894de46367.jpg",
+    "ts": 1792171902,
+    "addedTs": 1792177720,
+    "urlHash": "60894de46367",
+    "titleHash": "15d86d759bc0"
+  },
+  {
+    "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+    "titlePt": "IA física vai além de robôs, diz veterano da Nvidia agora investidor",
+    "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "Um executivo veterano da Nvidia, agora investidor, defende que 'IA física' abrange muito mais do que robôs humanoides. A ideia inclui sistemas logísticos, veículos autônomos e qualquer IA que perceba e atue no mundo real. Isso importa porque o termo 'robótica' costuma limitar a imaginação do mercado e dos reguladores. Fundadores e desenvolvedores devem pensar em casos de uso além do robô clássico.",
+    "reasonEn": "A veteran Nvidia executive, now an investor, argues that 'physical AI' goes far beyond humanoid robots. The idea includes logistics systems, autonomous vehicles, and any AI that perceives and acts in the real world. This matters because the term 'robotics' often limits market and regulator imagination. Founders and developers should think about use cases beyond the classic robot.",
+    "score": 0.6,
+    "tags": [
+      "robótica",
+      "ia-física",
+      "investimento"
+    ],
+    "img": "img/bd2b33f50b82.jpg",
+    "ts": 1792168200,
+    "addedTs": 1792177720,
+    "urlHash": "bd2b33f50b82",
+    "titleHash": "78c411a4a67a"
+  },
+  {
+    "title": "Elorian’s first AI model wants to reason with images, not just about them",
+    "titlePt": "Primeiro modelo da Elorian quer raciocinar com imagens, não só sobre elas",
+    "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A startup Elorian está lançando seu primeiro modelo de IA que, segundo a empresa, consegue 'raciocinar dentro' das imagens em vez de apenas descrevê-las. A proposta é fazer com que o modelo manipule pixels diretamente para resolver tarefas visuais. Isso pode abrir novas formas de edição automática e análise de imagens. Desenvolvedores que trabalham com visão computacional devem ficar de olho.",
+    "reasonEn": "Startup Elorian is launching its first AI model that, according to the company, can 'reason inside' images instead of just describing them. The proposal is for the model to manipulate pixels directly to solve visual tasks. This could open new forms of automatic editing and image analysis. Developers working with computer vision should keep an eye on this.",
+    "score": 0.5,
+    "tags": [
+      "modelo",
+      "visão",
+      "lançamento"
+    ],
+    "img": "img/5cea1aeddd4a.jpg",
+    "ts": 1792166497,
+    "addedTs": 1792177720,
+    "urlHash": "5cea1aeddd4a",
+    "titleHash": "f1a6ce2801b3"
+  },
+  {
+    "title": "Jev is Vercel&#8217;s fastest-adopted AI model ever",
+    "titlePt": "Jev é o modelo de IA mais rápido a ser adotado na história da Vercel",
+    "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "A plataforma Vercel revelou que seu modelo de IA chamado Jev bateu o recorde de adoção mais rápida entre todos os modelos já lançados pela empresa. O modelo foi integrado rapidamente por desenvolvedores em aplicações web implantadas na plataforma. Isso indica uma preferência do mercado por modelos otimizados para fluxos web rápidos. Desenvolvedores que usam Vercel podem considerar migrar projetos para o novo modelo.",
+    "reasonEn": "Vercel revealed that its AI model called Jev broke the record for fastest adoption among all models ever launched by the company. The model was quickly integrated by developers into web applications deployed on the platform. This signals market preference for models optimized for fast web workflows. Developers using Vercel might consider migrating projects to the new model.",
+    "score": 0.55,
+    "tags": [
+      "modelo",
+      "vercel",
+      "adoção"
+    ],
+    "img": "img/7ff2fab56ea7.jpg",
+    "ts": 1792164829,
+    "addedTs": 1792177720,
+    "urlHash": "7ff2fab56ea7",
+    "titleHash": "ace352e4f647"
+  },
+  {
     "title": "It Ain't AGI Until H100s Go for $30 an Hour",
     "titlePt": "Não teremos AGI até H100 custar US$ 30 por hora",
     "url": "https://corbt.com/posts/it-aint-agi-until-h100s-go-for-30-an-hour",
@@ -7509,313 +7722,5 @@
     "addedTs": 1791583321,
     "urlHash": "9bf93d58cc35",
     "titleHash": "f197109f3b83"
-  },
-  {
-    "title": "We can&#8217;t help treating AI like it&#8217;s human. But should we?",
-    "titlePt": "Por que tratamos a IA como se fosse humana — e se isso é um erro?",
-    "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "O artigo discute como, naturalmente, projetamos emoções e intenções humanas em sistemas de inteligência artificial. Isso pode gerar confiança exagerada, apego ou mesmo decisões ruins em produtos e interfaces. Profissionais que constroem chatbots precisam entender esse viés para criar experiências responsáveis. A reflexão vale para qualquer pessoa que convive com IAs generativas no dia a dia.",
-    "reasonEn": "The article explores why we instinctively project human emotions and intentions onto AI systems. This can lead to misplaced trust, emotional attachment, or poor decisions when designing products and interfaces. Builders of chatbots and assistants need to understand this bias to create responsible experiences. The reflection matters for anyone who uses generative AI daily.",
-    "score": 0.55,
-    "tags": [
-      "ética",
-      "ux",
-      "comportamento"
-    ],
-    "img": "img/ff41ef5ebf23.jpg",
-    "ts": 1791564014,
-    "addedTs": 1791564192,
-    "urlHash": "ff41ef5ebf23",
-    "titleHash": "d272d5cf756c"
-  },
-  {
-    "title": "We gave an AI a phone and asked 1000 SF businesses a question",
-    "titlePt": "IA com telefone liga para mil empresas em São Francisco",
-    "url": "https://news.ycombinator.com/item?id=50022739",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Pesquisadores deram a uma IA um número de telefone real e pediram que ela ligasse para mil empresas em São Francisco com uma pergunta. O experimento testa como sistemas automatizados se saem em interações de voz com o mundo real. Os resultados podem interessar quem trabalha com atendimento automatizado e call centers.",
-    "reasonEn": "Researchers gave an AI a real phone number and had it call a thousand San Francisco businesses with a single question. The experiment tests how automated systems handle real-world voice interactions. The findings matter for anyone building automated customer service or call center solutions.",
-    "score": 0.55,
-    "tags": [
-      "pesquisa",
-      "voz",
-      "automação"
-    ],
-    "img": "img/ba07706513c7.jpg",
-    "ts": 1791562683,
-    "addedTs": 1791564192,
-    "urlHash": "ba07706513c7",
-    "titleHash": "96e109ba3ce9"
-  },
-  {
-    "title": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
-    "titlePt": "Foto premiada que gerou controvérsia era gerada por IA, confirma Nikon",
-    "url": "https://www.bbc.com/news/articles/cr86z33pdy9vo",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Uma imagem vencedora de concurso fotográfico que causou polêmica foi confirmada como gerada por inteligência artificial, após investigação da Nikon. O caso reacende o debate sobre premiações, autenticidade e uso de IA em artes visuais. Fotógrafos, jurados e plataformas precisam repensar critérios de verificação.",
-    "reasonEn": "An award-winning photograph that sparked controversy has been confirmed as AI-generated following a Nikon investigation. The case reignites debate around awards, authenticity, and AI use in visual arts. Photographers, judges, and platforms need to rethink verification standards.",
-    "score": 0.5,
-    "tags": [
-      "mídia",
-      "ética",
-      "concurso"
-    ],
-    "img": "img/9f6f877f4e5c.jpg",
-    "ts": 1791560991,
-    "addedTs": 1791564192,
-    "urlHash": "9f6f877f4e5c",
-    "titleHash": "0337690218ed"
-  },
-  {
-    "title": "Vinod Khosla Backs an AI Startup Building a Mind-Reading Baseball Cap",
-    "titlePt": "Vinod Khosla investe em startup de boné que lê a mente",
-    "url": "https://www.forbes.com/sites/rashishrivastava/2026/10/09/vinod-khosla-backs-an-ai-startup-building-a-mind-reading-baseball-cap/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O investidor Vinod Khosla liderou rodada em uma startup que trabalha em um boné capaz de interpretar sinais cerebrais usando IA. A ideia é transformar intenções em comandos para computadores, o que pode mudar interfaces no futuro. Pode interessar a quem acompanha hardware, neurotecnologia e acessibilidade.",
-    "reasonEn": "Investor Vinod Khosla led a funding round for a startup working on a baseball cap that reads brain signals using AI. The goal is to turn intentions into computer commands, which could reshape interfaces. Relevant to anyone tracking hardware, neurotechnology, and accessibility.",
-    "score": 0.65,
-    "tags": [
-      "investimento",
-      "neurotech",
-      "hardware"
-    ],
-    "img": "img/85587a0d726b.jpg",
-    "ts": 1791560965,
-    "addedTs": 1791564192,
-    "urlHash": "85587a0d726b",
-    "titleHash": "f9d846fb0c87"
-  },
-  {
-    "title": "a16z’s Olivia Moore on the state of consumer AI",
-    "titlePt": "Olivia Moore, da a16z, faz raio-x da IA de consumo",
-    "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A sócia da a16z Olivia Moore apresenta um panorama do mercado de IA voltda para o consumidor final, apontando tendências de produtos e categorias em ascensão. Para desenvolvedores e fundadores, é um termômetro útil de onde o capital está apostando. A leitura ajuda a calibrar prioridades em projetos novos.",
-    "reasonEn": "a16z partner Olivia Moore lays out a snapshot of consumer-facing AI, highlighting product trends and rising categories. For developers and founders it is a useful gauge of where capital is betting. Reading it helps calibrate priorities for new projects.",
-    "score": 0.7,
-    "tags": [
-      "mercado",
-      "consumidor",
-      "tendências"
-    ],
-    "img": "img/f2bbbdc80487.jpg",
-    "ts": 1791560613,
-    "addedTs": 1791564192,
-    "urlHash": "f2bbbdc80487",
-    "titleHash": "78d37af5ceb2"
-  },
-  {
-    "title": "Impactful scheduling for GPU clusters",
-    "titlePt": "Agendamento que faz diferença em clusters de GPU",
-    "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "Um novo artigo do Hugging Face apresenta técnicas de agendamento para melhorar o uso de clusters de GPU em cargas de machine learning. Quem opera infraestrutura de treinamento sabe que orquestração ruim desperdiça hardware caro. Vale para engenheiros de MLOps e plataforma.",
-    "reasonEn": "A new Hugging Face post presents scheduling techniques to improve GPU cluster usage for machine learning workloads. Anyone running training infrastructure knows that poor orchestration wastes expensive hardware. Useful reading for MLOps and platform engineers.",
-    "score": 0.5,
-    "tags": [
-      "infra",
-      "gpu",
-      "mlops"
-    ],
-    "img": "img/e05551817b22.jpg",
-    "ts": 1791559229,
-    "addedTs": 1791564192,
-    "urlHash": "e05551817b22",
-    "titleHash": "d92b851fd3d9"
-  },
-  {
-    "title": "AI, Autonomous Warfare and the Severance from Responsibility",
-    "titlePt": "IA, guerra autônoma e o sumiço da responsabilidade",
-    "url": "https://read.misalignedmag.com/ai-autonomous-warfare-and-the-severance-from-responsibility-480da36c7f65",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O texto discute como o uso de IA em sistemas de armas autônomas pode diluir a responsabilidade humana sobre decisões letais. O tema se conecta ao debate em curso nos Estados Unidos e em outros países sobre controle de armas inteligentes. Importante para quem acompanha ética em tecnologia e política internacional.",
-    "reasonEn": "The piece discusses how using AI in autonomous weapons can blur human accountability over lethal decisions. The topic connects to ongoing debates in the US and elsewhere about controlling smart weapons. Important for anyone tracking tech ethics and international policy.",
-    "score": 0.6,
-    "tags": [
-      "ética",
-      "militar",
-      "política"
-    ],
-    "img": "img/4f7c23fe5807.jpg",
-    "ts": 1791558912,
-    "addedTs": 1791564192,
-    "urlHash": "4f7c23fe5807",
-    "titleHash": "684408818566"
-  },
-  {
-    "title": "US charity plans to use AI to monitor its Gaza classrooms for 'hateful' speech",
-    "titlePt": "ONG americana quer usar IA para vigiar discursos em salas de aula em Gaza",
-    "url": "https://apnews.com/article/gaza-children-village-ai-speech-schools-7a41b3986524877b3e7ade7985853c53?taid=6ac898017a4b4a000148d491&utm_campaign=TrueAnthem&utm_medium=AP",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Uma organização sem fins lucrativos dos Estados Unidos pretende usar inteligência artificial para monitorar conversas em escolas mantidas por ela em Gaza, buscando considerado ofensivo. A proposta gerou críticas de especialistas em direitos digitais e de educadores. O caso envolve vigilância sensível a crianças em zona de conflito.",
-    "reasonEn": "A US nonprofit plans to use AI to monitor conversations inside its Gaza classrooms for speech it considers hateful. The proposal drew criticism from digital rights experts and educators. The case involves sensitive surveillance of children in a conflict zone.",
-    "score": 0.65,
-    "tags": [
-      "vigilância",
-      "direitos",
-      "educação"
-    ],
-    "img": "img/80ff911c3525.jpg",
-    "ts": 1791558508,
-    "addedTs": 1791564192,
-    "urlHash": "80ff911c3525",
-    "titleHash": "4ed2e68ea728"
-  },
-  {
-    "title": "Disrupting AI-enabled \"false front\" operations",
-    "titlePt": "Combate a operações falsas com IA na internet",
-    "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Reportagem mostra como investigadores estão usando IA para identificar e derrubar operações fraudulentas que se passam por empresas reais na web. O lado positivo da ferramenta aparece em ações contra golpes cada vez mais sofisticados. Útil para quem trabalha com segurança e confiança digital.",
-    "reasonEn": "Reporting shows how investigators are using AI to spot and dismantle fraudulent operations posing as real businesses online. The positive side of the technology shows up in fights against increasingly sophisticated scams. Relevant for anyone working on digital trust and security.",
-    "score": 0.55,
-    "tags": [
-      "segurança",
-      "fraude",
-      "combate"
-    ],
-    "img": "img/22b50215bfd6.jpg",
-    "ts": 1791558213,
-    "addedTs": 1791564192,
-    "urlHash": "22b50215bfd6",
-    "titleHash": "52ad424335d3"
-  },
-  {
-    "title": "Trump is attempting to rename AI",
-    "titlePt": "Trump quer rebatizar inteligência artificial",
-    "url": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A administração Trump estaria tentando renomear o termo inteligência artificial, possivelmente como parte de estratégia política e industrial. A discussão é relevante para acompanhar narrativa governamental sobre tecnologia nos EUA. Marcar a IA com nova marca pode mudar comunicação oficial, contratos e discurso público.",
-    "reasonEn": "The Trump administration is reportedly trying to rename artificial intelligence, possibly as part of a political and industrial strategy. The discussion matters for tracking the US government narrative on technology. Rebranding AI could shift official communication, contracts, and public discourse.",
-    "score": 0.7,
-    "tags": [
-      "política",
-      "EUA",
-      "naming"
-    ],
-    "img": "img/9c3c12ce2bad.jpg",
-    "ts": 1791558081,
-    "addedTs": 1791564192,
-    "urlHash": "9c3c12ce2bad",
-    "titleHash": "300071821dfd"
-  },
-  {
-    "title": "The future of programmers, after AI",
-    "titlePt": "O futuro dos programadores depois da IA",
-    "url": "https://kevinaleman.com/the-future-after-ai-2767/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Discussão coletiva sobre como a profissão de programador pode mudar com a presença crescente de IA generativa no desenvolvimento. O tema interessa a qualquer desenvolvedor preocupado com sua trajetória de carreira. Inclui visões otimistas e pessimistas sobre o que vai restar do trabalho humano no código.",
-    "reasonEn": "A collective discussion on how the programmer profession may change with growing generative AI in software development. Relevant to any developer thinking about career trajectory. It includes both optimistic and pessimistic takes on what human work in code will look like.",
-    "score": 0.5,
-    "tags": [
-      "carreira",
-      "programação",
-      "futuro"
-    ],
-    "img": "img/ccf7638563a3.jpg",
-    "ts": 1791557956,
-    "addedTs": 1791564192,
-    "urlHash": "ccf7638563a3",
-    "titleHash": "a4059f1b660b"
-  },
-  {
-    "title": "Beijing Will Not Pace the Frontier: China's Speed-First AI Safety Regime",
-    "titlePt": "Pequim não vai ditar o ritmo da fronteira da IA",
-    "url": "https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Artigo analisa a estratégia chinesa de priorizar velocidade no desenvolvimento de IA em vez de segurança, contrastando com debates no Ocidente. O texto ajuda a entender geopolítica da tecnologia e como a corrida entre países ganha forma. Leitura recomendada para acompanhar o cenário global.",
-    "reasonEn": "An analysis of China's strategy of prioritizing speed over safety in AI development, contrasting with Western debates. The piece helps frame the geopolitics of technology and how the global race is taking shape. Recommended reading to track the broader landscape.",
-    "score": 0.7,
-    "tags": [
-      "china",
-      "política",
-      "geopolítica"
-    ],
-    "img": "img/d8c6dc64421e.jpg",
-    "ts": 1791557817,
-    "addedTs": 1791564192,
-    "urlHash": "d8c6dc64421e",
-    "titleHash": "cabc7735dd6d"
-  },
-  {
-    "title": "We’re putting too much faith in AI’s ability to say no",
-    "titlePt": "Confiamos demais na capacidade da IA de dizer não",
-    "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
-    "source": "MIT Tech Review",
-    "sources": [
-      "MIT Tech Review"
-    ],
-    "reason": "A MIT Technology Review aponta que usuários e empresas estão depositando fé excessiva nos mecanismos de recusa dos modelos de IA, como filtros de segurança e refusais. Especialistas alertam que esses sistemas podem ser enganados com prompts indiretos ou traduzidos. O problema afeta qualquer pessoa que usa chatbots em tarefas sensíveis, como código, medicina ou finanças. A recomendação é tratar a IA como um auxiliar, não como uma barreira infalível.",
-    "reasonEn": "MIT Technology Review warns that users and companies place too much trust in AI refusal mechanisms like safety filters. Experts note these systems can be bypassed through indirect prompts or translation tricks. The issue affects anyone using chatbots for sensitive tasks such as coding, healthcare, or finance. The takeaway is to treat AI as an assistant, not an infallible guardrail.",
-    "score": 0.5,
-    "tags": [
-      "segurança",
-      "refusal",
-      "ética"
-    ],
-    "img": "img/56b2964b69be.jpg",
-    "ts": 1791536400,
-    "addedTs": 1791564192,
-    "urlHash": "56b2964b69be",
-    "titleHash": "d6625ec1cb83"
-  },
-  {
-    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-    "titlePt": "Sophos reduz em 96% o tempo de investigação de ameaças com OpenAI",
-    "url": "https://openai.com/index/sophos",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A Sophos, gigante de cibersegurança, anunciou que o uso do modelo OpenAI Daybreak cortou em 96% o tempo gasto por analistas em investigações de incidentes. A ferramenta automatiza triagem inicial e correlação de eventos, acelerando a resposta. O caso mostra um exemplo concreto de ROI com IA generativa em segurança. Times de SOC e engenheiros de segurança devem ficar atentos a essa nova onda de automação.",
-    "reasonEn": "Cybersecurity giant Sophos says using OpenAI's Daybreak model cut threat investigation time by 96%. The tool automates initial triage and event correlation, speeding up response. It is a concrete example of generative AI ROI inside a security product. SOC teams and security engineers should pay attention to this new wave of automation.",
-    "score": 0.6,
-    "tags": [
-      "segurança",
-      "openai",
-      "automação"
-    ],
-    "img": "img/570fe3204556.jpg",
-    "ts": 1791529200,
-    "addedTs": 1791564192,
-    "urlHash": "570fe3204556",
-    "titleHash": "5de102ea2485"
   }
 ]
