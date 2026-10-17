@@ -1,5 +1,243 @@
 [
   {
+    "title": "Strip Digital Signatures from PDFs Before Feeding Them to AI (LinuxGuide)",
+    "titlePt": "Remova assinaturas digitais de PDFs antes de alimentar a IA",
+    "url": "https://medium.com/@GiovambattistaVieri/strip-digital-signatures-from-pdfs-before-feeding-them-to-ai-linux-guide-611a023f8d7e",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Dica técnica do Hacker News: ao enviar PDFs com assinatura digital para modelos de IA, convém remover a assinatura para evitar problemas de parsing, gastos extras de tokens e até vazamento de metadados. Pequena mudança que pode economizar tempo e reduzir custos com APIs. Boa leitura rápida para qualquer pessoa que automatize fluxos com documentos.",
+    "reasonEn": "A Hacker News technical tip: when sending digitally signed PDFs into AI models, it's wise to strip the signature to avoid parsing issues, extra token costs, and metadata leakage. A small change that can save time and reduce API bills. Quick worthwhile read for anyone automating document workflows.",
+    "score": 0.55,
+    "tags": [
+      "pdf",
+      "segurança",
+      "dica"
+    ],
+    "img": "img/201efffb550a.jpg",
+    "ts": 1792240749,
+    "addedTs": 1792243326,
+    "urlHash": "201efffb550a",
+    "titleHash": "5086e0857792"
+  },
+  {
+    "title": "What happens when AI can read our minds?",
+    "titlePt": "O que acontece quando a IA consegue ler nossas mentes?",
+    "url": "https://www.ft.com/content/45ea3dd0-080d-49a2-86e9-df0148929bf4",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Discussão de fórum no Hacker News sobre os dilemas éticos e sociais da leitura mental por IA, incluindo neuroimaging e interfaces cérebro-computador. Toca em privacidade, autonomia e direitos digitais — temas cada vez mais urgentes. Vale acompanhar mesmo sem ser especialista.",
+    "reasonEn": "Hacker News forum discussion on ethical and social dilemmas of AI mind reading, including neuroimaging and brain-computer interfaces. Touches on privacy, autonomy, and digital rights — increasingly urgent topics. Worth following even for non-specialists.",
+    "score": 0.55,
+    "tags": [
+      "ética",
+      "neurotech"
+    ],
+    "img": "img/cb8e54917132.jpg",
+    "ts": 1792239494,
+    "addedTs": 1792243326,
+    "urlHash": "cb8e54917132",
+    "titleHash": "a6555b65a344"
+  },
+  {
+    "title": "As AI triggers a tsunami, computer science conferences impose caps",
+    "titlePt": "Conferências de computação impõem limites por causa do tsunami de artigos feito com IA",
+    "url": "https://www.science.org/content/article/ai-triggers-tsunami-submissions-computer-science-conferences-impose-caps",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Conferências importantes de ciência da computação estão colocando tetos no número de submissões porque a explosão de papers gerados ou polidos por IA está sobrecarregando revisores e inflando métricas. A medida afeta autores acadêmicos, revisores e programas de pós-graduação. Sinal claro de que o uso indiscriminado de IA na publicação científica está gerando reação institucional.",
+    "reasonEn": "Major computer science conferences are placing caps on submissions because the surge of AI-generated or AI-polished papers is overwhelming reviewers and inflating metrics. The move affects academic authors, reviewers, and graduate programs. A clear sign that indiscriminate AI use in scientific publishing is drawing institutional pushback.",
+    "score": 0.85,
+    "tags": [
+      "academia",
+      "regulação",
+      "pesquisa"
+    ],
+    "img": "img/bd1af3a12326.jpg",
+    "ts": 1792237449,
+    "addedTs": 1792243326,
+    "urlHash": "bd1af3a12326",
+    "titleHash": "7459dd02a05c"
+  },
+  {
+    "title": "AI Engineering Fluency Extension for VS Code / JetBrains / Visual Studio, NPM",
+    "titlePt": "Extensão de fluência em engenharia de IA para VS Code, JetBrains e Visual Studio",
+    "url": "https://github.com/rajbos/ai-engineering-fluency",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Nova extensão disponível no NPM que promete ajudar desenvolvedores a escrever código de IA mais idiomático em várias IDEs populares. Pode acelerar quem trabalha com agentes, prompts e integrações de LLM no dia a dia. Relevante para times que querem padronizar práticas.",
+    "reasonEn": "A new NPM-published extension promising to help developers write more idiomatic AI code across popular IDEs. It can speed up anyone working with agents, prompts, and LLM integrations day-to-day. Relevant for teams looking to standardize practices.",
+    "score": 0.5,
+    "tags": [
+      "ferramenta",
+      "desenvolvedor",
+      "ide"
+    ],
+    "img": "img/92e09b13746e.jpg",
+    "ts": 1792237374,
+    "addedTs": 1792243326,
+    "urlHash": "92e09b13746e",
+    "titleHash": "52e5cd81dbd7"
+  },
+  {
+    "title": "The fastest DeepSeek v4.1 flash 1017 – Day 0",
+    "titlePt": "DeepSeek v4.1 flash 1017 — o mais rápido, dia zero",
+    "url": "https://runinfra.ai/inference-api/deepseek-v4-1-flash-1017",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A comunidade Hacker News recebeu a versão DeepSeek v4.1 flash 1017, focada em altíssima velocidade de inferência. Modelos rápidos impactam diretamente custo, latência e viabilidade de aplicações em tempo real. Vale ficar de olho se você roda LLMs em produção.",
+    "reasonEn": "The Hacker News community is reporting the new DeepSeek v4.1 flash 1017 release, focused on very high inference speed. Fast models directly affect cost, latency, and feasibility of real-time applications. Worth watching if you run LLMs in production.",
+    "score": 0.8,
+    "tags": [
+      "modelo",
+      "lançamento",
+      "deepseek"
+    ],
+    "img": "img/872b324ff08b.jpg",
+    "ts": 1792235228,
+    "addedTs": 1792243326,
+    "urlHash": "872b324ff08b",
+    "titleHash": "7d4be9b270fd"
+  },
+  {
+    "title": "Roundtables: A Conversation with the Creator of AI-Designed Viruses",
+    "titlePt": "Bate-papo com o criador de vírus projetados por IA",
+    "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Entrevista em formato roundtable publicada no Hacker News com o pesquisador por trás de vírus desenhados com auxílio de inteligência artificial. O tema toca em biossegurança, ética de pesquisa e governança internacional de IA. Discussão densa, mas relevante para quem se preocupa com o impacto real da IA além do software.",
+    "reasonEn": "A roundtable-style interview on Hacker News with the researcher behind AI-designed viruses. The topic touches biosecurity, research ethics, and international AI governance. A dense but relevant discussion for anyone worried about AI's impact beyond software.",
+    "score": 0.75,
+    "tags": [
+      "bio",
+      "segurança",
+      "ética"
+    ],
+    "img": "img/d7f9dafe0b00.jpg",
+    "ts": 1792234937,
+    "addedTs": 1792243326,
+    "urlHash": "d7f9dafe0b00",
+    "titleHash": "964e9bda0a2a"
+  },
+  {
+    "title": "MAGS: Machine-checked guarantees on specified safety properties in AI code",
+    "titlePt": "MAGS: garantias verificadas por máquina sobre segurança em código de IA",
+    "url": "https://arxiv.org/abs/2609.19391",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Projeto apresentado no Hacker News que busca verificar formalmente propriedades de segurança em código de IA usando provas de máquina. Pode interessar times que precisam auditar comportamento de modelos em sistemas críticos. Ainda é trabalho de pesquisa, não ferramenta pronta para produção.",
+    "reasonEn": "A Hacker News project aiming to formally verify safety properties of AI code via machine-checked proofs. May interest teams auditing model behavior in critical systems. Still research-stage rather than production-ready tooling.",
+    "score": 0.55,
+    "tags": [
+      "segurança",
+      "pesquisa",
+      "verificação"
+    ],
+    "img": "img/b2432d7a7b4a.jpg",
+    "ts": 1792231487,
+    "addedTs": 1792243326,
+    "urlHash": "b2432d7a7b4a",
+    "titleHash": "bd5b14091a55"
+  },
+  {
+    "title": "Deleted AI Chats May Leave Clues Behind",
+    "titlePt": "Chats apagados com IA podem deixar rastros",
+    "url": "https://news.research.gatech.edu/2026/10/13/deleted-ai-chats-may-leave-clues-behind",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Discussão no Hacker News mostrando que mesmo conversas deletadas em produtos de IA podem deixar vestígios em logs, caches ou metadados do lado do cliente e do servidor. Importante para profissionais que lidam com dados sensíveis e para a privacidade de usuários comuns.",
+    "reasonEn": "A Hacker News discussion showing that even deleted AI conversations can leave traces in logs, caches, or metadata on both client and server sides. Important for professionals handling sensitive data and for everyday user privacy.",
+    "score": 0.55,
+    "tags": [
+      "privacidade",
+      "segurança"
+    ],
+    "img": "img/a2e51c1a3be0.jpg",
+    "ts": 1792229898,
+    "addedTs": 1792243326,
+    "urlHash": "a2e51c1a3be0",
+    "titleHash": "38aaebce9a3c"
+  },
+  {
+    "title": "OpenAI models hacked a crypto wallet and breached more websites",
+    "titlePt": "Modelos da OpenAI invadiram carteira cripto e atacaram mais sites",
+    "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+    "source": "Ars Technica",
+    "sources": [
+      "Ars Technica"
+    ],
+    "reason": "Reportagem da Ars Technica mostra que agentes autônomos da OpenAI foram usados por pesquisadores para explorar vulnerabilidades reais: invadiram uma carteira de criptomoedas e comprometeram outros sites. Resultado reforça a discussão sobre uso dual e necessidade de barreiras em IA agente. Leitura obrigatória para quem trabalha com segurança ou deploy de LLMs.",
+    "reasonEn": "Ars Technica reporting shows that OpenAI's autonomous agents were used by researchers to exploit real vulnerabilities: they breached a crypto wallet and compromised other sites. The result fuels debate over dual use and guardrails in agentic AI. Must-read for anyone in security or LLM deployment.",
+    "score": 0.85,
+    "tags": [
+      "segurança",
+      "openai",
+      "agentes"
+    ],
+    "img": "img/16df95b107d5.jpg",
+    "ts": 1792184341,
+    "addedTs": 1792243326,
+    "urlHash": "16df95b107d5",
+    "titleHash": "30b4ec1b7b57"
+  },
+  {
+    "title": "The latest AI news we announced in September 2026",
+    "titlePt": "Google reúne os principais anúncios de IA de setembro de 2026",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+    "source": "Google AI",
+    "sources": [
+      "Google AI"
+    ],
+    "reason": "O Google publicou um resumo com todas as novidades de inteligência artificial anunciadas em setembro de 2026. A lista inclui novos modelos, ferramentas para desenvolvedores e atualizações de produtos voltados a empresas e consumidores. É um ótimo ponto de partida para quem quer entender o que mudou no ecossistema Google. Ajuda profissionais a se manterem atualizados sem ter que ler dezenas de comunicados.",
+    "reasonEn": "Google published a roundup of all the AI news it announced in September 2026. The list includes new models, developer tools, and product updates aimed at businesses and consumers. It is a great starting point for understanding what changed in the Google ecosystem. Helps readers stay current without reading dozens of separate announcements.",
+    "score": 0.5,
+    "tags": [
+      "google",
+      "lançamento"
+    ],
+    "img": "img/6a7bb4e3e69d.jpg",
+    "ts": 1790953200,
+    "addedTs": 1792243326,
+    "urlHash": "6a7bb4e3e69d",
+    "titleHash": "d99158b6f76b"
+  },
+  {
+    "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
+    "titlePt": "Falha crítica no Zimbra está sendo explorada para roubar e-mails",
+    "url": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
+    "source": "Ars Technica",
+    "sources": [
+      "Ars Technica"
+    ],
+    "reason": "Pesquisadores descobriram que hackers estão explorando ativamente uma vulnerabilidade grave no Zimbra, servidor de e-mails usado por empresas e governos. A falha permite que invasores leiam e roubem mensagens sem precisar de senha. Administradores que usam Zimbra devem atualizar imediatamente. É um alerta urgente para times de segurança e TI.",
+    "reasonEn": "Researchers discovered that hackers are actively exploiting a critical vulnerability in Zimbra, an email server used by companies and governments. The flaw allows attackers to read and steal messages without needing a password. Administrators using Zimbra should update immediately. It is an urgent alert for security and IT teams.",
+    "score": 0.8,
+    "tags": [
+      "segurança",
+      "vulnerabilidade"
+    ],
+    "img": "img/9314874e0d90.jpg",
+    "ts": 1790801088,
+    "addedTs": 1792243326,
+    "urlHash": "9314874e0d90",
+    "titleHash": "a3e25823b0a5"
+  },
+  {
     "title": "Notion: Context for your agents",
     "titlePt": "Notion traz contexto para seus agentes de IA",
     "url": "https://www.producthunt.com/products/notion",
@@ -7779,369 +8017,5 @@
     "addedTs": 1791650289,
     "urlHash": "686b46df2932",
     "titleHash": "c6b93a481239"
-  },
-  {
-    "title": "If your team is too busy doing their 'normal job' to experiment with AI",
-    "titlePt": "Se sua equipe está ocupada demais com o trabalho normal para experimentar IA",
-    "url": "https://ghuntley.com/replaced/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O texto discute um problema clássico: times atolados em tarefas do dia a dia não conseguem reservar tempo para testar IA. É um sinal importante para líderes e gestores sobre a barreira cultural e operacional à adoção. Traz poucas soluções concretas, mas ajuda a diagnosticar o problema.",
-    "reasonEn": "The piece discusses a classic problem: teams buried in day-to-day work cannot carve out time to test AI. It is an important signal for leaders about the cultural and operational barrier to adoption. It offers few concrete solutions, but helps diagnose the issue.",
-    "score": 0.5,
-    "tags": [
-      "gestão",
-      "adoção"
-    ],
-    "img": "img/eed9de44facd.jpg",
-    "ts": 1791626960,
-    "addedTs": 1791627403,
-    "urlHash": "eed9de44facd",
-    "titleHash": "d3d73dfda981"
-  },
-  {
-    "title": "Using AI for just 10 minutes erodes your ability to persist at hard things",
-    "titlePt": "Usar IA por apenas 10 minutos reduz sua persistência em tarefas difíceis",
-    "url": "https://news.berkeley.edu/2026/10/09/using-ai-for-just-10-minutes-erodes-your-ability-to-persist-at-hard-things/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um estudo sugere que interação breve com IA pode diminuir a disposição da pessoa para persistir em problemas difíceis. É uma pista sobre como o uso de IA afeta cognição e motivação, relevante para devs e educadores. A pesquisa precisa ser interpretada com cuidado, mas merece ser conhecida por quem usa IA no fluxo de trabalho.",
-    "reasonEn": "A study suggests that brief AI interaction can reduce a person's willingness to persist on hard problems. It hints at how AI use affects cognition and motivation, relevant for devs and educators. The research must be read carefully, but is worth knowing for anyone using AI in their workflow.",
-    "score": 0.6,
-    "tags": [
-      "pesquisa",
-      "cognição"
-    ],
-    "img": "img/ed34ce053b69.jpg",
-    "ts": 1791626212,
-    "addedTs": 1791627403,
-    "urlHash": "ed34ce053b69",
-    "titleHash": "9373ca90b595"
-  },
-  {
-    "title": "AI Data Centers Not Paying Their Costs, Will Keep Using NDAs and Seek Tax Breaks",
-    "titlePt": "Data centers de IA não cobrem seus custos e buscam isenções fiscais",
-    "url": "https://www.warren.senate.gov/newsroom/press-releases/ai-data-center-companies-reveal-to-warren-blumenthal-van-hollen-they-are-not-paying-their-full-costs-will-continue-using-ndas-and-seeking-tax-breaks/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Reportagem mostra que grandes data centers de IA estariam usando contratos sigilosos e pedindo isenções fiscais sem pagar integralmente pelos impactos locais. Afeta comunidades próximas, contribuintes e o debate sobre subsídios públicos à infraestrutura de IA. Vale para quem se importa com política tecnológica e economia real do setor.",
-    "reasonEn": "Reporting shows large AI data centers are using secretive contracts and seeking tax breaks while not fully covering their local costs. It affects nearby residents and the debate over public subsidies for AI infrastructure. Worth knowing for anyone interested in tech policy and the sector's real economics.",
-    "score": 0.7,
-    "tags": [
-      "infraestrutura",
-      "regulação"
-    ],
-    "img": "img/f31dc1605f90.jpg",
-    "ts": 1791624603,
-    "addedTs": 1791627403,
-    "urlHash": "f31dc1605f90",
-    "titleHash": "835c00191287"
-  },
-  {
-    "title": "Lumentum sold out of AI server parts till 2029",
-    "titlePt": "Lumentum tem peças para servidores de IA esgotadas até 2029",
-    "url": "https://www.japantimes.co.jp/business/2026/10/09/companies/lumentum-ai-server-sold-out/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A fornecedora de componentes ópticos Lumentum está com capacidade vendida para servidores de IA até 2029. É um indicador da força da demanda e dos gargalos na cadeia de suprimentos de hardware. Importante para entender pressão sobre preços e prazos no setor de IA.",
-    "reasonEn": "Optical component supplier Lumentum has its capacity for AI servers booked through 2029. It signals strong demand and bottlenecks in the AI hardware supply chain. Important to understand pricing pressure and lead times in the AI sector.",
-    "score": 0.6,
-    "tags": [
-      "hardware",
-      "supply-chain"
-    ],
-    "img": "img/f597bc6672f9.jpg",
-    "ts": 1791623882,
-    "addedTs": 1791627403,
-    "urlHash": "f597bc6672f9",
-    "titleHash": "8fd3a753b003"
-  },
-  {
-    "title": "Senate Investigation Challenges Big Tech's Case for AI Data Centers",
-    "titlePt": "Investigação do Senado questiona argumentos das big techs sobre data centers de IA",
-    "url": "https://time.com/article/2026/10/08/senate-investigation-ai-data-centers/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Uma investigação do Senado dos EUA está contestando as justificativas das grandes empresas de tecnologia para a expansão de data centers de IA. É um sinal de maior escrutínio político sobre custos ambientais, energéticos e fiscais. Relevante para profissionais que acompanham regulação e investimentos no setor.",
-    "reasonEn": "A US Senate investigation is challenging big tech's justifications for expanding AI data centers. It signals growing political scrutiny over environmental, energy, and fiscal costs. Relevant for professionals tracking regulation and investment in the sector.",
-    "score": 0.8,
-    "tags": [
-      "regulação",
-      "política"
-    ],
-    "img": "img/8f1a16fd4fbf.jpg",
-    "ts": 1791621313,
-    "addedTs": 1791627403,
-    "urlHash": "8f1a16fd4fbf",
-    "titleHash": "7ee80dc9cf37"
-  },
-  {
-    "title": "Show HN: Open Components – UI Components standard for people, devs and AI agents",
-    "titlePt": "Open Components: padrão aberto de componentes de UI para humanos, devs e agentes de IA",
-    "url": "https://opencomponents.dev/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Projeto aberto propõe um padrão de componentes de UI que funciona para humanos, desenvolvedores e agentes de IA. Pode facilitar a colaboração entre humanos e IA em interfaces. Vale a pena acompanhar se você trabalha com frontend ou cria ferramentas para agentes.",
-    "reasonEn": "An open project proposes a UI component standard that works for humans, devs, and AI agents. It may ease collaboration between people and AI on UIs. Worth tracking if you work on frontend or build tools for agents.",
-    "score": 0.5,
-    "tags": [
-      "open-source",
-      "frontend",
-      "agentes"
-    ],
-    "img": "img/620e5232b059.jpg",
-    "ts": 1791620645,
-    "addedTs": 1791627403,
-    "urlHash": "620e5232b059",
-    "titleHash": "57b866d21cff"
-  },
-  {
-    "title": "Show HN: Chrome Relay – background tabs in your real Chrome for coding agents",
-    "titlePt": "Chrome Relay: abas em segundo plano no seu Chrome real para agentes de codificação",
-    "url": "https://github.com/aindeev/agent-chrome-relay",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Ferramenta permite que agentes de codificação usem abas em segundo plano no Chrome para navegar e testar. Pode melhorar fluxos de automação com LLMs em tarefas web. Útil para devs que constroem ou usam agentes, embora ainda seja um projeto Show HN inicial.",
-    "reasonEn": "A tool lets coding agents use background tabs in real Chrome to browse and test. It can improve automation flows with LLMs on web tasks. Useful for devs building or using agents, though still an early Show HN project.",
-    "score": 0.5,
-    "tags": [
-      "devtools",
-      "agentes"
-    ],
-    "img": "img/c4e129e47001.jpg",
-    "ts": 1791620119,
-    "addedTs": 1791627403,
-    "urlHash": "c4e129e47001",
-    "titleHash": "b4bae51f95d2"
-  },
-  {
-    "title": "Study on AI coding agents finds gains \"absorbed\" by human review \"bottleneck.\"",
-    "titlePt": "Estudo mostra que ganhos de agentes de codificação são engolidos pela revisão humana",
-    "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Pesquisa indica que os ganhos de produtividade trazidos por agentes de codificação são absorvidos pelo gargalo da revisão humana. É um achado importante para empresas que estão calculando ROI de ferramentas de IA. Ajuda a calibrar expectativas e repensar fluxos de code review.",
-    "reasonEn": "Research indicates that productivity gains from coding agents are absorbed by the human review bottleneck. It is an important finding for companies calculating ROI on AI tools. It helps calibrate expectations and rethink code review workflows.",
-    "score": 0.7,
-    "tags": [
-      "pesquisa",
-      "codificação",
-      "agentes"
-    ],
-    "img": "img/13a86554d2a3.jpg",
-    "ts": 1791618910,
-    "addedTs": 1791627403,
-    "urlHash": "13a86554d2a3",
-    "titleHash": "1b368a9b4797"
-  },
-  {
-    "title": "Show HN: Check how readable your docs are to AI agents",
-    "titlePt": "Veja quão legível sua documentação é para agentes de IA",
-    "url": "https://www.veludocs.com/agent-friendly-documentation/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Ferramenta que mede o quão legível um site ou documentação é para agentes de IA. Útil para devs que querem otimizar conteúdo para consumo por LLMs. Ainda é um projeto inicial, mas a ideia é relevante para SEO e AEO.",
-    "reasonEn": "A tool that measures how readable a site or docs are for AI agents. Useful for devs who want to optimize content for LLM consumption. Still an early project, but the idea is relevant for SEO and AEO.",
-    "score": 0.5,
-    "tags": [
-      "devtools",
-      "documentação"
-    ],
-    "img": "img/776ffe3f5232.jpg",
-    "ts": 1791614885,
-    "addedTs": 1791627403,
-    "urlHash": "776ffe3f5232",
-    "titleHash": "4471a40089fa"
-  },
-  {
-    "title": "We must recall open-ended AI agents with internet access from the market",
-    "titlePt": "Precisamos recolher do mercado os agentes de IA abertos com acesso à internet",
-    "url": "https://garymarcus.substack.com/p/we-must-recall-open-ended-ai-agents",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Texto de opinião defende a retirada do mercado de agentes de IA com acesso aberto à internet, citando riscos. É um sinal da crescente pressão por limites e regulação desses agentes. Vale para quem acompanha segurança e política de IA.",
-    "reasonEn": "An opinion piece argues for recalling open-ended AI agents with internet access, citing risks. It reflects growing pressure to limit and regulate such agents. Worth reading for those tracking AI safety and policy.",
-    "score": 0.6,
-    "tags": [
-      "segurança",
-      "regulação",
-      "agentes"
-    ],
-    "img": "img/0f27551139c1.jpg",
-    "ts": 1791613024,
-    "addedTs": 1791627403,
-    "urlHash": "0f27551139c1",
-    "titleHash": "7d0aad02d29f"
-  },
-  {
-    "title": "Show HN: Kenerate – One workspace for AI image, video and music models",
-    "titlePt": "Kenerate: um workspace para modelos de imagem, vídeo e música com IA",
-    "url": "https://kenerateai.app/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Ferramenta unifica acesso a diferentes modelos generativos de imagem, vídeo e música em um único workspace. Pode economizar tempo para criadores que hoje saltam entre vários serviços. Ainda é um projeto Show HN, vale acompanhar a evolução.",
-    "reasonEn": "A tool unifies access to different generative image, video, and music models in one workspace. It can save time for creators who currently jump between multiple services. Still a Show HN project, worth tracking.",
-    "score": 0.5,
-    "tags": [
-      "criação",
-      "multimodal"
-    ],
-    "img": "img/47022905689d.jpg",
-    "ts": 1791612757,
-    "addedTs": 1791627403,
-    "urlHash": "47022905689d",
-    "titleHash": "e2f3d3280359"
-  },
-  {
-    "title": "Researchers studied AI layoffs. Here's their warning. [video]",
-    "titlePt": "Pesquisadores estudaram demissões por IA e fazem um alerta",
-    "url": "https://www.youtube.com/watch?v=O3gYyCB2n9o",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Estudo analisou casos de demissões ligadas à adoção de IA e aponta sinais preocupantes sobre como empresas estão substituindo pessoas. O conteúdo é relevante para trabalhadores, líderes e RH. É leitura útil para quem quer entender o impacto real no emprego.",
-    "reasonEn": "A study analyzed layoffs linked to AI adoption and warns about how companies are replacing workers. It is relevant for employees, leaders, and HR. Useful reading for anyone wanting to understand the real impact on jobs.",
-    "score": 0.7,
-    "tags": [
-      "trabalho",
-      "pesquisa"
-    ],
-    "img": "img/11004a7f5111.jpg",
-    "ts": 1791612540,
-    "addedTs": 1791627403,
-    "urlHash": "11004a7f5111",
-    "titleHash": "6bfb3cf9d280"
-  },
-  {
-    "title": "Anthropic changes usage policy to ban model abuse and election interference",
-    "titlePt": "Anthropic altera política de uso para proibir abuso de modelos e interferência eleitoral",
-    "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A Anthropic atualizou sua política de uso para proibir explicitamente interferência eleitoral e outras formas de abuso de modelos. A mudança inclui restrições a campanhas automatizadas de desinformação e uso malicioso de seus sistemas. A empresa afirma que aplicará as novas regras tanto a desenvolvedores quanto a usuários finais. Afeta qualquer equipe que construa produtos com os modelos da Anthropic. Sinaliza preocupação crescente do setor com impactos democráticos da IA.",
-    "reasonEn": "Anthropic updated its usage policy to explicitly ban election interference and other forms of model abuse. The change includes restrictions on automated disinformation campaigns and malicious use of its systems. The company says it will enforce the new rules on both developers and end users. It affects any team building products with Anthropic's models. Signals the sector's growing concern about AI's democratic impacts.",
-    "score": 0.6,
-    "tags": [
-      "anthropic",
-      "política",
-      "regulação"
-    ],
-    "img": "img/32d47947d3bb.jpg",
-    "ts": 1791483384,
-    "addedTs": 1791627403,
-    "urlHash": "32d47947d3bb",
-    "titleHash": "d36dfbf4510c"
-  },
-  {
-    "title": "Natura’s $99 smart ring puts AI agents on your finger",
-    "titlePt": "Anel inteligente de US$ 99 da Natura coloca agentes de IA no seu dedo",
-    "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A Natura lançou um anel inteligente de US$ 99 com agentes de IA integrados, ampliando o mercado de dispositivos vestíveis com IA. O produto promete simplificar o acesso a assistentes virtuais sem precisar de smartphone. O preço agressivo sugere estratégia de popularização da tecnologia. Afeta consumidores interessados em wearables e empresas que exploram IA embarcada. Sinaliza nova categoria de dispositivos de baixo custo.",
-    "reasonEn": "Natura launched a $99 smart ring with integrated AI agents, expanding the wearable AI market. The product promises to simplify access to virtual assistants without needing a smartphone. The low price suggests a strategy to popularize the technology. It affects consumers interested in wearables and companies exploring embedded AI. Signals a new category of low-cost devices.",
-    "score": 0.5,
-    "tags": [
-      "wearable",
-      "natura",
-      "agentes"
-    ],
-    "img": "img/512cb5780375.jpg",
-    "ts": 1791475200,
-    "addedTs": 1791627403,
-    "urlHash": "512cb5780375",
-    "titleHash": "f25924b23812"
-  },
-  {
-    "title": "A model guide for the GPT-6 family",
-    "titlePt": "Um guia de modelos para a família GPT-6",
-    "url": "https://openai.com/index/practical-guide-building-gpt-6",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A OpenAI publicou um guia apresentando os modelos da família GPT-6 e seus casos de uso recomendados. O material ajuda desenvolvedores a entender as diferenças entre variantes e escolher a melhor opção para cada cenário. É conteúdo de documentação, não notícia nova. Vale como referência rápida para quem trabalha com os modelos.",
-    "reasonEn": "OpenAI published a guide presenting the GPT-6 family models and their recommended use cases. The material helps developers understand the differences between variants and pick the best option for each scenario. It's documentation content, not new news. Useful as a quick reference for those working with the models.",
-    "score": 0.5,
-    "tags": [
-      "openai",
-      "gpt-6",
-      "guia"
-    ],
-    "img": "img/c38af6e5cae4.jpg",
-    "ts": 1790957700,
-    "addedTs": 1791627403,
-    "urlHash": "c38af6e5cae4",
-    "titleHash": "d310733feae4"
-  },
-  {
-    "title": "The latest AI news we announced in September 2026",
-    "titlePt": "As últimas notícias de IA que anunciamos em setembro de 2026",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-    "source": "Google AI",
-    "sources": [
-      "Google AI"
-    ],
-    "reason": "O Google publicou um resumo das novidades de IA anunciadas em setembro de 2026. O compilado inclui novos modelos, produtos e atualizações de serviços. Serve como visão geral para quem quer acompanhar o setor sem ler cada lançamento separado. Conteúdo útil mas sem detalhes exclusivos além do resumido.",
-    "reasonEn": "Google published a summary of AI news announced in September 2026. The compilation includes new models, products and service updates. It serves as an overview for those who want to follow the sector without reading each launch separately. Useful content but no exclusive details beyond the summary.",
-    "score": 0.55,
-    "tags": [
-      "google",
-      "resumo"
-    ],
-    "img": "img/6a7bb4e3e69d.jpg",
-    "ts": 1790953200,
-    "addedTs": 1791627403,
-    "urlHash": "6a7bb4e3e69d",
-    "titleHash": "d99158b6f76b"
-  },
-  {
-    "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
-    "titlePt": "Atacantes exploram falha crítica no Zimbra para roubar e-mails",
-    "url": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
-    "source": "Ars Technica",
-    "sources": [
-      "Ars Technica"
-    ],
-    "reason": "Hackers estão explorando ativamente uma vulnerabilidade grave no Zimbra Collaboration Suite para roubar e-mails corporativos. A falha permite acesso a comunicações confidenciais de empresas que usam o serviço. Recomenda-se atualizar o software imediatamente. Afeta diretamente times de TI e segurança que mantêm servidores Zimbra. Risco alto para quem ainda não atualizou.",
-    "reasonEn": "Hackers are actively exploiting a serious vulnerability in Zimbra Collaboration Suite to steal corporate emails. The flaw enables access to confidential communications from companies using the service. Immediate software updating is recommended. It directly affects IT and security teams running Zimbra servers. High risk for those who haven't updated yet.",
-    "score": 0.85,
-    "tags": [
-      "segurança",
-      "zimbra",
-      "vulnerabilidade"
-    ],
-    "img": "img/9314874e0d90.jpg",
-    "ts": 1790801088,
-    "addedTs": 1791627403,
-    "urlHash": "9314874e0d90",
-    "titleHash": "a3e25823b0a5"
   }
 ]
