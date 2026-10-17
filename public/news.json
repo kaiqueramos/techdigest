@@ -1,5 +1,313 @@
 [
   {
+    "title": "Craft Agents",
+    "titlePt": "Craft Agents: nova ferramenta para criar agentes de IA",
+    "url": "https://www.producthunt.com/products/craft-agents",
+    "source": "ProductHunt",
+    "sources": [
+      "ProductHunt"
+    ],
+    "reason": "Um novo produto chamado Craft Agents foi listado no Product Hunt, voltado para ajudar usuários a montar e configurar agentes de IA. A ferramenta chega em um mercado já bem concorrido, com promessas de simplificar fluxos de trabalho automatizados. O lançamento interessa principalmente a desenvolvedores e times de produto que querem experimentar novas opções. Ainda não há dados públicos amplos sobre adoção ou diferenciais técnicos.",
+    "reasonEn": "A new product called Craft Agents was listed on Product Hunt, focused on helping users build and configure AI agents. The tool enters an already crowded market, promising to simplify automated workflows. The launch mainly interests developers and product teams looking to try new options. There are no broad public data yet on adoption or technical differentiators.",
+    "score": 0.55,
+    "tags": [
+      "agentes",
+      "lançamento",
+      "ferramenta"
+    ],
+    "img": "img/cf5829efbae7.jpg",
+    "ts": 1792266349,
+    "addedTs": 1792266753,
+    "urlHash": "cf5829efbae7",
+    "titleHash": "5c18795da7d6"
+  },
+  {
+    "title": "Eight and One Predictions for AI in 2030",
+    "titlePt": "Oito e uma previsões para a IA em 2030",
+    "url": "https://philippdubach.com/posts/ai-in-2030/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Hacker News publicou uma discussão reunindo oito previsões e uma 'previsão bônus' sobre o futuro da inteligência artificial até 2030. O texto mistura otimismo com alertas sobre regulação, deslocamento de empregos e capacidade técnica. É uma boa leitura para quem tenta se planejar a longo prazo, embora previsões desse tipo sempre carreguem incerteza. Desenvolvedores e gestores devem considerar os cenários como ponto de partida, não como certeza.",
+    "reasonEn": "Hacker News published a discussion gathering eight predictions plus a bonus one about the future of AI by 2030. The piece mixes optimism with warnings about regulation, job displacement, and technical capability. It is good reading for anyone trying to plan long term, although such predictions always carry uncertainty. Developers and managers should treat the scenarios as starting points, not certainties.",
+    "score": 0.5,
+    "tags": [
+      "previsões",
+      "tendências",
+      "ia"
+    ],
+    "img": "img/c48e8e8da018.jpg",
+    "ts": 1792266339,
+    "addedTs": 1792266753,
+    "urlHash": "c48e8e8da018",
+    "titleHash": "80c82c49eef2"
+  },
+  {
+    "title": "Three LLM judges couldn't tell an AI agent's real memory from a counterfeit one",
+    "titlePt": "Três juízes LLM não distinguiram memória genuína de agente de uma falsificada",
+    "url": "https://kairos-experiment.com/checks.html",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Pesquisadores testaram se três modelos de linguagem usados como avaliadores conseguiam perceber a diferença entre a memória real de um agente de IA e uma memória forjada. Os juízes falharam em identificar a adulteração, mostrando uma vulnerabilidade relevante. O resultado preocupa porque sistemas automáticos de auditoria estão sendo adotados para validar comportamento de agentes em produção. Times de segurança e plataformas que usam múltiplos agentes devem acompanhar o tema de perto.",
+    "reasonEn": "Researchers tested whether three language models used as judges could tell the difference between an AI agent's real memory and a forged one. The judges failed to spot the tampering, revealing a relevant vulnerability. The finding is concerning because automated auditing systems are being adopted to validate agent behavior in production. Security teams and platforms running multiple agents should follow this topic closely.",
+    "score": 0.75,
+    "tags": [
+      "segurança",
+      "pesquisa",
+      "memória"
+    ],
+    "img": "img/e3db33bcaf75.jpg",
+    "ts": 1792265486,
+    "addedTs": 1792266753,
+    "urlHash": "e3db33bcaf75",
+    "titleHash": "09415a187629"
+  },
+  {
+    "title": "Israel makes propaganda video featuring AI generated IAMDDB without her consent",
+    "titlePt": "Israel usa IA para gerar artista em vídeo de propaganda sem consentimento",
+    "url": "https://twitter.com/beeechimblind/status/2111227318534279501",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O governo de Israel produziu um vídeo de propaganda com uma versão da artista IAMDDB gerada por inteligência artificial, sem pedir consentimento a ela. O caso reacende o debate sobre limites éticos de deepfakes, especialmente envolvendo figuras públicas e direito de imagem. Artistas, músicos e outros profissionais criativos são os mais expostos a esse tipo de abuso. Plataformas e reguladores ainda correm atrás da prática.",
+    "reasonEn": "The Israeli government produced a propaganda video featuring an AI-generated version of artist IAMDDB without her consent. The case reignites debate over ethical limits of deepfakes, especially involving public figures and image rights. Artists, musicians, and other creative professionals are most exposed to this kind of abuse. Platforms and regulators are still playing catch-up with the practice.",
+    "score": 0.7,
+    "tags": [
+      "ética",
+      "deepfake",
+      "música"
+    ],
+    "img": "img/af4b7e88df06.jpg",
+    "ts": 1792265203,
+    "addedTs": 1792266753,
+    "urlHash": "af4b7e88df06",
+    "titleHash": "526aab695dfc"
+  },
+  {
+    "title": "CrewTower Mod for Claude Code",
+    "titlePt": "CrewTower: módulo para Claude Code",
+    "url": "https://www.producthunt.com/products/crew-tower",
+    "source": "ProductHunt",
+    "sources": [
+      "ProductHunt"
+    ],
+    "reason": "Um novo módulo chamado CrewTower foi listado no Product Hunt, prometendo estender as capacidades do Claude Code. O tipo de recurso exato não foi amplamente detalhado na listagem, mas a ferramenta mira desenvolvedores que já usam o ecossistema Claude. Pode interessar quem busca mais produtividade ao trabalhar com o assistente da Anthropic. Vale acompanhar para ver se ganha tração com a comunidade.",
+    "reasonEn": "A new module called CrewTower was listed on Product Hunt, promising to extend Claude Code's capabilities. The exact feature set wasn't widely detailed in the listing, but the tool targets developers already in the Claude ecosystem. It may interest those seeking more productivity when working with Anthropic's assistant. Worth tracking to see if it gains traction with the community.",
+    "score": 0.5,
+    "tags": [
+      "desenvolvimento",
+      "extensão",
+      "ferramenta"
+    ],
+    "img": "img/85de25504b4d.jpg",
+    "ts": 1792265128,
+    "addedTs": 1792266753,
+    "urlHash": "85de25504b4d",
+    "titleHash": "a2d13e0edcb3"
+  },
+  {
+    "title": "Show HN: InBox Wall – A local-first, open-source email sanitizer for AI agents",
+    "titlePt": "InBox Wall: saneador de e-mail local e open-source para agentes de IA",
+    "url": "https://github.com/Annora998/inboxwall",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um desenvolvedor publicou no Hacker News o InBox Wall, um projeto open-source e local-first para limpar e proteger e-mails antes que agentes de IA os leiam. A ideia é reduzir riscos de injeção de prompts e vazamento de dados sensíveis. É uma ferramenta útil para quem deixa agentes acessarem caixas de entrada automaticamente. O foco em execução local também agrada quem tem preocupações de privacidade.",
+    "reasonEn": "A developer published InBox Wall on Hacker News, an open-source, local-first project to sanitize and protect emails before AI agents read them. The goal is to reduce risks of prompt injection and sensitive data leaks. It is a useful tool for anyone letting agents access inboxes automatically. The local execution focus also appeals to those with privacy concerns.",
+    "score": 0.7,
+    "tags": [
+      "segurança",
+      "email",
+      "open-source"
+    ],
+    "img": "img/b0f3837fc3dc.jpg",
+    "ts": 1792264511,
+    "addedTs": 1792266753,
+    "urlHash": "b0f3837fc3dc",
+    "titleHash": "f35159e96656"
+  },
+  {
+    "title": "Selfhosting my AI chats: more privacy and sovereignty",
+    "titlePt": "Autohospedando minhas conversas com IA: mais privacidade e soberania",
+    "url": "https://janlukas.blog/thoughts/2026/10/selfhosting-ai-chats",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um desenvolvedor compartilhou no Hacker News como passou a hospedar localmente seu histórico de conversas com IA, em vez de depender exclusivamente de serviços na nuvem. A motivação principal é privacidade e controle dos próprios dados. O texto descreve os trade-offs técnicos e práticos encontrados no caminho. É leitura útil para quem quer reduzir dependência de proveedores e manter mais soberania sobre seus dados.",
+    "reasonEn": "A developer shared on Hacker News how they started self-hosting their AI chat history instead of relying entirely on cloud services. The main motivation is privacy and control over their own data. The post describes the technical and practical trade-offs encountered along the way. It is useful reading for anyone wanting to reduce vendor dependency and keep more sovereignty over their data.",
+    "score": 0.65,
+    "tags": [
+      "privacidade",
+      "self-hosting",
+      "ia"
+    ],
+    "img": "img/636d5e94ce7a.jpg",
+    "ts": 1792264103,
+    "addedTs": 1792266753,
+    "urlHash": "636d5e94ce7a",
+    "titleHash": "a8bc362a1dae"
+  },
+  {
+    "title": "Nono: Agent runtime security. Kernel-enforced boundaries for AI agents",
+    "titlePt": "Nono: segurança em tempo de execução para agentes de IA com barreiras no kernel",
+    "url": "https://nono.sh",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Foi anunciado o Nono, um sistema de segurança focado em impor limites rígidos para agentes de IA no nível do kernel do sistema operacional. A proposta é impedir que agentes descontrolados acessem recursos sensíveis do computador, mesmo se forem enganados por um prompt malicioso. O tema é cada vez mais relevante à medida que agentes ganham mais autonomia. Desenvolvedores que criam agentes com acesso amplo ao sistema devem avaliar a ferramenta.",
+    "reasonEn": "Nono was announced as a security system focused on enforcing strict boundaries for AI agents at the operating system kernel level. The proposal is to prevent runaway agents from accessing sensitive computer resources even if tricked by a malicious prompt. The topic is increasingly relevant as agents gain more autonomy. Developers building agents with broad system access should evaluate the tool.",
+    "score": 0.75,
+    "tags": [
+      "segurança",
+      "agentes",
+      "kernel"
+    ],
+    "img": "img/8309e8f084a7.jpg",
+    "ts": 1792263502,
+    "addedTs": 1792266753,
+    "urlHash": "8309e8f084a7",
+    "titleHash": "3696f96257f3"
+  },
+  {
+    "title": "AI Can Write the Code. Who Verifies It?",
+    "titlePt": "IA já escreve código. Quem verifica?",
+    "url": "https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um texto recente no Hacker News discute o problema crescente de validar código gerado por IA. Com mais empresas adotando assistentes de programação, a checagem humana virou gargalo e ponto crítico de segurança. O artigo defende fluxos formais de verificação em vez de aceitar cegamente a saída dos modelos. Desenvolvedores seniores, líderes técnicos e equipes de segurança precisam repensar seus processos de revisão.",
+    "reasonEn": "A recent Hacker News post discusses the growing problem of validating AI-generated code. As more companies adopt coding assistants, human checking has become a bottleneck and a critical security point. The piece argues for formal verification flows instead of blindly trusting model output. Senior developers, tech leads, and security teams need to rethink their review processes.",
+    "score": 0.8,
+    "tags": [
+      "código",
+      "verificação",
+      "desenvolvimento"
+    ],
+    "img": "img/cc944646af06.jpg",
+    "ts": 1792261890,
+    "addedTs": 1792266753,
+    "urlHash": "cc944646af06",
+    "titleHash": "9e0d91adcfef"
+  },
+  {
+    "title": "Local-first AI proxy with keys in your OS vault",
+    "titlePt": "Proxy de IA local-first com chaves guardadas no cofre do sistema",
+    "url": "https://www.uptokey.com/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Foi publicado um proxy de IA que funciona localmente e armazena chaves de API dentro do cofre de credenciais do sistema operacional, como Keychain ou Credential Manager. O objetivo é evitar que tokens sensíveis fiquem em arquivos de configuração expostos. A ferramenta simplifica o uso de vários modelos sem abrir mão de segurança básica. É útil para desenvolvedores que querem rodar agentes em máquinas pessoais ou de trabalho.",
+    "reasonEn": "An AI proxy was published that runs locally and stores API keys inside the operating system credential vault, such as Keychain or Credential Manager. The goal is to prevent sensitive tokens from sitting in exposed config files. The tool simplifies using multiple models without giving up basic security. It is useful for developers running agents on personal or work machines.",
+    "score": 0.65,
+    "tags": [
+      "privacidade",
+      "proxy",
+      "desenvolvimento"
+    ],
+    "img": "img/2610d8b21698.jpg",
+    "ts": 1792261379,
+    "addedTs": 1792266753,
+    "urlHash": "2610d8b21698",
+    "titleHash": "b36e55d0e0f5"
+  },
+  {
+    "title": "Show HN: Pay-per-Crawl – make AI crawlers pay per page in USDC, for 10 stacks",
+    "titlePt": "Pay-per-Crawl: faça rastreadores de IA pagarem por página em USDC",
+    "url": "https://forgemesh.io/blog/pay-per-crawl-every-stack",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um desenvolvedor mostrou no Hacker News o Pay-per-Crawl, um sistema que cobra de crawlers de IA em USDC, moeda estável, para permitir a leitura de páginas. A proposta transforma o custo de raspagem em receita direta para editores. É uma resposta prática à pressão que sites sofrem com coleta massiva de dados. Publishers pequenos e independentes devem acompanhar como esse modelo evolui.",
+    "reasonEn": "A developer showed Pay-per-Crawl on Hacker News, a system that charges AI crawlers in USDC stablecoin to allow page reading. The proposal turns scraping cost into direct revenue for publishers. It is a practical response to the pressure sites face from mass data collection. Small and independent publishers should watch how this model evolves.",
+    "score": 0.7,
+    "tags": [
+      "web",
+      "monetização",
+      "rastreadores"
+    ],
+    "img": "img/81f4c199866e.jpg",
+    "ts": 1792260963,
+    "addedTs": 1792266753,
+    "urlHash": "81f4c199866e",
+    "titleHash": "c215f6f36ccb"
+  },
+  {
+    "title": "Torvalds calls AI disclosure rules 'utterly stupid' as Linux drops its tag",
+    "titlePt": "Torvalds chama regras de divulgação de IA de 'completamente estúpidas'; Linux remove etiqueta",
+    "url": "https://thenextweb.com/news/torvalds-ai-assisted-by-tag-utterly-stupid-open-source-summit",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Linus Torvalds, criador do Linux, classificou como 'completamente estúpidas' as regras de divulgação obrigatória de uso de IA em contribuições de código. O kernel do Linux removeu a etiqueta de IA que havia adicionado recentemente a patches. O episódio reacende o debate sobre como o open source vai lidar com código gerado por modelos. Contribuidores, mantenedores e empresas que dependem de projetos abertos são diretamente afetados.",
+    "reasonEn": "Linus Torvalds, creator of Linux, called mandatory AI disclosure rules in code contributions 'utterly stupid'. The Linux kernel removed the AI tag it had recently added to patches. The episode reignites debate over how open source will deal with model-generated code. Contributors, maintainers, and companies relying on open projects are directly affected.",
+    "score": 0.85,
+    "tags": [
+      "linux",
+      "open-source",
+      "regulação"
+    ],
+    "img": "img/95cc1952e1fb.jpg",
+    "ts": 1792260943,
+    "addedTs": 1792266753,
+    "urlHash": "95cc1952e1fb",
+    "titleHash": "73c2cbb3757f"
+  },
+  {
+    "title": "When it came to Cal AI&#8217;s viral success, a small army of influencers paid off",
+    "titlePt": "Sucesso viral do Cal AI veio de um pequeno exército de influenciadores pagos",
+    "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "O app Cal AI, que usa IA para contar calorias a partir de fotos, explodiu em popularidade graças a uma estratégia agressiva de marketing com influenciadores pagos. A reportagem da TechCrunch mostra como o crescimento orgânico foi, na prática, bem orquestrado por trás. É um bom estudo de caso sobre lançamento de produtos de consumo com IA embutida. Desenvolvedores que pensam em lançar apps podem aprender lições sobre aquisição de usuários.",
+    "reasonEn": "Cal AI, an app that uses AI to count calories from photos, exploded in popularity thanks to an aggressive paid influencer marketing strategy. The TechCrunch report shows how the organic growth was, in practice, well orchestrated behind the scenes. It is a good case study for launching consumer products with embedded AI. Developers thinking about launching apps can learn lessons about user acquisition.",
+    "score": 0.5,
+    "tags": [
+      "marketing",
+      "aplicativo",
+      "influenciadores"
+    ],
+    "img": "img/eb0ac7f68c40.jpg",
+    "ts": 1792107896,
+    "addedTs": 1792266753,
+    "urlHash": "eb0ac7f68c40",
+    "titleHash": "7ffaefe1d5c3"
+  },
+  {
+    "title": "Trump posts AI-edited photo to brag about White House restoration work",
+    "titlePt": "Trump posta foto editada por IA para se gabar de obras na Casa Branca",
+    "url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "O ex-presidente dos EUA publicou em uma rede social uma foto editada por inteligência artificial mostrando supostos avanços em obras na Casa Branca. O caso mostra como imagens sintéticas já são usadas na comunicação política direta. Jornalistas, equipes de verificação e plataformas de redes sociais precisam intensificar checagem de autenticidade. É mais um alerta sobre desinformação facilitada por IA.",
+    "reasonEn": "A former US president posted on a social network an AI-edited photo showing supposed progress on White House renovations. The case shows how synthetic images are already used in direct political communication. Journalists, fact-checking teams, and social platforms need to step up authenticity verification. It is another warning about AI-facilitated disinformation.",
+    "score": 0.55,
+    "tags": [
+      "política",
+      "deepfake",
+      "mídia"
+    ],
+    "img": "img/43032a6db2e0.jpg",
+    "ts": 1792099974,
+    "addedTs": 1792266753,
+    "urlHash": "43032a6db2e0",
+    "titleHash": "6dfbe4964224"
+  },
+  {
     "title": "Show HN: AegisKernel – Test prompt injection attacks on AI agents in the browser",
     "titlePt": "AegisKernel: teste ataques de injeção de prompt em agentes de IA no navegador",
     "url": "https://adikshatriyag-crypto.github.io/aegis-kernel/",
