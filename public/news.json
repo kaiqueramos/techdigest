@@ -1,5 +1,258 @@
 [
   {
+    "title": "Ask HN: Caution on using AI security platforms for repositories.",
+    "titlePt": "Discussão: cuidado com plataformas de segurança de IA em repositórios",
+    "url": "https://news.ycombinator.com/item?id=50186510",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma thread no Hacker News alerta sobre os riscos de usar plataformas de segurança baseadas em IA para proteger repositórios de código. O ponto principal é que essas ferramentas podem criar uma falsa sensação de proteção ou introduzir novas vulnerabilidades. Desenvolvedores que terceirizam segurança para IA devem repensar a confiança cega. Vale ler antes de adotar qualquer ferramenta do tipo.",
+    "reasonEn": "A Hacker News thread warns about the risks of using AI-based security platforms to protect code repositories. The main point is that these tools can create a false sense of safety or introduce new vulnerabilities. Developers outsourcing security to AI should reconsider blind trust. Worth reading before adopting any tool of this kind.",
+    "score": 0.5,
+    "tags": [
+      "segurança",
+      "desenvolvimento"
+    ],
+    "img": "img/ba05687da5a3.jpg",
+    "ts": 1792611829,
+    "addedTs": 1792612059,
+    "urlHash": "ba05687da5a3",
+    "titleHash": "bd3cf5bb4922"
+  },
+  {
+    "title": "LLM-D 1.0 Takes Open-Source Kubernetes AI Inference into Production",
+    "titlePt": "LLM-D 1.0 leva inferência de IA em Kubernetes para produção",
+    "url": "https://techstrong.ai/ai-infrastructure/llm-d-1-0-takes-open-source-kubernetes-ai-inference-into-production/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A versão 1.0 do projeto LLM-D foi lançada com foco em rodar inferência de modelos grandes em Kubernetes de forma open source e pronta para produção. A novidade traz melhorias de desempenho e estabilidade para quem opera esses clusters em escala. Equipes de engenharia de plataforma acharão relevante. Mostra que o ecossistema aberto avança em competir com soluções fechadas.",
+    "reasonEn": "Version 1.0 of the LLM-D project has been released, focused on running large model inference on Kubernetes in an open-source, production-ready way. The update brings performance and stability gains for those operating such clusters at scale. Platform engineering teams will find it relevant. It shows the open ecosystem advancing to compete with closed solutions.",
+    "score": 0.6,
+    "tags": [
+      "código aberto",
+      "infraestrutura"
+    ],
+    "img": "img/c982abc898bd.jpg",
+    "ts": 1792611097,
+    "addedTs": 1792612059,
+    "urlHash": "c982abc898bd",
+    "titleHash": "dae06040f371"
+  },
+  {
+    "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+    "titlePt": "Enquanto a Amazon barra agentes de IA, o Walmart abre as portas",
+    "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "Enquanto a Amazon restringe o acesso de agentes de IA à sua loja virtual, o Walmart anunciou que vai receber bem esses agentes automatizados para comprar em nome dos clientes. A diferença de estratégia mostra visões opostas sobre como varejo e automação vão conviver. Consumidores, desenvolvedores e varejistas precisam acompanhar quem vencerá essa corrida. A decisão do Walmart é um sinal forte de que agentes de compras autônomos estão virando produto de massa.",
+    "reasonEn": "While Amazon restricts access for AI agents on its online store, Walmart has announced it will welcome these automated agents to shop on behalf of customers. The differing strategies show opposite visions of how retail and automation will coexist. Consumers, developers and retailers need to watch who wins this race. Walmart's move is a strong signal that autonomous shopping agents are becoming mainstream.",
+    "score": 0.85,
+    "tags": [
+      "varejo",
+      "agentes",
+      "negócios"
+    ],
+    "img": "img/dd62bb078550.jpg",
+    "ts": 1792611000,
+    "addedTs": 1792612059,
+    "urlHash": "dd62bb078550",
+    "titleHash": "e5bff230cc0e"
+  },
+  {
+    "title": "The $15B 'viral' AI startup changing how American doctors treat patients",
+    "titlePt": "Startup de IA de US$ 15 bilhões muda tratamento médico nos EUA",
+    "url": "https://www.ft.com/content/0ed17b79-47dd-4ad8-8dca-44eb35617edc",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma startup de inteligência artificial voltada à medicina foi avaliada em cerca de US$ 15 bilhões e está transformando a rotina de médicos americanos. O crescimento rápido indica forte confiança do mercado em ferramentas clínicas automatizadas. Pacientes e profissionais de saúde serão cada vez mais impactados. Vale entender quais empresas lideram essa corrida.",
+    "reasonEn": "An AI startup focused on medicine has been valued at around $15 billion and is transforming the routine of American doctors. The rapid growth signals strong market confidence in automated clinical tools. Patients and healthcare professionals will be increasingly impacted. It's worth understanding which companies are leading this race.",
+    "score": 0.7,
+    "tags": [
+      "saúde",
+      "negócios"
+    ],
+    "img": "img/3e88b183d438.jpg",
+    "ts": 1792610950,
+    "addedTs": 1792612059,
+    "urlHash": "3e88b183d438",
+    "titleHash": "2e13ade92cc0"
+  },
+  {
+    "title": "Startup Claims to Use A.I.-Created Viruses to Treat a Patient",
+    "titlePt": "Startup diz ter usado vírus criados por IA para tratar paciente",
+    "url": "https://www.nytimes.com/2026/10/20/science/ai-virus-bacteria-radical-numerics.html",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma startup afirma ter tratado um paciente com vírus projetados por inteligência artificial, marcando um possível marco na medicina personalizada. A tecnologia usa modelos generativos para desenhar agentes virais terapêuticos sob medida. O anúncio levanta questões regulatórias e éticas importantes. É uma das aplicações mais ousadas de IA na biomedicina até hoje.",
+    "reasonEn": "A startup claims to have treated a patient with viruses designed by artificial intelligence, marking a possible milestone in personalized medicine. The technology uses generative models to design tailored therapeutic viral agents. The announcement raises important regulatory and ethical questions. It's one of the boldest AI applications in biomedicine so far.",
+    "score": 0.75,
+    "tags": [
+      "biotecnologia",
+      "saúde"
+    ],
+    "img": "img/724712011bdd.jpg",
+    "ts": 1792610617,
+    "addedTs": 1792612059,
+    "urlHash": "724712011bdd",
+    "titleHash": "30b34e40a9ff"
+  },
+  {
+    "title": "AI-driven, large-scale nation-state campaign using ARTEX",
+    "titlePt": "Campanha estatal massiva usa IA e técnica ARTEX em ciberataques",
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Pesquisadores identificaram uma campanha de larga escala conduzida por um Estado-nação usando inteligência artificial e a técnica chamada ARTEX. O ataque automatizado muda a velocidade e o alcance das operações de espionagem digital. Equipes de segurança precisam reagir a esse novo padrão. Usuários comuns também podem ser afetados pela expansão desse tipo de arma.",
+    "reasonEn": "Researchers have identified a large-scale nation-state campaign using artificial intelligence and a technique called ARTEX. The automated attack changes the speed and reach of digital espionage operations. Security teams need to react to this new pattern. Everyday users can also be affected as these kinds of weapons expand.",
+    "score": 0.7,
+    "tags": [
+      "segurança",
+      "ciberataque"
+    ],
+    "img": "img/f111d392dd54.jpg",
+    "ts": 1792610501,
+    "addedTs": 1792612059,
+    "urlHash": "f111d392dd54",
+    "titleHash": "a73fbd513ca8"
+  },
+  {
+    "title": "Mistral Large 4",
+    "titlePt": "Mistral lança o modelo Large 4",
+    "url": "https://docs.mistral.ai/models/mistral-large-4-0",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A empresa Mistral anunciou a versão Large 4 do seu principal modelo de linguagem, prometendo ganhos em raciocínio e velocidade. A novidade reforça a concorrência com modelos fechados de gigantes do setor. Desenvolvedores que usam a plataforma devem testar a nova versão em seus casos de uso. Mais uma peça forte no ecossistema aberto europeu.",
+    "reasonEn": "Mistral has announced version Large 4 of its main language model, promising gains in reasoning and speed. The release reinforces competition with closed models from industry giants. Developers using the platform should test the new version on their own use cases. Another strong piece in the European open ecosystem.",
+    "score": 0.65,
+    "tags": [
+      "modelo",
+      "lançamento"
+    ],
+    "img": "img/6c37fbb22f2f.jpg",
+    "ts": 1792610455,
+    "addedTs": 1792612059,
+    "urlHash": "6c37fbb22f2f",
+    "titleHash": "3c342677840e"
+  },
+  {
+    "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+    "titlePt": "Governança democrática de IA de fronteira, parte II",
+    "url": "https://openai.com/index/empowering-cyber-defenders/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto continua uma série sobre como envolver a sociedade na governança de modelos de IA de fronteira, focando em capacitar defensores cibernéticos. A proposta busca distribuir mais poder de decisão para além das grandes empresas. Leitores interessados em políticas de IA vão encontrar argumentos sólidos. Tema ainda distante do dia a dia da maioria dos desenvolvedores.",
+    "reasonEn": "The text continues a series on involving society in the governance of frontier AI models, focused on empowering cyber defenders. The proposal seeks to spread decision-making power beyond big companies. Readers interested in AI policy will find solid arguments. Still a topic far from most developers' daily lives.",
+    "score": 0.55,
+    "tags": [
+      "política",
+      "governança"
+    ],
+    "img": "img/f300ae532e05.jpg",
+    "ts": 1792610372,
+    "addedTs": 1792612059,
+    "urlHash": "f300ae532e05",
+    "titleHash": "7bb213f0d370"
+  },
+  {
+    "title": "You Can't Solve AI Risk Without Solving the AI Evidence Problem",
+    "titlePt": "Sem resolver o problema da evidência de IA, não se resolve o risco",
+    "url": "https://www.techpolicy.press/you-cant-solve-ai-risk-without-solving-the-ai-evidence-problem/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo defende que qualquer debate sério sobre risco de IA precisa antes fortalecer a forma como geramos e auditamos evidências sobre esses sistemas. Sem dados confiáveis, regulamentação e segurança ficam no escuro. A discussão conecta comunidade técnica e formuladores de políticas. Vale acompanhar porque define a base de decisões futuras.",
+    "reasonEn": "The article argues that any serious debate about AI risk must first strengthen how we generate and audit evidence about these systems. Without reliable data, regulation and safety stay in the dark. The discussion bridges the technical community and policymakers. Worth following because it sets the foundation for future decisions.",
+    "score": 0.6,
+    "tags": [
+      "política",
+      "segurança"
+    ],
+    "img": "img/c037c73076dc.jpg",
+    "ts": 1792610119,
+    "addedTs": 1792612059,
+    "urlHash": "c037c73076dc",
+    "titleHash": "a3e9f9a443ea"
+  },
+  {
+    "title": "Google staff resign in backlash over its AI contracts with military",
+    "titlePt": "Funcionários do Google pedem demissão em protesto contra contratos com militares",
+    "url": "https://www.bbc.com/news/articles/cmreyvepnv0po",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Parte dos funcionários do Google está deixando a empresa em reação aos contratos de inteligência artificial firmados com o setor militar. O movimento reacende a tensão interna entre valores da empresa e uso de IA em defesa. Profissionais de tecnologia e clientes corporativos vão sentir o impacto na imagem da marca. É um dos maiores atos internos de descontentamento recente do Google.",
+    "reasonEn": "Some Google employees are leaving the company in reaction to artificial intelligence contracts signed with the military sector. The movement reignites internal tension between the company's values and AI use in defense. Tech workers and corporate clients will feel the brand-image impact. It's one of Google's biggest recent internal acts of discontent.",
+    "score": 0.8,
+    "tags": [
+      "empresa",
+      "ética"
+    ],
+    "img": "img/3f872d921e09.jpg",
+    "ts": 1792610061,
+    "addedTs": 1792612059,
+    "urlHash": "3f872d921e09",
+    "titleHash": "59052e3b0628"
+  },
+  {
+    "title": "AI Hasn't Spurred Widespread Layoffs Yet. Why Not?",
+    "titlePt": "IA ainda não causou demissões em massa, e especialistas explicam por quê",
+    "url": "https://www.library.hbs.edu/working-knowledge/ai-hasnt-spurred-widespread-layoffs-yet-why-not",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Apesar do medo de demissões em massa, a inteligência artificial ainda não provocou cortes generalizados no mercado de trabalho. Especialistas apontam barreiras organizacionais, custos de implementação e limites regulatórios como motivos. O debate ajuda gestores a calibrar expectativas. A questão deve continuar nos próximos anos conforme a tecnologia amadurece.",
+    "reasonEn": "Despite fears of mass layoffs, artificial intelligence has not yet caused widespread job cuts. Experts point to organizational barriers, implementation costs and regulatory limits as reasons. The debate helps managers calibrate expectations. The issue will continue in coming years as the technology matures.",
+    "score": 0.55,
+    "tags": [
+      "mercado de trabalho",
+      "análise"
+    ],
+    "img": "img/b0306a9d28fa.jpg",
+    "ts": 1792609336,
+    "addedTs": 1792612059,
+    "urlHash": "b0306a9d28fa",
+    "titleHash": "73937139f615"
+  },
+  {
+    "title": "What I saw inside Anthropic: AI lab pushes towards recursive self-improvement",
+    "titlePt": "Dentro da Anthropic: laboratório avança rumo à autoaprimoramento de IA",
+    "url": "https://www.theargumentmag.com/p/what-i-saw-inside-anthropic",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma reportagem interna mostra que a Anthropic está investindo pesado em sistemas de IA capazes de melhorar a si mesmos de forma recorrente. O objetivo é acelerar o progresso técnico, mas levanta questões de segurança e controle. O movimento coloca a empresa na linha de frente da corrida por Inteligência Artificial Geral. Quem acompanha a fronteira da IA deve ler com atenção.",
+    "reasonEn": "An inside report shows Anthropic is investing heavily in AI systems capable of recursively improving themselves. The goal is to accelerate technical progress, but raises safety and control questions. The move places the company at the forefront of the race toward general AI. Those following the AI frontier should read closely.",
+    "score": 0.8,
+    "tags": [
+      "laboratório",
+      "pesquisa"
+    ],
+    "img": "img/ced30c6682e0.jpg",
+    "ts": 1792607369,
+    "addedTs": 1792612059,
+    "urlHash": "ced30c6682e0",
+    "titleHash": "3579bf0ff041"
+  },
+  {
     "title": "OpenAI Models in Google Cloud",
     "titlePt": "Modelos da OpenAI agora rodam no Google Cloud",
     "url": "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-brings-openai-models-to-customers",
@@ -8264,304 +8517,5 @@
     "addedTs": 1792007486,
     "urlHash": "c99e548a6d93",
     "titleHash": "0a08222cb29b"
-  },
-  {
-    "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
-    "titlePt": "Pedidos fortes da ASML aliviam medo de freada nos gastos com IA",
-    "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A ASML, fabricante-chave das máquinas usadas para fabricar chips avançados, registrou pedidos robustos que reduzem o temor de que o boom de investimento em IA esteja perdendo força. O sinal é importante porque a ASML é termômetro global da indústria de semicondutores. Investidores, fornecedores de nuvem e executivos de tecnologia devem prestar atenção ao indicador.",
-    "reasonEn": "ASML, a key maker of machines used to produce advanced chips, posted strong orders that ease fears the AI investment boom is losing steam. The signal matters because ASML acts as a global thermometer for the semiconductor industry. Investors, cloud providers, and tech executives should pay attention to this indicator.",
-    "score": 0.75,
-    "tags": [
-      "infraestrutura",
-      "mercado",
-      "chips"
-    ],
-    "img": "img/bf4176bf7e1b.jpg",
-    "ts": 1791988735,
-    "addedTs": 1791989252,
-    "urlHash": "bf4176bf7e1b",
-    "titleHash": "951e0cf23252"
-  },
-  {
-    "title": "Andrew Ng: More Agents Demand More Compute",
-    "titlePt": "Andrew Ng: mais agentes exigem mais capacidade de computação",
-    "url": "https://www.deeplearning.ai/the-batch/scaling-up-for-future-ai-demands",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O pesquisador Andrew Ng defende que a tendência de multiplicar agentes de IA em uma mesma tarefa eleva exponencialmente o consumo de computação. Isso tem impacto direto em custos, latência e fornecedores de nuvem. Desenvolvedores e arquitetos de sistemas precisam reconsiderar o desenho de pipelines à luz desse alerta.",
-    "reasonEn": "Researcher Andrew Ng argues that multiplying AI agents on a single task drives compute consumption up sharply. This directly affects costs, latency, and cloud providers. Developers and system architects need to redesign their pipelines in light of this warning.",
-    "score": 0.65,
-    "tags": [
-      "agentes",
-      "infraestrutura"
-    ],
-    "img": "img/7f5d75b95418.jpg",
-    "ts": 1791988733,
-    "addedTs": 1791989252,
-    "urlHash": "7f5d75b95418",
-    "titleHash": "503ecf17bdcb"
-  },
-  {
-    "title": "Do Agent Teams Pay Off? A Case Study on Vibe Code Bench",
-    "titlePt": "Times de agentes valem o custo? Estudo de caso no Vibe Code Bench",
-    "url": "https://www.vals.ai/blogs/multi-agent-vibe-code-bench",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Um estudo prático testa se coordenar vários agentes de IA em uma mesma tarefa realmente entrega resultados melhores do que um agente só. Os achados ajudam equipes a decidir quando investir em arquiteturas multiagente. O conteúdo é útil para líderes técnicos que precisam justificar gastos.",
-    "reasonEn": "A hands-on study tests whether coordinating multiple AI agents on one task really beats a single agent. The findings help teams decide when investing in multi-agent architectures pays off. It is useful reading for tech leaders who need to justify spending.",
-    "score": 0.55,
-    "tags": [
-      "agentes",
-      "benchmark"
-    ],
-    "img": "img/0846dc84361f.jpg",
-    "ts": 1791988729,
-    "addedTs": 1791989252,
-    "urlHash": "0846dc84361f",
-    "titleHash": "650a7728f424"
-  },
-  {
-    "title": "Does quantization hurt coding agents? Deep-dive with actual numbers",
-    "titlePt": "Quantização prejudica agentes de código? Análise com números reais",
-    "url": "https://aistack.imec-int.com/blog/quantization",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo mede, com dados concretos, se reduzir a precisão dos modelos de IA compromete a qualidade de agentes que escrevem código. O resultado ajuda desenvolvedores a decidir entre rodar modelos menores localmente ou pagar por APIs maiores. É leitura obrigatória para quem cuida de custo e desempenho de LLMs.",
-    "reasonEn": "The article measures with real numbers whether lowering AI model precision hurts the quality of coding agents. The result helps developers decide between running smaller local models or paying for larger APIs. Required reading for anyone juggling LLM cost and performance.",
-    "score": 0.7,
-    "tags": [
-      "modelo",
-      "desempenho"
-    ],
-    "img": "img/3ad8375baa4d.jpg",
-    "ts": 1791988080,
-    "addedTs": 1791989252,
-    "urlHash": "3ad8375baa4d",
-    "titleHash": "3c1dbbb57b32"
-  },
-  {
-    "title": "Ukrainian drones hit Russia's top data centre in attack on AI ambitions",
-    "titlePt": "Drones ucranianos atingem principal data center da Rússia em ataque à ambição de IA",
-    "url": "https://www.reuters.com/business/finance/ukrainian-drones-hit-russias-biggest-data-centre-2026-10-14/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Ucrânia afirma ter atingido o principal data center usado pela Rússia para treinar modelos de IA, mirando a infraestrutura que sustenta a estratégia de Moscou. O episódio mostra que data centers viraram alvo militar legítimo em conflitos modernos. Empresas de nuvem e governos precisam reforçar a resiliência física desses ativos.",
-    "reasonEn": "Ukraine says it struck the main data center Russia uses to train AI models, targeting infrastructure at the heart of Moscow's strategy. The episode shows data centers are now legitimate military targets in modern conflict. Cloud companies and governments need to harden the physical resilience of these assets.",
-    "score": 0.55,
-    "tags": [
-      "infraestrutura",
-      "segurança"
-    ],
-    "img": "img/0ea1f56df9c9.jpg",
-    "ts": 1791987997,
-    "addedTs": 1791989252,
-    "urlHash": "0ea1f56df9c9",
-    "titleHash": "77ebf5d13d87"
-  },
-  {
-    "title": "OnlyOffice 10.0 Released with AI Features, 1k Bug Fixes",
-    "titlePt": "OnlyOffice 10.0 chega com recursos de IA e mil correções de bugs",
-    "url": "https://www.phoronix.com/news/ONLYOFFICE-10.0",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A suíte de escritório open source OnlyOffice lançou sua versão 10.0 com novas funções de IA integradas e mil correções de bugs. A novidade é relevante para quem busca alternativa gratuita a pacotes fechados com IA embutida. Usuários corporativos devem avaliar a maturidade dos novos recursos antes de migrar.",
-    "reasonEn": "Open-source office suite OnlyOffice released version 10.0 with new built-in AI capabilities and a thousand bug fixes. The news matters to anyone looking for a free alternative to closed office suites with embedded AI. Corporate users should gauge the maturity of the new features before migrating.",
-    "score": 0.5,
-    "tags": [
-      "lançamento",
-      "open-source"
-    ],
-    "img": "img/2f42dc29cccf.jpg",
-    "ts": 1791987557,
-    "addedTs": 1791989252,
-    "urlHash": "2f42dc29cccf",
-    "titleHash": "e5c765d73b1e"
-  },
-  {
-    "title": "Show HN: Merlin, Run Your Claude Code and Codex from Slack, Linear and GitHub",
-    "titlePt": "Merlin controla Claude Code e Codex pelo Slack, Linear e GitHub",
-    "url": "https://usemerlin.ai",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O Merlin permite disparar e acompanhar sessões de Claude Code e Codex direto em ferramentas de produtividade como Slack, Linear e GitHub. Para times de engenharia, isso reduz o atrito de alternar entre terminais e chats. Pode acelerar fluxos de revisão e automação em empresas que já usam essas plataformas.",
-    "reasonEn": "Merlin lets you launch and monitor Claude Code and Codex sessions directly inside Slack, Linear, and GitHub. For engineering teams, this cuts down the back-and-forth between terminals and chats. It may speed up review and automation workflows in companies already using those platforms.",
-    "score": 0.55,
-    "tags": [
-      "agentes",
-      "devtool"
-    ],
-    "img": "img/784955774889.jpg",
-    "ts": 1791987213,
-    "addedTs": 1791989252,
-    "urlHash": "784955774889",
-    "titleHash": "c95e7b28da78"
-  },
-  {
-    "title": "The Silicon Compiler Comes Back as an AI Agent Factory",
-    "titlePt": "Compilador de silício ressurge como fábrica de agentes de IA",
-    "url": "https://brianroemmele.substack.com/p/the-silicon-compiler-comes-back-as",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A ideia de compilar silício como se compila software está sendo reaproveitada para gerar pipelines prontos de IA. Isso pode acelerar a criação de novos chips otimizados para agentes. Profissionais de hardware e de IA devem acompanhar, pois o cruzamento entre os dois mundos tende a crescer.",
-    "reasonEn": "The idea of compiling silicon like software is being repurposed to generate ready-made AI pipelines. This could speed up the creation of new chips optimized for agents. Hardware and AI professionals should watch this, as the overlap between the two worlds is set to grow.",
-    "score": 0.5,
-    "tags": [
-      "chips",
-      "agentes"
-    ],
-    "img": "img/59468b6c0a7c.jpg",
-    "ts": 1791986869,
-    "addedTs": 1791989252,
-    "urlHash": "59468b6c0a7c",
-    "titleHash": "1023591290ee"
-  },
-  {
-    "title": "Building an AI Product Alone: How I Control API Costs",
-    "titlePt": "Construindo um produto de IA sozinho: como eu controlo custos de API",
-    "url": "https://grsai.com",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O autor compartilha táticas concretas de economia ao rodar um produto de IA sem equipe grande, com cortes, e limites de uso. O conteúdo é ouro para desenvolvedores independentes e startups enxutas. As lições ajudam a evitar faturas surpresa no fim do mês.",
-    "reasonEn": "The author shares concrete cost-control tactics while running an AI product solo, including caching and usage limits. The content is gold for indie developers and lean startups. The lessons help avoid surprise bills at the end of the month.",
-    "score": 0.7,
-    "tags": [
-      "devtool",
-      "custos"
-    ],
-    "img": "img/732fff3d370b.jpg",
-    "ts": 1791985616,
-    "addedTs": 1791989252,
-    "urlHash": "732fff3d370b",
-    "titleHash": "6a2e656c5c53"
-  },
-  {
-    "title": "Nothing threw: 84 AI agent failures in a live business, 10 caught automatically",
-    "titlePt": "Nada disparou: 84 falhas de agentes de IA em operação real, 10 pegos automaticamente",
-    "url": "https://github.com/taylorancapital/nothing-threw/blob/main/TEN_OF_EIGHTY_FOUR.md",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O relato lista 84 falhas reais de agentes de IA em produção, mostrando que apenas dez foram detectadas automaticamente por sistemas de monitoramento. O dado expõe a fragilidade operacional de agentes em ambiente de negócios. Líderes de produto e engenheiros de plataforma devem ler antes de colocar agentes em fluxo crítico.",
-    "reasonEn": "The write-up lists 84 real-world AI agent failures in production, showing only ten were caught automatically by monitoring systems. The figure exposes how operationally fragile agents are in business settings. Product leaders and platform engineers should read it before putting agents into critical flows.",
-    "score": 0.7,
-    "tags": [
-      "agentes",
-      "segurança"
-    ],
-    "img": "img/2c3eaba267ff.jpg",
-    "ts": 1791984604,
-    "addedTs": 1791989252,
-    "urlHash": "2c3eaba267ff",
-    "titleHash": "920e734d31ca"
-  },
-  {
-    "title": "Scimplify raises $25M to challenge China&#8217;s grip on critical materials with AI",
-    "titlePt": "Scimplify capta US$ 25 milhões para desafiar China em materiais críticos com IA",
-    "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A startup Scimplify levantou US$ 25 milhões para usar inteligência artificial na cadeia de materiais críticos, como químicos especiais e intermediários. O objetivo é reduzir a dependência da indústria ocidental da China, que domina esse setor. A empresa quer oferecer descoberta de materiais mais rápida e sourcing alternativo com apoio de IA. Importa para indústrias química, farmacêutica e de semicondutores, e para quem acompanha geopolítica de tecnologia.",
-    "reasonEn": "Startup Scimplify raised $25 million to use AI in the critical materials supply chain, including specialty chemicals and intermediates. The aim is to reduce Western industry's dependence on China, which dominates this sector. The company wants to offer faster material discovery and alternative supply with AI support. It matters for chemical, pharmaceutical and semiconductor industries, and for anyone tracking tech geopolitics.",
-    "score": 0.55,
-    "tags": [
-      "startup",
-      "indústria",
-      "ia"
-    ],
-    "img": "img/1cf1a3388554.jpg",
-    "ts": 1791975600,
-    "addedTs": 1791989252,
-    "urlHash": "1cf1a3388554",
-    "titleHash": "241e925c68dd"
-  },
-  {
-    "title": "The EU’s next chapter in AI is agentic",
-    "titlePt": "O próximo capítulo da IA na Europa será a IA agêntica",
-    "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A União Europeia definiu a IA agêntica como o próximo foco estratégico de sua política de inteligência artificial. Sistemas agênticos são aqueles que executam ações de forma autônoma em nome do usuário, e a UE quer estabelecer regras para seu uso seguro. A iniciativa pode moldar como empresas europeias adotam agentes de IA e como novos produtos chegam ao mercado. Afeta desenvolvedores, empresas de tecnologia e reguladores no bloco europeu.",
-    "reasonEn": "The European Union has set agentic AI as the next strategic focus of its artificial intelligence policy. Agentic systems act autonomously on behalf of users, and the EU wants to establish rules for their safe use. The initiative may shape how European companies adopt AI agents and how new products reach consumers. It affects developers, tech companies and regulators in the European bloc.",
-    "score": 0.7,
-    "tags": [
-      "regulação",
-      "agentes",
-      "ue"
-    ],
-    "img": "img/200a5d3dd39c.jpg",
-    "ts": 1791936000,
-    "addedTs": 1791989252,
-    "urlHash": "200a5d3dd39c",
-    "titleHash": "7ff6837ece5d"
-  },
-  {
-    "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-    "titlePt": "Execute agentes rápidos e privados no dispositivo com LFM2.5-24B-A2B",
-    "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "A Liquid AI (ou publicador do Hugging Face) disponibilizou o modelo LFM2.5-24B-A2B, voltado para rodar agentes de IA diretamente no dispositivo do usuário, sem enviar dados para a nuvem. O foco é velocidade e privacidade, permitindo respostas rápidas e locais. É útil para quem quer construir assistentes pessoais e apps sensíveis a dados. Desenvolvedores podem testar e integrar o modelo via Hugging Face.",
-    "reasonEn": "The publisher released the LFM2.5-24B-A2B model, aimed at running AI agents directly on the user's device without sending data to the cloud. The focus is speed and privacy, enabling fast and local responses. It is useful for those building personal assistants and data-sensitive apps. Developers can test and integrate the model via Hugging Face.",
-    "score": 0.55,
-    "tags": [
-      "modelo",
-      "on-device",
-      "privacidade"
-    ],
-    "img": "img/53911f98c21c.jpg",
-    "ts": 1791911148,
-    "addedTs": 1791989252,
-    "urlHash": "53911f98c21c",
-    "titleHash": "0951bf5d2dd3"
-  },
-  {
-    "title": "Sharing AI progress in mathematics",
-    "titlePt": "OpenAI compartilha progresso em IA aplicada à matemática",
-    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A OpenAI publicou uma atualização sobre seus avanços em IA para resolver problemas de matemática, área historicamente difícil para modelos de linguagem. Os resultados podem indicar novos patamares de raciocínio formal e verificação automatizada. Tem implicações para pesquisa científica, educação e engenharia de software. Desenvolvedores e pesquisadores de IA devem acompanhar para entender os limites atuais e próximos passos.",
-    "reasonEn": "OpenAI published an update on its advances in AI for solving math problems, a historically tough area for language models. The results may point to new levels of formal reasoning and automated verification. It has implications for scientific research, education and software engineering. Developers and AI researchers should follow along to understand current limits and next steps.",
-    "score": 0.5,
-    "tags": [
-      "pesquisa",
-      "matemática",
-      "openai"
-    ],
-    "img": "img/00427e47df5e.jpg",
-    "ts": 1791288000,
-    "addedTs": 1791989252,
-    "urlHash": "00427e47df5e",
-    "titleHash": "4a12763560a8"
   }
 ]
