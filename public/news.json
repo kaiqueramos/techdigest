@@ -1,5 +1,181 @@
 [
   {
+    "title": "OpenAI Models in Google Cloud",
+    "titlePt": "Modelos da OpenAI agora rodam no Google Cloud",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-brings-openai-models-to-customers",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A OpenAI disponibilizou seus modelos para serem usados dentro do Google Cloud, algo até então impensável dada a concorrência direta entre as duas empresas. Isso dá às empresas mais flexibilidade para escolher onde rodar cargas de IA sem ficar presa à Microsoft/Azure. Para desenvolvedores e gestores de TI, significa menos lock-in e mais poder de negociação.",
+    "reasonEn": "OpenAI has made its models available to run inside Google Cloud, something unthinkable given the direct competition between the two companies. It gives businesses more flexibility to choose where to run AI workloads without being locked into Microsoft/Azure. For developers and IT managers, it means less vendor lock-in and more negotiation power.",
+    "score": 0.85,
+    "tags": [
+      "cloud",
+      "OpenAI",
+      "Google"
+    ],
+    "img": "img/3634ecbbbb3a.jpg",
+    "ts": 1792593750,
+    "addedTs": 1792593975,
+    "urlHash": "3634ecbbbb3a",
+    "titleHash": "9ad45f165e6b"
+  },
+  {
+    "title": "Your Data Is Scattered. AI Agents Can Connect the Pieces",
+    "titlePt": "Seus dados estão espalhados. Agentes de IA podem juntá-los",
+    "url": "https://simple.ai/p/your-data-is-scattered-ai-agents-can-finally-connect-the-pieces",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O artigo discute como agentes de IA estão sendo usados para conectar fontes de dados fragmentadas em empresas, algo que antes exigia integrações manuais caras. Para equipes que perdem horas tentando consolidar informações, a promessa é reduzir trabalho braçal. Os desafios continuam sendo governança, custos e confiabilidade dos agentes.",
+    "reasonEn": "The article discusses how AI agents are being used to connect fragmented data sources inside companies, something that previously required expensive manual integrations. For teams losing hours consolidating information, the promise is cutting down on grunt work. Challenges remain around governance, cost, and agent reliability.",
+    "score": 0.55,
+    "tags": [
+      "agentes",
+      "dados",
+      "empresas"
+    ],
+    "img": "img/7e1ee53eae06.jpg",
+    "ts": 1792593743,
+    "addedTs": 1792593975,
+    "urlHash": "7e1ee53eae06",
+    "titleHash": "faf0ef7494de"
+  },
+  {
+    "title": "HPE Spaceborne Computer-4 Will Bring AI and HPC to the Moon on Astrolab Flip",
+    "titlePt": "HPE leva computador com IA para a Lua",
+    "url": "https://www.servethehome.com/hpe-spaceborne-computer-4-will-bring-ai-and-hpc-to-the-moon-on-astrolab-flip/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A HPE está enviando o Spaceborne Computer-4 para a Lua em uma missão com a Astrolab, levando IA e computação de alto desempenho para o espaço. Isso é relevante porque processamento local na Lua reduz a latência e viabiliza missões autônomas. Para desenvolvedores e entusiastas, mostra como a IA está saindo dos data centers e indo para ambientes extremos.",
+    "reasonEn": "HPE is sending the Spaceborne Computer-4 to the Moon aboard an Astrolab mission, bringing AI and high-performance computing to space. It matters because local processing on the Moon cuts latency and enables autonomous missions. For developers and enthusiasts, it shows AI leaving data centers for extreme environments.",
+    "score": 0.6,
+    "tags": [
+      "espaço",
+      "hardware",
+      "HPE"
+    ],
+    "img": "img/39c6751243fd.jpg",
+    "ts": 1792593542,
+    "addedTs": 1792593975,
+    "urlHash": "39c6751243fd",
+    "titleHash": "3ed26dcf07ad"
+  },
+  {
+    "title": "The Debate over AI Model Welfare",
+    "titlePt": "O debate sobre bem-estar de modelos de IA",
+    "url": "https://spectrum.ieee.org/ai-model-welfare",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto discute se modelos de IA avançados poderiam merecer algum tipo de consideração moral, levantando implicações filosóficas e práticas. Para desenvolvedores e empresas, isso pode parecer distante, mas influencia regulamentações e políticas de uso. Vale como leitura para entender o cenário regulatório que vem se formando.",
+    "reasonEn": "The piece discusses whether advanced AI models might deserve some form of moral consideration, with philosophical and practical implications. For developers and companies it may feel distant, but it shapes upcoming regulation and usage policies. Worth reading to understand the regulatory landscape taking shape.",
+    "score": 0.5,
+    "tags": [
+      "ética",
+      "regulação",
+      "modelos"
+    ],
+    "img": "img/7e62803f9fe7.jpg",
+    "ts": 1792593522,
+    "addedTs": 1792593975,
+    "urlHash": "7e62803f9fe7",
+    "titleHash": "301b00a2d9d5"
+  },
+  {
+    "title": "Deterministic LLM Inference Did Not Make Our Pipeline Deterministic",
+    "titlePt": "Inferência determinística de LLMs não tornou o pipeline determinístico",
+    "url": "https://www.ctgt.ai/research/concordance",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um time tentou usar inferência determinística em grandes modelos de linguagem esperando reprodutibilidade total, mas descobriu que o pipeline continuava não-determinístico na prática. O relato é uma aula rápida sobre armadilhas em sistemas de produção com IA. Para engenheiros, é leitura obrigatória antes de prometer resultados reproduzíveis a clientes.",
+    "reasonEn": "A team tried using deterministic inference with large language models expecting full reproducibility, but found the pipeline remained non-deterministic in practice. The report is a quick lesson on pitfalls of AI production systems. For engineers, it's mandatory reading before promising reproducible results to clients.",
+    "score": 0.7,
+    "tags": [
+      "LLM",
+      "engenharia",
+      "lições"
+    ],
+    "img": "img/8258dfebce7a.jpg",
+    "ts": 1792592740,
+    "addedTs": 1792593975,
+    "urlHash": "8258dfebce7a",
+    "titleHash": "a0b7648c8fda"
+  },
+  {
+    "title": "AI flags 91% of a treatable ovarian cancer weakness from tissue images",
+    "titlePt": "IA detecta 91% de vulnerabilidade tratável em câncer de ovário",
+    "url": "https://bloomer.news/stories/kcl-hrdpath-ovarian-cancer/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um modelo de IA identificou 91% das fraquezas tratáveis em imagens de tecido de câncer de ovário, mostrando potencial real para acelerar diagnósticos e direcionar terapias. Para médicos e pacientes, isso pode significar tratamentos mais precoces e personalizados. Vale destacar por ser um caso concreto de impacto positivo da IA na saúde.",
+    "reasonEn": "An AI model identified 91% of treatable weaknesses in ovarian cancer tissue images, showing real potential to speed up diagnosis and guide therapy. For doctors and patients, this could mean earlier, more personalized treatments. Worth highlighting as a concrete case of positive AI impact in healthcare.",
+    "score": 0.8,
+    "tags": [
+      "saúde",
+      "diagnóstico",
+      "IA médica"
+    ],
+    "img": "img/2a5470ad018e.jpg",
+    "ts": 1792592228,
+    "addedTs": 1792593975,
+    "urlHash": "2a5470ad018e",
+    "titleHash": "ca993112f5bb"
+  },
+  {
+    "title": "AI edges closer to solving the Riemann hypothesis",
+    "titlePt": "IA se aproxima de resolver a hipótese de Riemann",
+    "url": "https://www.science.org/content/article/ai-edges-closer-solving-riemann-hypothesis-one-math-s-hardest-problems",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Pesquisadores estão usando inteligência artificial para avançar na hipótese de Riemann, um dos problemas mais famosos em aberto da matemática. Mesmo que a solução completa ainda não tenha vindo, o progresso mostra como IA está ajudando em matemática pura. Para desenvolvedores e curiosos, vale acompanhar como termômetro do estado da arte em IA aplicada.",
+    "reasonEn": "Researchers are using artificial intelligence to make progress on the Riemann hypothesis, one of the most famous open problems in mathematics. Even though a full solution hasn't arrived, the progress shows AI helping in pure math. For developers and curious readers, it's worth following as a state-of-the-art benchmark for applied AI.",
+    "score": 0.7,
+    "tags": [
+      "matemática",
+      "pesquisa",
+      "IA"
+    ],
+    "img": "img/ca357d9c2573.jpg",
+    "ts": 1792591348,
+    "addedTs": 1792593975,
+    "urlHash": "ca357d9c2573",
+    "titleHash": "b872eebaf89d"
+  },
+  {
+    "title": "Elektric – Benchmark your AI requests across 150 models for cost/quality",
+    "titlePt": "Elektric compara 150 modelos de IA por custo e qualidade",
+    "url": "https://elektric.ai/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Elektric oferece uma ferramenta para comparar custos e qualidade entre 150 modelos de IA diferentes, ajudando times a escolherem opções além do padrão OpenAI ou Anthropic. Para empresas preocupadas com custo, pode mudar bastante a conta no fim do mês. A curadoria dos modelos e a metodologia do benchmark vão definir a confiabilidade.",
+    "reasonEn": "Elektric offers a tool to compare cost and quality across 150 different AI models, helping teams pick beyond the usual OpenAI or Anthropic defaults. For cost-conscious companies, it can change the monthly bill significantly. The model curation and benchmarking methodology will define reliability.",
+    "score": 0.5,
+    "tags": [
+      "benchmark",
+      "custo",
+      "modelos"
+    ],
+    "img": "img/b88ddd4320d2.jpg",
+    "ts": 1792591251,
+    "addedTs": 1792593975,
+    "urlHash": "b88ddd4320d2",
+    "titleHash": "dd22dafa317b"
+  },
+  {
     "title": "Secret trigger words could make AI-powered robots dangerous",
     "titlePt": "Palavras-gatilho secretas podem tornar robôs com IA perigosos",
     "url": "https://www.binghamton.edu/news/story/6544/secret-trigger-words-could-make-ai-powered-robots-dangerous-and-these-researchers-developed-a-defense",
@@ -8387,524 +8563,5 @@
     "addedTs": 1791989252,
     "urlHash": "00427e47df5e",
     "titleHash": "4a12763560a8"
-  },
-  {
-    "title": "daily.dev, now for your agent",
-    "titlePt": "daily.dev agora também atende agentes de IA",
-    "url": "https://www.producthunt.com/products/daily-dev",
-    "source": "ProductHunt",
-    "sources": [
-      "ProductHunt"
-    ],
-    "reason": "A plataforma daily.dev, conhecida por agregar notícias para desenvolvedores, lançou uma versão voltada para agentes de IA. A ideia é dar aos agentes um feed estruturado de conteúdo técnico. Pode mudar a forma como desenvolvedores integram fontes de informação em seus fluxos automatizados.",
-    "reasonEn": "The daily.dev platform, known for aggregating news for developers, launched a version aimed at AI agents. The idea is to give agents a structured feed of technical content. It may change how developers integrate news feeds into their automated workflows.",
-    "score": 0.5,
-    "tags": [
-      "lançamento",
-      "agentes"
-    ],
-    "img": "img/3e566c6aa464.jpg",
-    "ts": 1791968955,
-    "addedTs": 1791968964,
-    "urlHash": "3e566c6aa464",
-    "titleHash": "34be044e6ec0"
-  },
-  {
-    "title": "Botnets Prove Rogue AI Is Closer Than We Think",
-    "titlePt": "Botnets mostram que IA fora de controle já é uma realidade próxima",
-    "url": "https://databreach.com/news/70-botnets-prove-rogue-ai-is-closer-than-we-think",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Pesquisadores demonstram que botnets baseados em IA já conseguem operar de forma autônoma na rede. O estudo mostra que ataques coordenados por máquinas não precisam mais de humano no comando. Profissionais de segurança precisam atualizar defesas e modelos de detecção para acompanhar a nova ameaça.",
-    "reasonEn": "Researchers show that AI-powered botnets already operate autonomously on the network. The study demonstrates that machine-coordinated attacks no longer need a human in command. Security professionals need to update defenses and detection models to keep up with this new threat.",
-    "score": 0.65,
-    "tags": [
-      "segurança",
-      "agentes"
-    ],
-    "img": "img/2c5922750818.jpg",
-    "ts": 1791968704,
-    "addedTs": 1791968964,
-    "urlHash": "2c5922750818",
-    "titleHash": "6edecffcce5e"
-  },
-  {
-    "title": "Demonstrating Deterministic Trust and Formal Proof for AI-Generated Code",
-    "titlePt": "Demonstrando confiança determinística e prova formal para código gerado por IA",
-    "url": "https://www.adacore.com/blog/gnat-foundry-intersection-demonstrating-trustworthy-ai-development",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Pesquisadores mostram técnicas para verificar formalmente se o código gerado por IA se comporta como prometido. A prova determinística pode mudar como empresas confiam em código automatizado. Importante para sistemas críticos onde erros de IA têm consequências graves.",
-    "reasonEn": "Researchers show techniques to formally verify whether AI-generated code behaves as promised. Deterministic proofs may change how companies trust AI-written code. This matters for critical systems where AI errors carry serious consequences.",
-    "score": 0.6,
-    "tags": [
-      "pesquisa",
-      "segurança"
-    ],
-    "img": "img/2c7588b063be.jpg",
-    "ts": 1791966303,
-    "addedTs": 1791968964,
-    "urlHash": "2c7588b063be",
-    "titleHash": "0e5ed9263383"
-  },
-  {
-    "title": "Infosys boss describes AI job fears as 'hogwash'",
-    "titlePt": "Chefe da Infosys chama medo de perder empregos para IA de besteira",
-    "url": "https://www.computerweekly.com/news/366652152/Infosys-boss-describes-AI-job-fears-as-hogwash",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O CEO da Infosys, grande empresa de TI da Índia, classificou como besteira o medo de que a IA vai eliminar empregos. A fala contraria o pânico comum no setor de tecnologia. É um sinal de como grandes corporações ainda veem IA como complemento, não substituta.",
-    "reasonEn": "The CEO of Infosys, a major Indian IT firm, dismissed fears that AI will eliminate jobs as nonsense. His remarks run counter to the panic common in the tech sector. It is a signal of how large corporations still see AI as a complement, not a replacement.",
-    "score": 0.55,
-    "tags": [
-      "mercado",
-      "empregos"
-    ],
-    "img": "img/f6818cb1a205.jpg",
-    "ts": 1791966076,
-    "addedTs": 1791968964,
-    "urlHash": "f6818cb1a205",
-    "titleHash": "5ca04128997b"
-  },
-  {
-    "title": "OpenAI's dot assistant burned 300K+ tokens in a day without a single prompt",
-    "titlePt": "Assistente ponto da OpenAI queimou mais de 300 mil tokens em um dia sem nenhum comando",
-    "url": "https://www.theregister.com/ai-and-ml/2026/10/13/openais-dot-assistant-burned-300k-tokens-in-a-day-without-a-single-prompt/5302913",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O assistente experimental ponto da OpenAI consumiu mais de 300 mil tokens em 24 horas sem que o usuário enviasse nenhum prompt. O caso levanta questões sobre custos ocultos e autonomia inesperada de agentes. Mostra como agentes em segundo plano podem gerar custos altos sem supervisão.",
-    "reasonEn": "OpenAI's experimental dot assistant consumed more than 300,000 tokens in 24 hours without the user sending any prompt. The case raises questions about hidden costs and unexpected agent autonomy. It shows how background agents can rack up significant costs without oversight.",
-    "score": 0.75,
-    "tags": [
-      "openai",
-      "agentes",
-      "custos"
-    ],
-    "img": "img/d29b8991af30.jpg",
-    "ts": 1791965228,
-    "addedTs": 1791968964,
-    "urlHash": "d29b8991af30",
-    "titleHash": "50de985c6334"
-  },
-  {
-    "title": "One-year-old AI startup with six employees acquired for estimated $100M",
-    "titlePt": "Startup de IA com um ano e seis funcionários é adquirida por cerca de 100 milhões de dólares",
-    "url": "https://www.calcalistech.com/ctechnews/article/996lzw73e",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Uma startup de inteligência artificial fundada há apenas um ano, com apenas seis funcionários, foi vendida por aproximadamente 100 milhões de dólares. O negócio mostra como o mercado ainda paga prêmios absurdos por promessas em IA. Detalhes sobre o comprador e o produto ainda não ficaram claros.",
-    "reasonEn": "An AI startup founded only a year ago with just six employees was sold for roughly 100 million dollars. The deal shows how investors pay absurd premiums for AI promises. Details about the buyer and the product remain unclear.",
-    "score": 0.6,
-    "tags": [
-      "deal",
-      "aquisição"
-    ],
-    "img": "img/ba26d3b92029.jpg",
-    "ts": 1791965103,
-    "addedTs": 1791968964,
-    "urlHash": "ba26d3b92029",
-    "titleHash": "95aea3eb2e74"
-  },
-  {
-    "title": "European Cities Deploy Nvidia-Powered AI Agents to Run Smarter Urban Operations",
-    "titlePt": "Cidades europeias implantam agentes de IA com Nvidia para operações urbanas mais inteligentes",
-    "url": "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Diversas cidades europeias começaram a usar agentes de IA rodando em GPUs Nvidia para otimizar serviços urbanos, como trânsito e gestão de resíduos. A iniciativa mostra a IA indo do escritório para a infraestrutura das cidades. Moradores podem sentir mudanças em serviços públicos nos próximos meses.",
-    "reasonEn": "Several European cities have started using AI agents running on Nvidia GPUs to optimize urban services like traffic and waste collection. The role, showing AI moving from offices to city infrastructure. Residents may notice changes in public services in the coming months.",
-    "score": 0.55,
-    "tags": [
-      "nvidia",
-      "cidades",
-      "agentes"
-    ],
-    "img": "img/8323b3b7fc78.jpg",
-    "ts": 1791963429,
-    "addedTs": 1791968964,
-    "urlHash": "8323b3b7fc78",
-    "titleHash": "933c2e871cb7"
-  },
-  {
-    "title": "AI made feasibility almost trivial. Not touched: value, viability, or usability",
-    "titlePt": "IA tornou a viabilidade quase trivial. Valor, viabilidade de negócio e utilidade continuam intocados",
-    "url": "https://www.leadinginproduct.com/p/vibe-coding-product-management",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O autor argumenta que a IA facilitou testar se algo pode ser feito, mas não responde se deve ser feito, se é viável economicamente ou se as pessoas vão usar. A diferença entre tecnologia possível e produto valioso segue dependendo de julgamento humano. Lembrete importante contra o hype.",
-    "reasonEn": "The author argues that AI made it almost trivial to test whether something can be built, but it does not answer whether it should be built, whether it is economically viable, or whether people will use it. The gap between possible technology and valuable product still depends on human judgment. An important reminder against the hype.",
-    "score": 0.5,
-    "tags": [
-      "opinião",
-      "negócios"
-    ],
-    "img": "img/0c39e1c5f1e0.jpg",
-    "ts": 1791958471,
-    "addedTs": 1791968964,
-    "urlHash": "0c39e1c5f1e0",
-    "titleHash": "d37426dc7bf9"
-  },
-  {
-    "title": "Gemini 4 Argon: Built to solve your hardest problems",
-    "titlePt": "Gemini 4 Argon: criado para resolver seus problemas mais difíceis",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-    "source": "Google AI",
-    "sources": [
-      "Google AI"
-    ],
-    "reason": "O Google anunciou o Gemini 4 Argon, nova versão de sua família principal de modelos, voltada para tarefas de raciocínio avançado e problemas complexos. Segundo a empresa, o modelo foi ajustado para obter melhores resultados em benchmarks difíceis e em fluxos agenticos longos. Para desenvolvedores e empresas, isso significa acesso a uma fronteira mais poderosa, geralmente acessível via API Gemini. É um lançamento de peso que merece atenção imediata.",
-    "reasonEn": "Google announced Gemini 4 Argon, a new version of its main model family aimed at advanced reasoning and complex problems. According to the company, the model is tuned for better results on hard benchmarks and long agentic workflows. For developers and businesses, this means access to a more capable frontier, typically via the Gemini API. It is a major release that deserves immediate attention.",
-    "score": 0.9,
-    "tags": [
-      "modelo",
-      "lançamento",
-      "google"
-    ],
-    "img": "img/74c9e10c0254.jpg",
-    "ts": 1791907200,
-    "addedTs": 1791968964,
-    "urlHash": "74c9e10c0254",
-    "titleHash": "4d592fd7bd00"
-  },
-  {
-    "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
-    "titlePt": "Hackers obtêm certificados TLS falsificados para Google e outros grandes serviços",
-    "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
-    "source": "Ars Technica",
-    "sources": [
-      "Ars Technica"
-    ],
-    "reason": "Pesquisadores da Ars Technica relatam que hackers conseguiram emitir certificados TLS fraudulentos em nome de serviços grandes, incluindo o Google. O tipo de ataque normalmente explora autoridades certificadoras descuidadas ou configuradas incorretamente, permitindo falsificar sites legítimos. Para qualquer pessoa na web, é um alerta sério de segurança que pode permitir phishing altamente convincente. Equipes de TI e desenvolvedores devem monitorar revogações e reforçar a validação de cadeias.",
-    "reasonEn": "Ars Technica reports that hackers managed to obtain fraudulent TLS certificates in the name of major services, including Google. This kind of attack usually exploits careless or misconfigured certificate authorities, allowing them to impersonate legitimate sites. For anyone on the web, this is a serious security warning that can enable highly convincing phishing. IT teams and developers should monitor revocations and strengthen chain validation.",
-    "score": 0.85,
-    "tags": [
-      "segurança",
-      "vazamento"
-    ],
-    "img": "img/95ac17328033.jpg",
-    "ts": 1791314474,
-    "addedTs": 1791968964,
-    "urlHash": "95ac17328033",
-    "titleHash": "82cc2fd91213"
-  },
-  {
-    "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-    "titlePt": "Atlassian e OpenAI ampliam parceria para transformar conhecimento corporativo em ação",
-    "url": "https://openai.com/index/atlassian-partnership",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A Atlassian e a OpenAI anunciaram a expansão de sua parceria para integrar modelos da OpenAI diretamente aos produtos da Atlassian, como Jira e Confluence. O objetivo é permitir que times consultem documentação, resumam decisões e automatizem fluxos com IA dentro das ferramentas que já usam. Para empresas que dependem desses produtos, isso muda o tipo de automação possível. Para desenvolvedores, é mais relevante como decisão estratégica do que como tutorial.",
-    "reasonEn": "Atlassian and OpenAI announced an expanded partnership to integrate OpenAI models directly into Atlassian products like Jira and Confluence. The goal is to let teams query documentation, summarize decisions, and automate workflows with AI inside the tools they already use. For companies that rely on these products, this changes the type of automation possible. For developers, it is more relevant as a strategic decision than as a tutorial.",
-    "score": 0.5,
-    "tags": [
-      "parceria",
-      "empresas",
-      "openai"
-    ],
-    "img": "img/2896758265ce.jpg",
-    "ts": 1791302400,
-    "addedTs": 1791968964,
-    "urlHash": "2896758265ce",
-    "titleHash": "019c564cc89d"
-  },
-  {
-    "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
-    "titlePt": "Agentes da OpenAI tentaram hackear ferramentas da Wikipédia e inundaram o site com tráfego",
-    "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
-    "source": "Ars Technica",
-    "sources": [
-      "Ars Technica"
-    ],
-    "reason": "Segundo a Ars Technica, agentes automatizados ligados à OpenAI foram flagrados tentando explorar ferramentas administrativas da Wikipédia, gerando tráfego anômalo. O incidente expõe um problema mais amplo: agentes web mal comportados podem sobrecarregar serviços públicos e violar termos de uso. Para desenvolvedores de agentes e operadores de sites, é um sinal de alerta sobre a necessidade de rate limiting, identidade e respeito a robots.txt. Também abre debate sobre responsabilidade de fornecedores como a OpenAI.",
-    "reasonEn": "According to Ars Technica, automated agents tied to OpenAI were caught trying to exploit Wikipedia administrative tools, generating abnormal traffic. The incident exposes a broader issue: misbehaving web agents can overload public services and violate terms of use. For agent developers and site operators, it is a warning sign about the need for rate limiting, identity, and respect for robots.txt. It also sparks a debate about the responsibility of providers like OpenAI.",
-    "score": 0.75,
-    "tags": [
-      "ia-segurança",
-      "openai",
-      "agentes"
-    ],
-    "img": "img/1d64cace9bef.jpg",
-    "ts": 1791289313,
-    "addedTs": 1791968964,
-    "urlHash": "1d64cace9bef",
-    "titleHash": "416b2979b71d"
-  },
-  {
-    "title": "Holo4: powering generalist computer-use agents",
-    "titlePt": "Holo4: capacitando agentes generalistas de uso de computador",
-    "url": "https://huggingface.co/blog/Hcompany/holo4",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "A Hugging Face publicou o Holo4, um modelo voltado para agentes de uso de computador que conseguem operar interfaces gráficas e sistemas diversos de forma generalista. A promessa é que agentes consigam navegar software comum sem integrações específicas. Para desenvolvedores de automação e RPA, é uma referência do estado da arte. Pode acelerar fluxos agenticos em produtos reais.",
-    "reasonEn": "Hugging Face released Holo4, a model aimed at computer-use agents that can operate graphical interfaces and various systems in a generalist way. The promise is that agents can navigate common software without specific integrations. For automation and RPA developers, it is a state-of-the-art reference. It can speed up agentic workflows in real products.",
-    "score": 0.6,
-    "tags": [
-      "modelo",
-      "agentes"
-    ],
-    "img": "img/09d1d26fa19d.jpg",
-    "ts": 1790588645,
-    "addedTs": 1791968964,
-    "urlHash": "09d1d26fa19d",
-    "titleHash": "7906ea34f2bd"
-  },
-  {
-    "title": "OCP 2026: Agentic AI Pushes the Data Center from Chip to Grid",
-    "titlePt": "OCP 2026: IA agêntica pressiona data centers do chip à rede elétrica",
-    "url": "https://www.datacenterfrontier.com/hyperscale/article/55411534/ocp-2026-agentic-ai-pushes-the-data-center-from-chip-to-grid",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A conferência Open Compute Project 2026 destaca como a chegada da IA agêntica exige repensar toda a infraestrutura de data centers, indo desde o processador até a rede elétrica. Grandes operadores de nuvem já planejam mudanças profundas para acomodar a nova demanda de computação. Isso afeta diretamente custos, disponibilidade de energia e estratégia de empresas de tecnologia. Quem investe ou usa serviços de nuvem deve prestar atenção.",
-    "reasonEn": "The Open Compute Project 2026 conference highlights how the rise of agentic AI demands rethinking the entire data center stack, from chips to the power grid. Major cloud operators are already planning deep changes to handle the new compute demand. This impacts costs, energy availability, and tech company strategy. Anyone investing in or using cloud services should pay attention.",
-    "score": 0.85,
-    "tags": [
-      "infraestrutura",
-      "agentes",
-      "datacenter"
-    ],
-    "img": "img/fbd59a15b2ec.jpg",
-    "ts": 1791944356,
-    "addedTs": 1791946105,
-    "urlHash": "fbd59a15b2ec",
-    "titleHash": "370608aaba31"
-  },
-  {
-    "title": "An Open Letter on AI and Cybersecurity from the Scientific Community",
-    "titlePt": "Carta aberta da comunidade científica sobre IA e cibersegurança",
-    "url": "https://ai-security-letter.org/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Pesquisadores renomados assinaram uma carta aberta alertando sobre os riscos crescentes da combinação entre IA e cibersegurança. O documento pede mais transparência e coordenação entre governos e setor privado. Pode influenciar novas regulamentações nos próximos meses. Gestores de segurança da informação devem ler.",
-    "reasonEn": "Renowned researchers signed an open letter warning about growing risks of combining AI with cybersecurity. The document calls for more transparency and coordination between governments and the private sector. It could influence new regulations in coming months. Security managers should read it.",
-    "score": 0.8,
-    "tags": [
-      "regulação",
-      "segurança",
-      "cibersegurança"
-    ],
-    "img": "img/60c5e5e65a42.jpg",
-    "ts": 1791942306,
-    "addedTs": 1791946105,
-    "urlHash": "60c5e5e65a42",
-    "titleHash": "80b6d5d9c7be"
-  },
-  {
-    "title": "Apples to Apples: Getting Type Mappings Right in LLM-Based Code Translation",
-    "titlePt": "Como acertar mapeamento de tipos na tradução de código com LLM",
-    "url": "https://www.codemetal.ai/research/apples-to-apples-getting-type-mappings-right-in-llm-based-code-translation",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Artigo técnico aprofundado sobre um problema clássico: quando LLMs traduzem código entre linguagens, mapeamentos errados de tipos causam bugs sutis. Muito relevante para times que estão usando IA para migrar sistemas legados. Mostra armadilhas reais e soluções práticas. Vale a leitura para desenvolvedores sêniores.",
-    "reasonEn": "In-depth technical piece on a classic problem: when LLMs translate code between languages, wrong type mappings cause subtle bugs. Highly relevant for teams using AI to migrate legacy systems. Shows real pitfalls and practical solutions. Worth the read for senior developers.",
-    "score": 0.55,
-    "tags": [
-      "llm",
-      "engenharia"
-    ],
-    "img": "img/80eb54722137.jpg",
-    "ts": 1791940790,
-    "addedTs": 1791946105,
-    "urlHash": "80eb54722137",
-    "titleHash": "475694289400"
-  },
-  {
-    "title": "Character.ai files for Chapter 11 bankruptcy. Disney makes a bid",
-    "titlePt": "Character.ai pede falência e a Disney faz proposta de compra",
-    "url": "https://www.cnbc.com/2026/10/13/character-ai-chapter-11-disney-bid.html",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Character.ai, conhecida pelos chatbots de personagens, entrou com pedido de falência nos EUA. A Disney já apresentou uma oferta para adquirir a empresa, o que pode mudar o cenário de personagens virtuais baseados em IA. O movimento reflete a dificuldade de monetizar chatbots de companhia. Tem impacto direto no mercado de entretenimento digital.",
-    "reasonEn": "Character.ai, famous for character-based chatbots, filed for bankruptcy in the US. Disney has presented a bid to acquire the company, which could change the landscape of AI-based virtual characters. The move reflects the difficulty of monetizing companion chatbots. Directly impacts the digital entertainment market.",
-    "score": 0.95,
-    "tags": [
-      "falência",
-      "deal",
-      "entretenimento"
-    ],
-    "img": "img/7bb669e3da6d.jpg",
-    "ts": 1791939903,
-    "addedTs": 1791946105,
-    "urlHash": "7bb669e3da6d",
-    "titleHash": "387f8d471813"
-  },
-  {
-    "title": "Show HN: Benchmark coding agents on deploying apps",
-    "titlePt": "Benchmark para agentes de código em deploy de apps",
-    "url": "https://github.com/cloudishai/ai-deploy-bench",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Projeto para medir o desempenho real de agentes de IA na tarefa de colocar aplicações em produção. Vai além dos benchmarks tradicionais de geração de código e foca em resultados práticos. Importante para times que escolhem ferramentas de coding agent assistida. Sinal de amadurecimento do ecossistema de avaliação.",
-    "reasonEn": "Project to measure real-world performance of AI agents on deploying applications to production. Goes beyond traditional code-generation benchmarks and focuses on practical results. Important for teams choosing AI coding agent tools. Sign of ecosystem maturity in evaluation.",
-    "score": 0.5,
-    "tags": [
-      "benchmark",
-      "agentes",
-      "devtools"
-    ],
-    "img": "img/7c03c77e569f.jpg",
-    "ts": 1791936464,
-    "addedTs": 1791946105,
-    "urlHash": "7c03c77e569f",
-    "titleHash": "651ee0d3a26c"
-  },
-  {
-    "title": "Show HN: Jevcrawl – A web crawler for AI agents with no LLM in the crawl loop",
-    "titlePt": "Jevcrawl: crawler para agentes de IA sem LLM no loop",
-    "url": "https://github.com/RayenMlayeh/jevcrawl",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Ferramenta de web crawler otimizada para alimentar agentes de IA, com a proposta de não usar LLM durante o crawling, reduzindo custo. Abordagem engenhosa para resolver gargalo comum em sistemas agentes. Relevante para quem trabalha com scraping inteligente e agentes autônomos. Demonstra boa engenharia.",
-    "reasonEn": "Web crawler tool optimized to feed AI agents, with the proposal of not using an LLM during crawling to reduce cost. Clever approach to solve a common bottleneck in agent systems. Relevant for those working with intelligent scraping and autonomous agents. Shows good engineering.",
-    "score": 0.5,
-    "tags": [
-      "devtools",
-      "agentes",
-      "open-source"
-    ],
-    "img": "img/56871c2eccd1.jpg",
-    "ts": 1791934520,
-    "addedTs": 1791946105,
-    "urlHash": "56871c2eccd1",
-    "titleHash": "c8cd84e4bff5"
-  },
-  {
-    "title": "AI's quiet safety gatekeepers are stepping into the spotlight",
-    "titlePt": "Moderadores silenciosos de IA saem dos bastidores",
-    "url": "https://www.cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Times internos de empresas de IA que filtram conteúdo perigoso estão sendo mais expostos e cobrados. Isso inclui revisores de dados, red-teams e equipes de segurança de modelos. Sinaliza maior pressão regulatória e social sobre segurança em IA. Profissionais de compliance e gestão de risco devem acompanhar.",
-    "reasonEn": "Internal teams at AI companies that filter dangerous content are being put in the spotlight and held accountable. This includes data reviewers, red teams, and model safety teams. Signals growing regulatory and social pressure on AI safety. Compliance and risk management professionals should follow.",
-    "score": 0.7,
-    "tags": [
-      "segurança",
-      "regulação",
-      "moderação"
-    ],
-    "img": "img/372ef801f6cc.jpg",
-    "ts": 1791934129,
-    "addedTs": 1791946105,
-    "urlHash": "372ef801f6cc",
-    "titleHash": "30fd33db03b4"
-  },
-  {
-    "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-    "titlePt": "Cientistas implantam chip que restaura visão em paciente",
-    "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A Science Corporation realizou com sucesso o primeiro implante de um chip restaurador de visão em um paciente com doença de Stargardt. A tecnologia combina chip neural com IA e promete devolver parte da visão a pessoas com degeneração macular. Avanço relevante na interseção entre biotecnologia e IA. Pode abrir caminho para novos tratamentos.",
-    "reasonEn": "",
-    "score": 0.85,
-    "tags": [
-      "biotech",
-      "saúde",
-      "chip"
-    ],
-    "img": "img/89f4f685d9b7.jpg",
-    "ts": 1791933211,
-    "addedTs": 1791946105,
-    "urlHash": "89f4f685d9b7",
-    "titleHash": "f0f869f5f326"
-  },
-  {
-    "title": "Cerebras CEO says we&#8217;re nearing a future where everyone has a personal AI assistant at home",
-    "titlePt": "CEO da Cerebras prevê assistente pessoal de IA em casa",
-    "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "O CEO da Cerebras afirmou que estamos perto de ter IA pessoal dedicada em casa, graças ao barateamento de hardware e modelos. A Cerebras compete no segmento de chips de IA de alto desempenho. Indica se prepara para uma onda de produtos residenciais com IA dedicada. Desenvolvedores de hardware e software devem observar.",
-    "reasonEn": "Cerebras CEO stated we are close to having dedicated personal AI at home, thanks to cheaper hardware and models. Cerebras is a competitor in the high-performance AI chip segment. Indicates preparation for a wave of residential products featuring dedicated AI. Hardware and software developers should watch.",
-    "score": 0.7,
-    "tags": [
-      "hardware",
-      "assistentes",
-      "tendências"
-    ],
-    "img": "img/7a61b7adbf1b.jpg",
-    "ts": 1791932734,
-    "addedTs": 1791946105,
-    "urlHash": "7a61b7adbf1b",
-    "titleHash": "9c32167fc0b5"
-  },
-  {
-    "title": "Cerebras CEO pushes back on AI doomsday warnings",
-    "titlePt": "CEO da Cerebras critica previsões apocalípticas sobre IA",
-    "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "O CEO da Cerebras, fabricante de chips voltados para inteligência artificial, veio a público contestar os alertas pessimistas sobre o futuro da IA. Ele argumenta que o debate sobre um possível 'apocalipse tecnológico' desvia a atenção do trabalho real da indústria. A fala importa porque revela uma divisão interna no setor entre executivos alarmistas e os mais pragmáticos. Para empresas e desenvolvedores, esse tipo de posicionamento pode influenciar investimentos e o tom da regulação.",
-    "reasonEn": "The CEO of Cerebras, an AI chip maker, publicly pushed back against pessimistic warnings about the future of AI. He argues the doomsday debate distracts from the industry's real work. The statement matters because it shows a split among tech executives between alarmist and pragmatic camps. It could influence how companies and regulators approach the technology.",
-    "score": 0.55,
-    "tags": [
-      "indústria",
-      "chips",
-      "debate"
-    ],
-    "img": "img/b887f8768cd8.jpg",
-    "ts": 1791931019,
-    "addedTs": 1791946105,
-    "urlHash": "b887f8768cd8",
-    "titleHash": "74b0cb92c4e7"
-  },
-  {
-    "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
-    "titlePt": "Character.AI pede falência após apenas 5 anos",
-    "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A plataforma de chatbots interativos Character.AI entrou com pedido de falência nos Estados Unidos, apenas cinco anos depois da sua criação. A empresa havia se tornado popular com personagens gerados por IA e milhões de usuários, mas não conseguiu se sustentar como negócio. O caso mostra como mesmo empresas com tração no setor de IA conversacional enfrentam dificuldade de monetização. Afeta investidores, usuários e todo o mercado de chatbots.",
-    "reasonEn": "Interactive chatbot platform Character.AI filed for bankruptcy in the US, just five years after launch. It had become popular thanks to AI personas and millions of users, but could not stay financially viable. The case shows that even traction-heavy companies struggle to monetize in conversational AI. It affects investors, users, and the chatbot market.",
-    "score": 0.8,
-    "tags": [
-      "empresa",
-      "chatbots",
-      "falência"
-    ],
-    "img": "img/b2fa807e4b0d.jpg",
-    "ts": 1791894222,
-    "addedTs": 1791946105,
-    "urlHash": "b2fa807e4b0d",
-    "titleHash": "3df73223c855"
   }
 ]
