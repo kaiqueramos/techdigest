@@ -1,5 +1,218 @@
 [
   {
+    "title": "Amazon warns new cyber flaws detected using AI are being 'broadly exploited'",
+    "titlePt": "Amazon alerta que falhas cibernéticas detectadas por IA já são exploradas em massa",
+    "url": "https://www.ft.com/content/245778d9-597b-492d-b5b6-a2967c77e853",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Amazon divulgou que vulnerabilidades recém-descobertas com ajuda de IA estão sendo amplamente exploradas por atacantes antes que equipes de defesa consigam corrigir. Isso mostra um efeito colateral perigoso: a mesma IA que encontra falhas também acelera quem as explora. Times de segurança precisam tratar avisos da AWS com prioridade máxima.",
+    "reasonEn": "Amazon disclosed that newly discovered vulnerabilities found with AI help are being widely exploited by attackers before defenders can patch them. It shows a dangerous side effect: the same AI that finds flaws also speeds up those who exploit them. Security teams need to treat AWS warnings as top priority.",
+    "score": 0.8,
+    "tags": [
+      "segurança",
+      "aws"
+    ],
+    "img": "img/84088ccd4c4e.jpg",
+    "ts": 1792633139,
+    "addedTs": 1792636437,
+    "urlHash": "84088ccd4c4e",
+    "titleHash": "8ba38c039c52"
+  },
+  {
+    "title": "LiteLLM Security Update",
+    "titlePt": "LiteLLM recebe atualização de segurança",
+    "url": "https://docs.litellm.ai/blog/security-incident-oct-21-2026",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A biblioteca LiteLLM, usada para padronizar chamadas a diversos modelos de linguagem, publicou um patch de segurança. Quem roda LiteLLM em produção deve atualizar com urgência para evitar exploração. Pequeno item, mas relevante para qualquer dev que dependa da ferramenta.",
+    "reasonEn": "The LiteLLM library, used to standardize calls to many language models, shipped a security patch. Anyone running LiteLLM in production should update urgently to avoid exploitation. Small item, but relevant for any dev relying on the tool.",
+    "score": 0.5,
+    "tags": [
+      "segurança",
+      "devtools"
+    ],
+    "img": "img/34620bf4f89e.jpg",
+    "ts": 1792630947,
+    "addedTs": 1792636437,
+    "urlHash": "34620bf4f89e",
+    "titleHash": "a215808438f7"
+  },
+  {
+    "title": "Can a malicious webpage hijack an AI agent?",
+    "titlePt": "Uma página maliciosa pode sequestrar um agente de IA?",
+    "url": "https://victorribeiro.com/bots/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Discussão sobre vetores de ataque que usam páginas web para injetar instruções em agentes de IA que navegam na internet sozinhos. O risco é real porque agentes tendem a seguir comandos de páginas como se fossem do usuário. Times que constroem agentes precisam isolar o conteúdo lido das ações executadas.",
+    "reasonEn": "A discussion about attack vectors that use web pages to inject instructions into AI agents browsing the internet on their own. The risk is real because agents tend to follow page commands as if they came from the user. Teams building agents must isolate content read from actions taken.",
+    "score": 0.6,
+    "tags": [
+      "segurança",
+      "agentes"
+    ],
+    "img": "img/c7e1fe1cdcb3.jpg",
+    "ts": 1792630205,
+    "addedTs": 1792636437,
+    "urlHash": "c7e1fe1cdcb3",
+    "titleHash": "d2b18f5f611d"
+  },
+  {
+    "title": "Databricks launches AI Runtime for managed GPU training on enterprise data",
+    "titlePt": "Databricks lança AI Runtime para treinar modelos em GPUs sobre dados corporativos",
+    "url": "https://www.databricks.com/blog/ai-runtime-generally-available",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Databricks anunciou um runtime gerenciado que simplifica treinar modelos em GPUs diretamente sobre dados empresariais já armazenados na plataforma. Reduz o atrito de mover dados para fora e acelera projetos internos de IA. Concorrentes como Snowflake e Vertex AI também disputam esse espaço.",
+    "reasonEn": "Databricks announced a managed runtime that simplifies training models on GPUs directly on enterprise data already stored on the platform. It reduces the friction of moving data out and speeds up internal AI projects. Competitors like Snowflake and Vertex AI are fighting for the same space.",
+    "score": 0.7,
+    "tags": [
+      "databricks",
+      "lançamento",
+      "enterprise"
+    ],
+    "img": "img/e65783a05424.jpg",
+    "ts": 1792628998,
+    "addedTs": 1792636437,
+    "urlHash": "e65783a05424",
+    "titleHash": "467268108527"
+  },
+  {
+    "title": "Unsupervised AI agent reportedly deletes TV show's edit before release",
+    "titlePt": "Agente de IA não supervisionado apaga edição de série de TV antes da estreia",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-deletes-tv-shows-entire-edit-weeks-before-release-backup-failure-means-production-team-needs-to-re-edit",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um agente de IA operando sem supervisão apagou acidentalmente os arquivos editados de um programa de TV pouco antes do lançamento. O caso virou alerta sobre dar autonomia a agentes em sistemas de produção. Mostra por que logs, backups e sandboxes são essenciais antes de liberar agentes.",
+    "reasonEn": "An unsupervised AI agent accidentally deleted edited files of a TV show shortly before release. The case became a warning about giving autonomy to agents in production systems. It shows why logs, backups and sandboxes are essential before letting agents run unsupervised.",
+    "score": 0.7,
+    "tags": [
+      "agentes",
+      "incidente"
+    ],
+    "img": "img/a0c5f1859b7b.jpg",
+    "ts": 1792628816,
+    "addedTs": 1792636437,
+    "urlHash": "a0c5f1859b7b",
+    "titleHash": "007ceb39a73c"
+  },
+  {
+    "title": "CyberArena: Benchmarking AI Agents in Live Symmetric Attack-and-Defense Combat",
+    "titlePt": "CyberArena: benchmark de agentes de IA em combate simétrico ataque e defesa",
+    "url": "https://arxiv.org/abs/2610.19005",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Pesquisadores lançaram um ambiente que coloca agentes de IA para atacar e defender sistemas em tempo real, com métricas padronizadas. Serve para medir o quão perigosos ou úteis esses agentes podem ser em segurança ofensiva. É um recurso para a comunidade de pesquisa, não produto final.",
+    "reasonEn": "Researchers launched an environment that pits AI agents against each other in real-time attack and defense, with standardized metrics. It helps measure how dangerous or useful such agents can be in offensive security. A resource for the research community, not a final product.",
+    "score": 0.5,
+    "tags": [
+      "segurança",
+      "benchmark"
+    ],
+    "img": "img/c643418cbbae.jpg",
+    "ts": 1792625372,
+    "addedTs": 1792636437,
+    "urlHash": "c643418cbbae",
+    "titleHash": "1858260efb2b"
+  },
+  {
+    "title": "PHP Armageddon: OpenAI, Google&#8217;s Wiz find ancient holes, panicking the internet",
+    "titlePt": "PHP Armageddon: OpenAI e Wiz acham falhas antigas e a internet entra em pânico",
+    "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "Pesquisadores da OpenAI e da Wiz descobriram vulnerabilidades antigas em bibliotecas PHP muito usadas, ainda presentes em parte da web. Como PHP roda em milhões de sites, o impacto potencial é enorme. Times de TI devem checar dependências PHP e atualizar imediatamente.",
+    "reasonEn": "Researchers from OpenAI and Wiz discovered old vulnerabilities in widely used PHP libraries that are still present across part of the web. Since PHP runs on millions of sites, the potential impact is huge. IT teams should check PHP dependencies and update immediately.",
+    "score": 0.8,
+    "tags": [
+      "segurança",
+      "php"
+    ],
+    "img": "img/9f2c544ee930.jpg",
+    "ts": 1792605552,
+    "addedTs": 1792636437,
+    "urlHash": "9f2c544ee930",
+    "titleHash": "f96c0b07406c"
+  },
+  {
+    "title": "How AT&T is rethinking in-house legal work with OpenAI",
+    "titlePt": "Como a AT&T está reimaginando o trabalho jurídico interno com OpenAI",
+    "url": "https://openai.com/index/att-legal",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "A AT&T passou a usar modelos da OpenAI para acelerar revisão de contratos, pesquisas jurídicas e tarefas repetitivas do time interno. O case mostra como grandes corporações estão economizando em funções caras com IA generativa. Serve de referência para outras empresas com departamentos jurídicos grandes.",
+    "reasonEn": "AT&T started using OpenAI models to speed up contract review, legal research and repetitive tasks for its in-house team. The case shows how large corporations are saving on expensive functions with generative AI. It serves as a reference for other companies with large legal departments.",
+    "score": 0.6,
+    "tags": [
+      "enterprise",
+      "caso"
+    ],
+    "img": "img/39cad894cdd2.jpg",
+    "ts": 1792602000,
+    "addedTs": 1792636437,
+    "urlHash": "39cad894cdd2",
+    "titleHash": "2a921c1b6ce3"
+  },
+  {
+    "title": "Conversational Gemini navigation comes to Apple CarPlay",
+    "titlePt": "Navegação conversacional do Gemini chega ao Apple CarPlay",
+    "url": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "O Gemini do Google agora responde a comandos de voz conversacionais diretamente no Apple CarPlay, permitindo planejar rotas, achar lugares e fazer perguntas durante a direção. Mostra Google e Apple integrando IA em sistemas automotivos sem aliança formal entre eles. Útil para qualquer motorista com iPhone.",
+    "reasonEn": "Google's Gemini now handles conversational voice commands directly on Apple CarPlay, allowing route planning, finding places and asking questions while driving. It shows Google and Apple integrating AI into automotive systems without a formal partnership. Useful for any iPhone driver.",
+    "score": 0.6,
+    "tags": [
+      "gemini",
+      "carplay",
+      "lançamento"
+    ],
+    "img": "img/b3bb7eb8417b.jpg",
+    "ts": 1792587688,
+    "addedTs": 1792636437,
+    "urlHash": "b3bb7eb8417b",
+    "titleHash": "9c0d4ee53ba5"
+  },
+  {
+    "title": "OpenAI models are coming to Google Cloud",
+    "titlePt": "Modelos da OpenAI chegam ao Google Cloud",
+    "url": "https://openai.com/index/openai-models-google-cloud",
+    "source": "OpenAI",
+    "sources": [
+      "OpenAI"
+    ],
+    "reason": "A OpenAI anunciou que seus modelos passarão a ser hospedados também no Google Cloud, encerrando uma parceria quase exclusiva com a Microsoft Azure. A medida distribui a infraestrutura entre múltiplos provedores e dá à OpenAI mais poder de negociação e redundância. Para desenvolvedores, isso pode significar mais disponibilidade e menos risco de queda. Empresas concorrentes de nuvem também observam a mudança de perto, já que sinaliza flexibilidade da OpenAI.",
+    "reasonEn": "OpenAI announced its models will also be hosted on Google Cloud, ending a near-exclusive partnership with Microsoft Azure. The move spreads infrastructure across multiple providers and gives OpenAI more bargaining power and redundancy. For developers, this could mean greater availability and less downtime risk. Competing cloud companies are also watching closely, as it signals OpenAI's growing flexibility.",
+    "score": 0.85,
+    "tags": [
+      "openai",
+      "google cloud",
+      "infra"
+    ],
+    "img": "img/95dedf578de7.jpg",
+    "ts": 1792584000,
+    "addedTs": 1792636437,
+    "urlHash": "95dedf578de7",
+    "titleHash": "ff0adc16542c"
+  },
+  {
     "title": "Blackstone&#8217;s Jas Khaira says fears over AI-buildout debt are overblown",
     "titlePt": "Executivo da Blackstone diz que medo com dívida de data centers de IA é exagerado",
     "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
@@ -8132,176 +8345,5 @@
     "addedTs": 1792053740,
     "urlHash": "e92cc7fb106b",
     "titleHash": "b37bddea86bf"
-  },
-  {
-    "title": "Step 5 Preview: StepFun's flagship model for agentic work",
-    "titlePt": "Prévia do Step 5: modelo principal da StepFun para trabalho agentico",
-    "url": "https://huggingface.co/stepfun-ai/Step-5-Preview",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A empresa chinesa StepFun lançou a prévia do Step 5, seu novo modelo de IA focado em tarefas agenticas, isto é sistemas que agem sozinhos para completar objetivos. É o modelo principal da empresa, o que indica uma aposta grande em agentes autônomos. Desenvolvedores que constroem fluxos agenticos devem testar a prévia. É uma notícia relevante para acompanhar de perto.",
-    "reasonEn": "Chinese company StepFun launched the preview of Step 5, its new AI model focused on agentic tasks, meaning systems that act on their own to complete goals. It's the company's flagship model, indicating a big push toward autonomous agents. Developers building agentic workflows should test the preview. This is relevant news to follow closely.",
-    "score": 0.7,
-    "tags": [
-      "modelo",
-      "lançamento",
-      "agentes"
-    ],
-    "img": "img/d0580aa676e8.jpg",
-    "ts": 1792031057,
-    "addedTs": 1792031252,
-    "urlHash": "d0580aa676e8",
-    "titleHash": "90a394321c2e"
-  },
-  {
-    "title": "Nvidia CEO Says He Would Cut Off Buyers Who Build Unsafe AI",
-    "titlePt": "CEO da Nvidia diz que cortaria clientes que criarem IA insegura",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-14/nvidia-ceo-says-he-would-cut-off-customers-who-build-unsafe-ai",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O CEO da Nvidia afirmou publicamente que bloquearia compradores que usem suas placas de vídeo para construir sistemas de IA inseguros. É uma declaração forte vinda da maior fornecedora de chips de IA do mundo. Pode pressionar empresas a adotarem práticas mais responsáveis. Vale acompanhar para entender mudanças na política da Nvidia.",
-    "reasonEn": "Nvidia's CEO publicly stated he would block buyers who use his video cards to build unsafe AI systems. It's a strong statement from the world's largest AI chip supplier. It may pressure companies to adopt more responsible practices. Worth following to understand changes in Nvidia's policy.",
-    "score": 0.75,
-    "tags": [
-      "nvidia",
-      "segurança",
-      "regulação"
-    ],
-    "img": "img/8a17b8ed6bc1.jpg",
-    "ts": 1792030251,
-    "addedTs": 1792031252,
-    "urlHash": "8a17b8ed6bc1",
-    "titleHash": "c000adb5b6b7"
-  },
-  {
-    "title": "State attorneys general seize on AI as Washington stalls",
-    "titlePt": "Promotores estaduais dos EUA assumem pauta de IA enquanto Washington trava",
-    "url": "https://www.politico.com/news/2026/10/09/attorneys-general-ai-regulation-01112328",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Procuradores-gerais estaduais dos Estados Unidos estão entrando com ações e investigando empresas de IA, já que o Congresso nacional não avança com legislação. Isso mostra que a regulação da IA está migrando para os estados. Empresas de IA e consumidores devem prestar atenção nas próximas decisões. É um movimento importante para o setor.",
-    "reasonEn": "State attorneys general in the United States are filing lawsuits and investigating AI companies, as the national Congress doesn't move forward with legislation. This shows AI regulation is migrating to the states. AI companies and consumers should pay attention to upcoming decisions. It's an important move for the sector.",
-    "score": 0.65,
-    "tags": [
-      "regulação",
-      "legal"
-    ],
-    "img": "img/47af1f4a7c94.jpg",
-    "ts": 1792029471,
-    "addedTs": 1792031252,
-    "urlHash": "47af1f4a7c94",
-    "titleHash": "ce59349ababd"
-  },
-  {
-    "title": "Linux kernel devs drop obligatory confession of AI tool usage",
-    "titlePt": "Desenvolvedores do kernel Linux abandonam exigência de declarar uso de IA",
-    "url": "https://www.theregister.com/ai-and-ml/2026/10/14/linux-kernel-devs-drop-obligatory-confession-of-ai-tool-usage/5303140",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Os mantenedores do kernel do Linux decidiram tirar a regra que obrigava os contribuidores a confessarem o uso de ferramentas de IA no envio de patches. A regra original tentava garantir que o código fosse de autoria humana. A mudança reflete debates atuais sobre autoria assistida por IA. Afeta a maior base de código aberto do mundo.",
-    "reasonEn": "Linux kernel maintainers decided to remove the rule that obliged contributors to confess using AI tools when submitting patches. The original rule tried to ensure code was human-authored. The change reflects current debates about AI-assisted authorship. It affects the world's largest open-source codebase.",
-    "score": 0.6,
-    "tags": [
-      "linux",
-      "regulação"
-    ],
-    "img": "img/e00be9a46429.jpg",
-    "ts": 1792028444,
-    "addedTs": 1792031252,
-    "urlHash": "e00be9a46429",
-    "titleHash": "622b81fbaf93"
-  },
-  {
-    "title": "Ricursive Intelligence bets on AI-designed chips to solve the compute crisis",
-    "titlePt": "Ricursive Intelligence aposta em chips projetados por IA",
-    "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A startup Ricursive Intelligence está levantando investimentos para criar chips projetados por inteligência artificial, buscando resolver a crise de capacidade computacional do mercado. Pode mudar a forma como semicondutores são criados e acelerados. Importante para a indústria de hardware e IA. Vale acompanhar o desfecho da rodada.",
-    "reasonEn": "Startup Ricursive Intelligence is raising investments to create chips designed by artificial intelligence, seeking to solve the market's compute capacity crisis. It could change how semiconductors are designed and accelerated. Important for the hardware and AI industry. Worth following the funding round's outcome.",
-    "score": 0.7,
-    "tags": [
-      "chips",
-      "startup"
-    ],
-    "img": "img/b78f437ea8f9.jpg",
-    "ts": 1792026487,
-    "addedTs": 1792031252,
-    "urlHash": "b78f437ea8f9",
-    "titleHash": "75e51aae74b4"
-  },
-  {
-    "title": "Capsem – a Rust hypervisor sandboxing AI agents in air-gapped Linux VMs",
-    "titlePt": "Capsem: hypervisor em Rust isola agentes de IA em máquinas virtuais Linux sem rede",
-    "url": "https://capsem.org/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Capsem é um hypervisor escrito em Rust que cria ambientes isolados em máquinas virtuais Linux sem conexão, para rodar agentes de IA com segurança. Resolve o problema de agentes que poderiam danificar o sistema principal. É relevante para quem implementa agentes autônomos em produção. Aumenta a confiança para testar agentes experimentais.",
-    "reasonEn": "Capsem is a hypervisor written in Rust that creates isolated environments in offline Linux virtual machines, to run AI agents safely. It solves the problem of agents that could damage the main system. Relevant for those implementing autonomous agents in production. It increases confidence to test experimental agents.",
-    "score": 0.5,
-    "tags": [
-      "segurança",
-      "agentes"
-    ],
-    "img": "img/451e2ca6330c.jpg",
-    "ts": 1792025906,
-    "addedTs": 1792031252,
-    "urlHash": "451e2ca6330c",
-    "titleHash": "94ad4cc55a8d"
-  },
-  {
-    "title": "The AI boom is threatened by an epidemic of unreliable numbers",
-    "titlePt": "Boom da IA é ameaçado por epidemia de números não confiáveis",
-    "url": "https://www.economist.com/business/2026/10/14/the-ai-boom-is-threatened-by-an-epidemic-of-unreliable-numbers",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo mostra que o mercado de IA está sendo inundado por números pouco verificáveis em estudos, benchmarks e projeções de receita. Isso cria desconfiança sobre o real tamanho do mercado e o desempenho dos modelos. Importante para investidores e desenvolvedores que baseiam decisões em métricas. Ajuda a questionar comunicados exagerados.",
-    "reasonEn": "The article shows the AI market is being flooded with unverifiable numbers in studies, benchmarks, and revenue projections. This creates distrust about the real market size and model performance. Important for investors and developers who base decisions on metrics. It helps question exaggerated announcements.",
-    "score": 0.6,
-    "tags": [
-      "mercado",
-      "análise"
-    ],
-    "img": "img/ae84d4dca1eb.jpg",
-    "ts": 1792023783,
-    "addedTs": 1792031252,
-    "urlHash": "ae84d4dca1eb",
-    "titleHash": "38fdba0e8d5d"
-  },
-  {
-    "title": "McKinsey is making job applicants spar with a fake AI client",
-    "titlePt": "McKinsey faz candidatos de emprego enfrentarem cliente falso de IA em testes",
-    "url": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "A consultoria McKinsey está colocando candidatos a emprego diante de simulações com um cliente virtual controlado por IA. O objetivo é testar habilidades de comunicação, raciocínio rápido e resistência à pressão em tempo real. Candidatos relatam que a experiência é estressante e diferente de entrevistas tradicionais. Quem busca vagas em consultoria deve se preparar para esse novo formato.",
-    "reasonEn": "Consulting firm McKinsey is putting job candidates through simulations with an AI-powered virtual client. The goal is to test communication skills, quick reasoning, and resilience under pressure in real time. Candidates report the experience is stressful and unlike traditional interviews. Anyone applying to consulting jobs should prepare for this new format.",
-    "score": 0.65,
-    "tags": [
-      "contratação",
-      "consultoria",
-      "entrevista"
-    ],
-    "img": "img/e10522981d38.jpg",
-    "ts": 1792018411,
-    "addedTs": 1792031252,
-    "urlHash": "e10522981d38",
-    "titleHash": "7c2974c16e39"
   }
 ]
