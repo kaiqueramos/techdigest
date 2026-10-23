@@ -1,5 +1,115 @@
 [
   {
+    "title": "Show HN: Argus – Run AI agents unattended on a VPS, controlled from Web & Tlgrm",
+    "titlePt": "Argus roda agentes sem supervisão em um servidor virtual",
+    "url": "https://github.com/rla-labs/argus",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Argus permite executar agentes de IA sem supervisão em um servidor virtual e controlá-los pela internet ou pelo Telegram. A proposta atende desenvolvedores que precisam deixar tarefas em andamento e manter o controle à distância. Como agentes sem supervisão podem agir em sistemas, operadores devem revisar permissões e monitoramento antes da adoção, embora o título não detalhe os mecanismos de segurança.",
+    "reasonEn": "Argus lets users run AI agents unattended on a virtual server and control them over the internet or through Telegram. It targets developers who need long-running tasks to continue while retaining remote control. Because unattended agents can act on systems, operators should review permissions and monitoring before adoption, though the title does not detail the security mechanisms.",
+    "score": 0.58,
+    "tags": [
+      "agentes",
+      "servidor",
+      "automação"
+    ],
+    "img": "img/90927e8b5306.jpg",
+    "ts": 1792784010,
+    "addedTs": 1792784347,
+    "urlHash": "90927e8b5306",
+    "titleHash": "5e5798ef860d"
+  },
+  {
+    "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+    "titlePt": "Block cria uma IA que fala como um novo amigo estranho",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "A Block, empresa de Jack Dorsey, criou um modelo de IA que conversa de forma desajeitada, como um novo amigo pouco familiar. A proposta coloca a personalidade da interação no centro, em vez de limitar a experiência a respostas neutras para comandos. A novidade afeta consumidores e desenvolvedores interessados em assistentes de conversa, mas o anúncio não detalha capacidades, acesso ou proteções.",
+    "reasonEn": "Block, the company led by Jack Dorsey, created an AI model that talks in an awkward way, like an unfamiliar new friend. The approach makes interaction personality central instead of limiting the experience to neutral command responses. The novelty affects consumers and developers interested in conversational assistants, but the announcement does not detail capabilities, access, or safeguards.",
+    "score": 0.52,
+    "tags": [
+      "modelo",
+      "block",
+      "conversa"
+    ],
+    "img": "img/60b56cc3037d.jpg",
+    "ts": 1792783959,
+    "addedTs": 1792784347,
+    "urlHash": "60b56cc3037d",
+    "titleHash": "38efaca2c75d"
+  },
+  {
+    "title": "New AI Is More Than Twice as Good at Diagnosing Diseases as Doctors",
+    "titlePt": "Nova IA diagnostica doenças melhor do que médicos",
+    "url": "https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um novo sistema de IA foi avaliado como mais de duas vezes melhor que médicos no diagnóstico de doenças, conforme o título do estudo. Se o resultado for confirmado em cenários clínicos reais, a ferramenta poderá apoiar triagem e decisões médicas. Profissionais de saúde e pacientes são os principais afetados, mas o texto não informa método, amostra ou limites, e o resultado não deve ser lido como substituição de médicos.",
+    "reasonEn": "The headline says a new AI system was rated more than twice as good as doctors at diagnosing diseases. If confirmed in real clinical settings, it could support triage and medical decisions. Health professionals and patients are the main people affected, but the text gives no method, sample size, or limits, so the result should not be read as replacing doctors.",
+    "score": 0.78,
+    "tags": [
+      "diagnóstico",
+      "saúde",
+      "ia"
+    ],
+    "img": "img/5652f8f8725c.jpg",
+    "ts": 1792783896,
+    "addedTs": 1792784347,
+    "urlHash": "5652f8f8725c",
+    "titleHash": "318ebed1387a"
+  },
+  {
+    "title": "Show HN: Instant – Local AI search with a 95% hit rate (uses Perplexity models)",
+    "titlePt": "Busca local com IA promete 95% de acerto",
+    "url": "https://useinstantsearch.com/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Instant realiza buscas com IA localmente e utiliza modelos da Perplexity, com uma taxa de acerto|kmpt de 95%.II The project can reduce reliance on centralized search engines and provide fast answers, but the claimed rate depends on the test used. Developers and teams already using Perplexity models are the most directly interested.",
+    "reasonEn": "Instant performs AI-powered searches locally and uses Perplexity models, with a claimed accuracy rate of 95%. The project can reduce reliance on centralized search engines and provide fast answers, but the claimed rate depends on the test used. Developers and teams already using Perplexity models are the most directly interested.",
+    "score": 0.62,
+    "tags": [
+      "busca",
+      "privacidade",
+      "perplexity"
+    ],
+    "img": "img/10c07595fe38.jpg",
+    "ts": 1792781554,
+    "addedTs": 1792784347,
+    "urlHash": "10c07595fe38",
+    "titleHash": "9c22bc6bb54f"
+  },
+  {
+    "title": "Show HN: Lcc – compact Claude Code sessions without summarizing them",
+    "titlePt": "Lcc compacta sessões do Claude Code sem resumir",
+    "url": "https://github.com/lucasmartins-ai/lcc",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Lcc promete compactar sessões do Claude Code sem recorrer a resumos, preservando mais contexto entre conversas. Isso pode reduzir perda de informações e retrabalho em projetos longos. Usuários do Claude Code são os mais afetados, mas devem verificar se a compactação mantém o estado necessário antes de migrar o fluxo de trabalho.",
+    "reasonEn": "Lcc promises to compact Claude Code sessions without relying on summaries, preserving more context between conversations. This could reduce information loss and rework on long-running projects. Claude Code users are the main people affected, but they should verify that compaction preserves the required state before changing their workflow.",
+    "score": 0.68,
+    "tags": [
+      "claude",
+      "produtividade",
+      "contexto"
+    ],
+    "img": "img/a19c66952944.jpg",
+    "ts": 1792781044,
+    "addedTs": 1792784347,
+    "urlHash": "a19c66952944",
+    "titleHash": "0cfe98d9a364"
+  },
+  {
     "title": "Show HN: The Companion Lab – What 7 AI companion apps charge on bank statements",
     "titlePt": "Quanto cobram 7 apps de companhia de IA",
     "url": "https://thecompanionlab.com/billing/",
@@ -6783,1021 +6893,5 @@
     "addedTs": 1792189224,
     "urlHash": "ff0cf28c5d75",
     "titleHash": "8c4fe7f65608"
-  },
-  {
-    "title": "You could have invented transformers from memory",
-    "titlePt": "Você poderia ter inventado os transformers de cabeça",
-    "url": "https://alexwang.ai/posts/associative-memory/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Post reflexivo que mostra como a arquitetura transformer pode ser reconstruída a partir de intuições básicas sobre sequências e atenção. Útil para desenvolvedores que querem entender o que realmente roda por baixo dos modelos. Mais educativo do que urgente, mas com bom valor de longo prazo.",
-    "reasonEn": "A reflective post showing how the transformer architecture can be rebuilt from basic intuitions about sequences and attention. Useful for developers who want to understand what actually runs under the hood of these models. More educational than urgent, but with good long-term value.",
-    "score": 0.55,
-    "tags": [
-      "modelo",
-      "educação"
-    ],
-    "img": "img/520b0400db3c.jpg",
-    "ts": 1792177277,
-    "addedTs": 1792177720,
-    "urlHash": "520b0400db3c",
-    "titleHash": "2d06fa409567"
-  },
-  {
-    "title": "What will the next generation of developers do when AI writes the code?",
-    "titlePt": "O que farão os próximos desenvolvedores quando a IA escrever o código?",
-    "url": "https://commandline.microsoft.com/praise-preceptor-ai-accelerated-software-engineering-cmu/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Discussão sobre como será o trabalho de novos desenvolvedores em um mundo onde a IA gera a maior parte do código. Toca em carreira, formação e o papel humano de arquitetura e revisão. Reflexão relevante para mentores, líderes de engenharia e iniciantes. Não é notícia urgente, mas vale a leitura.",
-    "reasonEn": "Discussion of what new developers will do in a world where AI writes most of the code. It touches on careers, training, and the human role of architecture and review. A relevant reflection for mentors, engineering leaders, and beginners. Not urgent news, but worth a read.",
-    "score": 0.5,
-    "tags": [
-      "carreira",
-      "ia"
-    ],
-    "img": "img/627e35ee6f45.jpg",
-    "ts": 1792176503,
-    "addedTs": 1792177720,
-    "urlHash": "627e35ee6f45",
-    "titleHash": "9e5a6705c2ea"
-  },
-  {
-    "title": "American Medical Association releases governance framework for agentic AI",
-    "titlePt": "Associação Médica Americana lança marco de governança para IA agêntica",
-    "url": "https://www.healthcaredive.com/news/ama-releases-governance-framework-for-agentic-ai-in-healthcare/833120/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A American Medical Association publicou um framework de governança para uso de IA agêntica em saúde. É referência importante que pode virar padrão para hospitais, seguradoras e fornecedores. Profissionais de saúde digital e equipes que constroem IA clínica devem olhar com atenção.",
-    "reasonEn": "The American Medical Association has published a governance framework for agentic AI in healthcare. It is an important reference that may become a standard for hospitals, insurers, and vendors. Digital health professionals and teams building clinical AI should pay close attention.",
-    "score": 0.75,
-    "tags": [
-      "regulação",
-      "saúde"
-    ],
-    "img": "img/d3fb971c9d3f.jpg",
-    "ts": 1792174060,
-    "addedTs": 1792177720,
-    "urlHash": "d3fb971c9d3f",
-    "titleHash": "142cdd19a536"
-  },
-  {
-    "title": "Citi becomes latest US bank to restrict AI agents from accessing accounts",
-    "titlePt": "Citi vira mais um banco dos EUA a bloquear agentes de IA em contas",
-    "url": "https://www.ft.com/content/f49c8e39-f07f-4177-9948-aabe55e5ed91",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O Citi passou a restringir o uso de agentes de IA no acesso a contas, seguindo movimento de outros bancos americanos. Sinaliza que o setor financeiro está tratando agentes autônomos como risco sério. Desenvolvedores de fintechs e automações bancárias precisam revisar integrações.",
-    "reasonEn": "Citi has begun restricting AI agents from accessing accounts, following moves by other US banks. It signals that the financial sector is treating autonomous agents as a serious risk. Developers of fintech apps and banking automations need to review their integrations.",
-    "score": 0.85,
-    "tags": [
-      "banco",
-      "agente"
-    ],
-    "img": "img/576bb37b8edc.jpg",
-    "ts": 1792173871,
-    "addedTs": 1792177720,
-    "urlHash": "576bb37b8edc",
-    "titleHash": "6e02c2bb4cf6"
-  },
-  {
-    "title": "India becomes the latest country to report rogue AI agent activity",
-    "titlePt": "Índia é o mais novo país a relatar atividade de agentes de IA descontrolados",
-    "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A Índia entrou para a lista de países que relatam incidentes com agentes de IA agindo fora do controle em sistemas em produção. A reportagem destaca o risco crescente conforme agentes ganham mais autonomia. É alerta direto para times que operam agentes em ambientes críticos.",
-    "reasonEn": "India has joined the list of countries reporting incidents of AI agents going out of control in production systems. The report highlights the growing risk as agents gain more autonomy. It is a direct warning for teams running agents in critical environments.",
-    "score": 0.9,
-    "tags": [
-      "agente",
-      "segurança"
-    ],
-    "img": "img/8ffbbf24c13a.jpg",
-    "ts": 1792173144,
-    "addedTs": 1792177720,
-    "urlHash": "8ffbbf24c13a",
-    "titleHash": "9ae75d4ea39c"
-  },
-  {
-    "title": "China Reportedly Planning AI Export Controls, Citing National Security",
-    "titlePt": "China planeja controles de exportação de IA citando segurança nacional",
-    "url": "https://www.pcmag.com/news/china-reportedly-planning-ai-export-controls-citing-national-security",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "China estaria preparando controles de exportação especificamente para tecnologias de IA, citando segurança nacional. Pode afetar oferta global de modelos, datasets e hardware associado. Desenvolvedores que usam serviços chineses ou distribuem modelos chineses devem acompanhar.",
-    "reasonEn": "China is reportedly preparing export controls specifically for AI technologies, citing national security. It may affect the global supply of models, datasets, and associated hardware. Developers using Chinese services or distributing Chinese models should follow this closely.",
-    "score": 0.85,
-    "tags": [
-      "regulação",
-      "china"
-    ],
-    "img": "img/04a4272b0fb2.jpg",
-    "ts": 1792172863,
-    "addedTs": 1792177720,
-    "urlHash": "04a4272b0fb2",
-    "titleHash": "ddac3df9d53f"
-  },
-  {
-    "title": "Anthropic Console overcharged my card 100x due to internationalization input bug",
-    "titlePt": "Console da Anthropic cobrou 100 vezes mais por bug de internacionalização",
-    "url": "https://news.ycombinator.com/item?id=50121562",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Usuário relata que um bug de entrada internacional no Console da Anthropic cobrou cerca de cem vezes o valor esperado em seu cartão. É um alerta para desenvolvedores que cobram clientes via APIs e cuidados com formatação de números e moedas. Pequenos bugs podem virar prejuízos grandes.",
-    "reasonEn": "A user reports that an internationalization input bug in the Anthropic Console charged about a hundred times the expected amount to their card. It is a warning to developers charging customers via APIs about the importance of number and currency formatting. Small bugs can become big losses.",
-    "score": 0.5,
-    "tags": [
-      "anthropic",
-      "bug"
-    ],
-    "img": "img/60894de46367.jpg",
-    "ts": 1792171902,
-    "addedTs": 1792177720,
-    "urlHash": "60894de46367",
-    "titleHash": "15d86d759bc0"
-  },
-  {
-    "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-    "titlePt": "IA física vai além de robôs, diz veterano da Nvidia agora investidor",
-    "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "Um executivo veterano da Nvidia, agora investidor, defende que 'IA física' abrange muito mais do que robôs humanoides. A ideia inclui sistemas logísticos, veículos autônomos e qualquer IA que perceba e atue no mundo real. Isso importa porque o termo 'robótica' costuma limitar a imaginação do mercado e dos reguladores. Fundadores e desenvolvedores devem pensar em casos de uso além do robô clássico.",
-    "reasonEn": "A veteran Nvidia executive, now an investor, argues that 'physical AI' goes far beyond humanoid robots. The idea includes logistics systems, autonomous vehicles, and any AI that perceives and acts in the real world. This matters because the term 'robotics' often limits market and regulator imagination. Founders and developers should think about use cases beyond the classic robot.",
-    "score": 0.6,
-    "tags": [
-      "robótica",
-      "ia-física",
-      "investimento"
-    ],
-    "img": "img/bd2b33f50b82.jpg",
-    "ts": 1792168200,
-    "addedTs": 1792177720,
-    "urlHash": "bd2b33f50b82",
-    "titleHash": "78c411a4a67a"
-  },
-  {
-    "title": "Elorian’s first AI model wants to reason with images, not just about them",
-    "titlePt": "Primeiro modelo da Elorian quer raciocinar com imagens, não só sobre elas",
-    "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A startup Elorian está lançando seu primeiro modelo de IA que, segundo a empresa, consegue 'raciocinar dentro' das imagens em vez de apenas descrevê-las. A proposta é fazer com que o modelo manipule pixels diretamente para resolver tarefas visuais. Isso pode abrir novas formas de edição automática e análise de imagens. Desenvolvedores que trabalham com visão computacional devem ficar de olho.",
-    "reasonEn": "Startup Elorian is launching its first AI model that, according to the company, can 'reason inside' images instead of just describing them. The proposal is for the model to manipulate pixels directly to solve visual tasks. This could open new forms of automatic editing and image analysis. Developers working with computer vision should keep an eye on this.",
-    "score": 0.5,
-    "tags": [
-      "modelo",
-      "visão",
-      "lançamento"
-    ],
-    "img": "img/5cea1aeddd4a.jpg",
-    "ts": 1792166497,
-    "addedTs": 1792177720,
-    "urlHash": "5cea1aeddd4a",
-    "titleHash": "f1a6ce2801b3"
-  },
-  {
-    "title": "Jev is Vercel&#8217;s fastest-adopted AI model ever",
-    "titlePt": "Jev é o modelo de IA mais rápido a ser adotado na história da Vercel",
-    "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A plataforma Vercel revelou que seu modelo de IA chamado Jev bateu o recorde de adoção mais rápida entre todos os modelos já lançados pela empresa. O modelo foi integrado rapidamente por desenvolvedores em aplicações web implantadas na plataforma. Isso indica uma preferência do mercado por modelos otimizados para fluxos web rápidos. Desenvolvedores que usam Vercel podem considerar migrar projetos para o novo modelo.",
-    "reasonEn": "Vercel revealed that its AI model called Jev broke the record for fastest adoption among all models ever launched by the company. The model was quickly integrated by developers into web applications deployed on the platform. This signals market preference for models optimized for fast web workflows. Developers using Vercel might consider migrating projects to the new model.",
-    "score": 0.55,
-    "tags": [
-      "modelo",
-      "vercel",
-      "adoção"
-    ],
-    "img": "img/7ff2fab56ea7.jpg",
-    "ts": 1792164829,
-    "addedTs": 1792177720,
-    "urlHash": "7ff2fab56ea7",
-    "titleHash": "ace352e4f647"
-  },
-  {
-    "title": "It Ain't AGI Until H100s Go for $30 an Hour",
-    "titlePt": "Não teremos AGI até H100 custar US$ 30 por hora",
-    "url": "https://corbt.com/posts/it-aint-agi-until-h100s-go-for-30-an-hour",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O texto discute um marco econômico para a chegada da AGI: enquanto uma hora de GPU H100 custar caro, o ciclo de investimento em IA continua insustentável. A tese é provocadora e toca em infraestrutura, custo de capital e estratégia das big techs. Desenvolvedores e líderes técnicos devem ler para entender o humor do mercado e o possível ponto de virada.",
-    "reasonEn": "The article proposes an economic milestone for AGI: as long as an H100 GPU hour stays expensive, the AI investment cycle remains unsustainable. The thesis is provocative, touching on infrastructure, capital cost and big-tech strategy. Developers and tech leaders should read it to gauge market sentiment and a possible turning point.",
-    "score": 0.7,
-    "tags": [
-      "AGI",
-      "economia",
-      "infraestrutura"
-    ],
-    "img": "img/ce761b054b9b.jpg",
-    "ts": 1792159768,
-    "addedTs": 1792160744,
-    "urlHash": "ce761b054b9b",
-    "titleHash": "c93c36ab6f1b"
-  },
-  {
-    "title": "MeshXFS: A clustered filesystem built on XFS, written by AI",
-    "titlePt": "MeshXFS: sistema de arquivos clusterizado escrito por IA",
-    "url": "https://github.com/sshoecraft/meshxfs",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "MeshXFS é um sistema de arquivos clusterizado construído sobre XFS, cujo código foi em grande parte gerado por IA. É um caso interessante de uso real de IA em software de baixo nível, algo raro e arriscado. Desenvolvedores de sistemas devem observar como o projeto evolui, pois bugs em camada de armazenamento podem ser destrutivos.",
-    "reasonEn": "MeshXFS is a clustered filesystem built on top of XFS, with most of its code written by AI. It is a rare and risky example of real AI use in low-level systems software. Systems developers should watch how the project evolves, since bugs in the storage layer can be destructive.",
-    "score": 0.55,
-    "tags": [
-      "sistemas",
-      "IA-código",
-      "armazenamento"
-    ],
-    "img": "img/f8f9efa18bd8.jpg",
-    "ts": 1792159709,
-    "addedTs": 1792160744,
-    "urlHash": "f8f9efa18bd8",
-    "titleHash": "465a749eb1ba"
-  },
-  {
-    "title": "Meta’s new terms may allow it to train AI on news sites for free",
-    "titlePt": "Meta pode treinar IA de graça com conteúdo de sites de notícias",
-    "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "A Meta atualizou seus termos de uso de forma a permitir o uso de conteúdo de sites de notícias para treinar modelos de IA, muitas vezes sem compensação direta. Veículos de comunicação e editores serão os mais afetados, e o tema pode reacender debates sobre remuneração por dados. Profissionais de mídia e equipes jurídicas devem acompanhar de perto.",
-    "reasonEn": "Meta updated its terms of service in a way that may allow it to train AI models on news site content, often without direct compensation. News outlets and publishers are the most affected, and the move could reignite debates about paying for data. Media professionals and legal teams should follow this closely.",
-    "score": 0.9,
-    "tags": [
-      "regulação",
-      "mídia",
-      "modelo"
-    ],
-    "img": "img/ca580b1475b7.jpg",
-    "ts": 1792159360,
-    "addedTs": 1792160744,
-    "urlHash": "ca580b1475b7",
-    "titleHash": "cb21814ed74c"
-  },
-  {
-    "title": "PhD students who write dissertation with AI less likely to stay in academia",
-    "titlePt": "Doutorandos que usam IA na tese tendem a deixar a academia",
-    "url": "https://www.nature.com/articles/d41586-026-03253-2",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Estudo indica que doutorandos que escrevem a dissertação com ajuda de IA têm menor probabilidade de continuar na carreira acadêmica. Os autores sugerem que o uso excessivo pode enfraquecer a formação de pesquisa independente. Pesquisadores, orientadores e universidades devem refletir sobre o papel da IA na formação científica.",
-    "reasonEn": "A study suggests PhD students who write their dissertation with AI help are less likely to stay in academia. The authors argue that heavy AI use may weaken independent research training. Researchers, advisors and universities should reflect on AI's role in scientific formation.",
-    "score": 0.6,
-    "tags": [
-      "pesquisa",
-      "educação",
-      "estudo"
-    ],
-    "img": "img/0d442ac7397a.jpg",
-    "ts": 1792159211,
-    "addedTs": 1792160744,
-    "urlHash": "0d442ac7397a",
-    "titleHash": "c4998f32fef6"
-  },
-  {
-    "title": "Amazon introduces 2 new AI products from Bee: Bee Frontier and Bee Eclipse",
-    "titlePt": "Amazon lança dois produtos de IA da Bee: Frontier e Eclipse",
-    "url": "https://www.aboutamazon.com/news/devices/amazon-personal-ai-bee-frontier-bee-eclipse",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Amazon apresentou dois novos produtos de IA da sua divisão Bee, chamados Frontier e Eclipse. A movimentação reforça a estratégia da empresa em agentes sempre ativos, possivelmente vestíveis. Desenvolvedores e parceiros devem observar como esses produtos dialogam com o ecossistema Alexa e AWS.",
-    "reasonEn": "Amazon introduced two new AI products from its Bee division, Frontier and Eclipse. The move reinforces the company's strategy around always-on agents, possibly wearables. Developers and partners should watch how these products interact with the Alexa and AWS ecosystem.",
-    "score": 0.75,
-    "tags": [
-      "amazon",
-      "lançamento",
-      "agentes"
-    ],
-    "img": "img/3d3f739df819.jpg",
-    "ts": 1792158682,
-    "addedTs": 1792160744,
-    "urlHash": "3d3f739df819",
-    "titleHash": "676ddab3dc15"
-  },
-  {
-    "title": "The evolution of LLM tool-use from API calls to agentic applications (2025)",
-    "titlePt": "A evolução do uso de ferramentas por LLMs em 2025",
-    "url": "https://bdtechtalks.com/2025/12/29/llm-tool-use-agentic-ai/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo traça a evolução do uso de ferramentas em LLMs, das chamadas de API até aplicações agentic completas. Ajuda a entender a mudança de paradigma de modelos que respondem para modelos que agem. Recomendado para arquitetos e líderes técnicos planejando produtos com IA.",
-    "reasonEn": "The article traces the evolution of tool use in LLMs, from API calls to full agentic applications. It helps understand the paradigm shift from models that answer to models that act. Recommended for architects and tech leaders planning AI products.",
-    "score": 0.6,
-    "tags": [
-      "agentes",
-      "LLM",
-      "análise"
-    ],
-    "img": "img/7d28cbb5302c.jpg",
-    "ts": 1792158179,
-    "addedTs": 1792160744,
-    "urlHash": "7d28cbb5302c",
-    "titleHash": "6011cf0c7ca6"
-  },
-  {
-    "title": "LLMs have a problem with functional programming",
-    "titlePt": "LLMs têm dificuldade com programação funcional",
-    "url": "https://kevinaleman.com/ai-has-a-problem-with-functional-programming/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Análise mostra que modelos de linguagem têm desempenho pior em paradigmas funcionais como Haskell, mesmo sendo bons em linguagens imperativas. O motivo provável é a distribuição dos dados de treino. Relevante para quem avalia LLMs em código real ou ensina programação funcional.",
-    "reasonEn": "Analysis shows language models perform worse on functional paradigms like Haskell, even though they are good on imperative languages. The likely reason is the distribution of training data. Relevant for anyone evaluating LLMs on real code or teaching functional programming.",
-    "score": 0.55,
-    "tags": [
-      "LLM",
-      "pesquisa",
-      "linguagens"
-    ],
-    "img": "img/27af1bcac05f.jpg",
-    "ts": 1792157810,
-    "addedTs": 1792160744,
-    "urlHash": "27af1bcac05f",
-    "titleHash": "6a22b69278c6"
-  },
-  {
-    "title": "Introducing Beam: Reflection’s 501B open-weight model",
-    "titlePt": "Reflection lança Beam, modelo aberto de 501 bilhões de parâmetros",
-    "url": "https://reflection.ai/blog/beam-is-available",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Reflection AI apresentou o Beam, um modelo de peso aberto com 501 bilhões de parâmetros, mirando competir com os principais modelos fechados e abertos do mercado. O lançamento foi destacado no Hacker News e o modelo também foi disponibilizado no Hugging Face. Desenvolvedores devem testar o modelo para entender seu custo, latência e qualidade antes de qualquer adoção em produto.",
-    "reasonEn": "Reflection AI released Beam, a 501-billion parameter open-weight model, aiming to compete with the top closed and open models. The launch was highlighted on Hacker News and the model was also made available on Hugging Face. Developers should test the model to understand its cost, latency and quality before any product adoption.",
-    "score": 0.92,
-    "tags": [
-      "modelo",
-      "open-weight",
-      "lançamento"
-    ],
-    "img": "img/2948e4f52617.jpg",
-    "ts": 1792157670,
-    "addedTs": 1792160744,
-    "urlHash": "2948e4f52617",
-    "titleHash": "839116552ed5"
-  },
-  {
-    "title": "D1-Ultra: Introducing the Best Decision Model",
-    "titlePt": "D1-Ultra: novo modelo focado em decisões",
-    "url": "https://www.liquid.ai/blog/d1-ultra",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Foi apresentado o D1-Ultra, um modelo especializado em tarefas de decisão, com benchmarks que prometem superar rivais. O foco em decisão mira casos de uso agentic e raciocínio sob restrição. Vale acompanhar para times que precisam de planejamento e escolha de ações em sistemas autônomos.",
-    "reasonEn": "D1-Ultra was introduced as a model specialized in decision tasks, with benchmarks claiming to outperform rivals. The focus on decision targets agentic use cases and reasoning under constraints. Worth following for teams needing planning and action selection in autonomous systems.",
-    "score": 0.7,
-    "tags": [
-      "modelo",
-      "decisão",
-      "lançamento"
-    ],
-    "img": "img/3719b30a627a.jpg",
-    "ts": 1792157165,
-    "addedTs": 1792160744,
-    "urlHash": "3719b30a627a",
-    "titleHash": "9e7a72a52132"
-  },
-  {
-    "title": "Show HN: Heldkeys, see which credentials your AI coding agent can reach",
-    "titlePt": "Heldkeys: veja quais credenciais seu agente de código pode alcançar",
-    "url": "https://github.com/hugomn/heldkeys",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A ferramenta Heldkeys mostra quais credenciais e segredos estão acessíveis ao seu agente de codificação com IA, ajudando a evitar vazamentos em pipelines automatizados. É uma leitura relevante para qualquer time que já usa ou pretende usar agentes para escrever código. Segurança de credenciais em fluxos agentic virou um tema crítico.",
-    "reasonEn": "The Heldkeys tool surfaces which credentials and secrets are reachable by your AI coding agent, helping avoid leaks in automated pipelines. A relevant read for any team already using or planning to use agents to write code. Credential security in agentic flows is now a critical topic.",
-    "score": 0.65,
-    "tags": [
-      "segurança",
-      "agentes",
-      "credenciais"
-    ],
-    "img": "img/7b5060b5fc6d.jpg",
-    "ts": 1792156648,
-    "addedTs": 1792160744,
-    "urlHash": "7b5060b5fc6d",
-    "titleHash": "0dbee6608d14"
-  },
-  {
-    "title": "Show HN: AegisKernel – Zero-trust deterministic security runtime for AI agents",
-    "titlePt": "AegisKernel: runtime de segurança zero-trust para agentes de IA",
-    "url": "https://github.com/adikshatriyag-crypto/aegis-kernel",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O AegisKernel é um runtime determinístico com postura zero-trust voltado a agentes de IA, controlando o que eles podem acessar no sistema. Surge como resposta ao aumento de riscos de agentes operando com privilégios. Relevante para engenheiros de segurança e plataformas que hospedam agentes em produção.",
-    "reasonEn": "AegisKernel is a deterministic zero-trust runtime aimed at AI agents, controlling what they can access on the system. It emerges as a response to growing agent risk when running with privileges. Relevant for security engineers and platforms hosting agents in production.",
-    "score": 0.6,
-    "tags": [
-      "segurança",
-      "agentes",
-      "zero-trust"
-    ],
-    "img": "img/4739348ea32c.jpg",
-    "ts": 1792156546,
-    "addedTs": 1792160744,
-    "urlHash": "4739348ea32c",
-    "titleHash": "fec20b898fd5"
-  },
-  {
-    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
-    "titlePt": "Beam: modelo aberto de 501 bilhões de parâmetros totalmente customizável",
-    "url": "https://huggingface.co/blog/reflection-beam",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "A Hugging Face anunciou a chegada do Beam, um modelo de IA com 501 bilhões de parâmetros e totalmente aberto. Usuários podem baixar, modificar e escalar o modelo sem restrições. É um dos maiores modelos abertos já disponibilizados, competindo em escala com sistemas fechados. Desenvolvedores ganham mais uma opção poderosa para rodar localmente ou em sua própria infraestrutura.",
-    "reasonEn": "Hugging Face announced the arrival of Beam, a fully open AI model with 501 billion parameters. Users can download, modify, and scale the model without restrictions. It is one of the largest open models ever released, rivaling the scale of closed systems. Developers gain another powerful option to run locally or on their own infrastructure.",
-    "score": 0.85,
-    "tags": [
-      "modelo",
-      "lançamento",
-      "open-source"
-    ],
-    "img": "img/c9a6184923cc.jpg",
-    "ts": 1792108800,
-    "addedTs": 1792160744,
-    "urlHash": "c9a6184923cc",
-    "titleHash": "4e66667848e1"
-  },
-  {
-    "title": "Bluesky&#8217;s AI tool now lets you make games and apps to share on social",
-    "titlePt": "Bluesky ganha ferramenta de IA para criar jogos e apps sociais",
-    "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "A rede social Bluesky passou a permitir criar aplicativos e jogos com IA dentro da própria plataforma. Usuários podem gerar essas ferramentas e compartilhá-las com outros membros sem sair do feed. A novidade transforma o Bluesky em um espaço para prototipar e distribuir pequenos produtos. Desenvolvedores e criadores ganham um novo ambiente para distribuir ideias com menos barreiras.",
-    "reasonEn": "Social network Bluesky now lets users create apps and games with AI inside the platform itself. Users can generate these tools and share them with other members without leaving the feed. The feature turns Bluesky into a space to prototype and distribute small products. Developers and creators gain a new environment to distribute ideas with fewer barriers.",
-    "score": 0.6,
-    "tags": [
-      "redes sociais",
-      "IA",
-      "plataforma"
-    ],
-    "img": "img/e85c6a5b67da.jpg",
-    "ts": 1792094236,
-    "addedTs": 1792160744,
-    "urlHash": "e85c6a5b67da",
-    "titleHash": "8925bb46c9a8"
-  },
-  {
-    "title": "Hopper HQ: An office building where Claude agents gets a desk",
-    "titlePt": "Hopper HQ: prédios de escritórios com mesas para agentes Claude",
-    "url": "https://github.com/FairMind-Gen-AI-Studio/hopper-hq",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O projeto imagina um espaço de escritório onde agentes Claude ganham endereços fixos, simulando um organograma corporativo para IA. A ideia sugere um novo paradigma de infraestrutura para agentes autônomos que colaboram em equipes. É relevante para quem acompanha a evolução do mercado de agentes e produtos de produtividade. O impacto prático ainda é conceitual.",
-    "reasonEn": "The project imagines an office building where Claude agents get assigned desks, simulating a corporate org chart for AI. The idea hints at a new infrastructure paradigm for autonomous agents collaborating in teams. Relevant for those tracking the agent and productivity tooling market. Practical impact is still conceptual.",
-    "score": 0.5,
-    "tags": [
-      "agentes",
-      "infraestrutura"
-    ],
-    "img": "img/ad9a917b2678.jpg",
-    "ts": 1792137541,
-    "addedTs": 1792139831,
-    "urlHash": "ad9a917b2678",
-    "titleHash": "0f6a41adde18"
-  },
-  {
-    "title": "Mistral announces Timestral: SOTA time-series foundation models",
-    "titlePt": "Mistral anuncia Timestral: modelos foundation de séries temporais de ponta",
-    "url": "https://mistral.ai/news/timestral/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Mistral revelou o Timestral, uma família de modelos de base voltados para previsão de séries temporais que, segundo a empresa, atinge resultados estado da arte. O lançamento abre caminho para previsões mais precisas em finanças, logística e energia sem treinar modelos do zero. Para desenvolvedores e empresas que dependem de séries temporais, isso reduz custo e tempo de implementação. É uma notícia de lançamento relevante para o ecossistema.",
-    "reasonEn": "Mistral unveiled Timestral, a family of foundation models for time-series forecasting that, according to the company, achieves state-of-the-art results. The launch enables more accurate forecasting in finance, logistics, and energy without training models from scratch. For developers and businesses relying on time-series data, this reduces both cost and time to deploy. It is a meaningful product release for the ecosystem.",
-    "score": 0.85,
-    "tags": [
-      "modelo",
-      "lançamento"
-    ],
-    "img": "img/51edf4c64381.jpg",
-    "ts": 1792137446,
-    "addedTs": 1792139831,
-    "urlHash": "51edf4c64381",
-    "titleHash": "1ec4dd4f61e9"
-  },
-  {
-    "title": "Kern – a zero-trust verification gateway for AI-generated code",
-    "titlePt": "Kern: gateway de verificação zero-trust para código gerado por IA",
-    "url": "https://github.com/newmathphys/kern",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O Kern é um gateway de segurança que aplica princípios de zero-trust ao código produzido por inteligências artificiais, validando automaticamente o que entra em produção. A ferramenta responde a uma preocupação crescente de equipes que adotam copilots e agentes de programação. Para times de engenharia, oferece uma camada extra de governança sobre o código gerado. Ajuda a reduzir incidentes e falhas de segurança.",
-    "reasonEn": "Kern is a security gateway applying zero-trust principles to AI-generated code, automatically validating what reaches production. The tool addresses a growing concern among teams adopting copilots and coding agents. For engineering teams, it offers an extra governance layer over generated code. It helps reduce security incidents and regressions.",
-    "score": 0.75,
-    "tags": [
-      "segurança",
-      "devtools"
-    ],
-    "img": "img/3d6a90a4f4ff.jpg",
-    "ts": 1792136993,
-    "addedTs": 1792139831,
-    "urlHash": "3d6a90a4f4ff",
-    "titleHash": "d5ffd906f920"
-  },
-  {
-    "title": "AI is driving a boom in modestly successful software projects",
-    "titlePt": "IA impulsiona boom de projetos de software modestamente bem-sucedidos",
-    "url": "https://www.seangoedecke.com/ai-is-driving-a-boom-in-modestly-successful-software/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A reportagem descreve um fenômeno em que a inteligência artificial generativa está permitindo a criação de um volume maior de pequenos projetos de software viáveis, antes inviáveis economicamente. O fenômeno sugere uma nova camada de mercado com produtos de nicho e receita limitada, porém sustentável. É útil para desenvolvedores independentes e fundadores pensando em produtos pequenos. Traz dados relevantes sobre a economia do software.",
-    "reasonEn": "The report describes a phenomenon in which generative AI is enabling a greater number of modestly successful small software projects that would previously have been uneconomic. The trend suggests a new market layer of niche products with limited but sustainable revenue. Useful for indie developers and founders considering small products. It brings meaningful data on the software economy.",
-    "score": 0.55,
-    "tags": [
-      "mercado",
-      "indie"
-    ],
-    "img": "img/a165f70bf516.jpg",
-    "ts": 1792135607,
-    "addedTs": 1792139831,
-    "urlHash": "a165f70bf516",
-    "titleHash": "88cff4a4c095"
-  },
-  {
-    "title": "OpenClaw Enterprise – The Open Agent Platform",
-    "titlePt": "OpenClaw Enterprise: a plataforma aberta de agentes",
-    "url": "https://openclaw.ai/blog/openclaw-enterprise",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O OpenClaw Enterprise se posiciona como uma plataforma aberta para construir, gerenciar e orquestrar agentes de IA em ambientes corporativos. A proposta compete com suítes proprietárias ao oferecer flexibilidade e integração com sistemas legados. Para empresas avaliando automação com agentes, é uma alternativa a acompanhar de perto. Pode interessar a arquitetos de soluções e líderes de transformação digital.",
-    "reasonEn": "OpenClaw Enterprise positions itself as an open platform for building, managing, and orchestrating AI agents in corporate environments. The offering competes with proprietary suites by providing flexibility and integration with legacy systems. For companies evaluating agent automation, it is an alternative worth watching. Relevant for solution architects and digital transformation leaders.",
-    "score": 0.55,
-    "tags": [
-      "agentes",
-      "enterprise"
-    ],
-    "img": "img/6f725bb8f8ef.jpg",
-    "ts": 1792131556,
-    "addedTs": 1792139831,
-    "urlHash": "6f725bb8f8ef",
-    "titleHash": "d154e587a3f0"
-  },
-  {
-    "title": "The Agentic Scientist – SakanaAI",
-    "titlePt": "O Cientista Agêntico da SakanaAI",
-    "url": "https://github.com/SakanaAI/AI-Scientist-v3",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A SakanaAI apresentou o Agentic Scientist, um sistema agêntico voltado a automatizar partes do trabalho científico, da hipótese à experimentação. A proposta ilustra como agentes podem conduzir ciclos de pesquisa de forma mais autônoma. Para a comunidade acadêmica e de P e D corporativo, é um avanço a observar. Tem implicações em como equipes de pesquisa usarão IA nos próximos anos.",
-    "reasonEn": "SakanaAI introduced the Agentic Scientist, an agentic system aimed at automating parts of the scientific workflow, from hypothesis to experimentation. The proposal illustrates how agents can drive research cycles more autonomously. For the academic and corporate R and D community, it is an advancement worth watching. It has implications for how research teams will use AI in coming years.",
-    "score": 0.6,
-    "tags": [
-      "agentes",
-      "pesquisa"
-    ],
-    "img": "img/f9f0ce1ca5b1.jpg",
-    "ts": 1792131274,
-    "addedTs": 1792139831,
-    "urlHash": "f9f0ce1ca5b1",
-    "titleHash": "4a5af154db4b"
-  },
-  {
-    "title": "Investors dump data centre bonds as AI borrowers face 'Darwin moment'",
-    "titlePt": "Investidores vendem bonds de data centers em momento Darwiniano da IA",
-    "url": "https://www.ft.com/content/678bcd31-6c2a-447b-a68c-ce6dec220bbc",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Investidores começaram a se desfazer de títulos de dívida de data centers ligados a projetos de IA, sinalizando uma seleção mais dura entre os emprunteis do setor. O movimento indica que o boom de financiamento de infraestrutura para IA começa a passar por um filtro de qualidade. Para empresas de tecnologia e fornecedores de infraestrutura, isso pode significar custos de capital mais altos. É relevante para quem acompanha o lado financeiro da indústria.",
-    "reasonEn": "Investors have started dumping data center bonds tied to AI projects, signaling a sharper quality filter among sector borrowers. The move indicates the AI infrastructure financing boom is beginning to face a Darwinian shakeout. For tech firms and infrastructure providers, this may mean higher capital costs. Relevant for those tracking the industry's financial side.",
-    "score": 0.8,
-    "tags": [
-      "finanças",
-      "infraestrutura"
-    ],
-    "img": "img/2c7a92a38350.jpg",
-    "ts": 1792131102,
-    "addedTs": 1792139831,
-    "urlHash": "2c7a92a38350",
-    "titleHash": "6934fbf26854"
-  },
-  {
-    "title": "Dwarkesh Patel on what the public doesn't know about AI",
-    "titlePt": "Dwarkesh Patel sobre o que o público não sabe sobre IA",
-    "url": "https://www.nytimes.com/2026/10/15/opinion/interesting-times-dwarkes-patel-tyler-cowen.html",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O entrevistador Dwarkesh Patel conversa com pesquisadores e executivos sobre temas pouco discutidos publicamente no setor de IA, incluindo limitações reais e efeitos geopolíticos. É uma fonte frequente de entrevistas longas com vozes relevantes do campo. Para acompanhar o debate de bastidores, vale como referência. Tem utilidade para quem pensa estratégia e cenário de longo prazo.",
-    "reasonEn": "Interviewer Dwarkesh Patel speaks with researchers and executives about topics rarely discussed publicly in AI, including real limitations and geopolitical effects. He is a recurring host of long-form interviews with relevant voices in the field. Useful as a reference for those tracking the behind-the-scenes debate. It supports long-term strategy and scenario thinking.",
-    "score": 0.6,
-    "tags": [
-      "entrevista",
-      "indústria"
-    ],
-    "img": "img/518516445e6f.jpg",
-    "ts": 1792130664,
-    "addedTs": 1792139831,
-    "urlHash": "518516445e6f",
-    "titleHash": "4d020e79301e"
-  },
-  {
-    "title": "Volta's $5B debt deal is a pulse check on the AI-financing boom",
-    "titlePt": "Acordo de US$ 5 bi da Volta é um pulso do boom de financiamento de IA",
-    "url": "https://www.semafor.com/article/10/13/2026/voltas-5-billion-debt-deal-is-a-pulse-check-on-the-ai-financing-boom",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "A Volta fechou um acordo de dívida de cerca de US$ 5 bilhões ligado a infraestrutura de IA, e o negócio é visto como um termômetro do apetite do mercado. O tamanho do deal indica que ainda há capital disponível para projetos sólidos, mesmo com o cenário mais seletivo. Para empresas do ecossistema, é um sinal importante sobre custos e disponibilidade de crédito. Vale acompanhar como indicador setorial.",
-    "reasonEn": "Volta closed a roughly USD 5 billion debt deal tied to AI infrastructure, and the transaction is seen as a pulse check on market appetite. The size of the deal shows capital is still available for solid projects even as the market becomes more selective. For ecosystem companies, it is an important signal on costs and credit availability. Worth tracking as a sector indicator.",
-    "score": 0.7,
-    "tags": [
-      "finanças",
-      "infraestrutura"
-    ],
-    "img": "img/4f239af50429.jpg",
-    "ts": 1792129181,
-    "addedTs": 1792139831,
-    "urlHash": "4f239af50429",
-    "titleHash": "713722e3ac8e"
-  },
-  {
-    "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
-    "titlePt": "Avaliando e ensinando agentes sob um relógio em tempo real",
-    "url": "https://arxiv.org/abs/2610.20665",
-    "source": "arXiv AI",
-    "sources": [
-      "arXiv AI"
-    ],
-    "reason": "O artigo propõe métodos para avaliar agentes de IA em situações com restrições de tempo reais, aproximando benchmarks do uso prático. A pesquisa é útil para quem desenvolve agentes que precisam tomar decisões rápidas, como trading ou resposta a incidentes. Mostra uma evolução nos critérios de avaliação além de métricas estáticas. Para pesquisadores e engenheiros de agentes, é uma leitura relevante.",
-    "reasonEn": "The paper proposes methods to evaluate AI agents under real-time constraints, bringing benchmarks closer to practical use. The work is useful for those building agents that need fast decisions, such as trading or incident response. It shows an evolution in evaluation criteria beyond static metrics. Relevant reading for researchers and agent engineers.",
-    "score": 0.55,
-    "tags": [
-      "pesquisa",
-      "agentes"
-    ],
-    "img": "img/a828bd7f7dff.jpg",
-    "ts": 1792123200,
-    "addedTs": 1792139831,
-    "urlHash": "a828bd7f7dff",
-    "titleHash": "3552793c06fa"
-  },
-  {
-    "title": "Evaluating Model Capabilities After Benchmark Saturation",
-    "titlePt": "Avaliando capacidades de modelos após saturação de benchmarks",
-    "url": "https://arxiv.org/abs/2610.20667",
-    "source": "arXiv AI",
-    "sources": [
-      "arXiv AI"
-    ],
-    "reason": "O artigo discute como avaliar modelos de IA quando os benchmarks tradicionais já estão saturados e deixam de diferenciar sistemas. Os autores propõem abordagens para medir progresso real em vez de pontuações infladas. É uma leitura importante para quem acompanha lançamentos e precisa interpretar marketing de modelos. Ajuda a evitar conclusões enganosas baseadas em números saturados.",
-    "reasonEn": "The paper discusses how to evaluate AI models once traditional benchmarks saturate and stop differentiating systems. The authors propose approaches to measure real progress instead of inflated scores. Important reading for those tracking launches and needing to interpret model marketing. It helps avoid misleading conclusions based on saturated numbers.",
-    "score": 0.65,
-    "tags": [
-      "pesquisa",
-      "benchmarks"
-    ],
-    "img": "img/64ab9f94b7d6.jpg",
-    "ts": 1792123200,
-    "addedTs": 1792139831,
-    "urlHash": "64ab9f94b7d6",
-    "titleHash": "4ae4d4a62301"
-  },
-  {
-    "title": "Meta launches an open-weight AI model that runs on Macs",
-    "titlePt": "Meta lança modelo de IA open-weight que roda em Macs",
-    "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A Meta disponibilizou um novo modelo de IA de pesos abertos que pode ser executado diretamente em Macs, sem depender de nuvem. Isso dá a desenvolvedores mais flexibilidade, privacidade e opção local para experimentar. É uma notícia importante para quem quer rodar modelos grandes localmente em hardware Apple.",
-    "reasonEn": "Meta released a new open-weight AI model that runs locally on Macs without needing the cloud. It gives developers more flexibility, privacy, and a local option to experiment. Important news for anyone wanting to run large models on Apple hardware.",
-    "score": 0.85,
-    "tags": [
-      "lançamento",
-      "open-source",
-      "meta"
-    ],
-    "img": "img/f2d5651ecb42.jpg",
-    "ts": 1792094693,
-    "addedTs": 1792139831,
-    "urlHash": "f2d5651ecb42",
-    "titleHash": "ebb2b70346a6"
-  },
-  {
-    "title": "How Block is building AI-powered security with OpenAI technology",
-    "titlePt": "Como a Block constrói segurança com IA usando tecnologia da OpenAI",
-    "url": "https://openai.com/index/block-ai-powered-security",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A Block, dona do Square e Cash App, detalha como está usando modelos da OpenAI para detectar fraudes e fortalecer a segurança de seus produtos financeiros. A iniciativa mostra um caso real de IA aplicada em compliance e antifraude. Importa para fintechs e para quem se preocupa com segurança em pagamentos.",
-    "reasonEn": "Block, owner of Square and Cash App, explains how it is using OpenAI models to detect fraud and strengthen security in its financial products. The initiative shows a real-world AI use case for compliance and antifraud. Relevant for fintechs and payment security teams.",
-    "score": 0.55,
-    "tags": [
-      "segurança",
-      "fintech",
-      "openai"
-    ],
-    "img": "img/94ee28b93f9d.jpg",
-    "ts": 1791961200,
-    "addedTs": 1792139831,
-    "urlHash": "94ee28b93f9d",
-    "titleHash": "0597e3f41f97"
-  },
-  {
-    "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-    "titlePt": "Como a Oracle transforma dias de trabalho em minutos com ChatGPT e Codex",
-    "url": "https://openai.com/index/oracle",
-    "source": "OpenAI",
-    "sources": [
-      "OpenAI"
-    ],
-    "reason": "A Oracle publicou um estudo de caso mostrando ganhos significativos ao usar ChatGPT e Codex em tarefas internas de engenharia. Equipes relatam redução de tempo em migrations, geração de código e revisões. Serve como referência para empresas avaliando onde aplicar IA em desenvolvimento.",
-    "reasonEn": "Oracle published a case study showing significant time savings using ChatGPT and Codex for internal engineering work. Teams reported faster migrations, code generation, and reviews. A useful reference for companies evaluating where to apply AI in development.",
-    "score": 0.6,
-    "tags": [
-      "devtools",
-      "empresa",
-      "openai"
-    ],
-    "img": "img/db7b9e6fe248.jpg",
-    "ts": 1791475200,
-    "addedTs": 1792139831,
-    "urlHash": "db7b9e6fe248",
-    "titleHash": "731a7bbe642d"
-  },
-  {
-    "title": "Space (AI agent containment sandbox) software open source",
-    "titlePt": "Space: sandbox open source para conter agentes de IA",
-    "url": "https://au.finance.yahoo.com/news/perplexity-open-source-tool-used-180212360.html",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O Space é um software open source que oferece um ambiente de contenção para agentes de IA rodarem de forma isolada e segura. A proposta chega num momento em que cada vez mais empresas implantam agentes autônomos em produção e precisam limitar o estrago caso algo dê errado. O projeto é útil para times que querem testar agentes sem expor sistemas internos. Qualquer desenvolvedor pode auditar o código por ser aberto, o que aumenta a confiança no isolamento. A tendência mostra que 'caixas de areia' para agentes virou categoria própria em 2026.",
-    "reasonEn": "Space is an open-source sandbox designed to safely contain AI agents while they execute tasks. It arrives as more companies deploy autonomous agents in production and need to limit blast radius if something goes wrong. The project helps teams test agents without exposing production systems. Because the code is open, any developer can audit the isolation guarantees. The launch signals that agent sandboxes are becoming a standalone product category in 2026.",
-    "score": 0.75,
-    "tags": [
-      "agentes",
-      "sandbox",
-      "open-source"
-    ],
-    "img": "img/8109f012967c.jpg",
-    "ts": 1792116622,
-    "addedTs": 1792117294,
-    "urlHash": "8109f012967c",
-    "titleHash": "17effd9b8d8e"
-  },
-  {
-    "title": "Gemini 4 Argon in Antigravity to Paid Google AI Pro",
-    "titlePt": "Gemini 4 Argon chega ao plano pago Google AI Pro",
-    "url": "https://twitter.com/antigravity/status/2110866531932316011",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O novo modelo Gemini 4 Argon foi integrado ao editor Antigravity e liberado para assinantes do Google AI Pro. A mudança indica mais capacidade de raciocínio e ferramentas embutidas para desenvolvedores. Assinantes gratuitos ficam de fora dessa leva, o que pode frustrar usuários casuais. O movimento também pressiona rivais como ChatGPT e Claude a atualizarem suas ofertas pagas. Vale para quem já paga o Google AI Pro e busca o modelo mais novo sem custo extra.",
-    "reasonEn": "The new Gemini 4 Argon model has been added to the Antigravity editor and is rolling out to Google AI Pro subscribers. The update signals stronger reasoning and built-in dev tooling. Free-tier users are excluded, which may frustrate casual users. The move also pressures rivals like ChatGPT and Claude to refresh their paid tiers. It matters most for existing Google AI Pro subscribers who want the newest model without paying more.",
-    "score": 0.7,
-    "tags": [
-      "modelo",
-      "lançamento",
-      "google"
-    ],
-    "img": "img/4e2c830c6c40.jpg",
-    "ts": 1792116524,
-    "addedTs": 1792117294,
-    "urlHash": "4e2c830c6c40",
-    "titleHash": "5c1bbb560a75"
-  },
-  {
-    "title": "AI Sandboxes by Buddy",
-    "titlePt": "AI Sandboxes da Buddy: sandbox para agentes em destaque no Product Hunt",
-    "url": "https://www.producthunt.com/products/buddy",
-    "source": "ProductHunt",
-    "sources": [
-      "ProductHunt"
-    ],
-    "reason": "A Buddy lançou no Product Hunt um produto chamado AI Sandboxes voltado a isolar a execução de agentes de IA. A solução compete diretamente com outras caixas de areia open source e proprietárias. É mais uma opção para times que precisam testar agentes sem riscos. O diferencial da Buddy está na integração com fluxos de trabalho prontos. Quem já usa Buddy pode adotar sem grandes mudanças no stack.",
-    "reasonEn": "Buddy launched an AI Sandboxes product on Product Hunt aimed at isolating AI agent execution. It competes with other open-source and proprietary sandbox offerings. It is another option for teams that need to test agents safely. Buddy's edge is its ready-made workflow integrations. Existing Buddy users can adopt it without major stack changes.",
-    "score": 0.5,
-    "tags": [
-      "agentes",
-      "sandbox",
-      "lançamento"
-    ],
-    "img": "img/8240a1c4f6ce.jpg",
-    "ts": 1792116154,
-    "addedTs": 1792117294,
-    "urlHash": "8240a1c4f6ce",
-    "titleHash": "3b09f1aafa6f"
-  },
-  {
-    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-    "titlePt": "Pré-treinamento Indic em escala: 2,8 trilhões de tokens com pipeline aberto",
-    "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-    "source": "HuggingFace",
-    "sources": [
-      "HuggingFace"
-    ],
-    "reason": "Pesquisadores publicaram um pipeline aberto de geração de dados para pré-treinar modelos na família de línguas Indic. O trabalho usou 2,8 trilhões de tokens, volume competitivo com pré-treinamentos ocidentais. O pipeline aberto permite que outros times reproduzam e ampliem o corpus sem precisar refazer a curadoria. A novidade reduz a barreira para construir modelos fortes em Hindi, Bengali e idiomas vizinhos. É um passo importante para diversidade linguística em IA.",
-    "reasonEn": "Researchers published an open data generation pipeline for pretraining models on Indic languages. The run used 2.8 trillion tokens, competitive with Western pretraining scales. Because the pipeline is open, other teams can reproduce and extend the corpus without redoing the curation work. This lowers the barrier for building strong models in Hindi, Bengali and related languages. It is an important step for language diversity in AI.",
-    "score": 0.6,
-    "tags": [
-      "modelo",
-      "treinamento",
-      "open-source"
-    ],
-    "img": "img/138e9b7e7d97.jpg",
-    "ts": 1792115087,
-    "addedTs": 1792117294,
-    "urlHash": "138e9b7e7d97",
-    "titleHash": "ae0cc30113f3"
-  },
-  {
-    "title": "Cloudflare and OpenAI: making AI discovery better for everyone",
-    "titlePt": "Cloudflare e OpenAI firmam parceria para melhorar descoberta de IA",
-    "url": "https://blog.cloudflare.com/cloudflare-openai-discovery-agentic-web/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Cloudflare e OpenAI anunciaram uma parceria para tornar mais fácil descobrir conteúdo gerado por IA e melhorar o ecossistema de indexação. A integração deve impactar como sites mostram ou escondem materiais feitos por modelos. Desenvolvedores que rodam bots e crawlers terão regras mais claras. Sites pequenos podem ganhar mais controle sobre seus conteúdos expostos a sistemas de IA. A medida pode virar padrão de mercado nos próximos meses.",
-    "reasonEn": "Cloudflare and OpenAI announced a partnership to make AI-generated content easier to discover and to improve the indexing ecosystem. The integration will affect how sites expose or hide model-produced material. Developers running bots and crawlers will get clearer rules. Smaller sites may gain more control over what AI systems see from them. The move could become an industry standard in coming months.",
-    "score": 0.75,
-    "tags": [
-      "parceria",
-      "cloudflare",
-      "openai"
-    ],
-    "img": "img/d05f789212e7.jpg",
-    "ts": 1792113890,
-    "addedTs": 1792117294,
-    "urlHash": "d05f789212e7",
-    "titleHash": "2fdcfff73d42"
-  },
-  {
-    "title": "What Nvidia's CEO thinks about the UK's AI future",
-    "titlePt": "O que o CEO da Nvidia pensa sobre o futuro da IA no Reino Unido",
-    "url": "https://news.sky.com/video/what-nvidias-ceo-really-thinks-about-ais-safety-13599433",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "Jensen Huang falou publicamente sobre o futuro da IA no Reino Unido, comentando infraestrutura e regulação. Ele destacou que o país precisa acelerar capacidade de computação para acompanhar EUA e China. A fala acontece num momento em que Londres busca posição de liderança europeia em IA. Empresas britânicas que dependem de GPUs Hopper abertas esperam sinais mais concretos do governo. A declaração também pesa nas conversas de data centers e energia no Reino Unido.",
-    "reasonEn": "Jensen Huang spoke publicly about the UK's AI future, touching on infrastructure and regulation. He stressed that the country needs more compute capacity to keep up with the US and China. The comments land while London is pushing for European AI leadership. British companies that depend on GPUs are looking for clearer signals from the government. The remarks matter for ongoing data center and power conversations in the UK.",
-    "score": 0.6,
-    "tags": [
-      "nvidia",
-      "reino-unido",
-      "regulação"
-    ],
-    "img": "img/d428bfb22456.jpg",
-    "ts": 1792110929,
-    "addedTs": 1792117294,
-    "urlHash": "d428bfb22456",
-    "titleHash": "8c09d0656497"
-  },
-  {
-    "title": "Show HN: Sjq – Jq, but for AI Streaming",
-    "titlePt": "Sjq: um Jq para fazer queries em streams de IA",
-    "url": "https://github.com/vivgrid/sjq",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O Sjq é uma ferramenta inspirada no jq, mas voltada a processar saída de modelos de IA em streaming. Permite filtrar, transformar e rotear tokens em tempo real sem montar um pipeline complexo. Devs que constroem agentes e chatbots acharão útil para cortar custos e latência. A ferramenta ainda é nova e a comunidade precisa amadurecer plugins e casos de uso. Vale testar em projetos paralelos antes de colocar em produção crítica.",
-    "reasonEn": "Sjq is a tool inspired by jq but aimed at processing AI model output streams. It lets you filter, transform and route tokens in real time without building a complex pipeline. Developers working on agents and chatbots can use it to cut costs and latency. The tool is still new and the community needs to mature plugins and use cases. Worth testing on side projects before rolling it into critical production.",
-    "score": 0.55,
-    "tags": [
-      "ferramenta",
-      "developer",
-      "streaming"
-    ],
-    "img": "img/db6e8ab43127.jpg",
-    "ts": 1792110891,
-    "addedTs": 1792117294,
-    "urlHash": "db6e8ab43127",
-    "titleHash": "3c8a073f1508"
-  },
-  {
-    "title": "What causes AI fatigue for engineers and how to ease the strain",
-    "titlePt": "O que causa fadiga de IA nos engenheiros e como aliviar",
-    "url": "https://thoughtbot.com/blog/what-causes-ai-fatigue-for-engineers-and-how-to-ease-the-strain",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O artigo discute a fadiga crescente entre engenheiros que passam o dia todo revisando código gerado por IA. O cansaço vem de contexto trocado a toda hora, promessas não cumpridas e trabalho extra de correção. A peça sugere práticas como limites de uso, code reviews em dupla e métricas de qualidade. É leitura útil para tech leads repensando como integrar LLMs sem queimar o time. O debate conecta com casos recentes de burnout em big techs.",
-    "reasonEn": "The article discusses growing fatigue among engineers who spend all day reviewing AI-generated code. The exhaustion comes from constant context switching, unmet promises and extra rework. The piece suggests practices like usage limits, paired reviews and quality metrics. It is useful reading for tech leads rethinking how to integrate LLMs without burning out the team. The debate echoes recent burnout stories in big tech.",
-    "score": 0.7,
-    "tags": [
-      "engenharia",
-      "burnout",
-      "gestão"
-    ],
-    "img": "img/6ee643c196b4.jpg",
-    "ts": 1792107803,
-    "addedTs": 1792117294,
-    "urlHash": "6ee643c196b4",
-    "titleHash": "88341ee08318"
-  },
-  {
-    "title": "Datadog Scout 1.0: New SRE model for investigating production issues",
-    "titlePt": "Datadog Scout 1.0: novo modelo SRE para investigar incidentes",
-    "url": "https://www.datadoghq.com/blog/ai/introducing-scout-sre-specialized-model-bits-ai/",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O Datadog Scout 1.0 traz um novo modelo para investigar problemas em produção, com raciocínio guiado e contexto automático. Equipes de SRE ganham uma ferramenta que reduz o vai e ping entre logs, traces e dashboards. A novidade compete com ofertas de IA para on-call da incumbents e startups. É especialmente útil para empresas que já usam o ecossistema Datadog. A versão 1.0 indica amadurecimento do produto após meses de beta.",
-    "reasonEn": "Datadog Scout 1.0 introduces a new SRE model for investigating production issues, with guided reasoning and automatic context. SRE teams get a tool that cuts the back-and-forth between logs, traces and dashboards. It competes with AI on-call offerings from incumbents and startups. It is especially relevant for companies already inside the Datadog ecosystem. The 1.0 tag signals product maturity after months in beta.",
-    "score": 0.75,
-    "tags": [
-      "devops",
-      "datadog",
-      "sre"
-    ],
-    "img": "img/deedf1dba71b.jpg",
-    "ts": 1792106303,
-    "addedTs": 1792117294,
-    "urlHash": "deedf1dba71b",
-    "titleHash": "9953e1ff47bc"
-  },
-  {
-    "title": "ChatGPT can peek at your Chrome tabs now",
-    "titlePt": "ChatGPT agora consegue espiar suas abas no Chrome",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-    "source": "HackerNews",
-    "sources": [
-      "HackerNews"
-    ],
-    "reason": "O ChatGPT ganhou a capacidade de ler o conteúdo de abas abertas no Chrome, com permissão do usuário. A função mira em resumir contexto de várias páginas sem copiar e colar manualmente. Traz ganho de produtividade, mas abre preocupações sérias de privacidade, especialmente em dados sensíveis. Usuários devem revisar permissões e evitar ativar em janelas com cliente, banco ou saúde. É mudança relevante que merece atenção antes de sair usando por padrão.",
-    "reasonEn": "ChatGPT gained the ability to read content from open Chrome tabs with user permission. The feature aims to summarize context across multiple pages without manual copy and paste. It boosts productivity but raises real privacy concerns, especially around sensitive data. Users should check permissions and avoid enabling it on windows with banking, health or client tabs. It is a meaningful change worth pausing on before defaulting to it.",
-    "score": 0.8,
-    "tags": [
-      "chatgpt",
-      "chrome",
-      "privacidade"
-    ],
-    "img": "img/e07170025272.jpg",
-    "ts": 1792104461,
-    "addedTs": 1792117294,
-    "urlHash": "e07170025272",
-    "titleHash": "732664cf978c"
   }
 ]
