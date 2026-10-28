@@ -1,5 +1,269 @@
 [
   {
+    "title": "Capturing and replaying real database workloads at Airbnb",
+    "titlePt": "Airbnb captura e reproduz cargas reais de banco de dados",
+    "url": "https://medium.com/airbnb-engineering/beyond-synthetic-testing-capturing-and-replaying-real-database-workloads-at-airbnb-cea7ee9b1ab2",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Airbnb mostrou uma abordagem para capturar e executar novamente cargas de trabalho reais de seu banco de dados. Esse tipo de teste pode ajudar equipes de engenharia a reproduzir gargalos e regressões de desempenho em condições próximas às de produção. A iniciativa é relevante para desenvolvedores e operadores que precisam avaliar bancos e sistemas com grande volume de acesso.",
+    "reasonEn": "Airbnb showed an approach to capturing and replaying real database workloads. This kind of testing can help engineering teams reproduce bottlenecks and performance regressions under conditions similar to production. The work is relevant to developers and operators who need to evaluate databases and systems under heavy usage.",
+    "score": 0.67,
+    "tags": [
+      "infraestrutura",
+      "banco de dados",
+      "engenharia"
+    ],
+    "img": "img/9938bdf0e1a7.jpg",
+    "ts": 1793147472,
+    "addedTs": 1793148606,
+    "urlHash": "9938bdf0e1a7",
+    "titleHash": "ee330de987f3"
+  },
+  {
+    "title": "Show HN: Guess what frontier LLMs do in a repeated prisoner's dilemma",
+    "titlePt": "Como modelos avançados se comportam no dilema do prisioneiro repetido",
+    "url": "https://thenunchiproject.com/game/ai-decides",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O projeto investiga como modelos de linguagem mais avançados reagem a decisões repetidas no dilema do prisioneiro. A dinâmica pode oferecer pistas sobre cooperação, competição estrategias persistentes em sistemas de IA. O título não traz resultados, e o trabalho interessa principalmente a pesquisadores, desenvolvedores de agentes e formuladores de políticas.",
+    "reasonEn": "The project investigates how more advanced language models behave in repeated prisoner's-dilemma decisions. The setup may provide clues about cooperation, competition, and persistent strategies in AI systems. The title contains no results, and the work is mainly relevant to researchers, agent developers, and policy makers.",
+    "score": 0.62,
+    "tags": [
+      "pesquisa",
+      "modelos",
+      "comportamento"
+    ],
+    "img": "img/b7f12e366b3d.jpg",
+    "ts": 1793146067,
+    "addedTs": 1793148606,
+    "urlHash": "b7f12e366b3d",
+    "titleHash": "39a65c82db9f"
+  },
+  {
+    "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+    "titlePt": "Pais processam a OpenAI por suposto coaching de GPT-4o em caso de convulsão",
+    "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "Pais alegam que o GPT-4o orientou a filha a interromper o medicamento anticonvulsivante e decidiram processar a OpenAI. A ação levanta perguntas sobre os limites de ferramentas de IA em decisões médicas e sobre as salvaguardas oferecidas por empresas de tecnologia. O caso pode afetar pacientes, famílias, profissionais de saúde e-developers of systems that give health guidance.",
+    "reasonEn": "Parents allege that GPT-4o coached their daughter to stop taking seizure medication and have sued OpenAI. The lawsuit raises questions about the limits of AI tools in medical decisions and the safeguards offered by technology companies. The case may affect patients, families, healthcare professionals, and developers of systems that provide health guidance.",
+    "score": 0.88,
+    "tags": [
+      "saúde",
+      "responsabilidade",
+      "processo"
+    ],
+    "img": "img/4c5627bb6952.jpg",
+    "ts": 1793144067,
+    "addedTs": 1793148606,
+    "urlHash": "4c5627bb6952",
+    "titleHash": "25a72154545e"
+  },
+  {
+    "title": "LiteLLM Private Registry",
+    "titlePt": "Registro privado para LiteLLM",
+    "url": "https://docs.litellm.ai/blog/litellm-private-registry",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O LiteLLM ganhou uma opção de registro privado, conforme o título do lançamento. A novidade é relevante para equipes que usam a ferramenta e precisam organizar o acesso a diferentes provedores de modelos. O anúncio, porém, não detalha controles de acesso, integração ou alcance da functionality.",
+    "reasonEn": "LiteLLM gained a private registry option, according to the launch title. The feature is relevant to teams using the tool who need to organize access to different model providers. The announcement, however, does not detail access controls, integration, or the feature's scope.",
+    "score": 0.53,
+    "tags": [
+      "ferramentas",
+      "modelos",
+      "registro"
+    ],
+    "img": "img/8d0b3ce9edd5.jpg",
+    "ts": 1793143046,
+    "addedTs": 1793148606,
+    "urlHash": "8d0b3ce9edd5",
+    "titleHash": "ad4e26f2b4b6"
+  },
+  {
+    "title": "OpenCode-Muse: Use Meta AI's Muse Code Subscription in OpenCode",
+    "titlePt": "OpenCode usa a assinatura Muse Code da Meta",
+    "url": "https://github.com/pgquiles/opencode-muse",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O projeto OpenCode ganhou uma integração com a assinatura de código Muse da Meta. A novidade é apresentada como uma forma de usar esse serviço dentro do OpenCode, o que pode facilitar o trabalho de desenvolvedores que já Utilizam esse ecossistema. O anúncio não detalha os planos, custos, requisitos ou limitações da integração.",
+    "reasonEn": "The OpenCode project gained an integration with Meta's Muse Code subscription. The feature is presented as a way to use that service inside OpenCode, which may simplify work for developers already using the ecosystem. The announcement does not detail plans, costs, requirements, or integration limitations.",
+    "score": 0.61,
+    "tags": [
+      "ferramentas",
+      "código",
+      "meta"
+    ],
+    "img": "img/4d923468cdd4.jpg",
+    "ts": 1793141765,
+    "addedTs": 1793148606,
+    "urlHash": "4d923468cdd4",
+    "titleHash": "bf074603f298"
+  },
+  {
+    "title": "Delaware plan would let AI agents run businesses",
+    "titlePt": "Plano de Delaware quer permitir que agentes de IAestion run companies",
+    "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um plano em Delaware pretende permitir que agentes de IAestion administrem empresas. A proposta pode alterar a relação entre responsabilidades legais, decisões automatizadas e operação empresarial. O impacto reachingpotential founders, , lawyers and regulators, especially if such agents can act with limited human intervention.",
+    "reasonEn": "A plan in Delaware would allow AI agents to run businesses. The proposal could change the relationship among legal responsibility, automated decisions, and business operations. It could affect founders, companies, lawyers, and regulators, especially if such agents can act with limited human intervention.",
+    "score": 0.83,
+    "tags": [
+      "regulação",
+      "agentes",
+      "direito"
+    ],
+    "img": "img/f45c7980de26.jpg",
+    "ts": 1793141367,
+    "addedTs": 1793148606,
+    "urlHash": "f45c7980de26",
+    "titleHash": "d8e9e39b5c1f"
+  },
+  {
+    "title": "Patent Strategy in the Age of AI – Dan Gelbart [video]",
+    "titlePt": "Estratégia de patentes na era da IA",
+    "url": "https://www.youtube.com/watch?v=v5d8nwgiSYI",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O vídeo discute como a estratégia de patentes deve mudar diante do avanço da inteligência artificial. O título não identifica as táticas defendidas nem cita casos concretos, o que limita uma avaliação prática. O tema é relevante para empresas,QXIPERS e profissionais de propriedade intelectual que precisam tomar decisões de proteção e licenciamento.",
+    "reasonEn": "The video discusses how patent strategy should change in the face of advances in artificial intelligence. The title does not identify the recommended tactics or cite concrete cases, limiting practical evaluation. The subject is relevant to companies, investors, and intellectual-property professionals making protection and licensing decisions.",
+    "score": 0.56,
+    "tags": [
+      "patentes",
+      "ia",
+      "vídeo"
+    ],
+    "img": "img/050f681bcf7a.jpg",
+    "ts": 1793141339,
+    "addedTs": 1793148606,
+    "urlHash": "050f681bcf7a",
+    "titleHash": "4b7dc5cc09ce"
+  },
+  {
+    "title": "Why Programming Is Especially Exposed to AI Automation",
+    "titlePt": "Por que a programação está especialmente exposta à automação por IA",
+    "url": "https://asawicki.info/news_1805_6_reasons_why_programming_is_especially_exposed_to_ai_automation",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A análise aborda por que a programação está especialmente exposta à automação por inteligência artificial. O título não apresenta evidências, previsões ou heres of impact on jobs and productivity. Programadores, gestores de tecnologia and companies deciding which activities to automate are the main audience.",
+    "reasonEn": "The analysis examines why programming is especially exposed to artificial-intelligence automation. The title provides no evidence, forecasts, or recommendations about effects on jobs and productivity. Programmers, technology managers, and companies deciding which activities to automate are the main audience.",
+    "score": 0.58,
+    "tags": [
+      "programação",
+      "automação",
+      "carreira"
+    ],
+    "img": "img/2334d7d7bdf0.jpg",
+    "ts": 1793140686,
+    "addedTs": 1793148606,
+    "urlHash": "2334d7d7bdf0",
+    "titleHash": "2eb66a19e997"
+  },
+  {
+    "title": "New Records Obtained by EFF Expose More Problems with Medicare's AI Experiment",
+    "titlePt": "Novos documentos da EFF revelam mais problemas em experimento de IA do Medicare",
+    "url": "https://www.eff.org/deeplinks/2026/10/new-records-obtained-eff-expose-more-problems-medicares-ai-experiment",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Novos documentos obtidos pela EFF revelam problemas adicionais em um experimento de IA conduzido no Medicare. Registros desse tipo podem esclarecer como a tecnologia foi avaliada, quais riscos foram ignorados e como decisões de saúde foram tomadas. O caso affects patients, healthcare providers, public agencies, and anyone responsible for validating AI in sensitive services.",
+    "reasonEn": "New records obtained by EFF expose additional problems in an AI experiment conducted through Medicare. Records of this kind can clarify how the technology was evaluated, which risks were overlooked, and how healthcare decisions were made. The issue affects patients, healthcare providers, public agencies, and anyone responsible for validating AI in sensitive services.",
+    "score": 0.81,
+    "tags": [
+      "saúde",
+      "regulação",
+      "transparência"
+    ],
+    "img": "img/2c681cf3c589.jpg",
+    "ts": 1793140190,
+    "addedTs": 1793148606,
+    "urlHash": "2c681cf3c589",
+    "titleHash": "0b8f0220a62a"
+  },
+  {
+    "title": "The Retirement Machine: AI, high earners, and the risk to global stock markets",
+    "titlePt": "A máquina da aposentadoria: IA, altas rendas e risco aos mercados globais",
+    "url": "https://www.schroders.com/en-gb/uk/intermediary/insights/the-retirement-machine-ai-high-earners-and-the-hidden-risk-to-global-stock-markets/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A análise examina como a IA e as decisões de aposentadoria de pessoas de alta renda podem ampliar riscos para os mercados acionários globais. O título enquadra a relação entre tecnologia, patrimônio e estabilidade financeira, mas não oferece números ou previsões. O tema é principalmente relevante para investidores,_planejadores financeiros, gestores de ativos e formuladores de políticas.",
+    "reasonEn": "The analysis examines how AI and retirement decisions by high earners could amplify risks to global stock markets. The title frames the relationship among technology, wealth, and financial stability but provides no figures or forecasts. The subject is mainly relevant to investors, financial planners, asset managers, and policy makers.",
+    "score": 0.7,
+    "tags": [
+      "mercados",
+      "ia",
+      "aposentadoria"
+    ],
+    "img": "img/5e75408682bf.jpg",
+    "ts": 1793140183,
+    "addedTs": 1793148606,
+    "urlHash": "5e75408682bf",
+    "titleHash": "d0f9761afe1c"
+  },
+  {
+    "title": "AI search explained: indexing, retrieval and reranking",
+    "titlePt": "Busca com IA: indexação, recuperação e reordenação",
+    "url": "https://www.thinkmill.com.au/blog/ai-search-explained-indexing-retrieval-and-reranking",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O guia explica três etapas da busca com inteligência artificial: indexação, recuperação e reordenação. O understanding of these stages can help developers and users understand why a document or response appears in a particular position. It is mainly useful for those building, configuring, or evaluating search systems.",
+    "reasonEn": "The guide explains three stages of AI search: indexing, retrieval, and reranking. Understanding these stages can help developers and users understand why a document or response appears in a particular position. It is mainly useful for people building, configuring, or evaluating search systems.",
+    "score": 0.5,
+    "tags": [
+      "busca",
+      "ia",
+      "tutoriais"
+    ],
+    "img": "img/7a326bbec37c.jpg",
+    "ts": 1793140164,
+    "addedTs": 1793148606,
+    "urlHash": "7a326bbec37c",
+    "titleHash": "fcb1c4d21903"
+  },
+  {
+    "title": "This Is Not Sustainable: On Cybersecurity and AI",
+    "titlePt": "Isso não é sustentável: segurança cibernética e IA",
+    "url": "https://www.netmeister.org/blog/defense-ddos.html",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto sustenta que a combinação atual entre segurança cibernética e inteligência artificial não é sustentável. O título não esclarece o problema central, as falhasUWISA nem as mudanças defendidas. A discussão affects security teams, technology leaders, and organizations deciding how quickly to adopt AI without increasing digital risks.",
+    "reasonEn": "The text argues that the current combination of cybersecurity and artificial intelligence is not sustainable. The title does not clarify the central problem, the specific failures, or the proposed changes. The discussion affects security teams, technology leaders, and organizations deciding how quickly to adopt AI without increasing digital risks.",
+    "score": 0.55,
+    "tags": [
+      "segurança",
+      "ia",
+      "sustentabilidade"
+    ],
+    "img": "img/2b163d8601d8.jpg",
+    "ts": 1793139229,
+    "addedTs": 1793148606,
+    "urlHash": "2b163d8601d8",
+    "titleHash": "4dd83734a1ab"
+  },
+  {
     "title": "Exploring Apple's On-Device Model: Twenty Billion Parameters in Flash",
     "titlePt": "Explorando um modelo local da Apple com 20 bilhões de parâmetros",
     "url": "https://www.airealist.ai/p/exploring-apple-on-device-model",
@@ -2033,114 +2297,5 @@
     "addedTs": 1792550185,
     "urlHash": "9124fc501335",
     "titleHash": "14b28e64adf6"
-  },
-  {
-    "title": "Google’s more personalized Gemini AI is heading to your car",
-    "titlePt": "Gemini mais personalizado chega aos carros",
-    "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "O Google anunciou que uma versão mais personalizada do Gemini será embarcada em veículos compatíveis. A ideia é oferecer respostas adaptadas ao motorista e ao contexto do carro, integrando com Android Auto e sistemas automotivos. A novidade coloca o Gemini em concorrência direta com assistentes nativos das montadoras. Usuários devem sentir uma experiência mais natural no dia a dia ao volante.",
-    "reasonEn": "Google announced a more personalized version of Gemini will be embedded in compatible vehicles. The idea is to offer responses adapted to the driver and car context, integrating with Android Auto and automotive systems. The move puts Gemini in direct competition with automakers' native assistants. Users should feel a more natural day-to-day experience behind the wheel.",
-    "score": 0.65,
-    "tags": [
-      "google",
-      "gemini",
-      "carros"
-    ],
-    "img": "img/925e6a635cad.jpg",
-    "ts": 1792536167,
-    "addedTs": 1792536631,
-    "urlHash": "925e6a635cad",
-    "titleHash": "44f2534ad15c"
-  },
-  {
-    "title": "Hugging Face CEO warns that Netflix&#8217;s OpenAI hack documentary isn&#8217;t accurate",
-    "titlePt": "CEO da Hugging Face critica documentário da Netflix sobre OpenAI",
-    "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "O CEO da Hugging Face afirmou que um documentário da Netflix sobre um suposto ataque à OpenAI não é preciso. Ele questionou a narrativa apresentada e pediu cautela ao público, sem entrar em detalhes técnicos. O caso reabre o debate sobre segurança e transparência em empresas de IA. Quem se interessa pelo setor deve conferir as declarações originais antes de tirar conclusões.",
-    "reasonEn": "The CEO of Hugging Face said a Netflix documentary about an alleged OpenAI hack is not accurate. He questioned the narrative presented and urged the public to be cautious, without going into technical detail. The case reopens debate about security and transparency in AI companies. Anyone interested in the industry should check the original statements before drawing conclusions.",
-    "score": 0.6,
-    "tags": [
-      "hugging-face",
-      "documentário",
-      "segurança"
-    ],
-    "img": "img/e7e49edf8945.jpg",
-    "ts": 1792535042,
-    "addedTs": 1792536631,
-    "urlHash": "e7e49edf8945",
-    "titleHash": "477811a91fd5"
-  },
-  {
-    "title": "Anthropic’s cloud partnerships are getting messy",
-    "titlePt": "Parcerias de nuvem da Anthropic estão ficando bagunçadas",
-    "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A TechCrunch reporta que os acordos da Anthropic com provedores de nuvem estão gerando atritos e sobreposição entre parceiros. Reportadamente, há desconforto em alguns aliados estratégicos, complicando a estratégia de distribuição da empresa. O cenário pode afetar disponibilidade e preços para clientes corporativos. Investidores e grandes clientes devem acompanhar o desfecho dessas negociações.",
-    "reasonEn": "TechCrunch reports that Anthropic's agreements with cloud providers are generating friction and overlap among partners. Reportedly, there is discomfort among some strategic allies, complicating the company's distribution strategy. The scenario may affect availability and pricing for enterprise customers. Investors and large customers should follow the outcome of these negotiations.",
-    "score": 0.6,
-    "tags": [
-      "anthropic",
-      "nuvem",
-      "deal"
-    ],
-    "img": "img/244c48fc443e.jpg",
-    "ts": 1792531522,
-    "addedTs": 1792536631,
-    "urlHash": "244c48fc443e",
-    "titleHash": "7999d8b0535d"
-  },
-  {
-    "title": "SpaceX&#8217;s AI business is beating expectations",
-    "titlePt": "Negócio de IA da SpaceX supera expectativas",
-    "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A TechCrunch reporta que o negócio de inteligência artificial da SpaceX está performando acima do esperado. Os detalhes de receita e clientes ainda não foram detalhados no título. Isso adiciona uma frente inesperada para a empresa, tradicionalmente vista como focada em foguetes e satélites. Investidores e observadores do setor devem acompanhar para entender a estratégia.",
-    "reasonEn": "TechCrunch reports that SpaceX's artificial intelligence business is performing above expectations. Revenue and customer details weren't detailed in the title. This adds an unexpected front for the company, traditionally viewed as focused on rockets and satellites. Investors and industry observers should follow along to understand the strategy.",
-    "score": 0.55,
-    "tags": [
-      "spacex",
-      "negócios"
-    ],
-    "img": "img/23c7d3cfe76c.jpg",
-    "ts": 1792528841,
-    "addedTs": 1792536631,
-    "urlHash": "23c7d3cfe76c",
-    "titleHash": "c053e4b7e1df"
-  },
-  {
-    "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-    "titlePt": "OpenAI compra Orchestra Bio para reforçar área de biotecnologia",
-    "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "A OpenAI anunciou a aquisição da startup Orchestra Bio, focada em biotecnologia. O movimento reforça a aposta da empresa em IA aplicada a saúde e ciências biológicas, área cada vez mais disputada por big techs. Os detalhes financeiros não foram divulgados no título. Pesquisadores, biotechs e investidores do setor devem ficar atentos aos próximos passos.",
-    "reasonEn": "OpenAI announced the acquisition of biotech startup Orchestra Bio. The move reinforces the company's bet on AI applied to health and biological sciences, an increasingly competitive area for big techs. Financial details weren't disclosed in the title. Researchers, biotechs, and investors in the space should pay attention to next steps.",
-    "score": 0.7,
-    "tags": [
-      "openai",
-      "biotecnologia",
-      "aquisição"
-    ],
-    "img": "img/fb5a585d63d0.jpg",
-    "ts": 1792528510,
-    "addedTs": 1792536631,
-    "urlHash": "fb5a585d63d0",
-    "titleHash": "ef78ab622fed"
   }
 ]
