@@ -1,5 +1,247 @@
 [
   {
+    "title": "Where the Tokens Go: Heat, Entropy and Error in Agentic Coding",
+    "titlePt": "Para onde vão os tokens: calor, entropia e erro na programação com agentes",
+    "url": "https://arxiv.org/abs/2611.23375",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "O estudo analisa como Tokens são distribuídos durante a programação com agentes, considerando calor, entropia e erro. O foco é mostrar onde o processo desperdiça esforço ou pode produzir resultados menos confiáveis. A pesquisa pode orientar equipes que procuram tornar agentes mais eficientes em ambientes de desenvolvimento.",
+    "reasonEn": "The study analyzes how tokens are distributed during agentic coding, focusing on heat, entropy, and error. It aims to show where the process wastes effort or may produce less reliable results. The research may guide teams seeking more efficient AI agents in software development environments.",
+    "score": 0.58,
+    "tags": [
+      "agentes",
+      "tokens",
+      "programação"
+    ],
+    "img": "img/b048edc1eac3.jpg",
+    "ts": 1795150800,
+    "addedTs": 1795185491,
+    "urlHash": "b048edc1eac3",
+    "titleHash": "44ca9ad6236a"
+  },
+  {
+    "title": "Diagnostic Accuracy and Navigation Behavior of Vision-Language Model Agents Reading Emergency CT and MRI Examinations",
+    "titlePt": "Agentes com visão e linguagem analisando exames de emergência",
+    "url": "https://arxiv.org/abs/2611.23480",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "O pesquisa avalia a precisão diagnóstica e o comportamento de navegação de agentes com visão e linguagem ao ler exames de tomografia e ressonância magnética. O trabalho mede se esses sistemas conseguem localizar informações relevantes e interpretar imagens clínicas. Os resultados são relevantes para a saúde e para o desenvolvimento de agentes médicos mais confiáveis.",
+    "reasonEn": "The study evaluates the diagnostic accuracy and navigation behavior of vision-language agents when reading CT and MRI scans. It measures whether these systems can locate relevant information and interpret clinical images. The findings are relevant to healthcare and to the development of more reliable medical agents.",
+    "score": 0.62,
+    "tags": [
+      "saúde",
+      "agentes",
+      "diagnóstico"
+    ],
+    "img": "img/574f4671e61f.jpg",
+    "ts": 1795150800,
+    "addedTs": 1795185491,
+    "urlHash": "574f4671e61f",
+    "titleHash": "0c5756fffc33"
+  },
+  {
+    "title": "SpecLook: Speculating Where to Look for Fast and Reliable Agentic MLLMs",
+    "titlePt": "SpecLook: onde procurar para tornar agentes multimodais mais rápidos",
+    "url": "https://arxiv.org/abs/2611.23483",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "O SpecLook explora uma estratégia especulativa para escolher onde um agente multimodal deve olhar durante a execução. A meta é reduzir atrasos e melhorar a confiabilidade das respostas. A abordagem pode ser útil em sistemas que precisam analisar muitas imagens com menor custo computacional.",
+    "reasonEn": "SpecLook explores a speculative strategy for choosing where a multimodal agent should look during execution. Its goal is to reduce delays and improve response reliability. The approach may help systems that need to analyze many images at lower computational cost.",
+    "score": 0.52,
+    "tags": [
+      "agentes",
+      "multimodal",
+      "eficiência"
+    ],
+    "img": "img/e36f272acbd4.jpg",
+    "ts": 1795150800,
+    "addedTs": 1795185491,
+    "urlHash": "e36f272acbd4",
+    "titleHash": "11a62d2740c9"
+  },
+  {
+    "title": "GRAFT: Execution-Guided Genetic Recombination for Agent Design",
+    "titlePt": "GRAFT: recombinação genética guiada por execução para criar agentes",
+    "url": "https://arxiv.org/abs/2611.23509",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "O GRAFT usa resultados de execução para orientar a recombinação genética no projeto de agentes. A estratégia combina variações de componentes e seleciona alternativas com base em seu comportamento observado. A abordagem pode acelerar a busca por agentes mais eficazes em tarefas complexas.",
+    "reasonEn": "GRAFT uses execution results to guide genetic recombination in agent design. The strategy combines component variations and selects alternatives based on observed behavior. The approach may speed the search for agents that are more effective at complex tasks.",
+    "score": 0.57,
+    "tags": [
+      "agentes",
+      "otimização",
+      "execução"
+    ],
+    "img": "img/78c398a62bc5.jpg",
+    "ts": 1795150800,
+    "addedTs": 1795185491,
+    "urlHash": "78c398a62bc5",
+    "titleHash": "51cf397f763c"
+  },
+  {
+    "title": "LProp: Propagating Latent Uncertainty through Evidence-Conditioned Belief Revision in LLM Agents",
+    "titlePt": "LProp: propagando incerteza em revisões de crenças de agentes",
+    "url": "https://arxiv.org/abs/2611.23564",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "O LProp propaga incerteza latente durante revisões de crenças condicionadas por evidências em agentes de linguagem. A proposta busca manter o grau de confiança coerente quando novas informações alteram as conclusões do agente. O método pode melhorar a segurança e a transparência de sistemas que precisam revisar decisões.",
+    "reasonEn": "LProp propagates latent uncertainty during evidence-conditioned belief revision in language-model agents. It seeks to keep confidence levels consistent when new information changes an agent's conclusions. The method may improve the safety and transparency of systems that must revise decisions.",
+    "score": 0.63,
+    "tags": [
+      "agentes",
+      "incerteza",
+      "evidências"
+    ],
+    "img": "img/bf0ee80e5fb9.jpg",
+    "ts": 1795150800,
+    "addedTs": 1795185491,
+    "urlHash": "bf0ee80e5fb9",
+    "titleHash": "afd8a9067639"
+  },
+  {
+    "title": "ARISE: Practical Self-Evolving Memory for Accurate and Cost-Efficient Enterprise Agents",
+    "titlePt": "ARISE: memória que evolui para agentes empresariais mais eficientes",
+    "url": "https://arxiv.org/abs/2611.23588",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "O ARISE apresenta uma memória autoevolutiva para agentes empresariais,ando precisão e custo de operação. O sistema ajusta o uso de informações retidas para melhorar respostas e evitar desperdício. A proposta é relevante para implantações de agentes em empresas, especialmente quando volume e custo importam.",
+    "reasonEn": "ARISE presents a self-evolving memory for enterprise agents, balancing accuracy and operating cost. The system adjusts how information is retained to improve responses and avoid waste. The proposal is relevant to enterprise agent deployments, especially where volume and cost matter.",
+    "score": 0.69,
+    "tags": [
+      "agentes",
+      "memória",
+      "empresas"
+    ],
+    "img": "img/2fb42fa5fa3e.jpg",
+    "ts": 1795150800,
+    "addedTs": 1795185491,
+    "urlHash": "2fb42fa5fa3e",
+    "titleHash": "a654d71ae945"
+  },
+  {
+    "title": "RefinementGuard: Counterexample-Directed Semantic Qualification for Hidden Agent-Tool Execution",
+    "titlePt": "RefinementGuard: protegendo a execução oculta de ferramentas",
+    "url": "https://arxiv.org/abs/2611.23611",
+    "source": "arXiv AI",
+    "sources": [
+      "arXiv AI"
+    ],
+    "reason": "O RefinementGuard usa contraexemplos para qualificar semanticamente a execução de ferramentas que pode permanecer oculta aos agentes. A proposta busca detectar comportamentos inadequados que escapam de verificações explícitas. O método é relevante para equipes que implantam agentes com acesso a ações internas sensíveis.",
+    "reasonEn": "RefinementGuard uses counterexamples to semantically qualify hidden agent-tool execution. It seeks to detect inappropriate behavior that escapes explicit checks. The method is relevant to teams deploying agents with access to sensitive internal actions.",
+    "score": 0.64,
+    "tags": [
+      "agentes",
+      "ferramentas",
+      "segurança"
+    ],
+    "img": "img/63f3fb83f788.jpg",
+    "ts": 1795150800,
+    "addedTs": 1795185491,
+    "urlHash": "63f3fb83f788",
+    "titleHash": "24dc8a815101"
+  },
+  {
+    "title": "Anthropic&#8217;s 7 founders cashed out nearly $2B in record-breaking IPO",
+    "titlePt": "Fundadores da Anthropic lucram quase US$ 2 bilhões em IPO recorde",
+    "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+    "source": "TechCrunch",
+    "sources": [
+      "TechCrunch"
+    ],
+    "reason": "Os sete fundadores da Anthropic teriam recebido quase US$ 2 bilhões com a abertura de capital da empresa,-described as a record IPO. O also marks a major financial milestone for the company and its early backers. The move is relevant to investors tracking AI valuations and to employees considering future equity opportunities.",
+    "reasonEn": "Anthropic's seven founders reportedly received nearly $2 billion as the company began trading, in a record-breaking IPO. The listing marks a major financial milestone for the company and its early backers. The move is relevant to investors tracking AI valuations and to employees considering future equity opportunities.",
+    "score": 0.74,
+    "tags": [
+      "anthropic",
+      "ipo",
+      "mercado"
+    ],
+    "img": "img/327354b7a28e.jpg",
+    "ts": 1795135430,
+    "addedTs": 1795185491,
+    "urlHash": "327354b7a28e",
+    "titleHash": "8f494a332d67"
+  },
+  {
+    "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+    "titlePt": "Adaptadores conectam modelos favoritos aos diferentes agentes",
+    "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+    "source": "HuggingFace",
+    "sources": [
+      "HuggingFace"
+    ],
+    "reason": "A Hugging Face introduz adaptadores que conectam um modelo escolhido a diferentes ambientes de execução de agentes. A proposta permite adaptar o mesmo modelo a distintas ferramentas e fluxos de trabalho, buscando melhorar desempenho e custo. É uma novidade prática para equipes que usam agentes e precisam aproveitar modelos já conhecidos.",
+    "reasonEn": "Hugging Face introduces adapters that connect a chosen model to different agent execution environments. The release lets teams adapt the same model to distinct tools and workflows, aiming to improve performance and cost. It is a practical development for teams using agents who want to reuse familiar models.",
+    "score": 0.85,
+    "tags": [
+      "hugging face",
+      "adaptadores",
+      "agentes"
+    ],
+    "img": "img/701a571706ec.jpg",
+    "ts": 1795132800,
+    "addedTs": 1795185491,
+    "urlHash": "701a571706ec",
+    "titleHash": "74c073d495f9"
+  },
+  {
+    "title": "Apple is hiring engineers to build its own AI agent",
+    "titlePt": "Apple contrata engenheiros para criar seu próprio agente de IA",
+    "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "A Apple está contratando engenheiros para desenvolver seu próprio agente de IA, segundo o The Verge. A contratação confirma investimento interno em assistentes capable de performing tasks, though Apple has not detailed all capabilities or release plans. Mac users and developers may benefit from tighter system integration if the product reaches the market.",
+    "reasonEn": "Apple is hiring engineers to build its own AI agent, according to The Verge. The hiring confirms internal investment in assistants capable of performing tasks, though Apple has not detailed all capabilities or release plans. Mac users and developers may benefit from tighter system integration if the product reaches the market.",
+    "score": 0.79,
+    "tags": [
+      "apple",
+      "agente",
+      "contratações"
+    ],
+    "img": "img/f8133dc16aac.jpg",
+    "ts": 1795129981,
+    "addedTs": 1795185491,
+    "urlHash": "f8133dc16aac",
+    "titleHash": "bcfe38088e7d"
+  },
+  {
+    "title": "Google is putting AI chats right on the homepage",
+    "titlePt": "Google leva chats de IA para a página inicial",
+    "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+    "source": "The Verge",
+    "sources": [
+      "The Verge"
+    ],
+    "reason": "O Google está colocando chats com inteligência artificial diretamente na página inicial de seus produtos. A mudança pode tornar o acesso mais imediato e reduzir a distância entre o usuário e os assistentes. O impacto será maior para consumidores frequentes e para equipes que acompanham a distribuição dos serviços da company.",
+    "reasonEn": "Google is placing AI chats directly on the homepage of its products. The change may make access more immediate and reduce the distance between users and assistants. Its impact will be greatest for frequent consumers and teams tracking how the company distributes its services.",
+    "score": 0.81,
+    "tags": [
+      "google",
+      "chat",
+      "busca"
+    ],
+    "img": "img/c363e4ee1aa6.jpg",
+    "ts": 1795119274,
+    "addedTs": 1795185491,
+    "urlHash": "c363e4ee1aa6",
+    "titleHash": "bb92a1880034"
+  },
+  {
     "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
     "titlePt": "Google amplia acesso ao Gemini Tasks para ligações e compras",
     "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
