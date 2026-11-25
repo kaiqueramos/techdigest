@@ -1,5 +1,203 @@
 [
   {
+    "title": "Are we over-optimizing AI SRE agents instead of solving the context problem?",
+    "titlePt": "Agentes de IA para operação: estamos otimizando demais?",
+    "url": "https://www.elastic.co/observability-labs/blog/elastic-streams-telemetry-pipeline-s3",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto questiona se o foco em otimizar agentes de IA para a operação de sistemas está sendo maior do que o de resolver o problema de contexto. A crítica sugere que melhorar o desempenho sem garantir que o agente encontre as informações certas pode apenas polir um comportamento complexo. Isso importa para equipes que colocam agentes em produção, pois ajustes de desempenho não resolvem falhas de informação.",
+    "reasonEn": "The article questions whether the focus on optimizing AI agents for system operations is greater than the focus on solving the context problem. The criticism suggests that improving performance without ensuring an agent can find the right information may only polish complex behavior. This matters to teams deploying agents in production because performance tweaks do not fix information failures.",
+    "score": 0.58,
+    "tags": [
+      "agentes",
+      "contexto",
+      "engenharia"
+    ],
+    "img": "img/8367ab102afe.jpg",
+    "ts": 1795602790,
+    "addedTs": 1795603373,
+    "urlHash": "8367ab102afe",
+    "titleHash": "4c6392e418f4"
+  },
+  {
+    "title": "Show HN: Agent Debugger – local-first failure debugger for AI agents",
+    "titlePt": "Depurador local de falhas em agentes de IA",
+    "url": "https://github.com/woxlo1/agent-debugger",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O projeto Agent Debugger foi criado para investigar falhas de agentes de IA sem depender de um serviço externo. A abordagem mantém a análise no ambiente local, o que pode facilitar o exame de dados sensíveis e de execuções problemática. Desenvolvedores de agentes são os principais afetados, pois ganham uma ferramenta para entender por que uma execução falhou.",
+    "reasonEn": "The Agent Debugger project was created to investigate AI agent failures without relying on an external service. Its approach keeps analysis on the local environment, which can make it easier to examine sensitive data and problematic runs. Agent developers benefit because they gain a tool for understanding why a run failed.",
+    "score": 0.72,
+    "tags": [
+      "agentes",
+      "depuração",
+      "ferramenta"
+    ],
+    "img": "img/5cffff09f594.jpg",
+    "ts": 1795600811,
+    "addedTs": 1795603373,
+    "urlHash": "5cffff09f594",
+    "titleHash": "3fef49216865"
+  },
+  {
+    "title": "AI is straining America’s open records systems",
+    "titlePt": "A IA está sobrecarregando os registros públicos dos EUA",
+    "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+    "source": "MIT Tech Review",
+    "sources": [
+      "MIT Tech Review"
+    ],
+    "reason": "O uso crescente de IA está sobrecarregando os sistemas de registros e solicitações públicas dos Estados Unidos. O problema importa porque o acesso rápido e confiável a esses documentos sustenta transparência e fiscalização. Agências, jornalistas e cidadãos podem enfrentar atrasos e mais dificuldade para obter informações.",
+    "reasonEn": "Growing use of AI is straining United States public records and request systems. The issue matters because fast and reliable access to these documents supports transparency and government oversight. Agencies, journalists, and citizens may face delays and greater difficulty obtaining information.",
+    "score": 0.77,
+    "tags": [
+      "registros públicos",
+      "ia",
+      "governo"
+    ],
+    "img": "img/aa2815536f14.jpg",
+    "ts": 1795600800,
+    "addedTs": 1795603373,
+    "urlHash": "aa2815536f14",
+    "titleHash": "f05b08f57d0c"
+  },
+  {
+    "title": "Google Files Patent for a TV Channel of AI-Made Videos Built Around You",
+    "titlePt": "Google registra patente para canal de vídeos de IA",
+    "url": "https://patentlyze.com/patent/google-ai-made-tv-channel-built-around-you/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O Google registrou uma patente para um canal de televisão composto por vídeos gerados por IA e personalizado para cada pessoa. O registro não comprova a existência do serviço, mas aponta para uma possível oferta de mídia adaptada aos interesses do usuário. Telespectadores, produtores de vídeo e especialistas em privacidade são afetados por essa direção de produto.",
+    "reasonEn": "Google filed a patent for a television channel made of AI-generated videos and personalized for each person. The filing does not prove the service exists, but it points toward a possible media offering tailored to a user's interests. Viewers, video producers, and privacy specialists are affected by this product direction.",
+    "score": 0.58,
+    "tags": [
+      "patentes",
+      "vídeos",
+      "personalização"
+    ],
+    "img": "img/daf644682f45.jpg",
+    "ts": 1795600477,
+    "addedTs": 1795603373,
+    "urlHash": "daf644682f45",
+    "titleHash": "a78024987ee6"
+  },
+  {
+    "title": "Is China behind a wave of AI fake videos targeting Taiwan?",
+    "titlePt": "A China está por trás dos vídeos falsos de IA contra Taiwan?",
+    "url": "https://www.bbc.com/news/articles/cv702rw7dzx5o",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto investiga se a China está por trás de uma onda de vídeos falsos feitos com IA e voltados contra Taiwan. A dúvida é central porque falsificações podem ser usadas para influenciar a opinião pública e semear desconfiança. Moradores de Taiwan, pesquisadores e democracias expostas a esse tipo de campanha ficam diante do impacto sobre a informação e a confiança.",
+    "reasonEn": "The article investigates whether China is behind a wave of AI-generated fake videos targeting Taiwan. The question matters because fabrications can be used to influence public opinion and spread distrust. Taiwan residents, researchers, and democracies exposed to this kind of campaign face consequences for information and trust.",
+    "score": 0.82,
+    "tags": [
+      "desinformação",
+      "vídeos",
+      "geopolítica"
+    ],
+    "img": "img/e9ba87f8085a.jpg",
+    "ts": 1795599802,
+    "addedTs": 1795603373,
+    "urlHash": "e9ba87f8085a",
+    "titleHash": "4b5e650f0cba"
+  },
+  {
+    "title": "From Knowing How to Use a Tool to Knowing How to Obtain It Quickly",
+    "titlePt": "De saber usar uma ferramenta a encontrá-la rapidamente",
+    "url": "https://medium.com/@smoking2man/from-knowing-how-to-use-a-tool-to-knowing-how-to-obtain-it-quickly-how-ai-is-changing-the-548b21458697",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O texto discute a diferença entre saber como usar uma ferramenta e conseguir encontrá-la rapidamente. Em fluxos com agentes, essa busca pode ocupar tempo e elevar a latência mesmo quando o modelo conhece a função da ferramenta. Desenvolvedores de agentes são afetados, pois a rapidez para selecionar a ferramenta certa influencia a confiabilidade e a eficiência.",
+    "reasonEn": "The article discusses the difference between knowing how to use a tool and being able to find it quickly. In agent workflows, that search can consume time and increase latency even when the model knows what the tool does. Agent developers are affected because quickly selecting the right tool influences reliability and efficiency.",
+    "score": 0.55,
+    "tags": [
+      "agentes",
+      "ferramentas",
+      "pesquisa"
+    ],
+    "img": "img/c74468e8c3e8.jpg",
+    "ts": 1795599489,
+    "addedTs": 1795603373,
+    "urlHash": "c74468e8c3e8",
+    "titleHash": "feb251aa023c"
+  },
+  {
+    "title": "SoftBank market value halves from peak as AI fears grow",
+    "titlePt": "Valor da SoftBank cai à metade do pico com medo da IA",
+    "url": "https://www.japantimes.co.jp/business/2026/10/22/companies/softbank-market-value-halves/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O valor de mercado da SoftBank caiu à metade de seu pico em meio a preocupações sobre suas apostas em IA. O movimento importa porque a SoftBank está entre as empresas mais expostas ao ciclo de investimentos em IA, e a queda pode afetar a percepção sobre esse setor. Investidores, empresas financiadas e operações de IA são afetados pela nova avaliação de risco.",
+    "reasonEn": "SoftBank's market value fell to half its peak amid concerns about its AI bets. The move matters because SoftBank is among the companies most exposed to the AI investment cycle, so the decline can affect perceptions of the broader sector. Investors, funded companies, and AI operations are affected by this new risk assessment.",
+    "score": 0.86,
+    "tags": [
+      "mercados",
+      "investimentos",
+      "ia"
+    ],
+    "img": "img/588e07252d85.jpg",
+    "ts": 1795598969,
+    "addedTs": 1795603373,
+    "urlHash": "588e07252d85",
+    "titleHash": "c400133d71cb"
+  },
+  {
+    "title": "Using Agentic AI to create the next generation of non-Java Kafka clients",
+    "titlePt": "IA agêntica cria clientes Kafka sem Java",
+    "url": "https://developer.confluent.io/blog/using-agentic-ai-to-create-non-java-clients/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O projeto mostra agentes de IA sendo usados para criar a próxima geração de clientes Kafka que não exigem Java. A ideia é usar automação para acelerar o desenvolvimento e a manutenção de componentes de comunicação. Desenvolvedores de sistemas distribuídos e equipes de infraestrutura são afetados, pois essa abordagem pode mudar o trabalho de programação desses clientes.",
+    "reasonEn": "The project shows AI agents being used to create the next generation of Kafka clients that do not require Java. The goal is to use automation to speed up the development and maintenance of communication components. Distributed-systems developers and infrastructure teams are affected because this approach could change the work of programming those clients.",
+    "score": 0.64,
+    "tags": [
+      "agentes",
+      "kafka",
+      "software"
+    ],
+    "img": "img/570b8229f7ad.jpg",
+    "ts": 1795597771,
+    "addedTs": 1795603373,
+    "urlHash": "570b8229f7ad",
+    "titleHash": "606a7071fd53"
+  },
+  {
+    "title": "Linus Torvalds: \"Tell Your AI Companion to Get Its Act Together\"",
+    "titlePt": "Linus Torvalds cobra melhora de companheiro de IA",
+    "url": "https://www.phoronix.com/news/Linus-Torvalds-EXT4-AI-Big",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Linus Torvalds expressou frustração com o desempenho de um companheiro de IA e pediu que a ferramenta se organizasse melhor. A fala chama atenção porque reúne uma crítica à confiabilidade de assistentes por meio de uma das vozes mais conhecidas da comunidade de software livre. Usuários de assistentes de IA e desenvolvedores de Linux acompanham o episódio como sinal de que resultados frágeis ainda geram atrito.",
+    "reasonEn": "Linus Torvalds expressed frustration with an AI companion's performance and asked the tool to get itself together. His comment draws attention because it critiques assistant reliability through one of the best-known voices in the open-source community. AI assistant users and Linux developers see the episode as a sign that weak results still create friction.",
+    "score": 0.53,
+    "tags": [
+      "linux",
+      "assistentes",
+      "confiabilidade"
+    ],
+    "img": "img/1002a5323771.jpg",
+    "ts": 1795597641,
+    "addedTs": 1795603373,
+    "urlHash": "1002a5323771",
+    "titleHash": "17606a8b32c1"
+  },
+  {
     "title": "Why Nvidia Must Fall: The End of the GPU Monopoly Era",
     "titlePt": "Por que a Nvidia precisa cair",
     "url": "https://starlight-ai.freemyip.com/sandbox/ae1b44336c58cd285837383f68d144d3d480388dd4489f2d95e60689f7e09dd2/",
@@ -548,71 +746,5 @@
     "addedTs": 1795185491,
     "urlHash": "c363e4ee1aa6",
     "titleHash": "bb92a1880034"
-  },
-  {
-    "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
-    "titlePt": "Google amplia acesso ao Gemini Tasks para ligações e compras",
-    "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "O Google ampliou o acesso ao Gemini Tasks, que pode ajudar usuários em ligações e compras. A novidade coloca um agente de IA a serviço de ações comuns do dia a dia. Quem usa o Gemini pode se beneficiar, enquanto empresas podem avaliar a automação de tarefas práticas.",
-    "reasonEn": "Google expanded access to Gemini Tasks, which can help users with calls and purchases. The release puts an AI agent to work on common everyday actions. Gemini users may benefit, while companies can evaluate automating routine tasks.",
-    "score": 0.84,
-    "tags": [
-      "agentes",
-      "google",
-      "produto"
-    ],
-    "img": "img/534361927951.jpg",
-    "ts": 1794942140,
-    "addedTs": 1794957296,
-    "urlHash": "534361927951",
-    "titleHash": "bfc69810024f"
-  },
-  {
-    "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
-    "titlePt": "Spark vira Tasks e fica gratuito no Google",
-    "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
-    "source": "The Verge",
-    "sources": [
-      "The Verge"
-    ],
-    "reason": "O agente Spark do Google passou a se chamar Tasks e agora está disponível gratuitamente. A mudança dá mais acesso à automação por IA e consolida Tasks como o novo nome da ferramenta. Usuários que querem delegar atividades comuns a um agente podem experimentar a opção sem custo.",
-    "reasonEn": "Google's Spark AI agent is now called Tasks and is available for free. The change gives more people access to AI automation while making Tasks the tool's new name. Users who want to hand routine activities to an agent can try the option at no cost.",
-    "score": 0.86,
-    "tags": [
-      "agentes",
-      "google",
-      "lançamento"
-    ],
-    "img": "img/20774146b79c.jpg",
-    "ts": 1794941934,
-    "addedTs": 1794957296,
-    "urlHash": "20774146b79c",
-    "titleHash": "105fdf36a1ea"
-  },
-  {
-    "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
-    "titlePt": "Chats do Gemini ficam guardados por dois meses, mesmo sem histórico",
-    "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
-    "source": "TechCrunch",
-    "sources": [
-      "TechCrunch"
-    ],
-    "reason": "O Google passou a manter conversas do Gemini por dois meses, em vez de apenas 72 horas. A retenção ocorre mesmo quando o usuário desativa o histórico, o que exige mais atenção de quem trata conversas como confidenciais. Usuários do Gemini devem revisar essa mudança antes de compartilhar informações sensíveis.",
-    "reasonEn": "Google now keeps Gemini conversations for two months instead of just 72 hours. Retention happens even when the user disables history, which requires more attention from people who treat conversations as confidential. Gemini users should review this change before sharing sensitive information.",
-    "score": 0.97,
-    "tags": [
-      "privacidade",
-      "google",
-      "dados"
-    ],
-    "img": "img/f6980f92e029.jpg",
-    "ts": 1794941303,
-    "addedTs": 1794957296,
-    "urlHash": "f6980f92e029",
-    "titleHash": "b184303c7fd3"
   }
 ]
