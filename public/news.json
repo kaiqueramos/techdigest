@@ -1,5 +1,202 @@
 [
   {
+    "title": "Billions in Data Center Deals Grind to Halt After Chip Curbs",
+    "titlePt": "Acordos bilionários de data centers travam após restrições a chips",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-25/billions-in-data-center-deals-grind-to-halt-after-ai-chip-curbs",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Acordos bilionários para construir data centers de IA pararam de avançar depois das novas restrições de exportação de chips avançados. Projetos que dependiam de aceleradores de ...",
+    "reasonEn": "Billion-dollar data center deals have stalled after new restrictions on advanced chip exports. Projects that depended on AI accelerators for large clusters now face delays, renegotiations or cancellations. The halt signals that chip export rules now directly shape where AI infrastructure gets built and who can build it. Cloud operators, investors and companies planning compute capacity are the ones directly affected.",
+    "score": 0.85,
+    "tags": [
+      "chips",
+      "datacenters",
+      "regulação"
+    ],
+    "img": "img/e7a22050f507.jpg",
+    "ts": 1795662943,
+    "addedTs": 1795665073,
+    "urlHash": "e7a22050f507",
+    "titleHash": "af1360097862"
+  },
+  {
+    "title": "Gut-Wrenching Volatility Grips Wall Street as AI Doubts Creep In",
+    "titlePt": "Volatilidade brutal sacode Wall Street com dúvidas sobre IA",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-25/stomach-churning-swings-rock-wall-street-as-ai-doubts-creep-in",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A bolsa dos Estados Unidos passou por uma forte oscilação enquanto crescem as dúvidas sobre o retorno dos investimentos em IA. O mercado passou a exigir resultados concretos, em vez de aceitar apenas narrativas de crescimento. Títulos expostos ao tema, como gigantes de chips e provedores de nuvem, sofreram com o humor do investidor. Quem tem ações ligadas à IA ou planeja entrar no setor precisa conviver com esse vaivém.",
+    "reasonEn": "The US stock market went through heavy swings as doubts grow about the returns on AI investments. The market now demands concrete results instead of accepting growth narratives alone. Names exposed to the theme, such as chip giants and cloud providers, suffered as investor sentiment turned. Anyone holding AI-linked stocks or planning to enter the sector has to live with this turbulence.",
+    "score": 0.7,
+    "tags": [
+      "mercados",
+      "investimentos"
+    ],
+    "img": "img/1af423c5f25f.jpg",
+    "ts": 1795662831,
+    "addedTs": 1795665073,
+    "urlHash": "1af423c5f25f",
+    "titleHash": "a2ba72694982"
+  },
+  {
+    "title": "vLLM-GR: Efficient Inference for Generative Recommendation",
+    "titlePt": "vLLM-GR: inferência eficiente para recomendação generativa",
+    "url": "https://vllm.ai/blog/2026-11-24-vllm-gr-announcement",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "O vLLM-GR é um trabalho de pesquisa que adapta a infraestrutura de inferência de modelos de linguagem para servir sistemas de recomendação generativa. A proposta é reduzir custo e latência ao rodar recomendações que geram conteúdo sob medida. O tema interessa a equipes de e-commerce e plataformas de personalização que operam em escala. O texto é acadêmico e exige alguma base técnica para ser aproveitado.",
+    "reasonEn": "vLLM-GR is a research effort that adapts language model inference infrastructure to serve generative recommendation systems. The goal is to cut cost and latency when running recommendations that generate content on demand. It matters to e-commerce teams and personalization platforms operating at scale. The piece is academic and assumes some technical background to get value from it.",
+    "score": 0.6,
+    "tags": [
+      "pesquisa",
+      "inferência",
+      "recomendação"
+    ],
+    "img": "img/e51f1d2a8743.jpg",
+    "ts": 1795661221,
+    "addedTs": 1795665073,
+    "urlHash": "e51f1d2a8743",
+    "titleHash": "6e884367889b"
+  },
+  {
+    "title": "Amazon vs. Walmart: Why Retailers Are Split on AI Shopping Agents",
+    "titlePt": "Amazon e Walmart divergem sobre agentes de compra com IA",
+    "url": "https://www.mindstudio.ai/blog/ai-agents-shopping-access-wars",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Amazon e Walmart adotam estratégias opostas para agentes de IA que compram produtos por conta dos clientes. Uma rede aceita a compra automática de forma mais flexível, enquanto a outra exige consentimento explícito antes de finalizar o pedido. O impasse mostra que o setor ainda não define regras para compras automatizadas. Isso afeta...",
+    "reasonEn": "Amazon and Walmart are taking opposite approaches to AI shopping agents that buy products for customers. One retailer accepts automated purchases more readily, while the other demands explicit consent before placing the order. The standoff shows the sector has no settled rules for agent-driven buying. It affects shopping assistants, retailers and anyone automating purchases.",
+    "score": 0.6,
+    "tags": [
+      "agentes",
+      "varejo",
+      "compras"
+    ],
+    "img": "img/402348415ec7.jpg",
+    "ts": 1795660086,
+    "addedTs": 1795665073,
+    "urlHash": "402348415ec7",
+    "titleHash": "18fc7ea303ad"
+  },
+  {
+    "title": "The Comprehensive Guide to Encrypted Inference with Tees",
+    "titlePt": "Guia completo de inferência criptografada em ambientes confiáveis",
+    "url": "https://trynito.ai/blog/encrypted-inference-tees",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Guia detalhado sobre rodar inferência de modelos dentro de ambientes de execução confiável, onde os dados permanecem criptografados durante o processamento. O texto cobre o caminho prático de implantá-lo em serviços de nuvem e os custos de desempenho envolvidos. A abordagem interessa a empresas que não podem enviar dados sensíveis a provedores externos. É material técnico, voltado a quem opera infraestrutura de IA.",
+    "reasonEn": "A detailed guide on running model inference inside trusted execution environments, where data stays encrypted while it is processed. The piece covers the practical path of deploying it on cloud services and the performance costs involved. The approach appeals to companies that cannot send sensitive data to outside providers. It is technical material aimed at people operating AI infrastructure.",
+    "score": 0.65,
+    "tags": [
+      "privacidade",
+      "segurança",
+      "guia"
+    ],
+    "img": "img/5808e505e999.jpg",
+    "ts": 1795656520,
+    "addedTs": 1795665073,
+    "urlHash": "5808e505e999",
+    "titleHash": "dd9fd5874707"
+  },
+  {
+    "title": "Can AI break public key cryptography before Quantum Computers?",
+    "titlePt": "A IA pode quebrar a criptografia de chave pública antes dos quânticos?",
+    "url": "https://www.youtube.com/watch?v=ENhHv_VCDL0",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Artigo discute se o avanço recente em inteligência artificial pode viabilizar ataques a sistemas de chave pública antes da chegada dos computadores quânticos. O texto é especulativo, mas serve como alerta para planejar a migração para algoritmos resistentes a quânticos. A discussão afeta equipes de segurança que definem calendários de troca de criptografia. Nenhuma quebra foi comprovada, o que não muda a recomendação de antecipar a migração.",
+    "reasonEn": "The article examines whether recent AI progress could make attacks on public key systems viable before quantum computers arrive. The piece is speculative, but it works as a warning to plan migration toward post-quantum algorithms. The debate matters to security teams that set cryptography rotation schedules. No break has been demonstrated, which does not change the advice to plan the migration early.",
+    "score": 0.7,
+    "tags": [
+      "criptografia",
+      "segurança",
+      "quântica"
+    ],
+    "img": "img/80cf3e2b51f8.jpg",
+    "ts": 1795655533,
+    "addedTs": 1795665073,
+    "urlHash": "80cf3e2b51f8",
+    "titleHash": "9e54bf112d5b"
+  },
+  {
+    "title": "New research suggests AI bubble bursting and to expect major market collapse",
+    "titlePt": "Pesquisa aponta estouro da bolha da IA e colapso do mercado",
+    "url": "https://www.london.edu/think/ai-bubble-about-to-burst",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Uma pesquisa em circulação sugere que a bolha da IA está no fim e que o mercado pode passar por um colapso maior. O argumento é usado por críticos para dizer que as avaliações estão desconectadas dos usos reais da tecnologia. O texto não representa consenso entre analistas nem uma previsão confirmada. Vale como calibragem de expectativas para quem investe ou planeja carreira no setor.",
+    "reasonEn": "A circulating study suggests the AI bubble is about to burst and that the market could face a larger collapse. Critics use the argument to say valuations are disconnected from real-world uses of the technology. The piece represents no consensus among analysts and no confirmed forecast. It is still useful as expectation setting for anyone investing or planning a career in the sector.",
+    "score": 0.5,
+    "tags": [
+      "mercados",
+      "pesquisa",
+      "bolha"
+    ],
+    "img": "img/6390f5d828e6.jpg",
+    "ts": 1795653510,
+    "addedTs": 1795665073,
+    "urlHash": "6390f5d828e6",
+    "titleHash": "75ed274b8b2b"
+  },
+  {
+    "title": "The AI Layoff Alibi: Capex Cannibalism and the White-Collar Exodus",
+    "titlePt": "O álibi das demissões por IA: canibalismo de investimento e êxodo de pessoal branco",
+    "url": "https://2tinteractive.com/watch/episodes/5717/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "Um artigo questiona a narrativa corporativa de que as demissões seriam resultado de eficiência conquistada com IA. O texto argumenta que o dinheiro investido em infraestrutura de IA está canibalizando o orçamento de outras áreas e criando pretexto para cortar vagas. O debate afeta funcionários administrativos, áreas de suporte e quem negocia planos de transição. É opinião fundamentada, e não um dado oficial de mercado.",
+    "reasonEn": "An article questions the corporate narrative that layoffs are the result of efficiency gains achieved with AI. It argues capital spent on AI infrastructure is cannibalizing budgets elsewhere and creating cover to cut positions. The debate affects white-collar staff, support teams and anyone negotiating transition plans. It is informed opinion rather than an official market statistic.",
+    "score": 0.55,
+    "tags": [
+      "emprego",
+      "investimentos",
+      "análise"
+    ],
+    "img": "img/540c3c7049ef.jpg",
+    "ts": 1795650248,
+    "addedTs": 1795665073,
+    "urlHash": "540c3c7049ef",
+    "titleHash": "b50705001a68"
+  },
+  {
+    "title": "Cloudflare AI Search for Agents",
+    "titlePt": "Busca com IA da Cloudflare para agentes",
+    "url": "https://blog.cloudflare.com/search-for-agents/",
+    "source": "HackerNews",
+    "sources": [
+      "HackerNews"
+    ],
+    "reason": "A Cloudflare anunciou um novo serviço de busca desenhado para agentes de inteligência artificial. A ferramenta permite que sistemas consultem conteúdo da web de forma rápida, com cobrança por uso e controle de acesso por parte do site. O objetivo é atender à demanda por infraestrutura de recuperação de informação para sistemas agênticos. É um lançamento relevante para quem constrói agentes, mas o impacto no usuário comum depende da adoção.",
+    "reasonEn": "Cloudflare announced a new search service built for artificial intelligence agents. It lets systems pull web content quickly, with usage-based billing and site-side access control. The goal is to serve demand for retrieval infrastructure built for agentic systems. It is a meaningful launch for people building agents, while the impact on ordinary users depends on adoption.",
+    "score": 0.8,
+    "tags": [
+      "busca",
+      "agentes",
+      "cloud"
+    ],
+    "img": "img/a9bc069d7df2.jpg",
+    "ts": 1795649146,
+    "addedTs": 1795665073,
+    "urlHash": "a9bc069d7df2",
+    "titleHash": "2f1d158166d3"
+  },
+  {
     "title": "Are we over-optimizing AI SRE agents instead of solving the context problem?",
     "titlePt": "Agentes de IA para operação: estamos otimizando demais?",
     "url": "https://www.elastic.co/observability-labs/blog/elastic-streams-telemetry-pipeline-s3",
